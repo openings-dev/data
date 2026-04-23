@@ -62,8 +62,10 @@ export async function runBuild() {
     });
 
     try {
-      const issues = await githubClient.fetchOpenIssues(repository.repository);
+      const issues = await githubClient.fetchRecentIssues(repository.repository);
       const mapped = issues.map((issue) => mapIssueToOpportunity(issue, repository));
+      const openIssues = mapped.filter((item) => item.issueState === "open").length;
+      const closedIssues = mapped.length - openIssues;
 
       opportunities.push(...mapped);
       byRepository.push({
@@ -71,10 +73,14 @@ export async function runBuild() {
         country: repository.country,
         region: repository.region,
         issues: mapped.length,
+        openIssues,
+        closedIssues,
       });
 
       repositoryLogger.info("repository-processed", {
         opportunities: mapped.length,
+        open_issues: openIssues,
+        closed_issues: closedIssues,
       });
     } catch (error) {
       if (error instanceof RateLimitError) {

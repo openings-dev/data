@@ -21,10 +21,10 @@ export function createGitHubClient(options) {
     /**
      * @param {string} repositoryFullName
      */
-    async fetchOpenIssues(repositoryFullName) {
+    async fetchRecentIssues(repositoryFullName) {
       const url = new URL(`https://api.github.com/repos/${repositoryFullName}/issues`);
-      url.searchParams.set("state", "open");
-      url.searchParams.set("sort", "created");
+      url.searchParams.set("state", "all");
+      url.searchParams.set("sort", "updated");
       url.searchParams.set("direction", "desc");
       url.searchParams.set("per_page", String(maxIssuesPerRepository));
       url.searchParams.set("page", "1");
@@ -63,14 +63,19 @@ export function createGitHubClient(options) {
         return [];
       }
 
+      const issues = payload.filter((issue) => !issue.pull_request);
+      const openCount = issues.filter((issue) => issue.state === "open").length;
+      const closedCount = issues.length - openCount;
+
       logger.info("github-fetch-ok", {
         repository: repositoryFullName,
         duration_ms: Date.now() - startedAt,
-        fetched: payload.length,
+        fetched: issues.length,
+        open: openCount,
+        closed: closedCount,
       });
 
-      return payload.filter((issue) => !issue.pull_request);
+      return issues;
     },
   };
 }
-

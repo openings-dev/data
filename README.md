@@ -5,7 +5,7 @@ Repositório de dados públicos do `openings.dev`.
 Este projeto mantém:
 
 - `src/modules/catalog/repositories.json`: catálogo de repositórios fonte.
-- `snapshots/opportunities.json`: snapshot normalizado de vagas reais (issues abertas do GitHub).
+- `snapshots/opportunities.json`: snapshot normalizado de vagas reais (issues abertas e fechadas do GitHub, ordenadas por atualização).
 
 O front consome o snapshot diretamente, sem backend dedicado.
 
@@ -43,7 +43,7 @@ Princípios aplicados:
 
 1. O workflow `.github/workflows/update-opportunities.yml` roda em cron.
 2. `scripts/build-opportunities.mjs` chama `src/app/run-build.mjs`.
-3. O job consulta os repositórios do catálogo e normaliza as issues abertas.
+3. O job consulta os repositórios do catálogo e normaliza issues abertas/fechadas mais recentes (`state=all`, `sort=updated`).
 4. O snapshot é regravado e commitado apenas quando o `dataHash` muda.
 
 ## Setup
@@ -82,8 +82,10 @@ https://raw.githubusercontent.com/<org>/<repo>/main/snapshots/opportunities.json
 - `dataHash`: hash determinístico do conteúdo funcional.
 - `totals`: estatísticas agregadas.
 - `items`: vagas normalizadas.
-- `byRepository`: contagem por repositório.
+- `byRepository`: contagem por repositório (total, abertas e fechadas).
 - `failedRepositories`: erros não bloqueantes por fonte.
+
+Observação: cada item inclui `contentHash` para detectar alterações de conteúdo (título/descrição) mesmo quando o `excerpt` não muda.
 
 ## Contribuição
 
