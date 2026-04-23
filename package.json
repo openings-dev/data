@@ -1,0 +1,15 @@
+{
+  "name": "openings-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public data pipeline for openings.dev",
+  "scripts": {
+    "build:snapshot": "node scripts/build-opportunities.mjs",
+    "validate": "node scripts/validate-repo.mjs"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
+

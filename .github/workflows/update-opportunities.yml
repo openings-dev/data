@@ -1,0 +1,52 @@
+name: Update Opportunities Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-opportunities-snapshot
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate repository
+        run: npm run validate
+
+      - name: Build opportunities snapshot
+        env:
+          OPENINGS_GITHUB_TOKEN: ${{ secrets.OPENINGS_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          MAX_ISSUES_PER_REPOSITORY: "30"
+          MAX_REPOSITORIES: "0"
+          REQUEST_DELAY_MS: "120"
+        run: npm run build:snapshot
+
+      - name: Commit and push snapshot
+        run: |
+          if git diff --quiet -- snapshots/opportunities.json; then
+            echo "No snapshot changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshots/opportunities.json
+          git commit -m "chore(data): refresh opportunities snapshot"
+          git push
