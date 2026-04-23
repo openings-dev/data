@@ -5,6 +5,13 @@ const DEFAULT_MAX_ISSUES_PER_REPOSITORY = 30;
 const DEFAULT_MAX_REPOSITORIES = 0;
 const DEFAULT_REQUEST_DELAY_MS = 120;
 
+function parseCountryCodes(rawValue) {
+  return String(rawValue ?? "")
+    .split(",")
+    .map((item) => item.trim().toUpperCase())
+    .filter((item, index, all) => item.length > 0 && all.indexOf(item) === index);
+}
+
 export function loadBuildConfig() {
   const rootDir = process.cwd();
 
@@ -12,10 +19,14 @@ export function loadBuildConfig() {
     paths: {
       rootDir,
       repositoriesFile: resolve(rootDir, "src", "modules", "catalog", "repositories.json"),
-      snapshotFile: resolve(rootDir, "snapshots", "opportunities.json"),
+      snapshotRootDir: resolve(rootDir, "snapshots", "opportunities"),
+      legacySnapshotFile: resolve(rootDir, "snapshots", "opportunities.json"),
     },
     github: {
       token: process.env.OPENINGS_GITHUB_TOKEN || process.env.GITHUB_TOKEN || "",
+    },
+    filters: {
+      countryCodes: parseCountryCodes(process.env.COUNTRY_CODES),
     },
     limits: {
       maxIssuesPerRepository: clampInt(

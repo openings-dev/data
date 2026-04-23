@@ -1,11 +1,13 @@
 import { readFile } from "node:fs/promises";
 
 /**
- * @param {string} filePath
+ * @param {string} value
+ * @param {string} fieldName
  */
-async function readJsonFile(filePath) {
-  const content = await readFile(filePath, "utf8");
-  return JSON.parse(content);
+function assertNonEmptyString(value, fieldName) {
+  if (typeof value !== "string" || value.trim().length === 0) {
+    throw new Error(`Invalid catalog repository: ${fieldName} field is required.`);
+  }
 }
 
 /**
@@ -25,9 +27,11 @@ function assertCatalogShape(catalog) {
       throw new Error("Invalid catalog repository: expected object.");
     }
 
-    if (typeof repository.repository !== "string" || repository.repository.length === 0) {
-      throw new Error("Invalid catalog repository: repository field is required.");
-    }
+    assertNonEmptyString(repository.repository, "repository");
+    assertNonEmptyString(repository.country, "country");
+    assertNonEmptyString(repository.countryCode, "countryCode");
+    assertNonEmptyString(repository.region, "region");
+    assertNonEmptyString(repository.url, "url");
   }
 }
 
@@ -35,8 +39,8 @@ function assertCatalogShape(catalog) {
  * @param {string} filePath
  */
 export async function readRepositoryCatalog(filePath) {
-  const catalog = await readJsonFile(filePath);
+  const content = await readFile(filePath, "utf8");
+  const catalog = JSON.parse(content);
   assertCatalogShape(catalog);
   return catalog;
 }
-

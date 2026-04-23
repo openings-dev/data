@@ -4,10 +4,10 @@ Thanks for contributing to `openings-data`.
 
 ## Scope
 
-This repository only stores and updates data assets used by `openings.dev`:
+This repository stores and updates data assets used by `openings.dev`:
 
-- catalog of source repositories;
-- generated opportunities snapshot;
+- source repository catalog;
+- segmented opportunities snapshots;
 - data-generation pipeline scripts and workflows.
 
 ## Local workflow
@@ -20,7 +20,7 @@ This repository only stores and updates data assets used by `openings.dev`:
 npm run validate
 ```
 
-4. Generate snapshot:
+4. Build segmented snapshot:
 
 ```bash
 npm run build:snapshot
@@ -31,5 +31,5 @@ npm run build:snapshot
 - Keep changes focused (catalog update, pipeline change, or docs change).
 - Do not commit secrets.
 - Ensure `npm run validate` passes before opening the PR.
-- If snapshot changes, include it in the PR with the script update that generated it.
-
+- Include changed files under `snapshots/opportunities/**` when snapshot data updates.
+- Do not reintroduce `snapshots/opportunities.json` monolithic file.

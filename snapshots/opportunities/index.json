@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-04-23T16:19:27.787Z",
+  "schemaVersion": 2,
+  "dataHash": "8f2fb583c666f0ce581a1ecc73b5a28f49be21b2a65adbfc79d0c51e340d1785",
+  "catalogGeneratedAt": "2026-04-22",
+  "request": {
+    "maxIssuesPerRepository": 30,
+    "maxRepositories": 0,
+    "requestDelayMs": 120,
+    "usedAuthenticatedRequests": true
+  },
+  "repositoriesRequested": 102,
+  "repositoriesScanned": 102,
+  "totals": {
+    "opportunities": 1435,
+    "uniqueRepositories": 102,
+    "uniqueCountries": 16,
+    "uniqueRegions": 6,
+    "failedRepositories": 0
+  },
+  "failedRepositories": [],
+  "countries": [
+    {
+      "country": "Angola",
+      "countryCode": "AO",
+      "region": "Africa",
+      "opportunities": 47,
+      "repositories": 2,
+      "openIssues": 0,
+      "closedIssues": 47,
+      "indexFile": "countries/ao/index.json"
+    },
+    {
+      "country": "Argentina",
+      "countryCode": "AR",
+      "region": "South America",
+      "opportunities": 30,
+      "repositories": 1,
+      "openIssues": 24,
+      "closedIssues": 6,
+      "indexFile": "countries/ar/index.json"
+    },
+    {
+      "country": "Brazil",
+      "countryCode": "BR",
+      "region": "South America",
+      "opportunities": 1017,
+      "repositories": 52,
+      "openIssues": 358,
+      "closedIssues": 659,
+      "indexFile": "countries/br/index.json"
+    },
+    {
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "North America",
+      "opportunities": 36,
+      "repositories": 7,
+      "openIssues": 2,
+      "closedIssues": 34,
+      "indexFile": "countries/ca/index.json"
+    },
+    {
+      "country": "China",
+      "countryCode": "CN",
+      "region": "Asia",
+      "opportunities": 10,
+      "repositories": 3,
+      "openIssues": 10,
+      "closedIssues": 0,
+      "indexFile": "countries/cn/index.json"
+    },
+    {
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "opportunities": 1,
+      "repositories": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "indexFile": "countries/co/index.json"
+    },
+    {
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "Europe",
+      "opportunities": 6,
+      "repositories": 2,
+      "openIssues": 5,
+      "closedIssues": 1,
+      "indexFile": "countries/de/index.json"
+    },
+    {
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "opportunities": 2,
+      "repositories": 5,
+      "openIssues": 0,
+      "closedIssues": 2,
+      "indexFile": "countries/fr/index.json"
+    },
+    {
+      "country": "Global",
+      "countryCode": "GLOBAL",
+      "region": "Global",
+      "opportunities": 75,
+      "repositories": 10,
+      "openIssues": 29,
+      "closedIssues": 46,
+      "indexFile": "countries/global/index.json"
+    },
+    {
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "region": "Europe",
+      "opportunities": 0,
+      "repositories": 4,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "indexFile": "countries/nl/index.json"
+    },
+    {
+      "country": "Portugal",
+      "countryCode": "PT",
+      "region": "Europe",
+      "opportunities": 47,
+      "repositories": 6,
+      "openIssues": 1,
+      "closedIssues": 46,
+      "indexFile": "countries/pt/index.json"
+    },
+    {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "region": "Asia",
+      "opportunities": 0,
+      "repositories": 1,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "indexFile": "countries/sg/index.json"
+    },
+    {
+      "country": "El Salvador",
+      "countryCode": "SV",
+      "region": "North America",
+      "opportunities": 0,
+      "repositories": 1,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "indexFile": "countries/sv/index.json"
+    },
+    {
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "region": "Asia",
+      "opportunities": 59,
+      "repositories": 2,
+      "openIssues": 23,
+      "closedIssues": 36,
+      "indexFile": "countries/tw/index.json"
+    },
+    {
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "opportunities": 75,
+      "repositories": 4,
+      "openIssues": 11,
+      "closedIssues": 64,
+      "indexFile": "countries/us/index.json"
+    },
+    {
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "region": "Asia",
+      "opportunities": 30,
+      "repositories": 1,
+      "openIssues": 23,
+      "closedIssues": 7,
+      "indexFile": "countries/vn/index.json"
+    }
+  ]
+}

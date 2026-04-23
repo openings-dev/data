@@ -6,10 +6,10 @@
   "description": "Public data pipeline for openings.dev",
   "scripts": {
     "build:snapshot": "node scripts/build-opportunities.mjs",
+    "migrate:snapshot": "node scripts/migrate-opportunities-snapshot.mjs",
     "validate": "node scripts/validate-repo.mjs"
   },
   "engines": {
     "node": ">=20.0.0"
   }
 }
-

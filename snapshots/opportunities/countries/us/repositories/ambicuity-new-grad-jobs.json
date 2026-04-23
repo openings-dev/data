@@ -1,0 +1,523 @@
+{
+  "generatedAt": "2026-04-23T16:19:27.787Z",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "repository": "ambicuity/New-Grad-Jobs",
+  "totals": {
+    "opportunities": 15,
+    "openIssues": 11,
+    "closedIssues": 4
+  },
+  "dataHash": "e1f2f94112f2836079a32748637ef77a0825c996e00038a579340b4880e381d5",
+  "items": [
+    {
+      "id": "ambicuity/New-Grad-Jobs#249",
+      "title": "[Beginner]: add regression tests for artifact integrity failure modes",
+      "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
+      "issueState": "open",
+      "contentHash": "62e698455964e68b72cf2573a85596f7d23ac7052f25af270cd81db9a062a26b",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "beginner"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-10T19:59:24Z",
+      "updatedAt": "2026-04-11T15:56:23Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/249",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#250",
+      "title": "[Good First Issue]: add focused unit tests for publish helper",
+      "excerpt": "### 🆕 Newcomer Friendly This is a **Good First Issue** — a guided, well-scoped task designed for contributors who are new to this repository. #### What you'll do - ✅ Read a small part of the codebase - ✅ Make a focus...",
+      "issueState": "closed",
+      "contentHash": "e12b582089e52c0187d6c1f53becbf46052c63dc087c2c9650214fb6a29f5c15",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "good first issue",
+        "needs-triage",
+        "status: in-progress"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-10T19:59:24Z",
+      "updatedAt": "2026-04-11T01:50:38Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/250",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#248",
+      "title": "[Intermediate]: add deterministic test coverage for evaluate_jobs sidecar",
+      "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
+      "issueState": "open",
+      "contentHash": "49937d3f1487ccd1ea8ed9d69a95e88170a71bdc138e6b3e96c685494c9e942e",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "intermediate"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-10T19:59:24Z",
+      "updatedAt": "2026-04-10T20:28:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/248",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#246",
+      "title": "[Feature]: add backend/frontend location taxonomy contract checks to prevent filter drift",
+      "excerpt": "### Problem Location semantics are maintained in multiple places (`scripts/update_jobs.py` and `docs/app.js`). These can drift independently, leading to inconsistent filtering UX (backend accepts values that UI cannot...",
+      "issueState": "open",
+      "contentHash": "6c7b225865626a5aa0da277ce83eeede164175142105d22cd31427472cc5d230",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-08T15:03:55Z",
+      "updatedAt": "2026-04-08T15:10:03Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/246",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#245",
+      "title": "[Feature]: add publish-time URL safety validation for jobs artifact output",
+      "excerpt": "### Problem The pipeline validates schema/contracts but does not enforce a strict publish-time URL safety gate before writing `docs/jobs.json`. Unsafe or malformed links (non-http schemes, localhost/private-network ta...",
+      "issueState": "open",
+      "contentHash": "ad4775ddc1d49d6fbddec06f80048ce3e191f8b955fcc0cac53e300bb1313a41",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "intermediate"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-08T15:03:08Z",
+      "updatedAt": "2026-04-08T15:08:32Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/245",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#244",
+      "title": "[Feature]: canonicalize job URLs before deduplication and job_id generation",
+      "excerpt": "### Problem Deduplication and `job_id` generation currently depend on raw URLs. Equivalent listings often differ only by tracking/query variants (for example `gh_jid`, UTM params, reordered query strings), which can p...",
+      "issueState": "open",
+      "contentHash": "f22ff096afaba697db232317022085b8f714a36539c8488160547d6e5d7ba944",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "needs-triage",
+        "enhancement"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-08T15:02:48Z",
+      "updatedAt": "2026-04-08T15:08:41Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/244",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#206",
+      "title": "🚨 Board is stale — scraper may have stopped",
+      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-03-18T01:05:29Z` | | Stale for | 93 ...",
+      "issueState": "open",
+      "contentHash": "b8a145091306575e3e6dc7232437c1eb8f3ad4b3dc606ae397a16153b7c1f3e8",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "status: in-progress",
+        "priority: critical",
+        "automation",
+        "testing"
+      ],
+      "author": {
+        "id": "github-actions[bot]",
+        "name": "github-actions[bot]",
+        "handle": "github-actions[bot]",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-18T02:39:20Z",
+      "updatedAt": "2026-04-21T04:51:23Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/206",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#170",
+      "title": "[Intermediate]: filter out non-engineering 'network' roles that leak into the board",
+      "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
+      "issueState": "closed",
+      "contentHash": "89d0a3f6739dc7a0ea691aa5ccc8f1abd79007086824762358c97bd3d714af21",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "needs-triage",
+        "status: in-progress",
+        "intermediate",
+        "awaiting-response"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-14T05:28:09Z",
+      "updatedAt": "2026-04-10T19:45:20Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/170",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#169",
+      "title": "[Beginner]: expand infrastructure keyword coverage for network automation, NOC, and network performance roles",
+      "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
+      "issueState": "open",
+      "contentHash": "8804e7bb218c2d2892931099b2ad566d632b96b802c7c9e774f7176012dc9d21",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "beginner"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-14T05:28:08Z",
+      "updatedAt": "2026-04-11T02:37:48Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/169",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#157",
+      "title": "[aw] Daily Test Improver failed",
+      "excerpt": "### Workflow Failure **Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md) **Branch:** main **Run:** https://github....",
+      "issueState": "open",
+      "contentHash": "833a658253d80e70bfd7301e1899cdce70cbad548fb00d642a53d72c70b554ff",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "stale",
+        "priority: high",
+        "agentic-workflows",
+        "automation",
+        "testing"
+      ],
+      "author": {
+        "id": "github-actions[bot]",
+        "name": "github-actions[bot]",
+        "handle": "github-actions[bot]",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-12T05:18:42Z",
+      "updatedAt": "2026-04-13T05:18:59Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/157",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#148",
+      "title": "[Test 2] E2E Agent Triage Verification",
+      "excerpt": "The Greenhouse API is failing with 500 errors for Verkada. We need to investigate the scraper script.",
+      "issueState": "open",
+      "contentHash": "dffb810cbfb37d74a93fd4212b3e265563a0f1af0b6203bf75d0abd07df385e1",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "stale"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-10T21:28:00Z",
+      "updatedAt": "2026-04-10T04:50:19Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/148",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#147",
+      "title": "[aw] Issue Triage Agent — New Grad Jobs failed",
+      "excerpt": "### Workflow Failure **Workflow:** [Issue Triage Agent — New Grad Jobs](#) **Branch:** main **Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22924672157 ### Action Required **Option 1: Debug using any ...",
+      "issueState": "open",
+      "contentHash": "6f513f6812893d5f30a9da29039ebab8b69ef579a6223ff25703b6fa70ae2bc6",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "status: in-progress",
+        "stale",
+        "priority: high",
+        "agentic-workflows"
+      ],
+      "author": {
+        "id": "github-actions[bot]",
+        "name": "github-actions[bot]",
+        "handle": "github-actions[bot]",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-10T21:18:42Z",
+      "updatedAt": "2026-04-10T04:50:20Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/147",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#145",
+      "title": "[Test] Agent Routing Verification",
+      "excerpt": "/fleet @scraper-expert Where is the workday payload generated?",
+      "issueState": "open",
+      "contentHash": "43336128cf67acb80f777df8b0df557ae64c679108c85ae239e742181b2b0e28",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "stale"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-10T21:00:18Z",
+      "updatedAt": "2026-04-10T04:50:21Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/145",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#24",
+      "title": "[Intermediate]: Expand test_config.py to cover filter_jobs, categorize_job, and deduplicate_jobs logic",
+      "excerpt": "### Contributor Level This is an intermediate issue. You need to understand how to write Python tests against functions that have no external dependencies, and how to read existing functions carefully enough to design...",
+      "issueState": "closed",
+      "contentHash": "51c993cc659ea1dc483d89d46b7f161678d45a157c36b74d211dbf49d4316807",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "stale"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-02T20:13:06Z",
+      "updatedAt": "2026-04-17T04:52:19Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/24",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "ambicuity/New-Grad-Jobs#23",
+      "title": "[Intermediate]: Replace bare except clauses in date parsing functions with explicit exception types",
+      "excerpt": "### Contributor Level This is an intermediate issue. You need to understand how Python exception handling works and be comfortable reading a function end-to-end before making changes. You do not need to run the scrape...",
+      "issueState": "closed",
+      "contentHash": "94362d5e7435df153b55415f56b0522a01d8c8f0136886e8b2848ad1d034fb5a",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "type: enhancement",
+        "stale"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-02T20:12:28Z",
+      "updatedAt": "2026-04-17T04:52:20Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/23",
+      "sourceType": "github-issue"
+    }
+  ]
+}

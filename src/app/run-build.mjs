@@ -1,37 +1,24 @@
 import { loadBuildConfig } from "../config/env.mjs";
+import { selectRepositories } from "../modules/build/select-repositories.mjs";
+import { collectCountryResults } from "../modules/build/collect-country-results.mjs";
 import { readRepositoryCatalog } from "../modules/catalog/catalog-repository.mjs";
 import { createGitHubClient } from "../modules/github/github-client.mjs";
 import { createLogger } from "../modules/observability/logger.mjs";
-import {
-  mapIssueToOpportunity,
-  sortOpportunitiesByDate,
-} from "../modules/opportunities/opportunity-mapper.mjs";
-import {
-  buildSnapshot,
-  hasSnapshotChanged,
-} from "../modules/snapshot/snapshot-builder.mjs";
-import {
-  readPreviousSnapshot,
-  writeSnapshot,
-} from "../modules/snapshot/snapshot-writer.mjs";
-import { sleep } from "../shared/utils/time.mjs";
-import { RateLimitError } from "../shared/errors/rate-limit-error.mjs";
+import { prepareSegmentedSnapshot } from "../modules/snapshot/prepare-segmented-snapshot.mjs";
+import { writeSegmentedSnapshot } from "../modules/snapshot/write-segmented-snapshot.mjs";
 
 export async function runBuild() {
   const config = loadBuildConfig();
   const logger = createLogger({ component: "snapshot-builder" });
-
   const catalog = await readRepositoryCatalog(config.paths.repositoriesFile);
-  const allRepositories = catalog.repositories;
-  const repositories =
-    config.limits.maxRepositories > 0
-      ? allRepositories.slice(0, config.limits.maxRepositories)
-      : allRepositories;
+  const repositories = selectRepositories({
+    repositories: catalog.repositories,
+    maxRepositories: config.limits.maxRepositories,
+    countryCodes: config.filters.countryCodes,
+  });
 
   if (repositories.length === 0) {
-    throw new Error(
-      `No repositories found in catalog file: ${config.paths.repositoriesFile}.`,
-    );
+    throw new Error(`No repositories found after filters in ${config.paths.repositoriesFile}.`);
   }
 
   logger.info("build-started", {
@@ -39,6 +26,7 @@ export async function runBuild() {
     max_issues_per_repository: config.limits.maxIssuesPerRepository,
     request_delay_ms: config.limits.requestDelayMs,
     authenticated_requests: Boolean(config.github.token),
+    country_filter: config.filters.countryCodes,
   });
 
   const githubClient = createGitHubClient({
@@ -47,113 +35,40 @@ export async function runBuild() {
     logger: logger.child({ module: "github" }),
   });
 
-  /** @type {Array<Record<string, unknown>>} */
-  const opportunities = [];
-  /** @type {Array<{ repository: string; country: string; region: string; issues: number }>} */
-  const byRepository = [];
-  /** @type {Array<{ repository: string; error: string }>} */
-  const failedRepositories = [];
+  const results = await collectCountryResults({
+    repositories,
+    githubClient,
+    requestDelayMs: config.limits.requestDelayMs,
+    logger,
+  });
 
-  for (let index = 0; index < repositories.length; index += 1) {
-    const repository = repositories[index];
-    const repositoryLogger = logger.child({
-      repository: repository.repository,
-      progress: `${index + 1}/${repositories.length}`,
-    });
-
-    try {
-      const issues = await githubClient.fetchRecentIssues(repository.repository);
-      const mapped = issues.map((issue) => mapIssueToOpportunity(issue, repository));
-      const openIssues = mapped.filter((item) => item.issueState === "open").length;
-      const closedIssues = mapped.length - openIssues;
-
-      opportunities.push(...mapped);
-      byRepository.push({
-        repository: repository.repository,
-        country: repository.country,
-        region: repository.region,
-        issues: mapped.length,
-        openIssues,
-        closedIssues,
-      });
-
-      repositoryLogger.info("repository-processed", {
-        opportunities: mapped.length,
-        open_issues: openIssues,
-        closed_issues: closedIssues,
-      });
-    } catch (error) {
-      if (error instanceof RateLimitError) {
-        logger.error("build-aborted-rate-limit", {
-          repository: repository.repository,
-          retry_after_seconds: error.retryAfterSeconds,
-          reset_at: error.resetAt,
-        });
-        throw error;
-      }
-
-      const message = error instanceof Error ? error.message : "Unknown error";
-      failedRepositories.push({
-        repository: repository.repository,
-        error: message,
-      });
-
-      repositoryLogger.warn("repository-failed", {
-        error: message,
-      });
-    }
-
-    if (config.limits.requestDelayMs > 0 && index < repositories.length - 1) {
-      await sleep(config.limits.requestDelayMs);
-    }
+  if (results.repositoriesScanned === 0 && results.failedRepositories.length > 0) {
+    throw new Error("No repositories were processed successfully. Snapshot update aborted.");
   }
 
-  const sortedOpportunities = sortOpportunitiesByDate(opportunities);
-
-  if (byRepository.length === 0 && failedRepositories.length > 0) {
-    throw new Error(
-      "No repositories were processed successfully. Snapshot update aborted.",
-    );
-  }
-
-  const previousSnapshot = await readPreviousSnapshot(config.paths.snapshotFile);
-  const snapshot = buildSnapshot({
+  const snapshot = prepareSegmentedSnapshot({
+    snapshotRootDir: config.paths.snapshotRootDir,
+    generatedAt: new Date().toISOString(),
     catalogGeneratedAt: catalog.generatedAt ?? null,
-    opportunities: sortedOpportunities,
-    byRepository,
-    failedRepositories,
-    repositoriesRequested: repositories.length,
-    repositoriesScanned: byRepository.length,
     request: {
       maxIssuesPerRepository: config.limits.maxIssuesPerRepository,
       maxRepositories: config.limits.maxRepositories,
       requestDelayMs: config.limits.requestDelayMs,
       usedAuthenticatedRequests: Boolean(config.github.token),
+      countryCodes: config.filters.countryCodes,
     },
+    repositoriesRequested: repositories.length,
+    repositoriesScanned: results.repositoriesScanned,
+    failedRepositories: results.failedRepositories,
+    countries: results.countries,
   });
 
-  if (!hasSnapshotChanged(previousSnapshot, snapshot)) {
-    logger.info("build-no-changes", {
-      opportunities: sortedOpportunities.length,
-      repositories_scanned: byRepository.length,
-    });
-    return {
-      updated: false,
-      snapshot,
-    };
-  }
-
-  await writeSnapshot(config.paths.snapshotFile, snapshot);
-
-  logger.info("build-updated", {
-    opportunities: sortedOpportunities.length,
-    repositories_scanned: byRepository.length,
-    failed_repositories: failedRepositories.length,
-    snapshot_file: config.paths.snapshotFile,
+  const writeResult = await writeSegmentedSnapshot(snapshot);
+  logger.info(writeResult.updated ? "build-updated" : "build-no-changes", {
+    repositories_scanned: results.repositoriesScanned,
+    failed_repositories: results.failedRepositories.length,
+    changed_files: writeResult.changedFiles.length,
   });
 
-  return {
-    updated: true,
-    snapshot,
-  };
+  return { updated: writeResult.updated, snapshot: snapshot.globalIndex.payload };
 }

@@ -1,74 +1,55 @@
 import { normalizeText } from "../../shared/utils/text.mjs";
+import { detectSalaryPeriod } from "./salary/detect-period.mjs";
+import { parseAmount } from "./salary/parse-amount.mjs";
+import { parseCurrency } from "./salary/parse-currency.mjs";
 
-function parseCurrency(token, repository) {
-  const normalized = String(token ?? "").toUpperCase();
+const RANGE_PATTERN =
+  /(R\$|US\$|USD|BRL|EUR|CAD|€|\$|£)\s*([0-9][0-9.,\s]*[kKmM]?)\s*(?:-|–|—|to|a|até)\s*(?:R\$|US\$|USD|BRL|EUR|CAD|€|\$|£)?\s*([0-9][0-9.,\s]*[kKmM]?)/i;
+const SINGLE_PATTERN =
+  /(?:salary|sal[aá]rio|compensation|pay|faixa)[^\dRUSBECAD€$£]{0,24}(R\$|US\$|USD|BRL|EUR|CAD|€|\$|£)\s*([0-9][0-9.,\s]*[kKmM]?)/i;
 
-  if (normalized === "R$" || normalized === "BRL") {
-    return "BRL";
+function parseRangeSalary(content, repository) {
+  const rangeMatch = content.match(RANGE_PATTERN);
+
+  if (!rangeMatch) {
+    return undefined;
   }
 
-  if (normalized === "€" || normalized === "EUR") {
-    return "EUR";
+  const currency = parseCurrency(rangeMatch[1], repository);
+  const min = parseAmount(rangeMatch[2]);
+  const max = parseAmount(rangeMatch[3]);
+
+  if (!currency || !min || !max) {
+    return undefined;
   }
 
-  if (normalized === "£" || normalized === "GBP") {
-    return "GBP";
-  }
-
-  if (normalized === "CAD") {
-    return "CAD";
-  }
-
-  if (normalized === "USD" || normalized === "US$") {
-    return "USD";
-  }
-
-  if (normalized === "$") {
-    if (repository.countryCode === "CA") {
-      return "CAD";
-    }
-
-    if (repository.countryCode === "BR") {
-      return "BRL";
-    }
-
-    return "USD";
-  }
-
-  return null;
+  return {
+    currency,
+    min: Math.min(min, max),
+    max: Math.max(min, max),
+    period: detectSalaryPeriod(content),
+  };
 }
 
-function parseAmount(rawValue) {
-  const value = String(rawValue ?? "").trim().toLowerCase();
-  const hasK = value.endsWith("k");
-  const hasM = value.endsWith("m");
-  const base = value.replace(/[km]$/, "").replace(/\s+/g, "");
-  const standardized = base
-    .replace(/\.(?=\d{3}(\D|$))/g, "")
-    .replace(/,(?=\d{3}(\D|$))/g, "")
-    .replace(",", ".");
-  const parsed = Number.parseFloat(standardized);
+function parseSingleSalary(content, repository) {
+  const singleMatch = content.match(SINGLE_PATTERN);
 
-  if (!Number.isFinite(parsed)) {
-    return null;
+  if (!singleMatch) {
+    return undefined;
   }
 
-  const multiplier = hasM ? 1_000_000 : hasK ? 1_000 : 1;
-  return Math.round(parsed * multiplier);
-}
+  const currency = parseCurrency(singleMatch[1], repository);
+  const amount = parseAmount(singleMatch[2]);
 
-function detectSalaryPeriod(text) {
-  const lower = text.toLowerCase();
-
-  if (/(hour|hr|hora|\/h)/i.test(lower)) {
-    return "hour";
+  if (!currency || !amount) {
+    return undefined;
   }
 
-  if (/(month|monthly|mês|mes|\/m)/i.test(lower)) {
-    return "month";
-  }
-
-  return "year";
+  return {
+    currency,
+    min: amount,
+    period: detectSalaryPeriod(content),
+  };
 }
 
 /**
@@ -77,43 +58,5 @@ function detectSalaryPeriod(text) {
  */
 export function parseSalary(text, repository) {
   const content = normalizeText(text);
-
-  const rangeMatch = content.match(
-    /(R\$|US\$|USD|BRL|EUR|CAD|€|\$|£)\s*([0-9][0-9.,\s]*[kKmM]?)\s*(?:-|–|—|to|a|até)\s*(?:R\$|US\$|USD|BRL|EUR|CAD|€|\$|£)?\s*([0-9][0-9.,\s]*[kKmM]?)/i,
-  );
-
-  if (rangeMatch) {
-    const currency = parseCurrency(rangeMatch[1], repository);
-    const min = parseAmount(rangeMatch[2]);
-    const max = parseAmount(rangeMatch[3]);
-
-    if (currency && min && max) {
-      return {
-        currency,
-        min: Math.min(min, max),
-        max: Math.max(min, max),
-        period: detectSalaryPeriod(content),
-      };
-    }
-  }
-
-  const singleMatch = content.match(
-    /(?:salary|sal[aá]rio|compensation|pay|faixa)[^\dRUSBECAD€$£]{0,24}(R\$|US\$|USD|BRL|EUR|CAD|€|\$|£)\s*([0-9][0-9.,\s]*[kKmM]?)/i,
-  );
-
-  if (singleMatch) {
-    const currency = parseCurrency(singleMatch[1], repository);
-    const amount = parseAmount(singleMatch[2]);
-
-    if (currency && amount) {
-      return {
-        currency,
-        min: amount,
-        period: detectSalaryPeriod(content),
-      };
-    }
-  }
-
-  return undefined;
+  return parseRangeSalary(content, repository) || parseSingleSalary(content, repository);
 }
-
