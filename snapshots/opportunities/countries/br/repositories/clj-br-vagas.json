@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T00:43:12.783Z",
+  "generatedAt": "2026-04-24T01:57:24.719Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,11 +9,12 @@
     "openIssues": 4,
     "closedIssues": 4
   },
-  "dataHash": "9becffb493286e47640fb1b360643ef7ed957e94f5ce8aed6012c164ba5029ec",
+  "dataHash": "3753125ccc7c9a88a002c118c1f4903db799ba2a111a2d6d77826eef34328fcb",
   "items": [
     {
       "id": "clj-br/vagas#14",
       "title": "Desenvolvedor Clojure Jr/Pl",
+      "description": "A GlobalTI, há mais de 20 anos no mercado de tecnologia de informação atendendo grandes empresas em todo o território nacional.\n\nExperiencia com Desenvolvimento em Clojure;\nCom utilização de linguagens: (React + Next Js typescript);\n\nAtuação Remota para o todo o estado de São Paulo, mas com idas presenciais(Região da Paulista) em eventos por ser uma Instituição Financeira(banco digital)\n\nModelo CLT\n\nInteressado ou com indicação, envie CV para washington@globalti.com.br",
       "excerpt": "A GlobalTI, há mais de 20 anos no mercado de tecnologia de informação atendendo grandes empresas em todo o território nacional. Experiencia com Desenvolvimento em Clojure; Com utilização de linguagens: (React + Next J...",
       "issueState": "open",
       "contentHash": "562d32c6c844b16ec08e56f2053e3cc8dfe142168fbae8ec10704e41357b7c70",
@@ -46,6 +47,7 @@
     {
       "id": "clj-br/vagas#13",
       "title": "Technical Writer na Croct - Remoto",
+      "description": "**Excellent documentation begins with incredible people.**\n\n\nIf you work with technical documents for the engineering team and look for a startup with global potential, you'll like what we are offering for you.As a Technical Writer, you'll be responsible for translating ideas and technical information into intuitive and straightforward content. You'll work close to technology, product, design, and marketing teams, as well as Croct's founders.\n\n\n\nAs part of the job, you will:\n> Ensure the delivery of ambitious projects with a significant impact on the business while working side-by-side with the Croct's founders.\n> Plan, design, and keep the documentation updated for new and existing products\n> Write and publish releases for developers.\n> Understand customer needs and incoporate feedback into the documentation\n> Ensure consistency of Croct's brand voice across all touchpoints.\n> Write concise and easy-to-read English texts to guide the user through the documentation.\n> Disseminate the documentation culture within the engineering team.\n\n\nWe are seeking:\n> English fluency\n> Experience with technical documentation production for the technology field.\n> Interest in in-depth investigations for different subjects, to be able to translate abstract concepts into concise and accessible texts.\n> Ability to communicate concepts visually, using graphics, diagrams, and othe visual aids.\n> Ability to work with technology team.\n> Experience with Javascript, Markdown, HTML and versioning tools (GitHub)\n\n\nWe are offering:\n> Competitive salary\n> Outsourced work\n> Freedom to work anywhere\n> Flexible working hours\n> Growth opportunity in a startup with potential global scale\n> Flexibility to work with the stack of your choice\n> Work side-by-side with the founders and an incredible team\n> Freedom to work and contribute to open source projects\n\nhttps://croct.com/\n\nInteressados enviar CV para jobs@croct.com",
       "excerpt": "**Excellent documentation begins with incredible people.** If you work with technical documents for the engineering team and look for a startup with global potential, you'll like what we are offering for you.As a Tech...",
       "issueState": "open",
       "contentHash": "fb24d38c9678366e7d7746c29a325541f03a170adf78d0851b921f515b3ddd9b",
@@ -79,6 +81,7 @@
     {
       "id": "clj-br/vagas#12",
       "title": "Engenheiro(a) de Software",
+      "description": "- vaga recusada -",
       "excerpt": "- vaga recusada -",
       "issueState": "closed",
       "contentHash": "67d964561ee90439e1cfbf2cb7030c82bab84c35f0c4b5506d08ede0d88443c9",
@@ -108,6 +111,7 @@
     {
       "id": "clj-br/vagas#7",
       "title": "Vagas da Pipo Saúde com localização incorreta",
+      "description": "Ao que parece o job board da Pipo Saúde (https://pipo-saude.breezy.hr/), usa Polyglot (https://airbnb.io/polyglot.js/) para lidar com traduções, o que faz com que alguns textos apareçam não traduzidos se o JS não for executado na página, o que faz com que a localização da vaga apareça como `%LABEL_POSITION_TYPE_WORLDWIDE%`.",
       "excerpt": "Ao que parece o job board da Pipo Saúde (https://pipo-saude.breezy.hr/), usa Polyglot (https://airbnb.io/polyglot.js/) para lidar com traduções, o que faz com que alguns textos apareçam não traduzidos se o JS não for ...",
       "issueState": "open",
       "contentHash": "ba1fea8a750d484a063a9daeefbe069f43ce7e5d5895b4c29e7a2d3770a8f3be",
@@ -140,6 +144,7 @@
     {
       "id": "clj-br/vagas#6",
       "title": "Vagas da Nubank parecem vir com vagas que não são Clojure",
+      "description": "Algumas vagas de infosec e outras de dados parecem não ser propriamente Clojure, o que pode criar ruído para pessoas que procuram vagas específicas para Clojure. Ainda precisamos discutir o que é possível de ser feito.",
       "excerpt": "Algumas vagas de infosec e outras de dados parecem não ser propriamente Clojure, o que pode criar ruído para pessoas que procuram vagas específicas para Clojure. Ainda precisamos discutir o que é possível de ser feito.",
       "issueState": "open",
       "contentHash": "b77ad83c71b2bcb74a4a6d5623fe762775c6adbdf6332b330f9b67e23be8ccd1",
@@ -172,6 +177,7 @@
     {
       "id": "clj-br/vagas#5",
       "title": "Usar cronjob ao invés de rodar o workflow manualmente",
+      "description": "Eu normalmente rodo o workflow que atualiza as vagas entre 7 e 15 dias, mas há vezes em que eu esqueço e acaba por ficar desatualizado mais tempo que o necessário. Adicionar a possibilidade de rodar esse workflow de forma automatizada usando um cronjob deve resolver o problema.\n\nReferências:\n* https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows#scheduled-events",
       "excerpt": "Eu normalmente rodo o workflow que atualiza as vagas entre 7 e 15 dias, mas há vezes em que eu esqueço e acaba por ficar desatualizado mais tempo que o necessário. Adicionar a possibilidade de rodar esse workflow de f...",
       "issueState": "closed",
       "contentHash": "64550b1f4f7b4f7f8bb24e8391614f2016a119143f54d813c65aec78f31b0517",
@@ -204,6 +210,7 @@
     {
       "id": "clj-br/vagas#4",
       "title": "[K2 Partnering] Clojure Backend Developer - Atuação 100% remota - Atuação em cliente americano, maior fabricante mundial de eletrodomésticos",
+      "description": "Oi!\nTudo bem? :)\n\nSou Tech Recruiter na K2 Partnering, consultoria de R&S focada em TI - somos britânicos, nossa sede fica em Londres, estamos em 19 países, há mais de 20 anos, sendo 10 só no Brasil.\n\nTemos posições em um dos nossos clientes, com atuação 100% remota.\n\n**. Cliente:** Maior fabricante mundial de eletrodomésticos sediada na cidade de Benton Harbor, no estado de Michigan, nos Estados Unidos. \n**. Vaga:** Clojure Backend Developer\n**. Localidade:** 100% Remoto durante a pandemia, posteriormente modelo a ser decidido pelo cliente\n**. Modalidade:** PJ, parceria com a K2 Partnering\n**. Tempo de duração do projeto:** 6 meses + chances de renovação\n\n**Pré-requisitos:**\n● Experiência sênior em desenvolvimento de backend\n● Experiência em construir e dar manutenção em sistemas complexos\n● Linguagem: Clojure e programação funcional de maneira geral para resolver problemas não triviais\n● Experiência com sistemas em nuvem\n● Mensuração, análise e resolução de problemas em ambientes complexos\n● Inglês avançado/fluente para comunicação, pois o time de produto e técnico fica no Estados Unidos e a comunicação com eles é quase diária\n\nDiferenciais:\n● Experiência com Clojure em ambiente produtivo anteriormente\n● Trabalhado especificamente com AWS e AWS ECS\n\n**Um pouco sobre a área:**\n\nA área de TI para Marketing é responsável por construir as soluções digitais mais inovadoras atendendo clientes cada vez mais exigentes, está em busca de um Dev para trabalhar com o lançamento de um novo produto digital.\n\nOs principais desafios desta posição são: ser responsável pelo desenvolvimento de APIs backend, otimizar base de dados para garantir escalabilidade, gerenciar a infraestrutura do nosso produto digital e efetuar análises técnicas, diagnósticos de problemas e trabalhar muito próximo do time técnico e de desenvolvimento de produto dos EUA.\n\nTem interesse ou indicações? Me procura! :)\n\n**Natasha Costa**\nAssociate Technical Recruiter at **K2 Partnering Solutions**\nncosta@k2partnering.com\n+55 (11) 99820-6781 (whatsapp)",
       "excerpt": "Oi! Tudo bem? :) Sou Tech Recruiter na K2 Partnering, consultoria de R&S focada em TI - somos britânicos, nossa sede fica em Londres, estamos em 19 países, há mais de 20 anos, sendo 10 só no Brasil. Temos posições em ...",
       "issueState": "closed",
       "contentHash": "51c66c4ccadcf1466d504716a4790dfd420469d733ff7f0b56cc38df90ada142",
@@ -236,6 +243,7 @@
     {
       "id": "clj-br/vagas#1",
       "title": "Captalys",
+      "description": "Gostaria de adicionar a Captalys na lista.\nApesar de não ter nenhuma vaga específica para programadores Clojure é uma habilidade que estamos sempre procurando pois usamos muito.\nA empresa aceita trabalho remoto e se localiza em São Paulo-SP\n\nA lista completa de vagas de emprego pra captalys pode ser encontrada aqui: https://captalys.gupy.io/",
       "excerpt": "Gostaria de adicionar a Captalys na lista. Apesar de não ter nenhuma vaga específica para programadores Clojure é uma habilidade que estamos sempre procurando pois usamos muito. A empresa aceita trabalho remoto e se l...",
       "issueState": "closed",
       "contentHash": "9b1a23e229ee5b0500402a80e37145ba43b3947eefc0d1504e1f47aec6a5074f",
