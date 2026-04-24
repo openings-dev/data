@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "items": {
     "gh_19d9edf7d6ba67157e1e98b0": {
       "id": "gh_19d9edf7d6ba67157e1e98b0",
+      "sourceId": "ambicuity/New-Grad-Jobs#206",
       "title": "🚨 Board is stale — scraper may have stopped",
       "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-03-18T01:05:29Z` |\n| Stale for | 93 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
       "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-03-18T01:05:29Z` | | Stale for | 93 ...",
@@ -35,11 +36,11 @@
       "createdAt": "2026-03-18T02:39:20Z",
       "updatedAt": "2026-04-21T04:51:23Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/206",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#206"
+      "sourceType": "github-issue"
     },
     "gh_19804053379c1103d9556d8f": {
       "id": "gh_19804053379c1103d9556d8f",
+      "sourceId": "DevComputaria/CangaceiroDevVagas#197",
       "title": "ANALISTA DESENVOLVEDOR PYTHON  ",
       "description": "WAYON - https://wayon.global/ - CONTRATA \n \nANALISTA DESENVOLVEDOR PYTHON  \n \nNÍVEL: SÊNIOR  \n \nREGIME DE CONTRATAÇÃO: PJ  \n \nMODELO DE TRABALHO: Híbrido 2 dias no escritório do cliente situado no Bairro Baeta Neves na cidade de São Bernardo do Campo - SP  \n \nHORÁRIO: 8:00h ~18:00h (Obrigatório ter disponibilidade full time para o cliente nesse horário) \n \nPERÍODO: 12 meses \n \nREQUISITOS OBRIGATÓRIOS: \n \nObrigatório: Inglês avançado ou fluente para conversação com o time localizado na França, no Egito e na China); \nSólido conhecimento e experiência em python e bibliotecas, R, SQL, Banco de Dados Access e web scraping; \nModelagem e Design de Dados – descobrir, analisar, representar modelo de dados com finalidade específica (projeto) \nExperiência em backend & modelagens, visando outputs específicos para o negócio. \nCapacidade de estruturar e armazenar dados para usos tais como, entre outros: análise, machine learning, mineração de dados e compartilhamento com aplicativos específicos. \n \nREQUISITOS NÃO OBRIGATÓRIOS (GRANDE DIFERENCIAL DA POSIÇÃO) \n \nDesejável experiência com ferramentas de ML; \nDesejável conhecimento em ETL, Qlik Sense ou similar; \nDesejável contato com soluções AWS ou Google , Azure, tendo a maior volumetria atualmente na AWS e Google; \n \nATIVIDADE DA FUNÇÃO: \n \nTrabalhar na análise e no desenvolvimento de web scraping, automatizações e reports; \n \nInteressados com o perfil aderente a vaga ou indicações, por favor, encaminhar o CV, TAXA e DISPONIBILIDADE para: \n \nDennis.kumagai@wayon.global",
       "excerpt": "WAYON - https://wayon.global/ - CONTRATA ANALISTA DESENVOLVEDOR PYTHON NÍVEL: SÊNIOR REGIME DE CONTRATAÇÃO: PJ MODELO DE TRABALHO: Híbrido 2 dias no escritório do cliente situado no Bairro Baeta Neves na cidade de São...",
@@ -70,11 +71,11 @@
       "createdAt": "2024-05-20T00:27:45Z",
       "updatedAt": "2024-05-20T00:27:45Z",
       "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/197",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#197"
+      "sourceType": "github-issue"
     },
     "gh_1962675ec0103afe3b5050aa": {
       "id": "gh_1962675ec0103afe3b5050aa",
+      "sourceId": "reactrecife/vagas#4",
       "title": "[Recife/PE] Frontend Software Engineer | Hent",
       "description": "### Frontend Software Engineer | Hent\n\n#### Descrição da vaga\n\nEstamos procurando desenvolvedores plenos/seniors para ser o segundo integrante de nossa equipe de desenvolvimento e dar início a nossa stack de frontend.\n\nSomos uma empresa nascente que apesar de pouco tempo vida sonha muito alto e já conseguiu muito: fomos investidos pelo YCombinator, a maior aceleradora de Startups do mundo (acelerou Airbnb, Stripe, Dropbox, Rappi). Formada por três sócios experientes e com sucesso no passado que já tiveram outras startups vendidas para grandes empresas brasileiras (Itaú, Sympla e Loggi). Na Hent, você irá encontrar um ambiente legal de se trabalhar e ao mesmo tempo desafiador, onde você ajudará a definir a cultura e os próximos passos da empresa.\n\n#### Cidade\n\nRecife - PE\n\n#### Contrato\n\nCLT, Salário compatível com o mercado \n\n#### Contato\nSe interessou pelo que leu, mande suas informações por aqui: https://forms.gle/SPeBQhjU2hifcBEV7\n\nPara mais informações sobre a oportunidade: https://bit.ly/frontend-hent",
       "excerpt": "### Frontend Software Engineer | Hent #### Descrição da vaga Estamos procurando desenvolvedores plenos/seniors para ser o segundo integrante de nossa equipe de desenvolvimento e dar início a nossa stack de frontend. S...",
@@ -105,8 +106,7 @@
       "createdAt": "2020-05-05T23:10:56Z",
       "updatedAt": "2020-05-05T23:10:56Z",
       "url": "https://github.com/reactrecife/vagas/issues/4",
-      "sourceType": "github-issue",
-      "sourceId": "reactrecife/vagas#4"
+      "sourceType": "github-issue"
     }
   }
 }

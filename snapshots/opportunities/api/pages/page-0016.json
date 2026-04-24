@@ -1,51 +1,609 @@
 {
-  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "page": 16,
   "pageSize": 20,
   "nextPage": "api/pages/page-0017.json",
   "ids": [
-    "gh_9a20832070f2ceadcb559f1e",
-    "gh_762c4b7f4e264d735815ff6e",
-    "gh_19804053379c1103d9556d8f",
-    "gh_2c89471bf386d483a8abb393",
-    "gh_7852a7a95df58eb8984e9601",
-    "gh_5f91b9f9236ca7b205f9cb7f",
-    "gh_34fbd83914a11860dd48576a",
-    "gh_ea74222f7b6c67e57ecb5d96",
-    "gh_8226970aac1bd165956e8162",
-    "gh_0dc34663284868226a901a5e",
-    "gh_021e66bb9570665625ec21d6",
-    "gh_d385c32640f113d7e0b54f9c",
-    "gh_6f88dca86e39c276ad427953",
-    "gh_609d19085860ff86823cd5bd",
-    "gh_55c0f64c252345765413bdac",
-    "gh_90d49a8ea8759724b4dd69f3",
-    "gh_a179e2d835c745927900656e",
-    "gh_54f13b2669ed890dc97c5bdc",
-    "gh_2c7ad9a7c7c14baec770cf12",
-    "gh_b9847a89f2095dbea74c63ac"
+    "gh_f11ebaa0bc26b73efa76eafd",
+    "gh_2425cf82834c8f8abd0b9b00",
+    "gh_f8969634376fbdd12a01e274",
+    "gh_2818cd4ac42092c29ebe89b4",
+    "gh_442cb65d87167357672188d8",
+    "gh_ef74ae95b0f7fbec0a9767b0",
+    "gh_f0a399ade124ccb0520bf139",
+    "gh_31072b7eb07f8515de34a041",
+    "gh_b4c389988f0e5a389aabf3b3",
+    "gh_3daf6c20d4edf1f0f9f34327",
+    "gh_a8804e9c31dabfe160161277",
+    "gh_529af6046ca6a2af0d52eeca",
+    "gh_a0d0697e0611db05ad0efa22",
+    "gh_fd7b159a281de9af79b31d1c",
+    "gh_0a1918ad5c999a150186ba80",
+    "gh_f811ea11eb896201b2a8dc82",
+    "gh_0c8142500ab7244ecd91bc45",
+    "gh_2b6924730b518607cddea69a",
+    "gh_0942ed9736ea13305338edbc",
+    "gh_c00aea9ceba72a4744407ba9"
   ],
   "items": [
     {
-      "id": "gh_9a20832070f2ceadcb559f1e",
-      "title": "[台北][年薪1.2M~1.7M][TXOne Networks] Sr. Back-end Engineer (ElementOne) 資深後端工程師",
-      "description": "## About TXOne Networks\n\nTXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop practical defense strategies that eliminate security vulnerabilities in industrial settings. TXOne ensures the availability of industrial systems by mitigating cybersecurity challenges that can disrupt operations. Our solutions empower customers to benefit from networked control systems while maintaining operational resilience, personnel safety, and asset security. TXOne Networks is honored to be named one of the 10 coolest companies leading the way in IoT by [CRN](https://www.linkedin.com/company/crn/).\n\nOur ElementOne product optimizes asset inspection and auditing with no additional complexity. It is capable of publishing asset info taken from the Portable Inspector and Safe Port to an overview dashboard that is equipped with asset management capabilities. Once on the dashboard, the built-in grouping design makes it easy to manage asset information and configure settings. ElementOne is able to then export malware-free reports and present malware-scanning logs to the user in a coherent and simple format.\n\n## 工作地點\n\n台北市信義區松高路1號20樓\n\n## 工作內容\n\nTo support the development of ElementOne, we are seeking an experienced software engineer to design and develop high-quality software that protects our customers, who are large enterprises worldwide. This software engineer will work closely with the Product Manager, Project Manager, Architect, and QA engineers to provide suitable designs for efficient MVP validation and to fulfill customer needs.\n\n- Design and develop high-quality software for the ICS EPP, focusing on backend programming to ensure robust security for ICS, HMI/SCADA, IPC, and other embedded systems.\n- Collaborate closely with Product Managers, Project Managers, Architects, and QA engineers to understand requirements and provide suitable design solutions for efficient MVP (Minimal Viable Product) validation and customer satisfaction.\n- Take an active role in understanding the unique needs of large enterprises and translating those needs into functional and efficient software solutions.\n- Contribute to the optimization of operational efficiency for mass deployment and maintenance, ensuring the platform is scalable and reliable for large factory environments.\n- Participate in continuous improvement initiatives, seeking ways to enhance the platform's performance, reduce downtime, and minimize operational costs.\n- Stay abreast of the latest industry trends and technological advancements in endpoint protection and industrial control systems to ensure the ICS EPP remains at the forefront of security solutions.\n- Engage in proactive problem-solving and troubleshooting to address any issues that arise during the development process, ensuring a smooth and efficient path to market.\n- Maintain clear and effective communication with all team members and stakeholders throughout the development process, ensuring alignment and the successful delivery of the project.\n\n## 能力需求\n\n1. Bachelor degree or above in Computer Science or related field\n2. 3+ years experienced backend development with Golang\n3. Strong knowledge of GRPC, REST and pub/sub design patterns\n4. Familiar with Docker, or Kubernetes\n5. Familiar with Linux shell and system\n6. Familiar with relational and NoSQL DB schema design and optimization\n7. Experience in Jenkins or other CI/CD service\n8. A self-motivated fast learner with good teamwork and problem-solving skill\n\n## 加分能力\n\n1. Experience in microservice development\n2. Experience in on-premise server deployment\n3. Experience in Web threat/vulnerability assessments and risk analysis\n4. Experience on Operational Technology (OT) such as industrial control system (ICS) or IIoT\n\n## 薪資範圍\n\n年薪1.2M-1.7M，依經驗與能力面議\n\n## 工時/特休\n\n- 優於法令的休假制度與彈性工作環境\n- 到職後即享有特別休假10天\n- 每年彈性休假7天\n- 彈性上下班時間\n\n## 聯絡方式\n\n請透過此[連結](https://www.104.com.tw/job/8cbix?jobsource=checkc)應徵",
-      "excerpt": "## About TXOne Networks TXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop pr...",
+      "id": "gh_f11ebaa0bc26b73efa76eafd",
+      "sourceId": "CangaceirosDevels/vagas_de_emprego#2798",
+      "title": "[Remoto] Fullstack Engineer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/fullstack-engineer-204700880?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open) para realizar a candidatura. 👋\n<p>Buscamos Fullstack Engineer para compor nosso time!&nbsp;</p>\n<p>Se você é um profissional versátil, com iniciativa e gosta de novos desafios, essa vaga é para você.</p>\n## Glau: \n <p>Somos uma plataforma completa de estudos para o ENEM com auxilio de IA.&nbsp;</p></p>\n\n ## Habilidades: \n - Next.js \n- React.js \n- GIT \n- GitHub \n- Figma \n- Google Cloud Platform (GCp) \n- NoSQL \n- Node.js\n## Local: \n Remota\n## Requisitos: \n - Ampla experiência com node.js, Next.js e React (versões mais recentes). \n- Experiência com aplicações de alta escala. \n- Experiência com Git e Github, incluindo gerenciamento de conflitos. \n- Experiência com \"pixel perfect\" a partir de Figma files.\n## Diferenciais: \n - Experiência com a biblioteca Material UI (MUI). \n- Experiência com autenticação e autorização. \n- Experiência com bases de dado NoSQL, em especial Firestore. \n- Experiência com Google Cloud. \n- Experiência com Vercel. \n- Inglês intermediário.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Fullstack Engineer na Glau](https://coodesh.com/jobs/fullstack-engineer-204700880?utm_source=github&utm_medium=CangaceirosDevels-vagas_de_emprego&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
       "issueState": "open",
-      "contentHash": "5d68d6e2c7f05196dd2cfcc7f5d7d3e7d3b474d0dcd53641a1e9615ca645eadc",
+      "contentHash": "47f283db2e73f9aae80133de86532c3848bdc27f1be0b4de9117d4005697921b",
+      "repository": "CangaceirosDevels/vagas_de_emprego",
+      "repositoryUrl": "https://github.com/CangaceirosDevels/vagas_de_emprego",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "CangaceirosDevels",
+        "name": "CangaceirosDevels",
+        "avatarUrl": "https://github.com/CangaceirosDevels.png?size=80",
+        "repository": "CangaceirosDevels/vagas_de_emprego",
+        "url": "https://github.com/CangaceirosDevels/vagas_de_emprego"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2025-03-07T20:48:55Z",
+      "updatedAt": "2025-03-07T20:49:19Z",
+      "url": "https://github.com/CangaceirosDevels/vagas_de_emprego/issues/2798",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2425cf82834c8f8abd0b9b00",
+      "sourceId": "devssa/onde-codar-em-salvador#3897",
+      "title": "[Remoto] Fullstack Engineer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/fullstack-engineer-204700880?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open) para realizar a candidatura. 👋\n<p>Buscamos Fullstack Engineer para compor nosso time!&nbsp;</p>\n<p>Se você é um profissional versátil, com iniciativa e gosta de novos desafios, essa vaga é para você.</p>\n## Glau: \n <p>Somos uma plataforma completa de estudos para o ENEM com auxilio de IA.&nbsp;</p></p>\n\n ## Habilidades: \n - Next.js \n- React.js \n- GIT \n- GitHub \n- Figma \n- Google Cloud Platform (GCp) \n- NoSQL \n- Node.js\n## Local: \n Remota\n## Requisitos: \n - Ampla experiência com node.js, Next.js e React (versões mais recentes). \n- Experiência com aplicações de alta escala. \n- Experiência com Git e Github, incluindo gerenciamento de conflitos. \n- Experiência com \"pixel perfect\" a partir de Figma files.\n## Diferenciais: \n - Experiência com a biblioteca Material UI (MUI). \n- Experiência com autenticação e autorização. \n- Experiência com bases de dado NoSQL, em especial Firestore. \n- Experiência com Google Cloud. \n- Experiência com Vercel. \n- Inglês intermediário.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Fullstack Engineer na Glau](https://coodesh.com/jobs/fullstack-engineer-204700880?utm_source=github&utm_medium=devssa-onde-codar-em-salvador&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "bdb009ef39bf6b948642c27e66a5079123ce52246f1bd37202c15f2905045641",
+      "repository": "devssa/onde-codar-em-salvador",
+      "repositoryUrl": "https://github.com/devssa/onde-codar-em-salvador",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "fullstack",
+        "react",
+        "node",
+        "data"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "devssa",
+        "name": "devssa",
+        "avatarUrl": "https://github.com/devssa.png?size=80",
+        "repository": "devssa/onde-codar-em-salvador",
+        "url": "https://github.com/devssa/onde-codar-em-salvador"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2025-03-07T20:48:19Z",
+      "updatedAt": "2025-03-07T20:48:19Z",
+      "url": "https://github.com/devssa/onde-codar-em-salvador/issues/3897",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f8969634376fbdd12a01e274",
+      "sourceId": "remotejobsbr/design-ux-vagas#109",
+      "title": "[Remoto] Igma | Product Designer Pleno",
+      "description": "Estamos em busca de uma pessoa Product Designer Plêna para se juntar ao nosso Chapter de Design e fortalecer nosso time de pessoas alocadas em uma das maiores instituições de saúde da América Latina.\n\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Modelo de trabalho**\n- Regime: 100% remoto\n- Modelo de contratação: PJ\n- Escopo de trabalho: Alocação no cliente\n\n**Ferramentas que utilizamos, mas não delimitam nosso trabalho**\n- Figma\n- Framer\n- Maze\n- Google Firebase/Analytics/Data Studio\n- Hotjar\n\n**Responsabilidades e premissas para a posição**\nNa Igma, Product Designers desempenham um papel fundamental na definição da estratégia dos produtos que construímos junto a nossos clientes. Como Product Designer Pleno, você:\n- Liderará, com o apoio dos Heads, o pilar de design de produto em uma squad, garantindo a criação de produtos valiosos para pessoas com o mais alto nível de qualidade, desde a concepção até seu crescimento após ganhar o mundo.\n- Será responsável por fortalecer a parceria com PO, assimilar as premissas de negócio e desdobrar a visão estratégica do produto para criar produtos digitais inspiradores, de qualidade e elegância visando tanto a experiência do usuário, quanto os resultados para o negócio.\n- Acompanhará o desenvolvimento, fará análises das métricas de utilização e usabilidade do produto e tomará decisões junto ao seu time sobre próximos passos e visão de futuro do produto.\n- É essencial que tenha aptidão para trabalhar em equipe com profissionais de diferentes áreas, saiba se comunicar com clareza e tenha adaptabilidade para lidar com mudanças constantes.\n\n**Premissas culturais**\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n**Etapas do processo**\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Entrevista no cliente\n6. Proposta\n7. Contratação\n\n**Requisitos**\n- Participar do processo de investigação e ideação desde o início, junto ao time de Estratégia e de Tecnologia\n- Ser capaz de traduzir problemas complexos em experiências simples\n- Segurança para liderar dinâmicas, descobertas e debates com PO\n- Ter conhecimento sobre design system\n- Produzir interfaces de qualidade, que elevem a qualidade do produto\n- Ser responsável pela organização e otimização da integração com desenvolvedores\n- Ter atenção aos detalhes e qualidade na execução dos entregáveis\n- Entender bem os padrões específicos de interação Web e Mobile\n\n**Benefícios**\n✌️ Trabalho 100% remoto\n💙 Plano de Saúde individual\n🧘 Auxílio Cuidado e Desenvolvimento\n🏃 Incentivo à prática esportiva\n💳 Cartão multibenefício através do Caju\n💻 Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n🏖️ PJ - 30 dias de férias remuneradas\n\n**Como se candidatar**\nCandidato-se no [link](https://jobs.quickin.io/igma/jobs/67caf281b186190013398820)",
+      "excerpt": "Estamos em busca de uma pessoa Product Designer Plêna para se juntar ao nosso Chapter de Design e fortalecer nosso time de pessoas alocadas em uma das maiores instituições de saúde da América Latina. Unimos tecnologia...",
+      "issueState": "open",
+      "contentHash": "ce6135e82afe2752cd7049ad090d5bb10ef60907d31c9edbb0f744641210a876",
+      "repository": "remotejobsbr/design-ux-vagas",
+      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "mcfo-backoffice",
+        "name": "mcfo-backoffice",
+        "handle": "mcfo-backoffice",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/200601612?v=4"
+      },
+      "community": {
+        "id": "remotejobsbr",
+        "name": "remotejobsbr",
+        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
+        "repository": "remotejobsbr/design-ux-vagas",
+        "url": "https://github.com/remotejobsbr/design-ux-vagas"
+      },
+      "createdAt": "2025-03-07T13:52:07Z",
+      "updatedAt": "2025-03-07T13:52:07Z",
+      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/109",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2818cd4ac42092c29ebe89b4",
+      "sourceId": "developersRJ/vagas#519",
+      "title": "[Remoto] Pessoa Engenheira de Software - Principal - RD Station",
+      "description": "## Nossa empresa\nSomos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais de 40 países. Como alcançamos tudo isso? Através do nosso [A-team](https://bit.ly/3ZUPopc), composto por mais de 1.500 pessoas colaboradoras em nosso grupo, capaz de oferecer soluções, produtos, e educar o mercado, impactando o ecossistema e empoderando heróis e heroínas que fazem a economia crescer.\n\n\n ## Descrição da vaga\nO time do RD Conversas está em busca de uma liderança técnica para desenvolver soluções de alto desempenho, garantindo a estabilidade, confiabilidade, observabilidade e segurança da nossa plataforma de comunicação integrada, contribuindo para a evolução contínua de nossas soluções.\n\n## Local\nRemoto\n\n## Requisitos\n\n- Conhecimento avançado em escalabilidade, observabilidade e estratégias de engenharia a médio e longo prazo.\n- Experiência com as stacks: NodeJs, NestJs, VueJs, Mongo, Redis, Kafka, Pubsub.\n- Capacidade de analisar o produto e tomar decisões técnicas de médio e longo prazo.\n- Habilidade para identificar riscos de arquitetura e propor soluções eficazes.\n- Experiência em escrever roadmaps técnicos visando a estabilidade do produto e ganho de market share.\n\n**Características que somam pontos…**\n\n- Experiência com Chat Completions, GPT Functions, Golang\n- Experiência prévia com inteligência artificial e desenvolvimento de soluções inovadoras nessa área.\n- Experiência em ambientes de SaaS e plataformas de comunicação.\n- Ser (ou querer se tornar) uma pessoa ativa na comunidade, que compartilha conhecimento dentro e fora da empresa através de eventos, artigos, mentorias, iniciativas voluntárias, projetos open source, etc.\n\n## Benefícios\nLink dos nossos benefícios [aqui](https://talent.rdstation-tm.com/beneficios-rdstation).\n\n## Contratação\nCLT\n\n\n## Como se candidatar\nPara se candidatar é só clicar [aqui](https://grnh.se/b060b0de2us).",
+      "excerpt": "## Nossa empresa Somos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais d...",
+      "issueState": "open",
+      "contentHash": "f72a15358c9c99869699ffde4bcb0fbcd49048032766e1785cb70082d4f73d0d",
+      "repository": "developersRJ/vagas",
+      "repositoryUrl": "https://github.com/developersRJ/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto"
+      ],
+      "author": {
+        "id": "SheilaMiqueli",
+        "name": "SheilaMiqueli",
+        "handle": "SheilaMiqueli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/175030286?v=4"
+      },
+      "community": {
+        "id": "developersRJ",
+        "name": "developersRJ",
+        "avatarUrl": "https://github.com/developersRJ.png?size=80",
+        "repository": "developersRJ/vagas",
+        "url": "https://github.com/developersRJ/vagas"
+      },
+      "createdAt": "2025-03-03T17:50:22Z",
+      "updatedAt": "2025-03-03T17:50:44Z",
+      "url": "https://github.com/developersRJ/vagas/issues/519",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_442cb65d87167357672188d8",
+      "sourceId": "developersRJ/vagas#518",
+      "title": "[Remoto] Pessoa Engenheira de Software - Principal - RD Station",
+      "description": "## Nossa empresa\nSomos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais de 40 países. Como alcançamos tudo isso? Através do nosso [A-team](https://bit.ly/3ZUPopc), composto por mais de 1.500 pessoas colaboradoras em nosso grupo, capaz de oferecer soluções, produtos, e educar o mercado, impactando o ecossistema e empoderando heróis e heroínas que fazem a economia crescer.\n\n\n ## Descrição da vaga\nO time do RD Conversas está em busca de uma liderança técnica para desenvolver soluções de alto desempenho, garantindo a estabilidade, confiabilidade, observabilidade e segurança da nossa plataforma de comunicação integrada, contribuindo para a evolução contínua de nossas soluções.\n\n## Local\nRemoto\n\n## Requisitos\n\n- Conhecimento avançado em escalabilidade, observabilidade e estratégias de engenharia a médio e longo prazo.\n- Experiência com as stacks: NodeJs, NestJs, VueJs, Mongo, Redis, Kafka, Pubsub.\n- Capacidade de analisar o produto e tomar decisões técnicas de médio e longo prazo.\n- Habilidade para identificar riscos de arquitetura e propor soluções eficazes.\n- Experiência em escrever roadmaps técnicos visando a estabilidade do produto e ganho de market share.\n\n**Características que somam pontos…**\n\n- Experiência com Chat Completions, GPT Functions, Golang\n- Experiência prévia com inteligência artificial e desenvolvimento de soluções inovadoras nessa área.\n- Experiência em ambientes de SaaS e plataformas de comunicação.\n- Ser (ou querer se tornar) uma pessoa ativa na comunidade, que compartilha conhecimento dentro e fora da empresa através de eventos, artigos, mentorias, iniciativas voluntárias, projetos open source, etc.\n\n## Benefícios\nLink dos nossos benefícios [aqui](https://talent.rdstation-tm.com/beneficios-rdstation).\n\n## Contratação\nCLT\n\n\n## Como se candidatar\nPara se candidatar é só clicar [aqui](https://grnh.se/b060b0de2us).",
+      "excerpt": "## Nossa empresa Somos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais d...",
+      "issueState": "open",
+      "contentHash": "f72a15358c9c99869699ffde4bcb0fbcd49048032766e1785cb70082d4f73d0d",
+      "repository": "developersRJ/vagas",
+      "repositoryUrl": "https://github.com/developersRJ/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto"
+      ],
+      "author": {
+        "id": "SheilaMiqueli",
+        "name": "SheilaMiqueli",
+        "handle": "SheilaMiqueli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/175030286?v=4"
+      },
+      "community": {
+        "id": "developersRJ",
+        "name": "developersRJ",
+        "avatarUrl": "https://github.com/developersRJ.png?size=80",
+        "repository": "developersRJ/vagas",
+        "url": "https://github.com/developersRJ/vagas"
+      },
+      "createdAt": "2025-03-03T17:50:10Z",
+      "updatedAt": "2025-03-03T17:50:34Z",
+      "url": "https://github.com/developersRJ/vagas/issues/518",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ef74ae95b0f7fbec0a9767b0",
+      "sourceId": "developersRJ/vagas#517",
+      "title": "[Remoto] Pessoa Engenheira de Software - Tech Lead (Ruby on Rails) - RD Station",
+      "description": "## Nossa empresa\nSomos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais de 40 países. Como alcançamos tudo isso? Através do nosso [A-team](https://bit.ly/3ZUPopc), composto por mais de 1.500 pessoas colaboradoras em nosso grupo, capaz de oferecer soluções, produtos, e educar o mercado, impactando o ecossistema e empoderando heróis e heroínas que fazem a economia crescer.\n\n\n ## Descrição da vaga\nComo Tech Lead no time do RD Station Marketing, sua missão será garantir que as decisões técnicas do time estejam sempre alinhadas à estratégia do produto, promovendo uma arquitetura das features sob seu domínio que seja escalável, resiliente e sustentável. Você será responsável por desenvolver o time técnico, liderando pela excelência, compartilhando conhecimento e criando um ambiente de aprendizado contínuo e alta performance.\n\n## Local\nRemoto\n\n## Requisitos\n\n- Experiência sólida em desenvolvimento de software com Ruby on Rails, preferencialmente em ambientes complexos e escaláveis;\n- Conhecimento avançado em tecnologias relevantes para o stack tecnológico da empresa, como Postgres, Redis, GCP/AWS;\n- Experiência prática com arquitetura de software e padrões de design;\n- Histórico comprovado de entrega de funcionalidades completas, incluindo testes automatizados e code review;\n- Experiência anterior como Tech Lead ou em papel similar.\n\n**Características que somam pontos…**\n\n- Boas noções de Golang;\n- Experiência atuando com ElasticSearch e MongoDB;\n- Ser (ou querer se tornar) uma pessoa ativa na comunidade, que compartilha conhecimento dentro e fora da empresa através de eventos, artigos, mentorias, iniciativas voluntárias, projetos open source, etc.\n\n## Benefícios\nLink dos nossos benefícios [aqui](https://talent.rdstation-tm.com/beneficios-rdstation).\n\n## Contratação\nCLT\n\n#### Nível\n- Especialista\n\n## Como se candidatar\nPara se candidatar é só clicar [aqui](https://grnh.se/657a94cc2us).",
+      "excerpt": "## Nossa empresa Somos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais d...",
+      "issueState": "open",
+      "contentHash": "12827d11e9250cb21321d7652d14712b5379d7778608f3a2e0336cfaa5518741",
+      "repository": "developersRJ/vagas",
+      "repositoryUrl": "https://github.com/developersRJ/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "especialista",
+        "remoto"
+      ],
+      "author": {
+        "id": "SheilaMiqueli",
+        "name": "SheilaMiqueli",
+        "handle": "SheilaMiqueli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/175030286?v=4"
+      },
+      "community": {
+        "id": "developersRJ",
+        "name": "developersRJ",
+        "avatarUrl": "https://github.com/developersRJ.png?size=80",
+        "repository": "developersRJ/vagas",
+        "url": "https://github.com/developersRJ/vagas"
+      },
+      "createdAt": "2025-03-03T17:41:27Z",
+      "updatedAt": "2025-03-03T17:41:54Z",
+      "url": "https://github.com/developersRJ/vagas/issues/517",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f0a399ade124ccb0520bf139",
+      "sourceId": "developersRJ/vagas#516",
+      "title": "[Remoto] Pessoa Engenheira de Software - Tech Lead (Ruby on Rails) - RD Station",
+      "description": "## Nossa empresa\nSomos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais de 40 países. Como alcançamos tudo isso? Através do nosso [A-team](https://bit.ly/3ZUPopc), composto por mais de 1.500 pessoas colaboradoras em nosso grupo, capaz de oferecer soluções, produtos, e educar o mercado, impactando o ecossistema e empoderando heróis e heroínas que fazem a economia crescer.\n\n\n ## Descrição da vaga\nComo Tech Lead no time do RD Station Marketing, sua missão será garantir que as decisões técnicas do time estejam sempre alinhadas à estratégia do produto, promovendo uma arquitetura das features sob seu domínio que seja escalável, resiliente e sustentável. Você será responsável por desenvolver o time técnico, liderando pela excelência, compartilhando conhecimento e criando um ambiente de aprendizado contínuo e alta performance.\n\n## Local\nRemoto\n\n## Requisitos\n\n- Experiência sólida em desenvolvimento de software com Ruby on Rails, preferencialmente em ambientes complexos e escaláveis;\n- Conhecimento avançado em tecnologias relevantes para o stack tecnológico da empresa, como Postgres, Redis, GCP/AWS;\n- Experiência prática com arquitetura de software e padrões de design;\n- Histórico comprovado de entrega de funcionalidades completas, incluindo testes automatizados e code review;\n- Experiência anterior como Tech Lead ou em papel similar.\n\n**Características que somam pontos…**\n\n- Boas noções de Golang;\n- Experiência atuando com ElasticSearch e MongoDB;\n- Ser (ou querer se tornar) uma pessoa ativa na comunidade, que compartilha conhecimento dentro e fora da empresa através de eventos, artigos, mentorias, iniciativas voluntárias, projetos open source, etc.\n\n## Benefícios\nLink dos nossos benefícios [aqui](https://talent.rdstation-tm.com/beneficios-rdstation).\n\n## Contratação\nCLT\n\n#### Nível\n- Especialista\n\n## Como se candidatar\nPara se candidatar é só clicar [aqui](https://grnh.se/657a94cc2us).",
+      "excerpt": "## Nossa empresa Somos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais d...",
+      "issueState": "open",
+      "contentHash": "12827d11e9250cb21321d7652d14712b5379d7778608f3a2e0336cfaa5518741",
+      "repository": "developersRJ/vagas",
+      "repositoryUrl": "https://github.com/developersRJ/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "especialista",
+        "remoto"
+      ],
+      "author": {
+        "id": "SheilaMiqueli",
+        "name": "SheilaMiqueli",
+        "handle": "SheilaMiqueli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/175030286?v=4"
+      },
+      "community": {
+        "id": "developersRJ",
+        "name": "developersRJ",
+        "avatarUrl": "https://github.com/developersRJ.png?size=80",
+        "repository": "developersRJ/vagas",
+        "url": "https://github.com/developersRJ/vagas"
+      },
+      "createdAt": "2025-03-03T17:41:18Z",
+      "updatedAt": "2025-03-03T17:41:42Z",
+      "url": "https://github.com/developersRJ/vagas/issues/516",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_31072b7eb07f8515de34a041",
+      "sourceId": "phpdevbr/vagas#1304",
+      "title": "[REMOTO] Sr Backend Developer - PHP - Invillia",
+      "description": "**DESCRIÇÃO DA VAGA**\nAproxime-se. A Invillia não apenas transformou a forma como as empresas mais revolucionárias do mundo criam e desenvolvem estratégias, negócios e produtos digitais.\nInovou também a maneira como pessoas apaixonadas por tecnologia, de qualquer lugar do planeta, podem interagir, evoluir, mais conectados do que nunca.\nPara a Invillia, não importa onde você está. Se é um país grande. Ou uma cidade pequena. E sim a sua vontade. As suas ideias. O seu potencial.\nO tamanho do seu talento_\n\n**RESPONSABILIDADES E ATRIBUIÇÕES**\nO profissional será responsável em prover soluções técnicas para novas features e dar o suporte necessário as features já existentes, afinal, nem tudo são flores.\nEsperamos também que essa pessoa auxilie os outros membros do time em questões técnicas não esquecendo de fornecer a melhor solução para o negócio.\nAlgo que prezamos bastante é qualidade, isso inclui um código limpo e legível (clean code).\nTambém é desejável que o mesmo tenha um perfil intra-empreendedor, onde seus objetivos estejam alinhados com os objetivos da empresa, afinal, temos muito orgulho do que fazemos aqui!\n\n**REQUISITOS E QUALIFICAÇÕES**\nPrincipais Responsabilidades\nAnalista Sênior com experiência em desenvolvimento de sistemas distribuídos com hospedagem na AWS. Buscamos um analista que tenha pensamento crítico, boa comunicação e comprometido com as entregas.\nSomos responsáveis pelo desenvolvimento de um motor de processamento com alta volumetria e que precisa ser bastante resiliente, então é muito importante ter profundidade e experiência nos temas.\nFazer parte de um time de desenvolvimento;\nTrabalhar com sistemas distribuídos, cloud e modelo Devops;\nAtuar nos projetos que consistem em aumentar e flexibilizar o negócio;\nConstrução de rotinas de monitoramento e performance de sistemas.\n\nÉ fundamental que você tenha conhecimento em:\nConhecimentos e experiência em PHP 7.0;\nConhecimentos na utilização de frameworks PHP (ex: Laravel, Symphony, Phalcon e etc);\nConhecimentos e experiência em HTML5, CSS3, Javascript, JQuery e Bootstrap;\nExperiência com banco de dados MySQL;\nSoluções e definições de arquitetura;\nSistema operacional Linux;\nDesenvolvimento Ágil - Scrum e Kanban;\nDocker, Git, CI/CD e Gerenciamento de Pacotes (ex: NPM, Yarn, Composer, Bower e etc);\nExperiência com webservices REST/SOAP;\nDesenvolvimento de testes automatizados (unitários, TDD).\nExperiência com processamento de alto volume de dados\nKafka\nExperiencia com aplicações com alta disponibilidade e Perfomance\n\n\nOutros pontos desejáveis:\nConhecimento em Kotlin\nAWS\n\nEnvie seu CV atualizado para: isaque.silva@invillia.com",
+      "excerpt": "**DESCRIÇÃO DA VAGA** Aproxime-se. A Invillia não apenas transformou a forma como as empresas mais revolucionárias do mundo criam e desenvolvem estratégias, negócios e produtos digitais. Inovou também a maneira como p...",
+      "issueState": "open",
+      "contentHash": "40c6ccc50f5480607e92c157c92bdec3f58f6c2bf0ca6d5a6b1d56ae0368b368",
+      "repository": "phpdevbr/vagas",
+      "repositoryUrl": "https://github.com/phpdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "java",
+        "devops"
+      ],
+      "author": {
+        "id": "GiLazaro",
+        "name": "GiLazaro",
+        "handle": "GiLazaro",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/176509171?v=4"
+      },
+      "community": {
+        "id": "phpdevbr",
+        "name": "phpdevbr",
+        "avatarUrl": "https://github.com/phpdevbr.png?size=80",
+        "repository": "phpdevbr/vagas",
+        "url": "https://github.com/phpdevbr/vagas"
+      },
+      "createdAt": "2025-02-28T20:44:03Z",
+      "updatedAt": "2026-04-07T02:11:08Z",
+      "url": "https://github.com/phpdevbr/vagas/issues/1304",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_b4c389988f0e5a389aabf3b3",
+      "sourceId": "remotejobsbr/design-ux-vagas#108",
+      "title": "[Remoto] Igma | Designer UX/UI Sênior",
+      "description": "Estamos em busca de uma pessoa Designer UX/UI Sênior para criar experiências digitais impactantes, desde a concepção até a execução. Essa pessoa será responsável por traduzir as necessidades dos usuários e os requisitos de negócios em ideias de produto, materializando-as em interfaces intuitivas e funcionais. Procuramos alguém com ampla experiência em design de produtos digitais, habilidade em prototipagem rápida e disposição para liderar sessões imersivas de co-criação.\n\nUnimos design e tecnologia para transformar problemas complexos em soluções digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Responsabilidades**\nNa Igma, o Designer UX/UI Sênior será responsável por desenvolver soluções visuais e interativas que sejam inovadoras e eficazes para o usuário. É essencial que tenha aptidão para trabalhar em equipe com profissionais de diferentes áreas, saiba se comunicar com clareza e tenha adaptabilidade para lidar com mudanças constantes. Para isso, é necessário fazer parte de sua rotina:\n- Traduzir dados e feedbacks dos usuários em soluções de design centrado no usuário (Design Thinking)\n- Colaborar com equipes multidisciplinares em sessões de co-criação imersivas\n- Criar e defender decisões de design em apresentações para stakeholders\n- Realizar prototipagem rápida e testes de usabilidade com usuários\n- Garantir consistência e escalabilidade por meio de design systems\n- Aplicar práticas de acessibilidade e responsividade nas interfaces\n\n**Premissas Culturais**\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n**Etapas do processo**\n- Cadastro\n- Entrevista inicial\n- Entrevista Fit Cultural\n- Entrevista Técnica\n- Proposta\n- Contratação\n\n**Modelo de trabalho**\n- Regime: 100% remoto\n- Modelo de contratação: PJ\n\n**Requisitos**\n- Proficiência em ferramentas de design, como Figma, Sketch ou Adobe XD\n- Experiência em design de interface (UI) e experiência do usuário (UX)\n- Habilidade em prototipagem rápida e realização de testes de usabilidade\n- Conhecimento em design responsivo e práticas de acessibilidade\n- Capacidade de criar e manter design systems\n- Experiência em criar wireframes, mockups e protótipos interativos\n\n**Conhecimentos desejáveis**\n- Criatividade e inovação para propor soluções únicas\n- Conhecimento básico de HTML, CSS e práticas de front-end (diferencial)\n- Boa comunicação para defender e justificar escolhas de design\n\n**Benefícios**\n- ✌️ Trabalho 100% remoto\n- 💙 Plano de Saúde individual\n- 🧘 Auxílio Cuidado e Desenvolvimento\n- 🏃 Incentivo à prática de esportes\n- ✨ Seguro de vida através do Betterfly\n- 💳 Cartão multi-benefício através do Caju\n- 💻 Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- 🏖️ PJ - 30 dias de férias remuneradas\n\n**Como se candidatar**\nCandidate-se no [link](https://jobs.quickin.io/igma/jobs/67b3a3b5141f6100129fa1e3)",
+      "excerpt": "Estamos em busca de uma pessoa Designer UX/UI Sênior para criar experiências digitais impactantes, desde a concepção até a execução. Essa pessoa será responsável por traduzir as necessidades dos usuários e os requisit...",
+      "issueState": "open",
+      "contentHash": "d4b6630e8752c023db30bef37eab818081b878c16d29af95808c09bfbf351c6b",
+      "repository": "remotejobsbr/design-ux-vagas",
+      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "mcfo-backoffice",
+        "name": "mcfo-backoffice",
+        "handle": "mcfo-backoffice",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/200601612?v=4"
+      },
+      "community": {
+        "id": "remotejobsbr",
+        "name": "remotejobsbr",
+        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
+        "repository": "remotejobsbr/design-ux-vagas",
+        "url": "https://github.com/remotejobsbr/design-ux-vagas"
+      },
+      "createdAt": "2025-02-24T17:53:19Z",
+      "updatedAt": "2025-02-24T17:54:19Z",
+      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/108",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3daf6c20d4edf1f0f9f34327",
+      "sourceId": "zapplyjobs/underclassmen-internships#88",
+      "title": "Netflix x Formation fellowship program",
+      "description": "https://formation.dev/partners/netflix",
+      "excerpt": "https://formation.dev/partners/netflix",
+      "issueState": "open",
+      "contentHash": "fb00ee1da33a346ea3cee0348fe48d2eeda2787e713b7ba8075879f7e801e2fb",
+      "repository": "zapplyjobs/underclassmen-internships",
+      "repositoryUrl": "https://github.com/zapplyjobs/underclassmen-internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "codicate",
+        "name": "codicate",
+        "handle": "codicate",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63321455?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/underclassmen-internships",
+        "url": "https://github.com/zapplyjobs/underclassmen-internships"
+      },
+      "createdAt": "2025-02-22T03:54:33Z",
+      "updatedAt": "2025-02-22T03:54:33Z",
+      "url": "https://github.com/zapplyjobs/underclassmen-internships/issues/88",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_a8804e9c31dabfe160161277",
+      "sourceId": "ad-si/awesome-fp-jobs#10",
+      "title": "Add https://beyond-tabs.com/",
+      "description": "",
+      "excerpt": "Add https://beyond-tabs.com/",
+      "issueState": "open",
+      "contentHash": "6d829e34413bef77173249f5afaf5a67471e4eddbe0bb1a16e5ef4794584381f",
+      "repository": "ad-si/awesome-fp-jobs",
+      "repositoryUrl": "https://github.com/ad-si/awesome-fp-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "ad-si",
+        "name": "ad-si",
+        "handle": "ad-si",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36796532?v=4"
+      },
+      "community": {
+        "id": "ad-si",
+        "name": "ad-si",
+        "avatarUrl": "https://github.com/ad-si.png?size=80",
+        "repository": "ad-si/awesome-fp-jobs",
+        "url": "https://github.com/ad-si/awesome-fp-jobs"
+      },
+      "createdAt": "2025-02-17T19:51:51Z",
+      "updatedAt": "2025-02-17T19:51:51Z",
+      "url": "https://github.com/ad-si/awesome-fp-jobs/issues/10",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_529af6046ca6a2af0d52eeca",
+      "sourceId": "devssa/onde-codar-em-salvador#3896",
+      "title": "[JAVASCRIPT] [Mongo] [NODE.JS] [DevOps] Backend Senior Developer Node.js and Javascript (Fluent English) na [Hunter]",
+      "description": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents\n\nRemote.\n\nR$15k CLT.\n\nStays is the vacation rental software that increases your bookings on autopilot.\nOur solutions involve improving the performance of the Saas platform, as well as calendar management, task management, reservation management, payment gateways, messaging services, site builders, advanced API communications. We are a company at Despegar group\n\nWhat do you must have:\n\nMinimum of 7 years of professional software development experience\n\nAt least 5 years of hands-on experience with Node.js\n\nStrong Backend experience\n\nExperience with mongodb and Javascript\n\nFluent English\n\nExpericence requeried:\n\nNode.js, JavaScript (including closures, callbacks, promises, and async/await)\n\nMongoDB database (including schema design and optimization)\n\nAPI Design. Designing and implementing scalable and secure APIs.\n\nVersion Control. Advanced knowledge of Git, including branching strategies, pull requests, and code reviews.\n\nDevOps. CI/CD pipelines, containerization (Docker) and AWS cloud platform.\n\nTesting. Unit testing, integration testing using frameworks like Mocha, Jest, or similar.\n\nOur Benefits:\n\nhealth plan\n\nbonus\n\nfood allowance\n\nhome office allowance\n\nwellhub\n\n100% remote\n\nDay off.\n\n9h to 18h Brasília time zone.\n\nCompensation: R$15k CLT.\n\nSe tem interesse e os requisitos da oportunidade entre em contato pelo Linkedin abaixo, informando qual é a oportunidade:[https://www.linkedin.com/in/erickamarquesb/]",
+      "excerpt": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents Remote. R$15k CLT. Stays is the vacation rental software that increases your bookings on autopilot. Our solutions involve improving the pe...",
+      "issueState": "open",
+      "contentHash": "ddcd808a0ee592ba4b986078e242c49ce0a6b64e6a8d056037afa83badfcf923",
+      "repository": "devssa/onde-codar-em-salvador",
+      "repositoryUrl": "https://github.com/devssa/onde-codar-em-salvador",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "help wanted"
+      ],
+      "author": {
+        "id": "ErickaMB",
+        "name": "ErickaMB",
+        "handle": "ErickaMB",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
+      },
+      "community": {
+        "id": "devssa",
+        "name": "devssa",
+        "avatarUrl": "https://github.com/devssa.png?size=80",
+        "repository": "devssa/onde-codar-em-salvador",
+        "url": "https://github.com/devssa/onde-codar-em-salvador"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 15000,
+        "period": "month"
+      },
+      "createdAt": "2025-02-14T18:46:00Z",
+      "updatedAt": "2025-02-14T18:46:00Z",
+      "url": "https://github.com/devssa/onde-codar-em-salvador/issues/3896",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_a0d0697e0611db05ad0efa22",
+      "sourceId": "CangaceirosDevels/vagas_de_emprego#2797",
+      "title": "[Remote] Backend Senior Developer Node.js and Javascript (Fluent English) - Hunter",
+      "description": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents\n\nRemote.\n\nR$15k CLT.\n\nStays is the vacation rental software that increases your bookings on autopilot.\nOur solutions involve improving the performance of the Saas platform, as well as calendar management, task management, reservation management, payment gateways, messaging services, site builders, advanced API communications. We are a company at Despegar group\n\nWhat do you must have:\n\nMinimum of 7 years of professional software development experience\n\nAt least 5 years of hands-on experience with Node.js\n\nStrong Backend experience\n\nExperience with mongodb and Javascript\n\nFluent English\n\nExpericence requeried:\n\nNode.js, JavaScript (including closures, callbacks, promises, and async/await)\n\nMongoDB database (including schema design and optimization)\n\nAPI Design. Designing and implementing scalable and secure APIs.\n\nVersion Control. Advanced knowledge of Git, including branching strategies, pull requests, and code reviews.\n\nDevOps. CI/CD pipelines, containerization (Docker) and AWS cloud platform.\n\nTesting. Unit testing, integration testing using frameworks like Mocha, Jest, or similar.\n\nOur Benefits:\n\nhealth plan\n\nbonus\n\nfood allowance\n\nhome office allowance\n\nwellhub\n\n100% remote\n\nDay off.\n\n9h to 18h Brasília time zone.\n\nCompensation: R$15k CLT.\n\nSe tem interesse e os requisitos da oportunidade entre em contato pelo Linkedin abaixo, informando qual é a oportunidade:[https://www.linkedin.com/in/erickamarquesb/]",
+      "excerpt": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents Remote. R$15k CLT. Stays is the vacation rental software that increases your bookings on autopilot. Our solutions involve improving the pe...",
+      "issueState": "open",
+      "contentHash": "8e9c5370c4beafdf3db486b39ae40fed46b17b516470622f786ac4737c64bc17",
+      "repository": "CangaceirosDevels/vagas_de_emprego",
+      "repositoryUrl": "https://github.com/CangaceirosDevels/vagas_de_emprego",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt"
+      ],
+      "author": {
+        "id": "ErickaMB",
+        "name": "ErickaMB",
+        "handle": "ErickaMB",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
+      },
+      "community": {
+        "id": "CangaceirosDevels",
+        "name": "CangaceirosDevels",
+        "avatarUrl": "https://github.com/CangaceirosDevels.png?size=80",
+        "repository": "CangaceirosDevels/vagas_de_emprego",
+        "url": "https://github.com/CangaceirosDevels/vagas_de_emprego"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 15000,
+        "period": "month"
+      },
+      "createdAt": "2025-02-14T18:45:32Z",
+      "updatedAt": "2025-02-14T18:45:56Z",
+      "url": "https://github.com/CangaceirosDevels/vagas_de_emprego/issues/2797",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_fd7b159a281de9af79b31d1c",
+      "sourceId": "developersRJ/vagas#515",
+      "title": "[Remote] [Backend Senior Developer Node.js and Javascript (Fluent English)] na [Hunter]",
+      "description": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents\n\nRemote.\n\nR$15k CLT.\n\nStays is the vacation rental software that increases your bookings on autopilot.\nOur solutions involve improving the performance of the Saas platform, as well as calendar management, task management, reservation management, payment gateways, messaging services, site builders, advanced API communications. We are a company at Despegar group\n\nWhat do you must have:\n\nMinimum of 7 years of professional software development experience\n\nAt least 5 years of hands-on experience with Node.js\n\nStrong Backend experience\n\nExperience with mongodb and Javascript\n\nFluent English\n\nExpericence requeried:\n\nNode.js, JavaScript (including closures, callbacks, promises, and async/await)\n\nMongoDB database (including schema design and optimization)\n\nAPI Design. Designing and implementing scalable and secure APIs.\n\nVersion Control. Advanced knowledge of Git, including branching strategies, pull requests, and code reviews.\n\nDevOps. CI/CD pipelines, containerization (Docker) and AWS cloud platform.\n\nTesting. Unit testing, integration testing using frameworks like Mocha, Jest, or similar.\n\nOur Benefits:\n\nhealth plan\n\nbonus\n\nfood allowance\n\nhome office allowance\n\nwellhub\n\n100% remote\n\nDay off.\n\n9h to 18h Brasília time zone.\n\nCompensation: R$15k CLT.\n\nSe tem interesse e os requisitos da oportunidade entre em contato pelo Linkedin abaixo, informando qual é a oportunidade:[https://www.linkedin.com/in/erickamarquesb/]",
+      "excerpt": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents Remote. R$15k CLT. Stays is the vacation rental software that increases your bookings on autopilot. Our solutions involve improving the pe...",
+      "issueState": "open",
+      "contentHash": "1d4a4ea112a82db47e07afa87b0483272b6392ff1973f02c083282926a4c047e",
+      "repository": "developersRJ/vagas",
+      "repositoryUrl": "https://github.com/developersRJ/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt"
+      ],
+      "author": {
+        "id": "ErickaMB",
+        "name": "ErickaMB",
+        "handle": "ErickaMB",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
+      },
+      "community": {
+        "id": "developersRJ",
+        "name": "developersRJ",
+        "avatarUrl": "https://github.com/developersRJ.png?size=80",
+        "repository": "developersRJ/vagas",
+        "url": "https://github.com/developersRJ/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 15000,
+        "period": "month"
+      },
+      "createdAt": "2025-02-14T18:44:39Z",
+      "updatedAt": "2025-02-14T18:45:08Z",
+      "url": "https://github.com/developersRJ/vagas/issues/515",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0a1918ad5c999a150186ba80",
+      "sourceId": "Empregos-dev/Vagas-dev#94",
+      "title": "[PESSOA DESENVOLVEDORA DE IA - PL/SR] PRESENCIAL EM FLORIANÓPOLIS/SC",
+      "description": "Busco profissional Pleno ou Sênior para atuar como desenvolvedor/a de IA em presencialmente em Florianópolis. \nInteressados podem encaminhar currículo para o seguinte e-mail: maria.carradore@wkrh.com.br\n47 997924243.  \nPython\nMachine Learning\nInglês intermediário",
+      "excerpt": "Busco profissional Pleno ou Sênior para atuar como desenvolvedor/a de IA em presencialmente em Florianópolis. Interessados podem encaminhar currículo para o seguinte e-mail: maria.carradore@wkrh.com.br 47 997924243. P...",
+      "issueState": "open",
+      "contentHash": "e4d1887c3b33c589fd046ee6bc2faf6755ff74aed9ce4a5ece7e34b75c6f93ec",
+      "repository": "Empregos-dev/Vagas-dev",
+      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno"
+      ],
+      "author": {
+        "id": "MariaCarradore",
+        "name": "MariaCarradore",
+        "handle": "MariaCarradore",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116596293?v=4"
+      },
+      "community": {
+        "id": "Empregos-dev",
+        "name": "Empregos-dev",
+        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
+        "repository": "Empregos-dev/Vagas-dev",
+        "url": "https://github.com/Empregos-dev/Vagas-dev"
+      },
+      "createdAt": "2025-02-14T16:22:38Z",
+      "updatedAt": "2025-02-14T16:22:43Z",
+      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/94",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f811ea11eb896201b2a8dc82",
+      "sourceId": "nerdzao/vagas#184",
+      "title": "[PRESENCIAL/FLORIANÓPOLIS-SC] PESSOA DESENVOLVEDORA DE IA PL/SR.",
+      "description": "Buscamos pessoas desenvolvedora de IA pleno ou sênior para atuar presencialmente em Florianópolis/SC.  \nInteressados podem encaminhar currículo diretamente para o seguinte e-mail: maria.carradore@wkrh.com.br",
+      "excerpt": "Buscamos pessoas desenvolvedora de IA pleno ou sênior para atuar presencialmente em Florianópolis/SC. Interessados podem encaminhar currículo diretamente para o seguinte e-mail: maria.carradore@wkrh.com.br",
+      "issueState": "open",
+      "contentHash": "28f26b1096565ff819638a5c4e617dedce6aa951fc31df1b1878730355bc0d21",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno"
+      ],
+      "author": {
+        "id": "MariaCarradore",
+        "name": "MariaCarradore",
+        "handle": "MariaCarradore",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116596293?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2025-02-14T16:06:42Z",
+      "updatedAt": "2025-02-14T16:07:05Z",
+      "url": "https://github.com/nerdzao/vagas/issues/184",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0c8142500ab7244ecd91bc45",
+      "sourceId": "golangtw/jobs#221",
+      "title": "[台北 市政府站] 資深 Golang 後端工程師_混合式辦公",
+      "description": "### 團隊簡介\n[vocus](https://vocus.cc) \n我們相信，內容的力量是無遠弗屆的。\n\nvocus 致力於幫助創作者實踐夢想。無論是被看見的機會、或是合理的報酬。我們期望能夠持續幫助創作者創造價值，讓更多不同的思想在此激盪、交流。在 vocus ，創作者能夠與自己的會員與粉絲建立關係，能夠真實的交流，並且逐步建立起自己的影響圈，與自己的粉絲共創價值、共享價值。\n\nvocus 的團隊是 50% 軟體科技、 50% 文化內容的「混血」公司，團隊以 Hybrid 的方式運作，如果你認同我們的理念，也是高效、當責、自主的人才，歡迎一起加入我們！\n\n產品與開發團隊的目標，是帶給每位使用者穩定且流暢的服務體驗。團隊規模不大，但每個人都有他獨特且豐富的技能樹，組合起來就是無數的可能性。我們期待你擁有兩項特質：對程式碼品質的自我要求，以及對新技術保持敏銳嗅覺、傳教的心。\n\n在團隊裡，我們相信開發者獨立作業的能力，也確保暢通的溝通管道，讓開發流程能不斷迭代成更好的版本。此外，在 vocus 你也不會只是一位碼農而已，你將能夠與不同的角色協作並且參與決策，因為在這裡，每個人的聲音都很重要。﻿\n\n### 工作地點\n台北市信義區基隆路1段178號5樓\n\n### 工作內容\n您將負責開發、維護並優化方格子的後端系統，確保平台的穩定性、擴展性，並為數十萬的使用者提供優質的服務。\n\n1. 負責開發、維護產品後端系統，確保系統穩定性與擴展性\n2. 與產品經理、UI/UX 設計師、前端工程師協同合作，完成產品開發\n3. 設計、開發並優化 RESTful API\n4. 建置高效能的資料庫，並優化查詢效能\n5. 建立 CI/CD 流程，自動化部署\n6. 參與系統架構設計，並提出優化建議\n\n### 我們期待你擁有的能力是：\n● 語言以 Golang 為主，如熟悉 Java / Python 也可以，但希望具獨立開發能力\n● 熟悉資料庫設計與操作 (MongoDB, MySQL 等)\n● 熟悉 RESTful API 設計與開發\n● 熟悉第三方服務串接 (如 Payment Gateway、SSO 等)\n● 熟悉 Linux 系統操作\n● 熟悉 Git 版本控制\n● 具備良好的程式設計習慣與問題解決能力\n\n### 如果你也了解以下項目，那就太棒了：\n● 熟悉雲端平台 (AWS, GCP)\n● 熟悉容器化技術 (Docker)\n● 熟悉可觀測性相關工具 (Grafana, Prometheus)\n● 具效能調校經驗\n● 具有內容產業 / 創作者經濟相關經驗\n\n### 薪資範圍\n月薪台幣 7 萬起 ( 保障 13 薪 )\n能力優秀者可談 ( 歡迎來聊聊喔～～ )\n\n### 工時/特休\n8小時\n特休滿半年 7 天；滿一年 15 天，每多一年加 1 天，滿至 30 天\n\n### 福利/推薦項\n● 年度尾牙 犒勞夥伴們的辛勞～（不用表演，有抽獎 !）\n● 年終 1 個月（未滿一年，依到職比例發放）\n● 三節禮金 一點心意祝大家年節快樂～\n● 部份遠端 （Hybrid 工作）彈性上班時間，9-11點自主管理\n● 滿半年享有 7 天特休；滿 1 年 15 天特休，每多一年加 1 天，滿至 30 天\n● 女性同仁每月生理假 1 天 ( 滿 3 個月後不扣薪 )\n● 額外團保 24 小時意外險保障不打烊\n● 不定期請內外部講師教育訓練分享\n● 不定期聚餐、慶生、下午茶、電影觀賞\n● 需自備自己習慣使用之電腦，提供外接螢幕 ( 最高領 3 萬 補助金 )\n● 無限咖啡 、零食、沖泡飲\n\n### 聯絡方式\n請將你的履歷或是其他能展示你自己的資料（GitHub / CV / LinkedIn / Portfolio），寄到 [joinus@vocus.cc](url)，告訴我們為什麼想要加入以及適合我們團隊，合適者，我們將會盡快聯繫你！",
+      "excerpt": "### 團隊簡介 [vocus](https://vocus.cc) 我們相信，內容的力量是無遠弗屆的。 vocus 致力於幫助創作者實踐夢想。無論是被看見的機會、或是合理的報酬。我們期望能夠持續幫助創作者創造價值，讓更多不同的思想在此激盪、交流。在 vocus ，創作者能夠與自己的會員與粉絲建立關係，能夠真實的交流，並且逐步建立起自己的影響圈，與自己的粉絲共創價值、共享價值。 vocus 的團隊是 50% 軟體科技、 50% 文...",
+      "issueState": "open",
+      "contentHash": "4cff584e67033b9194205bc5ba79d1095ffc9b44f824204a45df94117b2431a1",
       "repository": "golangtw/jobs",
       "repositoryUrl": "https://github.com/golangtw/jobs",
       "region": "Asia",
       "country": "Taiwan",
       "tags": [
         "台北",
-        "缺薪資範圍"
+        "70k以上"
       ],
       "author": {
-        "id": "jonascheng",
-        "name": "jonascheng",
-        "handle": "jonascheng",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/13446971?v=4"
+        "id": "vocusHR",
+        "name": "vocusHR",
+        "handle": "vocusHR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/197879770?v=4"
       },
       "community": {
         "id": "golangtw",
@@ -54,499 +612,33 @@
         "repository": "golangtw/jobs",
         "url": "https://github.com/golangtw/jobs"
       },
-      "createdAt": "2024-05-24T00:01:27Z",
-      "updatedAt": "2025-03-15T12:10:28Z",
-      "url": "https://github.com/golangtw/jobs/issues/216",
-      "sourceType": "github-issue",
-      "sourceId": "golangtw/jobs#216"
+      "createdAt": "2025-02-05T08:17:34Z",
+      "updatedAt": "2025-03-15T12:07:27Z",
+      "url": "https://github.com/golangtw/jobs/issues/221",
+      "sourceType": "github-issue"
     },
     {
-      "id": "gh_762c4b7f4e264d735815ff6e",
-      "title": "Desenvolvedor React - Híbrido",
-      "description": "Oportunidade Tecmaster – Desenvolvedor React - Híbrido \n  \nA TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes. \n \nVaga: Desenvolvedor React \nNível: JR, PL e SR \n \nRequisitos: \nExperiência com desenvolvimento frontend utilizando as tecnologias: React.JS, HTML, CSS, Javascript e Typescript; \nExperiência com Git; \nExperiência com responsividade; \nExperiência com Design Systems; \nExperiência com Micro-FrontEnd; \nExperiência com Testes Unitarios e testes End to End; \nExperiência com CI/CD; \n \nInteressados e/ou indicações, por gentileza, envie CV com a vaga de interesse para o e-mail: melo.karina@tecmaster.inf.br",
-      "excerpt": "Oportunidade Tecmaster – Desenvolvedor React - Híbrido A TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes. Vaga: Desenvolvedor React Nível: JR, PL e SR Req...",
+      "id": "gh_2b6924730b518607cddea69a",
+      "sourceId": "datascience-br/vagas#140",
+      "title": "[Curitiba - PR] Analista de Dados Pleno [Hunter]",
+      "description": "Analista de Dados Pleno\n\nPresencial no centro de Curitiba.\n\nA empresa referência no setor de assistência funeral, está em busca de um(a) Analista de Dados Pleno para transformar dados em estratégias inteligentes e apoiar a tomada de decisão da empresa.\n\nBuscamos um(a) profissional com experiência sólida em análise de dados e liderança técnica, capaz de estruturar soluções escaláveis, gerar insights estratégicos e promover uma cultura data-driven.\n\nPrincipais Responsabilidades:\n✔ Desenvolver e implementar estratégias de Business Intelligence (BI), garantindo uma infraestrutura de dados eficiente e acessível para os gestores.\n✔ Criar e manter dashboards interativos e relatórios personalizados (Power BI, Tableau) para monitoramento de KPIs e otimização de processos.\n✔ Aplicar técnicas de machine learning e modelagem preditiva para antecipar tendências e aprimorar a gestão de riscos.\n✔ Desenvolver pipelines de ETL automatizados, centralizando, enriquecendo e padronizando os dados em um modelo uniforme.\n✔ Assegurar a qualidade, consistência e segurança dos dados, eliminando redundâncias e garantindo a confiabilidade da informação.\n✔ Integrar múltiplas fontes de dados internas e externas, conectando APIs, bancos de dados e sistemas legados.\n✔ Apoiar e treinar as equipes internas para utilização eficiente das soluções analíticas desenvolvidas.\n✔ Administrar e monitorar servidores e recursos em nuvem (AWS, Azure, Google Cloud), garantindo alta disponibilidade e segurança dos dados.\n✔ Desenvolver automação de processos e otimização de fluxos de trabalho para impulsionar a eficiência operacional.\n\nRequisitos Técnicos:\n🔹 Formação superior completa em Estatística, Ciência de Dados, Engenharia, Computação ou áreas correlatas.\n🔹 Experiência comprovada com SQL para manipulação e extração de dados.\n🔹 Conhecimento em linguagens de programação para análise de dados (Python, R).\n🔹 Experiência com Power BI, Tableau ou outras ferramentas de visualização de dados.\n🔹 Experiência em ambientes de nuvem (AWS, Azure, GCP) e infraestrutura de dados.\n🔹 Conhecimento em modelagem de dados, machine learning e estatística aplicada.\n\nPerfil Comportamental:\n🔸 Analítico(a) e detalhista, com habilidade para estruturar soluções escaláveis e robustas.\n🔸 Liderança técnica, capaz de guiar projetos de análise de dados e influenciar estratégias.\n🔸 Boa comunicação e colaboração, trabalhando em equipe para resolver desafios complexos.\n🔸 Proatividade na solução de problemas, sempre em busca de otimização e inovação.\n🔸 Autodisciplina e aprendizado contínuo, acompanhando tendências e novas tecnologias da área.\n\nO que oferecemos:\n🌟 Salário competitivo: R$ 8.000,00 CLT\n🌟 Benefícios: VR + VT + Plano de saúde + Convênio farmácia\n🌟 Ambiente inovador, com cultura colaborativa e forte incentivo à capacitação contínua.\n🌟 Oportunidade de crescimento, em uma das melhores empresas para trabalhar no Paraná.\n🌟 Infraestrutura moderna e suporte para desenvolvimento profissional.\n\n📍 Local de trabalho: Curitiba – Centro (presencial)\n⏰ Horário: Segunda a sexta, das 08h às 18h.\n\nOBS.: INFORMAMOS QUE OS CANDIDATOS NÃO PAGAM QUALQUER VALOR, À CONSULTORIA, OU À EMPRESA, PARA PARTICIPAR DO PROCESSO OU SENDO CONTRATADO.\n\nSe tem interesse e os requisitos da oportunidade entre em contato pelo Linkedin abaixo, informando qual é a oportunidade:[https://www.linkedin.com/in/erickamarquesb/]",
+      "excerpt": "Analista de Dados Pleno Presencial no centro de Curitiba. A empresa referência no setor de assistência funeral, está em busca de um(a) Analista de Dados Pleno para transformar dados em estratégias inteligentes e apoia...",
       "issueState": "open",
-      "contentHash": "cc9ee2f8c12615a9f9317c71c643b56ab02b0eb407c419d0b7be95cf0d68e0d7",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "frontend",
-        "react",
-        "typescript",
-        "java",
-        "design"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-20T00:29:49Z",
-      "updatedAt": "2024-05-20T00:29:49Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/198",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#198"
-    },
-    {
-      "id": "gh_19804053379c1103d9556d8f",
-      "title": "ANALISTA DESENVOLVEDOR PYTHON  ",
-      "description": "WAYON - https://wayon.global/ - CONTRATA \n \nANALISTA DESENVOLVEDOR PYTHON  \n \nNÍVEL: SÊNIOR  \n \nREGIME DE CONTRATAÇÃO: PJ  \n \nMODELO DE TRABALHO: Híbrido 2 dias no escritório do cliente situado no Bairro Baeta Neves na cidade de São Bernardo do Campo - SP  \n \nHORÁRIO: 8:00h ~18:00h (Obrigatório ter disponibilidade full time para o cliente nesse horário) \n \nPERÍODO: 12 meses \n \nREQUISITOS OBRIGATÓRIOS: \n \nObrigatório: Inglês avançado ou fluente para conversação com o time localizado na França, no Egito e na China); \nSólido conhecimento e experiência em python e bibliotecas, R, SQL, Banco de Dados Access e web scraping; \nModelagem e Design de Dados – descobrir, analisar, representar modelo de dados com finalidade específica (projeto) \nExperiência em backend & modelagens, visando outputs específicos para o negócio. \nCapacidade de estruturar e armazenar dados para usos tais como, entre outros: análise, machine learning, mineração de dados e compartilhamento com aplicativos específicos. \n \nREQUISITOS NÃO OBRIGATÓRIOS (GRANDE DIFERENCIAL DA POSIÇÃO) \n \nDesejável experiência com ferramentas de ML; \nDesejável conhecimento em ETL, Qlik Sense ou similar; \nDesejável contato com soluções AWS ou Google , Azure, tendo a maior volumetria atualmente na AWS e Google; \n \nATIVIDADE DA FUNÇÃO: \n \nTrabalhar na análise e no desenvolvimento de web scraping, automatizações e reports; \n \nInteressados com o perfil aderente a vaga ou indicações, por favor, encaminhar o CV, TAXA e DISPONIBILIDADE para: \n \nDennis.kumagai@wayon.global",
-      "excerpt": "WAYON - https://wayon.global/ - CONTRATA ANALISTA DESENVOLVEDOR PYTHON NÍVEL: SÊNIOR REGIME DE CONTRATAÇÃO: PJ MODELO DE TRABALHO: Híbrido 2 dias no escritório do cliente situado no Bairro Baeta Neves na cidade de São...",
-      "issueState": "open",
-      "contentHash": "2b91c34f0c3f20db86819f83ff997033196245a72e01cd0e8d5b7f7aebb524dc",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "python",
-        "design"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-20T00:27:45Z",
-      "updatedAt": "2024-05-20T00:27:45Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/197",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#197"
-    },
-    {
-      "id": "gh_2c89471bf386d483a8abb393",
-      "title": "Consultor SAP FI S/4HANA Greenfield",
-      "description": "Consultor SAP FI S/4HANA Greenfield\n\n🎯 Descrição do Projeto:\n\nEstamos procurando um Consultor SAP FI para uma implementação S/4HANA Greenfield para um cliente em indústria automotiva. \n\n📍Localização: Lisboa | Portugal\n\n💻 Modelo de trabalho: Híbrido nas primeiras 3 semanas e após esse período 100% remoto\n\n⏳ Duração do projeto: 6 meses mais prorrogações\n\nDisponibilidade: Asap\n\nModalidade de contratação: Recibos Verdes ou Faturação via Empresa\n\nRequisitos\n🎯 Requisitos: \n\nExperiência em submódulos SAP FI, como AP, GL, TR;\nExperiência automotiva seria altamente benéfica;\nExperiência em localização portuguesa;\nExperiência em Implementação Greenfield e S/4HANA;\nIdiomas: Inglês fluente é obrigatório e Português é uma vantagem\n\nLink para a vaga: https://jobs.quickin.io/azapi/jobs/6645faa8a3cdbc0012c35a21",
-      "excerpt": "Consultor SAP FI S/4HANA Greenfield 🎯 Descrição do Projeto: Estamos procurando um Consultor SAP FI para uma implementação S/4HANA Greenfield para um cliente em indústria automotiva. 📍Localização: Lisboa | Portugal \ud83d...",
-      "issueState": "open",
-      "contentHash": "2a28cff2bebd62fd8f65abcdd266f1ca80e2008f5a104da3bb1b4e5d7408a337",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:58:15Z",
-      "updatedAt": "2024-05-18T18:58:15Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/196",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#196"
-    },
-    {
-      "id": "gh_7852a7a95df58eb8984e9601",
-      "title": "Consultor FI Pleno/Sênior",
-      "description": "Consultor FI Pleno/Sênior \n \nREQUISITOS\n\n- Conhecimento em FICA e FPSL\n- Ótimo conhecimento em S/4Hana\n\nDesejável: Espanhol avançado com conversação.\n\nInício: IMEDIATO  \nPrazo: Alocação inicial de 6 meses\nContratação: PJ \nAtuação: Hibrido em SP\n\n\nINTERESSES/INDICAÇÕES ENVIAR CV ATUALIZADO INFORMANDO DISPONIBILIDADE DE INÍCIO E PRETENSÃO DE TAXA/HORA PARA LETÍCIA FERNANDES NO E-MAIL: leticia.fernandes@homine.tech",
-      "excerpt": "Consultor FI Pleno/Sênior REQUISITOS - Conhecimento em FICA e FPSL - Ótimo conhecimento em S/4Hana Desejável: Espanhol avançado com conversação. Início: IMEDIATO Prazo: Alocação inicial de 6 meses Contratação: PJ Atua...",
-      "issueState": "open",
-      "contentHash": "e58b2b2616be7f61ff04605b93c0b21c2326fa56ea7d36d3aebce15db6e02f72",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:57:21Z",
-      "updatedAt": "2024-05-18T18:57:21Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/195",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#195"
-    },
-    {
-      "id": "gh_5f91b9f9236ca7b205f9cb7f",
-      "title": "Consultor Funcional PROTHEUS CONTABILIDADE + FISCAL",
-      "description": "Estamos contratando :\nConsultor Funcional PROTHEUS CONTABILIDADE + FISCAL\nSão Paulo - Presencial.\n\n*Atividades:*\n- Implantação, sustentação e suporte nos módulos de CONTROLADORIA;\n- Executar treinamentos aos usuários;\n- Atendimento e/ou abertura de chamados via sistema ( nível 1);\n- Gerar e garantir cronogramas de prazos entrega;\n- Análise do Processo;\n- Propor melhorias nos processos;\n- Criação de documentação padrão TOTVS (MIT)\n\n*Requisitos:*\n- Solida experiência em implantação nos módulos de CONTROLADORIA (CTB e FIS)\n- Experiência mínima de 5 anos com Protheus – mandatório\n- Boa organização, senso de dono, saiba trabalhar em equipe e boa comunicação\n\n*Diferencial:*\n- Conhecimento em outros módulos de CONTROLADORIA (ATF, FIN e PCO);\n- Conhecimento em módulos de MATERIAIS (COM, EST, FAT e PCP );\n- Conhecimento em Desenvolvimento ADVPL.\n\n*Disponibilidade:*\n- Contratação..: PJ\n- Modalidade: Presencial\n- Local.......: SP\n- Duração: Longa\n- Inicio......: Indeterminado\n\nInteressados enviar currículo em PDF para: RH1@Ethioscom.br \nAssunto:Consultor Funcional PROTHEUS CONTABILIDADE + FISCAL",
-      "excerpt": "Estamos contratando : Consultor Funcional PROTHEUS CONTABILIDADE + FISCAL São Paulo - Presencial. *Atividades:* - Implantação, sustentação e suporte nos módulos de CONTROLADORIA; - Executar treinamentos aos usuários; ...",
-      "issueState": "open",
-      "contentHash": "a22fb1f31ba79b1710e212b99a5f689884c0bd4121a1a8c20e918eb0ea783679",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:56:13Z",
-      "updatedAt": "2024-05-18T18:56:13Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/194",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#194"
-    },
-    {
-      "id": "gh_34fbd83914a11860dd48576a",
-      "title": "Desenvolvedor Abap - Remoto",
-      "description": "Bom dia.\n\nOportunidade Tecmaster - Desenvolvedor Abap - Remoto\n\nNível: Pleno ou Sênior\nLocal: Remoto\nPrevisão do projeto: 2 meses, podendo prorrogar\nContrato: PJ ou CLT\n\nConsultor Abap\nNível: Pleno ou Sênior\nIdioma: Inglês avançado imprescindível;\n\nAtividades: \nMelhorias, analisar, projetar, codificar e testar vários componentes do código do aplicativo;\nRealizar trabalhos de manutenção, melhorias e/ou desenvolvimento.\n\nInteressados ou indicações, por gentileza, enviar CV em inglês e português, para karina.bejgler@tecmaster.inf.br informando pretensão e disponibilidade para início.\n\nObrigada!",
-      "excerpt": "Bom dia. Oportunidade Tecmaster - Desenvolvedor Abap - Remoto Nível: Pleno ou Sênior Local: Remoto Previsão do projeto: 2 meses, podendo prorrogar Contrato: PJ ou CLT Consultor Abap Nível: Pleno ou Sênior Idioma: Ingl...",
-      "issueState": "open",
-      "contentHash": "5214f06dadfb95453d662f7c425da3a4a61bcc7eb25f8b04eda562607f1c56eb",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:55:21Z",
-      "updatedAt": "2024-05-18T18:55:21Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/193",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#193"
-    },
-    {
-      "id": "gh_ea74222f7b6c67e57ecb5d96",
-      "title": "Consultor SAP FI/CO",
-      "description": "SAP FI/CO\n\n🎯 Descrição do Projeto:\n\nBuscamos um consultor(a) SAP FI/CO para atuar em uma equipe SAP Excellence Core, trabalhando na manutenção SAP em diferentes industrias, como serviços públicos e manufatura.\n\nLocalização: Lisboa, Portugal\n\nModelo de trabalho: Flexível, para candidatos que estejam em Portugal\n\nFormato de Contratação: Recibos Verdes ou Faturação via Empresa\n\nRequisitos\n🎯 Experiências: \n\n- Entre 4 e 7 anos de experiência profissional como Consultor SAP FI/CO;\n\n- Experiência profissional com S/4HANA;\n\nIdioma: Português, fluência verbal e escrita.\n\n Link da vaga: https://jobs.quickin.io/azapi/jobs/6616e1bbea5cda00133bad6a",
-      "excerpt": "SAP FI/CO 🎯 Descrição do Projeto: Buscamos um consultor(a) SAP FI/CO para atuar em uma equipe SAP Excellence Core, trabalhando na manutenção SAP em diferentes industrias, como serviços públicos e manufatura. Localiza...",
-      "issueState": "open",
-      "contentHash": "2f20dc91fe65e6fac6308e8b41969656f05226cf89130c1172a526bd36abebbc",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:54:13Z",
-      "updatedAt": "2024-05-18T18:54:13Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/192",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#192"
-    },
-    {
-      "id": "gh_8226970aac1bd165956e8162",
-      "title": "Programador SAP EWM",
-      "description": "SAP EWM\n\n🎯 Descrição do Projeto:\n\nEstamos procurando um desenvolvedor SAP EWM para apoiar um projeto em andamento em Lisboa.\n\n🌍 Localização: Lisboa, Portugal\n\n💻 Modelo de trabalho: Remoto, com possibilidade de visitas pontuais\n\n⏳ Duração do projeto: 6 meses com possibilidade de extensão\n\nDisponibilidade: Asap\n\nModalidade de contratação: Recibos Verdes ou Faturação via Empresa.\n\nRequisitos\n🎯 Requisitos: \n\nMínimo de 4 anos de experiência com SAP EWM.\nIdiomas: Inglês (mínimo B2) e Português fluente\n\nLink da vaga: https://jobs.quickin.io/azapi/jobs/66310de5f9e1d00013bccc6b",
-      "excerpt": "SAP EWM 🎯 Descrição do Projeto: Estamos procurando um desenvolvedor SAP EWM para apoiar um projeto em andamento em Lisboa. 🌍 Localização: Lisboa, Portugal 💻 Modelo de trabalho: Remoto, com possibilidade de visitas ...",
-      "issueState": "open",
-      "contentHash": "4129387df00257bc945bd0bafbf2fcb1551e1a83364cba7dfd02f32ab3c0cb44",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:51:59Z",
-      "updatedAt": "2024-05-18T18:51:59Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/191",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#191"
-    },
-    {
-      "id": "gh_0dc34663284868226a901a5e",
-      "title": "Programador GOLANG Senior - Local: Remoto",
-      "description": "*DECISION  Contrata -  Programador GOLANG Senior - Local: Remoto* \n\nExperiencia exigida:\nSkill primário: Golang com conhecimentos em DotNet e microsserviços de AWS.\nServiços AWS: AWS Dynamo DB (NoSQL), AWS ECS, EKS, AWS Lambda.\n\nQualificações Necessárias:\n• Experiência Relevante como desenvolvedor GoLang e que tenha tido atuação com Concorrência e multi thread.\n• Sólidos conhecimentos em estruturas de dados, algoritmos e princípios de design de software.\n• Experiência com sistemas de controle de versão, como Git.\n• Experiência com Framework Fiber.\n• Conhecimento em desenvolvimento de APIs REST e RPC.\n• Experiência com testes automatizados (unitários, de integração e funcionais).\n• Experiência com Docker e Kubernetes.\n• Conhecimento em microserviços e arquitetura orientada a eventos.\n• Familiaridade com práticas de integração e entrega contínuas (CI/CD).\n\nInicio: Maio\nDuração prevista: por tempo indeterminado.\n\nLocal: 100% remoto, horário das 9 as 18 de segunda a sexta com disponibilidade para horas extras de segunda a quinta (1 hora), território nacional.\n\nPara mais informações entre em contato ou encaminhe o currículo para milena.mariano@decisionbr.com.br, chamar no telefone: 11 99452-0512 ou no\nTelegram: Milena_DECISIONBR.  \n@decision #golang #dotnet #aws #homeoffice",
-      "excerpt": "*DECISION Contrata - Programador GOLANG Senior - Local: Remoto* Experiencia exigida: Skill primário: Golang com conhecimentos em DotNet e microsserviços de AWS. Serviços AWS: AWS Dynamo DB (NoSQL), AWS ECS, EKS, AWS L...",
-      "issueState": "open",
-      "contentHash": "a40bffd846f2d3aaa41ad803b624bf9938437e9a0946c486d8a24b3edfdaa010",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "golang",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:50:11Z",
-      "updatedAt": "2024-05-18T18:50:11Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/190",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#190"
-    },
-    {
-      "id": "gh_021e66bb9570665625ec21d6",
-      "title": "Desenvolvedor IONIC Sr (Remoto)",
-      "description": "*Desenvolvedor IONIC Sr (Remoto)*\n\nDesenvolvimento de aplicações móveis com Ionic e Capacitor (Mandatório) - Mínimo 5 anos de experiência\nEscrita de testes unitários e instrumentados; - Mínimo 4 anos de experiência\nConhecimento em Angular 2+ e Typescript; (Mandatório) - Mínimo 5 anos de experiência\nConhecimento em estilos e/ou padrões arquiteturais para frontend; Mínimo 4 anos de experiência\nConhecimento em padrões de projeto (design patterns) do GoF. Mínimo 4 anos de experiência\nDesejável:\nExperiência com React e/ou React Native; \n\nExperiência com projetos modularizados; \n\nCompreensão de requisitos funcionais escritos no formato Gherkin. \n\nJasmine não será necessariamente o framework de testes utilizado (costumamos usar Jest, inclusive, e não Jasmine). \n\nMVC, MVVM etc não são padrões de projeto (design patterns), são padrões arquiteturais. Habilidade de escrita técnica é um requisito muito abstrato.\nRegime de Contratação: PJ (Full *Time das 09 às 18h00) - Não poderá conciliar com outros trabalhos.*\n\n*Projeto de 3 meses com chances de prorrogação.*\n\nCaso tenha interesse ou indicações favor encaminhar cv com pretensão salarial para edgar@bluesix.com.br \n\n*OBS: Só iremos avaliar currículos que estejam mencionando em quais empresas utilizou as ferramentas e tecnologias solicitadas no descritivo da vaga.*",
-      "excerpt": "*Desenvolvedor IONIC Sr (Remoto)* Desenvolvimento de aplicações móveis com Ionic e Capacitor (Mandatório) - Mínimo 5 anos de experiência Escrita de testes unitários e instrumentados; - Mínimo 4 anos de experiência Con...",
-      "issueState": "open",
-      "contentHash": "f0bf4303e4c6706ccd95b336e230e30a97af0f5188bac57304eeaeff0de1f2f3",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "frontend",
-        "react",
-        "typescript",
-        "design"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:49:24Z",
-      "updatedAt": "2024-05-18T18:49:24Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/189",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#189"
-    },
-    {
-      "id": "gh_d385c32640f113d7e0b54f9c",
-      "title": "Desenvolvedor IOS",
-      "description": "Desenvolvedor IOS\n\n🎯 Descrição do Projeto:\n\nEstamos em busca de um Desenvolvedor IOS para uma Empresa Multinacional Líder de Varejo com conhecimento especializado em Swift, Objective-C, Xcode e Cocoa\n\n🌍 Localização: Lisboa, Braga ou Coimbra - Portugal \n\n💻 Modelo de trabalho: Híbrido \n\nDisponibilidade: Asap\n\nFormato de Contratação: Recibos Verdes ou Faturação via Empresa; \n\nRequisitos\n🎯 Requisitos para função:\n\nMais de 4 anos de experiência;\nSólidos conhecimentos de:\n\nSwift.\nMVVM.\nMVC.\nPoP.\nUnit testing.\nQuality gates.\nRESTful APIs.\nAdaptive Layout and collaborating with UX/UI designers.\nDesign patterns and SOLID principles. \nConhecimento de:\n\nPrincípios do TDD;\nPublicação de aplicativos na App Store;\nGerenciamento de dependências (SPM/CocoaPods).\nExperiência desejável em:\n\nObjective-C.\nCoreData.\nReactive programming (RxSwift).\nFirebase.\nGoogle Cloud platform.\n🌐 Idioma: Inglês mínimo Intermediário (B2).\n\nLink para a vaga: https://jobs.quickin.io/azapi/jobs/6644ede5c49c150013a17a17",
-      "excerpt": "Desenvolvedor IOS 🎯 Descrição do Projeto: Estamos em busca de um Desenvolvedor IOS para uma Empresa Multinacional Líder de Varejo com conhecimento especializado em Swift, Objective-C, Xcode e Cocoa 🌍 Localização: Li...",
-      "issueState": "open",
-      "contentHash": "a7ff844fa6906606dcba29ab1c44c71db9b8fdac97df7f650472d045ff4cb28d",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "react",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:48:36Z",
-      "updatedAt": "2024-05-18T18:48:36Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/188",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#188"
-    },
-    {
-      "id": "gh_6f88dca86e39c276ad427953",
-      "title": "Desenvolvedor IOS Nível: PL e SR",
-      "description": "A TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes.\n \nVaga: Desenvolvedor IOS\nNível: PL e SR\n\nRequisitos:\nExperiência em desenvolvimento de aplicações em IOS e Swift;\nConhecimento em construção de layouts usando componentes nativos com técnicas de ViewCode e/ou XIBs/Storyboards e/ou SwiftUI; \nExperiência com testes automatizados; \nComunicação estruturada baseada em fatos e dados; \nExperiência em arquiteturas de mobile como MVVM, MVP, MVC;\nConhecimento em padrões de projeto como Coordinators, Adapters e outros Design Patterns;\nConhecimento sobre pipelines e ferramentas de CI/CD;\nConhecimento em distribuição de apps e certificados para AppStore;\nConhecimento de ferramentas de build e integração contínua para IOS.;\n\nModelo: Remoto\nDuração: Previsão do projeto de 1 ano.\nContratação: CLT + Benefícios ou PJ\n\nInteressados e/ou indicações, por gentileza, envie CV com a vaga de interesse para o e-mail: karina.bejgler@tecmaster.inf.br",
-      "excerpt": "A TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes. Vaga: Desenvolvedor IOS Nível: PL e SR Requisitos: Experiência em desenvolvimento de aplicações em IOS ...",
-      "issueState": "open",
-      "contentHash": "4d0be29fa5582adc9a60a79f74aa51346112a20f070c278729938d422826457e",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "design"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:46:13Z",
-      "updatedAt": "2024-05-18T18:46:13Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/187",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#187"
-    },
-    {
-      "id": "gh_609d19085860ff86823cd5bd",
-      "title": "Oportunidade Remoto - Tecmaster | Desenvolvedor IOS",
-      "description": "📢 Oportunidade Remoto - Tecmaster | Desenvolvedor IOS\n \nA TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes.\n \nVaga: Desenvolvedor IOS\nNível: PL e SR\n\n✅Requisitos:\nExperiência em desenvolvimento de aplicações em IOS e Swift;\nConhecimento em construção de layouts usando componentes nativos com técnicas de ViewCode e/ou XIBs/Storyboards e/ou SwiftUI; \nExperiência com testes automatizados; \nComunicação estruturada baseada em fatos e dados; \nExperiência em arquiteturas de mobile como MVVM, MVP, MVC;\nConhecimento em padrões de projeto como Coordinators, Adapters e outros Design Patterns;\nConhecimento sobre pipelines e ferramentas de CI/CD;\nConhecimento em distribuição de apps e certificados para AppStore;\nConhecimento de ferramentas de build e integração contínua para IOS.\n\n💼Modelo: Remoto\n⏳Duração prevista: projeto de 1 ano, podendo prorrogar. \n📃Regime de Contratação: CLT + Benefícios ou PJ\n\n💌 Interessados e/ou indicações, por gentileza, envie CV citando a vaga de interesse ao e-mail: luana.diniz@tecmaster.inf.br\n\nCurta ✅\nCompartilhe 🔄\nIndique amigos 💬",
-      "excerpt": "📢 Oportunidade Remoto - Tecmaster | Desenvolvedor IOS A TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes. Vaga: Desenvolvedor IOS Nível: PL e SR ✅Requisit...",
-      "issueState": "open",
-      "contentHash": "2a8f1459ab6ba2a68dc5d4a77e148da6acd502b59a1e235228bb6d8110239fc8",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "design"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:44:03Z",
-      "updatedAt": "2024-05-18T18:44:03Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/186",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#186"
-    },
-    {
-      "id": "gh_55c0f64c252345765413bdac",
-      "title": "Consultor Desenvolvedor PROTHEUS ADVPL",
-      "description": "Oportunidaade: Consultor Desenvolvedor PROTHEUS ADVPL\n\nAtividades:\n- Desenvolvimento em ADVPL, TLPP, MVC\n- Desenvolvimento de APIs com JSON\n- Desenvolvimento e manutenção de procedures, triggers em banco ORACLE\n\nRequisitos:\n- Experiência minima de 5 anos com Protheus – mandatório\n- Experiência em Fabrica de Software\n- Experiência em Banco de Dados SQL e ORACLE\n- Experiência em utilização do GIT\n- Senso de dono, saiba trabalhar em equipe, boa comunicação.\n\nDiferencial:\n- Conhecimento em Angular e PoUI\n- Conhecimento em HTML5, CSS3, JavaScript\n- Conhecimento da linguagem Java e framework Spring\n- Arquitetura web - nível básico\n- Conhecimentos de segurança da informação\n\nDisponibilidade:\nRegime : PJ\nEstado/ Cidade: Indiferente\nInicio: imediato.\nDuração: /Longa\nModalidade: Remoto\n\nInteressados enviar curriculo em Pdf para rh3@ethios.com.br \nassunto: Consultor Desenvolvedor PROTHEUS ADVPL",
-      "excerpt": "Oportunidaade: Consultor Desenvolvedor PROTHEUS ADVPL Atividades: - Desenvolvimento em ADVPL, TLPP, MVC - Desenvolvimento de APIs com JSON - Desenvolvimento e manutenção de procedures, triggers em banco ORACLE Requisi...",
-      "issueState": "open",
-      "contentHash": "f1dc83d74b49909c72e681436aa007b306e5bc08ec5a91c7d5749c4e9ac24099",
-      "repository": "DevComputaria/CangaceiroDevVagas",
-      "repositoryUrl": "https://github.com/DevComputaria/CangaceiroDevVagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "java"
-      ],
-      "author": {
-        "id": "marcialwushu",
-        "name": "marcialwushu",
-        "handle": "marcialwushu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16365313?v=4"
-      },
-      "community": {
-        "id": "DevComputaria",
-        "name": "DevComputaria",
-        "avatarUrl": "https://github.com/DevComputaria.png?size=80",
-        "repository": "DevComputaria/CangaceiroDevVagas",
-        "url": "https://github.com/DevComputaria/CangaceiroDevVagas"
-      },
-      "createdAt": "2024-05-18T18:42:35Z",
-      "updatedAt": "2024-05-18T18:42:35Z",
-      "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/185",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#185"
-    },
-    {
-      "id": "gh_90d49a8ea8759724b4dd69f3",
-      "title": "REMOTO: ENGENHEIRO DE DADOS",
-      "description": "## Nossa empresa\nA Going2 é uma startup que nasceu em 2012, com o propósito de levar tecnologia de ponta para todo o Brasil, focada em criar produtos que tenham como premissa, facilitar a vida das pessoas e empresas, através do desenvolvimento de Aplicativos, Sistemas e dos princípios de IOT (internet das coisas). Hoje, além de atender clientes nacionais também oferecemos nossos serviços para clientes internacionais, como por exemplo no Canada, Suíça e Estados Unidos.\n\n## Descrição da vaga\n\n Engenheiro em dados especialista com conhecimento em NodeJS e MySQL\n\n\n## Local\n\nRemoto \n\n## Requisitos\n\nEngenheiro em dados especialista com conhecimento em NodeJS e MySQL\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar um e-mail para [recrutamento@going2.com.br](mailto:recrutamento@going2.com.br) contendo currículo e pretensão salarial à hora. Com o assunto: Freelancer Engenheiro de Dados.\n\n\n\n## Labels\n\n\n#### Alocação\n\n- Remoto\n\n\n#### Regime\n\n- Freela\n\n\n#### Nível\n\n- Especialista\n\n#### Período\n- Projeto",
-      "excerpt": "## Nossa empresa A Going2 é uma startup que nasceu em 2012, com o propósito de levar tecnologia de ponta para todo o Brasil, focada em criar produtos que tenham como premissa, facilitar a vida das pessoas e empresas, ...",
-      "issueState": "open",
-      "contentHash": "39f96b821035fbdffba91352cb837660f9744a635905e95c542e3f70863f0c57",
+      "contentHash": "5319b99adb4772ce833aab3b8debadbc32071777bfc3ca3512c1cbce3284ff0e",
       "repository": "datascience-br/vagas",
       "repositoryUrl": "https://github.com/datascience-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "node",
+        "python",
+        "pleno",
         "data"
       ],
       "author": {
-        "id": "MariaJuliaRicostiG2",
-        "name": "MariaJuliaRicostiG2",
-        "handle": "MariaJuliaRicostiG2",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/133028854?v=4"
+        "id": "ErickaMB",
+        "name": "ErickaMB",
+        "handle": "ErickaMB",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
       },
       "community": {
         "id": "datascience-br",
@@ -555,78 +647,70 @@
         "repository": "datascience-br/vagas",
         "url": "https://github.com/datascience-br/vagas"
       },
-      "createdAt": "2024-05-17T18:23:58Z",
-      "updatedAt": "2024-05-17T18:23:58Z",
-      "url": "https://github.com/datascience-br/vagas/issues/132",
-      "sourceType": "github-issue",
-      "sourceId": "datascience-br/vagas#132"
+      "createdAt": "2025-02-04T23:13:20Z",
+      "updatedAt": "2025-02-04T23:13:20Z",
+      "url": "https://github.com/datascience-br/vagas/issues/140",
+      "sourceType": "github-issue"
     },
     {
-      "id": "gh_a179e2d835c745927900656e",
-      "title": "[REMOTO]Front-end Developer @Weath99",
-      "description": "**Our Company:** [Wealth99 ](https://wealth99.com/) is a company that acts on the CryptoCurrency and Tokenization of assets market.\n\nWe are searching for someone to fulfil a role that entails front-end development. The ideal candidate is someone who highly regards the user experience and has had previous roles as a Software Developer. A keen interest in evolving and developing great products with ease of use is a must.\n\n**Essential Duties:**\n- Work with agile methodologies helping to organise and maintain the backlog;\n- Collaborate with the development and design team to translate business requirements into robust and scalable technical solutions;\n- Architect and develop highly interactive and responsive user interfaces using Vue.js, applying best design and development practices;\n- Contribute to continuous improvement of development processes, including code reviews, automated testing, and continuous integration;\n- Stay updated with the latest trends and technologies in front-end development, sharing knowledge and insights with the team;\n- Create responsive elements and components;\n- Document developed code;\n- Integration with external and internal APIs.\n\n**Required Skills:**\n- Mid-level English (B1 or higher);\n- Proven Experience with Typescript;\n- Proven Experience with  Vue.JS v 2.7 & Vue.Js v3.0;\n- Experience with Web Design;\n- Experience with version control systems (GIT);\n- Proven experience with Tailwind CSS;\n- Experience with developing automated tests for the front end. Including integration and unit testing.\n\n**Preferred Skills:**\n- Knowledge of the Capacitor.JS framework;\n- Experience with Docker.\n\n**What would make you stand out?**\nKnowledge of Blockchain and Web3 applications.\n\n**Benefits:**\n- Flexible working hours;\n- 100% Remote - Work from anywhere in the world;\n- Paid Time Off (PTO);\n- Birthday Day-Off;\n- Global projects and multicultural teams with international colleagues.\n\n**Working Regime:** Full-Time.\n**Place of Employment:** Remote.\n**Hiring Contract:** PJ.\n**Salary:** **Mid:** R$5,000 - R$8,000 / **Senior:** +R$8.000.\n\n**How to Apply:** You can apply by filling out this [Form](https://forms.gle/R2wiJGPNzX26DNmz7).\n\nContact email if you have any questions: luana@dacxi.com",
-      "excerpt": "**Our Company:** [Wealth99 ](https://wealth99.com/) is a company that acts on the CryptoCurrency and Tokenization of assets market. We are searching for someone to fulfil a role that entails front-end development. The...",
+      "id": "gh_0942ed9736ea13305338edbc",
+      "sourceId": "phpdevbr/vagas#1301",
+      "title": "São Paulo - Desenvolvedor(a) Backend Júnior (PHP e o framework Laravel e banco de dados relacionais)",
+      "description": "Desenvolvedor(a) Backend Júnior (PHP e o framework Laravel e banco de dados relacionais)\n\n\n\n100% Presencial na Casa Verde Alta, São Paulo.\n\n\n\nO valor/hora é de R$ 24 (média de 180 horas/mês).\n\n\n\nRequisitos obrigatórios:\n\n● Mais de 1 ano e meio de experiência.\n\n● Experiência sólida com PHP e o framework Laravel.\n\n● Habilidade para criar e otimizar queries em SQL puro.\n\n● Experiência com bancos de dados relacionais, como MySQL, PostgreSQL e/ou SQL Server.\n\n● Docker.\n\n\n\nDiferenciais não obrigatórios:\n\n● Conhecimento em arquitetura back-end e lógica de programação para resolver problemas complexos.\n\n● Experiência prática com PHP puro para criação de scripts ou funcionalidades específicas.\n\n● Conhecimento em configuração e gerenciamento de servidores Linux, incluindo instalação e monitoramento de serviços.\n\n● Experiência básica com Java para integrações ou funcionalidades complementares.\n\n● Capacidade de implementar e consumir APIs RESTful.\n\n● Familiaridade com ferramentas de versionamento, como Git, e práticas de branching.\n\n● Experiência em criar e manter scripts automatizados para tarefas recorrentes (ex.: envio de e-mails, relatórios, processamento de dados).\n\n● Conhecimento básico em crawlers para coleta de dados e automação.\n\n● Habilidade em configurar ambientes de desenvolvimento e produção com Docker e Docker Compose.\n\n● Experiência com metodologias ágeis, como Scrum ou Kanban.\n\n● Noções básicas de CI/CD e ferramentas como GitHub Actions ou Jenkins.\n\n● Experiência em criar e manter scripts automatizados para tarefas recorrentes (ex.: envio de e-mails, relatórios, processamento de dados).\n\n● Experiência média em HTML e CSS para o desenvolvimento de e-mails e PDFs no Blade.\n\n\n\n● Conhecimento em infraestrutura AWS além do EC2 (RDS, S3, Lambda, etc.).\n\n● Familiaridade com padrões de design de software, como DDD ou Clean Architecture.\n\n● Experiência com filas de mensagem (RabbitMQ, Kafka, etc.).\n\n● Participação ativa em comunidades de desenvolvimento ou contribuição para projetos open source.\n\n\n\nResponsabilidades:\n\n● Desenvolver e manter aplicações back-end utilizando Laravel, garantindo uma arquitetura robusta e escalável.\n\n● Criar e otimizar APIs RESTful, com foco em desempenho e segurança.\n\n● Implementar queries complexas utilizando SQL puro para manipulação e análise de dados.\n\n● Desenvolver funcionalidades específicas em PHP puro, quando o uso de frameworks não for necessário. Entre outros.",
+      "excerpt": "Desenvolvedor(a) Backend Júnior (PHP e o framework Laravel e banco de dados relacionais) 100% Presencial na Casa Verde Alta, São Paulo. O valor/hora é de R$ 24 (média de 180 horas/mês). Requisitos obrigatórios: ● Mais...",
       "issueState": "open",
-      "contentHash": "98ae201c8f2cce5b2288b2322d86a06a397413852b570ea7ee3af9400b01759d",
-      "repository": "web3br/vagas",
-      "repositoryUrl": "https://github.com/web3br/vagas",
+      "contentHash": "cfd2c74a31e8d97236a439acd56b4a5fdb14004c9fcc96e2f2afab4499b5642f",
+      "repository": "phpdevbr/vagas",
+      "repositoryUrl": "https://github.com/phpdevbr/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "remote",
-        "typescript",
-        "senior",
+        "backend",
+        "java",
         "design"
       ],
       "author": {
-        "id": "Soonas",
-        "name": "Soonas",
-        "handle": "Soonas",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/49923278?v=4"
+        "id": "ErickaMB",
+        "name": "ErickaMB",
+        "handle": "ErickaMB",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
       },
       "community": {
-        "id": "web3br",
-        "name": "web3br",
-        "avatarUrl": "https://github.com/web3br.png?size=80",
-        "repository": "web3br/vagas",
-        "url": "https://github.com/web3br/vagas"
+        "id": "phpdevbr",
+        "name": "phpdevbr",
+        "avatarUrl": "https://github.com/phpdevbr.png?size=80",
+        "repository": "phpdevbr/vagas",
+        "url": "https://github.com/phpdevbr/vagas"
       },
-      "salary": {
-        "currency": "BRL",
-        "min": 5000,
-        "max": 8000,
-        "period": "hour"
-      },
-      "createdAt": "2024-05-07T19:29:54Z",
-      "updatedAt": "2024-05-07T19:29:54Z",
-      "url": "https://github.com/web3br/vagas/issues/7",
-      "sourceType": "github-issue",
-      "sourceId": "web3br/vagas#7"
+      "createdAt": "2025-02-03T21:57:51Z",
+      "updatedAt": "2026-04-18T18:59:18Z",
+      "url": "https://github.com/phpdevbr/vagas/issues/1301",
+      "sourceType": "github-issue"
     },
     {
-      "id": "gh_54f13b2669ed890dc97c5bdc",
-      "title": "[Recife - PE] Empresa: Accenture - Desenvolvedor iOS",
-      "description": "<!--- Regras do canal: https://github.com/CocoaHeadsBrasil/vagas/   --->\n\n<!--- Atenção! Verifique as regras do canal antes de postar sua vaga. Vagas fora das regras serão excluídas e a reincidência pode causar o banimento do usuário no canal. Obrigado!  --->\n\n<!---\n    Se a vaga for presencial, adicione ao início da issue o código do Estado.\n    exemplo: [SP - Morumbi] EmpresaFictícia - Desenvolvedor iOS Pleno\n --->\n \n <!--- Por favor, siga o fluxo abaixo --->\n\n## Empresa\nA Accenture é uma empresa global de serviços profissionais líder em soluções para digital, nuvem e segurança.\n\n## Descrição da vaga\n\n## Posição\n Pleno, Sênior e Especialista\n\n## Tipo de contratação\nCLT - híbrido\n\n## Requisitos\nExperiência em desenvolvimento de aplicações em IOS\nConhecimento em Swift\nConhecimento em construção de layouts usando componentes nativos com técnicas de ViewCode e/ou XIBs/Storyboards e/ou SwiftUI\n\n\n###### Diferenciais\nInglês Avançado\n\n## Benefícios\nAssistência Médica – 100% subsidiada pela empresa (titular e dependentes)\n\nAssistência Odontológica\n\nVale Refeição ou Alimentação sem desconto\n\nSeguro de vida\n\nPrevidência Privada\n\nGympass\n\nOpção de compra de ações da empresa com desconto\n\nDesconto Farmácia\n\nAuxílio Creche\n\nParceria com escola de idiomas\n\nLicença Maternidade e Paternidade Estendida\n\nPPR *Conforme política vigente\n\n## Como aplicar\ninscreva-se: https://www.accenture.com/br-pt/careers/jobdetails?id=R00211134_pt-br&title=Desenvolvedor%20(a)%20Mobile%20-%20IOS \n\n## Contato\nhttps://www.linkedin.com/posts/mayaratmarinho_lettherebechange-quevenhaamudanaexa-ios-activity-7167928456863850496-JzRH?utm_source=share&utm_medium=member_desktop",
-      "excerpt": "<!--- Regras do canal: https://github.com/CocoaHeadsBrasil/vagas/ ---> <!--- Atenção! Verifique as regras do canal antes de postar sua vaga. Vagas fora das regras serão excluídas e a reincidência pode causar o banimen...",
+      "id": "gh_c00aea9ceba72a4744407ba9",
+      "sourceId": "CocoaHeadsBrasil/vagas#1549",
+      "title": "[REMOTO] Sr Mobile Developer (iOS) - Invillia",
+      "description": "**Nossa empresa**\nA experiência de trabalhar na Invillia é única. E global. Temos o nosso próprio jeito de conectar talentos e construir inovações.\n\nRevolucionamos o ambiente de trabalho #Instation + somos experts em desenvolver soluções complexas para #GameChangers + temos uma metodologia única #EngagedbyDataPeopleAction + investimos em pessoas #InvilliaAcademy\n\nAlguns diferenciais Invillia:\n_inovamos lado-a-lado com #GameChangersGlobais\n_cultura de trabalho distribuído #inStation\n_metodologia exclusiva #GlobalGrowthFramework\n\nFaça uma imersão aqui https://invillia.com/\n\nEntão, se você busca uma oportunidade de trabalhar de onde estiver, em uma empresa dedicada em recriar a sensação de proximidade, de conexão humana, e de se sentir acolhido a qualquer momento, mesmo com todos distribuídos, aqui é o lugar certo.\n\n**Descrição da vaga**\nO profissional será responsável em prover soluções técnicas para novas features e dar o suporte necessário as features já existentes, afinal, nem tudo são flores.\nEsperamos também que essa pessoa auxilie os outros membros do time em questões técnicas não esquecendo de fornecer a melhor solução para o negócio.\nAlgo que prezamos bastante é qualidade, isso inclui um código limpo e legível (clean code).\nTambém é desejável que o mesmo tenha um perfil intra-empreendedor, onde seus objetivos estejam alinhados com os objetivos da empresa, afinal, temos muito orgulho do que fazemos aqui!\n\n**Local**\nRemoto\n\n**REQUISITOS**\nDesenvolvimento de aplicativos nativos Android (Kotlin/Java) utilizando views nativas\nDesenvolvimento de aplicativos utilizando ferramentas Low-code para auxílio na construção de componentes\nConsumo de APIs RESTful com Coroutines\nExperiencia com testes unitários utilizando Roboletric, Mockk e Junit\nConhecimentos dos padrões de arquitetura MVVMcom Coroutines\nExperiência com desenvolvimento Android (Nativo);\nExperiência com Git e Git Flow;\nExperiência em JSON;\nAmplos conhecimentos em Java e Kotlin;\nConhecimento e vivência com RESTFul;\nTestes de interface e testes unitários;\nAndroid Jetpack Components (ViewModel, Room, LiveData, Databinding, Navigation);\nConhecimento em UI customizada;\nExperiência em desenvolvimento e integração com aplicações utilizadas em larga escala com foco em performance e utilização racional de recursos;\nConhecimento em arquiteturas móveis como MVP, MVVM e Clean Architecture;\nCapacidade de trabalhar em times multidisciplinares e de se comunicar claramente com times de desenvolvimento, design, marketing e produtos;\nFerramentas de versionamento de código (git) e desenvolvimento colaborativo\nCriar, manter e evoluir documentações\nArquitetura de software, princípios SOLID e padrões de projetos\nDesejável conhecimento em Server Driven UI(SDUI) e Backend For Frontend(BFF) ou disponibilidade de aprender\nDesejável conhecimento em desenvolvimento Java + Spring (para atuação nos orquestradores de frontend) ou disponibilidade de aprender\nExperiência com modularização de aplicações\nDisponibilidade para mentoria e disseminação de conhecimento\nBuscar conhecimento proativamente, vontade de aprender\nComunicar-se bem e ser participativo\nTrabalhar bem colaborativamente\nExperiência com ferramentas de minificação e ofuscação de código\nConhecimento em gerenciamento de memória e ajustes de desempenho do App\n\n**Como se candidatar**\nPor favor, enviar o cv atualizado para: isaque.silva@invillia.com",
+      "excerpt": "**Nossa empresa** A experiência de trabalhar na Invillia é única. E global. Temos o nosso próprio jeito de conectar talentos e construir inovações. Revolucionamos o ambiente de trabalho #Instation + somos experts em d...",
       "issueState": "open",
-      "contentHash": "e14e027a91c9c5a4f3a7abf4d3593d4839070cb07ddae29728d70bfc8c022fd4",
+      "contentHash": "0f47967442084686c7f8eb48ac9fa9cbb4b7ee9a0919cf8bf0e5157a8126a8e6",
       "repository": "CocoaHeadsBrasil/vagas",
       "repositoryUrl": "https://github.com/CocoaHeadsBrasil/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "clt",
-        "pleno",
-        "senior",
-        "lead",
-        "híbrido",
-        "stale"
+        "frontend",
+        "backend",
+        "java",
+        "data",
+        "design"
       ],
       "author": {
-        "id": "Mayaratm",
-        "name": "Mayaratm",
-        "handle": "Mayaratm",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/82521707?v=4"
+        "id": "GiLazaro",
+        "name": "GiLazaro",
+        "handle": "GiLazaro",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/176509171?v=4"
       },
       "community": {
         "id": "CocoaHeadsBrasil",
@@ -635,87 +719,10 @@
         "repository": "CocoaHeadsBrasil/vagas",
         "url": "https://github.com/CocoaHeadsBrasil/vagas"
       },
-      "companyName": "Accenture - Desenvolvedor iOS",
-      "createdAt": "2024-05-06T18:13:25Z",
-      "updatedAt": "2026-04-20T08:35:54Z",
-      "url": "https://github.com/CocoaHeadsBrasil/vagas/issues/1543",
-      "sourceType": "github-issue",
-      "sourceId": "CocoaHeadsBrasil/vagas#1543"
-    },
-    {
-      "id": "gh_2c7ad9a7c7c14baec770cf12",
-      "title": "[遠端] [底薪 1.3-2.9M] Circle 招募 Junior/Senior/Staff 後端工程師 (Golang) ",
-      "description": "## 團隊簡介\n我們是 [Circle](https://www.circle.com/en/)，全球第二大穩定幣 USDC 的發行商，在 2022 年併購了提供加密資產託管服務的台灣新創 CYBAVO 博歐科技。除了發行 [USDC](https://www.usdc.com/learn/what-is-usdc) 之外，我們在打造 **[Circle Payments Network](https://www.circle.com/cpn)**（CPN） 跟 [Programmable Wallet](https://developers.circle.com/w3s/programmable-wallets)，用受監管的穩定幣（像 USDC）重新定義全球資金怎麼流動。簡單說，就是讓跨境支付變得更快、更便宜、不再卡在傳統金融的種種低效。\n\n我們台灣的工程團隊專注在兩個核心領域：\n\n- 🔐 **Key Management**：打造更安全的私鑰管理方式，比如用 Multi-Party Computation（MPC）跟 Passkeys，來讓用戶和開發者能在不暴露私鑰的情況下安全簽署交易，又不怕弄丟或被盜。\n- 💵 **Circle Payment Network**：一個全新的全球支付網路，讓 Payment Service Providers 可以透過 USDC 和 EURC，24/7 、即時完成跨境資金移動。\n- 🔧 **Blockchain Infrastructure**：打造區塊鏈核心功能，例如交易廣播、區塊鏈資料索引以提升存取效率、簡化 gas fee 管理等。\n\n我們目前在尋找後端工程師加入團隊：Circle is looking for a highly skilled and expert Senior Backend Engineer to join our dynamic team at Circle. As a Senior Backend Engineer, you will play a meaningful role in developing various services on our wallet infrastructure and maintaining the underlying code.\n\n🔥 **應徵連結**\n\n- Senior/Staff: [https://careers.circle.com/us/en/job/JR100636/Senior-Software-Engineer](https://careers.circle.com/us/en/job/JR100636/Senior-Software-Engineer)\n\nCircle 與 Sony 合作 ➡️ [Circle 合作索尼 L2「Soneium」將引入 USDC](https://www.blocktempo.com/circle-partners-with-sony-block-solutions-labs-to-introduce-usdc/)\n\nCircle 與 Binance 合作 ➡️ [Circle 與幣安達成戰略合作夥伴關係 推動全球USDC和加密貨幣普及](https://www.blocktempo.com/circle-and-binance-enter-into-strategic-partnership/)\n\nCircle 登入日本 ➡️ [USDC獲批成「日本首個合規穩定幣」，Circle 合作金融巨頭 SBI Holdings 今上架迎3大利好](https://www.blocktempo.com/usdc-becomes-japans-first-regulatory-compliant-stablecoin/)\n\n## 工作地點\n混合工作模式，可以自由選擇在家上班，或是到位於信義區的辦公室吹冷氣。\n有的同事住在中南部，只有偶爾有 all-hands meeting 或是 team building 活動的時候才會上來台北！\n\n## 工作內容\n\n- Compile and analyze data, processes, and codes to solve problems and identify areas for improvement\n- Builds services, APIs, and SDKs which align with data protection standards and aid in the implementation of protection controls for other developers\n- Collaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes\n- Be involved and participate in the overall application lifecycle\n- Build high-quality reusable code that can be used in the future\n- Conduct whitebox tests and optimize performance\n- Participate in conferences and educational programs\n- Follow new and emerging technologies and provide training, help, and support to other team members\n- Taking the lead on projects, as needed\n\n## 能力需求\n\n- 4 years minimum professional software development experience in object-oriented languages like Go\n- Bachelor's degree or equivalent experience in Computer Science or a closely related field.\n- Familiar with the Golang Web Framework like Gin, Fasthttps and know the Golang develop related tools like go mod, go lint, etc\n- Familiar with database operations like MySQL, Postgresql, NoSql, etc. And understand how to use raw commands to operate databases\n- Familiar with unit test development and looking for high-quality coding\n- Strong understanding of the microservices development cycle and programming techniques and tools\n- Familiar with cryptography would be a plus\n- Excellent project and time management skills\n- Excellent communication skills (in both English and Mandarin), able to collaborate with remote teams, share ideas and present concepts effectively.\n- Self-starter, you enjoy moving at a fast pace, shipping software that improves the user experience and constantly improving your work with little supervision.\n- Led teams (2-4) technically on architecture and system design\n\n## 加分能力\n\n- Experience developing REST APIs\n- Amazon AWS certifications such as DevOps and/or Solutions Architect Associate/Pro levels\n- Familiarity with front-end languages such as HTML, JavaScript, CSS, and Vue.js.\n\n## 面試流程\nSenior:\n- HR 面試（約 40 分鐘）\n- 線上程式測驗（約 90 分鐘）\n- Technical Interview*3（60 分鐘 x 2 + 90 分鐘 x 1）\n- Behavioral Interview*3 （60 分鐘 x 1 + 30 分鐘 x2）\n\nJunior/Middle level:\n- HR 面試（約 40 分鐘）\n- 線上程式測驗（約 70 分鐘）\n- Technical Interview*2（60 分鐘 x 1 + 90 分鐘 x 1）\n- Behavioral Interview*4 （60 分鐘 x 1 + 30 分鐘 x3）\n\n約一個月可以完成所有面試流程\n\n## 薪資範圍\nSenior - Staff:\n- Base Pay Range: NT$2,100,000 - $2,900,000（月薪：180K - 247K）\n- Annual Bonus Target: 12.5-15%\n- Also Included: Equity & Benefits\n\n## 福利/推薦項\n\nHome office 補助、每月手機費用補助、員工健康檢查補助、彈性有薪假期（基本上不限制休假天數，只要與主管達成共識即可）\n（雖然是外商，但不是 EOR，有提供薪轉跟勞健保）\n\n## 聯絡方式\n🔥 **應徵連結：[https://careers.circle.com/us/en/job/JR100636/Senior-Software-Engineer](https://careers.circle.com/us/en/job/JR100636/Senior-Software-Engineer)**\nEmail: [riley.chang@circle.com](mailto:riley.chang@circle.com)\nLinkedIn: https://www.linkedin.com/in/riley-chang/\n\n歡迎 LinkedIn 私訊我了解更多～",
-      "excerpt": "## 團隊簡介 我們是 [Circle](https://www.circle.com/en/)，全球第二大穩定幣 USDC 的發行商，在 2022 年併購了提供加密資產託管服務的台灣新創 CYBAVO 博歐科技。除了發行 [USDC](https://www.usdc.com/learn/what-is-usdc) 之外，我們在打造 **[Circle Payments Network](https://www.circle.c...",
-      "issueState": "open",
-      "contentHash": "50e4392c1441cec742dce2f57c9323b192530a96a884975519f6e7f85acc07e3",
-      "repository": "golangtw/jobs",
-      "repositoryUrl": "https://github.com/golangtw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "遠端",
-        "台北",
-        "100k以上"
-      ],
-      "author": {
-        "id": "ujen227",
-        "name": "ujen227",
-        "handle": "ujen227",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/120015450?v=4"
-      },
-      "community": {
-        "id": "golangtw",
-        "name": "golangtw",
-        "avatarUrl": "https://github.com/golangtw.png?size=80",
-        "repository": "golangtw/jobs",
-        "url": "https://github.com/golangtw/jobs"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 2100000,
-        "max": 2900000,
-        "period": "hour"
-      },
-      "createdAt": "2024-04-23T09:19:25Z",
-      "updatedAt": "2025-10-09T05:34:41Z",
-      "url": "https://github.com/golangtw/jobs/issues/201",
-      "sourceType": "github-issue",
-      "sourceId": "golangtw/jobs#201"
-    },
-    {
-      "id": "gh_b9847a89f2095dbea74c63ac",
-      "title": "[Florianopolis, SC] Desenvolvedor Flutter [SENIOR] | Sellers",
-      "description": "## Descrição da vaga\n\nEstamos buscando um talentoso desenvolvedor Flutter Sênior para se juntar à nossa equipe de desenvolvimento. Como parte essencial da equipe, você será responsável por desenvolver e evoluir nosso aplicativo de alto desempenho.\n\n## Local\n\nHíbrido, Florianópolis\n\n## Benefícios\n\n- R$ 1.300,00\n\n## Contratação\n\nCooperativa\n\n## Como se candidatar\n\nPor favor envie um email para marcelo@sellers.com.br com seu CV anexado - enviar no assunto: Vaga Flutter",
-      "excerpt": "## Descrição da vaga Estamos buscando um talentoso desenvolvedor Flutter Sênior para se juntar à nossa equipe de desenvolvimento. Como parte essencial da equipe, você será responsável por desenvolver e evoluir nosso a...",
-      "issueState": "open",
-      "contentHash": "ff888901e100ae11cbd76629904cede79ab07d0b030df06b511cb1dda8e3910b",
-      "repository": "FlutterComunidadeBR/vagas",
-      "repositoryUrl": "https://github.com/FlutterComunidadeBR/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "marcelosv",
-        "name": "marcelosv",
-        "handle": "marcelosv",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8119208?v=4"
-      },
-      "community": {
-        "id": "FlutterComunidadeBR",
-        "name": "FlutterComunidadeBR",
-        "avatarUrl": "https://github.com/FlutterComunidadeBR.png?size=80",
-        "repository": "FlutterComunidadeBR/vagas",
-        "url": "https://github.com/FlutterComunidadeBR/vagas"
-      },
-      "createdAt": "2024-04-20T18:40:32Z",
-      "updatedAt": "2024-04-20T18:40:32Z",
-      "url": "https://github.com/FlutterComunidadeBR/vagas/issues/65",
-      "sourceType": "github-issue",
-      "sourceId": "FlutterComunidadeBR/vagas#65"
+      "createdAt": "2025-01-31T19:32:31Z",
+      "updatedAt": "2025-01-31T19:32:54Z",
+      "url": "https://github.com/CocoaHeadsBrasil/vagas/issues/1549",
+      "sourceType": "github-issue"
     }
   ]
 }

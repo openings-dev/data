@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "items": {
     "gh_72cc354e7d9c38f999fa902a": {
       "id": "gh_72cc354e7d9c38f999fa902a",
+      "sourceId": "timqian/open-source-jobs#161",
       "title": "Feature: Enhanced Search & Filtering",
       "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
       "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
@@ -29,11 +30,11 @@
       "createdAt": "2026-02-18T13:29:12Z",
       "updatedAt": "2026-02-19T04:01:20Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/161",
-      "sourceType": "github-issue",
-      "sourceId": "timqian/open-source-jobs#161"
+      "sourceType": "github-issue"
     },
     "gh_72c4998e12995d5589a38bf0": {
       "id": "gh_72c4998e12995d5589a38bf0",
+      "sourceId": "vanshb03/New-Grad-2026#1539",
       "title": "Mechanize — Junior Software Engineer",
       "description": "### Link to Job Posting\n\nhttps://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos\n\n### Company Name\n\nMechanize\n\n### Job Title\n\nJunior Software Engineer\n\n### Location\n\nSan Francisco, CA\n\n### Does this job offer sponsorship?\n\nDoes Not Offer Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\narjun.panickssery@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
       "excerpt": "### Link to Job Posting https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos ### Company Name Mechanize ### Job Title Junior Software Engineer ### Location San Francisco, C...",
@@ -62,11 +63,11 @@
       "createdAt": "2026-01-27T03:37:25Z",
       "updatedAt": "2026-01-27T03:38:40Z",
       "url": "https://github.com/vanshb03/New-Grad-2027/issues/1539",
-      "sourceType": "github-issue",
-      "sourceId": "vanshb03/New-Grad-2026#1539"
+      "sourceType": "github-issue"
     },
     "gh_720980f7a8c28105a2b6a178": {
       "id": "gh_720980f7a8c28105a2b6a178",
+      "sourceId": "programadores-br/geral#3048",
       "title": "[Hibrido / Brasília, Brasil] Python Developer (Pleno) na Coodesh",
       "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/python-developer-pleno-235834841?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando Python Developer pleno para compor nosso time. \n\nVaga híbrida preferencialmente para Brasília, mas também aceitamos candidatos de Belo Horizonte.\n## Mera: \n Conectamos profissionais da saúde a oportunidades de atendimentos em empresas de saúde. Auxiliamos as empresas de saúde a garantir atendimentos e plantões. A Mera é uma empresa que chegou para inovar no mercado, de forma disruptiva, buscando qualidade, valorização e assertividade dos atendimentos. \n\nundefined \n\n\n\n ## Habilidades: \n - MySQL \n- AWS \n- Amazon EC2 \n- Lambda \n- DynamoDB \n- Airflow\n## Local: \n Brasília, Brasil\n## Requisitos: \n - Conhecimento intermediário em engenharia de dados \n- Banco de dados: Postgres e mysql \n- ⁠AWS: EC2, Lambda, DynamoDB, IAM \n- ⁠ Conhecimento em Airflow \n- ⁠DevOps básico\n## Diferenciais: \n - Azure Básico\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Python Developer (Pleno) na Mera](https://coodesh.com/jobs/python-developer-pleno-235834841?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nBack-End",
       "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
@@ -99,11 +100,46 @@
       "createdAt": "2026-01-13T14:25:17Z",
       "updatedAt": "2026-01-13T14:25:43Z",
       "url": "https://github.com/programadores-br/geral/issues/3048",
-      "sourceType": "github-issue",
-      "sourceId": "programadores-br/geral#3048"
+      "sourceType": "github-issue"
+    },
+    "gh_72cfadae02e4f1d29faac8e9": {
+      "id": "gh_72cfadae02e4f1d29faac8e9",
+      "sourceId": "remotejobsbr/design-ux-vagas#118",
+      "title": "[MARINGÁ] Designer UI/UX Trainee na DB1",
+      "description": "## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Descrição da vaga\n\nComo UX/UI Trainee, você irá aprender e apoiar o time no entendimento de problemas reais dos usuários e na criação de soluções que tornem nossas jornadas mais intuitivas, eficientes e agradáveis.\nVocê estará ao lado de designer, PO, analistas de negócios, desenvolvedores e áreas internas, contribuindo em todas as etapas: desde pesquisas iniciais até protótipos e testes com usuários. Você será responsável por:\n\nApoiar pesquisas com usuários (entrevistas, levantamentos e análises) para entender dores e oportunidades;\nParticipar de sessões de brainstorming e ideação junto ao time de Produto e UX;\nAjudar na criação de fluxos, wireframes e protótipos;\nContribuir com a elaboração e organização de telas e componentes seguindo o Design System;\nAuxiliar na análise de resultados de testes de usabilidade e propor melhorias;\nAtuar em rituais ágeis (Scrum/Kanban), aprendendo sobre colaboração, ritmo e visibilidade;\nApoiar documentação básica (histórias, critérios de aceitação, especificações) sempre com orientação do time.\n## Local\n\nEscritório, [PARANÁ], [MARINGÁ]\n\n## Requisitos\n\n**Obrigatórios:**\nInteresse de aprender e crescer na área de UX/UI;\nComunicação clara, abertura para feedbacks e colaboração com diferentes áreas;\nPensamento crítico e olhar atento a detalhes, com foco em criar experiências simples e funcionais;\nOrganização e responsabilidade para acompanhar tarefas e prazos;\nFormação em andamento ou concluída em Design, Sistemas de Informação, Engenharia ou áreas correlatas.\n\n**Diferenciais:**\nFigma;\nPráticas de UX Research (entrevistas, análise heurística, mapas de jornada);\nConceitos de Design Thinking, Lean UX e Product Discovery;\nNoções de Design System.\n\n## Benefícios\n\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nLINK https://db1.inhire.app/vagas/9869bb8e-7404-4949-b99d-491acfe51633/designer-uiux-trainee?r=43941dbb-f183-4c7c-a931-f64828e11cf7 \n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n\n- CLT\n- Treinee",
+      "excerpt": "## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida da...",
+      "issueState": "open",
+      "contentHash": "5b556cf16530c498848234e3f369148127d05dbb8f4d5bb036239cbe1d142b8f",
+      "repository": "remotejobsbr/design-ux-vagas",
+      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "remotejobsbr",
+        "name": "remotejobsbr",
+        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
+        "repository": "remotejobsbr/design-ux-vagas",
+        "url": "https://github.com/remotejobsbr/design-ux-vagas"
+      },
+      "companyName": "DB1",
+      "createdAt": "2025-12-05T13:51:36Z",
+      "updatedAt": "2025-12-05T13:51:36Z",
+      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/118",
+      "sourceType": "github-issue"
     },
     "gh_72963d5e4d80ff7c20fc14da": {
       "id": "gh_72963d5e4d80ff7c20fc14da",
+      "sourceId": "devfsa/vagas#2803",
       "title": "Híbrido em Campinas/SP | Product Designer Junior | V4 Company",
       "description": "Estamos em busca de um(a) Product Designer para compor o time de Produto da V4 Company!\n\nVocê será responsável por criar e validar protótipos mobile, definição de fluxos de navegação e sitemap, criação de wireframe, layouts e protótipos.\n\nSe você é um profissional motivado, orientado para resultados e apaixonado por ajudar os clientes a alcançar o sucesso por meio do marketing digital e está pronto para assumir um papel desafiador, dá uma olhada na descrição da posição abaixo e te inscreve!\n\n \n**Alguns dos desafios que você vai encarar:**\n\n- Entender as necessidades, motivações e comportamentos das pessoas usuárias e traduzi-los em resultados;\n\n- Contribuir no desenvolvimento e manutenção de padrões de Style Guide e Design System;\n\n- Trabalhar junto a squad (Devs, POs, etc) durante todo o processo de Discovery e Delivery;\n\n- Criar e validar protótipos mobile;\n\n- Design e criação de projetos digitais;\n\n- Definição de fluxos de navegação e sitemap;\n\n- Criação de wireframe, layouts e protótipos;\n\n- Levantamento de briefing e discussão de escopo;\n\n- Entendimento de requisitos e ou limitações técnicas para desenvolvimento de projetos;\n\n- Mapeamento e organização de conteúdos.\n\n \n**Pré-requisitos para candidatura:**\n\n- Figma (imprescindível);\n\n- Experiência com Design System;\n\n- Conhecimento em Design Ops;\n\n- Conhecimento em Ux Research;\n\n- Vivencia com Interface;\n\n- Habilidades de desenho visual, capazes de criar telas de produtos atraentes e de alta fidelidade, incluindo o uso de um conjunto diversificado de software, como Figma e Miro.\n\n- Experiência com produtos digitais.\n\n \n**O que mais oferecemos:**\n\n- Ambiente vibrante, cheio de pessoas com o propósito de crescer;\n- Foco em metas, não em horários;\n- Gestão meritocrática;\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Aulas de inglês;\n- Gympass;\n- Acesso a OnHappy.",
       "excerpt": "Estamos em busca de um(a) Product Designer para compor o time de Produto da V4 Company! Você será responsável por criar e validar protótipos mobile, definição de fluxos de navegação e sitemap, criação de wireframe, la...",
@@ -133,11 +169,11 @@
       "createdAt": "2025-05-09T12:49:43Z",
       "updatedAt": "2025-05-09T12:49:43Z",
       "url": "https://github.com/devfsa/vagas/issues/2803",
-      "sourceType": "github-issue",
-      "sourceId": "devfsa/vagas#2803"
+      "sourceType": "github-issue"
     },
     "gh_724342a7441cbc13493ec56f": {
       "id": "gh_724342a7441cbc13493ec56f",
+      "sourceId": "FlutterComunidadeBR/vagas#63",
       "title": "[Remoto] Flutter Mobile (Júnior/Pleno) na Coodesh",
       "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/flutter-mobile-juniorpleno-151529578?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open) com o pop-up personalizado de candidatura. 👋\n<p>Estamos procurando uma pessoa com experiência em desenvolvimento Flutter para se juntar à equipe da Net Imoveis!</p>\n<p></p>\n<p><strong>Responsabilidades:</strong></p>\n<ul>\n<li>Desenvolver e manter nossos aplicativos em Flutter;</li>\n<li>Trabalhar em estreita colaboração com a equipe de design para criar interfaces de usuário atraentes e fáceis de usar;</li>\n<li>Garantir que nossos aplicativos sejam de alta qualidade, seguros e escaláveis;</li>\n<li>Identificar e corrigir bugs e problemas de desempenho;</li>\n<li>Manter-se atualizado sobre as tendências e tecnologias mais recentes em desenvolvimento de aplicativos móveis.</li>\n</ul>\n<p></p>\n## Netimóveis Brasil: \n <p>Há mais de 27 anos trabalhamos para ajudar você em um momento muito importante: a procura de um lar ideal. Para isso contamos com mais de 150 imobiliárias associadas espalhadas pelo Brasil, além de uma unidade em Portugal, fruto da expansão internacional iniciada no último ano.</p>\n<p>Somos um dos maiores portais imobiliários do país, com mais de 100 mil imóveis qualificados e sem repetição. Na Netimóveis você vende, aluga e compra o seu imóvel com muito mais segurança e agilidade.</p>\n\n ## Habilidades: \n - Flutter \n- Design Patterns \n- Code Review \n- Dart\n## Local: \n 100% Remoto\n## Requisitos: \n - Experiência com desenvolvimento Flutter; \n- Conhecimentos sólidos em estruturas de dados, algoritmos, design patterns e arquitetura de sistemas; \n- Experiência em boas práticas de engenharia de software, lint, testes unitários e code reviews.\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Flutter Mobile (Júnior/Pleno) na Netimóveis Brasil](https://coodesh.com/jobs/flutter-mobile-juniorpleno-151529578?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nMobile",
       "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
@@ -170,8 +206,7 @@
       "createdAt": "2023-12-28T19:22:29Z",
       "updatedAt": "2023-12-28T19:22:29Z",
       "url": "https://github.com/FlutterComunidadeBR/vagas/issues/63",
-      "sourceType": "github-issue",
-      "sourceId": "FlutterComunidadeBR/vagas#63"
+      "sourceType": "github-issue"
     }
   }
 }

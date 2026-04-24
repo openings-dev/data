@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T16:01:02.332Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "country": "Global",
   "countryCode": "GLOBAL",
   "region": "Global",
@@ -9,10 +9,11 @@
     "openIssues": 1,
     "closedIssues": 2
   },
-  "dataHash": "7a02e800b7e511dfcaf0ef1da241d9de63bb298416890e326e9b05023995c207",
+  "dataHash": "7f25a1dff711da2503cd04046d406d2be74fe1f9c5b2123c72f84f180518bb60",
   "items": [
     {
       "id": "gh_8c32c918ccb700e288b4d7b9",
+      "sourceId": "pogopaule/awesome-sustainability-jobs#36",
       "title": "Just some feedback",
       "description": "Not truly an \"issue\" as such - more \"feedback\"\n- ignore and close as you wish! 🥰\n\nI love the project \n- for me the idea of a \"one-stop\" location to find sustainability related jobs is truly awesome\nthey're surprisingly hard to find 😢\nso I'm happy to try and contribute\n\n\n\nContributing to the \"backlog\" is fairly easy - once I remember where to find the link to it\n- but its contents have not changed much since I first saw it\n\n\nContributing to the project is less easy and kinda time consuming \n- time (for me personally) I'd rather spend on finding a sustainability related job!\n\n\n\nOnce (as a job searcher) I've seen a company in README.md - I'll check their website out\n- will manage to find their careers page\n- will see if there's anything relevant\n- will see if their location is workable\nand apply or not\n\n\nOr (more likely) \n\nOnce (as a job searcher) I've seen a job board in README.md\nI'm going to use that site which may well have 10's, 100's of companies relevant to the project\n- but how likely am I to come back to this project and contribute those companies one by one?\n\n\n\n\nSome thoughts I've had along the way:\n\n- Create a web page/form that takes out some of the \"grunt work\"\nAs a contributor, if I've found a company web page that seems relevant, I ideally want to \n- copy their URL\n- paste into a \"new entry\" page that\n- \"auto-fills\" various things\n       - give me a dropdown for selecting \"Jobsite\" or \"Company\"\n       - dropdown for the \"field\"\n       - scrape from the page the description etc.\n       - maybe find the \"Careers\" link and auto add that as the \"jobs\" entry\n \nIn my mind these following values are somewhat \"Nice to have\"\nI'd rather see an entry with these missing, than no entry!\n\nSo the page/form could *optionally* \n       - give me tickboxes for \"Remote\" and \"Speculative\" \n       Let me copy and paste in the text \"Address(es)\" from the website\n       - search Google Maps, and pull out latitude & longitude from the Google URL\n       - search Glassdoor and pull out \"ratings\" URL, and ratings value\n\nWith all that info/input generate some correctly formatted YAML and\n- either add to data.yaml directly\n- or create a snippet that can easily be added\n- check for duplicates\n\n\nArguably a developer should find it relatively straight-forward to\n- fork the project, clone it\n- edit data.yaml and add correctly filled out entries\n- commit, push, submit PR etc. etc.\n\nbut that's not zero effort so anything that helps automate some of this will help (me anyway)\n\n\nwhy not scrape or receive feeds from job-boards?\n- but if README.md was changing many times a day and listed 100s or 1000s of companies it'll stop being so useful due to too many entries!\n\n\nanyways\n\njust some ideas\n\nKind regards,\n\nTim",
       "excerpt": "Not truly an \"issue\" as such - more \"feedback\" - ignore and close as you wish! 🥰 I love the project - for me the idea of a \"one-stop\" location to find sustainability related jobs is truly awesome they're surprisingly...",
@@ -42,11 +43,11 @@
       "createdAt": "2023-09-11T22:11:29Z",
       "updatedAt": "2024-05-24T14:17:03Z",
       "url": "https://github.com/pogopaule/awesome-sustainability-jobs/issues/36",
-      "sourceType": "github-issue",
-      "sourceId": "pogopaule/awesome-sustainability-jobs#36"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_d4173c5826354e1e68164f17",
+      "sourceId": "pogopaule/awesome-sustainability-jobs#23",
       "title": "Jobs for devs now but can I change to jobs for analysts?",
       "description": "I didn’t know this repo existed and it’s such a cool feature to know that I have access to a curated database of sustainably focused companies.\n\nfrom what I understand this is only for developer jobs is there a way I could monitor or have it search for the same company search but for analyst jobs?",
       "excerpt": "I didn’t know this repo existed and it’s such a cool feature to know that I have access to a curated database of sustainably focused companies. from what I understand this is only for developer jobs is there a way I c...",
@@ -75,11 +76,11 @@
       "createdAt": "2022-12-03T03:57:07Z",
       "updatedAt": "2022-12-03T16:10:57Z",
       "url": "https://github.com/pogopaule/awesome-sustainability-jobs/issues/23",
-      "sourceType": "github-issue",
-      "sourceId": "pogopaule/awesome-sustainability-jobs#23"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_3fe8c6d6d9239a08d36dc468",
+      "sourceId": "pogopaule/awesome-sustainability-jobs#8",
       "title": "Translate German descriptions into English",
       "description": "This project started with a focus on German speaking countries.\nHence the description for companies based in Germany are in German.\nNow that this project is getting more and more international the main language should be English.\n\nsee e.g. https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/data.yaml#L57",
       "excerpt": "This project started with a focus on German speaking countries. Hence the description for companies based in Germany are in German. Now that this project is getting more and more international the main language should...",
@@ -108,8 +109,7 @@
       "createdAt": "2021-09-23T17:31:45Z",
       "updatedAt": "2024-10-05T19:15:15Z",
       "url": "https://github.com/pogopaule/awesome-sustainability-jobs/issues/8",
-      "sourceType": "github-issue",
-      "sourceId": "pogopaule/awesome-sustainability-jobs#8"
+      "sourceType": "github-issue"
     }
   ]
 }

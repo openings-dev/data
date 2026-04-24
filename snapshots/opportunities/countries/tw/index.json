@@ -1,23 +1,31 @@
 {
-  "generatedAt": "2026-04-24T16:01:02.332Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "country": "Taiwan",
   "countryCode": "TW",
   "region": "Asia",
   "totals": {
-    "opportunities": 59,
-    "repositories": 2,
-    "openIssues": 23,
-    "closedIssues": 36
+    "opportunities": 159,
+    "repositories": 8,
+    "openIssues": 95,
+    "closedIssues": 64
   },
   "failedRepositories": [],
   "byRepository": [
+    {
+      "repository": "EtherTW/jobs",
+      "issues": 30,
+      "openIssues": 14,
+      "closedIssues": 16,
+      "file": "countries/tw/repositories/ethertw-jobs.json",
+      "hash": "cc058b3e44839ea3e13e2815c78d7c42b65196a521608a80c16cdd9e89eadb4d"
+    },
     {
       "repository": "f2etw/jobs",
       "issues": 30,
       "openIssues": 14,
       "closedIssues": 16,
       "file": "countries/tw/repositories/f2etw-jobs.json",
-      "hash": "defbca507851bb481dda0fae57bb2b34e56af6141964d890c1fd7a9608438ae9"
+      "hash": "08b1e23171c7ed62ca6e4fa96b02a67c3bb194b9aeed3ef86b070cc5761c7683"
     },
     {
       "repository": "golangtw/jobs",
@@ -25,7 +33,47 @@
       "openIssues": 9,
       "closedIssues": 20,
       "file": "countries/tw/repositories/golangtw-jobs.json",
-      "hash": "40caea776a012ccd532c0b4a6a859f6a70705dc0df4b6db1e465f655bed25296"
+      "hash": "69c94250bf16263b54ed51be8cfbba55663983dca06aa215749637090c550ca9"
+    },
+    {
+      "repository": "ios-taipei/MobileJobs",
+      "issues": 6,
+      "openIssues": 6,
+      "closedIssues": 0,
+      "file": "countries/tw/repositories/ios-taipei-mobilejobs.json",
+      "hash": "8c6217c60013dd48385c144af301dd91e5427afe684287c571f4548c1d540a4c"
+    },
+    {
+      "repository": "nodejs-tw/jobs",
+      "issues": 30,
+      "openIssues": 23,
+      "closedIssues": 7,
+      "file": "countries/tw/repositories/nodejs-tw-jobs.json",
+      "hash": "d3ce0d7957f9de1eafa33d55432969603184b50834cd15d5e00ff192d2b5db8b"
+    },
+    {
+      "repository": "TADSG/jobs",
+      "issues": 2,
+      "openIssues": 2,
+      "closedIssues": 0,
+      "file": "countries/tw/repositories/tadsg-jobs.json",
+      "hash": "fbf1b8ae20bf6096760d70429c39b41e1a4b164a534c1d6558ab0b37393e8155"
+    },
+    {
+      "repository": "taiwan-kotlin-user-group/jobs",
+      "issues": 2,
+      "openIssues": 2,
+      "closedIssues": 0,
+      "file": "countries/tw/repositories/taiwan-kotlin-user-group-jobs.json",
+      "hash": "a0d228e57cce564638143e2c8f950d3c5ea421af5810df3c1e22f4993633d5ad"
+    },
+    {
+      "repository": "twjug/jobs",
+      "issues": 30,
+      "openIssues": 25,
+      "closedIssues": 5,
+      "file": "countries/tw/repositories/twjug-jobs.json",
+      "hash": "1d7632b09702fe0bdcc1a8a4bdf8e9b099b816319a016f3be1d922e4a874606e"
     }
   ]
 }

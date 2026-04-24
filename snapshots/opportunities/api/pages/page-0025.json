@@ -1,265 +1,744 @@
 {
-  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "page": 25,
   "pageSize": 20,
-  "nextPage": null,
+  "nextPage": "api/pages/page-0026.json",
   "ids": [
-    "gh_307c2d8865c4c55b7cf135d2",
-    "gh_061aec6a4cca6efa6f12422f",
-    "gh_8f04ca3284f54aac669e1354",
-    "gh_5be3b25f24583619a7df9bb0",
-    "gh_1d75d8cfda7b83862aea41e4",
-    "gh_2f73ca9f12bc1c1a984eb4c6",
-    "gh_9b5eb69d9a45a45dc8a252e1"
+    "gh_28be0002df88cf9654b6d52a",
+    "gh_e9721afbc9b4182c76aa329b",
+    "gh_7f27386295f6ac73683e8bc0",
+    "gh_0ab0a9a46c199af0293511cb",
+    "gh_ccbefed5dbc6f155267ba231",
+    "gh_84f2a4e2cd568be8d3778049",
+    "gh_8d2dea6ad7cb933624d6cf76",
+    "gh_3d09a99aa51c44423af5214c",
+    "gh_8c32c918ccb700e288b4d7b9",
+    "gh_9f2c52d5334b5cfe27646aca",
+    "gh_d093b936f12b8b7228e48a69",
+    "gh_7fbd32ca1dc5a22323f0a6e0",
+    "gh_ad54015a0c17ab9060f43a90",
+    "gh_5ab14d81491668f2f3c49f88",
+    "gh_bb95e71939c1d64baec9b52c",
+    "gh_e434827693aa157ffa2e7bbc",
+    "gh_c97eae1531a9385cb4677062",
+    "gh_ffbab03a0e31b6ecd2cefb44",
+    "gh_791800c8db99244781c6cb8e",
+    "gh_bb3fa49952e4dd6fc100f8ba"
   ],
   "items": [
     {
-      "id": "gh_307c2d8865c4c55b7cf135d2",
-      "title": "JS Developer en Aerolab",
-      "description": "En [Aerolab](https://aerolab.co) estamos buscando JS Developers para construir aplicaciones web y mobile con un increíble equipo de producto.\n\n### **[JS Developer en Aerolab](http://careers.aerolab.co/o/js-full-stack-developer)**\n\n**Qué buscamos?**\n- Seas crack en Javascript y puedas armar código mantenible y bien estructurado.\n- Tengas conocimientos sólidos de frameworks para Web Apps (React, Angular, Vue o cualquier otro).\n- Tengas conocimientos sobre Backend (JS, PHP, Node, Python, o cualquier otro)\n- Do you spiek any english? Better du (nivel intermedio de inglés oral y escrito).\n\n**Qué vas a hacer en el día a día?**\n- Desarrollar aplicaciones en JavaScript, utilizando ES6, React.JS, React Native, Node.JS y otras tecnologías modernas.\n- Implementar nuevas funcionalidades y módulos en aplicaciones para startups y marcas globales.\n- Mejorar las herramientas disponibles para el equipo de desarrollo.\n- Participar de los procesos de diseño y proponer tecnologías y soluciones para cada proyecto.\n\n### **[Postulate en careers.aerolab.co](http://careers.aerolab.co/o/js-full-stack-developer)**",
-      "excerpt": "En [Aerolab](https://aerolab.co) estamos buscando JS Developers para construir aplicaciones web y mobile con un increíble equipo de producto. ### **[JS Developer en Aerolab](http://careers.aerolab.co/o/js-full-stack-d...",
+      "id": "gh_28be0002df88cf9654b6d52a",
+      "sourceId": "CodeandoMexico/chambas#66",
+      "title": "Vacante para proyecto - Desarrollador full stack con experiencia en visualización de datos usando librerías JavaScript",
+      "description": "# Título del trabajo\n\nDesarrollador full stack con experiencia en visualización de datos usando librerías JavaScript.\n\n## Sobre Codeando México\n\nCodeando México es una comunidad de hackers cívicos que busca fortalecer el trabajo e impacto de personas, equipos e instituciones inciden en el espacio público con proyectos de tecnología y datos.\n\nCualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta comunidad.\n\n## Sobre el proyecto\n\nEl proyecto EcoZonas se centra en la implementación de proyectos piloto en dos barrios vulnerables de ciudades mexicanas de tamaño medio con el objetivo de desarrollar, apoyar y fortalecer procesos y métodos participativos de acción climática inclusiva y replicable a nivel comunitario, enmarcados en planes de acción climática municipales y nacionales. Los principales beneficiarios son las comunidades locales, sociedad civil organizada, los municipios y los gobiernos estatales y nacionales.\n\nComo parte del proyecto EcoZonas se van a realizar dos procesos de recopilación de datos:\n* Una encuesta\n* Un mapeo comunitario\n\nA partir de los datos recopilados durante la encuesta y el mapeo comunitario se generará un reporte web y un reporte en PDF.\n\n## Sobre el puesto\n\nEstamos buscando a una persona que le interese el uso de la tecnología y los datos como herramientas para resolver problemas públicos.\n\nEspecíficamente, un desarrollador full stack, acostumbrado al trabajo remoto y la colaboración asíncrona, con experiencia en desarrollo de aplicaciones web, con el añadido de tener conocimiento sobre librerías de visualización de datos JavaScript y con algo de experiencia implementando dashboards y/o visualizaciones.\n\nLa vacante de desarrollador full stack con conocimientos de visualización de datos es para la implementación del reporte web y el reporte en PDF. El reporte web consistirá en la creación de un documento dinámico, dependiendo del resultado del mapeo, que contendrá diversas visualizaciones.\n\n## Responsabilidades\n\n1. Participar en un equipo para la construcción de un producto a partir de sus especificaciones, participando en la definición de las tecnologías o librerías a usar para la visualización de datos.\n\n2. En este caso el producto consiste en el desarrollo de un reporte web y un reporte descargable en PDF, generado de manera dinámica a partir de los datos recopilados en la encuesta y en el mapeo comunitario.\n\n3. Implementar flujos de usuario completos a partir de historias de usuario, desde la consulta de datos, procesamiento de los mismos y terminando en la generación de visualizaciones en el front end.\n\n4. Implementar un diseño de interfaz de usuario de manera modular, ya sea usando vanilla JavaScript o frameworks UI (React, Vue, Svelte, Web Components). Estamos abiertos a propuestas sobre las librerías a usar.\n\n## Lo que buscamos\n\n1. Experiencia en desarrollo front end.\n2. Experiencia implementando visualizaciones de datos con el apoyo de librerías JavaScript (Highcharts, Plotly, Vega) o en caso de ser necesario desarrollo ad-hoc de visualizaciones con D3.\n3. Experiencia en el desarrollo backend. De preferencia con python (Flask, Django, etc), pero estamos abiertos a otras tecnologías.\n4. El proyecto está pensado para una carga de trabajo de media jornada durante un mes. Priorizamos resultados antes que horarios.\n\n## Detalles\n\n* 🇲🇽 Remoto, zona horaria de Ciudad de México\n* 🏢 Remoto, aunque es un plus si estás radicado en Ciudad de México por si fuera necesario alguna reunión presencial.\n* 🕐 Por proyecto, estimamos media jornada durante 1 mes aproximadamente.\n* 📅 Fecha de inicio tercera semana de octubre de 2023\n* 💸 Remuneración: $30,000 + IVA\n\n## Nuestras redes ✉️\n\n* [GitHub](http://www.github.com/CodeandoMxico)\n* [Facebook](http://www.facebook.com/CodeandoMexico)\n* [Twitter](http://www.twitter.com/codeandomexico)\n\n## Cómo aplicar ⚡️\n\nSi te interesa aplicar a este puesto, completa el siguiente [formulario](https://airtable.com/appKqPhiieINhEdZx/shrRkiD84R9BOhEGU).\n\n\nSi tienes alguna duda puedes escribir a oscar@codeandomexico.org",
+      "excerpt": "# Título del trabajo Desarrollador full stack con experiencia en visualización de datos usando librerías JavaScript. ## Sobre Codeando México Codeando México es una comunidad de hackers cívicos que busca fortalecer el...",
       "issueState": "open",
-      "contentHash": "22369087718d7014c8cc05c88398923d984579e3cdb99780a58505bcfdd46e86",
-      "repository": "bafrontend/trabajos",
-      "repositoryUrl": "https://github.com/bafrontend/trabajos",
-      "region": "South America",
-      "country": "Argentina",
+      "contentHash": "c656597b5787a5fd2812d4b06bed5040de41d6afc6035494b8aed5490f9fc2de",
+      "repository": "CodeandoMexico/chambas",
+      "repositoryUrl": "https://github.com/CodeandoMexico/chambas",
+      "region": "North America",
+      "country": "Mexico",
       "tags": [
-        "backend",
-        "react",
-        "node",
-        "python",
+        "chamba"
+      ],
+      "author": {
+        "id": "oxcar",
+        "name": "oxcar",
+        "handle": "oxcar",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2067516?v=4"
+      },
+      "community": {
+        "id": "CodeandoMexico",
+        "name": "CodeandoMexico",
+        "avatarUrl": "https://github.com/CodeandoMexico.png?size=80",
+        "repository": "CodeandoMexico/chambas",
+        "url": "https://github.com/CodeandoMexico/chambas"
+      },
+      "createdAt": "2023-10-09T21:46:03Z",
+      "updatedAt": "2023-10-09T22:09:53Z",
+      "url": "https://github.com/CodeandoMexico/chambas/issues/66",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e9721afbc9b4182c76aa329b",
+      "sourceId": "brasil-php/vagas#189",
+      "title": "Desenvolvedor PHP (Laravel) ",
+      "description": "## Descrição da vaga\n\nEstamos em busca de um Desenvolvedor Pleno PHP com experiência em Laravel e Livewire para se juntar à nossa equipe dinâmica. O candidato ideal será responsável por desenvolver aplicações web de alta qualidade, colaborar com outros membros da equipe e contribuir para melhorar nossos processos de desenvolvimento.\n\n## Local\n\nRemoto - Brasil \n\n## Requisitos\n\n**Obrigatórios:**\n- 3 anos de experiência comprovada como Desenvolvedor PHP.\n- Profundo conhecimento do framework Laravel.\n- Experiência com Livewire.\n- Sólidos conhecimentos em bancos de dados MySQL e/ou outros.\n- Familiaridade com controle de versão, preferencialmente GIT.\n- Boas habilidades de comunicação e trabalho em equipe.\n\n**Diferenciais:**\n- Conhecimento em JavaScript.\n- Experiência com Elasticsearch.\n\n## Contratação\n\nPJ a combinar\n\n## Nossa empresa\n\nA Fretatech é o único HUB de vendas para empresas de fretamento e turismo. Temos uma equipe coesa, amigável e com um senso coletivo muito forte. Esperamos um parceiro que tenha a mesma vontade de fazer a maquina girar que todos nós temos. \n\n## Como se candidatar\n\nPor favor envie um email para felipe@novadata.com.br ou chamar no Wpp (21) 98552-3558 com seu CV anexado.",
+      "excerpt": "## Descrição da vaga Estamos em busca de um Desenvolvedor Pleno PHP com experiência em Laravel e Livewire para se juntar à nossa equipe dinâmica. O candidato ideal será responsável por desenvolver aplicações web de al...",
+      "issueState": "open",
+      "contentHash": "38d9183117827366f8652f74a13a1dde628f25069027f9a10116bea22deae926",
+      "repository": "brasil-php/vagas",
+      "repositoryUrl": "https://github.com/brasil-php/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "remoto"
+      ],
+      "author": {
+        "id": "felipesoares1305",
+        "name": "felipesoares1305",
+        "handle": "felipesoares1305",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/133056762?v=4"
+      },
+      "community": {
+        "id": "brasil-php",
+        "name": "brasil-php",
+        "avatarUrl": "https://github.com/brasil-php.png?size=80",
+        "repository": "brasil-php/vagas",
+        "url": "https://github.com/brasil-php/vagas"
+      },
+      "createdAt": "2023-10-02T13:59:05Z",
+      "updatedAt": "2023-11-19T01:58:43Z",
+      "url": "https://github.com/brasil-php/vagas/issues/189",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7f27386295f6ac73683e8bc0",
+      "sourceId": "twjug/jobs#114",
+      "title": "【徵才】即時通訊技術團隊（日本職缺）10/11更",
+      "description": "Ku即時通訊專案技術團隊徵才\n企業網站: https://www.kuzh2.com/?setIn=en\n工作地點:日本\n職缺：\n1.【產品經理x2】$3500-5000\n2.【前端工程師x4】$3000-5000\n3.【Java後端運維工程師x4】$3500-6000\n4.【IOS開發工程師x1】 $3000-5000\n5.【Android工程師x2】$3000-5000\n6.【測試工程師x2】$3000-5000\n7.【Golang後端開發工程師x3】$3500-6000\n薪資可選擇日幣或USDT，但因相關政策規定需固定比例日幣發放。\n\n條件要求：\n1.工作經歷：3年以上\n2.學歷要求：大學\n3.科系要求：資訊管理、資訊工程相關佳\n4.語文條件：中文\n5.其他條件：具有IM產品經驗佳\n\n職缺皆赴日辦公，簽證完成前先遠程\n\n以上職缺皆保障八險一金、提供在日工作簽證。\n\n詳細JD歡迎諮詢HR（Kino先生）\nskype： live:.cid.66b1344821d6eabe\ntelegram： @hrkino1116\nEmail： kino@ku.com",
+      "excerpt": "Ku即時通訊專案技術團隊徵才 企業網站: https://www.kuzh2.com/?setIn=en 工作地點:日本 職缺： 1.【產品經理x2】$3500-5000 2.【前端工程師x4】$3000-5000 3.【Java後端運維工程師x4】$3500-6000 4.【IOS開發工程師x1】 $3000-5000 5.【Android工程師x2】$3000-5000 6.【測試工程師x2】$3000-5000 7.【Gol...",
+      "issueState": "open",
+      "contentHash": "6464acf19667917939a9e4daaa091efe46023896b08cfac852d8493b7399de9c",
+      "repository": "twjug/jobs",
+      "repositoryUrl": "https://github.com/twjug/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "golang",
         "java"
       ],
       "author": {
-        "id": "RobertoGonzalez",
-        "name": "RobertoGonzalez",
-        "handle": "RobertoGonzalez",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/916310?v=4"
+        "id": "Kino1116",
+        "name": "Kino1116",
+        "handle": "Kino1116",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145644153?v=4"
       },
       "community": {
-        "id": "bafrontend",
-        "name": "bafrontend",
-        "avatarUrl": "https://github.com/bafrontend.png?size=80",
-        "repository": "bafrontend/trabajos",
-        "url": "https://github.com/bafrontend/trabajos"
+        "id": "twjug",
+        "name": "twjug",
+        "avatarUrl": "https://github.com/twjug.png?size=80",
+        "repository": "twjug/jobs",
+        "url": "https://github.com/twjug/jobs"
       },
-      "createdAt": "2017-09-18T21:54:33Z",
-      "updatedAt": "2017-09-18T21:54:33Z",
-      "url": "https://github.com/bafrontend/trabajos/issues/49",
-      "sourceType": "github-issue",
-      "sourceId": "bafrontend/trabajos#49"
+      "salary": {
+        "currency": "USD",
+        "min": 3500,
+        "max": 50002,
+        "period": "hour"
+      },
+      "createdAt": "2023-09-27T13:09:03Z",
+      "updatedAt": "2023-10-11T05:33:13Z",
+      "url": "https://github.com/twjug/jobs/issues/114",
+      "sourceType": "github-issue"
     },
     {
-      "id": "gh_061aec6a4cca6efa6f12422f",
-      "title": "[CUIABÁ] PHP Developer na TRINIX",
-      "description": "## Descrição da vaga\n\nAtuar em projetos em PHP\n\n## Local\n\nAv. Historiador Rubens de Mendonça, 1.731 Sala 606 \nEdifício Centro Empresarial Paiaguás\nCuiabá\n\n## Benefícios\n\n- Salario compatível com a Função, inicial base com possibilidade de aumentos\n- Vale Transporte\n- Vale Refeição\n\n## Requisitos\n**Obrigatórios:**\n- Experiência de minino de 1 ano em programaç?o em PHP\n- Conhecimento em banco de dados (MYSQL, ORACLE, SQL SERVER) (pelo menos 1)\n- Conhecimento em Javascript, JQUERY, GIT, HTML, CSS\n- Dinamico\n- Aceitar desafios\n- Responsável\n\n**Diferenciais:**\n- Quem domina a parte de configuração e instalação dos componentes envolvidos\n- Tem experiência em analise de negocio ou de banco de dados\n\n## Nossa empresa\n\nhttp://www.trinix.com.br/\n\n## Como se candidatar\n\nEmail para currículos: contato@trinix.com.br",
-      "excerpt": "## Descrição da vaga Atuar em projetos em PHP ## Local Av. Historiador Rubens de Mendonça, 1.731 Sala 606 Edifício Centro Empresarial Paiaguás Cuiabá ## Benefícios - Salario compatível com a Função, inicial base com p...",
+      "id": "gh_0ab0a9a46c199af0293511cb",
+      "sourceId": "nodejs-tw/jobs#253",
+      "title": "【徵才】即時通訊技術團隊（日本職缺）12/6更",
+      "description": "Ku即時通訊專案技術團隊徵才\n企業網站: https://www.kuzh2.com/?setIn=en\n工作地點:日本大阪\n職缺：\n1.【產品經理x1】$3500-5000\n2.【NodeJS後端工程師x1】$3000-4500\n3.【Android工程師x1】$3000-5000\n4.【Golang後端開發工程師x1】$3500-6000\n5.【運維工程師x1】$3000-5000\n條件要求：\n1.工作經歷：3年以上\n2.學歷要求：大學\n3.科系要求：資訊管理、資訊工程相關佳\n4.語文條件：中文\n5.其他條件：具有IM產品經驗佳\n\n職缺皆赴日辦公，簽證完成前先遠程\n\n以上職缺皆保障八險一金、提供在日工作簽證。\n\n詳細JD歡迎諮詢HR（Kino先生）\nskype： live:.cid.66b1344821d6eabe\ntelegram： @hrkino1116\n頻道 ：https://t.me/ITsoftjob\nEmail： kino@ku.com",
+      "excerpt": "Ku即時通訊專案技術團隊徵才 企業網站: https://www.kuzh2.com/?setIn=en 工作地點:日本大阪 職缺： 1.【產品經理x1】$3500-5000 2.【NodeJS後端工程師x1】$3000-4500 3.【Android工程師x1】$3000-5000 4.【Golang後端開發工程師x1】$3500-6000 5.【運維工程師x1】$3000-5000 條件要求： 1.工作經歷：3年以上 2.學歷...",
       "issueState": "open",
-      "contentHash": "5a0a6fdad38435aca5d0b6d2503c5061e4bb57927ce79883124677cb09eb5bf4",
-      "repository": "devmatogrosso/vagas",
-      "repositoryUrl": "https://github.com/devmatogrosso/vagas",
-      "region": "South America",
-      "country": "Brazil",
+      "contentHash": "79831d075f9780a4e2b459508cce9346bd28e64f2a126140b4a78b0b03fdf1d0",
+      "repository": "nodejs-tw/jobs",
+      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
       "tags": [
-        "java",
-        "data"
+        "node",
+        "golang"
       ],
       "author": {
-        "id": "juniorabranches",
-        "name": "juniorabranches",
-        "handle": "juniorabranches",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/9979222?v=4"
+        "id": "Kino1116",
+        "name": "Kino1116",
+        "handle": "Kino1116",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145644153?v=4"
       },
       "community": {
-        "id": "devmatogrosso",
-        "name": "devmatogrosso",
-        "avatarUrl": "https://github.com/devmatogrosso.png?size=80",
-        "repository": "devmatogrosso/vagas",
-        "url": "https://github.com/devmatogrosso/vagas"
+        "id": "nodejs-tw",
+        "name": "nodejs-tw",
+        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
+        "repository": "nodejs-tw/jobs",
+        "url": "https://github.com/nodejs-tw/jobs"
       },
-      "companyName": "TRINIX",
-      "createdAt": "2017-09-18T14:35:11Z",
-      "updatedAt": "2017-09-18T14:42:52Z",
-      "url": "https://github.com/devmatogrosso/vagas/issues/4",
-      "sourceType": "github-issue",
-      "sourceId": "devmatogrosso/vagas#4"
+      "salary": {
+        "currency": "USD",
+        "min": 3500,
+        "max": 50002,
+        "period": "hour"
+      },
+      "createdAt": "2023-09-27T13:06:35Z",
+      "updatedAt": "2023-12-06T07:46:04Z",
+      "url": "https://github.com/nodejs-tw/jobs/issues/253",
+      "sourceType": "github-issue"
     },
     {
-      "id": "gh_8f04ca3284f54aac669e1354",
-      "title": "[CUIABÁ] - Web Developer na BITLINE",
-      "description": "## Descrição da vaga\n\nIrá realizar desenvolvimento e análise com a linguagem PHP e banco de dados mySQL. \nConhecimentos em HTML5, CSS, layouts responsivos e desenvolvimento de App são diferenciais.\n\n## Local\n\nCuiabá - MT\n\n## Benefícios\n\n- Ajuda de Custo (alimentação/Refeição)\n- Plano de Saúde (apos período de experiencia)\n- Plano Odontológico (apos período de experiencia)\n- Treinamento e capacitação\n\n## Requisitos\n\n**Obrigatórios:**\n- PHP\n- MySQL\n- Javascript\n- Bootstrap\n- jQuery\n\n**Diferenciais:**\n- HTML5\n- CSS3\n- Design Responsivo\n- Desenvolvimento de App\n\n## Contratação\n\nRegime de contratação: Efetivo - CLT\n\n## Como se candidatar\n\nEnviar currículos no e-mail: leo@bitline.com.br",
-      "excerpt": "## Descrição da vaga Irá realizar desenvolvimento e análise com a linguagem PHP e banco de dados mySQL. Conhecimentos em HTML5, CSS, layouts responsivos e desenvolvimento de App são diferenciais. ## Local Cuiabá - MT ...",
+      "id": "gh_ccbefed5dbc6f155267ba231",
+      "sourceId": "nodejs-tw/jobs#252",
+      "title": "【徵才】專案&技術團隊（工作地點：日本）",
+      "description": "MaskEX 亞洲徵才\n工作地點：日本 大阪地區\n\n專案團隊職缺：\n1.【產品經理】3000-6000 美金 需求人數2至4人\n2.【運營經理】2500-4500 美金 需求人數2人\n\n技術團隊職缺：\n1.【區塊鏈Java運維工程師】3500-6000 美金 需求人數2人\n2.【高級移動端flutter】3000-6000 美金 需求人數2人\n3.【資料庫DBA】3000-6000 美金 需求人數1人\n4.【運維工程師】 3000-6000 美金 需求人數1至2人\n5.【Php高級架構師】3500-7000 美金 需求人數1至2人\n6.【Php資深工程師】3500-5000 美金 需求人數4至6人\n7.【測試工程師】2500-6000 美金 需求人數1人\n8.【儲備前端工程師】2500-6000 美金\n以上薪資範圍視實際能力調整\n\n條件要求：\n1.工作經歷：3年以上\n2.學歷要求：大學、碩士\n3.科系要求：資訊管理、資訊工程相關佳\n4.語文條件：中文、英文\n5.其他條件：區塊鏈專案經驗佳\n\n以上職缺皆保障八險一金、提供在日工作簽證。\n\n福利制度&辦公環境：\n1.免費住宿\n2.租房&生活補貼\n3.營收獎金分發\n4.開放式辦公空間\n5.大阪商圈。\n\n以上職缺有興趣者歡迎聯絡HR（Kino先生）\nskype： live:.cid.66b1344821d6eabe\ntelegram： @hrkino1116\n頻道 ：https://t.me/ITsoftjob\nEmail： kino@ku.com",
+      "excerpt": "MaskEX 亞洲徵才 工作地點：日本 大阪地區 專案團隊職缺： 1.【產品經理】3000-6000 美金 需求人數2至4人 2.【運營經理】2500-4500 美金 需求人數2人 技術團隊職缺： 1.【區塊鏈Java運維工程師】3500-6000 美金 需求人數2人 2.【高級移動端flutter】3000-6000 美金 需求人數2人 3.【資料庫DBA】3000-6000 美金 需求人數1人 4.【運維工程師】 3000-6...",
       "issueState": "open",
-      "contentHash": "4cb2b9f0bc21b8a366a1ddf31fe3040b41fdf7a4d09c9840090f9b264c226282",
-      "repository": "devmatogrosso/vagas",
-      "repositoryUrl": "https://github.com/devmatogrosso/vagas",
+      "contentHash": "cf982a302171432517e26905d49ddd52b4a917311c45b3ac8f293a260b6fdb1c",
+      "repository": "nodejs-tw/jobs",
+      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "java"
+      ],
+      "author": {
+        "id": "Kino1116",
+        "name": "Kino1116",
+        "handle": "Kino1116",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145644153?v=4"
+      },
+      "community": {
+        "id": "nodejs-tw",
+        "name": "nodejs-tw",
+        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
+        "repository": "nodejs-tw/jobs",
+        "url": "https://github.com/nodejs-tw/jobs"
+      },
+      "createdAt": "2023-09-27T13:06:16Z",
+      "updatedAt": "2023-10-03T07:51:36Z",
+      "url": "https://github.com/nodejs-tw/jobs/issues/252",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_84f2a4e2cd568be8d3778049",
+      "sourceId": "FlutterComunidadeBR/vagas#60",
+      "title": "[Remoto] Mobile Flutter Developer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/mobile-flutter-developer-195919947?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open) com o pop-up personalizado de candidatura. 👋\n<p>Somos uma empresa inovadora no setor de tecnologia, comprometida em criar soluções digitais de alto impacto para nossos clientes. Estamos em busca de uma pessoa Mobile Flutter developer Pleno, altamente talentosa e apaixonada por tecnologia para se juntar à nossa equipe e ajudar a impulsionar nossos projetos para o próximo nível.</p>\n<p><strong>Responsabilidades:</strong></p>\n<ul>\n<li>Desenvolver e manter aplicativos móveis usando Flutter;</li>\n<li>Colaborar com equipes multifuncionais para projetar e implementar novos recursos;</li>\n<li>Solucionar problemas e otimizar o desempenho dos aplicativos;</li>\n<li>Garantir a qualidade e o desempenho dos aplicativos através de testes e revisões de código;</li>\n<li>Manter-se atualizado com as melhores práticas e tendências do mercado em desenvolvimento Flutter.</li>\n</ul>\n## Koepe: \n <p>Uma desenvolvedora de aplicações em versões WEB e para aplicativos de soluções eficientes para serviços de logística.</p>\n<p>A Koepe surgiu da busca por desafios e da persistência de seus fundadores, que associaram suas experiências adquiridas em outros empreendimentos a esse novo projeto, que viria a se transformar nesta grande inovação tecnológica.</p><a href='https://coodesh.com/companies/koepe'>Veja mais no site</a>\n\n ## Habilidades: \n - Flutter \n- REST APIs \n- GIT\n## Local: \n 100% Remoto\n## Requisitos: \n - Experiência comprovada em desenvolvimento Flutter \n- Experiência em integração com APIs RESTful; \n- Familiaridade com ferramentas de controle de versão, como Git; \n- Habilidade para colaborar efetivamente em uma equipe multidisciplinar; \n- Excelente capacidade de resolução de problemas e atenção aos detalhes; \n- Compreensão de princípios de design e experiência do usuário.\n## Diferenciais: \n - Espanhol avançado \n- Ter atuado em projetos de mobilidade e logística\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Mobile Flutter Developer na Koepe](https://coodesh.com/jobs/mobile-flutter-developer-195919947?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Categoria\nMobile",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "1a584463413b440f0e2e55999ab9fff96cfcd813215d8f1ffb9f655793897394",
+      "repository": "FlutterComunidadeBR/vagas",
+      "repositoryUrl": "https://github.com/FlutterComunidadeBR/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "java",
+        "pleno",
         "data",
         "design"
       ],
       "author": {
-        "id": "juniorabranches",
-        "name": "juniorabranches",
-        "handle": "juniorabranches",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/9979222?v=4"
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
       },
       "community": {
-        "id": "devmatogrosso",
-        "name": "devmatogrosso",
-        "avatarUrl": "https://github.com/devmatogrosso.png?size=80",
-        "repository": "devmatogrosso/vagas",
-        "url": "https://github.com/devmatogrosso/vagas"
+        "id": "FlutterComunidadeBR",
+        "name": "FlutterComunidadeBR",
+        "avatarUrl": "https://github.com/FlutterComunidadeBR.png?size=80",
+        "repository": "FlutterComunidadeBR/vagas",
+        "url": "https://github.com/FlutterComunidadeBR/vagas"
       },
-      "companyName": "BITLINE",
-      "createdAt": "2017-09-14T19:51:52Z",
-      "updatedAt": "2017-09-14T19:51:52Z",
-      "url": "https://github.com/devmatogrosso/vagas/issues/3",
-      "sourceType": "github-issue",
-      "sourceId": "devmatogrosso/vagas#3"
+      "companyName": "Coodesh",
+      "createdAt": "2023-09-25T12:37:30Z",
+      "updatedAt": "2023-09-25T12:37:30Z",
+      "url": "https://github.com/FlutterComunidadeBR/vagas/issues/60",
+      "sourceType": "github-issue"
     },
     {
-      "id": "gh_5be3b25f24583619a7df9bb0",
-      "title": "[CUIABÁ] - Desenvolvedor (Front-End, Back-End ou Mobile) na NUVEM",
-      "description": "## Descrição da vaga\n\nEstamos sempre em busca de profissionais interessados em desenvolver soluções inovadoras utilizando a tecnologia .NET e que além da competência técnica, tenham foco e pró-atividade.\n\n## Local\n\nNuvem\nRua Presidente Marques, nº 400, Quilombo\nCuiabá/MT - 78045-175\n\n## Benefícios\n\nSalário compatível com o nível de conhecimento.\nAmbiente de trabalho descontraído.\nLounge para alimentação, descompressão, relax e lazer na empresa.\nEstacionamento\nVocê pode trabalhar de bermuda ;)\n\n## Requisitos\n\nSer apto a trabalhar em um ambiente descontraído.\nSer apaixonado por desenvolvimento de software.\nSer capaz de resolver problemas de forma rápida e criativa.\nSer capaz de encontrar ferramentas para resolver os desafios que surgem diariamente.\nSer capaz de analisar problemas em equipe e propor soluções, usando bons argumentos.\n\n**Requisitos Técnicos**\nGit\nSQL \n\n**Diferenciais Front-end:**\nJavascript\nReact\nRedux\nCSS/SASS\nTestes automatizados\n\n**Diferenciais Back-end:**\nASP.NET/ASP.NET Core\nASP.NET Identity\nIdentity Server\nFamiliar com Azure e AWS\nTestes automatizados\n\n**Diferenciais Mobile:**\niOS\nAndroid\nXamarin Forms\nReact Native\n\n## Como se candidatar\n\nSite Nuvem: http://carreiras.nuvem.net/o/desenvolvedor-frontend-backend-ou-mobile",
-      "excerpt": "## Descrição da vaga Estamos sempre em busca de profissionais interessados em desenvolver soluções inovadoras utilizando a tecnologia .NET e que além da competência técnica, tenham foco e pró-atividade. ## Local Nuvem...",
+      "id": "gh_8d2dea6ad7cb933624d6cf76",
+      "sourceId": "twjug/jobs#113",
+      "title": "【徵才】區塊鏈java運維工程師(赴日本工作)10/12更",
+      "description": "團隊簡介/地點\nMaskEX是一個大型跨國團隊，位於幾個不同的地理區域。旨在成為全球最安全、最私密的加密貨幣交易所之一。多重安全保障，MaskEX 採用了“Your Wallet,Your Way”的口號以反映其在自由運動中發揮重要作用的使命，通過為大眾提供財務匿名性和自治。\n工作地點：日本 大阪地區\n\n工作內容：\n1.參與金融項目的需求開發\n2.配合測試解決系統問題，並優化系統代碼\n3.參與解決系統中的一些其他問題。\n\n能力要求：\n1.5年以上JAVA專案開發經驗，JAVA基礎（JVM、多線程、集合，網路）紮實，代碼編寫工整、規範\n2.熟悉spring boot, spring cloud，對微服務架構有清晰的認識，能夠在微服務體系框架內進行相應開發\n3.熟悉redis,rabbit mq, elasticsearch，能熟練使用ELK者優先考慮\n4.熟練使用mysql，具備分庫分表的設計能力和大數據量查詢優化的處理經驗\n5.熟悉Linux系統常用命令，熟悉docker的使用，寫過docker file，熟悉docker compose\n6.有過高並發系統的開發和設計經驗，針對高並發場景能夠提出自己的解決辦法並處理實施；\n7.具有良好的團隊合作和溝通能力，有很強的自驅力，能主動為結果負責\n8.有較強的代碼質量控制意識和良好技術、業務理解能力。\n\n加分\n1.參與過大型分布式系統的設計和開發，有服務化、高並發系統的架構設計和開發經驗者佳\n2.有過IM/金融專案的開發經驗佳。\n\n\n薪資範圍\n3500-6000美金(保障八險一金、提供在日工作簽證。)\n薪資可選擇日幣或USDT，但因相關政策規定需固定比例日幣發放。\n\n福利/推薦項\n1.免費住宿\n2.租房&生活補貼\n3.營收獎金分發\n4.開放式辦公空間\n5.大阪商圈。\n\n聯絡方式\nKino先生\nE-mail: kino@ku.com\nskype： live:.cid.66b1344821d6eabe\ntelegram： @hrkino1116",
+      "excerpt": "團隊簡介/地點 MaskEX是一個大型跨國團隊，位於幾個不同的地理區域。旨在成為全球最安全、最私密的加密貨幣交易所之一。多重安全保障，MaskEX 採用了“Your Wallet,Your Way”的口號以反映其在自由運動中發揮重要作用的使命，通過為大眾提供財務匿名性和自治。 工作地點：日本 大阪地區 工作內容： 1.參與金融項目的需求開發 2.配合測試解決系統問題，並優化系統代碼 3.參與解決系統中的一些其他問題。 能力要求： ...",
       "issueState": "open",
-      "contentHash": "4bd2932fc2cbe79d6c775787c0f316add320f5b52f13ad9240bb1beae4f7de57",
-      "repository": "devmatogrosso/vagas",
-      "repositoryUrl": "https://github.com/devmatogrosso/vagas",
-      "region": "South America",
-      "country": "Brazil",
+      "contentHash": "36d7953a0173b173b90a053511f720fde96fa9d1b886cf6cb3463d897d5286dc",
+      "repository": "twjug/jobs",
+      "repositoryUrl": "https://github.com/twjug/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
       "tags": [
-        "frontend",
-        "backend",
-        "react",
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "juniorabranches",
-        "name": "juniorabranches",
-        "handle": "juniorabranches",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/9979222?v=4"
-      },
-      "community": {
-        "id": "devmatogrosso",
-        "name": "devmatogrosso",
-        "avatarUrl": "https://github.com/devmatogrosso.png?size=80",
-        "repository": "devmatogrosso/vagas",
-        "url": "https://github.com/devmatogrosso/vagas"
-      },
-      "companyName": "NUVEM",
-      "createdAt": "2017-09-12T13:50:46Z",
-      "updatedAt": "2017-09-12T13:50:46Z",
-      "url": "https://github.com/devmatogrosso/vagas/issues/2",
-      "sourceType": "github-issue",
-      "sourceId": "devmatogrosso/vagas#2"
-    },
-    {
-      "id": "gh_1d75d8cfda7b83862aea41e4",
-      "title": "[CUIABÁ] - Devops NO TRE-MT",
-      "description": "## Descrição da vaga\n\nO TRE-MT está selecionando profissional com conhecimentos em servidores de aplicação Jboss, Wildfly e Tomcat. \nTambém procuramos profissionais com perfil DBA Oracle.\n\n## Local\n\nTRE-MT\n\n**Diferenciais:**\n- Um diferencial é o conhecimento em tecnologias Devops\n\n## Como se candidatar\n\nSe alguém tiver alguém pra indicar, basta enviar currículo para sti@tre-mt.jus.br",
-      "excerpt": "## Descrição da vaga O TRE-MT está selecionando profissional com conhecimentos em servidores de aplicação Jboss, Wildfly e Tomcat. Também procuramos profissionais com perfil DBA Oracle. ## Local TRE-MT **Diferenciais:...",
-      "issueState": "open",
-      "contentHash": "45cf44f6adf80159f6f5afc017f956c7f104c634597d0171035a0e853cacca96",
-      "repository": "devmatogrosso/vagas",
-      "repositoryUrl": "https://github.com/devmatogrosso/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "devops",
-        "data"
-      ],
-      "author": {
-        "id": "juniorabranches",
-        "name": "juniorabranches",
-        "handle": "juniorabranches",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/9979222?v=4"
-      },
-      "community": {
-        "id": "devmatogrosso",
-        "name": "devmatogrosso",
-        "avatarUrl": "https://github.com/devmatogrosso.png?size=80",
-        "repository": "devmatogrosso/vagas",
-        "url": "https://github.com/devmatogrosso/vagas"
-      },
-      "companyName": "TRE-MT",
-      "createdAt": "2017-09-12T13:36:08Z",
-      "updatedAt": "2017-09-12T13:36:08Z",
-      "url": "https://github.com/devmatogrosso/vagas/issues/1",
-      "sourceType": "github-issue",
-      "sourceId": "devmatogrosso/vagas#1"
-    },
-    {
-      "id": "gh_2f73ca9f12bc1c1a984eb4c6",
-      "title": "Fullstack en Redbee (Node.js / React)",
-      "description": "La idea es trabajar en varias tecnologías. Hay varios proyectos. Necesitamos gente con ganas de romper el molde. ;)\n\nA lo que es front:\n\n- React\n- Redux\n\nEn el back:\n\n- Java 8\n- Springboot",
-      "excerpt": "La idea es trabajar en varias tecnologías. Hay varios proyectos. Necesitamos gente con ganas de romper el molde. ;) A lo que es front: - React - Redux En el back: - Java 8 - Springboot",
-      "issueState": "open",
-      "contentHash": "d6363c9b819420e70ca796f6dde8918de77bd39ec3001153299631cefc40a6de",
-      "repository": "bafrontend/trabajos",
-      "repositoryUrl": "https://github.com/bafrontend/trabajos",
-      "region": "South America",
-      "country": "Argentina",
-      "tags": [
-        "fullstack",
-        "react",
-        "node",
         "java"
       ],
       "author": {
-        "id": "britez",
-        "name": "britez",
-        "handle": "britez",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/3027497?v=4"
+        "id": "Kino1116",
+        "name": "Kino1116",
+        "handle": "Kino1116",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145644153?v=4"
       },
       "community": {
-        "id": "bafrontend",
-        "name": "bafrontend",
-        "avatarUrl": "https://github.com/bafrontend.png?size=80",
-        "repository": "bafrontend/trabajos",
-        "url": "https://github.com/bafrontend/trabajos"
+        "id": "twjug",
+        "name": "twjug",
+        "avatarUrl": "https://github.com/twjug.png?size=80",
+        "repository": "twjug/jobs",
+        "url": "https://github.com/twjug/jobs"
       },
-      "createdAt": "2017-03-16T16:22:07Z",
-      "updatedAt": "2017-03-16T16:22:07Z",
-      "url": "https://github.com/bafrontend/trabajos/issues/47",
-      "sourceType": "github-issue",
-      "sourceId": "bafrontend/trabajos#47"
+      "createdAt": "2023-09-22T06:41:35Z",
+      "updatedAt": "2023-10-12T12:55:43Z",
+      "url": "https://github.com/twjug/jobs/issues/113",
+      "sourceType": "github-issue"
     },
     {
-      "id": "gh_9b5eb69d9a45a45dc8a252e1",
-      "title": "没有武汉的， 伤心欲绝",
-      "description": "",
-      "excerpt": "没有武汉的， 伤心欲绝",
+      "id": "gh_3d09a99aa51c44423af5214c",
+      "sourceId": "FlutterComunidadeBR/vagas#59",
+      "title": "[Hibrido / Belo Horizonte, Minas Gerais, Brazil] Flutter Developer (Híbrido - BH) na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/desenvolvedora-mobile-senior-or-flutter-hibrido-bh-173730766?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open) com o pop-up personalizado de candidatura. 👋\n<p>A Onfly é uma startup focada em ajudar as empresas a viajarem melhor!</p>\n<p>Democratizar a gestão de viagens, reembolsos, descontos em passagens, hotéis e locação de carros em uma experiência completa e simples é foco do nosso negócio.</p>\n<p>Somos um dos melhores lugares para se trabalhar no Brasil (inclusive somos uma das empresas do Great Place to work)!</p>\n<p>Para que alcancemos a meta de crescer exponencialmente, buscamos pessoas que sejam apaixonadas por tecnologia, que desejam estar em um time de alta performance e que queiram crescer muuuuito.</p>\n<p>Para a vaga de Desenvolvedor(a) Mobile Sr. | Flutter, buscamos um(a) profissional com foco em desenvolvimento mobile. Além disso, buscamos alguém que também seja dinâmico(a), que saiba trabalhar em equipe e que se conecte com nossa cultura e valores.</p>\n## Onfly: \n <p>A Onfly oferece uma solução \"all-in-one\" com gestão de viagens (aéreo, hotel e carros), despesas e cartão corporativo em uma única plataforma digital. Com intensivo uso de tecnologia e uma boa dose de calor humano, elevamos ao máximo a gestão de viagens das empresas, trazendo conforto e produtividade para os colaboradores e segurança e economia para as empresas.  Simplifique, vá de Onfly!</p></p>\n\n ## Habilidades: \n - Flutter \n- Dart \n- Appium \n- Firebase \n- SQLite \n- Comandos SQL \n- GIT \n- REST APIs\n## Local: \n Belo Horizonte, Minas Gerais, Brazil\n## Requisitos: \n - Flutter/Dart; \n- Experiência em testes unitários; \n- Experiência em projetar e implementar a persistência de dados das aplicações e garantir que o acesso seja seguro e eficiente; \n- Sólido conhecimento em Push Notification e Firebase; \n- Conhecimento em bancos de dados locais (SQlite) e saber escrever consultas em SQL; \n- Bom conhecimento do sistema de controle de versão git; \n- Experiência com testes automatizados (Unitário, integração); \n- Experiência com integrações (API Rest).\n## Diferenciais: \n - Conhecimento em desenvolvimento nativo (Android/iOS); \n- Conhecimento em testes automatizados com Appium; \n- Ciclo completo de desenvolvimento, publicação e manutenção de Aplicativos; \n- Experiência com metodologias de desenvolvimento ágil Scrum ou Kanban.\n## Benefícios: \n - Regime Híbrido de trabalho (2 dias na semana presenciais e o restante remoto); \n- Horário de trabalho flexível; \n- Vale refeição em cartão flexível R$28 (sem desconto de 6%); \n- Vale transporte em cartão flexível (sem desconto de 6%); \n- Plano de Saúde Unimed, sem coparticipação e sem mensalidade para o Onflyer (por nossa conta :D); \n- Plano Odontológico (desconto na mensalidade) \n- Desconto Farmácia; \n- No dress code; \n- Benefício de Psicoterapia on-line (Vittude); \n- Benefícios de academia! (Gympass); \n- Bolsa de 90% para estudos de idiomas; \n- Descontos em Graduações e Pós-graduações (UNA e UNIBH); \n- Pacote de descontos Clube Certo sem valor de mensalidade; \n- Assistência Funeral (Grupo Zelo); \n- Licença Maternidade/Paternidade estendida; \n- Seguro de vida.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Flutter Developer (Híbrido - BH) na Onfly](https://coodesh.com/jobs/desenvolvedora-mobile-senior-or-flutter-hibrido-bh-173730766?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Categoria\nMobile",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
       "issueState": "open",
-      "contentHash": "0656a8328506938aa88859775b14d191c9f2cdd0038ed6ddbe91d99cd57e7d6a",
-      "repository": "android-cn/android-jobs",
-      "repositoryUrl": "https://github.com/android-cn/android-jobs",
+      "contentHash": "d426727c72d66eb0915d28207b306b88a35314ca9ec47db847985db1c3d6494e",
+      "repository": "FlutterComunidadeBR/vagas",
+      "repositoryUrl": "https://github.com/FlutterComunidadeBR/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "FlutterComunidadeBR",
+        "name": "FlutterComunidadeBR",
+        "avatarUrl": "https://github.com/FlutterComunidadeBR.png?size=80",
+        "repository": "FlutterComunidadeBR/vagas",
+        "url": "https://github.com/FlutterComunidadeBR/vagas"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2023-09-13T17:08:09Z",
+      "updatedAt": "2023-09-13T17:08:09Z",
+      "url": "https://github.com/FlutterComunidadeBR/vagas/issues/59",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8c32c918ccb700e288b4d7b9",
+      "sourceId": "pogopaule/awesome-sustainability-jobs#36",
+      "title": "Just some feedback",
+      "description": "Not truly an \"issue\" as such - more \"feedback\"\n- ignore and close as you wish! 🥰\n\nI love the project \n- for me the idea of a \"one-stop\" location to find sustainability related jobs is truly awesome\nthey're surprisingly hard to find 😢\nso I'm happy to try and contribute\n\n\n\nContributing to the \"backlog\" is fairly easy - once I remember where to find the link to it\n- but its contents have not changed much since I first saw it\n\n\nContributing to the project is less easy and kinda time consuming \n- time (for me personally) I'd rather spend on finding a sustainability related job!\n\n\n\nOnce (as a job searcher) I've seen a company in README.md - I'll check their website out\n- will manage to find their careers page\n- will see if there's anything relevant\n- will see if their location is workable\nand apply or not\n\n\nOr (more likely) \n\nOnce (as a job searcher) I've seen a job board in README.md\nI'm going to use that site which may well have 10's, 100's of companies relevant to the project\n- but how likely am I to come back to this project and contribute those companies one by one?\n\n\n\n\nSome thoughts I've had along the way:\n\n- Create a web page/form that takes out some of the \"grunt work\"\nAs a contributor, if I've found a company web page that seems relevant, I ideally want to \n- copy their URL\n- paste into a \"new entry\" page that\n- \"auto-fills\" various things\n       - give me a dropdown for selecting \"Jobsite\" or \"Company\"\n       - dropdown for the \"field\"\n       - scrape from the page the description etc.\n       - maybe find the \"Careers\" link and auto add that as the \"jobs\" entry\n \nIn my mind these following values are somewhat \"Nice to have\"\nI'd rather see an entry with these missing, than no entry!\n\nSo the page/form could *optionally* \n       - give me tickboxes for \"Remote\" and \"Speculative\" \n       Let me copy and paste in the text \"Address(es)\" from the website\n       - search Google Maps, and pull out latitude & longitude from the Google URL\n       - search Glassdoor and pull out \"ratings\" URL, and ratings value\n\nWith all that info/input generate some correctly formatted YAML and\n- either add to data.yaml directly\n- or create a snippet that can easily be added\n- check for duplicates\n\n\nArguably a developer should find it relatively straight-forward to\n- fork the project, clone it\n- edit data.yaml and add correctly filled out entries\n- commit, push, submit PR etc. etc.\n\nbut that's not zero effort so anything that helps automate some of this will help (me anyway)\n\n\nwhy not scrape or receive feeds from job-boards?\n- but if README.md was changing many times a day and listed 100s or 1000s of companies it'll stop being so useful due to too many entries!\n\n\nanyways\n\njust some ideas\n\nKind regards,\n\nTim",
+      "excerpt": "Not truly an \"issue\" as such - more \"feedback\" - ignore and close as you wish! 🥰 I love the project - for me the idea of a \"one-stop\" location to find sustainability related jobs is truly awesome they're surprisingly...",
+      "issueState": "open",
+      "contentHash": "6d81dfc3772eb205ec6ae54656b206c6a4be7ac065cd36e6fb1b6c9f866bf573",
+      "repository": "pogopaule/awesome-sustainability-jobs",
+      "repositoryUrl": "https://github.com/pogopaule/awesome-sustainability-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "data"
+      ],
+      "author": {
+        "id": "site-speed",
+        "name": "site-speed",
+        "handle": "site-speed",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95324425?v=4"
+      },
+      "community": {
+        "id": "pogopaule",
+        "name": "pogopaule",
+        "avatarUrl": "https://github.com/pogopaule.png?size=80",
+        "repository": "pogopaule/awesome-sustainability-jobs",
+        "url": "https://github.com/pogopaule/awesome-sustainability-jobs"
+      },
+      "createdAt": "2023-09-11T22:11:29Z",
+      "updatedAt": "2024-05-24T14:17:03Z",
+      "url": "https://github.com/pogopaule/awesome-sustainability-jobs/issues/36",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_9f2c52d5334b5cfe27646aca",
+      "sourceId": "italiaremote/awesome-italia-remote#346",
+      "title": "Typo: talens",
+      "description": "On the website it says **_italian talens_**... it obviously should be **_Italian talents_**.",
+      "excerpt": "On the website it says **_italian talens_**... it obviously should be **_Italian talents_**.",
+      "issueState": "open",
+      "contentHash": "e9bda19000a4ca1c312762969e84d748d7584aec7ff60fef292081dcff661268",
+      "repository": "italiaremote/awesome-italia-remote",
+      "repositoryUrl": "https://github.com/italiaremote/awesome-italia-remote",
+      "region": "Europe",
+      "country": "Italy",
+      "tags": [
+        "bug",
+        "todo"
+      ],
+      "author": {
+        "id": "mfirry",
+        "name": "mfirry",
+        "handle": "mfirry",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1107071?v=4"
+      },
+      "community": {
+        "id": "italiaremote",
+        "name": "italiaremote",
+        "avatarUrl": "https://github.com/italiaremote.png?size=80",
+        "repository": "italiaremote/awesome-italia-remote",
+        "url": "https://github.com/italiaremote/awesome-italia-remote"
+      },
+      "createdAt": "2023-09-07T07:20:09Z",
+      "updatedAt": "2025-06-12T13:40:15Z",
+      "url": "https://github.com/italiaremote/awesome-italia-remote/issues/346",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d093b936f12b8b7228e48a69",
+      "sourceId": "seujobtech/vagas#411",
+      "title": "[Remoto] Pessoa Engenheira de Software Sênior - Backend (Ruby on Rails)",
+      "description": "### Seja Pessoa Engenheira de Software Sênior - Backend (Ruby on Rails) na RD Station\n\n**Ajudamos pessoas a crescerem seus negócios e países a crescerem suas economias.**\n\n🚀 Somos uma das maiores empresas SaaS do Brasil. Desenvolvemos uma plataforma 100% brasileira de automação de marketing digital e vendas;\n\n🌎 Temos desafios de expansão nacional (onde somos líderes) e de crescimento internacional na América Latina e Europa. Atendemos + 40.000 clientes de todos os portes em +40 países;\n\n⭐ As +900 pessoas do nosso time (RDoers, como chamamos por aqui) nos elegeram diversas vezes uma das melhores empresas para se trabalhar no país e nos deram 4.7 estrelas no Glassdoor.\n\n**Candidate-se em https://grnh.se/d6cf06262us**\n\n## Principais entregas da vaga\n- Desenvolver novas features para as soluções principalmente em Ruby on Rails (conheça todas as nossas linguagens [aqui](http://bit.ly/3aWvPFH));\n- Garantir, no desenvolvimento e review, um codebase saudável com poucos débitos técnicos; \n- Seguir nossos [princípios de Engenharia](https://bit.ly/39dwSiT) (Baixo acoplamento, alta coesão; Desenhe seu código para ser fácil de entender, não fácil de escrever; Reduzir a complexidade global é mais importante que reduzir a complexidade local; Automatize tudo).\n\n## Benefícios\n\nPara ver todos os benefícios, acesse este [link](https://talent.rdstation-tm.com/beneficios-rdstation)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida em desenvolvimento backend, principalmente em Ruby on Rails;\n- Experiência sólida com banco de dados, principalmente em Postgree;\n- Experiência sólida na construção de arquiteturas sustentáveis e escaláveis;\n- Vivência com boas práticas de desenvolvimento, como Clean Architectures e entre outras.\n\n**Diferenciais:**\n- Experiência em desenvolvimento frontend, preferencialmente em React;\n- Experiência com arquitetura de nuvem;\n- Conhecimento em mensageria, DDD;\n- Ser (ou querer se tornar) uma pessoa ativa na comunidade, que compartilha conhecimento dentro e fora da empresa através de eventos, artigos, mentorias, iniciativas voluntárias, projetos open source, etc.\n\n**Candidate-se em https://grnh.se/d6cf06262us**",
+      "excerpt": "### Seja Pessoa Engenheira de Software Sênior - Backend (Ruby on Rails) na RD Station **Ajudamos pessoas a crescerem seus negócios e países a crescerem suas economias.** 🚀 Somos uma das maiores empresas SaaS do Brasi...",
+      "issueState": "open",
+      "contentHash": "0eccd503737cf87b2c258ef22d3354f311586d1475220485d488d200a598de13",
+      "repository": "seujobtech/vagas",
+      "repositoryUrl": "https://github.com/seujobtech/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior"
+      ],
+      "author": {
+        "id": "AdSegundo",
+        "name": "AdSegundo",
+        "handle": "AdSegundo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/103961455?v=4"
+      },
+      "community": {
+        "id": "seujobtech",
+        "name": "seujobtech",
+        "avatarUrl": "https://github.com/seujobtech.png?size=80",
+        "repository": "seujobtech/vagas",
+        "url": "https://github.com/seujobtech/vagas"
+      },
+      "createdAt": "2023-08-23T17:11:05Z",
+      "updatedAt": "2023-08-23T17:11:31Z",
+      "url": "https://github.com/seujobtech/vagas/issues/411",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7fbd32ca1dc5a22323f0a6e0",
+      "sourceId": "LinuxSuRen/remote-jobs-in-china#67",
+      "title": "燧炻创新 不支持远程",
+      "description": "面试过，不支持远程",
+      "excerpt": "面试过，不支持远程",
+      "issueState": "open",
+      "contentHash": "268d2486130c883dc4d1cca134594b1d1750008de14c1be830687e9493b9cefa",
+      "repository": "LinuxSuRen/remote-jobs-in-china",
+      "repositoryUrl": "https://github.com/LinuxSuRen/remote-jobs-in-china",
       "region": "Asia",
       "country": "China",
       "tags": [],
       "author": {
-        "id": "liuchenx",
-        "name": "liuchenx",
-        "handle": "liuchenx",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8668928?v=4"
+        "id": "cx4",
+        "name": "cx4",
+        "handle": "cx4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41991295?v=4"
       },
       "community": {
-        "id": "android-cn",
-        "name": "android-cn",
-        "avatarUrl": "https://github.com/android-cn.png?size=80",
-        "repository": "android-cn/android-jobs",
-        "url": "https://github.com/android-cn/android-jobs"
+        "id": "LinuxSuRen",
+        "name": "LinuxSuRen",
+        "avatarUrl": "https://github.com/LinuxSuRen.png?size=80",
+        "repository": "LinuxSuRen/remote-jobs-in-china",
+        "url": "https://github.com/LinuxSuRen/remote-jobs-in-china"
       },
-      "createdAt": "2015-03-31T03:40:35Z",
-      "updatedAt": "2018-11-19T06:20:25Z",
-      "url": "https://github.com/android-cn/android-jobs/issues/109",
-      "sourceType": "github-issue",
-      "sourceId": "android-cn/android-jobs#109"
+      "createdAt": "2023-08-22T05:58:00Z",
+      "updatedAt": "2023-08-22T06:00:21Z",
+      "url": "https://github.com/LinuxSuRen/remote-jobs-in-china/issues/67",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ad54015a0c17ab9060f43a90",
+      "sourceId": "nodejs-tw/jobs#251",
+      "title": "【徵才】【WE'RE HIRING】【Node.JS 開發工程師】走在時代的尖端",
+      "description": "# **公司簡介**\n\n「Trevi特雷維」是一家致力於遊戲開發的工作室。我們專注於創造獨特且富有挑戰性的3D 益智遊戲。\n作為一個集結了設計師、程式開發人員和遊戲愛好者的專業團隊，我們致力於打造令人驚嘆且充滿娛樂性的遊戲體驗。\n我們不僅僅是遊戲的創作者，更是與玩家一同探險、共同成長的夥伴。\n\n我們是個相對年輕，但做事卻成熟的團隊，因為團隊成員大多來自知名軟體公司。\n因此歷練過多個產品的誕生，當然也包含產品失敗的經驗，使我們團隊做任何決定都有著這些經驗作為後盾。\n\n- 開放式的溝通，扁平化的組織。\n- 不定期的團隊活動，e.g. 迎新會，慶生會和運動會等等。\n- 一覽無遺15樓高樓view，101就在你身旁。\n- 咖啡廳式的交誼廳空間，提供懶骨頭放鬆休息。\n\nIf you love working in a small, fast paced, fun environment and taking ownership of core product functionality that directly impacts the success of the company, **this is the place for you!**\n\n\n\n\n## **職缺描述**\n\n1.負責後台伺服器功能設計與開發\n\n2.協助優化遊戲伺服器性能與穩定性\n\n3.協助不同專案的系統開發、後端程式撰寫及維護，同時適時進行跨專案的支援\n\n4.網站的後端及相關 API 開發與串接並確保程式品質\n\n## **職務需求**\n\n1.三年以上NodeJS開發經驗\n\n2.熟悉RESTful API 設計與開發經驗並有良好的編程習慣,書寫易維護,易閱讀的代碼/註釋\n\n3.熟悉Linux系統\n\n4.熟悉MySQL或Oracle資料庫相關操作(Transaction)與建置(Schema)\n\n5.有使用Redis或MQ經驗\n\n6.有專案設計、規畫、開發相關工作經驗者佳\n\n7.資訊工程或相關科、系(所)畢業佳，具備實際開發經驗則不限\n\n## **薪資福利**\n90萬 ~ 150萬 TWD / 年\n\n## **面試流程**\n1、請人選先投遞履歷到信箱給HR審閱\n\n2、會由HR先進行線上HR訪談，大約只需要5-10分鐘互相認識並確認意向\n\n3、安排技術面試，最少1面，最多3面\n\n4、面試完成後，通知是否通過面試，如未通過面試，便不再進行後續流程\n\n通過面試者，會由HR致電確認薪資，以及確認人選是否接受薪資\n\n5、如人選接受薪資，會發正式的OFFER給人選，讓人選在2個工作天內回覆是否接受OFFER\n\n6、如人選接受OFFER，便可以開始著手準備入職前文件\n\n7、入職日當天，填寫入職文件並成功提交\n\n**歡迎您成為Trevi的夥伴**\n\n\n### **履歷投遞這邊請 carol.x@trevi.cc**  \n聯繫Trevi招募專員 Carol\n\n公司網站 : https://www.trevi.cc/\nFacebook : https://www.facebook.com/Trevi101",
+      "excerpt": "# **公司簡介** 「Trevi特雷維」是一家致力於遊戲開發的工作室。我們專注於創造獨特且富有挑戰性的3D 益智遊戲。 作為一個集結了設計師、程式開發人員和遊戲愛好者的專業團隊，我們致力於打造令人驚嘆且充滿娛樂性的遊戲體驗。 我們不僅僅是遊戲的創作者，更是與玩家一同探險、共同成長的夥伴。 我們是個相對年輕，但做事卻成熟的團隊，因為團隊成員大多來自知名軟體公司。 因此歷練過多個產品的誕生，當然也包含產品失敗的經驗，使我們團隊做任何...",
+      "issueState": "open",
+      "contentHash": "2638f17f97f473ed90d270f7aea193419a9cfb923dc821331a7a7b64c0dbe2f3",
+      "repository": "nodejs-tw/jobs",
+      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "node"
+      ],
+      "author": {
+        "id": "TREVIHR",
+        "name": "TREVIHR",
+        "handle": "TREVIHR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/142382021?v=4"
+      },
+      "community": {
+        "id": "nodejs-tw",
+        "name": "nodejs-tw",
+        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
+        "repository": "nodejs-tw/jobs",
+        "url": "https://github.com/nodejs-tw/jobs"
+      },
+      "createdAt": "2023-08-18T00:36:45Z",
+      "updatedAt": "2023-08-18T00:36:45Z",
+      "url": "https://github.com/nodejs-tw/jobs/issues/251",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5ab14d81491668f2f3c49f88",
+      "sourceId": "nodejs-tw/jobs#250",
+      "title": "Canner | Sr. Backend Engineer 資深後端工程師",
+      "description": "# 公司簡介\n\nCanner 是一個大數據公司，以開源為核心並且也活躍貢獻於國際開源專案。\n\n在 Canner，我們的願景是使企業能夠向對的人，對的資料。我們賦予資料消費者獨立調用資料的能力，通過簡化工作流程和消除瓶頸，同時確保資料擁有者對其集保持控制，保護敏感信息並培養基於數據的決策文化。我們致力於充分發揮數據在企業中的潛力，使其能夠無縫擴展企業組織並推動創新。\n\n \n👉 官網了解更多：https://cannerdata.com\n👉 Canner 過去也投入許多開源專案：https://github.com/Canner\n👉 完整公司介紹可參考 cakeresume 上資料：https://www.cakeresume.com/companies/canner/jobs/sr-backend-engineer-senior-backend-engineer-2367af\n\nCanner 開源專案\n- VulcanSQL: https://vulcansql.com/\n- Accio: https://www.getaccio.ai/\n\n\n### 在 Canner 的第 1 個月\n\n- 了解 Canner 的核心價值，了解團隊合作的方針\n- 隨著 Product manager / Product designer 的介紹跟討論，逐步了解 modern data stack，全球資料領域的生態系，並了解 Canner 解決的問題及背後的痛點，以及在 modern data stack 中扮演的角色\n- 透過產品文件及介紹，了解 Canner 如何使用，及不同功能的目的，另外透過研發同仁的介紹以及程式碼的研讀，了解背後如何實現\n- 隨著 Canner 研發團隊，在 Notion, Shortcut, Figma 等工具上協作，Canner 團隊大部分時間為遠端工作，故非同步下的文件紀錄及資訊同步是非常重要的\n- 隨著 Canner 研發團隊，參與 Scrum 相關會議，並從小型的 ticket 開始，逐步熟悉團隊開發方式\n\n### 在 Canner 的前 3 個月\n\n- 根據 Sprint planning 指派的工作，確實的完成任務\n- 主動負責的釐清不清楚的項目，並在事前與同仁討論可行性及作法\n- 以符合團隊合作方針的方式，跟團隊合作\n\n### 在 Canner 的前半年\n\n- 參與 Code Review 流程，對其他同仁的 PR 提出改進建議，並為 codebase 把關\n- 主動協助其他同仁，如同其他同仁也會主動協助你一樣\n- 主動提出非指派項目中，可優化的項目，例如某段程式碼的 refactor 可為後續的功能做鋪路，並加速後續開發效率，或是引進某個對團隊有幫助的工具\n- 吸收跟資料領域相關的各種新知，並可與團隊成員討論跟分享\n\n##【工作內容】\n\n1. 已可測試，迭代的方式，開發及改進 Canner 產品功能\n2. 參與系統架構設計，確保系統的 scalability 及穩定性\n3. 參與各項專案開發及討論，可周詳得考慮到不同面向，提供簡潔可行的執行方向\n4. 協助定義及優化內部開發流程，coding style 及 best practice\n5. 協助團隊內部的 Junior 及 Intermediate Engineers 在技術方面有所成長，並協助移除 blockers\n\n##【職務要求】\n\n- 擁有 node.js 開發經驗 3 年以上。\n- 熟悉 Git\n- 熟悉 *nix, macOS 作業系統\n- 重視程式品質，重視程式碼的可測試性\n- 優異的溝通及文件能力\n- 具備良好英文讀寫能力\n\n##【加分項目】\n\n- 在 DevOps 方面有經驗佳\n- 熟悉 AWS/GCP/Azure 等雲端服務尤佳\n- 擁有 GraphQL 開發經驗尤佳\n- 擁有 K8s 使用經驗尤佳\n- 了解 Data Analysis, Data Warehouse 等領域尤佳\n\n## 面試流程\n\n- Phone Screen: 10-20 mins call with HR\n- 1st Interview Online Interview: one-hour online interview with department supervisor\n- Assignment(if applicable)- Candidate will receive an assignment, as we expect them to finish it within 1 weeks.\n- 2nd Interview(Peer interview, Coding interview): one-hour session with HR, where we would discuss candidate’s experience and background, what passionate about..etc. Also, the coding interview with the Dev team members.\n- 3rd Interview: one-hour interview with CEO, CTO and HR\n\n## 混合式工作環境\n\n- 遠端 + 實體\n- 公司地址：新北市板橋區民生路一段 33 號 7F-2 （正隆廣場）\n\n## 聯絡方式\n\n[請至 CakeResume 投遞您的履歷！](https://www.cakeresume.com/companies/canner/jobs/sr-backend-engineer-senior-backend-engineer-2367af)",
+      "excerpt": "# 公司簡介 Canner 是一個大數據公司，以開源為核心並且也活躍貢獻於國際開源專案。 在 Canner，我們的願景是使企業能夠向對的人，對的資料。我們賦予資料消費者獨立調用資料的能力，通過簡化工作流程和消除瓶頸，同時確保資料擁有者對其集保持控制，保護敏感信息並培養基於數據的決策文化。我們致力於充分發揮數據在企業中的潛力，使其能夠無縫擴展企業組織並推動創新。 👉 官網了解更多：https://cannerdata.com 👉...",
+      "issueState": "open",
+      "contentHash": "00620692cae70b72980f11b1f7de58999d3bf845cc50cc61b117f93255acf72b",
+      "repository": "nodejs-tw/jobs",
+      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "backend",
+        "node",
+        "senior",
+        "junior",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "chilijung",
+        "name": "chilijung",
+        "handle": "chilijung",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1216029?v=4"
+      },
+      "community": {
+        "id": "nodejs-tw",
+        "name": "nodejs-tw",
+        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
+        "repository": "nodejs-tw/jobs",
+        "url": "https://github.com/nodejs-tw/jobs"
+      },
+      "createdAt": "2023-08-13T05:02:49Z",
+      "updatedAt": "2023-08-13T05:05:05Z",
+      "url": "https://github.com/nodejs-tw/jobs/issues/250",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bb95e71939c1d64baec9b52c",
+      "sourceId": "EtherTW/jobs#65",
+      "title": "Mara Blockchain 徵才 -【全職 Senior Solidity Engineer】",
+      "description": "## 團隊簡介\nMara Chain，是非洲加密經濟的門戶。\nＭara 是 10 億非洲人通過基於信任和教育的產品積累數字財富的平台。Ｍara 提供真正的非洲製造且符合監管要求的加密產品套件，通過這些產品，Ｍara 的用戶將找到他們在金融和創業解決方案中一直尋求的易用性、可靠性和透明度。\n透過 Ｍara 將創造金融可能性新世界的熱情與尖端技術和最優秀的人才融為一體。\n\n## 地點\n遠端\n\n## 工作內容\n作為一個Cosmos SDK開發的Layer 1區塊鏈的高級 Solidity Web3 工程師，您將有獨特的機會提供面向 Web3 用戶的組件，其中包括瀏覽器、驗證器、質押頁面、智能合約、自託管品牌加密錢包、用於驗證器的代幣水龍頭、跨鏈橋和交換前端。 您將生成與 JSON-RPC 和 Cosmos 區塊鏈 API 以及 Solidity 合約進行通信的 Web 前端應用程式和頁面。\n該職位將負責分析、確定範圍、設計、開發和測試網的鏈式工程 Web3 應用程式，並集成其他區塊鏈後端 API 和組件(即橋接器)。\n\n## 能力需求\n• 至少 2 年前端 Web 開發和相關工具鏈，即 React、Cypress、Jest、Enzyme。\n• 至少 1 年專業 Solidity、Web3 經驗以及相關現代框架和程式語言庫，即 Hardhat、OpenZeppelin。\n• 具智能合約安全審計經驗。\n• 安全第一的心態。\n• 能夠制定高效、安全、優質且經過充分測試的 Solidity 智能合約。\n• 久經考驗的為Web3 應用程序和Dapp 生成測試套件的能力。\n• 能夠獨立運作，並在 Jira 和 Confluence 中按照最高質量標準成功確定範圍、分析、實施、記錄和報告工作方面擁有良好的記錄。\n\n### 加分\n開發過Layer1區塊鏈經驗\n\n## 薪資範圍\n• 有競爭力的薪資和豐厚的福利待遇——並搭配公司股權和未來代幣權利\n\n## 福利/ 特休\n• 無限制的年假——以結果為導向的企業。\n• 提供就職者及其家屬全面的健康保險\n• 完整的產假/陪產假\n\n## 聯絡方式\nPeco@rbcap.io",
+      "excerpt": "## 團隊簡介 Mara Chain，是非洲加密經濟的門戶。 Ｍara 是 10 億非洲人通過基於信任和教育的產品積累數字財富的平台。Ｍara 提供真正的非洲製造且符合監管要求的加密產品套件，通過這些產品，Ｍara 的用戶將找到他們在金融和創業解決方案中一直尋求的易用性、可靠性和透明度。 透過 Ｍara 將創造金融可能性新世界的熱情與尖端技術和最優秀的人才融為一體。 ## 地點 遠端 ## 工作內容 作為一個Cosmos SDK開...",
+      "issueState": "open",
+      "contentHash": "85f5061c1ffaf24fbeee461e8063fee0361b605c41ff7be405f5c0c60186380e",
+      "repository": "EtherTW/jobs",
+      "repositoryUrl": "https://github.com/EtherTW/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "react",
+        "senior"
+      ],
+      "author": {
+        "id": "MrMistre",
+        "name": "MrMistre",
+        "handle": "MrMistre",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44133291?v=4"
+      },
+      "community": {
+        "id": "EtherTW",
+        "name": "EtherTW",
+        "avatarUrl": "https://github.com/EtherTW.png?size=80",
+        "repository": "EtherTW/jobs",
+        "url": "https://github.com/EtherTW/jobs"
+      },
+      "createdAt": "2023-08-01T12:27:59Z",
+      "updatedAt": "2023-08-01T12:37:05Z",
+      "url": "https://github.com/EtherTW/jobs/issues/65",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e434827693aa157ffa2e7bbc",
+      "sourceId": "EtherTW/jobs#64",
+      "title": "🔥 [資深] 3.5M/Y 工程師經理 (全遠端) 🛠 Senior Engineering Lead (Remote) 🚀",
+      "description": "## **About Us**\n\nWe are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgrounds in finance and consulting from New York, San Francisco, and Chicago. As a fully remote company, we offer a unique opportunity for exceptional individuals to join our team. We foster a culture that values both practicality and creativity, providing an meritocratic environment for you to showcase your skills and contribute to the creation of innovative products.\n\nAre you seeking a company that transcends traditional constraints of location and time?\n\nIf you meet the following criteria, we want to work with you:\n\n1. **Proactive and Independent:** Embrace the freedom to control your own working hours and enjoy the benefits of flexible schedules.\n2. **Fully Remote:** Escape the confines of a traditional office setting and thrive in a fully remote work environment.\n3. **Ownership and Involvement:** Crave a sense of involvement and autonomy, where your ideas and contributions are valued and recognized.\n4. **Strong Entrepreneurial Spirit:** High-energy, possess an adventurous and startup mindset, unafraid of embracing unknown challenges.\n5. **Passion for the International Product:** Fuel your ambition by working on projects that transcend borders and embrace the opportunity to collaborate with teams across different parts of the world.\n\nIf you are driven, hard-working, and ready to make a significant impact, we would love to hear from you. Join our team and embark on an exciting journey of innovation and growth!\n\n**APPLY NOW:** **https://linktr.ee/growaha**\n\n# **Job Description**\n\nWe're seeking a Senior Engineering Lead, a catalyst who thrives in transforming challenges into innovative solutions and inspires their team towards excellence.\n\n### **Your Journey as a Senior Engineering Lead**\n\n1. Influence product and technology decisions, translating complexities into clear strategies.\n2. Develop and implement engineering roadmaps, ensuring alignment with overall company vision.\n3. Drive key product KPIs, ensuring continuous progress and reporting.\n4. Work cross-functionally to design and deliver groundbreaking solutions.\n5. Foster a deep understanding of user personas, needs, and journeys within the engineering team.\n6. Assist in developing comprehensive business cases and operational plans.\n7. Help define the product vision and roadmap, delivering clarity on feasibility, time, cost, and impact.\n8. Prioritize product features effectively, enabling collaborative design and execution across teams.\n9. Attract, retain, and inspire a world-class engineering team. Cultivate an atmosphere of motivation, innovation, and peak productivity.\n10. Foster a high-performing, unified culture where everyone feels valued and heard.\n11. Ensure MVP OKRs/KPIs/deliverables are met in collaboration with other teams.\n12. Uphold a culture of commitment and accountability within teams, leading by example.\n\n### **What You Bring**\n\n1. BS or MS degree in Computer Science or equivalent experience.\n2. 5+ years of relevant full-time programming work experience.\n3. Strong full-stack (front-end and back-end) development skills:\n    - Proficiency in JavaScript (Express, Node, React, React Native, Redux), HTML, and CSS highly valued.\n    - iOS mobile app experience is a bonus.\n    - Given our agile team, the ability to navigate any tech stack and learn new technologies as needed is crucial.\n4. Solid grasp of object-oriented programming; familiarity with diverse design and architectural patterns.\n5. Strategic thinking, capable of creating robust technical strategies.\n6. Experience with swift prototyping and independently resolving ambiguities. We foster innovation and improvisation from every team member.\n7. Exceptional written and spoken communication skills.\n8. Flexibility for both in-office and remote work arrangements.\n9. Quick learning, team-playing, proactively contributing, and self-motivated.\n10. Passionate about crafting products that solve real-world problems.\n\nAs a leader, your ability to inspire, motivate and bring out the best in your team will be key to our collective success. By joining us, you're not just accepting a job but embracing an opportunity to make a real impact in the tech landscape.\n\n### Additional Qualifications\n\nWe are seeking individuals who possess the following qualifications:\n\n1. **Self-Motivation and Ownership:** Demonstrate self-motivation, a passion for continuous learning, and the ability to manage your own work effectively.\n2. **User-Centric Mindset:** Show a strong desire to meet user needs and a relentless pursuit of achievement and excellence.\n3. **Adaptability and Quick Learning:** Exhibit a customer-oriented approach, with the ability to quickly learn new skills and adapt to unfamiliar domains.\n4. **Collaborative Spirit:** Display a willingness to actively participate in the team environment and collaborate effectively with diverse team members.\n\n### Competitive Compensation\n\nWe offer competitive salary levels; details can be found at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha). Our salary structure includes flexible working hours, a fully remote setup, and monthly performance-based raises, bonuses, and rewards. \n\n### This Job Offers You\n\nWhen you join our team, you can expect:\n\n1. **Flexible and Independent Remote Work:** Enjoy the freedom of flexible working hours and the ability to work remotely.\n2. **Performance-Based Rewards:** Receive rewards and bonuses based on your performance and contributions.\n3. **Driven and Talented Co-workers:** Collaborate with a group of driven, creative, and multi-talented colleagues who share a deep passion for startups.\n4. **Ownership and Impact:** Take direct ownership of your role and responsibilities, making a meaningful impact in our innovative culture.\n5. **Learn to Solve Challenging Issues:** Work closely with teams dedicated to creating solutions for some of the most relevant and challenging issues.\n6. **Positive Work Environment:** Thrive in a work environment built on trust, accountability, collaboration, curiosity, fearlessness, kindness, and respect.\n\nPlease review our **Pre-Interview Info at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)** before applying.\n\nReady to join our team? **Apply now at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)**.",
+      "excerpt": "## **About Us** We are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgroun...",
+      "issueState": "open",
+      "contentHash": "009645da3c439f7494272658dd9b71509fa5aa44acbd5ebec301dc79f378e1c1",
+      "repository": "EtherTW/jobs",
+      "repositoryUrl": "https://github.com/EtherTW/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "remote",
+        "react",
+        "node",
+        "java",
+        "senior",
+        "design"
+      ],
+      "author": {
+        "id": "workataha",
+        "name": "workataha",
+        "handle": "workataha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121159613?v=4"
+      },
+      "community": {
+        "id": "EtherTW",
+        "name": "EtherTW",
+        "avatarUrl": "https://github.com/EtherTW.png?size=80",
+        "repository": "EtherTW/jobs",
+        "url": "https://github.com/EtherTW/jobs"
+      },
+      "createdAt": "2023-07-28T10:37:15Z",
+      "updatedAt": "2023-07-28T10:37:15Z",
+      "url": "https://github.com/EtherTW/jobs/issues/64",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_c97eae1531a9385cb4677062",
+      "sourceId": "EtherTW/jobs#63",
+      "title": "🔥 [資深] 3.5M/Y 後端軟體工程師 (全遠端) 🛠 Senior Back-End Engineer (Remote) 🚀",
+      "description": "## **About Us**\n\nWe are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgrounds in finance and consulting from New York, San Francisco, and Chicago. As a fully remote company, we offer a unique opportunity for exceptional individuals to join our team. We foster a culture that values both practicality and creativity, providing an meritocratic environment for you to showcase your skills and contribute to the creation of innovative products.\n\nAre you seeking a company that transcends traditional constraints of location and time?\n\nIf you meet the following criteria, we want to work with you:\n\n1. **Proactive and Independent:** Embrace the freedom to control your own working hours and enjoy the benefits of flexible schedules.\n2. **Fully Remote:** Escape the confines of a traditional office setting and thrive in a fully remote work environment.\n3. **Ownership and Involvement:** Crave a sense of involvement and autonomy, where your ideas and contributions are valued and recognized.\n4. **Strong Entrepreneurial Spirit:** High-energy, possess an adventurous and startup mindset, unafraid of embracing unknown challenges.\n5. **Passion for the International Product:** Fuel your ambition by working on projects that transcend borders and embrace the opportunity to collaborate with teams across different parts of the world.\n\nIf you are driven, hard-working, and ready to make a significant impact, we would love to hear from you. Join our team and embark on an exciting journey of innovation and growth!\n\n**APPLY NOW:** **https://linktr.ee/growaha**\n\n# **Job Description**\n\nAs a Senior Back-End Engineer, your pivotal role will encompass the design of a dynamic and scalable back-end architecture optimized for performance, and positioned to accommodate future product developments.\n\n### **Your Journey as a Senior Back-End Engineer**\n\n1. Our back-end primarily leverages **JavaScript** (Node.js). Proficiency in JavaScript is vital; however, applicants with experience in other languages like C, C++, C#, Java, Ruby, or GoLang, who can adapt to JavaScript swiftly, are welcome.\n2. Our databases are SQL-based, primarily utilizing Postgres. We use ORMs for effective database interaction and management.\n3. Our production infrastructure thrives on containers, K8, and AWS ECS.\n4. Our work environment values teamwork.\n    - Join hands with a cross-functional team throughout the development cycle, from designing to deploying APIs, SDKs, and other services or tooling.\n    - Engage in code reviews to elevate your work and that of your colleagues.\n    - Craft reusable and testable code for services and libraries that can be maintained seamlessly.\n    - Collaborate with engineers across various departments to create remarkable features.\n    - Work in unison with our product team to identify and tackle user pain points.\n    - Champion improvements in engineering standards, tooling, and processes.\n    - Develop innovative tools for internal teams.\n    - Embrace ownership and responsibility for your work.\n5. API development is a key facet of your role.\n    - Design, build, and maintain APIs, services, and systems.\n    - Create new APIs or enhance existing ones for our users.\n6. Troubleshooting and debugging are indispensable skills.\n    - Investigate, debug, and upgrade existing software systems, including the development and integration of new components or automation pipelines as needed.\n    - Address production issues across services.\n7. Engage in the launch of new markets, features, or products regularly.\n\n### **What You Bring**\n\n1. Degree in Information Technology, Computer Engineering, or a related field.\n2. Five or more years of coding experience or an internship in a similar role.\n3. Proficiency in web frameworks, especially JavaScript and Node.js.\n4. Experience with databases like PostgreSQL and SQL Server.\n5. Familiarity with quality control testing using tools such as QUnit, Mocha, Jasmine, or RSpec.\n\nIn this role, you'll have the opportunity to shape the backbone of our software, empowering us to drive forward with innovative product advancements. Are you ready to take the lead?\n\n### Additional Qualifications\n\nWe are seeking individuals who possess the following qualifications:\n\n1. **Self-Motivation and Ownership:** Demonstrate self-motivation, a passion for continuous learning, and the ability to manage your own work effectively.\n2. **User-Centric Mindset:** Show a strong desire to meet user needs and a relentless pursuit of achievement and excellence.\n3. **Adaptability and Quick Learning:** Exhibit a customer-oriented approach, with the ability to quickly learn new skills and adapt to unfamiliar domains.\n4. **Collaborative Spirit:** Display a willingness to actively participate in the team environment and collaborate effectively with diverse team members.\n\n### Competitive Compensation\n\nWe offer competitive salary levels; details can be found at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha). Our salary structure includes flexible working hours, a fully remote setup, and monthly performance-based raises, bonuses, and rewards. \n\n### This Job Offers You\n\nWhen you join our team, you can expect:\n\n1. **Flexible and Independent Remote Work:** Enjoy the freedom of flexible working hours and the ability to work remotely.\n2. **Performance-Based Rewards:** Receive rewards and bonuses based on your performance and contributions.\n3. **Driven and Talented Co-workers:** Collaborate with a group of driven, creative, and multi-talented colleagues who share a deep passion for startups.\n4. **Ownership and Impact:** Take direct ownership of your role and responsibilities, making a meaningful impact in our innovative culture.\n5. **Learn to Solve Challenging Issues:** Work closely with teams dedicated to creating solutions for some of the most relevant and challenging issues.\n6. **Positive Work Environment:** Thrive in a work environment built on trust, accountability, collaboration, curiosity, fearlessness, kindness, and respect.\n\nPlease review our **Pre-Interview Info at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)** before applying.\n\nReady to join our team? **Apply now at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)**.",
+      "excerpt": "## **About Us** We are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgroun...",
+      "issueState": "open",
+      "contentHash": "f5fde0c16c797bd2f218c948ac078a36c8134f7c13941ecfa29ee12347795c45",
+      "repository": "EtherTW/jobs",
+      "repositoryUrl": "https://github.com/EtherTW/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "remote",
+        "node",
+        "golang",
+        "java",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "workataha",
+        "name": "workataha",
+        "handle": "workataha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121159613?v=4"
+      },
+      "community": {
+        "id": "EtherTW",
+        "name": "EtherTW",
+        "avatarUrl": "https://github.com/EtherTW.png?size=80",
+        "repository": "EtherTW/jobs",
+        "url": "https://github.com/EtherTW/jobs"
+      },
+      "createdAt": "2023-07-28T10:36:41Z",
+      "updatedAt": "2023-07-28T10:36:41Z",
+      "url": "https://github.com/EtherTW/jobs/issues/63",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ffbab03a0e31b6ecd2cefb44",
+      "sourceId": "EtherTW/jobs#62",
+      "title": "🔥 [資深] 3.5M/Y 前端軟體工程師 (全遠端) 🛠 Senior Front-End Engineer (Remote) 🚀",
+      "description": "## **About Us**\n\nWe are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgrounds in finance and consulting from New York, San Francisco, and Chicago. As a fully remote company, we offer a unique opportunity for exceptional individuals to join our team. We foster a culture that values both practicality and creativity, providing an meritocratic environment for you to showcase your skills and contribute to the creation of innovative products.\n\nAre you seeking a company that transcends traditional constraints of location and time?\n\nIf you meet the following criteria, we want to work with you:\n\n1. **Proactive and Independent:** Embrace the freedom to control your own working hours and enjoy the benefits of flexible schedules.\n2. **Fully Remote:** Escape the confines of a traditional office setting and thrive in a fully remote work environment.\n3. **Ownership and Involvement:** Crave a sense of involvement and autonomy, where your ideas and contributions are valued and recognized.\n4. **Strong Entrepreneurial Spirit:** High-energy, possess an adventurous and startup mindset, unafraid of embracing unknown challenges.\n5. **Passion for the International Product:** Fuel your ambition by working on projects that transcend borders and embrace the opportunity to collaborate with teams across different parts of the world.\n\nIf you are driven, hard-working, and ready to make a significant impact, we would love to hear from you. Join our team and embark on an exciting journey of innovation and growth!\n\n**APPLY NOW:** **https://linktr.ee/growaha**\n\n# **Job Description**\n\nAs our Senior Front-End Engineer, you are tasked with the development of engaging, intuitive, and visually compelling user interfaces for our web app product. You will work in close collaboration with designers and back-end engineers, and the marketing team, transmuting design mockups, user stories, and wireframes into high-quality code, thereby ensuring an immersive and seamless user experience.\n\n### **Your Journey as a Senior Front-End Engineer**\n\n1. Our front-end ecosystem is fortified with JavaScript, React, and Material UI (MUI), while we utilize React Native for mobile front-end development.\n2. As front-end engineers, we take pride in precise design execution, valuing pixel-perfect implementation and employing Figma to maintain alignment with original designs.\n3. Collaborative work culture is our ethos.\n    - Work in tandem with a cross-functional team through the development cycle, from front-end frameworks, and front-end service design to deployment.\n    - Engage in code reviews to elevate your work and that of your colleagues.\n    - Write clean, reusable, and testable code for easy maintenance by yourself and your fellow software engineers.\n    - Partner with engineers from various teams to create user-delighting features.\n    - Collaborate with our design team to understand and address user pain points.\n    - Drive enhancements in engineering standards, tooling, and processes.\n    - Develop new tools for internal teams.\n    - Embrace ownership and accountability for your work.\n4. API integration is a critical part of your role.\n    - Integrate APIs according to spec with front-end frameworks.\n5. Build, mange, and reuse UI components effectively.\n    - Keep UI components organized.\n    - Reuse UI component to maximize efficiency, robustness, and user experience.\n6. Troubleshooting and debugging are indispensable skills.\n    - Investigate, debug, and upgrade existing software systems, including the development and integration of new components or automation pipelines as needed.\n    - Address production issues across services.\n7. Engage in the regular launch of new markets, features, or products.\n\n### **What You Bring**\n\n1. Degree in Information Technology, Computer Engineering, or related field.\n2. Five or more years of coding experience or a similar role internship.\n3. Proficiency in web development frameworks, especially JavaScript, React, and Material UI (MUI).\n4. Experience with databases like PostgreSQL and SQL Server.\n5. Familiarity with quality control testing using tools such as QUnit, Mocha, Jasmine, or RSpec.\n\nWith your craftsmanship, you'll help to shape the user interface of our software, driving our mission forward through stunning visual experiences. Are you ready to create?\n\n### Additional Qualifications\n\nWe are seeking individuals who possess the following qualifications:\n\n1. **Self-Motivation and Ownership:** Demonstrate self-motivation, a passion for continuous learning, and the ability to manage your own work effectively.\n2. **User-Centric Mindset:** Show a strong desire to meet user needs and a relentless pursuit of achievement and excellence.\n3. **Adaptability and Quick Learning:** Exhibit a customer-oriented approach, with the ability to quickly learn new skills and adapt to unfamiliar domains.\n4. **Collaborative Spirit:** Display a willingness to actively participate in the team environment and collaborate effectively with diverse team members.\n\n### Competitive Compensation\n\nWe offer competitive salary levels; details can be found at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha). Our salary structure includes flexible working hours, a fully remote setup, and monthly performance-based raises, bonuses, and rewards. \n\n### This Job Offers You\n\nWhen you join our team, you can expect:\n\n1. **Flexible and Independent Remote Work:** Enjoy the freedom of flexible working hours and the ability to work remotely.\n2. **Performance-Based Rewards:** Receive rewards and bonuses based on your performance and contributions.\n3. **Driven and Talented Co-workers:** Collaborate with a group of driven, creative, and multi-talented colleagues who share a deep passion for startups.\n4. **Ownership and Impact:** Take direct ownership of your role and responsibilities, making a meaningful impact in our innovative culture.\n5. **Learn to Solve Challenging Issues:** Work closely with teams dedicated to creating solutions for some of the most relevant and challenging issues.\n6. **Positive Work Environment:** Thrive in a work environment built on trust, accountability, collaboration, curiosity, fearlessness, kindness, and respect.\n\nPlease review our **Pre-Interview Info at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)** before applying.\n\nReady to join our team? **Apply now at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)**.",
+      "excerpt": "## **About Us** We are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgroun...",
+      "issueState": "open",
+      "contentHash": "9aedd5bcb8fbb8098012c14dc913b7cc201ea202b96a5136bd9ab9f7f4fe6a29",
+      "repository": "EtherTW/jobs",
+      "repositoryUrl": "https://github.com/EtherTW/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "remote",
+        "react",
+        "java",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "workataha",
+        "name": "workataha",
+        "handle": "workataha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121159613?v=4"
+      },
+      "community": {
+        "id": "EtherTW",
+        "name": "EtherTW",
+        "avatarUrl": "https://github.com/EtherTW.png?size=80",
+        "repository": "EtherTW/jobs",
+        "url": "https://github.com/EtherTW/jobs"
+      },
+      "createdAt": "2023-07-28T10:36:01Z",
+      "updatedAt": "2023-07-28T10:36:01Z",
+      "url": "https://github.com/EtherTW/jobs/issues/62",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_791800c8db99244781c6cb8e",
+      "sourceId": "EtherTW/jobs#61",
+      "title": "🔥 [資深] 3.5M/Y 全端軟體工程師 (全遠端) 🛠 Senior Full-Stack Engineer (Remote) 🚀",
+      "description": "## **About Us**\n\nWe are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgrounds in finance and consulting from New York, San Francisco, and Chicago. As a fully remote company, we offer a unique opportunity for exceptional individuals to join our team. We foster a culture that values both practicality and creativity, providing an meritocratic environment for you to showcase your skills and contribute to the creation of innovative products.\n\nAre you seeking a company that transcends traditional constraints of location and time?\n\nIf you meet the following criteria, we want to work with you:\n\n1. **Proactive and Independent:** Embrace the freedom to control your own working hours and enjoy the benefits of flexible schedules.\n2. **Fully Remote:** Escape the confines of a traditional office setting and thrive in a fully remote work environment.\n3. **Ownership and Involvement:** Crave a sense of involvement and autonomy, where your ideas and contributions are valued and recognized.\n4. **Strong Entrepreneurial Spirit:** High-energy, possess an adventurous and startup mindset, unafraid of embracing unknown challenges.\n5. **Passion for the International Product:** Fuel your ambition by working on projects that transcend borders and embrace the opportunity to collaborate with teams across different parts of the world.\n\nIf you are driven, hard-working, and ready to make a significant impact, we would love to hear from you. Join our team and embark on an exciting journey of innovation and growth!\n\n**APPLY NOW:** **https://linktr.ee/growaha**\n\n# **Job Description**\n\nAs a Senior Full Stack Engineer, you'll be key to building and maintaining our innovative web applications, working across both front-end and back-end to ensure a robust, seamless user experience.\n\n### **Your Journey as a Senior Full-Stack Engineer**\n\n1. Work with our tech stack comprising JavaScript, React, Material UI (MUI), Node.js, and other languages, while swiftly adapting to JavaScript if your expertise lies elsewhere.\n2. Handle SQL-based databases, mainly PostgreSQL, using ORMs to interact effectively.\n3. Utilize containers, K8, and AWS ECS for reliable and efficient application deployment.\n4. Develop mobile interfaces using React Native.\n5. Collaborate with multidisciplinary teams through the full development cycle, from API design to deployment. This includes code reviews, developing reusable code, and collaborating with various engineering teams.\n6. Work with our design team to address user pain points and drive improvements in engineering standards and processes. You'll also develop new tools for internal teams and take ownership of your work.\n7. Design, build, and maintain APIs, iterating to enhance functionality.\n8. Troubleshoot and debug software systems, integrate new components as needed, and address production issues.\n9. Launch new markets, features, or products regularly, staying agile to meet market demands.\n\n### **What You Bring**\n\n1. Bachelor's degree in Computer Science, Software Engineering, or a related field. Advanced degrees preferred.\n2. 5+ years of experience in full stack development on complex web applications.\n3. Proficiency in front-end technologies like JavaScript, HTML5, CSS3, and a modern framework such as React.\n4. Solid understanding of back-end development using Node.js, Python, or similar.\n5. Experience with PostgreSQL and SQL Server databases, including data modeling and query optimization.\n6. Familiarity with version control systems (Git), agile methodologies, and CI/CD pipelines.\n7. Knowledge of cloud platforms (AWS, Azure, or GCP) and containerization (Docker, Kubernetes) is a plus.\n8. Excellent problem-solving skills with an ability to debug complex software issues.\n9. Strong communication and collaboration skills with a team-oriented mindset.\n\nBy joining us, you'll not only be a part of a dynamic, innovative environment, but you'll also have the opportunity to grow your technical skills, contribute directly to the success of our projects, and make a tangible impact in our rapidly evolving field. Our inclusive culture encourages collaboration and continuous learning, ensuring that you stay abreast of the latest trends and technologies, broadening your professional horizons, and furthering your career.\n\n### Additional Qualifications\n\nWe are seeking individuals who possess the following qualifications:\n\n1. **Self-Motivation and Ownership:** Demonstrate self-motivation, a passion for continuous learning, and the ability to manage your own work effectively.\n2. **User-Centric Mindset:** Show a strong desire to meet user needs and a relentless pursuit of achievement and excellence.\n3. **Adaptability and Quick Learning:** Exhibit a customer-oriented approach, with the ability to quickly learn new skills and adapt to unfamiliar domains.\n4. **Collaborative Spirit:** Display a willingness to actively participate in the team environment and collaborate effectively with diverse team members.\n\n### Competitive Compensation\n\nWe offer competitive salary levels; details can be found at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha). Our salary structure includes flexible working hours, a fully remote setup, and monthly performance-based raises, bonuses, and rewards. \n\n### This Job Offers You\n\nWhen you join our team, you can expect:\n\n1. **Flexible and Independent Remote Work:** Enjoy the freedom of flexible working hours and the ability to work remotely.\n2. **Performance-Based Rewards:** Receive rewards and bonuses based on your performance and contributions.\n3. **Driven and Talented Co-workers:** Collaborate with a group of driven, creative, and multi-talented colleagues who share a deep passion for startups.\n4. **Ownership and Impact:** Take direct ownership of your role and responsibilities, making a meaningful impact in our innovative culture.\n5. **Learn to Solve Challenging Issues:** Work closely with teams dedicated to creating solutions for some of the most relevant and challenging issues.\n6. **Positive Work Environment:** Thrive in a work environment built on trust, accountability, collaboration, curiosity, fearlessness, kindness, and respect.\n\nPlease review our **Pre-Interview Info at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)** before applying.\n\nReady to join our team? **Apply now at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)**.",
+      "excerpt": "## **About Us** We are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgroun...",
+      "issueState": "open",
+      "contentHash": "3b490ed01410177624ae7a43696271b53d1800b954049ff112f42dcc0d8cd545",
+      "repository": "EtherTW/jobs",
+      "repositoryUrl": "https://github.com/EtherTW/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "remote",
+        "react",
+        "node",
+        "python",
+        "java",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "workataha",
+        "name": "workataha",
+        "handle": "workataha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121159613?v=4"
+      },
+      "community": {
+        "id": "EtherTW",
+        "name": "EtherTW",
+        "avatarUrl": "https://github.com/EtherTW.png?size=80",
+        "repository": "EtherTW/jobs",
+        "url": "https://github.com/EtherTW/jobs"
+      },
+      "createdAt": "2023-07-28T10:35:13Z",
+      "updatedAt": "2023-07-28T10:35:13Z",
+      "url": "https://github.com/EtherTW/jobs/issues/61",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bb3fa49952e4dd6fc100f8ba",
+      "sourceId": "EtherTW/jobs#60",
+      "title": "🔥 [資深] 3.5M/Y iOS/Android 軟體工程師 (全遠端) 🛠 Senior Mobile App Engineer (Remote) 🚀",
+      "description": "## **About Us**\n\nWe are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgrounds in finance and consulting from New York, San Francisco, and Chicago. As a fully remote company, we offer a unique opportunity for exceptional individuals to join our team. We foster a culture that values both practicality and creativity, providing an meritocratic environment for you to showcase your skills and contribute to the creation of innovative products.\n\nAre you seeking a company that transcends traditional constraints of location and time?\n\nIf you meet the following criteria, we want to work with you:\n\n1. **Proactive and Independent:** Embrace the freedom to control your own working hours and enjoy the benefits of flexible schedules.\n2. **Fully Remote:** Escape the confines of a traditional office setting and thrive in a fully remote work environment.\n3. **Ownership and Involvement:** Crave a sense of involvement and autonomy, where your ideas and contributions are valued and recognized.\n4. **Strong Entrepreneurial Spirit:** High-energy, possess an adventurous and startup mindset, unafraid of embracing unknown challenges.\n5. **Passion for the International Product:** Fuel your ambition by working on projects that transcend borders and embrace the opportunity to collaborate with teams across different parts of the world.\n\nIf you are driven, hard-working, and ready to make a significant impact, we would love to hear from you. Join our team and embark on an exciting journey of innovation and growth!\n\n**APPLY NOW:** **https://linktr.ee/growaha**\n\n# **Job Description**\n\nAs a Senior Mobile App Engineer, you'll play a critical role in designing, developing, and maintaining top-tier mobile applications for iOS and Android platforms. We're seeking an innovative thinker and experienced developer passionate about creating exceptional user experiences and high-performing applications.\n\n### **Your Journey as a Senior Mobile App Engineer**\n\n1. We focus primarily on iOS and Android for our mobile app development. While we prefer candidates with prior experience in iOS and/or Android app development, we're open to individuals with strong experience in other programming languages such as Swift, Objective-C, Java, or Kotlin.\n2. Your role will involve using Xcode for iOS development and Android development environment. You'll work on the front-end mobile app development, closely interacting with our back-end frameworks to create seamless and efficient applications.\n\n### **What You Bring**\n\n- Bachelor's degree in information technology, computer engineering, electrical engineering, or related fields.\n- A minimum of two years of professional experience or internships in mobile app development.\n- Proficiency with Swift, Objective-C, Java, and Kotlin.\n- Familiarity with Xcode for iOS development and the Android development environment.\n- Experience in front-end mobile app development, particularly in interactions with back-end frameworks.\n- Understanding of mobile application design patterns and User Interface (UI) API design.\n\n**Extra Credentials**\n\n- At least two years of experience in iOS and/or Android app development, with a portfolio of apps published on the App Store or Google Play.\n\nBy joining our team, you will have the unique opportunity to be part of a fast-growing tech company. You'll be working with cutting-edge technologies and tools, alongside a team of talented and passionate professionals dedicated to creating top-tier mobile applications. You'll be challenged, inspired, and you'll grow your career as you contribute to our mission.\n\n### Additional Qualifications\n\nWe are seeking individuals who possess the following qualifications:\n\n1. **Self-Motivation and Ownership:** Demonstrate self-motivation, a passion for continuous learning, and the ability to manage your own work effectively.\n2. **User-Centric Mindset:** Show a strong desire to meet user needs and a relentless pursuit of achievement and excellence.\n3. **Adaptability and Quick Learning:** Exhibit a customer-oriented approach, with the ability to quickly learn new skills and adapt to unfamiliar domains.\n4. **Collaborative Spirit:** Display a willingness to actively participate in the team environment and collaborate effectively with diverse team members.\n\n### Competitive Compensation\n\nWe offer competitive salary levels; details can be found at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha). Our salary structure includes flexible working hours, a fully remote setup, and monthly performance-based raises, bonuses, and rewards. \n\n### This Job Offers You\n\nWhen you join our team, you can expect:\n\n1. **Flexible and Independent Remote Work:** Enjoy the freedom of flexible working hours and the ability to work remotely.\n2. **Performance-Based Rewards:** Receive rewards and bonuses based on your performance and contributions.\n3. **Driven and Talented Co-workers:** Collaborate with a group of driven, creative, and multi-talented colleagues who share a deep passion for startups.\n4. **Ownership and Impact:** Take direct ownership of your role and responsibilities, making a meaningful impact in our innovative culture.\n5. **Learn to Solve Challenging Issues:** Work closely with teams dedicated to creating solutions for some of the most relevant and challenging issues.\n6. **Positive Work Environment:** Thrive in a work environment built on trust, accountability, collaboration, curiosity, fearlessness, kindness, and respect.\n\nPlease review our **Pre-Interview Info at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)** before applying.\n\nReady to join our team? **Apply now at [[linktr.ee/growaha](https://linktr.ee/growaha)](https://linktr.ee/growaha)**.",
+      "excerpt": "## **About Us** We are a **rapidly growing software technology startup** from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgroun...",
+      "issueState": "open",
+      "contentHash": "7b7349ee70b41cde7ba1b72ea6f52436758e51bd58c024a345a9cd78c0da3c37",
+      "repository": "EtherTW/jobs",
+      "repositoryUrl": "https://github.com/EtherTW/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "remote",
+        "java",
+        "senior",
+        "design"
+      ],
+      "author": {
+        "id": "workataha",
+        "name": "workataha",
+        "handle": "workataha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121159613?v=4"
+      },
+      "community": {
+        "id": "EtherTW",
+        "name": "EtherTW",
+        "avatarUrl": "https://github.com/EtherTW.png?size=80",
+        "repository": "EtherTW/jobs",
+        "url": "https://github.com/EtherTW/jobs"
+      },
+      "createdAt": "2023-07-28T10:34:19Z",
+      "updatedAt": "2023-07-28T10:34:19Z",
+      "url": "https://github.com/EtherTW/jobs/issues/60",
+      "sourceType": "github-issue"
     }
   ]
 }

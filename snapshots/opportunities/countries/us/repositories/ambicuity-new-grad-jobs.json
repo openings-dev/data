@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T16:01:02.332Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
@@ -9,10 +9,11 @@
     "openIssues": 8,
     "closedIssues": 7
   },
-  "dataHash": "f49446c81d3eb02be177f78ec7f8787ee643598adee639a960e70b447db95e74",
+  "dataHash": "18717fbd2dc8979c375ce605e3615bcf9db3f9e28c0863a3946190d396519d3f",
   "items": [
     {
       "id": "gh_572dce76ffa409fc0e7e05fe",
+      "sourceId": "ambicuity/New-Grad-Jobs#249",
       "title": "[Beginner]: add regression tests for artifact integrity failure modes",
       "description": "### 🐥 Beginner Friendly\nWelcome! This is a **Beginner Issue** — a natural next step after Good First Issues.\n\nIt expects you to:\n- Read existing code and follow its patterns\n- Own a small implementation decision\n- Write or extend tests\n\n**Difficulty:**\n- Basic Python (reading and writing functions) required\n- No external API experience needed\n- Familiarity with the contribution workflow expected\n\n> [!IMPORTANT]\n> We recommend completing at least one Good First Issue before attempting a Beginner Issue.\n>\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 👾 Description of the Issue\n`run_integrity_checks()` in `scripts/quality.py` is a key guardrail for publish safety, but several important failure paths are not explicitly regression-tested end-to-end.\n\nAdd targeted tests for scenarios such as:\n- missing required artifacts (`docs/jobs.json`, `docs/health.json`)\n- invalid JSON payloads\n- jobs/health count mismatch detection\n- contract validation error propagation in report payload\n\nFocus on deterministic, temp-directory-based tests only (no live network calls).\n\n### ✅ Acceptance Criteria\n- [ ] The change is implemented in the correct file/function\n- [ ] Edge cases are handled (None, empty string, NaN, Unicode)\n- [ ] All existing tests pass (`make test`)\n- [ ] New tests are added covering the changed behavior\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)",
       "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
@@ -44,11 +45,11 @@
       "createdAt": "2026-04-10T19:59:24Z",
       "updatedAt": "2026-04-11T15:56:23Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/249",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#249"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_bba9509cd3fa07b6227e4e08",
+      "sourceId": "ambicuity/New-Grad-Jobs#250",
       "title": "[Good First Issue]: add focused unit tests for publish helper",
       "description": "### 🆕 Newcomer Friendly\nThis is a **Good First Issue** — a guided, well-scoped task designed for contributors\nwho are new to this repository.\n\n#### What you'll do\n- ✅ Read a small part of the codebase\n- ✅ Make a focused, well-defined change\n- ✅ Write or extend a test\n- ✅ Submit and merge a pull request\n\n#### Support\nThe maintainer actively monitors Good First Issues and will respond to questions\nwithin 24–48 hours.\n\n> [!IMPORTANT]\n> **This issue does not require prior scraping or API experience.**\n>\n> - Basic Python and Git are sufficient\n> - You must be assigned before starting — comment `/assign` to claim this issue\n> - Read [CONTRIBUTING.md](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTING.md)\n>   before opening a PR\n\n> [!NOTE]\n> ⏱️ **Typical time to complete:** 30–90 minutes (once local setup is done)\n> 🧩 **Difficulty:** Small, well-contained change\n> 🎓 **Best for:** First-time contributors\n\n### 👾 Task Description\nAdd a small dedicated test module for `scripts/publish.py::write_json_artifact`.\n\nTarget behaviors to verify:\n- creates missing parent directories automatically\n- writes valid JSON payload with pretty indentation\n- preserves UTF-8 content\n- writes a trailing newline (`\\n`) at EOF\n\nSuggested location:\n- new tests in `tests/test_publish.py`\n\n### ✅ Acceptance Criteria\n- [ ] Tests are added for `write_json_artifact` parent-directory creation behavior\n- [ ] Tests assert output file content is valid JSON with expected structure\n- [ ] Tests verify trailing newline is present at end of written artifact\n- [ ] Existing tests still pass (`make test`)\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format",
       "excerpt": "### 🆕 Newcomer Friendly This is a **Good First Issue** — a guided, well-scoped task designed for contributors who are new to this repository. #### What you'll do - ✅ Read a small part of the codebase - ✅ Make a focus...",
@@ -81,11 +82,11 @@
       "createdAt": "2026-04-10T19:59:24Z",
       "updatedAt": "2026-04-11T01:50:38Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/250",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#250"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_fb174104f5fcd15130abb5c5",
+      "sourceId": "ambicuity/New-Grad-Jobs#248",
       "title": "[Intermediate]: add deterministic test coverage for evaluate_jobs sidecar",
       "description": "### 🧩 Intermediate Contributors\nThis issue is intended for contributors who already have experience with this repository\nand the contribution workflow.\n\nYou should feel comfortable:\n- Navigating `scripts/update_jobs.py`, `config.yml`, and `tests/`\n- Understanding how `filter_jobs()`, `deduplicate_jobs()`, and `categorize_job()` work\n- Following existing patterns without step-by-step guidance\n- Writing non-trivial pytest tests with mocking\n\n> [!IMPORTANT]\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 🐞 Problem Description\n`scripts/evaluate_jobs.py` is part of the published analytics sidecar path, but it has little to no direct test coverage for:\n- eligibility gating logic (`_is_eligible`)\n- scoring heuristics (`_score_job`)\n- output artifact shape and metadata consistency in `main()`\n\nThis creates risk that silent scoring/contract regressions ship unnoticed.\n\n### 💡 Expected Solution\nAdd deterministic tests covering:\n- `_is_eligible` include/exclude behavior for closed/malformed jobs\n- `_score_job` score/confidence bounds and reason-code generation\n- `main()` behavior with a temporary `docs/jobs.json` fixture, asserting generated artifact shape and key metadata fields\n\nKeep tests network-free and deterministic. Do not change scoring policy in this issue.\n\n### ✅ Acceptance Criteria\n- [ ] Problem is resolved per the description above\n- [ ] Edge cases handled: None, NaN, empty string, Unicode, malformed data\n- [ ] All existing `pytest tests/` pass\n- [ ] New tests added for changed logic (deterministic — no live network calls)\n- [ ] `pre-commit run --all-files` passes\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)\n\n### 🔗 Additional Context\n- Target module: `scripts/evaluate_jobs.py`\n- Related contract helpers: `scripts/contracts.py`\n- Related integrity checks: `scripts/quality.py`",
       "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
@@ -119,11 +120,11 @@
       "createdAt": "2026-04-10T19:59:24Z",
       "updatedAt": "2026-04-10T20:28:10Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/248",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#248"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_071e72f024896d1c946f6339",
+      "sourceId": "ambicuity/New-Grad-Jobs#246",
       "title": "[Feature]: add backend/frontend location taxonomy contract checks to prevent filter drift",
       "description": "### Problem\nLocation semantics are maintained in multiple places (`scripts/update_jobs.py` and `docs/app.js`). These can drift independently, leading to inconsistent filtering UX (backend accepts values that UI cannot target, or UI filters that do not map cleanly to backend acceptance).\n\n### Proposed Solution\nAdd a contract check (test and/or generated contract artifact) that enforces location taxonomy alignment between backend and frontend:\n- parity for supported country set (USA/Canada/India/Remote semantics)\n- consistency checks for representative state/province token coverage\n- CI failure on incompatible drift unless both sides are updated intentionally\n\n### Alternatives Considered\n- Rely on manual coordination between scraper and frontend changes (drift risk remains high).\n- Keep documentation-only guidance without enforcement (not CI-protected).\n\n### 🏗️ Which area does this affect?\n🧪 Tests (tests/)\n\n### Constraints Check\n- [x] This does NOT require an external database (PostgreSQL, Redis, SQLite, etc.)\n- [x] This does NOT require a frontend framework (React, Vue, Next.js, Tailwind)\n- [x] This does NOT require an external orchestrator (Airflow, Celery, etc.)",
       "excerpt": "### Problem Location semantics are maintained in multiple places (`scripts/update_jobs.py` and `docs/app.js`). These can drift independently, leading to inconsistent filtering UX (backend accepts values that UI cannot...",
@@ -155,11 +156,11 @@
       "createdAt": "2026-04-08T15:03:55Z",
       "updatedAt": "2026-04-08T15:10:03Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/246",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#246"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_fcc326c9dd1dfad7a787701e",
+      "sourceId": "ambicuity/New-Grad-Jobs#245",
       "title": "[Feature]: add publish-time URL safety validation for jobs artifact output",
       "description": "### Problem\nThe pipeline validates schema/contracts but does not enforce a strict publish-time URL safety gate before writing `docs/jobs.json`. Unsafe or malformed links (non-http schemes, localhost/private-network targets, invalid hosts) could be published into public artifacts.\n\n### Proposed Solution\nAdd publish-time URL safety validation before artifact write/finalization:\n- allow only `http`/`https`\n- reject localhost/private IP ranges/metadata endpoints/malformed hosts\n- surface blocked-count telemetry in health output\n- optionally fail fast or mark degraded when violations exceed a threshold\n\n### Alternatives Considered\n- Rely on liveness checks only (too late: unsafe links may already be published).\n- Manual cleanup through issue reports (reactive and inconsistent).\n\n### 🏗️ Which area does this affect?\n🤖 Core scraper (scripts/update_jobs.py)\n\n### Constraints Check\n- [x] This does NOT require an external database (PostgreSQL, Redis, SQLite, etc.)\n- [x] This does NOT require a frontend framework (React, Vue, Next.js, Tailwind)\n- [x] This does NOT require an external orchestrator (Airflow, Celery, etc.)",
       "excerpt": "### Problem The pipeline validates schema/contracts but does not enforce a strict publish-time URL safety gate before writing `docs/jobs.json`. Unsafe or malformed links (non-http schemes, localhost/private-network ta...",
@@ -192,11 +193,11 @@
       "createdAt": "2026-04-08T15:03:08Z",
       "updatedAt": "2026-04-08T15:08:32Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/245",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#245"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_f3ff22243be6d0586dd15828",
+      "sourceId": "ambicuity/New-Grad-Jobs#244",
       "title": "[Feature]: canonicalize job URLs before deduplication and job_id generation",
       "description": "### Problem\nDeduplication and `job_id` generation currently depend on raw URLs. Equivalent listings often differ only by tracking/query variants (for example `gh_jid`, UTM params, reordered query strings), which can produce duplicate jobs and unstable IDs for the same posting.\n\n### Proposed Solution\nCanonicalize URLs before passing them into dedup (`get_job_key`) and `compute_job_id` identity logic:\n- normalize host/scheme casing\n- remove known tracking params (for example UTM-style parameters)\n- sort remaining query params deterministically\n- trim safe trailing-slash noise\n\nUse canonical URL for identity/dedup while preserving original apply URL as needed for display.\n\n### Alternatives Considered\n- Keep exact URL matching only (still allows duplicates from link variants).\n- Use fuzzy title/company dedup only (higher false-positive risk than deterministic URL normalization).\n\n### 🏗️ Which area does this affect?\n🤖 Core scraper (scripts/update_jobs.py)\n\n### Constraints Check\n- [x] This does NOT require an external database (PostgreSQL, Redis, SQLite, etc.)\n- [x] This does NOT require a frontend framework (React, Vue, Next.js, Tailwind)\n- [x] This does NOT require an external orchestrator (Airflow, Celery, etc.)",
       "excerpt": "### Problem Deduplication and `job_id` generation currently depend on raw URLs. Equivalent listings often differ only by tracking/query variants (for example `gh_jid`, UTM params, reordered query strings), which can p...",
@@ -226,11 +227,11 @@
       "createdAt": "2026-04-08T15:02:48Z",
       "updatedAt": "2026-04-08T15:08:41Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/244",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#244"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_19d9edf7d6ba67157e1e98b0",
+      "sourceId": "ambicuity/New-Grad-Jobs#206",
       "title": "🚨 Board is stale — scraper may have stopped",
       "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-03-18T01:05:29Z` |\n| Stale for | 93 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
       "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-03-18T01:05:29Z` | | Stale for | 93 ...",
@@ -263,11 +264,11 @@
       "createdAt": "2026-03-18T02:39:20Z",
       "updatedAt": "2026-04-21T04:51:23Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/206",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#206"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_adc310b3979abbcfb550fb43",
+      "sourceId": "ambicuity/New-Grad-Jobs#170",
       "title": "[Intermediate]: filter out non-engineering 'network' roles that leak into the board",
       "description": "### 🧩 Intermediate Contributors\nThis issue is intended for contributors who already have experience with this repository\nand the contribution workflow.\n\nYou should feel comfortable:\n- Navigating `scripts/update_jobs.py`, `config.yml`, and `tests/`\n- Understanding how `filter_jobs()`, `deduplicate_jobs()`, and `categorize_job()` work\n- Following existing patterns without step-by-step guidance\n- Writing non-trivial pytest tests with mocking\n\n> [!IMPORTANT]\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 🐞 Problem Description\nThe project aims to surface entry-level software, infrastructure, and networking roles, but the current filter configuration is broad enough that some non-engineering \"network\" jobs leak into the dataset.\n\nExamples already present in `docs/jobs.json` include titles like:\n\n- `Provider Network Associate`\n- `Associate, Network Contracting`\n\nThese are valid jobs, but they are not aligned with the repository's core mission of curating quality new grad software/infrastructure roles. They create clutter in the same track that should contain roles like `Network Engineer`, `Network Security Engineer`, and `Systems Engineer, Networks`.\n\nThis likely comes from the interaction between:\n\n- broad `new_grad_signals` like `associate`\n- broad `track_signals` like `network`\n- permissive filtering in `filter_jobs()`\n\n### 💡 Expected Solution\nTighten the filter logic so non-engineering healthcare/provider-contracting \"network\" titles are excluded without losing legitimate networking/infrastructure roles.\n\nThe solution should:\n\n- preserve real engineering titles such as `Network Engineer` and `Network Security Engineer`\n- avoid hard-coding company-specific exclusions if a title- or pattern-based rule is sufficient\n- keep the overall job schema unchanged\n\n### ✅ Acceptance Criteria\n- [ ] False positives like `Provider Network Associate` no longer pass the filter\n- [ ] Legitimate engineering/networking titles still pass the filter\n- [ ] Edge cases handled: None, NaN, empty string, Unicode, malformed data\n- [ ] All existing `pytest tests/` pass\n- [ ] New tests added for changed logic (deterministic — no live network calls)\n- [ ] `pre-commit run --all-files` passes\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🤖 Core scraper (scripts/update_jobs.py)\n\n### 🔗 Additional Context\n- Relevant functions: `filter_jobs()`, `has_new_grad_signal()`, `has_track_signal()`\n- Evidence is visible in the generated dataset under `docs/jobs.json`",
       "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
@@ -300,11 +301,11 @@
       "createdAt": "2026-03-14T05:28:09Z",
       "updatedAt": "2026-04-10T19:45:20Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/170",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#170"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_e3872386cd7d61ca723e6cff",
+      "sourceId": "ambicuity/New-Grad-Jobs#169",
       "title": "[Beginner]: expand infrastructure keyword coverage for network automation, NOC, and network performance roles",
       "description": "### 🐥 Beginner Friendly\nWelcome! This is a **Beginner Issue** — a natural next step after Good First Issues.\n\nIt expects you to:\n- Read existing code and follow its patterns\n- Own a small implementation decision\n- Write or extend tests\n\n**Difficulty:**\n- Basic Python (reading and writing functions) required\n- No external API experience needed\n- Familiarity with the contribution workflow expected\n\n> [!IMPORTANT]\n> We recommend completing at least one Good First Issue before attempting a Beginner Issue.\n>\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n> [!TIP]\n> **You should be comfortable with:**\n> - Forking, branching, committing, and opening a PR without a tutorial\n> - Reading Python code you did not write and following its patterns\n> - Running `make test` and fixing failures before pushing\n> - Rebasing onto `main` to resolve merge conflicts\n\n### 👾 Description of the Issue\nThe current `infrastructure_sre` keyword list in `scripts/update_jobs.py` includes `network engineer`, but it misses several networking titles that are common in entry-level infrastructure hiring and already show up in real boards:\n\n- `network automation engineer`\n- `network performance engineer`\n- `noc engineer`\n- `network operations engineer`\n\nThat creates a quality gap where networking roles can fall into `other`, even though the project README explicitly says the board tracks network-focused roles.\n\nUpdate `CATEGORY_PATTERNS['infrastructure_sre']['keywords']` so these titles are classified consistently, and add tests that prove the behavior.\n\nLook at:\n\n- `scripts/update_jobs.py`\n- `tests/test_categorize.py`\n- live references in `docs/jobs.json` such as SpaceX networking roles\n\nDo not create a brand-new top-level category for this task. The goal is better classification within the existing `Infrastructure & SRE` bucket.\n\n**Before claiming:**\n- Check the issue labels to see what area this touches\n- Review the CodeRabbit AI plan for a rough implementation overview\n- If this feels like too big a step, try a Good First Issue first\n\n### ✅ Acceptance Criteria\n- [ ] Networking titles listed above classify to `infrastructure_sre`\n- [ ] The change is implemented in `scripts/update_jobs.py`\n- [ ] All existing tests pass (`make test`)\n- [ ] New tests are added covering the changed behavior\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🤖 Core scraper (scripts/update_jobs.py)",
       "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
@@ -336,11 +337,11 @@
       "createdAt": "2026-03-14T05:28:08Z",
       "updatedAt": "2026-04-11T02:37:48Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/169",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#169"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_6f2867a67f057e494d01089b",
+      "sourceId": "ambicuity/New-Grad-Jobs#157",
       "title": "[aw] Daily Test Improver failed",
       "description": "### Workflow Failure\n\n**Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md)  \n**Branch:** main  \n**Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n\n\n\n### Action Required\n\n**Option 1: Debug using any coding agent**\n\nUse this prompt with any coding agent (GitHub Copilot, Claude, Gemini, etc.):\n\n````\nDebug the agentic workflow failure using https://raw.githubusercontent.com/github/gh-aw/main/debug.md\n\nThe failed workflow run is at https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n````\n\n**Option 2: Assign this issue to Copilot**\n\nAssign this issue to Copilot using the `agentic-workflows` sub-agent to automatically debug and fix the workflow failure.\n\n**Option 3: Manually invoke the agent**\n\nDebug this workflow failure using your favorite Agent CLI and the `agentic-workflows` prompt.\n\n- Start your agent\n- Load the `agentic-workflows` prompt from `.github/agents/agentic-workflows.agent.md` or <https://github.com/github/gh-aw/blob/main/.github/agents/agentic-workflows.agent.md>\n- Type `debug the agentic workflow daily-test-improver failure in https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704`\n\n> [!TIP]\n> To stop a workflow from creating failure issues, set `report-failure-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   report-failure-as-issue: false\n> ```\n\n\n> Generated from [Daily Test Improver](https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704)\n> - [x] expires <!-- gh-aw-expires: 2026-03-19T05:18:42.001Z --> on Mar 19, 2026, 5:18 AM UTC\n\n<!-- gh-aw-agentic-workflow: Daily Test Improver, id: 22987722704, workflow_id: daily-test-improver, run: https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704 -->",
       "excerpt": "### Workflow Failure **Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md) **Branch:** main **Run:** https://github....",
@@ -374,11 +375,11 @@
       "createdAt": "2026-03-12T05:18:42Z",
       "updatedAt": "2026-04-13T05:18:59Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/157",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#157"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_3948cd95d7cf56d0a052f978",
+      "sourceId": "ambicuity/New-Grad-Jobs#148",
       "title": "[Test 2] E2E Agent Triage Verification",
       "description": "The Greenhouse API is failing with 500 errors for Verkada. We need to investigate the scraper script.",
       "excerpt": "The Greenhouse API is failing with 500 errors for Verkada. We need to investigate the scraper script.",
@@ -407,11 +408,11 @@
       "createdAt": "2026-03-10T21:28:00Z",
       "updatedAt": "2026-04-24T05:11:53Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/148",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#148"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_b455e1b46cc9bd4c7b032d7f",
+      "sourceId": "ambicuity/New-Grad-Jobs#147",
       "title": "[aw] Issue Triage Agent — New Grad Jobs failed",
       "description": "### Workflow Failure\n\n**Workflow:** [Issue Triage Agent — New Grad Jobs](#)  \n**Branch:** main  \n**Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22924672157\n\n\n\n### Action Required\n\n**Option 1: Debug using any coding agent**\n\nUse this prompt with any coding agent (GitHub Copilot, Claude, Gemini, etc.):\n\n````\nDebug the agentic workflow failure using https://raw.githubusercontent.com/github/gh-aw/main/debug.md\n\nThe failed workflow run is at https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22924672157\n````\n\n**Option 2: Assign this issue to Copilot**\n\nAssign this issue to Copilot using the `agentic-workflows` sub-agent to automatically debug and fix the workflow failure.\n\n**Option 3: Manually invoke the agent**\n\nDebug this workflow failure using your favorite Agent CLI and the `agentic-workflows` prompt.\n\n- Start your agent\n- Load the `agentic-workflows` prompt from `.github/agents/agentic-workflows.agent.md` or <https://github.com/github/gh-aw/blob/main/.github/agents/agentic-workflows.agent.md>\n- Type `debug the agentic workflow issue-triage-agent failure in https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22924672157`\n\n> [!TIP]\n> To stop a workflow from creating failure issues, set `report-failure-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   report-failure-as-issue: false\n> ```\n\n\n> Generated from [Issue Triage Agent — New Grad Jobs](https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22924672157)\n> - [x] expires <!-- gh-aw-expires: 2026-03-17T21:18:42.156Z --> on Mar 17, 2026, 9:18 PM UTC\n\n<!-- gh-aw-agentic-workflow: Issue Triage Agent — New Grad Jobs, id: 22924672157, workflow_id: issue-triage-agent, run: https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22924672157 -->",
       "excerpt": "### Workflow Failure **Workflow:** [Issue Triage Agent — New Grad Jobs](#) **Branch:** main **Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22924672157 ### Action Required **Option 1: Debug using any ...",
@@ -444,11 +445,11 @@
       "createdAt": "2026-03-10T21:18:42Z",
       "updatedAt": "2026-04-24T05:11:54Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/147",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#147"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_471a169af01f5b6b0e997bd4",
+      "sourceId": "ambicuity/New-Grad-Jobs#145",
       "title": "[Test] Agent Routing Verification",
       "description": "/fleet @scraper-expert Where is the workday payload generated?",
       "excerpt": "/fleet @scraper-expert Where is the workday payload generated?",
@@ -477,11 +478,11 @@
       "createdAt": "2026-03-10T21:00:18Z",
       "updatedAt": "2026-04-24T05:11:55Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/145",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#145"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_61d52366e85daaa8db75f008",
+      "sourceId": "ambicuity/New-Grad-Jobs#24",
       "title": "[Intermediate]: Expand test_config.py to cover filter_jobs, categorize_job, and deduplicate_jobs logic",
       "description": "### Contributor Level\n\nThis is an intermediate issue. You need to understand how to write Python tests against functions that have no external dependencies, and how to read existing functions carefully enough to design meaningful test cases.\n\nPrerequisites:\n- Comfortable writing standalone Python test functions\n- Able to import and call functions from a separate module\n- Understands the difference between testing behavior vs. testing implementation\n\nEstimated time to complete: 4-6 hours, including reading the source functions and designing edge cases.\n\n---\n\n### Problem Description\n\n`test_config.py` is the entire test suite for this repository. It does one thing: load `config.yml` and assert that 10,000 or more companies are present. It does not cover any of the core filtering, categorization, or deduplication logic that the scraper depends on.\n\nThis means a regression in `filter_jobs()`, `categorize_job()`, or `deduplicate_jobs()` can silently ship to production and corrupt the live job board. The CI workflow (`ci.yml`) runs `python test_config.py` but this provides no confidence in the correctness of the data pipeline.\n\n---\n\n### Proposed Solution\n\nCreate a new file `scripts/test_scraper_logic.py` that exercises the core stateless functions using synthetic input data. No network calls, no API keys, and no external dependencies are required.\n\nThe file should follow the same runner pattern as `test_config.py` — a plain Python script that exits with code 0 on success and 1 on failure.\n\nMinimum required test coverage:\n\n**`categorize_job(title, description)`**\n- A title containing \"Software Engineer\" maps to `software_engineering`\n- A title containing \"Data Scientist\" maps to `data_ml`\n- A title with no matching keyword maps to `other`\n- Category ID, name, and emoji fields are all present in the return value\n\n**`is_valid_location(location)`**\n- Returns `True` for: `\"Remote\"`, `\"San Francisco, CA\"`, `\"New York, NY\"`, `\"Toronto, Canada\"`, `\"Bangalore, India\"`\n- Returns `False` for: `\"London, UK\"`, `\"Berlin, Germany\"`, `\"\"`, `None` (check the function signature before passing `None`)\n\n**`deduplicate_jobs(jobs)`**\n- A list with two identical jobs (same company, title, URL) returns one entry\n- A list with two jobs differing only by URL returns two entries\n- An empty list returns an empty list\n\n**`normalize_date_string(posted_at)`**\n- `\"Posted Today\"` returns today's date in `YYYY-MM-DD` format\n- `\"Posted Yesterday\"` returns yesterday's date\n- `\"Posted 3 Days Ago\"` returns a date 3 days in the past\n- A string that matches no pattern is returned unchanged\n\nAfter writing your tests, update `.github/workflows/ci.yml` to also run `python scripts/test_scraper_logic.py` in the `Run unit tests` step.\n\n---\n\n### Background Research\n\nRead these functions before writing any tests. Understanding their exact return types and edge case handling is essential for writing correct assertions:\n\n- `categorize_job()` — line ~278\n- `is_valid_location()` — line ~1067\n- `deduplicate_jobs()` — line ~973, and its helper `get_job_key()` at line ~950\n- `normalize_date_string()` — line ~1000\n\n---\n\n### Testing Your Changes\n\nRun your test file locally before opening a PR:\n\n```\ncd /path/to/New-Grad-Jobs\npython scripts/test_scraper_logic.py\n```\n\nAll tests must pass with exit code 0. Do not use AI to generate your test assertions — derive them from reading the actual function logic.\n\n---\n\n### Acceptance Criteria\n\n- `scripts/test_scraper_logic.py` exists and covers all four functions listed above\n- At least 3 test cases per function, including at least one edge case each\n- The file exits with code 0 on success and code 1 on any failure\n- `.github/workflows/ci.yml` runs the new test file in the `Run unit tests` step\n- `python -m py_compile scripts/test_scraper_logic.py` passes\n\n---\n\n### Done Checklist\n\nBefore opening your PR, confirm:\n\n- [ ] `python scripts/test_scraper_logic.py` passes locally with all tests green\n- [ ] `ci.yml` is updated to run the new test file\n- [ ] Test cases cover the four functions listed above with edge cases\n- [ ] No AI-generated test assertions — each assertion was derived from reading the source function\n- [ ] Commit message follows Conventional Commits format: `test(scraper): add logic tests for filter, categorize, and dedup functions`\n- [ ] `README.md` has not been modified (it is auto-generated)\n\n---\n\n### Additional Context\n\n- Files to work in: `scripts/test_scraper_logic.py` (new), `.github/workflows/ci.yml` (update)\n- Functions under test: `scripts/update_jobs.py`\n- Related guide: [CONTRIBUTING.md](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTING.md)",
       "excerpt": "### Contributor Level This is an intermediate issue. You need to understand how to write Python tests against functions that have no external dependencies, and how to read existing functions carefully enough to design...",
@@ -511,11 +512,11 @@
       "createdAt": "2026-03-02T20:13:06Z",
       "updatedAt": "2026-04-17T04:52:19Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/24",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#24"
+      "sourceType": "github-issue"
     },
     {
       "id": "gh_fd2b4e46207d949ab591ae31",
+      "sourceId": "ambicuity/New-Grad-Jobs#23",
       "title": "[Intermediate]: Replace bare except clauses in date parsing functions with explicit exception types",
       "description": "### Contributor Level\n\nThis is an intermediate issue. You need to understand how Python exception handling works and be comfortable reading a function end-to-end before making changes. You do not need to run the scraper against live APIs to complete this.\n\nPrerequisites:\n- Familiar with Python exception handling (`try/except`, exception hierarchies)\n- Able to identify what exceptions a block of code can realistically raise\n- Comfortable running `python -m py_compile` and basic local validation\n\nEstimated time to complete: 2-4 hours, including research and testing.\n\n---\n\n### Problem Description\n\nThree functions in `scripts/update_jobs.py` use bare `except:` clauses, which catch all exceptions including `SystemExit`, `KeyboardInterrupt`, and `MemoryError`. This pattern makes debugging nearly impossible when date parsing fails in production, because the error is swallowed silently and the job receives a fallback value with no diagnostic output.\n\nAffected functions and lines:\n\n- `format_posted_date()` — line ~1270: bare `except:` silently returns `\"Unknown\"`\n- `get_iso_date()` — line ~1283: bare `except:` silently returns `\"\"`\n- `get_sort_date()` (inner function inside `generate_jobs_json()`) — line ~1308: bare `except:` returns `datetime.min`\n\nCurrent pattern:\n\n```python\ndef format_posted_date(posted_at: str) -> str:\n    try:\n        ...date parsing logic...\n    except:\n        return \"Unknown\"\n```\n\nWhen a new date format arrives from a job board API, this silently produces `\"Unknown\"` in the live job board with no log output and no way to diagnose the root cause.\n\n---\n\n### Proposed Solution\n\nReplace all bare `except:` clauses in the three functions above with an explicit exception tuple covering the exceptions that date parsing can realistically raise. Add a diagnostic print statement so failures are visible in the GitHub Actions logs.\n\nThe correct exception types for date parsing in this codebase are: `ValueError`, `TypeError`, `OverflowError`, and `OSError` (the last covers timestamp-to-datetime conversion failures on some platforms).\n\nReference implementation:\n\n```python\ndef format_posted_date(posted_at) -> str:\n    try:\n        ...date parsing logic...\n    except (ValueError, TypeError, OverflowError, OSError) as e:\n        print(f\"  Warning: Could not parse date '{posted_at}': {e}\")\n        return \"Unknown\"\n```\n\nApply the same change to `get_iso_date()` and `get_sort_date()`. The print prefix should match the existing style used elsewhere in the file (e.g., `\"  Warning:\"` or `\"  Error:\"`).\n\n---\n\n### Background Research\n\nBefore writing your fix, read the following to understand what exceptions are realistic:\n\n- `dateutil.parser.parse()` raises `ValueError` and `OverflowError` on unparseable input\n- `datetime.fromtimestamp()` raises `OSError` on out-of-range timestamps on some platforms\n- `normalize_date_string()` (line ~1000) can be called with non-string types — check what `isinstance` guards are already in place\n\n---\n\n### Testing Your Changes\n\nNo network access is required. Write a short local test:\n\n```python\nfrom scripts.update_jobs import format_posted_date, get_iso_date\n\n# Should not raise, should return \"Unknown\" with a warning print\nprint(format_posted_date(\"not-a-date\"))\nprint(format_posted_date(None))\nprint(get_iso_date(\"garbage input\"))\n```\n\nRun `python -m py_compile scripts/update_jobs.py` to confirm no syntax errors.\n\n---\n\n### Acceptance Criteria\n\n- All three functions use explicit exception types with no bare `except:` remaining\n- Each `except` clause includes a `print()` statement with the failed input and exception message\n- `python -m py_compile scripts/update_jobs.py` passes\n- No logic changes beyond the exception handling — do not alter the fallback return values\n\n---\n\n### Done Checklist\n\nBefore opening your PR, confirm:\n\n- [ ] All three bare `except:` clauses are replaced with explicit exception types\n- [ ] Each except block prints a diagnostic message\n- [ ] `python -m py_compile scripts/update_jobs.py` passes locally\n- [ ] Commit message follows Conventional Commits format: `fix(scraper): replace bare except with explicit exception types in date functions`\n- [ ] `README.md` has not been modified (it is auto-generated)\n\n---\n\n### Additional Context\n\n- File: `scripts/update_jobs.py`\n- Functions: `format_posted_date()` (~L1270), `get_iso_date()` (~L1283), `get_sort_date()` (~L1308)\n- Same bare `except:` pattern exists in `save_market_history()` (~L1404, ~L1446) — fixing those is optional but welcome\n- Related guide: [CONTRIBUTING.md](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTING.md)",
       "excerpt": "### Contributor Level This is an intermediate issue. You need to understand how Python exception handling works and be comfortable reading a function end-to-end before making changes. You do not need to run the scrape...",
@@ -546,8 +547,7 @@
       "createdAt": "2026-03-02T20:12:28Z",
       "updatedAt": "2026-04-17T04:52:20Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/23",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#23"
+      "sourceType": "github-issue"
     }
   ]
 }

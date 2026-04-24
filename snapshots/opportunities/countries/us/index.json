@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-04-24T16:01:02.332Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "totals": {
-    "opportunities": 75,
-    "repositories": 4,
-    "openIssues": 8,
-    "closedIssues": 67
+    "opportunities": 117,
+    "repositories": 22,
+    "openIssues": 32,
+    "closedIssues": 85
   },
   "failedRepositories": [],
   "byRepository": [
@@ -17,7 +17,7 @@
       "openIssues": 8,
       "closedIssues": 7,
       "file": "countries/us/repositories/ambicuity-new-grad-jobs.json",
-      "hash": "f49446c81d3eb02be177f78ec7f8787ee643598adee639a960e70b447db95e74"
+      "hash": "18717fbd2dc8979c375ce605e3615bcf9db3f9e28c0863a3946190d396519d3f"
     },
     {
       "repository": "fitly-work/2025-New-Grad-Jobs-USA-Hourly-Updated",
@@ -28,12 +28,100 @@
       "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
     {
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "issues": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-data-analysis-internship.json",
+      "hash": "2f622e7e2947697bae87bec860090b64870d5e211e2b1e594cf8ab8e78d549a2"
+    },
+    {
+      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+      "issues": 3,
+      "openIssues": 3,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-data-analysis-new-grad.json",
+      "hash": "fcfbcc97e1a441b9633fa86bbff7dc781a56540d44be1871df521b4ca5faf4f1"
+    },
+    {
+      "repository": "jobright-ai/2026-Engineer-Internship",
+      "issues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-engineer-internship.json",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "repository": "jobright-ai/2026-Engineering-New-Grad",
+      "issues": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-engineering-new-grad.json",
+      "hash": "8c5c75828c7176c8dbb6f2594b7da15f25b58db56f7eb7ab5d7e178c97d89365"
+    },
+    {
+      "repository": "jobright-ai/2026-Product-Management-Internship",
+      "issues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-product-management-internship.json",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "repository": "jobright-ai/2026-Product-Management-New-Grad",
+      "issues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-product-management-new-grad.json",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "issues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-software-engineer-internship.json",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "repository": "jobright-ai/2026-Software-Engineer-New-Grad",
+      "issues": 4,
+      "openIssues": 4,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-2026-software-engineer-new-grad.json",
+      "hash": "262f2600936dfc6f0ba4e34313b8dc784c77b592f2dee8880168bd17055e7c7a"
+    },
+    {
+      "repository": "jobright-ai/Daily-H1B-Jobs-In-Tech",
+      "issues": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/jobright-ai-daily-h1b-jobs-in-tech.json",
+      "hash": "f051bda68a1f02947c8388e071b028a10658b8890bce052e3f413dab55aa2254"
+    },
+    {
+      "repository": "PrepAIJobs/New-Grad-2026",
+      "issues": 6,
+      "openIssues": 6,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/prepaijobs-new-grad-2026.json",
+      "hash": "f01cc7d814f7cedc2fe29195efeb683baefea76625cb863ba3d8ef459d6aae33"
+    },
+    {
+      "repository": "PrepAIJobs/Summer2026-Internships",
+      "issues": 2,
+      "openIssues": 1,
+      "closedIssues": 1,
+      "file": "countries/us/repositories/prepaijobs-summer2026-internships.json",
+      "hash": "420dd30852b3115af9fbce387688f3d6333e6ba9010425499218f1826d3e1cce"
+    },
+    {
       "repository": "SimplifyJobs/New-Grad-Positions",
       "issues": 30,
       "openIssues": 0,
       "closedIssues": 30,
       "file": "countries/us/repositories/simplifyjobs-new-grad-positions.json",
-      "hash": "dff7d6184d704de32365be3b63f6d84c93753afd9b3beb8289df5ca6a9777b1e"
+      "hash": "4abbe9abab519cd0926f954e3f19aeb35f10b370397b813082d671a0aa4dccb9"
     },
     {
       "repository": "SimplifyJobs/Summer2026-Internships",
@@ -41,7 +129,63 @@
       "openIssues": 0,
       "closedIssues": 30,
       "file": "countries/us/repositories/simplifyjobs-summer2026-internships.json",
-      "hash": "e7ba17f78b76aae16c79e86b271934ee6c19eced2029b271fd5c010fdc20371f"
+      "hash": "3bea8411a30fe0904232c90a9e0caaefd975111c77f82da15625899ce0a877d5"
+    },
+    {
+      "repository": "summer2026internships/Summer2026-Internships",
+      "issues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/summer2026internships-summer2026-internships.json",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "repository": "zapplyjobs/Internships-2026",
+      "issues": 12,
+      "openIssues": 1,
+      "closedIssues": 11,
+      "file": "countries/us/repositories/zapplyjobs-internships-2026.json",
+      "hash": "8e6eda67d52ac1bfd45ca04264517ece882f06e0fe74339886c3721acacdc422"
+    },
+    {
+      "repository": "zapplyjobs/New-Grad-Data-Science-Jobs-2026",
+      "issues": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/zapplyjobs-new-grad-data-science-jobs-2026.json",
+      "hash": "8fd399f15f8dc39db48a77675d680577a4e524b3238f7566fa4b495339214d85"
+    },
+    {
+      "repository": "zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026",
+      "issues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/zapplyjobs-new-grad-hardware-engineering-jobs-2026.json",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "repository": "zapplyjobs/New-Grad-Jobs-2026",
+      "issues": 4,
+      "openIssues": 0,
+      "closedIssues": 4,
+      "file": "countries/us/repositories/zapplyjobs-new-grad-jobs-2026.json",
+      "hash": "d8f4d1637e20b56029f6fdbf92050bd67dc2257c6d05e9893cadeb1c917d98f1"
+    },
+    {
+      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
+      "issues": 0,
+      "openIssues": 0,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/zapplyjobs-new-grad-software-engineering-jobs-2026.json",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "repository": "zapplyjobs/underclassmen-internships",
+      "issues": 7,
+      "openIssues": 5,
+      "closedIssues": 2,
+      "file": "countries/us/repositories/zapplyjobs-underclassmen-internships.json",
+      "hash": "6d7684eba6c73f0b2ad7d9c626abb1d2eda4b1e8b1c4821206d9311296ac8367"
     }
   ]
 }

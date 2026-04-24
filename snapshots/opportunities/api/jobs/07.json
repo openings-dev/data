@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "items": {
     "gh_071e72f024896d1c946f6339": {
       "id": "gh_071e72f024896d1c946f6339",
+      "sourceId": "ambicuity/New-Grad-Jobs#246",
       "title": "[Feature]: add backend/frontend location taxonomy contract checks to prevent filter drift",
       "description": "### Problem\nLocation semantics are maintained in multiple places (`scripts/update_jobs.py` and `docs/app.js`). These can drift independently, leading to inconsistent filtering UX (backend accepts values that UI cannot target, or UI filters that do not map cleanly to backend acceptance).\n\n### Proposed Solution\nAdd a contract check (test and/or generated contract artifact) that enforces location taxonomy alignment between backend and frontend:\n- parity for supported country set (USA/Canada/India/Remote semantics)\n- consistency checks for representative state/province token coverage\n- CI failure on incompatible drift unless both sides are updated intentionally\n\n### Alternatives Considered\n- Rely on manual coordination between scraper and frontend changes (drift risk remains high).\n- Keep documentation-only guidance without enforcement (not CI-protected).\n\n### 🏗️ Which area does this affect?\n🧪 Tests (tests/)\n\n### Constraints Check\n- [x] This does NOT require an external database (PostgreSQL, Redis, SQLite, etc.)\n- [x] This does NOT require a frontend framework (React, Vue, Next.js, Tailwind)\n- [x] This does NOT require an external orchestrator (Airflow, Celery, etc.)",
       "excerpt": "### Problem Location semantics are maintained in multiple places (`scripts/update_jobs.py` and `docs/app.js`). These can drift independently, leading to inconsistent filtering UX (backend accepts values that UI cannot...",
@@ -34,11 +35,11 @@
       "createdAt": "2026-04-08T15:03:55Z",
       "updatedAt": "2026-04-08T15:10:03Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/246",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#246"
+      "sourceType": "github-issue"
     },
     "gh_07f60360c08575ae69aa72ce": {
       "id": "gh_07f60360c08575ae69aa72ce",
+      "sourceId": "FlutterComunidadeBR/vagas#74",
       "title": "[Belo Horizonte] Flutter Developer na Coodesh",
       "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/flutter-developer-182654327?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open) para realizar a candidatura. 👋\n<p>Buscamos Flutter Developer em nível Júnior. </p>\nAtividades:&nbsp;\n<ul>\n<li>Desenvolver novas funcionalidades para aplicação mobile utilizando o Flutter;</li>\n<li>Desenvolver os sistemas, utilizando os padrões de projetos previamente definidos;</li>\n<li>Sugerir e implementar melhorias nos serviços/sistema/produto a fim de facilitar o desenvolvimento de novos componentes e funcionalidades no futuro;</li>\n<li>Modelar banco de dados relacional;</li>\n<li>Testar as aplicações desenvolvidas, realizar a documentação e auxiliar na implantação dos sistemas desenvolvidos;</li>\n<li>Avaliar código fonte desenvolvido por programadores com menos experiência;</li>\n<li>Propor soluções e padrões para novos desenvolvimentos;</li>\n<li>Buscar e propor soluções para problemas complexos que possam ser resolvidos através da análise de causa raiz dos problemas reportados aos usuários;</li>\n<li>Interpretar regras de negócios.&nbsp;</li>\n</ul>\n## For People Software: \n <p>Somos uma HR Tech com um objetivo muito claro: queremos tornar a experiência de trabalho das pessoas o mais simples, orgânica e agradável possível para que elas possam ser o melhor que puderem quando estiverem trabalhando.</p>\n<p>Para isso, desenvolvemos sistemas inclusivos, responsivos e com alta tecnologia embarcada para transformar a vida de pessoas e empresas de maneira sustentável e lucrativa.</p><a href='https://coodesh.com/companies/for-people-software-ltda'>Veja mais no site</a>\n\n ## Habilidades: \n - Flutter \n- P.O.O \n- Dart \n- GIT\n## Local: \n Belo Horizonte\n## Requisitos: \n - Conhecimentos ou vivência com criação de app´s utilizando flutter/dart\n## Diferenciais: \n - Conhecimento em PHP será um diferencial\n## Benefícios: \n - Horário flexível \n- Plano de saúde apartamento aero médico Unimed \n- Plano odontológico Unimed \n- Vale transporte \n- Auxílio combustível \n- Seguro de vida \n- Restaurante \n- Alura cursos \n- Convênio com PUC, Newton e Pitágoras para cursos de graduação e pós-graduação \n- Convênio com financeira para aplicações \n- Desenvolvimento de PDI ( Plano de desenvolvimento individual)\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Flutter Developer na For People Software](https://coodesh.com/jobs/flutter-developer-182654327?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nFront-End",
       "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
@@ -68,11 +69,11 @@
       "createdAt": "2025-06-16T11:51:37Z",
       "updatedAt": "2025-06-16T11:51:37Z",
       "url": "https://github.com/FlutterComunidadeBR/vagas/issues/74",
-      "sourceType": "github-issue",
-      "sourceId": "FlutterComunidadeBR/vagas#74"
+      "sourceType": "github-issue"
     },
     "gh_07030bf16b39bedaabe36688": {
       "id": "gh_07030bf16b39bedaabe36688",
+      "sourceId": "devfsa/vagas#2804",
       "title": "[Remoto] Desenvolvedor Python (Django) Pleno Imediato na Coodesh",
       "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/desenvolvedor-python-django-pleno-imediato-124940495?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\n<p>Buscamos um desenvolvedor Python com experiência sólida em Django para atuar no backend de sistemas robustos e escaláveis. A vaga exige autonomia, visão de produto e domínio em arquitetura de APIs.</p>\n<p>Início imediato. Modalidade híbrida ou remoto.</p>\n<p></p>\n<p>Requisitos:</p>\n<p></p>\n<p>2+ anos com Django e Django REST Framework</p>\n<p></p>\n<p>Bancos relacionais (PostgreSQL ou MySQL)</p>\n<p></p>\n<p>Git, Docker e conhecimento em testes automatizados</p>\n<p></p>\n<p></p>\n## www.alugapay.com: \n <p>fintech brasileira fundada em novembro de 2023, com sede em São Paulo, especializada em soluções financeiras para o mercado imobiliário. Seu principal serviço é a antecipação de recebíveis de aluguéis, permitindo que proprietários de imóveis recebam antecipadamente os valores dos aluguéis futuros, proporcionando maior liquidez e rentabilidade.</p></p>\n\n## Local: \n Remota\n## Requisitos: \n - Requisitos: \n- 2+ anos com Django e Django REST Framework \n- Bancos relacionais (PostgreSQL ou MySQL) \n- Git, Docker e conhecimento em testes automatizados\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Desenvolvedor Python (Django) Pleno Imediato na www.alugapay.com](https://coodesh.com/jobs/desenvolvedor-python-django-pleno-imediato-124940495?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nBack-End",
       "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
@@ -106,8 +107,42 @@
       "createdAt": "2025-05-12T13:49:43Z",
       "updatedAt": "2025-05-12T13:49:43Z",
       "url": "https://github.com/devfsa/vagas/issues/2804",
-      "sourceType": "github-issue",
-      "sourceId": "devfsa/vagas#2804"
+      "sourceType": "github-issue"
+    },
+    "gh_07ccffe36286abc1aeabb4f1": {
+      "id": "gh_07ccffe36286abc1aeabb4f1",
+      "sourceId": "nodejs-tw/jobs#263",
+      "title": "[外商徵才] 尋找適合的nodejs開發工程師 月薪：6.5萬～10.5萬",
+      "description": "Web 開發工程師 (Node.js)\n職責：\n 設計、開發和落實全棧網頁應用程序。\n 執行系統檢測，使用者驗收試驗並提供技術支持。\n 維護已開發程序的文檔。\n\n職位要求：\n 本科或以上學歷，計算機科學，信息技術等相關專業。\n 至少2年的Node.js開發經驗。\n 必須具有深入的Node.js, React, HTML 和 CSS 知識。\n 具有編寫和優化複雜 SQL 查詢的實踐經驗。\n 具備 CI/CD 管道和微服務架構的實踐經驗為加分優勢。\n 具備 AWS Cloud 的實踐經驗同為加分優勢。\n 懂 NestJs, NextJs, Angular 為加分優勢。\n 精通容器編排，如 Docker，ECS 將會優先考慮。\n\n月薪：6.5萬～10.5萬（視經歷與面試表現而定）\n工作地點：台北市中正區，無遠端\n\n有興趣者或有進一步的問題想問請參考以下聯絡方式：\n將履歷寄至 [pst_engineering@peoplesearch.jobs]\n或是搜尋電話0932562678加我的line細聊",
+      "excerpt": "Web 開發工程師 (Node.js) 職責：  設計、開發和落實全棧網頁應用程序。  執行系統檢測，使用者驗收試驗並提供技術支持。  維護已開發程序的文檔。 職位要求：  本科或以上學歷，計算機科學，信息技術等相關專業。  至少2年的Node.js開發經驗。  必須具有深入的Node.js, React, HTML 和 CSS 知識。  具有編寫和優化複雜 SQL 查詢的實踐經驗。  具備 CI/CD 管道和微服...",
+      "issueState": "open",
+      "contentHash": "372b645ed5262ff0365f810390d5a04aa67ab81e1fa1ad47b4c3e85a514ce742",
+      "repository": "nodejs-tw/jobs",
+      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "react",
+        "nextjs",
+        "node"
+      ],
+      "author": {
+        "id": "EzioWang90",
+        "name": "EzioWang90",
+        "handle": "EzioWang90",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/175304637?v=4"
+      },
+      "community": {
+        "id": "nodejs-tw",
+        "name": "nodejs-tw",
+        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
+        "repository": "nodejs-tw/jobs",
+        "url": "https://github.com/nodejs-tw/jobs"
+      },
+      "createdAt": "2024-07-31T06:57:01Z",
+      "updatedAt": "2024-07-31T06:57:45Z",
+      "url": "https://github.com/nodejs-tw/jobs/issues/263",
+      "sourceType": "github-issue"
     }
   }
 }

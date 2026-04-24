@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "generatedAt": "2026-04-24T18:41:08.930Z",
   "items": {
     "gh_6f2867a67f057e494d01089b": {
       "id": "gh_6f2867a67f057e494d01089b",
+      "sourceId": "ambicuity/New-Grad-Jobs#157",
       "title": "[aw] Daily Test Improver failed",
       "description": "### Workflow Failure\n\n**Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md)  \n**Branch:** main  \n**Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n\n\n\n### Action Required\n\n**Option 1: Debug using any coding agent**\n\nUse this prompt with any coding agent (GitHub Copilot, Claude, Gemini, etc.):\n\n````\nDebug the agentic workflow failure using https://raw.githubusercontent.com/github/gh-aw/main/debug.md\n\nThe failed workflow run is at https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n````\n\n**Option 2: Assign this issue to Copilot**\n\nAssign this issue to Copilot using the `agentic-workflows` sub-agent to automatically debug and fix the workflow failure.\n\n**Option 3: Manually invoke the agent**\n\nDebug this workflow failure using your favorite Agent CLI and the `agentic-workflows` prompt.\n\n- Start your agent\n- Load the `agentic-workflows` prompt from `.github/agents/agentic-workflows.agent.md` or <https://github.com/github/gh-aw/blob/main/.github/agents/agentic-workflows.agent.md>\n- Type `debug the agentic workflow daily-test-improver failure in https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704`\n\n> [!TIP]\n> To stop a workflow from creating failure issues, set `report-failure-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   report-failure-as-issue: false\n> ```\n\n\n> Generated from [Daily Test Improver](https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704)\n> - [x] expires <!-- gh-aw-expires: 2026-03-19T05:18:42.001Z --> on Mar 19, 2026, 5:18 AM UTC\n\n<!-- gh-aw-agentic-workflow: Daily Test Improver, id: 22987722704, workflow_id: daily-test-improver, run: https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704 -->",
       "excerpt": "### Workflow Failure **Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md) **Branch:** main **Run:** https://github....",
@@ -36,11 +37,11 @@
       "createdAt": "2026-03-12T05:18:42Z",
       "updatedAt": "2026-04-13T05:18:59Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/157",
-      "sourceType": "github-issue",
-      "sourceId": "ambicuity/New-Grad-Jobs#157"
+      "sourceType": "github-issue"
     },
     "gh_6f7c8c640891ada1a0682607": {
       "id": "gh_6f7c8c640891ada1a0682607",
+      "sourceId": "suarezafelipe/awesome-jobs-colombia#75",
       "title": "Link roto: Gorilla Logic",
       "description": "El enlace que se encuentra actualmente para la empresa Gorilla Logic redirecciona a una URL que no existe más",
       "excerpt": "El enlace que se encuentra actualmente para la empresa Gorilla Logic redirecciona a una URL que no existe más",
@@ -67,11 +68,11 @@
       "createdAt": "2025-10-08T14:19:48Z",
       "updatedAt": "2025-10-08T14:19:48Z",
       "url": "https://github.com/suarezafelipe/awesome-jobs-colombia/issues/75",
-      "sourceType": "github-issue",
-      "sourceId": "suarezafelipe/awesome-jobs-colombia#75"
+      "sourceType": "github-issue"
     },
     "gh_6f7d42dc47cfed586436bd32": {
       "id": "gh_6f7d42dc47cfed586436bd32",
+      "sourceId": "devfsa/vagas#2811",
       "title": "[Remoto] Fullstack (Node/React) Developer na Coodesh",
       "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/fullstack-nodereact-developer-194911281?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\n<p>Estamos buscando <strong>Fullstack Developer</strong> com ´sólida experiência e conhecimento em <strong>Node, React e Flutter,</strong> para compor nosso time!</p>\n<p>Somos uma startup healthtech com o propósito de tornar o bem-estar acessível para todos. Estamos lançando um aplicativo feito para transformar a forma como as pessoas cuidam de si mesmas. Vem com a gente, e a gente te conta mais!</p>\n<p><strong>Responsabilidades e atribuições:</strong></p>\n<ul>\n<li>Atuar como referência técnica do time, apoiando em decisões e direcionamentos técnicos</li>\n<li>Participar ativamente do planejamento, desenvolvimento (mão da massa), revisões de código e implementações</li>\n<li>Gerenciar atividades do time técnico, auxiliar nas Dailys e levar clareza das demandas para o time de Produto e Negócio</li>\n<li>Atuar considerando melhores práticas de TI, propondo melhorias e cenários adequados</li>\n<li>Atuar com autonomia e contribuir para a formação e desenvolvimento do nosso time</li>\n<li>Apoiar nas decisões estratégicas da área de TI (inovamos sem burocracia) e auxiliar o time de front-end (principalmente com o app)</li>\n</ul>\n## 🥇 Coodesh Carreiras: \n <p>Nós somos a Coodesh, uma plataforma que conecta pessoas da área de tecnologia em oportunidades 100% remotas de nossas empresas parceiras.</p>\n<p>Em nossa plataforma você encontra posições de diversos níveis, tecnologias e modelos de contratação, de variadas empresas com diversas culturas e que oferecem diversos desafios, pensando sempre em atender as expectativas e objetivos de nossas pessoas candidatas.</p><a href='https://coodesh.com/companies/coodesh-selected'>Veja mais no site</a>\n\n ## Habilidades: \n - Node.js \n- React.js \n- Flutter \n- HTML \n- CSS \n- PostgreSQL \n- Python \n- Google Cloud Platform (GCp)\n## Local: \n Remota\n## Requisitos: \n - Domínio de linguagem: Node.js, React.js \n- Conhecimento sólido em ambientes de computação em nuvem, especialmente Google Cloud platform (GCP) e Banco de Dados Google Cloud SQL \n- Experiência em desenvolvimento, testes e integração de APIs REST/RESTful; \n- Familiaridade com aplicativos, principalmente do ecossistema Apple, incluindo configuração, suporte e integração com outros sistemas \n- Experiência e conhecimento em arquitetura de dados \n- Vivência com ambiente e metodologia ágil e uso do JIRA \n- Soft Skills: atuar bem com nosso time, porque aqui tudo é feito com cuidado \n- Experiência em desenvolvimento front/back end, e mobile\n## Diferenciais: \n - Conhecimento em Python \n- Familiaridade e conhecimento em IA \n- Familiaridade com App Store, instalação de aplicativos, permissões e gerenciamento de dispositivos Apple \n- Experiência em banco de dados PostgreSQL \n- Experiência em desenvolvimento mobile, preferencialmente em flutter\n## Benefícios: \n - Atuamos com flexibilidade, pode ser 100% home office! \n- Autonomia para criar, testar e inovar sem burocracia. \n- Oportunidade de crescimento acelerado em uma empresa em plena expansão. \n- Cultura colaborativa, onde suas ideias realmente fazem a diferença. \n- Equipe talentosa e engajada, pronta para construir algo grande \n- Ambiente dinâmico, com desafios reais e tecnologia de ponta \n- Acesso a eventos, cursos e conteúdos para seu desenvolvimento. \n- Propósito: aqui, seu trabalho impacta vidas de verdade.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Fullstack (Node/React) Developer na 🥇 Coodesh Carreiras](https://coodesh.com/jobs/fullstack-nodereact-developer-194911281?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
       "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
@@ -106,11 +107,11 @@
       "createdAt": "2025-06-05T19:52:03Z",
       "updatedAt": "2025-06-05T19:52:03Z",
       "url": "https://github.com/devfsa/vagas/issues/2811",
-      "sourceType": "github-issue",
-      "sourceId": "devfsa/vagas#2811"
+      "sourceType": "github-issue"
     },
     "gh_6f88dca86e39c276ad427953": {
       "id": "gh_6f88dca86e39c276ad427953",
+      "sourceId": "DevComputaria/CangaceiroDevVagas#187",
       "title": "Desenvolvedor IOS Nível: PL e SR",
       "description": "A TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes.\n \nVaga: Desenvolvedor IOS\nNível: PL e SR\n\nRequisitos:\nExperiência em desenvolvimento de aplicações em IOS e Swift;\nConhecimento em construção de layouts usando componentes nativos com técnicas de ViewCode e/ou XIBs/Storyboards e/ou SwiftUI; \nExperiência com testes automatizados; \nComunicação estruturada baseada em fatos e dados; \nExperiência em arquiteturas de mobile como MVVM, MVP, MVC;\nConhecimento em padrões de projeto como Coordinators, Adapters e outros Design Patterns;\nConhecimento sobre pipelines e ferramentas de CI/CD;\nConhecimento em distribuição de apps e certificados para AppStore;\nConhecimento de ferramentas de build e integração contínua para IOS.;\n\nModelo: Remoto\nDuração: Previsão do projeto de 1 ano.\nContratação: CLT + Benefícios ou PJ\n\nInteressados e/ou indicações, por gentileza, envie CV com a vaga de interesse para o e-mail: karina.bejgler@tecmaster.inf.br",
       "excerpt": "A TecMaster é uma consultoria que atua no mercado há 23 anos, prestando serviços para grandes parceiros/clientes. Vaga: Desenvolvedor IOS Nível: PL e SR Requisitos: Experiência em desenvolvimento de aplicações em IOS ...",
@@ -139,11 +140,11 @@
       "createdAt": "2024-05-18T18:46:13Z",
       "updatedAt": "2024-05-18T18:46:13Z",
       "url": "https://github.com/DevComputaria/CangaceiroDevVagas/issues/187",
-      "sourceType": "github-issue",
-      "sourceId": "DevComputaria/CangaceiroDevVagas#187"
+      "sourceType": "github-issue"
     },
     "gh_6f4d0a1c5dabd825edd7a35f": {
       "id": "gh_6f4d0a1c5dabd825edd7a35f",
+      "sourceId": "remote-job-boards/software-engineering#7462",
       "title": "REO: Senior iOS Engineer",
       "description": "**Tags:** #ios #swift #ui #ci&cd #functional-programming #design #senior #engineer #digital-nomad #ios\n\n**Published on:** October 27, 2021\n\n**Original Job Post:** https://remoteOK.io/remote-jobs/106857-remote-senior-ios-engineer-reo\n\n![](https://remoteOK.io/assets/img/jobs/106731f8263f217e92b5530e393aa1b21635330341.png)\n\nAt [REO](http://reo.so) we want to help real estate brokers, owners and buyers find and trade properties easier than ever. We believe that easy-to-use software is key in this complex and fast-paced industry.\n\nWe are looking for a Senior iOS Engineer to further accelerate our development. We offer a competitive salary and REO stock options (ESOP) making you a true owner in our vision. \n\n## Your responsibilities\n\nTake ownership during refinement and planning to break down new epics into small deliverables.\n\nParticipate in the design process to jointly deliver the product quickly and with high quality.\n\nShip features every two weeks or quicker.\n\nResponsible for the quality of the iOS app and proposing strategic and lasting improvements. \n\n## Your profile\n\nYou have experience in Swift, programmatic UI, and basic reactive programming.\n\nYou like learning quickly and seeing the impact that your work has.\n\nYou consider the perspective of the user and company, when proposing new ideas. Why we do something is just as important as what we do. \n\nYou have extensive experience in testing and in building up a CI/CD pipeline.\n\nYou are driven by real impact of your work. You don't require a large team to make things happen.\n\n## Technical Stack\n\n100 % Swift\n\nVanilla SwiftUI with UIKit wrappers\n\nCombine\n\nApollo iOS (GraphQL Client)\n\nSPM\n\nSemaphore\n\n## Culture\n\nAt REO we put a lot of emphasis on impact, speed, and user value. We also take time to find better ways to work, use new tools and adopt new technologies — for us, this is an essential part of work. Knowledge shares happen every 4 weeks and everyone can present their topic of choice. \n\nWe are based in [Berlin](https://www.google.com/maps/place/Niebuhrstra%C3%9Fe+78,+10629+Berlin/@52.5039463) but are a distributed team. Learn more about how we work and what we strive for at our [careers page](https://reo.so/careers). \n\nDo you have questions or want to get in touch? Send us a line to [<span class=\"__cf_email__\" data-cfemail=\"dcbfbdaeb9b9aeaf9caeb9b3f2afb3\">[email protected]</span>](mailto:<span class=\"__cf_email__\" data-cfemail=\"1c7f7d6e79796e6f5c6e7973326f73\">[email protected]</span>)\t\n\nBe sure to mention the words **POPULAR BEACH JOURNEY** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words\tto find applicants that read this and see they're human.\n\n\t\n\n#Salary and compensation\nNo salary data published by company so we estimated salary based on previous jobs related to . $60,000 — $100,000/year\n\n\n### Location\n🌏 Worldwide<br>",
       "excerpt": "**Tags:** #ios #swift #ui #ci&cd #functional-programming #design #senior #engineer #digital-nomad #ios **Published on:** October 27, 2021 **Original Job Post:** https://remoteOK.io/remote-jobs/106857-remote-senior-ios...",
@@ -180,8 +181,7 @@
       "createdAt": "2021-10-29T12:38:55Z",
       "updatedAt": "2021-11-03T01:09:50Z",
       "url": "https://github.com/remote-job-boards/software-engineering/issues/7462",
-      "sourceType": "github-issue",
-      "sourceId": "remote-job-boards/software-engineering#7462"
+      "sourceType": "github-issue"
     }
   }
 }
