@@ -1,4 +1,4 @@
-import { buildExcerpt, normalizeText } from "../../shared/utils/text.mjs";
+import { buildDescription, buildExcerpt, normalizeText } from "../../shared/utils/text.mjs";
 import { sha256Json } from "../../shared/utils/hash.mjs";
 import { parseSalary } from "./salary-parser.mjs";
 import { extractTags } from "./tags-extractor.mjs";
@@ -36,6 +36,7 @@ function parseCompanyName(title, body) {
  */
 export function mapIssueToOpportunity(issue, repository) {
   const body = issue.body ?? "";
+  const description = buildDescription(body);
   const combinedText = `${issue.title ?? ""}\n${body}`;
   const owner = repository.owner || repository.repository.split("/")[0] || "unknown";
   const contentHash = sha256Json({
@@ -46,6 +47,7 @@ export function mapIssueToOpportunity(issue, repository) {
   return {
     id: `${repository.repository}#${issue.number}`,
     title: issue.title ?? "Untitled",
+    description,
     excerpt: buildExcerpt(issue.title, issue.body),
     issueState: issue.state === "closed" ? "closed" : "open",
     contentHash,

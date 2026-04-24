@@ -6,6 +6,13 @@ export function normalizeText(text) {
 }
 
 /**
+ * @param {string | null | undefined} body
+ */
+export function buildDescription(body) {
+  return String(body ?? "").replace(/\r\n/g, "\n").trim();
+}
+
+/**
  * @param {string | null | undefined} title
  * @param {string | null | undefined} body
  */
@@ -22,4 +29,3 @@ export function buildExcerpt(title, body) {
 
   return `${source.slice(0, 217)}...`;
 }
-

@@ -1,14 +1,32 @@
+<p align="center">
+  <a href="https://openings.dev">
+    <img src="public/logo.png" alt="openings.dev" width="190" />
+  </a>
+</p>
+
 # openings-data
 
-Repositório de dados públicos do `openings.dev`.
+Public data pipeline and snapshot repository for `openings.dev`.
 
-Este projeto mantém:
+This repository stores:
 
-- `src/modules/catalog/repositories.json`: catálogo de repositórios fonte.
-- `snapshots/opportunities/index.json`: índice global do snapshot segmentado.
-- `snapshots/opportunities/countries/*`: shards por país e por repositório.
+- `src/modules/catalog/repositories.json`: source repository catalog.
+- `snapshots/opportunities/index.json`: global segmented snapshot index.
+- `snapshots/opportunities/countries/*`: country indexes and repository shards.
 
-## Arquitetura
+## Why This Repository Is Structured This Way
+
+The opportunities dataset is intentionally segmented to keep the repository fast and maintainable:
+
+- primary segmentation by country (`countries/<countryCode>/...`);
+- secondary segmentation by repository (`countries/<countryCode>/repositories/*.json`);
+- incremental writes (only changed files are updated);
+- smaller diffs and cleaner pull requests;
+- no monolithic `snapshots/opportunities.json`.
+
+This design avoids giant files, improves Git performance, and makes partial updates predictable.
+
+## Architecture
 
 ```txt
 src/
@@ -36,15 +54,7 @@ scripts/
   validate-repo.mjs
 ```
 
-Princípios aplicados:
-
-- segmentação por país (`countries/<countryCode>`);
-- shard por repositório para reduzir diffs e commits desnecessários;
-- escrita incremental (apenas arquivos alterados);
-- validação estrutural para bloquear arquivos gigantes e snapshot monolítico;
-- microcomponentes com limite de 100 linhas por arquivo de código.
-
-## Estrutura do snapshot segmentado
+## Snapshot Layout
 
 ```txt
 snapshots/
@@ -54,71 +64,122 @@ snapshots/
       br/
         index.json
         repositories/
-          backend-br__vagas.json
+          backend-br-vagas.json
       us/
         index.json
         repositories/
-          simplifyjobs__summer2026-internships.json
+          simplifyjobs-summer2026-internships.json
 ```
 
-- `index.json`: metadados globais e ponteiros para cada país.
-- `countries/<code>/index.json`: metadados do país e ponteiros por repositório.
-- `countries/<code>/repositories/*.json`: oportunidades por repositório.
+- `index.json`: global metadata + pointer list (`countries[].indexFile`).
+- `countries/<code>/index.json`: country metadata + repository pointers (`byRepository[].file`).
+- `countries/<code>/repositories/*.json`: normalized opportunities for one repository.
 
-## Como funciona
+Note: a `GLOBAL` country bucket may exist for repositories that are not country-specific.
 
-1. O workflow `.github/workflows/update-opportunities.yml` roda em cron (3 em 3 horas).
-2. `scripts/build-opportunities.mjs` chama `src/app/run-build.mjs`.
-3. O build agrupa repositórios por país, consulta issues do GitHub e normaliza oportunidades.
-4. O snapshot segmentado é atualizado apenas nos arquivos que mudaram.
+## Data Contracts
 
-## Setup
+### 1) Global Index
 
-1. Crie este repositório como **público**.
-2. Garanta que `src/modules/catalog/repositories.json` esteja atualizado.
-3. (Opcional, recomendado) Configure o secret `OPENINGS_GITHUB_TOKEN` com um PAT do GitHub.
-4. Habilite Actions.
-5. Copie `.env.example` para `.env` para testes locais.
+`snapshots/opportunities/index.json` contains:
 
-## Execução local
+- build metadata (`generatedAt`, `schemaVersion`, `catalogGeneratedAt`, `dataHash`);
+- request settings (`request.maxIssuesPerRepository`, `requestDelayMs`, etc.);
+- totals (`opportunities`, `uniqueRepositories`, `failedRepositories`, ...);
+- per-country pointers (`countries[].indexFile`).
+
+### 2) Country Index
+
+`snapshots/opportunities/countries/<code>/index.json` contains:
+
+- country metadata (`country`, `countryCode`, `region`);
+- totals (`opportunities`, `openIssues`, `closedIssues`);
+- repository shards (`byRepository[]` with `file` and `hash`).
+
+### 3) Repository Shard
+
+`snapshots/opportunities/countries/<code>/repositories/<slug>.json` contains:
+
+- repository-level metadata (`repository`, `countryCode`, `totals`, `dataHash`);
+- normalized `items[]` with fields such as:
+  - `id`, `title`, `excerpt`, `issueState`;
+  - `repository`, `region`, `country`, `tags`;
+  - `author`, `community`;
+  - `createdAt`, `updatedAt`, `url`, `sourceType`.
+
+## Build and Update Flow
+
+1. `.github/workflows/update-opportunities.yml` runs every 3 hours (`0 */3 * * *`) and supports manual trigger.
+2. The workflow runs:
+   - `npm run validate`
+   - `npm run build:snapshot`
+3. `scripts/build-opportunities.mjs` calls `src/app/run-build.mjs`.
+4. The pipeline:
+   - loads catalog repositories;
+   - applies optional country filters;
+   - collects and normalizes GitHub opportunities;
+   - prepares segmented snapshots;
+   - writes only changed files;
+   - prunes stale snapshot files.
+5. GitHub Actions commits only `snapshots/opportunities/**` when changes exist.
+
+## Local Setup
+
+Requirements:
+
+- Node.js `>=20` (see `.nvmrc`).
+
+Steps:
+
+1. Copy `.env.example` to `.env`.
+2. (Recommended) Set `OPENINGS_GITHUB_TOKEN` to increase API quota.
+3. Run validation and build:
 
 ```bash
 npm run validate
 npm run build:snapshot
 ```
 
-Migração inicial do snapshot legado:
+Legacy migration (one-time, if `snapshots/opportunities.json` still exists):
 
 ```bash
 npm run migrate:snapshot
 ```
 
-Variáveis suportadas:
+## Environment Variables
 
-- `OPENINGS_GITHUB_TOKEN`: token opcional para chamadas autenticadas.
-- `MAX_ISSUES_PER_REPOSITORY`: padrão `30` (máx `100`).
-- `MAX_REPOSITORIES`: padrão `0` (0 = todos).
-- `REQUEST_DELAY_MS`: padrão `120`.
-- `COUNTRY_CODES`: lista opcional separada por vírgula (ex: `BR,US,PT`).
+- `OPENINGS_GITHUB_TOKEN`: optional personal access token.
+- `MAX_ISSUES_PER_REPOSITORY`: default `30`, min `1`, max `100`.
+- `MAX_REPOSITORIES`: default `0` (`0` means no cap), max `50000`.
+- `REQUEST_DELAY_MS`: default `120`, min `0`, max `10000`.
+- `COUNTRY_CODES`: optional comma-separated filter, e.g. `BR,US,PT`.
 
-## URL para o front
+## Validation Rules
 
-Use o índice global segmentado:
+`npm run validate` enforces repository safety:
+
+- required JSON files must exist and parse;
+- segmented snapshot structure must be valid;
+- legacy monolithic snapshot file is forbidden;
+- each snapshot JSON file is capped at `4000` lines;
+- each `.mjs` file under `src/` and `scripts/` is capped at `100` lines.
+
+These constraints are designed to keep the repo lightweight and easy to review.
+
+## Frontend Consumption
+
+Use the global segmented index URL:
 
 ```txt
 https://raw.githubusercontent.com/<org>/<repo>/main/snapshots/opportunities/index.json
 ```
 
-## Payloads
+The frontend then resolves country indexes and repository shards through the pointers in that file.
 
-- `snapshots/opportunities/index.json`: dados globais + `countries[].indexFile`.
-- `countries/<code>/index.json`: totais do país + `byRepository[].file`.
-- `countries/<code>/repositories/*.json`: oportunidades normalizadas daquele repositório.
+## Contributing
 
-## Contribuição
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a PR.
 
-Leia [CONTRIBUTING.md](./CONTRIBUTING.md) antes de abrir PR.
-
-## Licença
+## License
 
 [MIT](./LICENSE)
