@@ -6,25 +6,17 @@
 
 # openings-data
 
-Public data pipeline and snapshot repository for `openings.dev`.
+Public data pipeline and static JSON API for `openings.dev`.
 
-This repository stores:
+This repository owns the source catalog, GitHub ingestion pipeline, normalized opportunity snapshots, and static API files consumed by the front-end through raw GitHub URLs.
 
-- `src/modules/catalog/repositories.json`: source repository catalog.
-- `snapshots/opportunities/index.json`: global segmented snapshot index.
-- `snapshots/opportunities/countries/*`: country indexes and repository shards.
+## Repository Role
 
-## Why This Repository Is Structured This Way
+`openings-dev/data` is the data publication layer. It is intentionally separate from the front-end:
 
-The opportunities dataset is intentionally segmented to keep the repository fast and maintainable:
-
-- primary segmentation by country (`countries/<countryCode>/...`);
-- secondary segmentation by repository (`countries/<countryCode>/repositories/*.json`);
-- incremental writes (only changed files are updated);
-- smaller diffs and cleaner pull requests;
-- no monolithic `snapshots/opportunities.json`.
-
-This design avoids giant files, improves Git performance, and makes partial updates predictable.
+- the data repo generates and stores publishable JSON snapshots;
+- the front-end reads those snapshots remotely from `raw.githubusercontent.com`;
+- the front-end must not copy, import, or mock these JSON files locally.
 
 ## Architecture
 
@@ -35,16 +27,14 @@ src/
   config/
     env.mjs
   modules/
-    build/
-    catalog/
-      repositories.json
-      catalog-repository.mjs
-    github/
-    observability/
-    opportunities/
-    snapshot/
-    storage/
-    validation/
+    build/                 repository selection and country processing
+    catalog/               source repository catalog reader
+    github/                GitHub API client
+    observability/         structured CLI logger
+    opportunities/         issue normalization and enrichment
+    snapshot/              segmented snapshot and static API builders
+    storage/               JSON read/write helpers
+    validation/            repository validation checks
   shared/
     errors/
     utils/
@@ -52,133 +42,141 @@ scripts/
   build-opportunities.mjs
   migrate-opportunities-snapshot.mjs
   validate-repo.mjs
+snapshots/
+  opportunities/           published static API and segmented snapshots
 ```
 
-## Snapshot Layout
+## Source Catalog
+
+The source catalog lives at:
 
 ```txt
-snapshots/
-  opportunities/
-    index.json
-    countries/
-      br/
-        index.json
-        repositories/
-          backend-br-vagas.json
-      us/
-        index.json
-        repositories/
-          simplifyjobs-summer2026-internships.json
+src/modules/catalog/repositories.json
 ```
 
-- `index.json`: global metadata + pointer list (`countries[].indexFile`).
-- `countries/<code>/index.json`: country metadata + repository pointers (`byRepository[].file`).
-- `countries/<code>/repositories/*.json`: normalized opportunities for one repository.
+Each catalog entry describes a public GitHub repository that posts opportunities as issues, including repository name, URL, country, country code, and region.
 
-Note: a `GLOBAL` country bucket may exist for repositories that are not country-specific.
+## Published Data Layout
 
-## Data Contracts
+```txt
+snapshots/opportunities/
+  index.json
+  api/
+    manifest.json
+    facet-index.json
+    job-ids.json
+    page-lookup.json
+    search-index.json
+    order/
+      recent.json
+    pages/
+      page-0001.json
+    jobs/
+      ab.json
+  countries/
+    br/
+      index.json
+      repositories/
+        backend-br-vagas.json
+```
 
-### 1) Global Index
+Primary files:
 
-`snapshots/opportunities/index.json` contains:
+- `api/manifest.json`: entry point for front-end list loading.
+- `api/order/recent.json`: opportunity IDs in default recent order.
+- `api/page-lookup.json`: maps opportunity IDs to page files.
+- `api/pages/*.json`: paginated opportunity payloads.
+- `api/jobs/*.json`: bucketed job detail records.
+- `api/job-ids.json`: static job IDs used for front-end static params.
+- `index.json`: global segmented snapshot index.
+- `countries/*/index.json`: country-level snapshot indexes.
+- `countries/*/repositories/*.json`: repository-level shards.
 
-- build metadata (`generatedAt`, `schemaVersion`, `catalogGeneratedAt`, `dataHash`);
-- request settings (`request.maxIssuesPerRepository`, `requestDelayMs`, etc.);
-- totals (`opportunities`, `uniqueRepositories`, `failedRepositories`, ...);
-- per-country pointers (`countries[].indexFile`).
+There is no monolithic `snapshots/opportunities.json` file.
 
-### 2) Country Index
+## Raw API Consumption
 
-`snapshots/opportunities/countries/<code>/index.json` contains:
+The front-end consumes this repository through raw GitHub URLs:
 
-- country metadata (`country`, `countryCode`, `region`);
-- totals (`opportunities`, `openIssues`, `closedIssues`);
-- repository shards (`byRepository[]` with `file` and `hash`).
+```txt
+https://raw.githubusercontent.com/openings-dev/data/main/snapshots/opportunities
+https://raw.githubusercontent.com/openings-dev/data/main
+```
 
-### 3) Repository Shard
+Example:
 
-`snapshots/opportunities/countries/<code>/repositories/<slug>.json` contains:
+```ts
+const baseUrl =
+  "https://raw.githubusercontent.com/openings-dev/data/main/snapshots/opportunities";
 
-- repository-level metadata (`repository`, `countryCode`, `totals`, `dataHash`);
-- normalized `items[]` with fields such as:
-  - `id`, `title`, `excerpt`, `issueState`;
-  - `repository`, `region`, `country`, `tags`;
-  - `author`, `community`;
-  - `createdAt`, `updatedAt`, `url`, `sourceType`.
+const manifest = await fetch(`${baseUrl}/api/manifest.json`).then((response) =>
+  response.json(),
+);
+```
 
-## Build and Update Flow
+## Build Flow
 
-1. `.github/workflows/update-opportunities.yml` runs every 3 hours (`0 */3 * * *`) and supports manual trigger.
-2. The workflow runs:
-   - `npm run validate`
-   - `npm run build:snapshot`
-3. `scripts/build-opportunities.mjs` calls `src/app/run-build.mjs`.
-4. The pipeline:
-   - loads catalog repositories;
-   - applies optional country filters;
-   - collects and normalizes GitHub opportunities;
-   - prepares segmented snapshots;
-   - writes only changed files;
-   - prunes stale snapshot files.
-5. GitHub Actions commits only `snapshots/opportunities/**` when changes exist.
+1. Load environment and repository catalog.
+2. Select repositories using optional country and repository limits.
+3. Fetch public GitHub issues.
+4. Normalize opportunities and enrich metadata.
+5. Build segmented snapshots and static API files.
+6. Write only changed JSON files.
+7. Prune stale snapshot files.
+
+GitHub Actions runs the update workflow on a schedule and commits changed files under `snapshots/opportunities/**`.
 
 ## Local Setup
 
 Requirements:
 
-- Node.js `>=20` (see `.nvmrc`).
-
-Steps:
-
-1. Copy `.env.example` to `.env`.
-2. (Recommended) Set `OPENINGS_GITHUB_TOKEN` to increase API quota.
-3. Run validation and build:
+- Node.js `>=20.0.0`
+- npm
 
 ```bash
+npm install
+cp .env.example .env
 npm run validate
-npm run build:snapshot
 ```
 
-Legacy migration (one-time, if `snapshots/opportunities.json` still exists):
+`OPENINGS_GITHUB_TOKEN` is optional but recommended to increase GitHub API quota.
+
+Build a snapshot locally:
 
 ```bash
-npm run migrate:snapshot
+npm run build:snapshot
 ```
 
 ## Environment Variables
 
-- `OPENINGS_GITHUB_TOKEN`: optional personal access token.
+- `OPENINGS_GITHUB_TOKEN`: optional GitHub token.
 - `MAX_ISSUES_PER_REPOSITORY`: default `30`, min `1`, max `100`.
 - `MAX_REPOSITORIES`: default `0` (`0` means no cap), max `50000`.
 - `REQUEST_DELAY_MS`: default `120`, min `0`, max `10000`.
-- `COUNTRY_CODES`: optional comma-separated filter, e.g. `BR,US,PT`.
+- `COUNTRY_CODES`: optional comma-separated filter, for example `BR,US,PT`.
 
-## Validation Rules
+## Validation
 
-`npm run validate` enforces repository safety:
-
-- required JSON files must exist and parse;
-- segmented snapshot structure must be valid;
-- legacy monolithic snapshot file is forbidden;
-- each snapshot JSON file is capped at `4000` lines;
-- each `.mjs` file under `src/` and `scripts/` is capped at `100` lines.
-
-These constraints are designed to keep the repo lightweight and easy to review.
-
-## Frontend Consumption
-
-Use the global segmented index URL:
-
-```txt
-https://raw.githubusercontent.com/<org>/<repo>/main/snapshots/opportunities/index.json
+```bash
+npm run validate
 ```
 
-The frontend then resolves country indexes and repository shards through the pointers in that file.
+Validation checks:
+
+- required JSON files exist and parse;
+- segmented snapshot structure is valid;
+- monolithic legacy snapshot output is forbidden;
+- snapshot JSON files stay under the configured line limit;
+- source modules stay under the configured line limit;
+- JavaScript modules parse successfully.
+
+## Migration Script
+
+`npm run migrate:snapshot` exists only for maintainers converting an old local monolithic snapshot into the segmented layout. New work must keep the segmented static API structure.
 
 ## Contributing
 
-Read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a PR.
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a pull request.
 
 ## License
 
