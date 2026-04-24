@@ -9,10 +9,10 @@
     "openIssues": 5,
     "closedIssues": 6
   },
-  "dataHash": "0dc0c08084986399e9839aab50a8c9dda18dbac19cd8425401b87f6460baaac8",
+  "dataHash": "1a927b6cd868556216336d80faa6a9d61d7117d78776510dd921ede918fd009f",
   "items": [
     {
-      "id": "timqian/open-source-jobs#173",
+      "id": "gh_615cd5b5c01016e20e631b0c",
       "title": "Feature: Add Email Alert for Recent Update",
       "description": "When there is a new update (recent job commit), alert a subscribed user via email.",
       "excerpt": "When there is a new update (recent job commit), alert a subscribed user via email.",
@@ -39,10 +39,11 @@
       "createdAt": "2026-04-21T10:30:11Z",
       "updatedAt": "2026-04-21T10:30:30Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/173",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#173"
     },
     {
-      "id": "timqian/open-source-jobs#170",
+      "id": "gh_6efcb9f8582e53f6fd2b2afc",
       "title": "[FOR HIRE] Freelance Developer – Open to Small Tasks & Gigs",
       "description": "👋 Hey everyone! I'm a freelance developer open to small coding gigs.\n\nWhat I can help with:\n- Bug fixes & code reviews\n- Script writing & automation\n- Small feature builds\n- Debugging & refactoring\n\n🕐 Timezone: UTC-5 (Eastern Time – New York)\n📅 Available: Mon–Fri, 9am–6pm ET | Weekends flexible\n\nFlexible on stack. Fast turnaround.\nDrop a comment or DM me — happy to chat first! 💻",
       "excerpt": "👋 Hey everyone! I'm a freelance developer open to small coding gigs. What I can help with: - Bug fixes & code reviews - Script writing & automation - Small feature builds - Debugging & refactoring 🕐 Timezone: UTC-5 ...",
@@ -69,10 +70,11 @@
       "createdAt": "2026-04-06T23:04:39Z",
       "updatedAt": "2026-04-07T03:36:22Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/170",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#170"
     },
     {
-      "id": "timqian/open-source-jobs#169",
+      "id": "gh_b5220ce704e9136f8724e349",
       "title": "[FOR HIRE] Freelance Developer – Open to Small Tasks & Gigs",
       "description": "🚀 Available for Freelance Work!\n\nI'm looking for small-to-medium coding tasks and gigs.\nWhat I can help with:\n- Bug fixes & code reviews\n- Script writing & automation\n- Small feature builds\n- Debugging & refactoring\n\nFlexible on stack. Fast turnaround. Open to one-time or recurring work.\nFeel free to reach out — let's build something! 💻",
       "excerpt": "🚀 Available for Freelance Work! I'm looking for small-to-medium coding tasks and gigs. What I can help with: - Bug fixes & code reviews - Script writing & automation - Small feature builds - Debugging & refactoring F...",
@@ -99,10 +101,11 @@
       "createdAt": "2026-04-06T22:58:07Z",
       "updatedAt": "2026-04-06T22:58:07Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/169",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#169"
     },
     {
-      "id": "timqian/open-source-jobs#163",
+      "id": "gh_454de3444c88b4e47ec6a9d6",
       "title": "Bug/Reliability: GitHub API Rate Limiting",
       "description": "**Issue :** \n\nThe fetch-releases.js script iterates through all repositories in the CSV to find new job postings. For a large list, this will quickly trigger GitHub's secondary rate limits if an authenticated GH_TOKEN is not used or if requests aren't staggered.\nImprovement: Add an optional token header to the fetch requests and implement a small delay (e.g., 200ms) between repository checks in the loop.\n\n**File Path :** `open-source-jobs/scripts/fetch-releases.js`\n\n**Code Idea :**\n\n```\nconst headers = process.env.GH_TOKEN ? { Authorization: `token ${process.env.GH_TOKEN}` } : {};\n// Inside the loop:\nawait new Promise(resolve => setTimeout(resolve, 200));\n```",
       "excerpt": "**Issue :** The fetch-releases.js script iterates through all repositories in the CSV to find new job postings. For a large list, this will quickly trigger GitHub's secondary rate limits if an authenticated GH_TOKEN i...",
@@ -129,10 +132,11 @@
       "createdAt": "2026-02-18T13:32:03Z",
       "updatedAt": "2026-02-19T07:11:35Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/163",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#163"
     },
     {
-      "id": "timqian/open-source-jobs#162",
+      "id": "gh_bf70dc9f783bd9e91215da56",
       "title": "Feature: Social Meta Tags (OpenGraph) for Jobs",
       "description": "**Issue :** \n\nWhen users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data.\nImprovement: Implement dynamic metadata in the Next.js layout.tsx or individual page components to improve social sharing visibility.\n\n**File Path** :  `open-source-jobs/app/layout.tsx`\n\n**Code logic :**\n\n```\nexport const metadata = {\n  title: 'Open Source Jobs',\n  description: 'Find jobs at companies building open source software.',\n  openGraph: {\n    images: ['/og-image.svg'],\n  },\n};\n```",
       "excerpt": "**Issue :** When users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data. Improvemen...",
@@ -161,10 +165,11 @@
       "createdAt": "2026-02-18T13:31:05Z",
       "updatedAt": "2026-02-19T04:01:13Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/162",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#162"
     },
     {
-      "id": "timqian/open-source-jobs#161",
+      "id": "gh_72cc354e7d9c38f999fa902a",
       "title": "Feature: Enhanced Search & Filtering",
       "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
       "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
@@ -191,10 +196,11 @@
       "createdAt": "2026-02-18T13:29:12Z",
       "updatedAt": "2026-02-19T04:01:20Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/161",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#161"
     },
     {
-      "id": "timqian/open-source-jobs#160",
+      "id": "gh_dd237a978dba300d92eb4d35",
       "title": "chaos-genius repo is archived",
       "description": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table ,\nfix : might remove it or add another new one which is alternative to it ig?",
       "excerpt": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table , fix : might remove it or add another new one which is alternative to it ig?",
@@ -221,10 +227,11 @@
       "createdAt": "2026-02-17T18:15:36Z",
       "updatedAt": "2026-02-17T18:15:36Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/160",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#160"
     },
     {
-      "id": "timqian/open-source-jobs#158",
+      "id": "gh_f9843edbca6a4f28d96c04d3",
       "title": "[New Repo]: open62541/open62541",
       "description": "### Repository\n\nopen62541/open62541\n\n### Company Name\n\no6 Automation GmbH\n\n### Company URL\n\nhttps://www.o6-automation.com/\n\n### Career/Job Page URL\n\nhttps://www.o6-automation.com/company\n\n### Repository Description\n\nopen62541 (http://open62541.org/) is an open source implementation of OPC UA (OPC Unified Architecture / IEC 62541) written in the C language. The library is usable with all major compilers and provides the necessary tools to implement dedicated OPC UA clients and servers, or to integrate OPC UA-based communication into existing applications. See the [features overview](https://github.com/open62541/open62541/blob/master/FEATURES.md) for full details. The open62541 library is platform independent: All platform-specific functionality is implemented via exchangeable plugins for easy porting to different (embedded) targets.\n\nopen62541 is licensed under the Mozilla Public License v2.0 (MPLv2). This allows the open62541 library to be combined and distributed with any proprietary software. Only changes to the open62541 library itself need to be licensed under the MPLv2 when copied and distributed. Some plugins and examples are in the public domain (CC0 license) and some are licensed under MPLv2. The CC0 licensed ones can be reused under any license and changes do not have to be published.\n\n### Primary Language\n\nC, C++\n\n### Tags\n\nopcua, open62541, C, Linux, embedded\n\n### Verification\n\n- [x] This repository is actively maintained and the company is currently hiring\n- [x] I have verified that the career/job page URL is correct and active\n- [x] This repository is not already in the list",
       "excerpt": "### Repository open62541/open62541 ### Company Name o6 Automation GmbH ### Company URL https://www.o6-automation.com/ ### Career/Job Page URL https://www.o6-automation.com/company ### Repository Description open62541 ...",
@@ -251,10 +258,11 @@
       "createdAt": "2026-02-16T15:35:49Z",
       "updatedAt": "2026-02-17T02:41:20Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/158",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#158"
     },
     {
-      "id": "timqian/open-source-jobs#152",
+      "id": "gh_56078fd8c9fc140883841312",
       "title": "[New Repo]: https://github.com/penpot/penpot",
       "description": "### Repository\n\npenpot/penpot\n\n### Company Name\n\nPenpot\n\n### Company URL\n\nhttps://penpot.app\n\n### Career/Job Page URL\n\nhttps://penpot.app/careers\n\n### Repository Description\n\nPenpot: The open-source design tool for design and code collaboration\n\n### Primary Language\n\nClojure\n\n### Tags\n\ndesign clojure ui clojurescript prototyping ux-experience ux-design\n\n### Verification\n\n- [x] This repository is actively maintained and the company is currently hiring\n- [x] I have verified that the career/job page URL is correct and active\n- [x] This repository is not already in the list",
       "excerpt": "### Repository penpot/penpot ### Company Name Penpot ### Company URL https://penpot.app ### Career/Job Page URL https://penpot.app/careers ### Repository Description Penpot: The open-source design tool for design and ...",
@@ -283,10 +291,11 @@
       "createdAt": "2025-11-28T01:44:23Z",
       "updatedAt": "2025-11-28T01:53:06Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/152",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#152"
     },
     {
-      "id": "timqian/open-source-jobs#150",
+      "id": "gh_728305e60f7f7ebcb94319af",
       "title": "[New Repo]: https://github.com/openedx/edx-platform",
       "description": "### Repository\n\nopenedx/edx-platform\n\n### Company Name\n\nOpenCraft\n\n### Company URL\n\nhttps://opencraft.com/\n\n### Career/Job Page URL\n\nhttps://opencraft.com/jobs/\n\n### Repository Description\n\nThe Open edX LMS & Studio, powering education sites around the world!\n\n### Primary Language\n\npython\n\n### Tags\n\nedx, education\n\n### Verification\n\n- [x] This repository is actively maintained and the company is currently hiring\n- [x] I have verified that the career/job page URL is correct and active\n- [x] This repository is not already in the list",
       "excerpt": "### Repository openedx/edx-platform ### Company Name OpenCraft ### Company URL https://opencraft.com/ ### Career/Job Page URL https://opencraft.com/jobs/ ### Repository Description The Open edX LMS & Studio, powering ...",
@@ -315,10 +324,11 @@
       "createdAt": "2025-11-26T13:47:19Z",
       "updatedAt": "2025-11-27T02:42:54Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/150",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#150"
     },
     {
-      "id": "timqian/open-source-jobs#66",
+      "id": "gh_5cf50d2f7aad214a8ece0054",
       "title": "[Org Post]: Add OpenCraft as an open source organization",
       "description": "- Name: OpenCraft\n- GitHub URL: https://github.com/open-craft/\n- Official URL: https://opencraft.com/\n- Job URL: https://opencraft.com/jobs/open-source-developer/\n- One sentence intro: Development specialized on the free software & online education project Open edX, used by and in part developed by organizations like MIT, Harvard, McKinsey, and others\n- majorRepos: https://github.com/edx/edx-platform https://github.com/open-craft/opencraft\n- email: jobs@opencraft.com (no application at this address, use the application form from \"Job URL\")",
       "excerpt": "- Name: OpenCraft - GitHub URL: https://github.com/open-craft/ - Official URL: https://opencraft.com/ - Job URL: https://opencraft.com/jobs/open-source-developer/ - One sentence intro: Development specialized on the f...",
@@ -345,7 +355,8 @@
       "createdAt": "2021-04-17T00:22:44Z",
       "updatedAt": "2025-11-26T13:55:11Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/66",
-      "sourceType": "github-issue"
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#66"
     }
   ]
 }

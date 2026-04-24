@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "items": {
+    "gh_79546b5940192c13dad52334": {
+      "id": "gh_79546b5940192c13dad52334",
+      "title": "Curitiba/PR - Analista de Dados PL",
+      "description": "Oportunidade para Analista de Dados Pleno\n\nBuscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto.\n\nAtribuições:\nAtuar de forma consultiva junto às áreas de negócio, traduzindo dados em ações práticas;\nRealizar análises exploratórias e diagnósticas para apoiar a tomada de decisão;\nGerar insights estratégicos e construir storytelling;\nDesenvolver, manter e aprimorar dashboards e relatórios gerenciais;\nAssegurar a qualidade, integridade e confiabilidade das bases de dados;\nIdentificar padrões, tendências e oportunidades de melhoria a partir da análise de dados;\nDefinir, monitorar e analisar indicadores de desempenho (KPIs);\nEntre outros pertinentes a área.\n\nRequisitos técnicos:\nFormação superior pertinente a área;\nDomínio de SQL para extração e manipulação de dados;\nFerramentas de BI (Power BI, Tableau ou similares);\nExcel Avançado;\nCapacidade analítica e visão crítica na interpretação de dados;\nBoa comunicação para traduzir dados em insights para públicos não técnicos.\n\nDesejável:\nConhecimento em Python ou R para análise de dados;\nVivência com bancos de dados relacionais e modelagem de dados;\nExperiência com dados de marketing, CRM, CX ou financeiro;\nAtuação prévia em empresas do setor financeiro ou de serviços;\nConhecimento em governança, qualidade de dados e LGPD.\n\nContrato CLT + Benefícios!\nAtuação 4x Presencial e 1x HO\nAtuação no modelo híbrido em Curitiba/PR.\n\nEnvie seu CV com pretensão salarial para: daiane.fw3@gmail.com",
+      "excerpt": "Oportunidade para Analista de Dados Pleno Buscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto. Atribuições:...",
+      "issueState": "open",
+      "contentHash": "72b31c20ce6ddda3fe4d30f16a902beaabccc4f718c82f79cd5860c3291acc8d",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno"
+      ],
+      "author": {
+        "id": "DaianeMF",
+        "name": "DaianeMF",
+        "handle": "DaianeMF",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/277110536?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-04-17T19:53:07Z",
+      "updatedAt": "2026-04-17T19:53:07Z",
+      "url": "https://github.com/datascience-br/vagas/issues/160",
+      "sourceType": "github-issue",
+      "sourceId": "datascience-br/vagas#160"
+    },
+    "gh_798a3404121487925fc3a6d0": {
+      "id": "gh_798a3404121487925fc3a6d0",
+      "title": "OneSecondDelivery: Machine learning dataset engineer for GPT scale ML project",
+      "description": "**Tags:** #machine-learning #pytorch #tensorflow #computer-vision #ml #deep-learning #python #data-science #engineer\n\n**Published on:** October 31, 2021\n\n**Original Job Post:** https://remoteOK.io/remote-jobs/106921-remote-machine-learning-dataset-engineer-for-gpt-scale-ml-project-oneseconddelivery\n\n![](https://remoteOK.io/assets/img/jobs/f9f9673aadca1a2dc1d603f196c35ec01635705116.png)\n\n**Promising drone-delivery startup is hiring a Dataset and Machine Learning Manager to work remotely. OneSec is working on a groundbreaking GPT-scale machine learning project to make autonomous delivery drones. In this job, you will build the Datasets and Neural Networks that fly our autonomous delivery drones. These drones will then deliver millions of meals and other packages in the real world.**\n\n##About OneSecondDelivery\nWe are creating a food delivery app that uses autonomous drones to deliver the food. We deliver everything 5 times faster and 100 times cheaper, thanks to small autonomous delivery-robots. The company was founded in 2017 by a leading expert on drone legislation and a successful e-commerce entrepreneur. The Swiss Federal Institute of Technology’s Vice Presidency of Innovation has recognized the large potential of this project and has supported us with the XGrant Prize and other resources.\n\n##Job Description\nOneSec is building one of the largest machine learning projects in the drone industry.\nWith our own photorealistic flight simulator, and a fleet of prototype drones, we have built one of the largest 3d perception dataset in the world, and we are building a large computer cluster of NVIDIA and Tenstorrent chips to scale up our machine learning to GPT-Scale.\n\n####Your job has 3 components:\n* Neural network training and optimization\n* Dataset management and generation\n* Supporting our hardware team in building up our exaflop-scale machine learning cluster\n\n####Here are some of the Neural Networks you will be building:\n\n-Delivery surface finder:\nA neural net that picks the optimal delivery surface within a balcony or backyard of a customer.\nUsually this will be a table or chair or a section of the floor that has enough clearance.\n\n-OneSec Fruxel Depthmap:\nThis is a convolutional neural network that takes camera images and generates a simple, but highly sophisticated vector representation of the space around the drone. Our pathplanner then uses this depthmap to plan a collision free path for the drone.\n\n-Visual Odometry Model:\nOur control system always needs an accurate understanding of how our drone is moving around from frame to frame.\n\n-Payload Positon tracker:\nWhile delivering the package, our control system needs to know how the package is sliding out of the payload bay. This model simply takes in the camera images and outputs the current location of the package.\n\n-Delivery Clearance Model:\nThis model checks the camera images to see if the scene is safe to approach. We don't fly into a balcony if there's a human or dog in it. And when we approach a restaurant to pickup a package, we make sure the scene is clear of humans, pets etc.\n\n\n###Requirements\n* The most important thing is that you are excited about this project, and like the mission of our company.\n* Highly knowledgeable about machine learning and neural networks. Both practical and theoretical.\n* Experience with computer vision and convolutional networks\n* Experience with PyTorch and TensorFlow\n* Good computer skills, and general tech savvy: you will do many tasks like setting up recording devices to record datasets, creating small python programs for dataset labelling and management, post processing large image datasets etc.\n* Computer programming experience in other areas is helpful\t\n\nBe sure to mention the words **AUTHOR EXCHANGE MARKET** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words\tto find applicants that read this and see they're human.\n\n\t\n\n#Salary and compensation\nNo salary data published by company so we estimated salary based on previous jobs related to . $20,000 — $100,000/year\n\n\n### Location\nEastern Europe, Latin America, South Asia, Middle East/africa<br>",
+      "excerpt": "**Tags:** #machine-learning #pytorch #tensorflow #computer-vision #ml #deep-learning #python #data-science #engineer **Published on:** October 31, 2021 **Original Job Post:** https://remoteOK.io/remote-jobs/106921-rem...",
+      "issueState": "open",
+      "contentHash": "b6b9a9bc513b64d6e28b98191f70a7ded5d31ff5a5a7ce60672de714e48ab366",
+      "repository": "remote-job-boards/software-engineering",
+      "repositoryUrl": "https://github.com/remote-job-boards/software-engineering",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "lang-python",
+        "remoteok.io"
+      ],
+      "author": {
+        "id": "remote-job-board",
+        "name": "remote-job-board",
+        "handle": "remote-job-board",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67670454?v=4"
+      },
+      "community": {
+        "id": "remote-job-boards",
+        "name": "remote-job-boards",
+        "avatarUrl": "https://github.com/remote-job-boards.png?size=80",
+        "repository": "remote-job-boards/software-engineering",
+        "url": "https://github.com/remote-job-boards/software-engineering"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 20000,
+        "max": 100000,
+        "period": "month"
+      },
+      "createdAt": "2021-11-03T01:09:56Z",
+      "updatedAt": "2021-11-03T01:09:56Z",
+      "url": "https://github.com/remote-job-boards/software-engineering/issues/7496",
+      "sourceType": "github-issue",
+      "sourceId": "remote-job-boards/software-engineering#7496"
+    },
+    "gh_79b6fce47eaf1a4e1cc979da": {
+      "id": "gh_79b6fce47eaf1a4e1cc979da",
+      "title": "这里的排版真的很乱....",
+      "description": "",
+      "excerpt": "这里的排版真的很乱....",
+      "issueState": "open",
+      "contentHash": "b8d1167abac81f2b491957e8fe6b001aaf40109f2bae0ee8772dc866dc3fbbf5",
+      "repository": "android-cn/android-jobs",
+      "repositoryUrl": "https://github.com/android-cn/android-jobs",
+      "region": "Asia",
+      "country": "China",
+      "tags": [],
+      "author": {
+        "id": "marionxue",
+        "name": "marionxue",
+        "handle": "marionxue",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20356700?v=4"
+      },
+      "community": {
+        "id": "android-cn",
+        "name": "android-cn",
+        "avatarUrl": "https://github.com/android-cn.png?size=80",
+        "repository": "android-cn/android-jobs",
+        "url": "https://github.com/android-cn/android-jobs"
+      },
+      "createdAt": "2019-03-30T12:11:49Z",
+      "updatedAt": "2019-03-30T12:11:49Z",
+      "url": "https://github.com/android-cn/android-jobs/issues/329",
+      "sourceType": "github-issue",
+      "sourceId": "android-cn/android-jobs#329"
+    }
+  }
+}

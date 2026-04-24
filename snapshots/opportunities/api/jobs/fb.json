@@ -1,0 +1,114 @@
+{
+  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "items": {
+    "gh_fb174104f5fcd15130abb5c5": {
+      "id": "gh_fb174104f5fcd15130abb5c5",
+      "title": "[Intermediate]: add deterministic test coverage for evaluate_jobs sidecar",
+      "description": "### 🧩 Intermediate Contributors\nThis issue is intended for contributors who already have experience with this repository\nand the contribution workflow.\n\nYou should feel comfortable:\n- Navigating `scripts/update_jobs.py`, `config.yml`, and `tests/`\n- Understanding how `filter_jobs()`, `deduplicate_jobs()`, and `categorize_job()` work\n- Following existing patterns without step-by-step guidance\n- Writing non-trivial pytest tests with mocking\n\n> [!IMPORTANT]\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 🐞 Problem Description\n`scripts/evaluate_jobs.py` is part of the published analytics sidecar path, but it has little to no direct test coverage for:\n- eligibility gating logic (`_is_eligible`)\n- scoring heuristics (`_score_job`)\n- output artifact shape and metadata consistency in `main()`\n\nThis creates risk that silent scoring/contract regressions ship unnoticed.\n\n### 💡 Expected Solution\nAdd deterministic tests covering:\n- `_is_eligible` include/exclude behavior for closed/malformed jobs\n- `_score_job` score/confidence bounds and reason-code generation\n- `main()` behavior with a temporary `docs/jobs.json` fixture, asserting generated artifact shape and key metadata fields\n\nKeep tests network-free and deterministic. Do not change scoring policy in this issue.\n\n### ✅ Acceptance Criteria\n- [ ] Problem is resolved per the description above\n- [ ] Edge cases handled: None, NaN, empty string, Unicode, malformed data\n- [ ] All existing `pytest tests/` pass\n- [ ] New tests added for changed logic (deterministic — no live network calls)\n- [ ] `pre-commit run --all-files` passes\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)\n\n### 🔗 Additional Context\n- Target module: `scripts/evaluate_jobs.py`\n- Related contract helpers: `scripts/contracts.py`\n- Related integrity checks: `scripts/quality.py`",
+      "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
+      "issueState": "open",
+      "contentHash": "49937d3f1487ccd1ea8ed9d69a95e88170a71bdc138e6b3e96c685494c9e942e",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "intermediate"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-10T19:59:24Z",
+      "updatedAt": "2026-04-10T20:28:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/248",
+      "sourceType": "github-issue",
+      "sourceId": "ambicuity/New-Grad-Jobs#248"
+    },
+    "gh_fbcd0549308f93fa2ecbe812": {
+      "id": "gh_fbcd0549308f93fa2ecbe812",
+      "title": "[REMOTE] Full-stack Developer Grader at Shaw and Partners",
+      "description": "**Who we are and what we do**\nShaw and Partners is a software development provider for high-profile startups with approximately 25 remote staff. We are also incubating two startups. [Christopher Shaw](https://chrisshaw.me/), the founder and CEO, would be your manager.\n\nWe are seeking a highly skilled **Full Stack Developer to join our team as a Grader**, responsible for evaluating, reviewing, and assessing coding assignments and projects submitted by candidates. In this role, you will utilize your expertise in full-stack development to ensure submissions meet technical and quality.\n\n**Required:**\n\n- English (Fluency in reading and writing, speaking can be intermediate)\n- Proficiency in front-end technologies: HTML, CSS, JavaScript (and frameworks like React)\n- Strong knowledge of back-end development with languages like Node.js, Python\n- Solid Computer Science fundamentals knowledge (algorithms, data structures, concurrency, etc.) \n\n**Differentials:**\n\n- Previous experience in teaching, mentoring, or grading is a plus\n\n**Responsibilities (Assessment and Grading)**\n\n- Conduct technical interviews\n- Review technical tests\n- Send feedback on the candidate's technical skills to the hiring manager\n- Ensure submitted work aligns with modern frameworks, tools, and industry trends\n- Validate the functionality, scalability, and maintainability of code submissions\n\nApply here: https://shawandpartners.com/opt/?jobId=116\n\n![FS grader](https://github.com/user-attachments/assets/1a961d5f-c573-4b5c-a6ba-61968f313be7)",
+      "excerpt": "**Who we are and what we do** Shaw and Partners is a software development provider for high-profile startups with approximately 25 remote staff. We are also incubating two startups. [Christopher Shaw](https://chrissha...",
+      "issueState": "open",
+      "contentHash": "260f9ee7a7dc8039f279fa65d1eafd8f7c53624915529a61f17accf3329a5960",
+      "repository": "Empregos-dev/Vagas-dev",
+      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remote",
+        "react",
+        "node",
+        "python",
+        "java",
+        "staff",
+        "data"
+      ],
+      "author": {
+        "id": "Thuanysb",
+        "name": "Thuanysb",
+        "handle": "Thuanysb",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/186589723?v=4"
+      },
+      "community": {
+        "id": "Empregos-dev",
+        "name": "Empregos-dev",
+        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
+        "repository": "Empregos-dev/Vagas-dev",
+        "url": "https://github.com/Empregos-dev/Vagas-dev"
+      },
+      "companyName": "Shaw and Partners",
+      "createdAt": "2024-12-27T00:59:41Z",
+      "updatedAt": "2024-12-27T00:59:44Z",
+      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/90",
+      "sourceType": "github-issue",
+      "sourceId": "Empregos-dev/Vagas-dev#90"
+    },
+    "gh_fbd749465d81bb08a07bf3d2": {
+      "id": "gh_fbd749465d81bb08a07bf3d2",
+      "title": "[Santos - SP] Happy Code : Professor(a) programação e robótica para Crianças e Adolescentes",
+      "description": "Descrição da vaga\n\nA Happy Code, escola de Inovação e Tecnologia para crianças e adolescentes, está com vagas abertas para unidades de Santos!\n\nEstamos contratando Instrutores para ministrar cursos de programação de jogos e apps, robótica, modelagem/animação gráfica e produção/edição de vídeos, para crianças e adolescentes de 5 a 17 anos.\n\nProcuramos jovens apaixonados pelo conhecimento, e que gostem de aprender, ensinar e lidar com crianças e adultos acima de 60 anos!\n\nRequisitos: \n- Ser graduado ou estar cursando ensino superior (noturno) em cursos relacionados a Ciência da Computação\n- Possuir bons conhecimentos em ao menos uma linguagem de programação\n- Conhecer o universo de jogos, apps e canais YouTube preferidos na faixa etária dos nossos alunos\n- Ter boa capacidade de comunicação e relacionamento na equipe e com pais de alunos\n- Ter disposição para colaborar com o time comercial na captação e conversão de matrículas\n\nExperiências prévias como instrutor e na área comercial serão diferenciais importantes\n\nSalário Hora/Aula acima do mercado + VT \nComissionamento sobre rematrículas, atrelada a metas de desempenho individuais e da unidade\n\nJornada: Aos Sábados, das 8h30 às 17h00\nEmail para: carolina.sessa@happycodeschool.com",
+      "excerpt": "Descrição da vaga A Happy Code, escola de Inovação e Tecnologia para crianças e adolescentes, está com vagas abertas para unidades de Santos! Estamos contratando Instrutores para ministrar cursos de programação de jog...",
+      "issueState": "open",
+      "contentHash": "5cd0fd6846ab221314ee9dc68e60749ebbf2a7c5bdf6522637afc8ec0f1de1c5",
+      "repository": "baixada/Vagas",
+      "repositoryUrl": "https://github.com/baixada/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [],
+      "author": {
+        "id": "HappyCodeSantos",
+        "name": "HappyCodeSantos",
+        "handle": "HappyCodeSantos",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35539119?v=4"
+      },
+      "community": {
+        "id": "baixada",
+        "name": "baixada",
+        "avatarUrl": "https://github.com/baixada.png?size=80",
+        "repository": "baixada/Vagas",
+        "url": "https://github.com/baixada/Vagas"
+      },
+      "createdAt": "2018-01-17T18:30:16Z",
+      "updatedAt": "2018-02-22T16:02:38Z",
+      "url": "https://github.com/baixada/Vagas/issues/6",
+      "sourceType": "github-issue",
+      "sourceId": "baixada/Vagas#6"
+    }
+  }
+}

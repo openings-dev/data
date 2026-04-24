@@ -1,7 +1,7 @@
 import { sha256Json } from "../../shared/utils/hash.mjs";
 
 /**
- * @param {{generatedAt: string; catalogGeneratedAt: string | null; request: Record<string, unknown>; repositoriesRequested: number; repositoriesScanned: number; failedRepositories: Array<Record<string, unknown>>; countrySnapshots: Array<any>;}} params
+ * @param {{generatedAt: string; catalogGeneratedAt: string | null; request: Record<string, unknown>; repositoriesRequested: number; repositoriesScanned: number; failedRepositories: Array<Record<string, unknown>>; countrySnapshots: Array<any>; staticApiFiles?: Array<any>;}} params
  */
 export function buildGlobalIndex(params) {
   const {
@@ -12,6 +12,7 @@ export function buildGlobalIndex(params) {
     repositoriesScanned,
     failedRepositories,
     countrySnapshots,
+    staticApiFiles = [],
   } = params;
 
   const countries = countrySnapshots
@@ -55,6 +56,10 @@ export function buildGlobalIndex(params) {
         failedRepositories: failedRepositories.length,
       },
       failedRepositories,
+      staticApi: {
+        manifestFile: "api/manifest.json",
+        files: staticApiFiles.map((file) => file.relativePath).sort(),
+      },
       countries,
     },
   };

@@ -15,6 +15,14 @@ export async function collectPreviousSnapshotFiles(snapshotRootDir) {
 
   files.add("index.json");
 
+  if (Array.isArray(globalIndex.staticApi?.files)) {
+    for (const file of globalIndex.staticApi.files) {
+      if (typeof file === "string") {
+        files.add(file);
+      }
+    }
+  }
+
   for (const country of globalIndex.countries) {
     if (typeof country.indexFile !== "string") {
       continue;

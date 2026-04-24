@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "items": {
+    "gh_57ed728934c67b37c0bed798": {
+      "id": "gh_57ed728934c67b37c0bed798",
+      "title": "[100% Remoto] QA Jr na Codeleap",
+      "description": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap.\n\nEssa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática trabalhando com produtos reais e clientes internacionais.\n\nNo dia a dia, você vai testar aplicações web e mobile, identificar bugs, garantir a qualidade das entregas e trabalhar próximo de desenvolvedores e produto.\n\n## Local de trabalho\n\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência inicial com testes manuais (projetos pessoais, acadêmicos ou profissionais)\n- Inglês intermediário (leitura e escrita para documentação e bug reports)\n- Noção básica de desenvolvimento web/mobile (especialmente React / React Native)\n- Boa comunicação e vontade de aprender\n\n**Desejáveis**\n- Conhecimento básico em testes automatizados\n- Experiência com organização de casos de teste e documentação\n- Interesse em produto e experiência do usuário\n\n**Diferenciais**\n- Experiência prévia em projetos reais (mesmo que pequenos)\n- Perfil detalhista e curioso\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Trabalho 100% remoto\n- Horário flexível\n- Ambiente colaborativo e informal\n\n**Diferenciais**\n- Projetos reais com clientes internacionais (UK/EU)\n- Crescimento rápido com possibilidade de assumir mais responsabilidades\n- Mentoria e feedback constante\n- Aulas semanais de conversação em inglês\n- Bônus por performance (possibilidade de 13º e 14º salário)\n\n## Range Salarial\n\nA vaga paga entre R$2.000,00 e R$3.000,00 reais.\n\n## Sobre a empresa\n\nA CodeLeap é uma software house com base em Londres, trabalhando com clientes internacionais. Somos um time pequeno, focado em qualidade, aprendizado constante e desenvolvimento rápido dos nossos membros.\n\n## Como se candidatar\n\n- Candidatar através do formulário:\nhttps://docs.google.com/forms/d/e/1FAIpQLScMTarmAMcuEt51vYXX_5RGS4AfsYQD_kqDWaqgRkMf5uRxyQ/viewform\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada etapa do processo.\n\nE-mail para contato em caso de dúvidas: vini.garcia@codeleap.co.uk\n\n## Labels\n\n- PJ\n- Júnior\n- Remoto\n- Exterior\n```",
+      "excerpt": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap. Essa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática tra...",
+      "issueState": "open",
+      "contentHash": "ffc66f263900c7bb2c29f235523a4a5951900b595da1d4d24073a35871374c71",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "remoto",
+        "estágio",
+        "exterior",
+        "júnior",
+        "inglês"
+      ],
+      "author": {
+        "id": "dudamassena",
+        "name": "dudamassena",
+        "handle": "dudamassena",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/278477713?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Trabalho 100% remoto",
+      "createdAt": "2026-04-22T17:49:17Z",
+      "updatedAt": "2026-04-24T09:55:31Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1250",
+      "sourceType": "github-issue",
+      "sourceId": "qa-brasil/vagas#1250"
+    },
+    "gh_572dce76ffa409fc0e7e05fe": {
+      "id": "gh_572dce76ffa409fc0e7e05fe",
+      "title": "[Beginner]: add regression tests for artifact integrity failure modes",
+      "description": "### 🐥 Beginner Friendly\nWelcome! This is a **Beginner Issue** — a natural next step after Good First Issues.\n\nIt expects you to:\n- Read existing code and follow its patterns\n- Own a small implementation decision\n- Write or extend tests\n\n**Difficulty:**\n- Basic Python (reading and writing functions) required\n- No external API experience needed\n- Familiarity with the contribution workflow expected\n\n> [!IMPORTANT]\n> We recommend completing at least one Good First Issue before attempting a Beginner Issue.\n>\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 👾 Description of the Issue\n`run_integrity_checks()` in `scripts/quality.py` is a key guardrail for publish safety, but several important failure paths are not explicitly regression-tested end-to-end.\n\nAdd targeted tests for scenarios such as:\n- missing required artifacts (`docs/jobs.json`, `docs/health.json`)\n- invalid JSON payloads\n- jobs/health count mismatch detection\n- contract validation error propagation in report payload\n\nFocus on deterministic, temp-directory-based tests only (no live network calls).\n\n### ✅ Acceptance Criteria\n- [ ] The change is implemented in the correct file/function\n- [ ] Edge cases are handled (None, empty string, NaN, Unicode)\n- [ ] All existing tests pass (`make test`)\n- [ ] New tests are added covering the changed behavior\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)",
+      "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
+      "issueState": "open",
+      "contentHash": "62e698455964e68b72cf2573a85596f7d23ac7052f25af270cd81db9a062a26b",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "beginner"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-10T19:59:24Z",
+      "updatedAt": "2026-04-11T15:56:23Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/249",
+      "sourceType": "github-issue",
+      "sourceId": "ambicuity/New-Grad-Jobs#249"
+    },
+    "gh_5791db11bff49b64cbc3e58f": {
+      "id": "gh_5791db11bff49b64cbc3e58f",
+      "title": "New column for popular tag to help search",
+      "description": "given the recent changes in tech related to AI I'd suggest to have a way to figure out AI focused companies.\n\nand in retrospective maybe it would be nice to have a column for popular tags\n\ni give you a list of some possible tags based on chat gpt although i think this list could be improved \n\nthis could be added to the top of the document so people could use it\n\n`ai` `machine_learning` `data_science` `cloud` `devops` `cybersecurity` `frontend` `backend` `fullstack` `mobile` `ui_ux` `product_management` `qa_testing` `blockchain` `iot` `automation` `sustainability`",
+      "excerpt": "given the recent changes in tech related to AI I'd suggest to have a way to figure out AI focused companies. and in retrospective maybe it would be nice to have a column for popular tags i give you a list of some poss...",
+      "issueState": "open",
+      "contentHash": "55cd317b4e21ac63ab8a145c34fc51580c5bf84e1681062abcea93e23a979060",
+      "repository": "marmelo/tech-companies-in-portugal",
+      "repositoryUrl": "https://github.com/marmelo/tech-companies-in-portugal",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "frontend",
+        "backend",
+        "fullstack",
+        "devops",
+        "data"
+      ],
+      "author": {
+        "id": "navyseai",
+        "name": "navyseai",
+        "handle": "navyseai",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3933250?v=4"
+      },
+      "community": {
+        "id": "marmelo",
+        "name": "marmelo",
+        "avatarUrl": "https://github.com/marmelo.png?size=80",
+        "repository": "marmelo/tech-companies-in-portugal",
+        "url": "https://github.com/marmelo/tech-companies-in-portugal"
+      },
+      "createdAt": "2025-10-02T17:00:34Z",
+      "updatedAt": "2025-10-02T17:01:27Z",
+      "url": "https://github.com/marmelo/tech-companies-in-portugal/issues/442",
+      "sourceType": "github-issue",
+      "sourceId": "marmelo/tech-companies-in-portugal#442"
+    }
+  }
+}

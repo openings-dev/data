@@ -39,13 +39,20 @@ export function mapIssueToOpportunity(issue, repository) {
   const description = buildDescription(body);
   const combinedText = `${issue.title ?? ""}\n${body}`;
   const owner = repository.owner || repository.repository.split("/")[0] || "unknown";
+  const sourceId = `${repository.repository}#${issue.number}`;
+  const publicId = `gh_${sha256Json({
+    source: "github-issue",
+    repository: repository.repository,
+    number: issue.number,
+  }).slice(0, 24)}`;
   const contentHash = sha256Json({
     title: issue.title ?? "",
     body: body ?? "",
   });
 
   return {
-    id: `${repository.repository}#${issue.number}`,
+    id: publicId,
+    sourceId,
     title: issue.title ?? "Untitled",
     description,
     excerpt: buildExcerpt(issue.title, issue.body),

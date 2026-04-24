@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "items": {
+    "gh_bf70dc9f783bd9e91215da56": {
+      "id": "gh_bf70dc9f783bd9e91215da56",
+      "title": "Feature: Social Meta Tags (OpenGraph) for Jobs",
+      "description": "**Issue :** \n\nWhen users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data.\nImprovement: Implement dynamic metadata in the Next.js layout.tsx or individual page components to improve social sharing visibility.\n\n**File Path** :  `open-source-jobs/app/layout.tsx`\n\n**Code logic :**\n\n```\nexport const metadata = {\n  title: 'Open Source Jobs',\n  description: 'Find jobs at companies building open source software.',\n  openGraph: {\n    images: ['/og-image.svg'],\n  },\n};\n```",
+      "excerpt": "**Issue :** When users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data. Improvemen...",
+      "issueState": "open",
+      "contentHash": "e920180e02443af31c31f89d3e048d15c2662c6f00e812dbd7ca62cf61b265e7",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:31:05Z",
+      "updatedAt": "2026-02-19T04:01:13Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/162",
+      "sourceType": "github-issue",
+      "sourceId": "timqian/open-source-jobs#162"
+    },
+    "gh_bf09c7d748b34bd02d2443a5": {
+      "id": "gh_bf09c7d748b34bd02d2443a5",
+      "title": "Vaga: Desenvolvedor(a) Frontend Júnior – React.js",
+      "description": "# 🚀 Vaga: Desenvolvedor(a) Frontend Júnior – React.js\n\n## Sobre a empresa\nA **contabilidade.com** é uma empresa de tecnologia focada em criar software contábil para simplificar a vida de empreendedores no Brasil. Somos um time pequeno, enxuto e altamente colaborativo, onde produto e engenharia trabalham juntos diariamente.\n\nAqui você vai ter contato com um **produto real em produção**, aprender como decisões técnicas impactam clientes de verdade e evoluir junto com o time.\n\n---\n\n## 🎯 O que você vai fazer\n- Desenvolver interfaces usando **React.js**\n- Trabalhar com componentes reutilizáveis, props e estado\n- Consumir **APIs REST**\n- Ajustar layouts e estilos seguindo design e UX\n- Participar de **code reviews** e aprender padrões do time\n- Versionar código usando **Git**\n\n> 💡 Esta é uma vaga **júnior**. Existe uma curva de aprendizado clara e você terá acompanhamento, mas também precisará estudar e evoluir com autonomia.\n\n---\n\n## ✅ Requisitos obrigatórios\n- Conhecimento básico em **HTML, CSS e JavaScript**\n- Noções iniciais de **React.js** (componentes, props, estado)\n- Vontade real de aprender e evoluir tecnicamente\n- Boa comunicação e abertura para feedback\n- Organização e responsabilidade com prazos\n\n---\n\n## ⭐ Diferenciais (não obrigatórios)\n- Projetos pessoais ou cursos em React\n- Noções de consumo de API (`fetch`, `axios`)\n- Conhecimento básico de **Git/GitHub**\n- Interesse em boas práticas e performance frontend\n\n---\n\n## 📚 O que você vai aprender aqui\n- React aplicado em **ambiente de produção**\n- Organização de projetos frontend reais\n- Integração frontend ↔ backend\n- Build, deploy e ambientes com **Cloudflare**\n- Como o frontend impacta métricas de negócio e experiência do usuário\n\n---\n\n## 💼 Modelo de trabalho\n- 💻 **Remoto**\n- 🕘 Horário comercial\n- 📄 Contrato PJ\n\n\n---\n\n## 📩 Como se candidatar\nEnvie seu **CV ou LinkedIn**, para **talentos@contabilidade.com** incluindo:\n- Um breve resumo da sua experiência\n- Links de projetos (GitHub, portfólio ou similares)\n\n---\n\nSe você quer sair do básico, aprender React de verdade e trabalhar em um produto real, essa vaga é para você 🚀",
+      "excerpt": "# 🚀 Vaga: Desenvolvedor(a) Frontend Júnior – React.js ## Sobre a empresa A **contabilidade.com** é uma empresa de tecnologia focada em criar software contábil para simplificar a vida de empreendedores no Brasil. Somo...",
+      "issueState": "open",
+      "contentHash": "960c3e75f18f5d29f0ba4ea0323007913152af03a2fa0662c00998fba2c44cbd",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "🏢 remoto",
+        "⚖️ pj",
+        "👦 junior"
+      ],
+      "author": {
+        "id": "marcelosv",
+        "name": "marcelosv",
+        "handle": "marcelosv",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8119208?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "createdAt": "2025-12-30T13:45:25Z",
+      "updatedAt": "2026-03-18T10:37:00Z",
+      "url": "https://github.com/react-brasil/vagas/issues/2993",
+      "sourceType": "github-issue",
+      "sourceId": "react-brasil/vagas#2993"
+    },
+    "gh_bf55e273bcd1fcc7a52d3299": {
+      "id": "gh_bf55e273bcd1fcc7a52d3299",
+      "title": "🚀 Vaga 🚀 OPORTUNIDADE JAVA PLENO 100% REMOTO - Caixa Econômica 🏦 #java #remoto #vaga #vagas #job #dev #remote 📍 Remoto 🚀",
+      "description": "# 🚀 OPORTUNIDADE JAVA PLENO 100% REMOTO - Caixa Econômica 🏦 #java #remoto #vaga #vagas #job #dev #remote\n\n- 📍 Localização: Remoto\n- 📈 Nível: pleno\n- 📃 Contrato: clt\n- 💰 Salário: R$ 8.000,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\nEstamos com uma oportunidade de desenvolvedor java / angular pleno para atuar numa grande empresa no contrato da Caixa Econômica. \n\nAtuação no sistema do PIX da Caixa 🤑\n\nUma oportunidade estável e de grande crescimento. 🚀\n\n\n## Atividades e responsabilidade:\nAtuação no desenvolvimento do sistema do PIX da Caixa. 🤑\n\n\n## Requisitos:\nNecessário a partir de 5 anos de experiência comprovada em java ☕.\n\nImportante experiência com java e angular. 💻\n\nGraduação completa na área de TI. 🎓\n\n\n## Benefícios:\nBenefícios CLT 💼\n\n## Mais Informações:\nContratação CLT.\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/-oportunidade-java-pleno-100-remoto-caixa-economica-java-remoto-vaga-vagas-job-dev-remote-1083)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
+      "excerpt": "# 🚀 OPORTUNIDADE JAVA PLENO 100% REMOTO - Caixa Econômica 🏦 #java #remoto #vaga #vagas #job #dev #remote - 📍 Localização: Remoto - 📈 Nível: pleno - 📃 Contrato: clt - 💰 Salário: R$ 8.000,00 - 🏃‍♂️ Corre para se ...",
+      "issueState": "open",
+      "contentHash": "abad9fb2c466698ab96c128b74fa5b43568acba59791a8ea5cc25b224dbfacc8",
+      "repository": "Empregos-dev/Vagas-dev",
+      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "clt",
+        "pleno",
+        "java"
+      ],
+      "author": {
+        "id": "ecossistemadev",
+        "name": "ecossistemadev",
+        "handle": "ecossistemadev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
+      },
+      "community": {
+        "id": "Empregos-dev",
+        "name": "Empregos-dev",
+        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
+        "repository": "Empregos-dev/Vagas-dev",
+        "url": "https://github.com/Empregos-dev/Vagas-dev"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 8000,
+        "period": "year"
+      },
+      "createdAt": "2024-10-31T07:56:03Z",
+      "updatedAt": "2024-10-31T07:56:03Z",
+      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/83",
+      "sourceType": "github-issue",
+      "sourceId": "Empregos-dev/Vagas-dev#83"
+    },
+    "gh_bfefc943815a462142e41798": {
+      "id": "gh_bfefc943815a462142e41798",
+      "title": "[Remoto] Flutter Developer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/vagas/flutter-developer-214842859?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open) com o pop-up personalizado de candidatura. 👋\n<p>A <strong>OZ Technology </strong>busca <strong><ins>Mobile Flutter Developer</ins></strong> para compor seu time!</p>\n<p>A OZ Technology garante eficiência, controle da informação e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo técnico, know-how e pronto atendimento em qualquer horário. Nossa crença enxerga o crescimento e o avanço como consequência de um ambiente integrado, acessível e open-source, visando transformar isso em realidade para todos.</p>\n<p><strong>Atividades e responsabilidades:</strong></p>\n<ul>\n<li>Correção de Bugs ou ajustes em sistemas dos clientes;</li>\n<li>Implementação de features e melhorias;</li>\n<li>Replicar telas do Figma ou outro software e implementar regras de negócio;</li>\n<li>Atualizar documentação.</li>\n</ul>\n\n## OZ Technology: \n <p>A OZ Technology garante eficiência, controle da informação e aumento da lucratividade, facilitando a vida de empresas em diversos setores com profissionalismo técnico, know-how e pronto atendimento em qualquer horário. Desde sua concepção, a empresa cresceu de forma constante, baseando-se em decisões voltadas à sua missão central: a satisfação total dos nossos clientes, apresentando sempre soluções de alta tecnologia, última geração, baixo custo e que colaborem para o desenvolvimento tecnológico em âmbito nacional e mundial. Nossa crença enxerga o crescimento e o avanço como consequência de um ambiente integrado, acessível e open-source, visando transformar isso em realidade para todos.</p>\n</p>\n\n ## Habilidades: \n - MySQL \n- MVC \n- MVVM \n- SOLID \n- Flutter \n- Dart \n- Clean Architecture \n- PHP \n- Laravel\n## Local: \n 100% Remoto\n## Requisitos: \n - Vontade de aprender e estudar novas tecnologias; \n- Conhecimento sobre MVC e MVVM; \n- Experiência utilizando flutter com obrigatoriedade de conhecimento em null safety; \n- Conhecimento em Hive ou algum contato com o banco.\n## Diferenciais: \n - Diferencial conhecimento em algum outro banco de dados interno (sqflite); \n- Utilizar todos os widgets disponíveis para uma criação de layout; \n- Conhecimento em SOLID, inversão de dependência, injeção de dependências e service/repository; \n- Saber utilizar o getx: get_connect, state manager, injeção de dependências, bindstream; \n- Saber utilizar alguns patterns como: singleton e factory, por exemplo; \n- Utilizar Git, preferencialmente metodologias de git flow; \n- Conhecimento em PHP/Laravel é um diferencial.\n## Benefícios: \n - Welcome Kit + Homeoffice Kit; \n- Gympass (academia); \n- Wellness Coach (mente, corpo e sono); \n- Cíngulo (saúde mental); \n- Assistência Médica; \n- Assistência Odontológica; \n- Seguro de Vida; \n- Custeio de capacitações e certificações (conforme política interna).\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Flutter Developer na OZ Technology](https://coodesh.com/vagas/flutter-developer-214842859?utm_source=github&utm_medium=FlutterComunidadeBR-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Categoria\nMobile",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "0149cd88f30348ed24564d0993e2281232094b2c49232285e16774c68b230775",
+      "repository": "FlutterComunidadeBR/vagas",
+      "repositoryUrl": "https://github.com/FlutterComunidadeBR/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "blankapf",
+        "name": "blankapf",
+        "handle": "blankapf",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108537315?v=4"
+      },
+      "community": {
+        "id": "FlutterComunidadeBR",
+        "name": "FlutterComunidadeBR",
+        "avatarUrl": "https://github.com/FlutterComunidadeBR.png?size=80",
+        "repository": "FlutterComunidadeBR/vagas",
+        "url": "https://github.com/FlutterComunidadeBR/vagas"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2022-10-10T14:37:58Z",
+      "updatedAt": "2022-10-10T14:37:58Z",
+      "url": "https://github.com/FlutterComunidadeBR/vagas/issues/50",
+      "sourceType": "github-issue",
+      "sourceId": "FlutterComunidadeBR/vagas#50"
+    },
+    "gh_bf65ea5233b8313adb8c299f": {
+      "id": "gh_bf65ea5233b8313adb8c299f",
+      "title": "[Remoto] Pleno .NET Developer @ DB1 Group",
+      "description": "## Nossa empresa\n\nSomos um grupo de empresas de tecnologia nascido em Maringá, interior do Paraná, com 20 anos de experiência em desenvolvimento de software voltado para soluções de grandes empresas. Atuamos em diversas frentes de mercado: com produtos ([ANYMARKET](https://anymarket.com.br/), [CONSIGNET](https://www.consignet.com.br/), [EIVE](https://eive.com.br/)) e também com serviços e projetos personalizados da nossa Fábrica de Software - [DB1 Global Software](https://www.db1.com.br/) . E estamos em expansão !!!🚀🚀🚀\n\nSomos colaboradores distribuídos em todo o Brasil e na Argentina, com escritório em Maringá / PR, Campo Grande / MS e Presidente Prudente / SP e atuamos também de forma remota (home office) desde 2017. Estamos há 12 anos consecutivos entre as Melhores Empresas para Trabalhar, segundo o GPTW, com reconhecimento pela instituição em 2020 como empresa referência na prática de escutar o colaborador. Em 2121, fomos reconhecidos, pela segunda vez consecutiva, pela Financial Times como uma das [Empresas que Mais Crescem das Américas](https://www.ft.com/content/ac773779-98ba-442d-a1f2-a14f1a67ddfe). \n\nSomos movido por desafios diários, trabalhamos com o conceito de Melhoria Continua. Entendemos que tudo pode ser melhorado, mesmo que ainda não saibamos como! Todos (as) aqui temos autonomia e voz para dar feedbacks, testar coisas novas e ser parte dessa mudança. Aqui aprendemos uns com os outros diariamente, com um forte senso de equipe. DB1 é pra quem não quer ser mais um!\n\n## Descrição da vaga\n\nTemos diversas oportunidades de atuação na DB1 para quem programa em .NET, principalmente com projetos de abrangência nacional em nossa Fábrica de Software. Em todos eles você terá a oportunidade de trabalhar com práticas de desenvolvimento ágil, pair programming, integração contínua, desenvolvimento orientado a testes (TDD) e boas práticas de Clean Code.\n\n## Local\n\nRemoto ou Escritório, Maringá - Paraná\n\n## Requisitos\n\n**Obrigatórios:**\n\n- Experiência com .NET Core;\n- Experiência prévia com desenvolvimento de sistemas web;\n- Experiência com Metodologias Ágeis;\n- Ser uma pessoa flexível e por dentro das novidades tecnológicas; \n- Grande capacidade de aprendizado para novas práticas, tecnologias, linguagens de programação e culturas de engenharia; \n- Energia e desejo de fazer a diferença!\n- Vontade de compartilhar conheciment. \n\n**Desejáveis:**\n\n- Conhecimento em Angular 2+;\n- Vivência com desenvolvimento e implementação de soluções de software em produção; \n- Espanhol intermediário/avançado;\n- Inglês intermediário/avançado.\n\n\n## Benefícios\n\n- Vale alimentação e/ou vale refeição;\n- Plano de Saúde e plano odontológico;\n- Uma trilha de carreira com Plano de Desenvolvimento Individual (PDI) e feedbacks constantes para te ajudar na sua evolução profissional;\n- Horários flexíveis!;\n- Convênio com farmácia Droga Raia, com desconto para colaboradores;\n- Pra celebrar seu aniversário, é possível sair um pouco mais cedo no dia para comemorar com quem quiser e organizar o que for necessário 🥳\n- Aqui você terá a oportunidade de aprender coisas novas - seja no dia-a-dia, em um Programa de Mentoria ou em um desafio do nosso programa de gamificação Mestre dos Códigos.\n- Home office como modelo de contratação. Atuamos com essa possibilidade desde 2017. Além de viabilizar, nossos colaboradores que não são 100% Home Office, trabalhar de casa em algum dia da semana quando necessário.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\n[Clique aqui para se inscrever na oportunidade](https://vagasdb1.recruiterbox.com/jobs/fk0j2ch?source=Github) , envie seus dados e nossa equipe de recrutamento e seleção entrará em contato.\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 5 dias após cada processo.\nE-mail para contato em caso de não haver resposta: talentos@db1.com.br\n\n## Labels\n\n#### Alocação\n- Alocado\n- Remoto\n\n#### Regime\n- CLT\n\n#### Nível\n- Pleno",
+      "excerpt": "## Nossa empresa Somos um grupo de empresas de tecnologia nascido em Maringá, interior do Paraná, com 20 anos de experiência em desenvolvimento de software voltado para soluções de grandes empresas. Atuamos em diversa...",
+      "issueState": "open",
+      "contentHash": "18c39b188ead0aa0b37ddaae024147bc8655b1392f675579770bf3c435d1ab64",
+      "repository": "dev-pp/vagas",
+      "repositoryUrl": "https://github.com/dev-pp/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "principal",
+        "data"
+      ],
+      "author": {
+        "id": "alissongusmao",
+        "name": "alissongusmao",
+        "handle": "alissongusmao",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77692315?v=4"
+      },
+      "community": {
+        "id": "dev-pp",
+        "name": "dev-pp",
+        "avatarUrl": "https://github.com/dev-pp.png?size=80",
+        "repository": "dev-pp/vagas",
+        "url": "https://github.com/dev-pp/vagas"
+      },
+      "createdAt": "2021-04-28T14:30:39Z",
+      "updatedAt": "2021-04-28T14:30:39Z",
+      "url": "https://github.com/dev-pp/vagas/issues/62",
+      "sourceType": "github-issue",
+      "sourceId": "dev-pp/vagas#62"
+    }
+  }
+}

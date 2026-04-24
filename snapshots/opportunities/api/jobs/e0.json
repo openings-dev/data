@@ -1,0 +1,162 @@
+{
+  "generatedAt": "2026-04-24T13:05:11.048Z",
+  "items": {
+    "gh_e040318067d6d162f0f9233e": {
+      "id": "gh_e040318067d6d162f0f9233e",
+      "title": "[Manager] Airbnb - Brazil",
+      "description": "### 🎯 Cargo\n\nEngineering Manager, Cloud Networking (Brasil)\n\n### 🏢 Empresa\n\nAirbnb\n\n### 📊 Nível de Experiência\n\nCoordenação/Gerência\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nNone\n\n### 💰 Faixa Salarial\n\n_No response_\n\n### 📋 Descrição da Vaga\n\nAirbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\n**The Community You Will Join:**\n\nAirbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnb's various functions embody the company's innovative spirit and our fast-moving team is committed to leading as a 21st century company.\n\nThe Networking team within Airbnb’s Cloud Infrastructure org owns the entire Airbnb production network infrastructure. The group is responsible for designing, building and operating the  software and solutions that connect Airbnb users and services, such as traffic proxy and load balancer, service mesh, VPCs and cross-region connectivity, network monitoring and security systems etc. With users around the world, reliability, scalability, efficiency and high availability are our team’s core concerns.\n\n**The Difference You Will Make:**\n\nYou will work closely with peers across Cloud Infra, Security, Reliability, and many other partner teams across the company to deliver an Airbnb network platform that is flexible, efficient, always available, and scales with the needs of the business. As the first Network engineering lead in Airbnb’s Brazil office, you will also have the opportunity to help bootstrap and grow the networking team in our new San Paulo office. This will include day-to-day operations, building the team by hiring top talent, coaching and growing engineers, technical deep dives, community engagement, and strategic planning.\n\n**A Typical Day:** \n\n- Provide meaningful input to technical designs and direct hands-on contributions to projects in the cloud networking space \n- Grow, lead, and manage a small team of talented engineers \n- Support your team's professional growth and maintain high performance through mentorship and coaching\n- Work with tech leads, peers, and partners to define and execute on a coherent vision and roadmap for Airbnb’s cloud network infrastructure and related components\n- Work with open source communities (e.g. istio) to build the next generation service mesh for all Airbnb back-end services\n- Build cross-region gateways and load balancers for global Airbnb services \n- Work with external partners and internal engineering and security teams to deliver edge security systems that protect Airbnb services\n- Nurture a culture of technical quality from design, through code review, to production\n- Build strong partnership and alignment with teams across engineering\n- Nurture relationships with open source communities and external service partners\n\n### ✅ Requisitos Técnicos\n\n```markdown\nYour Expertise:\n\nProfessional fluency in English required\n2+ years of engineering management experience, with 8+ years of relevant software development experience in a fast paced tech environment\nStrong emotional intelligence, empathy, and the ability to effectively connect with colleagues\nExperience with a public cloud provider (AWS, GCP, Azure) and their networking service offerings\nExperience running large scale networking systems and software (e.g. proxies, DNS, gateways)\nExperience with Istio service mesh, k8s and cloud native technologies is a plus\nExcellent communication skills and the ability to work well with teams across the engineering organization (e.g. reliability, compute, security, etc.)\nStrong problem-solving skills and experience leading teams on-call for production infrastructure\nPassionate about efficiency, availability, technical quality and system quality\n```\n\n### 🎁 Benefícios\n\n**Our Commitment To Inclusion & Belonging:**\n\nAirbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.\n\nWe strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: [reasonableaccommodations@airbnb.com](mailto:reasonableaccommodations@airbnb.com). Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process. \n\nWe ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.\n\n### 🛠️ Stack/Tecnologias\n\n**Airbnb Cloud Infrastructure in the Media:**\n\n- Zero-downtime Istio upgrades across thousands of pods/VMs –[ InfoQ coverage ](https://www.infoq.com/news/2025/08/airbnb-istio-upgrade/?utm_source=chatgpt.com)- 2025\n- KubeCon+CloudNativeCon 2024,[ Secure Outgoing Traffic: Building a powerful Internet Egress Gateway for Reliable connectivity](https://kccncna2024.sched.com/event/1i7ps), Edie Yang, [Akshita Agarwal](mailto:akshita.agarwal@airbnb.com). \n- KubeCon+CloudNativeCon 2024, [DNS deep dive in k8s with CoreDNS](https://www.youtube.com/watch?v=lAUmdIGP_fE), Jingming Guo\n- The Airbnb Tech Blog 2023, [Improving Istio Propagation Delay](https://medium.com/airbnb-engineering/improving-istio-propagation-delay-d4da9b5b9f90), Ying Zhu  \n- KubeCon+CloudNativeCon 2022, [Whose packet is it anyway? Life of a packet through service mesh](https://kccncna2022.sched.com/event/182KR/whose-packet-is-it-anyway-life-of-a-packet-through-a-service-mesh-kevin-leimkuhler-buoyant-doug-jordan-airbnb),  Kevin Leimkuhler, Doug Jordan.\n- [Building simplified service mesh API for developers ](https://www.youtube.com/watch?v=ipscJL_hhA0)-2022\n- KubeCon+CloudNativeCon 2021, [Building a multi-cluster/env service mesh at Airbnb](https://kccncna2021.sched.com/event/lV0D/building-a-multi-clusterenv-service-mesh-at-airbnb-weibo-he-stephen-chan-airbnb). Weibo He, Stephan Chan. \n- [10 More Weird Ways to Blow Up Your Kubernetes](https://www.youtube.com/watch?v=4CT0cI62YHk) -2021\n- [Airbnb on Istio](https://www.youtube.com/watch?v=6kDiDQW5YXQ) - 2021\n- [Airbnb Service Discovery: Past, Present, Future (Challenges of Change)](https://www.youtube.com/watch?v=XQjOhJtw1wg) - 2020\n- [Developing Kubernetes Services at Airbnb Scale](https://www.youtube.com/watch?v=ytu3aUCwlSg) - 2019\n- [10 Weird Ways to Blow Up Your Kubernetes](https://www.youtube.com/watch?v=FrQ8Lwm9_j8) - 2020\n- [Did Kubernetes Make My p95s Worse?](https://www.youtube.com/watch?v=QXApVwRBeys) - 2020\n- [Scaling Kubernetes to Thousands of Nodes Across Multiple Clusters, Calmly](https://www.youtube.com/watch?v=ay7NibpRAYU) - 2020\n\n### 📧 Como se Candidatar\n\nApply here: https://careers.airbnb.com/positions/7381450/\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://careers.airbnb.com/positions/7381450/\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Engineering Manager, Cloud Networking (Brasil) ### 🏢 Empresa Airbnb ### 📊 Nível de Experiência Coordenação/Gerência ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil ### 📝 Tipo de Contrata...",
+      "issueState": "open",
+      "contentHash": "76e2f39639842c62659c4580e7f935c1c271ddd36d9253c60788b614f19a1e93",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "sre",
+        "infra",
+        "security",
+        "aws",
+        "azure",
+        "kubernetes"
+      ],
+      "author": {
+        "id": "mardoqueusv",
+        "name": "mardoqueusv",
+        "handle": "mardoqueusv",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45744076?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "createdAt": "2026-03-30T20:21:46Z",
+      "updatedAt": "2026-03-30T20:22:03Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/460",
+      "sourceType": "github-issue",
+      "sourceId": "DevOps-Brasil/Vagas#460"
+    },
+    "gh_e03ec064cb4cee84535719c4": {
+      "id": "gh_e03ec064cb4cee84535719c4",
+      "title": "[Remote] Senior Web3/React.js Developer – Token Presale dApp",
+      "description": "🚨 We’re hiring a **Senior Web3/React.js Developer** to help us scale token sale app — a real-world token presale and staking platform that connects crypto with actual services like food preorders and loyalty rewards.\n\nYou’ll be joining a lean, focused team building the next phase of our dApp — including staking mechanics, on-chain rewards, and seamless user dashboards.\n\n**Role Details:**\n- **Position:** Senior Software Developer (Solidity / Frontend / Full Stack)\n- **Tech Stack:** ethers.js, Solidity, React, TypeScript, Node.js, Vite\n- **Work Type:** Fully Remote, async-friendly\n- **Schedule:** Full-Time/Part-Time (Up to 40 hrs/week)\n- **Compensation:** $120k–$250k/year USD equivalent (based on experience & specialization)\n\n**What We’re Looking For:**\n- Experienced blockchain devs with Solidity and smart contract expertise\n- Engineers comfortable working across the stack — React.js/TypeScript + backend APIs\n- Frontend developers with deep React.js/Next.js experience and Web3 integration exposure\n- Clean, well-structured code habits and Git proficiency\n- A team-first, async-friendly, product-focused mindset\n- Experience working with existing codebases and iterating fast\n\nNDA is required prior to codebase access and technical call.\n\nIf this sounds like something you’d enjoy working on, let’s connect. Apply here: https://www.metabytelabs.com/careers/web3-developer, and feel free to send any questions to 📩careers@metabytelabs.com.\nKnow someone who’s a fit? Referrals welcome at 📩referrals@metabytelabs.com.",
+      "excerpt": "🚨 We’re hiring a **Senior Web3/React.js Developer** to help us scale token sale app — a real-world token presale and staking platform that connects crypto with actual services like food preorders and loyalty rewards....",
+      "issueState": "open",
+      "contentHash": "66a8c29bad593344c579e183fc480ace92705ee554b5d9fcca187778bce67119",
+      "repository": "awesome-jobs/china",
+      "repositoryUrl": "https://github.com/awesome-jobs/china",
+      "region": "Asia",
+      "country": "China",
+      "tags": [
+        "remote",
+        "frontend",
+        "backend",
+        "react",
+        "typescript",
+        "node",
+        "senior"
+      ],
+      "author": {
+        "id": "mejdanny",
+        "name": "mejdanny",
+        "handle": "mejdanny",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12447589?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/china",
+        "url": "https://github.com/awesome-jobs/china"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 120000,
+        "max": 250000,
+        "period": "hour"
+      },
+      "createdAt": "2025-09-24T02:14:06Z",
+      "updatedAt": "2025-09-24T02:14:06Z",
+      "url": "https://github.com/awesome-jobs/china/issues/4",
+      "sourceType": "github-issue",
+      "sourceId": "awesome-jobs/china#4"
+    },
+    "gh_e063b8aabd80e51da450a66f": {
+      "id": "gh_e063b8aabd80e51da450a66f",
+      "title": "[Remoto] Pessoa DevOps Engineer Junior - Cloudflare - RD Station",
+      "description": "## Nossa empresa\nSomos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais de 40 países. Como alcançamos tudo isso? Através do nosso [A-team](https://bit.ly/3ZUPopc), composto por mais de 1.500 pessoas colaboradoras em nosso grupo, capaz de oferecer soluções, produtos, e educar o mercado, impactando o ecossistema e empoderando heróis e heroínas que fazem a economia crescer.\n\n\n ## Descrição da vaga\nNa RD existem dois times de Engenharia: um dentro de produto e o outro dentro do Marketing, que é o nosso. Somos responsáveis por toda a infraestrutura e assets dessa operação, como o nosso site institucional e de produto, nossos portais de conteúdo, ferramentas, campanhas e a RDU. \n\nNesta posição você participará de duas squads, participando da criação de projetos e ações  que tem como objetivo o aumento de leads (pessoas interessadas em nossos conteúdos, materiais e eventos), sign-ups (pessoas que iniciam um teste grátis no produto) e HRs (pessoas que querem falar com vendas), e isso acontece por meio de CRO, atualizações no site, criação de novas ferramentas, LPs de campanhas, e muitas outras coisas.\n\n## Local\nRemoto\n\n## Requisitos\n\n- Experiência com Cloudflare e Cloudflare Workers;\n- Experiência com Máquinas virtuais (EC2) e hospedagem de assets estáticos;\n- Conhecimento prático em DNS, apontamentos de domínios e gestão de certificados de segurança.\n\n**Características que somam pontos…**\n\n- Experiência em hospedagem de aplicações WordPress e Node.js;\n- Conhecimentos relacionados a segurança da informação;\n- Experiência em consumo e criação de APIs REST;\n- Vivência em projetos ou operações de marketing.\n\n## Benefícios\nLink dos nossos benefícios [aqui](https://talent.rdstation-tm.com/beneficios-rdstation).\n\n## Contratação\nCLT\n\n#### Nível\n- Junior\n\n## Como se candidatar\nPara se candidatar é só clicar [aqui](https://grnh.se/c42670002us).",
+      "excerpt": "## Nossa empresa Somos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais d...",
+      "issueState": "open",
+      "contentHash": "608755989e0df8a9657fac2a2502f0cec30f983679c988250c8d9af0d7a743f3",
+      "repository": "seujobtech/vagas",
+      "repositoryUrl": "https://github.com/seujobtech/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto"
+      ],
+      "author": {
+        "id": "SheilaMiqueli",
+        "name": "SheilaMiqueli",
+        "handle": "SheilaMiqueli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/175030286?v=4"
+      },
+      "community": {
+        "id": "seujobtech",
+        "name": "seujobtech",
+        "avatarUrl": "https://github.com/seujobtech.png?size=80",
+        "repository": "seujobtech/vagas",
+        "url": "https://github.com/seujobtech/vagas"
+      },
+      "createdAt": "2024-07-08T14:53:40Z",
+      "updatedAt": "2024-07-08T14:54:11Z",
+      "url": "https://github.com/seujobtech/vagas/issues/417",
+      "sourceType": "github-issue",
+      "sourceId": "seujobtech/vagas#417"
+    },
+    "gh_e04c9c501d14e31ef924858a": {
+      "id": "gh_e04c9c501d14e31ef924858a",
+      "title": "10up: Lead Front End Engineer",
+      "description": "![10up-Logo-2019](https://user-images.githubusercontent.com/54147972/141860095-fd7b780c-a62c-4b63-8dfd-71410f84abbd.png)\n\n_This role is fully remote and is open to applicants located anywhere around the globe._\n\nApply: https://10up.com/careers/lead-front-end-engineer/\n\n\nBe a part of **something great**\n**10up** is an award-winning full-service digital agency with a customer-centric service model and unrivaled leadership in open platforms and tools for digital makers and content creators. 10up’s services include user experience and interactive design, content strategy and creation, website and app engineering, SEO and online revenue strategy, and managed services. Our 250+ distributed team members provide end-to-end digital project expertise.\n\n10up has a diverse client roster that includes Fortune 500 companies, influential content publishers, innovative startups, and impactful nonprofits. We’ve worked with some of the biggest names in the industry, such as Facebook, Google, Microsoft, Starbucks, ESPN, The New York Times Co., and Walmart.\n\n10up has been leading the remote workforce movement for 10+ years. Our teams are distributed across six continents and 29 countries. All of our positions are fully remote (and always will be), and are open to applicants all around the world.\n\n**Lead Web Engineers** have advanced knowledge of PHP and JavaScript and experience building large-scale performant applications. In addition to writing code, they are familiar with systems-level concepts. Lead Web Engineers being advanced in the skills of their discipline, they are also effective consultants and collaborators. They know how to balance a client’s needs, budget, and requirements. With knowledge of cutting edge techniques and an understanding of the constraints of scope and budget, a lead employee knows the possible ways to move forward and is able to select an appropriate technical approach for each client. A Lead Web Engineer is also expected to be a good communicator. They are skilled at providing actionable feedback and recommendations both internally to managers/teammates and externally to clients/vendors. Lead Web Engineers deliver successful projects by writing quality code, participating in important strategy conversations, and assisting with code reviews.\n\n_This role is fully remote and is open to applicants located anywhere around the globe._\n\n**Responsibilities**\n\n- Lead front end implementations on large projects with complex requirements involving a team of engineers.\n- Interpret designs and transform them into a polished rich cross-platform/device web experience.\n- Write modular and performant HTML and CSS.\n- Ability to make smart design decisions. Occasionally filling in gaps left by designers e.g. interpreting how a layout should be presented on small screens.\n- Ability to rapidly prototype interfaces to finalize an experience in the browser as well as build long term scalable, maintainable, and performant production code.\n- Visualize how a static design will be coded. Proactively flag challenging areas and offer alternatives, as well as identifying areas for greater code reuse.\n- Ability to estimate work for a project and modularize goals into clearly defined, executable tasks.\n- Ability to lead the front-end strategy for a project and make impactful decisions about the methodologies recommended to a client.\n- Write JavaScript using industry best practices as well as React components. Ability to use modern JavaScript build tools like Webpack.\n- Effectively collaborate with designers throughout the design and engineering process.\n\n**Requirements**\n\n- At least eight years experience with UI engineering, web development, web engineering, or a similar field.\n- Project-level leadership experience e.g. leading a team of engineers to solve a complex problem.\n- Experience providing code reviews, coaching, and mentorship to other engineers.\n- Strong understanding of HTML and CSS including cross-browser compatibility and performance.\n- Ability to write modern and performant JavaScript using latest technologies.\n- Strong experience with the React JavaScript library.\n- Strong experience using Git.\n- Proven ability to transform a static comp into a website from the ground up.\n- Understanding of ad implementations in a responsive environment.\n- Experience in task runners and bundlers like Webpack or Gulp.\n- Experience with coded style guides and creating highly componentized systems.\n- Experience with  PHP, ideally in the context of WordPress themes.\n- Being collaborative, self-motivated, and an \"always-learning\" person, excited to create great web experiences.\n\n**Nice to have**\n\n- Experience with Sketch or Design Software.\n- Advanced understanding of as implementations in a responsive environment.\n- Moderate PHP experience.\n- Experience with Gutenberg and building out custom blocks.\n- Design experience or formal design education.\n- Remote working experience appreciated.\n- Experience in mentoring and leading a team.\n- Experience and expertise with third party integrations and client-side APIs.\n- Strong ability to communicate with client stakeholders, both technical and non-technical, about the impact of decisions around markup approach, cross-platform responsive interactions, performance, and topics like accessibility and internationalization.\n- Understand the high-level concepts behind modern JavaScript frameworks and can architect and execute project-work as needed.\n- Code-based portfolio. Link us to your GitHub account, upload a .zip, or both (source files are helpful to get a sense of your code structure and file organization).\n- Understanding of WCAG accessibility compliance. Ability to implement accessibility standards as well as audit existing websites.\n\n---\ntags: #frontend #lang-javascript #lang-php #level-lead #level-senior",
+      "excerpt": "![10up-Logo-2019](https://user-images.githubusercontent.com/54147972/141860095-fd7b780c-a62c-4b63-8dfd-71410f84abbd.png) _This role is fully remote and is open to applicants located anywhere around the globe._ Apply: ...",
+      "issueState": "open",
+      "contentHash": "72b7fce2d9a92947b1eb825bb3167cc36154ef72182ef83023e3544e5365a73c",
+      "repository": "remote-job-boards/software-engineering",
+      "repositoryUrl": "https://github.com/remote-job-boards/software-engineering",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "frontend",
+        "react",
+        "java",
+        "senior",
+        "design"
+      ],
+      "author": {
+        "id": "kategrenadier",
+        "name": "kategrenadier",
+        "handle": "kategrenadier",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54147972?v=4"
+      },
+      "community": {
+        "id": "remote-job-boards",
+        "name": "remote-job-boards",
+        "avatarUrl": "https://github.com/remote-job-boards.png?size=80",
+        "repository": "remote-job-boards/software-engineering",
+        "url": "https://github.com/remote-job-boards/software-engineering"
+      },
+      "createdAt": "2021-11-15T22:08:29Z",
+      "updatedAt": "2021-11-15T22:08:29Z",
+      "url": "https://github.com/remote-job-boards/software-engineering/issues/7498",
+      "sourceType": "github-issue",
+      "sourceId": "remote-job-boards/software-engineering#7498"
+    }
+  }
+}

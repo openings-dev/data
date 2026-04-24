@@ -13,6 +13,10 @@ function collectNextSnapshotFiles(snapshot) {
     }
   }
 
+  for (const staticApiFile of snapshot.staticApiFiles ?? []) {
+    files.add(staticApiFile.relativePath);
+  }
+
   return files;
 }
 
@@ -49,6 +53,14 @@ export async function writeSegmentedSnapshot(snapshot) {
 
   for (const countrySnapshot of snapshot.countrySnapshots) {
     await writeCountrySnapshot(countrySnapshot, changedFiles);
+  }
+
+  for (const staticApiFile of snapshot.staticApiFiles ?? []) {
+    const changed = await writeJsonIfChanged(staticApiFile.filePath, staticApiFile.payload);
+
+    if (changed) {
+      changedFiles.push(staticApiFile.relativePath);
+    }
   }
 
   const changedGlobalIndex = await writeJsonIfChanged(

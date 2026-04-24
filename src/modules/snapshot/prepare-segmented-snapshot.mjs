@@ -1,6 +1,7 @@
 import { toSnapshotPath } from "./snapshot-paths.mjs";
 import { buildCountrySnapshot } from "./build-country-snapshot.mjs";
 import { buildGlobalIndex } from "./build-global-index.mjs";
+import { buildStaticApiFiles } from "./static-api/build-static-api-files.mjs";
 
 /**
  * @param {{snapshotRootDir: string; generatedAt: string; catalogGeneratedAt: string | null; request: Record<string, unknown>; repositoriesRequested: number; repositoriesScanned: number; failedRepositories: Array<Record<string, unknown>>; countries: Array<any>;}} params
@@ -20,6 +21,11 @@ export function prepareSegmentedSnapshot(params) {
   const countrySnapshots = countries
     .map((countryResult) => buildCountrySnapshot({ snapshotRootDir, generatedAt, countryResult }))
     .sort((left, right) => left.countryCode.localeCompare(right.countryCode));
+  const staticApiFiles = buildStaticApiFiles({
+    snapshotRootDir,
+    generatedAt,
+    countrySnapshots,
+  });
 
   const globalIndex = buildGlobalIndex({
     generatedAt,
@@ -29,6 +35,7 @@ export function prepareSegmentedSnapshot(params) {
     repositoriesScanned,
     failedRepositories,
     countrySnapshots,
+    staticApiFiles,
   });
 
   return {
@@ -38,5 +45,6 @@ export function prepareSegmentedSnapshot(params) {
       filePath: toSnapshotPath(snapshotRootDir, globalIndex.relativePath),
     },
     countrySnapshots,
+    staticApiFiles,
   };
 }
