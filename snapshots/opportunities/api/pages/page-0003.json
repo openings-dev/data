@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-04-25T15:34:46.231Z",
+  "generatedAt": "2026-04-25T18:40:21.627Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_e040318067d6d162f0f9233e",
+    "gh_afa84ea7b65268fc1ca33299",
     "gh_c19e786d010bd878cb453ffe",
     "gh_65d25f9cd821ac9d83e3f087",
     "gh_632e3cff225dd33d1da10628",
@@ -21,11 +23,89 @@
     "gh_2446f8c9d99311675ebf1afa",
     "gh_e20f87fee19bdfaea2b354ed",
     "gh_644385e0db8a70c4f7599974",
-    "gh_360a36bfb0c75f23ffd2bcac",
-    "gh_3cb49aacda2ec7dd8e38be24",
-    "gh_19d9edf7d6ba67157e1e98b0"
+    "gh_360a36bfb0c75f23ffd2bcac"
   ],
   "items": [
+    {
+      "id": "gh_e040318067d6d162f0f9233e",
+      "sourceId": "DevOps-Brasil/Vagas#460",
+      "title": "[Manager] Airbnb - Brazil",
+      "description": "### 🎯 Cargo\n\nEngineering Manager, Cloud Networking (Brasil)\n\n### 🏢 Empresa\n\nAirbnb\n\n### 📊 Nível de Experiência\n\nCoordenação/Gerência\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nNone\n\n### 💰 Faixa Salarial\n\n_No response_\n\n### 📋 Descrição da Vaga\n\nAirbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\n**The Community You Will Join:**\n\nAirbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnb's various functions embody the company's innovative spirit and our fast-moving team is committed to leading as a 21st century company.\n\nThe Networking team within Airbnb’s Cloud Infrastructure org owns the entire Airbnb production network infrastructure. The group is responsible for designing, building and operating the  software and solutions that connect Airbnb users and services, such as traffic proxy and load balancer, service mesh, VPCs and cross-region connectivity, network monitoring and security systems etc. With users around the world, reliability, scalability, efficiency and high availability are our team’s core concerns.\n\n**The Difference You Will Make:**\n\nYou will work closely with peers across Cloud Infra, Security, Reliability, and many other partner teams across the company to deliver an Airbnb network platform that is flexible, efficient, always available, and scales with the needs of the business. As the first Network engineering lead in Airbnb’s Brazil office, you will also have the opportunity to help bootstrap and grow the networking team in our new San Paulo office. This will include day-to-day operations, building the team by hiring top talent, coaching and growing engineers, technical deep dives, community engagement, and strategic planning.\n\n**A Typical Day:** \n\n- Provide meaningful input to technical designs and direct hands-on contributions to projects in the cloud networking space \n- Grow, lead, and manage a small team of talented engineers \n- Support your team's professional growth and maintain high performance through mentorship and coaching\n- Work with tech leads, peers, and partners to define and execute on a coherent vision and roadmap for Airbnb’s cloud network infrastructure and related components\n- Work with open source communities (e.g. istio) to build the next generation service mesh for all Airbnb back-end services\n- Build cross-region gateways and load balancers for global Airbnb services \n- Work with external partners and internal engineering and security teams to deliver edge security systems that protect Airbnb services\n- Nurture a culture of technical quality from design, through code review, to production\n- Build strong partnership and alignment with teams across engineering\n- Nurture relationships with open source communities and external service partners\n\n### ✅ Requisitos Técnicos\n\n```markdown\nYour Expertise:\n\nProfessional fluency in English required\n2+ years of engineering management experience, with 8+ years of relevant software development experience in a fast paced tech environment\nStrong emotional intelligence, empathy, and the ability to effectively connect with colleagues\nExperience with a public cloud provider (AWS, GCP, Azure) and their networking service offerings\nExperience running large scale networking systems and software (e.g. proxies, DNS, gateways)\nExperience with Istio service mesh, k8s and cloud native technologies is a plus\nExcellent communication skills and the ability to work well with teams across the engineering organization (e.g. reliability, compute, security, etc.)\nStrong problem-solving skills and experience leading teams on-call for production infrastructure\nPassionate about efficiency, availability, technical quality and system quality\n```\n\n### 🎁 Benefícios\n\n**Our Commitment To Inclusion & Belonging:**\n\nAirbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.\n\nWe strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: [reasonableaccommodations@airbnb.com](mailto:reasonableaccommodations@airbnb.com). Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process. \n\nWe ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.\n\n### 🛠️ Stack/Tecnologias\n\n**Airbnb Cloud Infrastructure in the Media:**\n\n- Zero-downtime Istio upgrades across thousands of pods/VMs –[ InfoQ coverage ](https://www.infoq.com/news/2025/08/airbnb-istio-upgrade/?utm_source=chatgpt.com)- 2025\n- KubeCon+CloudNativeCon 2024,[ Secure Outgoing Traffic: Building a powerful Internet Egress Gateway for Reliable connectivity](https://kccncna2024.sched.com/event/1i7ps), Edie Yang, [Akshita Agarwal](mailto:akshita.agarwal@airbnb.com). \n- KubeCon+CloudNativeCon 2024, [DNS deep dive in k8s with CoreDNS](https://www.youtube.com/watch?v=lAUmdIGP_fE), Jingming Guo\n- The Airbnb Tech Blog 2023, [Improving Istio Propagation Delay](https://medium.com/airbnb-engineering/improving-istio-propagation-delay-d4da9b5b9f90), Ying Zhu  \n- KubeCon+CloudNativeCon 2022, [Whose packet is it anyway? Life of a packet through service mesh](https://kccncna2022.sched.com/event/182KR/whose-packet-is-it-anyway-life-of-a-packet-through-a-service-mesh-kevin-leimkuhler-buoyant-doug-jordan-airbnb),  Kevin Leimkuhler, Doug Jordan.\n- [Building simplified service mesh API for developers ](https://www.youtube.com/watch?v=ipscJL_hhA0)-2022\n- KubeCon+CloudNativeCon 2021, [Building a multi-cluster/env service mesh at Airbnb](https://kccncna2021.sched.com/event/lV0D/building-a-multi-clusterenv-service-mesh-at-airbnb-weibo-he-stephen-chan-airbnb). Weibo He, Stephan Chan. \n- [10 More Weird Ways to Blow Up Your Kubernetes](https://www.youtube.com/watch?v=4CT0cI62YHk) -2021\n- [Airbnb on Istio](https://www.youtube.com/watch?v=6kDiDQW5YXQ) - 2021\n- [Airbnb Service Discovery: Past, Present, Future (Challenges of Change)](https://www.youtube.com/watch?v=XQjOhJtw1wg) - 2020\n- [Developing Kubernetes Services at Airbnb Scale](https://www.youtube.com/watch?v=ytu3aUCwlSg) - 2019\n- [10 Weird Ways to Blow Up Your Kubernetes](https://www.youtube.com/watch?v=FrQ8Lwm9_j8) - 2020\n- [Did Kubernetes Make My p95s Worse?](https://www.youtube.com/watch?v=QXApVwRBeys) - 2020\n- [Scaling Kubernetes to Thousands of Nodes Across Multiple Clusters, Calmly](https://www.youtube.com/watch?v=ay7NibpRAYU) - 2020\n\n### 📧 Como se Candidatar\n\nApply here: https://careers.airbnb.com/positions/7381450/\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://careers.airbnb.com/positions/7381450/\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Engineering Manager, Cloud Networking (Brasil) ### 🏢 Empresa Airbnb ### 📊 Nível de Experiência Coordenação/Gerência ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil ### 📝 Tipo de Contrata...",
+      "issueState": "open",
+      "contentHash": "76e2f39639842c62659c4580e7f935c1c271ddd36d9253c60788b614f19a1e93",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "sre",
+        "infra",
+        "security",
+        "aws",
+        "azure",
+        "kubernetes"
+      ],
+      "author": {
+        "id": "mardoqueusv",
+        "name": "mardoqueusv",
+        "handle": "mardoqueusv",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45744076?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "createdAt": "2026-03-30T20:21:46Z",
+      "updatedAt": "2026-03-30T20:22:03Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/460",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_afa84ea7b65268fc1ca33299",
+      "sourceId": "DevOps-Brasil/Vagas#459",
+      "title": "[Senior Software Engineer] Airbnb - Brazil",
+      "description": "### 🎯 Cargo\n\nSenior Software Engineer, Infrastructure\n\n### 🏢 Empresa\n\nAirbnb\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrazil\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nNone\n\n### 💰 Faixa Salarial\n\n_No response_\n\n### 📋 Descrição da Vaga\n\nAirbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\n**The Community You Will Join:**\n\nAirbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnb's various functions embody the company's innovative spirit and our fast-moving team is committed to leading as a 21st century company.\n\nThe Networking team within Airbnb’s Cloud Infrastructure org owns the entire Airbnb production network infrastructure. The group is responsible for designing, building and operating the  software and solutions that connect all Airbnb users and services, such as traffic proxy and load balancer, service mesh, VPC/backbone and cross-region connectivity, network monitoring and security systems. With users around the world, reliability, scalability, efficiency and high availability are our team’s core concerns. \n\n**The Difference You Will Make:**\n\nAs a member of the network infra team, you will be working with talented engineers on cutting edge technologies of cloud native network stack from Layer3 - Layer7. You will contribute to the key infrastructure components that connect all Airbnb users and services across the globe. You will have the chance to define and influence large infrastructure initiatives such as global traffic load balancing and disaster recovery, next-gen service mesh, cross-region gateways and edge security etc. \n\nAirbnb is a member of the Cloud Native Computing Foundation (CNCF) end user community, and we work closely with the open source community (e.g. k8s, istio)  and peer companies to tackle cloud native engineering challenges at scale. You will also have the chance to make an impact on the industry and open source communities.  \n\n**A Typical Day:** \n\n- Work with open source communities (e.g. istio) to build the next generation service mesh for all Airbnb back-end services; \n- Build the cross-region gateways and load balancers for global Airbnb services; \n- Work with external partners and internal engineering and security teams to deliver edge security systems that protect Airbnb services; \n- Design the multi-region network architecture on public clouds, and build software and operation tools to manage Airbnb’s production network; \n- Work with product and engineering teams to optimize the network performance for Airbnb services;\n\n### ✅ Requisitos Técnicos\n\n```markdown\nYour Expertise: (https://careers.airbnb.com/positions/7391864/)\n\nProfessional fluency in English required\n5+ years of relevant software development industry experience in a fast paced, high growth tech environment. \nExpertise with virtual network architecture on public cloud providers (e.g. AWS, GCP, Azure) and their network service offerings (e.g., VPC, Security Group, PrivateLink and related products.). \nExperience running large scale networking systems and software (e.g. Edge proxies, DNS, CDN, network gateways), experience working with istio, Envoy is a plus.\nYou are a full-cycle developer: strong ownership and experience building and operating  high-scale, distributed systems across the full software life cycle. \nYou have excellent communication skills and the ability to work well within a team and with teams across the engineering teams.\nYou are a strong problem solver and have led a team that is on-call for production infrastructure before.\nYou are passionate about efficiency, availability, technical quality and system quality.\n```\n\n### 🎁 Benefícios\n\nHow We'll Take Care of You:\n\nOur job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. \n\n\n### 🛠️ Stack/Tecnologias\n\n**Airbnb Cloud Infrastructure in the Media:**\n\nZero-downtime Istio upgrades across thousands of pods/VMs –[ InfoQ coverage ](https://www.infoq.com/news/2025/08/airbnb-istio-upgrade/?utm_source=chatgpt.com)- 2025\nKubeCon+CloudNativeCon 2024,[ Secure Outgoing Traffic: Building a powerful Internet Egress Gateway for Reliable connectivity](https://kccncna2024.sched.com/event/1i7ps), Edie Yang, [Akshita Agarwal](mailto:akshita.agarwal@airbnb.com). \nKubeCon+CloudNativeCon 2024, [DNS deep dive in k8s with CoreDNS](https://www.youtube.com/watch?v=lAUmdIGP_fE), Jingming Guo\nThe Airbnb Tech Blog 2023, [Improving Istio Propagation Delay](https://medium.com/airbnb-engineering/improving-istio-propagation-delay-d4da9b5b9f90), Ying Zhu  \nKubeCon+CloudNativeCon 2022, [Whose packet is it anyway? Life of a packet through service mesh](https://kccncna2022.sched.com/event/182KR/whose-packet-is-it-anyway-life-of-a-packet-through-a-service-mesh-kevin-leimkuhler-buoyant-doug-jordan-airbnb),  Kevin Leimkuhler, Doug Jordan.\n[Building simplified service mesh API for developers ](https://www.youtube.com/watch?v=ipscJL_hhA0)-2022\nKubeCon+CloudNativeCon 2021, [Building a multi-cluster/env service mesh at Airbnb](https://kccncna2021.sched.com/event/lV0D/building-a-multi-clusterenv-service-mesh-at-airbnb-weibo-he-stephen-chan-airbnb). Weibo He, Stephan Chan. \n[10 More Weird Ways to Blow Up Your Kubernetes](https://www.youtube.com/watch?v=4CT0cI62YHk) -2021\n[Airbnb on Istio](https://www.youtube.com/watch?v=6kDiDQW5YXQ) - 2021\n[Airbnb Service Discovery: Past, Present, Future (Challenges of Change)](https://www.youtube.com/watch?v=XQjOhJtw1wg) - 2020\n[Developing Kubernetes Services at Airbnb Scale](https://www.youtube.com/watch?v=ytu3aUCwlSg) - 2019\n[10 Weird Ways to Blow Up Your Kubernetes](https://www.youtube.com/watch?v=FrQ8Lwm9_j8) - 2020\n[Did Kubernetes Make My p95s Worse?](https://www.youtube.com/watch?v=QXApVwRBeys) - 2020\n[Scaling Kubernetes to Thousands of Nodes Across Multiple Clusters, Calmly](https://www.youtube.com/watch?v=ay7NibpRAYU) - 2020\n\n### 📧 Como se Candidatar\n\nApply on the following link: https://careers.airbnb.com/positions/7391864/\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://careers.airbnb.com/positions/7391864/\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Senior Software Engineer, Infrastructure ### 🏢 Empresa Airbnb ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brazil ### 📝 Tipo de Contratação CLT ### 💱 Moeda...",
+      "issueState": "open",
+      "contentHash": "3b417ebc246418f2a3c0a5372eb7de410482258c37c903a58ec4a101024a3565",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "sre",
+        "infra",
+        "security",
+        "aws",
+        "azure",
+        "kubernetes"
+      ],
+      "author": {
+        "id": "mardoqueusv",
+        "name": "mardoqueusv",
+        "handle": "mardoqueusv",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45744076?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "createdAt": "2026-03-30T20:13:39Z",
+      "updatedAt": "2026-03-30T20:13:54Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/459",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c19e786d010bd878cb453ffe",
       "sourceId": "qa-brasil/vagas#1248",
@@ -704,79 +784,6 @@
       "createdAt": "2026-03-19T15:12:03Z",
       "updatedAt": "2026-03-19T15:12:03Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4914",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3cb49aacda2ec7dd8e38be24",
-      "sourceId": "programadores-br/geral#3060",
-      "title": "[Remoto] DBA Pleno na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/dba-pleno-123558695?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA TruckPag é uma startup inovadora no setor de Meios de Pagamento, focada em solucionar grandes desafios e gerar impacto relevante no mundo logístico. Buscamos profissionais talentosos e motivados que queiram tornar as operações logísticas mais efetivas, assertivas e competitivas. Acreditamos que grandes ideias nascem da diversidade de vivências, formações e pessoas únicas. Cultivamos um ambiente de trabalho colaborativo, de alta performance e descontraído, onde você terá a oportunidade de agregar valor significativo à nossa equipe e aos nossos produtos.\n\nEstamos em busca de uma pessoa **DBA Pleno** para se juntar ao nosso time de tecnologia. Você terá um papel estratégico na garantia da saúde, performance e segurança dos nossos bancos de dados, que estão 100% hospedados na nuvem utilizando AWS RDS.\n\nNós já contamos com um parceiro responsável pelo monitoramento 24x7 da infraestrutura. Portanto, seu foco principal será atuar preventivamente, realizar _tuning_ avançado, gerenciar nosso ambiente legado e atuar a quatro mãos com os times de desenvolvimento para criar as melhores soluções em arquitetura de dados e queries.\n\n**Responsabilidades e Atribuições:**\n\n*   Administrar, manter e otimizar nossos bancos de dados **PostgreSQL** e **SQL Server** (ambiente legado) hospedados no **AWS RDS**.\n    \n*   Realizar _database tuning_, identificando gargalos de performance, otimizando o uso de recursos e garantindo a escalabilidade do ambiente.\n    \n*   Prestar consultoria e apoio técnico constante aos desenvolvedores na construção e otimização de _queries_, modelagem de dados e criação de índices.\n    \n*   Acompanhar e analisar as notificações e alertas gerados pela nossa empresa parceira de monitoramento 24x7, atuando na resolução de incidentes quando necessário.\n    \n*   Gerenciar e validar políticas de backup, _restore_ e estratégias de alta disponibilidade (HA) e _Disaster Recovery_ (DR) dentro do ecossistema AWS.\n    \n*   Garantir as melhores práticas de segurança e controle de acessos.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS RDS \n- PostgreSQL \n- SQL SERVER \n- Disaster Recovery\n## Local: \n Remota\n## Requisitos: \n - Experiência sólida e comprovada atuando como DBA, com domínio em PostgreSQL e bons conhecimentos em SQL Server. \n- Vivência prática com bancos de dados em nuvem, especificamente com Amazon RDS. \n- Forte conhecimento em performance tuning, análise de planos de execução e otimização de consultas pesadas. \n- Experiência prévia trabalhando próximo a times de engenharia/desenvolvimento de software. \n- Habilidade para atuar na resolução de problemas (troubleshooting) de forma ágil e analítica.\n## Diferenciais: \n - Conhecimento em outras soluções do ecossistema AWS (CloudWatch, IAM, EC2). \n- Vivência com ferramentas de versionamento de banco de dados (ex: Flyway, Liquibase). \n- Experiência com migração de dados ou transição de sistemas legados. \n- Certificações AWS ou certificações oficiais em PostgreSQL/SQL Server.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [DBA Pleno na TruckPag](https://coodesh.com/jobs/dba-pleno-123558695?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nBanco de Dados",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "77258082d23f4c8c18d0d1eee36704f4f4ac7cfc69ad34d6474e46686e45df48",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-18T20:37:25Z",
-      "updatedAt": "2026-03-18T20:37:53Z",
-      "url": "https://github.com/programadores-br/geral/issues/3060",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_19d9edf7d6ba67157e1e98b0",
-      "sourceId": "ambicuity/New-Grad-Jobs#206",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-03-18T01:05:29Z` |\n| Stale for | 93 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-03-18T01:05:29Z` | | Stale for | 93 ...",
-      "issueState": "open",
-      "contentHash": "b8a145091306575e3e6dc7232437c1eb8f3ad4b3dc606ae397a16153b7c1f3e8",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "status: in-progress",
-        "priority: critical",
-        "automation",
-        "testing"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-18T02:39:20Z",
-      "updatedAt": "2026-04-21T04:51:23Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/206",
       "sourceType": "github-issue"
     }
   ]

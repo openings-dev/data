@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-25T15:34:46.231Z",
+  "generatedAt": "2026-04-25T18:40:21.627Z",
   "schemaVersion": 2,
-  "dataHash": "851ad17cfbcbedbefe4196aa0684efa6580e549ad2942d977f065afb494278a6",
+  "dataHash": "9469d476c1881a732fc778eac2a96832c92010a8ffc8421787c216cd4429dda9",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2021,
+    "opportunities": 2023,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -305,6 +305,7 @@
       "api/pages/page-0033.json",
       "api/pages/page-0034.json",
       "api/pages/page-0035.json",
+      "api/pages/page-0036.json",
       "api/search-index.json"
     ]
   },
@@ -353,9 +354,9 @@
       "country": "Canada",
       "countryCode": "CA",
       "region": "North America",
-      "opportunities": 71,
+      "opportunities": 73,
       "repositories": 10,
-      "openIssues": 4,
+      "openIssues": 6,
       "closedIssues": 67,
       "indexFile": "countries/ca/index.json"
     },

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-25T15:34:46.231Z",
+  "generatedAt": "2026-04-25T18:40:21.627Z",
   "schemaVersion": 3,
   "pageSize": 20,
-  "dataHash": "6e3d1490302038cf9665856385487b6a24c3d5733991d5d60a1e8c9b0d84d6b2",
+  "dataHash": "4f195c4622e9f018fbcd6fda0759432171204763732f72d9a8ad62352620429e",
   "totals": {
-    "openOpportunities": 699,
-    "pages": 35,
-    "repositories": 99,
+    "openOpportunities": 701,
+    "pages": 36,
+    "repositories": 100,
     "countries": 16,
     "regions": 5
   },
@@ -77,6 +77,7 @@
       "marmelo/tech-companies-in-portugal": 1,
       "matildaexp/remote-latam": 2,
       "MubeenMohammed/canada-2026-internships": 2,
+      "negarprh/Canadian-Tech-Internships-2026": 2,
       "nerdzao/vagas": 29,
       "NestBR/vagas": 1,
       "neutraltone/awesome-development-jobs": 4,
@@ -123,13 +124,13 @@
       "Asia": 138,
       "Europe": 9,
       "Global": 62,
-      "North America": 48,
+      "North America": 50,
       "South America": 442
     },
     "countries": {
       "Argentina": 24,
       "Brazil": 415,
-      "Canada": 4,
+      "Canada": 6,
       "China": 10,
       "Colombia": 1,
       "Germany": 5,
@@ -324,6 +325,7 @@
       "angiesantaliz": 1,
       "Anna8954": 1,
       "annesiaf": 1,
+      "antholim": 2,
       "apapangelapeng": 1,
       "appleboy": 1,
       "ArjunPanickssery": 5,
@@ -629,6 +631,7 @@
       "ZachPlotkin": 1
     },
     "authorLabels": {
+      "antholim": "antholim",
       "Luavagas": "Luavagas",
       "nhatruchr": "nhatruchr",
       "rafaelamartins-BRASILEMDOBRO": "rafaelamartins-BRASILEMDOBRO",
@@ -1138,7 +1141,12 @@
     {
       "page": 35,
       "file": "api/pages/page-0035.json",
-      "count": 19
+      "count": 20
+    },
+    {
+      "page": 36,
+      "file": "api/pages/page-0036.json",
+      "count": 1
     }
   ]
 }
