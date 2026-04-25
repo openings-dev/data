@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T01:48:13.287Z",
+  "generatedAt": "2026-04-25T05:07:34.895Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
@@ -16,14 +16,14 @@
     "gh_379609d7a1ed1555f83e4adc",
     "gh_1e9e8aa869b134d9196ca9fe",
     "gh_143f5b78edf4e0cee0f75191",
-    "gh_0b6c09d57ebbddfbed319a97",
     "gh_cbbd9c70b7250bcddbcaf3be",
     "gh_9c27ccbbb027a757720e4a38",
     "gh_337dcc0369d8226aab4c836f",
     "gh_549fb47e62e78432e6e7af86",
     "gh_c9dd19586ec97ddb76143892",
     "gh_1bd5f8d6144fe120825c7a8c",
-    "gh_62f08a2ae2deba541d87e195"
+    "gh_62f08a2ae2deba541d87e195",
+    "gh_8e17475ccce44e680c92068f"
   ],
   "items": [
     {
@@ -449,43 +449,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_0b6c09d57ebbddfbed319a97",
-      "sourceId": "qa-brasil/vagas#1242",
-      "title": "[Remoto] Analista de QA na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-qa-153100166?utm_source=github&utm_medium=qa-brasil-vagas&modal=open) para realizar a candidatura. 👋\nA TruckPag é uma startup inovadora no setor de Meios de Pagamento, focada em solucionar grandes desafios e gerar impacto relevante no mundo logístico. Buscamos profissionais talentosos e motivados que queiram tornar as operações logísticas mais efetivas, assertivas e competitivas. Acreditamos que grandes ideias nascem da diversidade de vivências, formações e pessoas únicas. Cultivamos um ambiente de trabalho colaborativo, de alta performance e descontraído, onde você terá a oportunidade de agregar valor significativo à nossa equipe e aos nossos produtos.\n\nComo **Pessoa Analista de QA Pleno**, você será peça-chave na garantia da qualidade e confiabilidade, assegurando que nossas soluções Web, Mobile e APIs funcionem de forma integrada, fluida e livre de erros. Suas principais responsabilidades incluem:\n\n*   Planejamento e Execução de Testes: Planejar, criar e executar roteiros de testes manuais e automatizados para novas funcionalidades e testes de regressão, garantindo a cobertura dos requisitos de negócio.\n    \n*   Automação Multiplataforma: Desenvolver e manter scripts de testes automatizados tanto para Web (utilizando ferramentas como Cypress, Playwright ou Selenium) quanto para Mobile (Appium, Detox ou Maestro), focando na redução de trabalho manual repetitivo.\n    \n*   Testes de Integração e API: Validar a comunicação das aplicações com o Backend, testando APIs RESTful (contratos, status code, payload) para garantir a integridade dos dados e a robustez das integrações.\n    \n*   Gestão de Defeitos e Regressão: Identificar bugs, documentar passos de reprodução de forma clara e gerenciar o ciclo de correção. Executar testes de regressão para assegurar que novas entregas não impactem funcionalidades existentes no sistema como um todo.\n    \n*   Colaboração Multidisciplinar: Participar ativamente das cerimônias ágeis (planning, dailies, reviews e retrospectivas), atuando como evangelista da qualidade junto aos times de Produto, Design e Desenvolvimento desde a concepção da feature.\n    \n*   Qualidade de Processo: Garantir a aplicação de boas práticas de QA, auxiliando na definição de critérios de aceite e monitorando métricas de qualidade para propor ações preventivas.\n    \n*   Documentação e Melhoria Contínua: Manter a documentação de casos de teste atualizada e contribuir com sugestões de melhorias nos processos de validação e ferramentas de automação.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - automação de testes \n- Javascript \n- Python \n- Typescript \n- testes de apis \n- trabalho em equipe\n## Local: \n Remota\n## Requisitos: \n - Experiência Híbrida (Web e Mobile): Vivência sólida testando aplicações Web (Responsividade, Cross-browser) e Aplicativos Mobile (Android e iOS), entendendo as particularidades de cada ambiente. \n- Automação de Testes: Capacidade de escrever e manter testes automatizados (E2E ou Integração) utilizando linguagens como JavaScript/TypeScript ou Python. \n- Fundamentos de Teste: Domínio de técnicas de teste (Caixa Preta, Exploratório, Regressão, Funcional) e escrita de cenários de teste claros e objetivos (preferencialmente usando BDD/Gherkin). \n- Testes de API: Experiência com ferramentas de teste e validação de APIs (Postman, Insomnia ou via código). \n- Controle de Versão: Experiência com Git para versionamento de projetos de automação e integração com o fluxo de trabalho do time (Pull Requests, Code Review). \n- Ferramentas de Gestão: Familiaridade com ferramentas de gestão de tarefas e bugs (Jira, Trello, Kanbanize, etc.). \n- Trabalho em Equipe: Vivência em ambientes ágeis e colaborativos, com comunicação clara e foco na prevenção de bugs, não apenas na detecção.\n## Diferenciais: \n - Conhecimento em frameworks modernos de automação Web (Cypress ou Playwright). \n- Conhecimento com testes em React Native (Detox ou Appium). \n- Conhecimento em CI/CD e integração de testes em pipelines (GitHub Actions, GitLab CI, Jenkins, etc.). \n- Noções de testes de Performance e Carga (k6, JMeter). \n- Experiência com ferramentas de Cloud Testing (BrowserStack, Sauce Labs, AWS Device Farm). \n- Residência em Cascavel – PR (não obrigatório, mas um diferencial).\n## Benefícios: \n - Horário Flexível: Maior autonomia e equilíbrio entre vida pessoal e profissional. \n- Parceria Alura: Acesso a diversas plataformas de aprendizado para desenvolvimento contínuo.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Analista de QA na TruckPag](https://coodesh.com/jobs/analista-de-qa-153100166?utm_source=github&utm_medium=qa-brasil-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nTestes/Q.A",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "81a8f85997a25598213c801f2f6a1ede792c955eed3665f29b80e9c8aa7f0f04",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "remoto",
-        "stale"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-02-10T17:55:38Z",
-      "updatedAt": "2026-04-18T02:49:40Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1242",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_cbbd9c70b7250bcddbcaf3be",
       "sourceId": "awesome-jobs/vietnam#4892",
       "title": "Hiring Remote - Senior Fullstack AI & QA Engineer | Up to $6000 Gross",
@@ -745,6 +708,47 @@
       "createdAt": "2026-02-04T15:14:46Z",
       "updatedAt": "2026-02-04T15:14:46Z",
       "url": "https://github.com/datascience-br/vagas/issues/156",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8e17475ccce44e680c92068f",
+      "sourceId": "soujava/vagas-java#1858",
+      "title": "[REMOTO] Desenvolvedor(a) Java Pleno na DB1",
+      "description": "## Descrição da vaga\n<!-- Informe mais detalhes sobre a vaga --> \n\nVocê será o responsável por participar das definições e evoluções da arquitetura de software, garantindo eficiência, escalabilidade  e segurança além, claro, do alinhamento com as necessidades do negócio e as melhores práticas de engenharia.\n\n## Local\n\nRemoto ou Escritório, São Paulo - Vila Olímpia\n\n## Benefícios\n\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nCrédito Consignado com as melhores taxas (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n## Diferenciais\n\n- 2 horas de almoço\n- Monte a sua máquina como desejar\n- Frigobar sempre cheio :P\n- Sala de jogos\n...\n\n## Requisitos\n\n#### Obrigatórios:\n<!-- Adicione os detalhes obrigatórios para a vaga -->\n\nPerfil que buscamos:\n\nExperiência com integração de API's (REST, SOAP e GraphQL) para o contexto de ERP (módulos pedido/produto/estoque) e Plataforma (e-commerce);\nExperiência com Java, Spring Boot, Angular (JS e 2+) e Liquibase;\nConhecimento avançado em Design Pattern, SOLID, Clean Code e Segurança;\nConhecimento em arquitetura distribuída com AWS, NGINX, Docker e Kubernetes;\nConhecimento em observabilidade de software com ferramentas como Kibana e/ou Grafana;\nConhecimento em fluxo de trabalho com Git e GitFlow;\nConceito de mensageria com ActiveMQ e Kafka;\nConceito de banco de dados com PostgreSQL, MongoDB e Redis; e\nExperiência no uso de Inteligência Artificial aplicado a rotina no trabalho.\n\n\n## Contratação\n\n- clt\n\n## Nossa empresa\n\nAqui na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldada por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n\n## Como se candidatar\n\nLink https://db1.inhire.app/vagas/f03b651e-2afc-4644-a51b-f5bb8854c9c4/tech-lead-java?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n\n\n#### Nível\n\n- Especialista",
+      "excerpt": "## Descrição da vaga <!-- Informe mais detalhes sobre a vaga --> Você será o responsável por participar das definições e evoluções da arquitetura de software, garantindo eficiência, escalabilidade e segurança além, cl...",
+      "issueState": "open",
+      "contentHash": "bb669e0bd7fccf271b652586019c9866919957f10a80f64ae7cf0098ae754742",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "remoto",
+        "rest",
+        "spring",
+        "angular",
+        "docker",
+        "soap"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "DB1",
+      "createdAt": "2026-02-03T14:14:33Z",
+      "updatedAt": "2026-04-15T00:23:04Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1858",
       "sourceType": "github-issue"
     }
   ]
