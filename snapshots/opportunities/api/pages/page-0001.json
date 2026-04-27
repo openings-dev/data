@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-04-27T19:07:55.512Z",
+  "generatedAt": "2026-04-27T21:50:46.262Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_97960f30e27ec6a9c51a8615",
     "gh_e7e4a4073f27383bf34c4bd8",
     "gh_f17fc53f656060f5cdee06f5",
     "gh_7e07f369e29e2a6bacb6d970",
@@ -22,10 +23,45 @@
     "gh_d84189d3af685f86cfe258c9",
     "gh_18aeb84c7b8ace6d5be56e77",
     "gh_4a3287b63e4b9420bebc557e",
-    "gh_e927f7a3d5012b5647329bd0",
-    "gh_57ed728934c67b37c0bed798"
+    "gh_e927f7a3d5012b5647329bd0"
   ],
   "items": [
+    {
+      "id": "gh_97960f30e27ec6a9c51a8615",
+      "sourceId": "ambicuity/New-Grad-Jobs#260",
+      "title": "🚨 Board is stale — scraper may have stopped",
+      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T18:17:01Z` |\n| Stale for | 92 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
+      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T18:17:01Z` | | Stale for | 92 ...",
+      "issueState": "open",
+      "contentHash": "1789146490cfdb05b30001f98d198735d5384db965ce169b2d35a6d0af0e8a7f",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "stale",
+        "priority: critical",
+        "automation"
+      ],
+      "author": {
+        "id": "github-actions[bot]",
+        "name": "github-actions[bot]",
+        "handle": "github-actions[bot]",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-27T19:49:47Z",
+      "updatedAt": "2026-04-27T19:49:57Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/260",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e7e4a4073f27383bf34c4bd8",
       "sourceId": "ambicuity/New-Grad-Jobs#259",
@@ -717,45 +753,6 @@
       "createdAt": "2026-04-23T13:40:57Z",
       "updatedAt": "2026-04-24T14:42:49Z",
       "url": "https://github.com/backend-br/vagas/issues/12226",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_57ed728934c67b37c0bed798",
-      "sourceId": "qa-brasil/vagas#1250",
-      "title": "[100% Remoto] QA Jr na Codeleap",
-      "description": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap.\n\nEssa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática trabalhando com produtos reais e clientes internacionais.\n\nNo dia a dia, você vai testar aplicações web e mobile, identificar bugs, garantir a qualidade das entregas e trabalhar próximo de desenvolvedores e produto.\n\n## Local de trabalho\n\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência inicial com testes manuais (projetos pessoais, acadêmicos ou profissionais)\n- Inglês intermediário (leitura e escrita para documentação e bug reports)\n- Noção básica de desenvolvimento web/mobile (especialmente React / React Native)\n- Boa comunicação e vontade de aprender\n\n**Desejáveis**\n- Conhecimento básico em testes automatizados\n- Experiência com organização de casos de teste e documentação\n- Interesse em produto e experiência do usuário\n\n**Diferenciais**\n- Experiência prévia em projetos reais (mesmo que pequenos)\n- Perfil detalhista e curioso\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Trabalho 100% remoto\n- Horário flexível\n- Ambiente colaborativo e informal\n\n**Diferenciais**\n- Projetos reais com clientes internacionais (UK/EU)\n- Crescimento rápido com possibilidade de assumir mais responsabilidades\n- Mentoria e feedback constante\n- Aulas semanais de conversação em inglês\n- Bônus por performance (possibilidade de 13º e 14º salário)\n\n## Range Salarial\n\nA vaga paga entre R$2.000,00 e R$3.000,00 reais.\n\n## Sobre a empresa\n\nA CodeLeap é uma software house com base em Londres, trabalhando com clientes internacionais. Somos um time pequeno, focado em qualidade, aprendizado constante e desenvolvimento rápido dos nossos membros.\n\n## Como se candidatar\n\n- Candidatar através do formulário:\nhttps://docs.google.com/forms/d/e/1FAIpQLScMTarmAMcuEt51vYXX_5RGS4AfsYQD_kqDWaqgRkMf5uRxyQ/viewform\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada etapa do processo.\n\nE-mail para contato em caso de dúvidas: vini.garcia@codeleap.co.uk\n\n## Labels\n\n- PJ\n- Júnior\n- Remoto\n- Exterior\n```",
-      "excerpt": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap. Essa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática tra...",
-      "issueState": "open",
-      "contentHash": "ffc66f263900c7bb2c29f235523a4a5951900b595da1d4d24073a35871374c71",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "estágio",
-        "exterior",
-        "júnior",
-        "inglês"
-      ],
-      "author": {
-        "id": "dudamassena",
-        "name": "dudamassena",
-        "handle": "dudamassena",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/278477713?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Trabalho 100% remoto",
-      "createdAt": "2026-04-22T17:49:17Z",
-      "updatedAt": "2026-04-24T19:07:27Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1250",
       "sourceType": "github-issue"
     }
   ]

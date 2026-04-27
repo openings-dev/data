@@ -1,16 +1,52 @@
 {
-  "generatedAt": "2026-04-27T19:07:55.512Z",
+  "generatedAt": "2026-04-27T21:50:46.262Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 14,
-    "openIssues": 6,
+    "opportunities": 15,
+    "openIssues": 7,
     "closedIssues": 8
   },
-  "dataHash": "6068dcacabee928d63cf1bb7d8c2dc29695c6a62d4a22b4a490729b5ad7be9e9",
+  "dataHash": "63bca6996f364d8b973f293037071949d138d6d7b101eeae134db651040c89d7",
   "items": [
+    {
+      "id": "gh_97960f30e27ec6a9c51a8615",
+      "sourceId": "ambicuity/New-Grad-Jobs#260",
+      "title": "🚨 Board is stale — scraper may have stopped",
+      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T18:17:01Z` |\n| Stale for | 92 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
+      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T18:17:01Z` | | Stale for | 92 ...",
+      "issueState": "open",
+      "contentHash": "1789146490cfdb05b30001f98d198735d5384db965ce169b2d35a6d0af0e8a7f",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "stale",
+        "priority: critical",
+        "automation"
+      ],
+      "author": {
+        "id": "github-actions[bot]",
+        "name": "github-actions[bot]",
+        "handle": "github-actions[bot]",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-27T19:49:47Z",
+      "updatedAt": "2026-04-27T19:49:57Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/260",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e7e4a4073f27383bf34c4bd8",
       "sourceId": "ambicuity/New-Grad-Jobs#259",

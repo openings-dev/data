@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-04-27T19:07:55.512Z",
+  "generatedAt": "2026-04-27T21:50:46.262Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_fbf342fe13cd02bad05d2ee2",
     "gh_b0b25f9f51d0e7f1c185dc60",
     "gh_8d3d4b455493191722317dda",
     "gh_9b5d9fbb31d726e63b2d6852",
@@ -22,10 +23,43 @@
     "gh_018090ae0b51c7fe869fe122",
     "gh_326302de3583c428e75c13a7",
     "gh_56647ce0f055e747d42f4222",
-    "gh_f1495b68fe7d4f8349ceb1b6",
-    "gh_bf09c7d748b34bd02d2443a5"
+    "gh_f1495b68fe7d4f8349ceb1b6"
   ],
   "items": [
+    {
+      "id": "gh_fbf342fe13cd02bad05d2ee2",
+      "sourceId": "zapplyjobs/Internships-2026#2",
+      "title": "📊 Discord Health Monitoring (Internships)",
+      "description": "This issue tracks automated Discord health verification results for Internships 2026.\n\n**Latest reports will be posted as comments below.**",
+      "excerpt": "This issue tracks automated Discord health verification results for Internships 2026. **Latest reports will be posted as comments below.**",
+      "issueState": "open",
+      "contentHash": "d43ee2c75b5724816694fb2d437f8529a4175f27396c52a8b682bff682502076",
+      "repository": "zapplyjobs/Internships-2026",
+      "repositoryUrl": "https://github.com/zapplyjobs/Internships-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "health-monitoring",
+        "automation"
+      ],
+      "author": {
+        "id": "github-actions[bot]",
+        "name": "github-actions[bot]",
+        "handle": "github-actions[bot]",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/Internships-2026",
+        "url": "https://github.com/zapplyjobs/Internships-2026"
+      },
+      "createdAt": "2026-01-27T01:32:50Z",
+      "updatedAt": "2026-02-02T01:34:35Z",
+      "url": "https://github.com/zapplyjobs/Internships-2026/issues/2",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b0b25f9f51d0e7f1c185dc60",
       "sourceId": "pythonjobs/jobs#442",
@@ -733,41 +767,6 @@
       "createdAt": "2025-12-31T09:25:54Z",
       "updatedAt": "2025-12-31T09:28:08Z",
       "url": "https://github.com/didtheyghostme/Singapore-Summer2026-TechInternships/issues/1",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bf09c7d748b34bd02d2443a5",
-      "sourceId": "react-brasil/vagas#2993",
-      "title": "Vaga: Desenvolvedor(a) Frontend Júnior – React.js",
-      "description": "# 🚀 Vaga: Desenvolvedor(a) Frontend Júnior – React.js\n\n## Sobre a empresa\nA **contabilidade.com** é uma empresa de tecnologia focada em criar software contábil para simplificar a vida de empreendedores no Brasil. Somos um time pequeno, enxuto e altamente colaborativo, onde produto e engenharia trabalham juntos diariamente.\n\nAqui você vai ter contato com um **produto real em produção**, aprender como decisões técnicas impactam clientes de verdade e evoluir junto com o time.\n\n---\n\n## 🎯 O que você vai fazer\n- Desenvolver interfaces usando **React.js**\n- Trabalhar com componentes reutilizáveis, props e estado\n- Consumir **APIs REST**\n- Ajustar layouts e estilos seguindo design e UX\n- Participar de **code reviews** e aprender padrões do time\n- Versionar código usando **Git**\n\n> 💡 Esta é uma vaga **júnior**. Existe uma curva de aprendizado clara e você terá acompanhamento, mas também precisará estudar e evoluir com autonomia.\n\n---\n\n## ✅ Requisitos obrigatórios\n- Conhecimento básico em **HTML, CSS e JavaScript**\n- Noções iniciais de **React.js** (componentes, props, estado)\n- Vontade real de aprender e evoluir tecnicamente\n- Boa comunicação e abertura para feedback\n- Organização e responsabilidade com prazos\n\n---\n\n## ⭐ Diferenciais (não obrigatórios)\n- Projetos pessoais ou cursos em React\n- Noções de consumo de API (`fetch`, `axios`)\n- Conhecimento básico de **Git/GitHub**\n- Interesse em boas práticas e performance frontend\n\n---\n\n## 📚 O que você vai aprender aqui\n- React aplicado em **ambiente de produção**\n- Organização de projetos frontend reais\n- Integração frontend ↔ backend\n- Build, deploy e ambientes com **Cloudflare**\n- Como o frontend impacta métricas de negócio e experiência do usuário\n\n---\n\n## 💼 Modelo de trabalho\n- 💻 **Remoto**\n- 🕘 Horário comercial\n- 📄 Contrato PJ\n\n\n---\n\n## 📩 Como se candidatar\nEnvie seu **CV ou LinkedIn**, para **talentos@contabilidade.com** incluindo:\n- Um breve resumo da sua experiência\n- Links de projetos (GitHub, portfólio ou similares)\n\n---\n\nSe você quer sair do básico, aprender React de verdade e trabalhar em um produto real, essa vaga é para você 🚀",
-      "excerpt": "# 🚀 Vaga: Desenvolvedor(a) Frontend Júnior – React.js ## Sobre a empresa A **contabilidade.com** é uma empresa de tecnologia focada em criar software contábil para simplificar a vida de empreendedores no Brasil. Somo...",
-      "issueState": "open",
-      "contentHash": "960c3e75f18f5d29f0ba4ea0323007913152af03a2fa0662c00998fba2c44cbd",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto",
-        "⚖️ pj",
-        "👦 junior"
-      ],
-      "author": {
-        "id": "marcelosv",
-        "name": "marcelosv",
-        "handle": "marcelosv",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8119208?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2025-12-30T13:45:25Z",
-      "updatedAt": "2026-03-18T10:37:00Z",
-      "url": "https://github.com/react-brasil/vagas/issues/2993",
       "sourceType": "github-issue"
     }
   ]

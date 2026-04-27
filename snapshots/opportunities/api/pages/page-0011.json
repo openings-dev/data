@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-04-27T19:07:55.512Z",
+  "generatedAt": "2026-04-27T21:50:46.262Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_85e96ece37aa7c4072d4d09a",
     "gh_c6e5cde5cf70452b958787bd",
     "gh_7090b13757103ad4886dca79",
     "gh_e2bf92920267625501ec5bdc",
@@ -22,10 +23,42 @@
     "gh_926f3c14cae6e82e67bdbdbf",
     "gh_26085b80562d970f087f85db",
     "gh_c1cea2402373fd5357a46ba9",
-    "gh_81aa8bfda8cd75209a233f69",
-    "gh_5e7c0ed3e21fb1a527ca77ca"
+    "gh_81aa8bfda8cd75209a233f69"
   ],
   "items": [
+    {
+      "id": "gh_85e96ece37aa7c4072d4d09a",
+      "sourceId": "datascience-br/vagas#150",
+      "title": "[REMOTO]  Analista de Dados (GCP)",
+      "description": "https://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff \nDescrição:\nBuscamos uma pessoa capaz de transformar dados em estratégia, com facilidade para transitar entre times técnicos e de negócio, conectando necessidades a soluções estruturadas e escaláveis. O foco da vaga é analisar e compreender produtos digitais, estruturando a ingestão e disponibilização desses dados no datalake para apoiar análises em um cliente do setor da saúde.\n\nValorizamos alguém com boa capacidade de organização, planejamento de escopo e execução das atividades de análise e especificação, garantindo entregas claras e consistentes para o time de engenharia realizar a implementação.\n\nRequisitos:\nObrigatório:\n\nExperiência com SQL e modelagem de dados (relacional e dimensional) em torno de 2 a 3 anos de experiência.\nConhecimento em arquiteturas de dados modernas e ambientes em nuvem (GCP - mínimo 1 ano).\nCapacidade analítica e visão de negócio para traduzir métricas em impacto.\nVivência com gestão de backlog, priorização de demandas e comunicação entre áreas.\nBoa comunicação e perfil colaborativo para atuar como ponte entre tecnologia e negócio.\nPró-atividade, capacidade de trabalhar em equipe, organização, e respeitar prazos\nCapacidade de planejar escopo e execução das atividades de análise e especificação para time de Engenharia de Dados\n\n\nDesejável:\n\nExperiência com integração de sistemas via API (XML, JSON, etc.).\nExperiência com DB NoSQL.\nExperiência com ferramentas de orquestração e integração (Airflow, Composer, BigQuery).\nConhecimento em outros ambientes clouds além de GCP, especialmente AWS e seus serviços\n\n\nAtribuições:\nAtuar na interface entre o negócio e o time de engenharia de dados, compreendendo as demandas estratégicas e traduzindo-as em requisitos técnicos.\nAvaliar necessidades de integração entre sistemas/ferramentas e o datalake, sejam via BD SQL e NoSQL, API, SFTP, entre outras.\nPlanejar e gerenciar o backlog de dados, garantindo priorização, clareza e alinhamento com as áreas envolvidas.\nCriar e otimizar modelos de dados e pipelines, assegurando qualidade, governança e consistência das informações.\nEscrever e revisar queries SQL complexas para análises, integrações e suporte à tomada de decisão.\nApoiar a construção de dashboards e indicadores que analisam questões sobre FINOPS.\nColaborar com engenheiros de dados e analistas de BI na criação de soluções em nuvem (GCP).\nRealizar a modelagem dimensional (fatos e dimensões) dos dados.\nInformações Adicionais:\nO que oferecemos para você crescer junto com a gente:\n\n🎓 Programa de Certificações para apoiar seu desenvolvimento técnico.\n\n🚀 Programa de Formação de Lideranças para quem busca evoluir na carreira como líder.\n\n📈 Plano de Desenvolvimento Individual estruturado, personalizado e contínuo.\n\n📚 Descontos em cursos de graduação e pós-graduação da PUCRS, ampliando suas oportunidades de aprendizado.\n\n💬 Encontros para troca de conhecimento com colegas da equipe.\n\n🤝 Rede interna com especialistas em dados, fortalecendo seu networking.\n\n🏆 Programa de incentivo à criação de conteúdos, premiando quem compartilha conhecimento nas redes da empresa.\n\n[Quero me candidatar] \n\nhttps://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff",
+      "excerpt": "https://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff Descrição: Buscamos uma pessoa capaz de transformar dados em estratégia, com facilidade para transitar entre times téc...",
+      "issueState": "open",
+      "contentHash": "6f6b0c7d767defb5e6facec140d9b210c5ca111525c2166c18680a5f81ee3008",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "arthurdepauli",
+        "name": "arthurdepauli",
+        "handle": "arthurdepauli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95439507?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2025-10-20T20:18:25Z",
+      "updatedAt": "2025-10-20T20:18:25Z",
+      "url": "https://github.com/datascience-br/vagas/issues/150",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c6e5cde5cf70452b958787bd",
       "sourceId": "datascience-br/vagas#149",
@@ -719,48 +752,6 @@
       "createdAt": "2025-08-21T12:47:19Z",
       "updatedAt": "2025-08-21T12:47:19Z",
       "url": "https://github.com/TechnologyMasters/jobs/issues/719",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5e7c0ed3e21fb1a527ca77ca",
-      "sourceId": "Empregos-dev/Vagas-dev#108",
-      "title": "🚀 Vaga Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟 📍 São Paulo - Barueri 🚀",
-      "description": "# Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟\n\n- 📍 Localização: São Paulo - Barueri\n- 📈 Nível: pleno\n- 📃 Contrato: clt\n- 💰 Salário: R$ 4.000,00 - R$ 5.000,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\nEmpresa de tecnologia que atua com inteligência artificial especializada em logística, oferecendo soluções para otimização e automação de operações, com foco em eficiência e sustentabilidade na cadeia de suprimentos. 🏢\n\n\n## Atividades e responsabilidade:\n• Desenvolver e implementar sistemas com C# e JavaScript\n• Criar e consumir APIs RESTful\n• Projetar e manter bancos de dados relacionais (ex: SQL Server)\n• Contribuir com interfaces e funcionalidades web\n• Garantir qualidade de código e entregas dentro dos prazos\n\n\n## Requisitos:\n✔ Experiência em C# e JavaScript\n✔ Conhecimento em APIs RESTful e desenvolvimento web\n✔ Vivência com bancos de dados relacionais\n✔ Organização e autonomia no trabalho\n✔ Boa comunicação com equipe e stakeholders\n✔ Disponibilidade para trabalho 100% presencial em Alphaville\n\n\n## Benefícios:\n• Vale Refeição (R$ 30,00/dia) \n• Plano de saúde e odontológico sem custo\n• Seguro de vida\n\n## Mais Informações:\n🔹 Experiência com ASP.NET Core\n🔹 Conhecimento em metodologias ágeis\n🔹 Capacidade de propor soluções criativas e escaláveis\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/desenvolvedora-backend-pleno-c-javascript-8249)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
-      "excerpt": "# Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟 - 📍 Localização: São Paulo - Barueri - 📈 Nível: pleno - 📃 Contrato: clt - 💰 Salário: R$ 4.000,00 - R$ 5.000,00 - 🏃‍♂️ Corre para se candidatar, ainda dá tempo...",
-      "issueState": "open",
-      "contentHash": "c2d8fe8733f02d6ca8788fa124158bbbe48ccab2129c27ceaae1230f548d891e",
-      "repository": "Empregos-dev/Vagas-dev",
-      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "c#",
-        "pleno",
-        "são paulo - barueri"
-      ],
-      "author": {
-        "id": "ecossistemadev",
-        "name": "ecossistemadev",
-        "handle": "ecossistemadev",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
-      },
-      "community": {
-        "id": "Empregos-dev",
-        "name": "Empregos-dev",
-        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
-        "repository": "Empregos-dev/Vagas-dev",
-        "url": "https://github.com/Empregos-dev/Vagas-dev"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 4000,
-        "max": 5000,
-        "period": "year"
-      },
-      "createdAt": "2025-08-08T00:46:06Z",
-      "updatedAt": "2025-08-08T00:46:06Z",
-      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/108",
       "sourceType": "github-issue"
     }
   ]
