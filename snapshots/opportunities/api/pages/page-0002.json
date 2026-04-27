@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T08:10:31.816Z",
+  "generatedAt": "2026-04-27T10:56:09.001Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
@@ -18,12 +18,12 @@
     "gh_7c39a40b8a4efe9ae1a027ab",
     "gh_d6831d3d8f596e82c2d41adf",
     "gh_071e72f024896d1c946f6339",
-    "gh_fcc326c9dd1dfad7a787701e",
     "gh_f3ff22243be6d0586dd15828",
     "gh_c55c0ec98d8be9c01ebe7432",
     "gh_5497a5e458f49acc5e1cf37d",
     "gh_8777cd006ad733183f19a745",
-    "gh_ca26ef869a98ecd54b9a2660"
+    "gh_ca26ef869a98ecd54b9a2660",
+    "gh_b5220ce704e9136f8724e349"
   ],
   "items": [
     {
@@ -531,43 +531,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_fcc326c9dd1dfad7a787701e",
-      "sourceId": "ambicuity/New-Grad-Jobs#245",
-      "title": "[Feature]: add publish-time URL safety validation for jobs artifact output",
-      "description": "### Problem\nThe pipeline validates schema/contracts but does not enforce a strict publish-time URL safety gate before writing `docs/jobs.json`. Unsafe or malformed links (non-http schemes, localhost/private-network targets, invalid hosts) could be published into public artifacts.\n\n### Proposed Solution\nAdd publish-time URL safety validation before artifact write/finalization:\n- allow only `http`/`https`\n- reject localhost/private IP ranges/metadata endpoints/malformed hosts\n- surface blocked-count telemetry in health output\n- optionally fail fast or mark degraded when violations exceed a threshold\n\n### Alternatives Considered\n- Rely on liveness checks only (too late: unsafe links may already be published).\n- Manual cleanup through issue reports (reactive and inconsistent).\n\n### 🏗️ Which area does this affect?\n🤖 Core scraper (scripts/update_jobs.py)\n\n### Constraints Check\n- [x] This does NOT require an external database (PostgreSQL, Redis, SQLite, etc.)\n- [x] This does NOT require a frontend framework (React, Vue, Next.js, Tailwind)\n- [x] This does NOT require an external orchestrator (Airflow, Celery, etc.)",
-      "excerpt": "### Problem The pipeline validates schema/contracts but does not enforce a strict publish-time URL safety gate before writing `docs/jobs.json`. Unsafe or malformed links (non-http schemes, localhost/private-network ta...",
-      "issueState": "open",
-      "contentHash": "ad4775ddc1d49d6fbddec06f80048ce3e191f8b955fcc0cac53e300bb1313a41",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "needs-triage",
-        "priority: medium",
-        "enhancement",
-        "intermediate"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-08T15:03:08Z",
-      "updatedAt": "2026-04-08T15:08:32Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/245",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_f3ff22243be6d0586dd15828",
       "sourceId": "ambicuity/New-Grad-Jobs#244",
       "title": "[Feature]: canonicalize job URLs before deduplication and job_id generation",
@@ -744,6 +707,37 @@
       "createdAt": "2026-04-07T12:37:59Z",
       "updatedAt": "2026-04-07T12:38:19Z",
       "url": "https://github.com/backend-br/vagas/issues/12219",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_b5220ce704e9136f8724e349",
+      "sourceId": "timqian/open-source-jobs#169",
+      "title": "[FOR HIRE] Freelance Developer – Open to Small Tasks & Gigs",
+      "description": "🚀 Available for Freelance Work!\n\nI'm looking for small-to-medium coding tasks and gigs.\nWhat I can help with:\n- Bug fixes & code reviews\n- Script writing & automation\n- Small feature builds\n- Debugging & refactoring\n\nFlexible on stack. Fast turnaround. Open to one-time or recurring work.\nFeel free to reach out — let's build something! 💻",
+      "excerpt": "🚀 Available for Freelance Work! I'm looking for small-to-medium coding tasks and gigs. What I can help with: - Bug fixes & code reviews - Script writing & automation - Small feature builds - Debugging & refactoring F...",
+      "issueState": "open",
+      "contentHash": "a830765badcd83ba6179cbbcb920fee14048a897fbe01fc76415352cafad8745",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "BMG042",
+        "name": "BMG042",
+        "handle": "BMG042",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/217911374?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-04-06T22:58:07Z",
+      "updatedAt": "2026-04-26T12:52:37Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/169",
       "sourceType": "github-issue"
     }
   ]

@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-04-27T08:10:31.816Z",
+  "generatedAt": "2026-04-27T10:56:09.001Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
-    "gh_74e792fd5180bf0fee5883a2",
     "gh_0f0495da862b94749892e684",
     "gh_f08d1bcb1ff6e9045085efa8",
     "gh_3ae6e4053a144758170ff4dc",
@@ -23,44 +22,10 @@
     "gh_7affd1510d29cbfc03c0f24b",
     "gh_5903d3232c2f99d9ae568fe8",
     "gh_6af0e06bd0406d8e1d62b180",
-    "gh_5e3fc1e256e628bfb7f7bdcc"
+    "gh_5e3fc1e256e628bfb7f7bdcc",
+    "gh_eae48d87a90e3ffbeb60afaf"
   ],
   "items": [
-    {
-      "id": "gh_74e792fd5180bf0fee5883a2",
-      "sourceId": "backend-br/vagas#12206",
-      "title": "[Job] Senior Backend Engineer (+10 YOE) - Remote (Brazil South/Southeast Only) - Paid in USD 🚀",
-      "description": "[Job] Senior Backend Engineer (+10 YOE) - Remote (Brazil South/Southeast Only) - Paid in USD 🚀\n\n📍 Location & Eligibility\n100% Remote\nMust be based in the South or Southeast regions of Brazil (PR, SC, RS, SP, RJ, MG, ES).\nFluent English is mandatory for global collaboration.\n\n🏢 The Mission: Ownership & Scale\nWe are looking for a battle-tested ### Senior Backend Engineer with over 10 years of experience. At this level, we aren't just looking for someone who writes code; we need an engineer who can deliver reliable, secure, and observable services—and truly ### own them in production.\n\nIf you believe in ### simplicity over over-engineering and have the \"operational muscle\" to handle systems at scale, we want to talk to you.\n\n🎯 What You Will Do\n\n- Design & Implement: Architect backend services and APIs with a focus on long-term maintainability and pragmatic simplicity.\n- Data Strategy: Work effectively across both SQL and NoSQL environments, choosing the right data models and storage technologies for specific problems.\n- Quality First: Build robust automated testing (unit, integration, e2e), ensuring CI/CD readiness and implementing safe rollout patterns.\n- Operational Excellence: Own the full lifecycle—logs, metrics, traces, and alerting. Participate in on-call support when needed and drive post-incident improvements.\n\n✅ Strong Signals (Requirements)\n\n- Experience: 10+ years of solid backend engineering experience.\n- Communication: Fluent English (written and spoken) is mandatory.\n- Pragmatism: You make architectural decisions based on business value, delivering in small, continuous increments.\n- Automation Mindset: You proactively identify and reduce manual bottlenecks through automation.\n- Location: Residing in the South or Southeast of Brazil is a requirement for this role.\n\n💰 Benefits\n\n100% Remote: Full flexibility to work from home.\nUSD Compensation: Competitive salary paid in US Dollars (high purchasing power in Brazil).\nHigh Autonomy: Direct impact on technical decisions without micromanagement.\n\n📝 How to Apply\n\nPlease send your LinkedIn profile, GitHub, or Resume to [psicomatheuspedroza@gmail.com](mailto:psicomatheuspedroza@gmail.com) with the subject: \"Senior Backend Engineer - Brazil SE/S - [Your Name]",
-      "excerpt": "[Job] Senior Backend Engineer (+10 YOE) - Remote (Brazil South/Southeast Only) - Paid in USD 🚀 📍 Location & Eligibility 100% Remote Must be based in the South or Southeast regions of Brazil (PR, SC, RS, SP, RJ, MG, ...",
-      "issueState": "open",
-      "contentHash": "5148d3a84e56986752c521c3833a575435fe94d25c330d41e9a2510be778e1e5",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sql",
-        "ci/cd",
-        "solid"
-      ],
-      "author": {
-        "id": "psicomatheuspedroza",
-        "name": "psicomatheuspedroza",
-        "handle": "psicomatheuspedroza",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/267138057?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-03-10T19:39:29Z",
-      "updatedAt": "2026-04-11T02:00:43Z",
-      "url": "https://github.com/backend-br/vagas/issues/12206",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_0f0495da862b94749892e684",
       "sourceId": "react-native-drops/vagas#148",
@@ -766,6 +731,43 @@
       "createdAt": "2026-03-03T14:44:39Z",
       "updatedAt": "2026-03-03T14:45:31Z",
       "url": "https://github.com/programadores-br/geral/issues/3056",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_eae48d87a90e3ffbeb60afaf",
+      "sourceId": "qa-brasil/vagas#1243",
+      "title": "[Remoto] QA Pleno na BLIS",
+      "description": "## Descrição da vaga\n\nSomos o primeiro aplicativo do mundo que dá acesso legal a Cannabis Medicinal. Com mais de 500 mil downloads, a blis está presente em mais de 800 cidades brasileiras, realizando todo o passo a passo necessário para que qualquer pessoa encontre a sua melhor versão.\n\nhttps://apps.apple.com/br/app/blis-da-consulta-%C3%A0-entrega/id6474689421\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\n• Experiência como QA Pleno (mínimo 2 anos)\n• Escrita estruturada de cenários de teste\n• Documentação\n• Jira\n• Testes manuais estruturados\n• Testes exploratórios e regressivos\n• Testes automatizados\n\nConhecimento em:\n\n• Noções de testes de API (Postman ou similar)\n• Noções de SQL para validação de dados\n• Experiência validando fluxos entre Web e App\n\nPerfil Comportamental:\n\n• Perfil analítico (questiona regras, não testa apenas botões)\n• Proativo na identificação de riscos\n• Comunicação clara com time técnico\n• Organização na documentação\n• Visão sistêmica (entende impactos entre telas, status e integrações)\n\n**Diferenciais**\n• Experiência com automação E2E (Maestro Studio)\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- 30 dias de descanso remunerado\n- Wellhub\n- 10% do salário de bônus com metas batidas \n\n## Como se candidatar\n\n- Enviar e-mail para big@appblis.com com pretensão salarial PJ e o currículo.\n\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- PJ\n- Pleno\n- Sênior\n- Remoto",
+      "excerpt": "## Descrição da vaga Somos o primeiro aplicativo do mundo que dá acesso legal a Cannabis Medicinal. Com mais de 500 mil downloads, a blis está presente em mais de 800 cidades brasileiras, realizando todo o passo a pas...",
+      "issueState": "open",
+      "contentHash": "e1f96b2b843dc90452cae5ac516eb4cd7479441cff3d4d3932f5c0e0d6467bf1",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "marceloblis",
+        "name": "marceloblis",
+        "handle": "marceloblis",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/219734845?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "30 dias de descanso remunerado",
+      "createdAt": "2026-03-02T16:16:49Z",
+      "updatedAt": "2026-04-24T15:14:14Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1243",
       "sourceType": "github-issue"
     }
   ]

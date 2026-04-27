@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T08:10:31.816Z",
+  "generatedAt": "2026-04-27T10:56:09.001Z",
   "items": [
     {
       "id": "gh_d02a0dd117513c807d4acb2a",
@@ -136,10 +136,6 @@
     {
       "id": "gh_071e72f024896d1c946f6339",
       "text": "[feature]: add backend/frontend location taxonomy contract checks to prevent filter drift ### problem location semantics are maintained in multiple places (scripts/update_jobs.py and docs/app.js). these can drift independently, leading to inconsistent filtering ux (backend accepts values that ui cannot... ambicuity/new-grad-jobs united states north america ambicuity ambicuity help wanted needs-triage priority: medium enhancement"
-    },
-    {
-      "id": "gh_fcc326c9dd1dfad7a787701e",
-      "text": "[feature]: add publish-time url safety validation for jobs artifact output ### problem the pipeline validates schema/contracts but does not enforce a strict publish-time url safety gate before writing docs/jobs.json. unsafe or malformed links (non-http schemes, localhost/private-network ta... ambicuity/new-grad-jobs united states north america ambicuity ambicuity help wanted needs-triage priority: medium enhancement intermediate"
     },
     {
       "id": "gh_f3ff22243be6d0586dd15828",
