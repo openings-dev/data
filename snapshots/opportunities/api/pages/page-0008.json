@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-04-27T13:22:55.622Z",
+  "generatedAt": "2026-04-27T16:22:21.245Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_b0b25f9f51d0e7f1c185dc60",
+    "gh_8d3d4b455493191722317dda",
+    "gh_9b5d9fbb31d726e63b2d6852",
     "gh_777d6953c094c4c77cffa586",
     "gh_1ab454dc5165fc4144b1968a",
     "gh_2dda52493191f3b9d796a75a",
@@ -20,12 +23,121 @@
     "gh_326302de3583c428e75c13a7",
     "gh_56647ce0f055e747d42f4222",
     "gh_f1495b68fe7d4f8349ceb1b6",
-    "gh_bf09c7d748b34bd02d2443a5",
-    "gh_90da04043225a0b75c5b63f5",
-    "gh_cccc647d1b2e3d65a42512e1",
-    "gh_dba07fb4dd7b863f0e8212c4"
+    "gh_bf09c7d748b34bd02d2443a5"
   ],
   "items": [
+    {
+      "id": "gh_b0b25f9f51d0e7f1c185dc60",
+      "sourceId": "pythonjobs/jobs#442",
+      "title": "Lead Graphics Engineer",
+      "description": "🎮 **We’re hiring a Rendering Engine Lead to redefine how buildings are visualized.**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission: **use software to change the way we build**—turning complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n\nOur platform digests massive BIM models, uses **AI** to generate logical assembly sequences, and visualizes them in a **custom 3D engine**.\nWe’re building the **operating system for the next generation of construction**.\n\n📊 **Proof, not promises**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nThe impact: less re-work, compressed schedules, and reduced carbon emissions ♻️\n\n🚀 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the software team to ship the **next-gen Pilot** and make **digital assembly the industry standard**.\n\n🧠 **Your Mission**\nTake full ownership of our **web-based rendering engine**.\nYou’ll lead the strategic transition from **Autodesk Viewer** to a fully custom, high-performance rendering solution—defining how massive construction datasets are visualized and interacted with in the browser.\n\n🔧 **What you’ll solve**\n\n* Architect and scale a modular rendering engine using **Three.js + TypeScript**\n* Push browser rendering to its limits (1M+ objects) with batching, instancing, Draco compression, and dynamic **LOD streaming**\n* Build advanced AEC features: **4D simulations**, sectioning, markup, spatial filtering\n* Optimize **GraphQL data pipelines** for decoupled geometry and metadata loading\n* Own visualization infrastructure, **data sovereignty**, and security\n\n💡 **Who you are**\n\n* Mid–Senior level (5+ years) in **Three.js / Babylon.js / WebGL**\n* Deep understanding of **GPU pipelines, GLSL shaders, and WebGL internals**\n* Hands-on experience with **CAD/BIM data** (Revit, Rhino, IFC)\n* Strong foundation in **3D math** (matrices, vectors, quaternions)\n* Fluent in **JavaScript / TypeScript** (C# a plus)\n\n🧪 **A day in the role**\nMorning: Profiling a 500MB BIM model crashing mobile browsers 📱\nMid-day: Writing a custom **GLSL shader** for an X-ray visualization mode 👻\nAfternoon: Designing GraphQL queries to fetch only critical metadata and speed up dashboards ⚡\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **live job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real, physical-world impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 If you love graphics, performance, and building tools that leave the screen and enter the real world, we should talk.\n\n👉 **Apply via our Portal**: https://www.maestro-tech.com/careers/\n\n#Hiring #GraphicsEngineering #ThreeJS #WebGL #RenderingEngine\n#TechCareers #StartupJobs #ConstructionTech #BIM #3DEngine\n#AI #DigitalConstruction #TurinJobs",
+      "excerpt": "🎮 **We’re hiring a Rendering Engine Lead to redefine how buildings are visualized.** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission: **use software to change t...",
+      "issueState": "open",
+      "contentHash": "0d84fb5b015e00d47d2157863446e725f18b7c22a28aa459b35954c3eea1f18a",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "typescript",
+        "java",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:26:42Z",
+      "updatedAt": "2026-01-19T17:26:42Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/442",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8d3d4b455493191722317dda",
+      "sourceId": "pythonjobs/jobs#441",
+      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
+      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
+      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
+      "issueState": "open",
+      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "frontend",
+        "react",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:25:09Z",
+      "updatedAt": "2026-01-19T17:25:09Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/441",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_9b5d9fbb31d726e63b2d6852",
+      "sourceId": "qa-brasil/vagas#1241",
+      "title": "[Remote] QA Jr. na Devvo Tecnologia",
+      "description": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de oportunidades de crescimento, sua busca termina aqui! Sediados em Brasília, nossa missão é impulsionar a sociedade por meio de soluções de ponta, conduzindo a transformação digital de empresas de todos os portes.**\n\n\n**Descrição da Vaga:**\nJunte-se a nós e colabore ativamente no fortalecimento e aprimoramento da nossa equipe de tecnologia. Você terá a oportunidade de participar do desenvolvimento e manutenção de soluções de software de alto desempenho, trabalhando lado a lado com equipes multidisciplinares que garantem a excelência na execução e entrega de projetos ambiciosos.\n\n\n**Responsabilidades:**\nAuxílio na realização de testes de qualidade para assegurar a boa performance dos sistemas;\nHabilidade em identificar e reportar bugs de forma clara e precisa;\nContribuição no desenvolvimento de projetos web e mobile;\nColaboração na melhoria contínua dos processos internos de gestão e desenvolvimento de projetos.\n\n\n**Requisitos:**\nProficiência em metodologias ágeis;\nBoas habilidades de comunicação e trabalho em equipe;\nConhecimento básico de Javascript / Typescript;\nExperiência prévia como Analista de Qualidade em meio corporativo.\n\n\n**Diferenciais:**\nConhecimento básico de Javascript / Typescript;\nConhecimento em ferramentas de automação de testes, como Selenium, Cypress ou Playwright.\n\n**Junte-se a Nós:**\n\nSe você está pronto(a) para um desafio estimulante em um ambiente colaborativo e inovador, este é o momento! Venha fazer parte da nossa equipe dedicada e impulsione sua carreira conosco na Devvo Tecnologia.\n\n\n**Como se candidatar:**\n\nEnvie seu Currículo e LinkedIn atualizado para o e-mail contato@devvo.com.br \nPor favor, inclua no assunto do e-mail \"[Nome] - Analista de qualidade Jr.\". Aguardamos ansiosamente para conhecer você e discutir mais sobre essa oportunidade de trabalho.\n\n\nRegime do trabalho: 100% remoto.\nModelo de Contratação: PJ.",
+      "excerpt": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de...",
+      "issueState": "open",
+      "contentHash": "1f413c7e2291f3bd9c484274a1850e8f239e2714f0eb32385a81ed543216dc8a",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "brasília",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "LucasCamposDevvo",
+        "name": "LucasCamposDevvo",
+        "handle": "LucasCamposDevvo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/191256669?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Devvo Tecnologia",
+      "createdAt": "2026-01-19T15:28:41Z",
+      "updatedAt": "2026-04-02T15:13:35Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1241",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_777d6953c094c4c77cffa586",
       "sourceId": "f2etw/jobs#1165",
@@ -656,117 +768,6 @@
       "createdAt": "2025-12-30T13:45:25Z",
       "updatedAt": "2026-03-18T10:37:00Z",
       "url": "https://github.com/react-brasil/vagas/issues/2993",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_90da04043225a0b75c5b63f5",
-      "sourceId": "f2etw/jobs#1163",
-      "title": "[徵才][台北] 期天資訊 React 前端工程師",
-      "description": "**職缺: 前端工程師**\n\n**能力經歷要求:**\n\n* 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js)\n* 基礎 UI / UX 設計規劃能力\n* 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整\n* 獨立自主學習能力，積極主動\n\n**工作內容：**\n\n開發與維護 React TypeScript 相關專案，包含但不限於：\n\n* 金融交易數據可視化界面 UI/UX\n* 程式交易管理系統\n* 上線金流串接與會員管理系統\n* 電子商務前後台管理系統\n\n**適合此職缺的人格特質：**\n\n* 對金融投資有興趣 (台股期權為主)\n* 喜歡理解新事物，能快速動手實做\n* 善於安排任務優先順序，能靈活應變各類狀況\n* 客戶導向思維，釐清並解決實際問題 (非單純以程式面向考量)\n\n**不適合此職缺的人格特質：**\n\n* 只喜歡獨自埋頭寫程式，排斥溝通討論\n* 不喜歡接觸客戶 ( email / 線上會議 / 實體拜訪)\n* 數字敏銳度低或邏輯推理較差\n\n**薪資(月薪):** 50,000 - 80,000\n\n\n**工作環境與該職缺團隊介紹:**\n\n團隊規模約10人，屬於年輕新創小公司風格，組織扁平，每個人都具有影響力。主要產品為證券期貨交易相關資訊系統，提供即時量化數據網站及自動化程式交易相關技術，客戶包含國內多家大型證券期貨商、顧問公司等。\n\n**工作福利:**\n\n* 職務上手熟悉後，可視情況每週1-2天遠端 WFH\n* 每週兩天免費午餐，另有不定時老闆請客聚餐\n* 各式零食咖啡飲料\n* 每週團體運動時間 (目前是2小時羽球)\n* 公司有兩隻貓會不定時跑來蹭你 (?)\n\n**公司分紅與獎金:** 依年度盈餘及個人考績分紅\n\n**聯絡方式:** Cory / service@futures-ai.com",
-      "excerpt": "**職缺: 前端工程師** **能力經歷要求:** * 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js) * 基礎 UI / UX 設計規劃能力 * 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整 * 獨立自主學習能力，積極主動 **工作內容：** 開發與維護 React TypeScript 相關專案，包含但不限於： * 金融交易數據可視化界面 UI/UX *...",
-      "issueState": "open",
-      "contentHash": "c6211660e67dd99ff6f3718043a8fb2cf05d0b43e925ff1940932d0338810b0f",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "缺休假資訊",
-        "求才",
-        "[b] nodejs",
-        "[f] react",
-        "缺特/彈休資訊",
-        "[f] typescript"
-      ],
-      "author": {
-        "id": "cory8249",
-        "name": "cory8249",
-        "handle": "cory8249",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7524724?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2025-12-20T08:51:33Z",
-      "updatedAt": "2025-12-20T10:19:07Z",
-      "url": "https://github.com/f2etw/jobs/issues/1163",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cccc647d1b2e3d65a42512e1",
-      "sourceId": "programadores-br/geral#3046",
-      "title": "[Hibrido / Brasília, Brasil] Python Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/python-developer-pleno-235834841?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando Python Developer pleno para compor nosso time. \n\nVaga híbrida preferencialmente para Brasília, mas também aceitamos candidatos de Belo Horizonte.\n## Mera: \n Conectamos profissionais da saúde a oportunidades de atendimentos em empresas de saúde. Auxiliamos as empresas de saúde a garantir atendimentos e plantões. A Mera é uma empresa que chegou para inovar no mercado, de forma disruptiva, buscando qualidade, valorização e assertividade dos atendimentos. \n\nundefined \n\n\n\n ## Habilidades: \n - MySQL \n- AWS \n- Amazon EC2 \n- Lambda \n- DynamoDB \n- Airflow\n## Local: \n Brasília, Brasil\n## Requisitos: \n - Conhecimento intermediário em engenharia de dados \n- Banco de dados: Postgres e mysql \n- ⁠AWS: EC2, Lambda, DynamoDB, IAM \n- ⁠ Conhecimento em Airflow \n- ⁠DevOps básico\n## Diferenciais: \n - Azure Básico\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Python Developer (Pleno) na Mera](https://coodesh.com/jobs/python-developer-pleno-235834841?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nBack-End",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "14f35e6db70bbae9e09bdef86e2326ccfff6ad6d93ee7fc45da5f920b6eeb111",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "pleno",
-        "pj",
-        "devops"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-12-19T00:03:55Z",
-      "updatedAt": "2025-12-19T00:04:21Z",
-      "url": "https://github.com/programadores-br/geral/issues/3046",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dba07fb4dd7b863f0e8212c4",
-      "sourceId": "programadores-br/geral#3045",
-      "title": "[Hibrido / Camaçari, Brasil] Analista de Produto na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-produto-135747221?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de um(a) Analista de Produto Sênior – Otimização de Custos (Design-to-Cost) para integrar nosso time de Global Total Cost.\n\nNesta posição estratégica, você será o elo crucial na gestão da eficiência de custos, liderando iniciativas Design-to-Cost desde as fases de pré-programa até o lançamento de novos produtos. Sua atuação focará em componentes críticos, como sistemas de transmissão (Driveline) – Semieixos (\"Halfshafts\"), Cardan (\"Driveshaft\") e Eixos Dianteiro e Traseiro (\"Beam/Non-Beam/eBeam Axles\") – e, eventualmente, estendendo-se a Sistemas de Suspensão, Freios e Direção.\n\n Colaborando estreitamente com as equipes globais de Compras, Desenvolvimento de Produto e Finanças, você atuará como um analista técnico de confiança, identificando e implementando oportunidades significativas de redução de custos e de melhoria da eficiência em todas as fases do ciclo de vida do produto.\n\n O Analista de Produto Sênior será responsável por coordenar a melhoria da eficiência de custos durante o ciclo de desenvolvimento de novos veículos, abrangendo as fases de pré-programa até o lançamento. O foco é garantir o alinhamento de custos com o target do programa através de análises factuais e liderança de iniciativas multifuncionais.\n\nA função exige liderança em processos de otimização de custos e governança de dados:\n\n• Liderança de Cost Loop: Responsável por planejar e conduzir eventos de Cost Loop (agenda, pre-work, decisões e deliverables), alinhando custos ao target do programa.\n\n• Gestão de Custos e Baseline: Manter e gerenciar a baseline de custos (BOM/surrogates vs. intenção do programa, piece price, logística, ferramental e overhead).\n\n• Análise e Suporte Técnico: Entender e suportar o desenvolvimento de estimativas (should-cost), análises por commodity, e apoiar propostas de engenharia (VA/VE - Value Analysis/Value Engineering).\n\n• Identificação de Oportunidades: Conduzir benchmarking/tear-down para mapear oportunidades de saving e identificar riscos de custos.\n\n• Suporte a Negociação: Apoiar a área de Compras fornecendo análises fact-based em negociações e cenários de sourcing.\n\n• Gestão e Reporting: Gerir o tracker de ações (donos, prazos, status), consolidar e reportar o status de custos desde o pré-programa até o lançamento para times funcionais e liderança.\n\n• Governança de Dados: Garantir a governança de dados, versionamento e aderência aos processos internos (ex.: PEL/GPDS).\n\n• Automação: Automatizar e visualizar dados utilizando ferramentas avançadas (Excel avançado/Power Query/Power BI) e preparar pacotes de decisão concisos.\n\n<p>&nbsp;</p>\n## FORD MOTOR: \n <p>A Ford Motor Company é uma companhia global sediada em Dearborn, Michigan. A companhia projeta, fabrica e comercializa uma linha completa de carros, picapes, SUVs, veículos eletrificados, fornece serviços financeiros através da Ford Motor Credit Company e está buscando posições de liderança em eletrificação, soluções de mobilidade; serviços de condução autônoma e veículos conectados. A Ford emprega aproximadamente 188.000 pessoas em todo o mundo.&nbsp;</p></p>\n\n ## Habilidades: \n - Inglês Avançado \n- Gerenciamento de Projetos \n- Comunicação em inglês \n- Comunicação Eficiente \n- Excel \n- Power BI\n## Local: \n Camaçari, Brasil\n## Requisitos: \n - Habilidades Analíticas: Capacidade de analisar dados complexos e métricas financeiras para tomar decisões que melhorem a eficiência de sistemas e peças utilizadas em veículos. \n- Habilidades de Comunicação: Forte capacidade de se comunicar eficazmente com as partes interessadas em todos os níveis da organização. \n- Gerenciamento de Projetos: Competência comprovada em gerenciar projetos complexos que envolvem múltiplas equipes e regiões. \n- Inglês Fluente (Escrita e Oratória) é mandatório. A posição exige comunicação integralmente em Inglês em todas as atividades, incluindo e-mails, reuniões e apresentações para a alta liderança global.\n## Diferenciais: \n - Adoção de Tecnologia: Capacidade de implementar ou utilizar tecnologias avançadas, como Inteligência Artificial (IA) e Aprendizado de Máquina (Machine Learning), para automatizar e aprimorar os processos de gestão de custos.\n## Benefícios: \n - 💰 Competitive salary \n- 👨‍⚕️ Health insurance \n- 🍎 Food allowance \n- 🚗 Mobility aid \n- 🖥️ Connectivity aid \n- 🔠 English Development Platform \n- 💙 Life Insurance \n- 🏋🏽‍♂️ TotalPass \n- 😎 Dayoff \n- 🚘 Discount on the purchase of Ford 0Km vehicles \n- 💰 Profit sharing \n- 👨‍⚕️ Vaccination campaigns \n- 🏊🏻‍♀️ SESC Partnership \n- 🤝 C4Life (Personal Guidance Program: psychological, financial, legal and social) \n- 💰 Private Pension \n- 🩺 Dr. AON (Telemedicine in health)\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Analista de Produto na FORD MOTOR](https://coodesh.com/jobs/analista-de-produto-135747221?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nGestão",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "336b2c1408c4faeba8ea7e7ba729aea80f710adf55591b78e38bd128b8e6d8e1",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "clt",
-        "sênior"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-12-10T18:40:18Z",
-      "updatedAt": "2025-12-10T18:40:44Z",
-      "url": "https://github.com/programadores-br/geral/issues/3045",
       "sourceType": "github-issue"
     }
   ]

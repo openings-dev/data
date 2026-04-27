@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-04-27T13:22:55.622Z",
+  "generatedAt": "2026-04-27T16:22:21.245Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_c6e5cde5cf70452b958787bd",
+    "gh_7090b13757103ad4886dca79",
+    "gh_e2bf92920267625501ec5bdc",
     "gh_26ab24ca90d6fc0833346fde",
     "gh_ff871b03fcabd20a93060047",
     "gh_a28dcf198cb72e661738a7db",
@@ -20,12 +23,125 @@
     "gh_26085b80562d970f087f85db",
     "gh_c1cea2402373fd5357a46ba9",
     "gh_81aa8bfda8cd75209a233f69",
-    "gh_5e7c0ed3e21fb1a527ca77ca",
-    "gh_a6b5c2d40e95e69d36c2b5ca",
-    "gh_962eeb5d07c4cee43120e80f",
-    "gh_4e61569a5d7ecd89c151cb8a"
+    "gh_5e7c0ed3e21fb1a527ca77ca"
   ],
   "items": [
+    {
+      "id": "gh_c6e5cde5cf70452b958787bd",
+      "sourceId": "datascience-br/vagas#149",
+      "title": "[REMOTO] Engenheiro de Dados (GCP)",
+      "description": "https://datalakers.rhstorm.com.br/vagas/engenheiro-de-dados-gcp/a6f5bd12-f718-4772-937e-6b2ec5a14059\n\nDescrição:\nBuscamos um(a) Engenheiro(a) de Dados para atuar em um cliente da área da saúde para implementar pipelines no ambiente GCP usando Composer, Dataproc e BigQuery. Entre os principais desafios, deve definir e implementar pipelines de arquitetura de dados, importação, armazenamento, processamento e visualização.\n\n\n\n\n\nRequisitos:\nObrigatório:\n\nExperiência em desenvolvimento de pipelines de ELT/ETL.\nExperiência em PySpark.\nExperiência em SQL.\nExperiência em GCP (Airflow/Composer, Dataproc e Bigquery).\nConhecimento em Apache Spark.\nExperiência em linguagem de programação Python.\nFamiliaridade com práticas de processamento em Batch e Streaming.\nSuperior completo em Ciência da Computação, Sistemas de Informação, TI e áreas afins.\nPró-atividade, capacidade de trabalhar em equipe, organização, planejamento e respeitar prazos.\n\n\n\n\nDesejável:\n\nCertificação GCP Data Engineer.\nAtribuições:\nDesenvolver pipelines de processamento de dados para ingestão, transformação e carga em tempo hábil e eficiente;\nImplementar e manter integração contínua, visando à automação de processos e melhoria de desempenho.\nColaborar ativamente com o time multidisciplinar para entender as demandas de dados e entregar soluções alinhadas com as necessidades do negócio.\nRealizar análises de performance dos processos e propor otimizações para garantir a escalabilidade e confiabilidade das soluções de engenharia de dados.\nInformações Adicionais:\nInformações Adicionais:O que oferecemos para você crescer junto com a gente:\n\n🎓 Programa de Certificações para apoiar seu desenvolvimento técnico.\n\n🚀 Programa de Formação de Lideranças para quem busca evoluir na carreira como líder.\n\n📈 Plano de Desenvolvimento Individual estruturado, personalizado e contínuo.\n\n📚 Descontos em cursos de graduação e pós-graduação da PUCRS, ampliando suas oportunidades de aprendizado.\n\n💬 Encontros para troca de conhecimento com colegas da equipe.\n\n🤝 Rede interna com especialistas em dados, fortalecendo seu networking.\n\n🏆 Programa de incentivo à criação de conteúdos, premiando quem compartilha conhecimento nas redes da empresa.",
+      "excerpt": "https://datalakers.rhstorm.com.br/vagas/engenheiro-de-dados-gcp/a6f5bd12-f718-4772-937e-6b2ec5a14059 Descrição: Buscamos um(a) Engenheiro(a) de Dados para atuar em um cliente da área da saúde para implementar pipeline...",
+      "issueState": "open",
+      "contentHash": "db3c7189be13501c5c6d17b55d7531a8e48ff9ae5fac598b2e058efad2fbe563",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "data"
+      ],
+      "author": {
+        "id": "arthurdepauli",
+        "name": "arthurdepauli",
+        "handle": "arthurdepauli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95439507?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2025-10-20T20:17:06Z",
+      "updatedAt": "2025-10-20T20:19:01Z",
+      "url": "https://github.com/datascience-br/vagas/issues/149",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7090b13757103ad4886dca79",
+      "sourceId": "datascience-br/vagas#148",
+      "title": "[Hibrido em Savassi - BH 1x p/ semana] Analista de BI Pleno/Sênior - PJ 6,5k - 9k",
+      "description": "## Descrição da vaga\n\nEstamos em busca de um(a) Analista de BI nível Pleno para integrar nosso time de Dados. A atuação será em modelo híbrido, com um dia presencial por semana no bairro Savassi, em Belo Horizonte, alocado em um de nossos clientes. Será responsável por desenvolver relatórios, indicadores e dashboards voltados para as áreas de negócio do cliente, contribuindo diretamente para a tomada de decisões estratégicas.\n\nO que você vai fazer (responsabilidades)\n\n-Construir, manter e otimizar consultas SQL para extração, manipulação e análise de dados.\n-Desenvolver dashboards e relatórios gerenciais (preferencialmente Looker; Power BI aceitável).\n-Disponibilizar dados e informações em relatórios acessíveis, facilitando a tomada de decisão.\n-Trabalhar com times técnicos e de negócio para entender necessidades e propor soluções eficientes.\n-Interagir com plataformas Google para coleta, análise e visualização de dados.\n\n## Local\n\nHibrido em Savassi - Belo Horizonte 1x p/ semana \n\n## Benefícios\n\n## Diferenciais\n\n🚀 Crescimento de carreira (feedbacks para desenvolvimento pessoal + certificações GCP)\n🧠 Tecnologias atuais\n⏰ Horários flexíveis\n🤝 Time colaborativo\n💸 Bonificação por indicação de novos colaboradores\n\n## Requisitos\n\nStack principal\n\n-Experiência sólida e comprovada com linguagem MySQL e BigQuery.\n-Experiência prática em pelo menos uma ferramenta de BI (Looker ou Power BI).\n-Boas práticas de modelagem de dados e ETL.\n-Experiência com ferramentas e soluções Google.\n\n#### Obrigatórios:\n\n-Possui equipamento próprio\n-Disponibilidade para atuação hibrida em Savassi - Belo Horizonte\n\n#### Desejáveis:\n\n#### Diferenciais:\n\n## Contratação\n\nContratação e requisitos\n\nContratação PJ com remuneração p/hora trabalhada entre R$36,93 - R$51,13/h (A proposta inicial mensal é de aproximadamente R$6.500 e R$9.000)\n\n## Nossa empresa\n\nA Minds Digital é uma IDTech especializada em biometria de voz, por meio da nossa inteligência artificial conseguimos autenticar e identificar a sua voz. Com ela as pessoas se tornam únicas, exclusivas e insubstituíveis. Além dessa tecnologia inovadora, trabalhamos também como Outsourcing com a responsabilidade de ajudar desenvolver toda área de TI, com soluções em nuvem para o nosso cliente.\n## Como se candidatar\n\nFaça sua inscrição pelo pelo formulário acessando o link: https://forms.gle/p83QXvhSZebNZmUK8\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada processo.\nCaso queira falar comigo me chame no LinkedIn:https://www.linkedin.com/in/vitor-albuquerque-rh/ \n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n\n- Hibrido\n\n#### Regime\n\n- PJ\n\n#### Nível\n\n- Pleno\n- Sênior",
+      "excerpt": "## Descrição da vaga Estamos em busca de um(a) Analista de BI nível Pleno para integrar nosso time de Dados. A atuação será em modelo híbrido, com um dia presencial por semana no bairro Savassi, em Belo Horizonte, alo...",
+      "issueState": "open",
+      "contentHash": "481dbf59711f5cd45da83a867ae072968af43a31c85805e184a4cb0f6b898362",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "principal",
+        "data"
+      ],
+      "author": {
+        "id": "Vitor-TI",
+        "name": "Vitor-TI",
+        "handle": "Vitor-TI",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82530199?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 37,
+        "max": 51,
+        "period": "hour"
+      },
+      "createdAt": "2025-10-19T21:50:38Z",
+      "updatedAt": "2025-10-19T21:50:38Z",
+      "url": "https://github.com/datascience-br/vagas/issues/148",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e2bf92920267625501ec5bdc",
+      "sourceId": "Empregos-dev/Vagas-dev#110",
+      "title": "🚀 Vaga Desenvolvedor(a) Fullstack .NET Sênior 🚀 📍 Híbrido - Av. Paulista - São Paulo/SP 🚀",
+      "description": "# Desenvolvedor(a) Fullstack .NET Sênior 🚀\n\n- 📍 Localização: Híbrido - Av. Paulista - São Paulo/SP\n- 📈 Nível: sênior\n- 📃 Contrato: clt\n- 💰 Salário: R$ 12.500,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\nEstamos em busca de um(a) Desenvolvedor(a) Fullstack .NET Sênior para integrar nossa equipe! 💻\n\nSe você é apaixonado por tecnologia e quer trabalhar em um ambiente dinâmico e colaborativo, essa vaga é para você! 🌟\n\n\n## Atividades e responsabilidade:\nDesenvolver e implementar soluções em .NET, realizar manutenção de sistemas existentes, aplicar boas práticas de programação e colaborar com a equipe em projetos desafiadores. 🤝\n\n\n## Requisitos:\nExperiência sólida em .NET, conhecimento em desenvolvimento front-end e back-end, habilidade em trabalhar em equipe e comunicação efetiva. 🧑‍💻\n\n\n## Benefícios:\nPacote de benefícios atrativos incluindo assistência médica, vale-refeição e oportunidades de crescimento profissional. 🎉\n\n## Mais Informações:\nPara mais informações, entre em contato! 📞\n\n📍 Modelo híbrido: 3x por semana na Av. Paulista/SP.\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/desenvolvedora-fullstack-net-senior-3203)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
+      "excerpt": "# Desenvolvedor(a) Fullstack .NET Sênior 🚀 - 📍 Localização: Híbrido - Av. Paulista - São Paulo/SP - 📈 Nível: sênior - 📃 Contrato: clt - 💰 Salário: R$ 12.500,00 - 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗...",
+      "issueState": "open",
+      "contentHash": "fe314df83701481d55f57c2b91c32ba24ec70ba904504e51a3682f3bb2da68b4",
+      "repository": "Empregos-dev/Vagas-dev",
+      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        ".net",
+        "híbrido - av. paulista - são paulo/sp"
+      ],
+      "author": {
+        "id": "ecossistemadev",
+        "name": "ecossistemadev",
+        "handle": "ecossistemadev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
+      },
+      "community": {
+        "id": "Empregos-dev",
+        "name": "Empregos-dev",
+        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
+        "repository": "Empregos-dev/Vagas-dev",
+        "url": "https://github.com/Empregos-dev/Vagas-dev"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12500,
+        "period": "year"
+      },
+      "createdAt": "2025-10-13T00:23:24Z",
+      "updatedAt": "2025-10-13T00:23:24Z",
+      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/110",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_26ab24ca90d6fc0833346fde",
       "sourceId": "programadores-br/geral#3038",
@@ -645,113 +761,6 @@
       "createdAt": "2025-08-08T00:46:06Z",
       "updatedAt": "2025-08-08T00:46:06Z",
       "url": "https://github.com/Empregos-dev/Vagas-dev/issues/108",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a6b5c2d40e95e69d36c2b5ca",
-      "sourceId": "devfsa/vagas#2819",
-      "title": "[Hibrido / Campinas, Brasil] Estágio em ITSM (Sustentação) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/copia-estagio-em-itsm-sustentacao-121747713?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\n<p>Queremos simplificar a maneira como as empresas lidam com seus dados. Fazemos isso ao integrar qualquer app, dado ou device e ao gerar insights com uma visão 360° do negócio.</p>\n<p>Somos movidos por desafios e queremos resolver os problemas mais complexos dos nossos clientes, sem pular a parte difícil.</p>\n<p>Quer iniciar sua carreira em ITSM e aprender sobre atendimento de chamados em ambientes produtivos de integração que utilizam diversas tecnologias como API, ETL e Microsserviços?</p>\n<p>Precisamos de uma pessoa para auxiliar, junto com nosso time, a:</p>\n<ul>\n<li>Apoiar no monitoramento e análise do comportamento do ambiente do cliente;</li>\n<li>Auxiliar na atualização de ferramentas de atendimento e monitoramento;</li>\n<li>Participar da investigação de incidentes, auxiliando na identificação de causa raiz;</li>\n<li>Contribuir na entrega de indicadores de atendimento e relatórios;</li>\n<li>Acompanhar reuniões de passagem de conhecimento e revisão de código junto ao time de projetos.</li>\n</ul>\n## Digiage: \n <p>Vamos dar um rolê pelo que a gente faz? 🚀</p>\n<p>1. Inovação e Qualidade:&nbsp;</p><a href='https://coodesh.com/companies/digiage'>Veja mais no site</a>\n\n ## Habilidades: \n - Java \n- PL/SQL \n- Linux \n- Azure \n- AWS \n- XML \n- JSON\n## Local: \n Campinas, Brasil\n## Requisitos: \n - Cursando ensino superior a partir do 8º semestre em Tecnologia da Informação, Sistemas de Informação, Ciência da Computação ou áreas correlatas \n- Residir em Campinas ou proximidades: Paulínia, Sumaré, Hortolândia, Nova Odessa, Americana, Santa Bárbara d'Oeste, Valinhos, Vinhedo, Monte Mor, Indaiatuba e Itatiba \n- Ter disponibilidade para estagiar das 09h00 às 16h00 \n- Noções básicas de linguagem de programação Java (para elaboração de pequenas melhorias e auxílio no troubleshooting); \n- Noções básicas de bancos de dados e consultas SQL (PL/SQL) \n- Conhecimento básico em sistemas operacionais Windows e Linux \n- Interesse em aprender sobre monitoramento e análise de ambientes de TI \n- Proatividade e vontade de aprender\n## Diferenciais: \n - Inglês básico para leitura e participação em treinamentos \n- Familiaridade com ferramentas de monitoramento (Datadog, Zabbix, Grafana)\n## Benefícios: \n - Reembolso de Certificações \n- Day off na semana do aniversário\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Estágio em ITSM (Sustentação) na Digiage](https://coodesh.com/jobs/copia-estagio-em-itsm-sustentacao-121747713?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nEstágio\n#### Categoria\nSuporte Técnico",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "fcbb8e603086eb446aa9ca4f07065dfbdf9927ffb901ad303b45e61d7653992b",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-08-05T18:48:52Z",
-      "updatedAt": "2025-08-05T18:48:52Z",
-      "url": "https://github.com/devfsa/vagas/issues/2819",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_962eeb5d07c4cee43120e80f",
-      "sourceId": "TechnologyMasters/jobs#718",
-      "title": "Lean Analyst",
-      "description": "Apply @ rahul.g@laibatechnology.com\n\n**Position: Lean Analyst\n\nLocation: Houston, TX (Onsite)**\n\nExp: 6-15 Yrs\nMust have oil ang gas domain background\nThe Lean analyst will play a key role in driving process improvement projects by helping to facilitate and plan workshops with the Lean specialists and client team, analyzing and presenting pertinent data in the appropriate format, developing metrics and measurement tools to improve operating processes toward greater efficiency and effectiveness in all areas of oil and gas (upstream, downstream, chemicals, pipeline, etc.)\n\nTrack and record all relevant data for global Lean program, and refresh data for accuracy on monthly basis including but not limited to Lean Practitioner (LP) count, LP status, LP certification progress, yield rate, functional/job family representation, LP office location/geography, project tracking metrics, value tracking metrics, etc.\n\nAnalyze performance data/metrics, and develop appropriate presentations and dashboard tools to demonstrate Lean performance to client, including but not limited to SmartSheets, PowerBI, Tableau\n\nDevelop and build relevant process documents at the request of Lean specialists leveraging Visio, Mural, Zoom Whiteboard or Powerpoint\n\nConstruct and manage Microsoft SharePoint site for global Lean program and serve as site Admin to manage data storage, restricted access requests, subsite construction, etc.\n\nDesign, develop, and build HTML code using standard webpage design software (e.g. Figma) for professional Lean website\n\n\nApply @ rahul.g@laibatechnology.com",
-      "excerpt": "Apply @ rahul.g@laibatechnology.com **Position: Lean Analyst Location: Houston, TX (Onsite)** Exp: 6-15 Yrs Must have oil ang gas domain background The Lean analyst will play a key role in driving process improvement ...",
-      "issueState": "open",
-      "contentHash": "485a0c58c2b323cec4c33955d8c115ed5fad641c6a39964f1aa312d7b2c08c1c",
-      "repository": "TechnologyMasters/jobs",
-      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "onsite",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Rahul-garg60",
-        "name": "Rahul-garg60",
-        "handle": "Rahul-garg60",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
-      },
-      "community": {
-        "id": "TechnologyMasters",
-        "name": "TechnologyMasters",
-        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
-        "repository": "TechnologyMasters/jobs",
-        "url": "https://github.com/TechnologyMasters/jobs"
-      },
-      "createdAt": "2025-08-01T20:50:49Z",
-      "updatedAt": "2025-08-01T20:50:49Z",
-      "url": "https://github.com/TechnologyMasters/jobs/issues/718",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4e61569a5d7ecd89c151cb8a",
-      "sourceId": "TechnologyMasters/jobs#717",
-      "title": "AI Solution Architect",
-      "description": "Apply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com)\n\n\n**Role - AI Solution Architect \nLocation - Remote, USA - PST time zone\nContract role** \n\nThe AI Solution Architect will be responsible for translating complex business challenges into viable, scalable, and secure AI/ML solutions. This role requires a deep understanding of AI/ML methodologies, data architectures, cloud platforms, and software engineering best practices. The successful candidate will work closely with business stakeholders, data scientists, ML engineers, software developers, and IT operations teams to architect, guide, and ensure the successful delivery of AI-powered products and services.\n\nyears of experience in solution architecture, with at least [Y+] years specifically focused on designing and implementing AI/ML solutions in an enterprise environment. Proven expertise in designing and deploying end-to-end machine learning pipelines. Strong understanding of various AI/ML techniques and algorithms (e.g., supervised, unsupervised, reinforcement learning, deep learning, NLP, computer vision). Hands-on experience with at least one major cloud platform's AI/ML services (AWS, Azure, GCP). Proficiency in programming languages commonly used in AI/ML (e.g., Python, R, Java). Familiarity with MLOps principles and tools for continuous integration, deployment, and monitoring of ML models. Solid understanding of data governance, data quality, and data security principles. Excellent problem-solving, analytical, and critical thinking skills. Strong communication, presentation, and interpersonal skills, with the ability to influence and collaborate effectively across diverse teams. Preferred Qualifications: Experience with Generative AI models (LLMs, diffusion models) and related frameworks (e.g., LangChain, LlamaIndex). Experience with big data technologies (e.g., Spark, Hadoop, Kafka). Certifications in relevant cloud AI/ML platforms (e.g., AWS Certified Machine Learning Specialty, Google Cloud Professional Machine Learning Engineer). Experience with agile development methodologies\n\n\nApply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com)",
-      "excerpt": "Apply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com) **Role - AI Solution Architect Location - Remote, USA - PST time zone Contract role** The AI Solution Architect will be responsible for transl...",
-      "issueState": "open",
-      "contentHash": "baf5392df4bf8a9e16e3986d5a43cf4080521d540bdc385d7c0a1ae2f2c9983b",
-      "repository": "TechnologyMasters/jobs",
-      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote",
-        "python",
-        "java",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Rahul-garg60",
-        "name": "Rahul-garg60",
-        "handle": "Rahul-garg60",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
-      },
-      "community": {
-        "id": "TechnologyMasters",
-        "name": "TechnologyMasters",
-        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
-        "repository": "TechnologyMasters/jobs",
-        "url": "https://github.com/TechnologyMasters/jobs"
-      },
-      "createdAt": "2025-08-01T15:52:12Z",
-      "updatedAt": "2025-08-01T15:52:12Z",
-      "url": "https://github.com/TechnologyMasters/jobs/issues/717",
       "sourceType": "github-issue"
     }
   ]
