@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T02:03:33.244Z",
+  "generatedAt": "2026-04-27T05:47:41.688Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
@@ -20,10 +20,10 @@
     "gh_fdc6cfabf327abeb4f0d843a",
     "gh_dccc9fa35642a44d54e9f288",
     "gh_de904763bd312fc2ca8dacd4",
-    "gh_6f2867a67f057e494d01089b",
     "gh_f0b120d53327c1931d48a2ae",
     "gh_a14fd291f9eabf0a2d422517",
-    "gh_d4221d3bc7aa723e22f3bf57"
+    "gh_d4221d3bc7aa723e22f3bf57",
+    "gh_b89dd7ae7dbdb913cfe62232"
   ],
   "items": [
     {
@@ -610,44 +610,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_6f2867a67f057e494d01089b",
-      "sourceId": "ambicuity/New-Grad-Jobs#157",
-      "title": "[aw] Daily Test Improver failed",
-      "description": "### Workflow Failure\n\n**Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md)  \n**Branch:** main  \n**Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n\n\n\n### Action Required\n\n**Option 1: Debug using any coding agent**\n\nUse this prompt with any coding agent (GitHub Copilot, Claude, Gemini, etc.):\n\n````\nDebug the agentic workflow failure using https://raw.githubusercontent.com/github/gh-aw/main/debug.md\n\nThe failed workflow run is at https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n````\n\n**Option 2: Assign this issue to Copilot**\n\nAssign this issue to Copilot using the `agentic-workflows` sub-agent to automatically debug and fix the workflow failure.\n\n**Option 3: Manually invoke the agent**\n\nDebug this workflow failure using your favorite Agent CLI and the `agentic-workflows` prompt.\n\n- Start your agent\n- Load the `agentic-workflows` prompt from `.github/agents/agentic-workflows.agent.md` or <https://github.com/github/gh-aw/blob/main/.github/agents/agentic-workflows.agent.md>\n- Type `debug the agentic workflow daily-test-improver failure in https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704`\n\n> [!TIP]\n> To stop a workflow from creating failure issues, set `report-failure-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   report-failure-as-issue: false\n> ```\n\n\n> Generated from [Daily Test Improver](https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704)\n> - [x] expires <!-- gh-aw-expires: 2026-03-19T05:18:42.001Z --> on Mar 19, 2026, 5:18 AM UTC\n\n<!-- gh-aw-agentic-workflow: Daily Test Improver, id: 22987722704, workflow_id: daily-test-improver, run: https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704 -->",
-      "excerpt": "### Workflow Failure **Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md) **Branch:** main **Run:** https://github....",
-      "issueState": "open",
-      "contentHash": "833a658253d80e70bfd7301e1899cdce70cbad548fb00d642a53d72c70b554ff",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "stale",
-        "priority: high",
-        "agentic-workflows",
-        "automation",
-        "testing"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-12T05:18:42Z",
-      "updatedAt": "2026-04-13T05:18:59Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/157",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_f0b120d53327c1931d48a2ae",
       "sourceId": "awesome-jobs/vietnam#4905",
       "title": "[ĐN - Hybrid] - Back-end Engineer/Full-stack Engineer",
@@ -757,6 +719,44 @@
       "createdAt": "2026-03-11T08:29:52Z",
       "updatedAt": "2026-03-11T08:29:52Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4903",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_b89dd7ae7dbdb913cfe62232",
+      "sourceId": "awesome-jobs/vietnam#4902",
+      "title": "Senior Fullstack Engineer (AI Tools, Java/TypeScript), Full Remote in HCMC",
+      "description": "Công ty phần mềm trụ sở Berlin, Đức đang mở rộng team nhân sự tại Việt Nam và đang cần tìm ứng viên cho vị trí Senior Fullstack Engineer có kinh nghiệm tích hợp các công cụ AI như Claude Code và Cursor vào quy trình phát triển phần mềm hằng ngày. 🚀\n## 👉 𝗢𝗳𝗳𝗲𝗿:\n- Location: HCMC (full remote)\n- 𝗦𝗮𝗹𝗮𝗿𝘆 𝘂𝗽 𝘁𝗼 $𝟰,𝟬𝟬𝟬 𝗚𝗿𝗼𝘀𝘀 \n## 👉 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:\n- 5+ years of software engineering experience \n- Fluent English\n- Proven daily use of Claude Code in real development projects \n- Experience shipping real product features using Cursor \n- Strong understanding of clean architecture and software design principles\n- Experience building systems with TypeScript or Java \n- Ability to critically review and improve AI-generated code \n- Strong problem-solving skills and engineering mindset\n## 📩 Interested or know someone who might be a fit? Let’s connect!\n💬 LinkedIn DM or Zalo / Telegram / WhatsApp: 0915 500 810",
+      "excerpt": "Công ty phần mềm trụ sở Berlin, Đức đang mở rộng team nhân sự tại Việt Nam và đang cần tìm ứng viên cho vị trí Senior Fullstack Engineer có kinh nghiệm tích hợp các công cụ AI như Claude Code và Cursor vào quy trình p...",
+      "issueState": "open",
+      "contentHash": "f71072ce4287b72cd5e0aa49d6baf9a0d63798266ca066d20f2ab07f74f13f19",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "fullstack",
+        "typescript",
+        "java",
+        "senior",
+        "design"
+      ],
+      "author": {
+        "id": "tieuvu9x",
+        "name": "tieuvu9x",
+        "handle": "tieuvu9x",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71082074?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-03-11T08:28:44Z",
+      "updatedAt": "2026-03-11T08:28:44Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4902",
       "sourceType": "github-issue"
     }
   ]

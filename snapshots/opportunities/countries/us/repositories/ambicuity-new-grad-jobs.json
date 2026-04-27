@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-27T02:03:33.244Z",
+  "generatedAt": "2026-04-27T05:47:41.688Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
     "opportunities": 15,
-    "openIssues": 8,
-    "closedIssues": 7
+    "openIssues": 7,
+    "closedIssues": 8
   },
-  "dataHash": "7c156c200039a58ede7ec038f94e4ba7814dc94aff203b8adac780c3811a69d1",
+  "dataHash": "24867903ae28051bd91e00a3d0c75551aa5e472048643a9d7900104d16851b68",
   "items": [
     {
       "id": "gh_572dce76ffa409fc0e7e05fe",
@@ -346,7 +346,7 @@
       "title": "[aw] Daily Test Improver failed",
       "description": "### Workflow Failure\n\n**Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md)  \n**Branch:** main  \n**Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n\n\n\n### Action Required\n\n**Option 1: Debug using any coding agent**\n\nUse this prompt with any coding agent (GitHub Copilot, Claude, Gemini, etc.):\n\n````\nDebug the agentic workflow failure using https://raw.githubusercontent.com/github/gh-aw/main/debug.md\n\nThe failed workflow run is at https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704\n````\n\n**Option 2: Assign this issue to Copilot**\n\nAssign this issue to Copilot using the `agentic-workflows` sub-agent to automatically debug and fix the workflow failure.\n\n**Option 3: Manually invoke the agent**\n\nDebug this workflow failure using your favorite Agent CLI and the `agentic-workflows` prompt.\n\n- Start your agent\n- Load the `agentic-workflows` prompt from `.github/agents/agentic-workflows.agent.md` or <https://github.com/github/gh-aw/blob/main/.github/agents/agentic-workflows.agent.md>\n- Type `debug the agentic workflow daily-test-improver failure in https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704`\n\n> [!TIP]\n> To stop a workflow from creating failure issues, set `report-failure-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   report-failure-as-issue: false\n> ```\n\n\n> Generated from [Daily Test Improver](https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704)\n> - [x] expires <!-- gh-aw-expires: 2026-03-19T05:18:42.001Z --> on Mar 19, 2026, 5:18 AM UTC\n\n<!-- gh-aw-agentic-workflow: Daily Test Improver, id: 22987722704, workflow_id: daily-test-improver, run: https://github.com/ambicuity/New-Grad-Jobs/actions/runs/22987722704 -->",
       "excerpt": "### Workflow Failure **Workflow:** [Daily Test Improver](https://github.com/githubnext/agentics/tree/346204513ecfa08b81566450d7d599556807389f/workflows/daily-test-improver.md) **Branch:** main **Run:** https://github....",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "833a658253d80e70bfd7301e1899cdce70cbad548fb00d642a53d72c70b554ff",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -374,7 +374,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-03-12T05:18:42Z",
-      "updatedAt": "2026-04-13T05:18:59Z",
+      "updatedAt": "2026-04-27T05:28:10Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/157",
       "sourceType": "github-issue"
     },
