@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-04-27T16:22:21.245Z",
+  "generatedAt": "2026-04-27T19:07:55.512Z",
   "items": [
+    {
+      "id": "gh_e7e4a4073f27383bf34c4bd8",
+      "text": "🚨 board is stale — scraper may have stopped ## 🚨 automated alert: board is stale the watchdog detected that docs/jobs.json has not been updated in **63 minutes**. | field | value | |-------|-------| | last updated | 2026-04-27t17:02:04z | | stale for | 63 ... ambicuity/new-grad-jobs united states north america github-actions[bot] github-actions[bot] type: bug status: in-progress stale priority: critical automation"
+    },
+    {
+      "id": "gh_f17fc53f656060f5cdee06f5",
+      "text": "🚨 board is stale — scraper may have stopped ## 🚨 automated alert: board is stale the watchdog detected that docs/jobs.json has not been updated in **101 minutes**. | field | value | |-------|-------| | last updated | 2026-04-27t15:15:57z | | stale for | 10... ambicuity/new-grad-jobs united states north america github-actions[bot] github-actions[bot] type: bug status: in-progress stale priority: critical automation"
+    },
     {
       "id": "gh_7e07f369e29e2a6bacb6d970",
       "text": "[sao caetano do sul - sao paulo] senior front end developer (angular) na jpef consultoria de recrutamento e selecao <!-- ================================================== por favor, so poste se a vaga for para front-end! !!! temos 4 regrinhas basicas: https://git.io/jg3z9 !!! nao faca distincao de genero no titulo da vaga. use: \"f... frontendbr/vagas brazil south america 123kjp 123kjp pleno clt sao paulo hibrido"
@@ -156,14 +164,6 @@
     {
       "id": "gh_d6831d3d8f596e82c2d41adf",
       "text": "[remoto] desenvolvedor(a) mobile ios/android (react native/expo) requisitos **desenvolvimento mobile** experiencia solida com react native e expo conhecimento do ciclo completo de publicacao em app store e google play experiencia com implementacao de push notifications dominio de n... react-brasil/vagas brazil south america bruno7kp bruno7kp react typescript java data"
-    },
-    {
-      "id": "gh_071e72f024896d1c946f6339",
-      "text": "[feature]: add backend/frontend location taxonomy contract checks to prevent filter drift ### problem location semantics are maintained in multiple places (scripts/update_jobs.py and docs/app.js). these can drift independently, leading to inconsistent filtering ux (backend accepts values that ui cannot... ambicuity/new-grad-jobs united states north america ambicuity ambicuity help wanted needs-triage priority: medium enhancement"
-    },
-    {
-      "id": "gh_f3ff22243be6d0586dd15828",
-      "text": "[feature]: canonicalize job urls before deduplication and job_id generation ### problem deduplication and job_id generation currently depend on raw urls. equivalent listings often differ only by tracking/query variants (for example gh_jid, utm params, reordered query strings), which can p... ambicuity/new-grad-jobs united states north america ambicuity ambicuity needs-triage enhancement"
     },
     {
       "id": "gh_c55c0ec98d8be9c01ebe7432",
