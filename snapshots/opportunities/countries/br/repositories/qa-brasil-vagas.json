@@ -1,16 +1,50 @@
 {
-  "generatedAt": "2026-04-27T10:56:09.001Z",
+  "generatedAt": "2026-04-27T13:22:55.622Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 6,
-    "closedIssues": 24
+    "openIssues": 7,
+    "closedIssues": 23
   },
-  "dataHash": "1ff5aea0fc5ff24e8208e0baf6fd2b24ebb2c0c6f9167a6ecdff2fedee356582",
+  "dataHash": "eb26573eb5754d65b30a16f13422d2371515476b0648363b3482e010887625a4",
   "items": [
+    {
+      "id": "gh_42aec3e02f4705505e208eb2",
+      "sourceId": "qa-brasil/vagas#1252",
+      "title": "[Brasília] QA Jr na Devvo Tecnologia",
+      "description": "**Descrição da vaga**\nAqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de oportunidades de crescimento, sua busca termina aqui! Sediados em Brasília, nossa missão é impulsionar a sociedade por meio de soluções de ponta, conduzindo a transformação digital de empresas de todos os portes.\n\nJunte-se a nós e colabore ativamente no fortalecimento e aprimoramento da nossa equipe de tecnologia. Você terá a oportunidade de participar do desenvolvimento e manutenção de soluções de software de alto desempenho, trabalhando lado a lado com equipes multidisciplinares que garantem a excelência na execução e entrega de projetos ambiciosos.\n\n\n**Responsabilidades:**\n\n\n\nAuxílio na realização de testes de qualidade para assegurar a boa performance dos sistemas;\nHabilidade em identificar e reportar bugs de forma clara e precisa;\nContribuição no desenvolvimento de projetos web e mobile;\nColaboração na melhoria contínua dos processos internos de gestão e desenvolvimento de projetos.\n\n\n**Requisitos:**\n\n\n\nProficiência em metodologias ágeis;\nBoas habilidades de comunicação e trabalho em equipe;\nConhecimento básico de Javascript / Typescript;\nExperiência prévia em meio corporativo como analista de qualidade (min 6 meses);\n\n\n**Diferenciais:**\n\n\n\nConhecimento básico de Javascript / Typescript;\nConhecimento em ferramentas de automação de testes, como Selenium, Cypress ou Playwright.\n\n\n**Junte-se a Nós:**\n\n\n\nSe você está pronto(a) para um desafio estimulante em um ambiente colaborativo e inovador, este é o momento! Venha fazer parte da nossa equipe dedicada e impulsione sua carreira conosco na Devvo Tecnologia.\n\n\n**Como se candidatar:\n\nEnvie seu Currículo atualizado para o e-mail contato@devvo.com.br \n\nPor favor, inclua no assunto do e-mail \"[Nome] - Analista de qualidade Jr.\". Aguardamos ansiosamente para conhecer você e discutir mais sobre essa oportunidade de trabalho.**\n\n\nRegime do trabalho:\n\nHibrido (2~3x no escritório);",
+      "excerpt": "**Descrição da vaga** Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente d...",
+      "issueState": "open",
+      "contentHash": "3e9a1c78f3ed16b22ca7f62b9389594fcb6d6cec319b6608cc166eb07effaf71",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "brasília"
+      ],
+      "author": {
+        "id": "LucasCamposDevvo",
+        "name": "LucasCamposDevvo",
+        "handle": "LucasCamposDevvo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/191256669?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Devvo Tecnologia",
+      "createdAt": "2026-04-27T13:01:42Z",
+      "updatedAt": "2026-04-27T13:03:23Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1252",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_97af14f3ec3ca62e7db4666f",
       "sourceId": "qa-brasil/vagas#1251",
@@ -1061,42 +1095,6 @@
       "createdAt": "2025-05-09T12:38:01Z",
       "updatedAt": "2026-03-28T02:38:05Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1217",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d26a3a3ac399260da33e61ba",
-      "sourceId": "qa-brasil/vagas#1216",
-      "title": "[Remoto] QA Analista de testes na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/qa-analista-de-testes-163328375?utm_source=github&utm_medium=qa-brasil-vagas&modal=open) para realizar a candidatura. 👋\n<p>A Gove está buscando Quality Assurance para compor seu time!</p>\n<p></p>\n<p>Buscamos alguém que goste de trabalhar em ambiente colaborativo, tenha capacidade analítica e interesse em crescer na empresa e com muita vontade de aprender e que goste de desafios.</p>\n<p></p>\n<p>Não esperamos que você saiba tudo, mas que já conheça ou tenha aplicado algumas técnicas e tipos de teste automatizado e esteja disposto a refinar esses conhecimentos, colocando-os em prática conosco, criando os testes automatizados das nossas APIs e Front-end. Utilizamos Cypress em nossas automatizações.</p>\n<p></p>\n<p>Também serão aplicados testes manuais para front end e funcionalidades ainda pouco maduras.&nbsp;</p>\n## Gove: \n <p>A Gove é uma govtech que tem como objetivo modernizar o modo como o setor público se relaciona com cidadãos e empresas.&nbsp;</p>\n<p>Por meio da tecnologia, torna a interação entre estes atores mais ágil, eficiente e responsiva, melhorando a experiência para a população e para os servidores públicos.</p><a href='https://coodesh.com/companies/gove'>Veja mais no site</a>\n\n ## Habilidades: \n - SQL \n- Cypress \n- Javascript\n## Local: \n Remota\n## Requisitos: \n - Técnicas de Testes manuais \n- Planejamento de Testes a partir de requisitos/histórias \n- Cypress\n## Diferenciais: \n - Conseguir planejar teste em cima de PR - entender programação \n- Conseguir validar a cobertura de testes dos desenvolvedores para criar testes que superem essas validações\n## Benefícios: \n - Horários Flexíveis \n- Gympass \n- Vale flexível \n- Plano de Saúde \n- Plano Odontológico \n- Seguro de Vida\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [QA Analista de testes na Gove](https://coodesh.com/jobs/qa-analista-de-testes-163328375?utm_source=github&utm_medium=qa-brasil-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nCLT\n#### Categoria\nTestes/Q.A",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "closed",
-      "contentHash": "2340e4675172a52f86e313a2e5325210e05f92b783a3d948840e1d2f98b34b32",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "stale"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-04-10T12:35:32Z",
-      "updatedAt": "2026-03-28T02:38:04Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1216",
       "sourceType": "github-issue"
     },
     {

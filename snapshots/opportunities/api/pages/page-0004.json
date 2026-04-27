@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-04-27T10:56:09.001Z",
+  "generatedAt": "2026-04-27T13:22:55.622Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_86cf7c4c726a6cec1163d1fb",
+    "gh_90dc15cf0fb5560e4c0f0993",
+    "gh_2446f8c9d99311675ebf1afa",
     "gh_e20f87fee19bdfaea2b354ed",
     "gh_644385e0db8a70c4f7599974",
     "gh_360a36bfb0c75f23ffd2bcac",
@@ -20,12 +23,113 @@
     "gh_dccc9fa35642a44d54e9f288",
     "gh_de904763bd312fc2ca8dacd4",
     "gh_f0b120d53327c1931d48a2ae",
-    "gh_a14fd291f9eabf0a2d422517",
-    "gh_d4221d3bc7aa723e22f3bf57",
-    "gh_b89dd7ae7dbdb913cfe62232",
-    "gh_74e792fd5180bf0fee5883a2"
+    "gh_a14fd291f9eabf0a2d422517"
   ],
   "items": [
+    {
+      "id": "gh_86cf7c4c726a6cec1163d1fb",
+      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#1",
+      "title": "Bug: Company logo thumbnails enter corrupted render state after job application, stale DOM / z-index collision across job card components",
+      "description": "# Company thumbnails overlap other job cards after applying to a posting\n\nHey team,\n\nI've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that job bleeds over into the other job cards in the feed. Sometimes it stacks on top of the adjacent card's logo, sometimes it straight up replaces it. It looks pretty broken.\n\nThe weird part is that it fixes itself the moment I do a hard refresh. So the data coming from the backend seems fine, this is purely a client-side rendering issue.\n\n## Repro\n\n1. Go to the job listings feed.\n2. Apply to any job.\n3. Come back to the listings (back nav or closing the apply modal).\n4. The thumbnails on nearby job cards are now messed up; wrong logos, overlapping, stacked, etc.\n5. Refresh the page → everything goes back to normal.\n\nThis happens every single time, not intermittent. I've tried it across a few different browsers (Chrome and Firefox) and it's the same behavior.\n\n## What I think is going on\n\nI'm a software engineer so I poked around in devtools a bit. A few things that might be worth looking at:\n\n**Key prop issue on the list**: If the job card list is keyed by array index instead of something stable like `job.id`, React's reconciler will reuse DOM nodes incorrectly when the list state changes after applying. This would explain why the thumbnails get \"shifted\" onto wrong cards. Classic React anti-pattern.\n\n**Stacking context / z-index leak**: When the apply flow triggers (modal, overlay, toast, whatever), it might be setting `position: absolute` or bumping `z-index` on the applied card's thumbnail. If that style isn't cleaned up properly (maybe an animation callback that doesn't fire?), the image escapes its container and sits on top of siblings. Throwing `overflow: hidden` and `position: relative` on the card container would contain this.\n\n**Race condition on refetch**: If applying fires off a POST and then the feed revalidates in parallel (SWR `mutate()`, React Query `invalidateQueries()`, etc.), there's a window where partial/stale data gets rendered before the fresh response lands. The thumbnails might be getting swapped around during that intermediate state.\n\n**Image caching**: Less likely, but if there's a custom image component or service worker caching thumbnails by position/index instead of URL, a re-render after apply could serve the wrong cached image to the wrong card.\n\n## Quick fix suggestions\n\n- Check that `key={job.id}` (or whatever unique identifier) is used on the card list, not `key={index}`.\n- Make sure each card's thumbnail container has its own stacking context (`position: relative; overflow: hidden;`).\n- If the apply action triggers a list refetch, batch the state update or wrap it in `startTransition` so you don't get an intermediate broken frame.\n- Audit `useEffect` cleanups around the apply modal/overlay, something might not be resetting styles on unmount.\n\n## Environment\n\n- Chrome 124  on macOS\n- Desktop, standard resolution\n- Happens on both fast and slow connections so it's not a network timing thing\n\nNot a blocker since refresh fixes it, but it makes the platform look buggy and I'd imagine it's hurting trust with less technical users who don't know to just reload. Happy to provide more details or screen recordings if that helps.",
+      "excerpt": "# Company thumbnails overlap other job cards after applying to a posting Hey team, I've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that ...",
+      "issueState": "open",
+      "contentHash": "1e4843c8fb9d905a53f168f5b02b0201043140e257eec09e5f353c378fe3c473",
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "backend",
+        "react",
+        "node",
+        "data"
+      ],
+      "author": {
+        "id": "JayDS22",
+        "name": "JayDS22",
+        "handle": "JayDS22",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91157708?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-Internship",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
+      },
+      "createdAt": "2026-03-22T16:47:15Z",
+      "updatedAt": "2026-03-22T16:51:05Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/1",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_90dc15cf0fb5560e4c0f0993",
+      "sourceId": "react-brasil/vagas#3007",
+      "title": "desenvolvedor react native senior",
+      "description": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona como memória externa com captura de voz, separação automática por IA, organização inteligente e lembretes discretos. Stack: React Native + TypeScript + Node.js + PostgreSQL + IA (Whisper/GPT). Prazo 4 meses. Preciso de dev com 3+ anos React Native e pelo menos 1 app publicado nas stores.",
+      "excerpt": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona c...",
+      "issueState": "open",
+      "contentHash": "07e76fc850ef066f91e92332475c8524069654d7bffe5998cc0da68835b9c1c9",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "👴 senior"
+      ],
+      "author": {
+        "id": "mclaudiaferreira",
+        "name": "mclaudiaferreira",
+        "handle": "mclaudiaferreira",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/269824166?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "createdAt": "2026-03-20T22:05:39Z",
+      "updatedAt": "2026-03-30T14:10:36Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3007",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2446f8c9d99311675ebf1afa",
+      "sourceId": "frontendbr/vagas#8451",
+      "title": "[Remoto] Fullstack Developer Sênior na Sensedia",
+      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\n\nA Sensedia é líder no mercado de APIs, oferecendo soluções de integração e consultoria a grandes empresas no Brasil e no mundo, em uma variedade de setores. Seu portfólio, além de uma plataforma API Management, inclui Sensedia Integrations, Service Mesh, API Adaptive Governance, Events Hub, Open Banking & Finance e equipes estratégicas de Professional Services.\n\nTrabalhar aqui é pertencer a uma cultura plural, descontraída e inovadora. É para quem tem coragem de ir além, pensar e agir fora da caixa. Preferimos pedir desculpas ao invés de pedir permissão e estamos sempre dispostos a nos transformar, nos reinventar.\nNossas pessoas são incríveis e você pode fazer parte disso tudo. Nos comprometemos em garantir um ambiente de trabalho acolhedor e respeitoso.\n\n## Descrição da vaga\n-Ajudar outras pessoas do time com dúvidas de negócio e tecnologia;\n-Ajudar tech lead com pequenas alterações em documentação e processos;\n-Destreza para falar com o cliente de forma clara e segura;\n-Tomar iniciativa para resolver questões do dia a dia do time;\n-Participação de ritos com nossos clientes;\n-Interação com o time para compreensão da solução de negócio e técnica;\n-Levantamento das atividades técnicas;\n-Implementação de APIs e microsserviços\n\n## Local\nVaga 100% remota\n\n## Requisitos\n-HTML5, Css e Javascript/Typescript\n-React e Styled Components\n-Java (frameworks Springboot, Spring Cloud e Java reativo)\n-Experiência no desenvolvimento de BFFs com Node.js\n-Conhecimento de bancos relacional (Oracle/SQL) e não relacional (Mongo)\n-Conhecimento de mensageria (RabbitMQ e Azure Service Bus)\n-Testes automatizados (preferencialmente com Jest)\n-Conhecimento de boas práticas de desenvolvimento, como: SOLID, Design Patterns, Clean Code e MFE\n\n**Desejáveis:**\n- Javascript/Typescript\n- React \n\n**Diferenciais:**\n-Conhecimento em Salesforce\n-Experiência no desenvolvimento de bibliotecas de frontend\n-Idiomas Inglês e Espanhol\n\n\n## Benefícios\n\nVale Refeição/Vale Alimentação (Cartão Flash benefícios), Plano de Saúde, Plano Odontológico, Seguro de Vida, PPR, TotalPass, Auxílio Creche, Programa Well-Being (destinado para saúde física e mental), Universidade Corporativa (nossa #SensediaAcademy), com diversas trilhas de desenvolvimento; Parceiros culturais e educacionais, com descontos especiais; Somos uma empresa cidadã,  proporcionando licença maternidade e licença paternidade estendida.\n\n**Diferenciais:**\nTemos #WorkWhereYouBelong como proposta de valor, que é um modelo flexível de trabalho que nos ajuda a aumentar o senso de pertencimento dos Sensediers.\nTrabalhe onde você pertence, porque as barreiras físicas estão menores, e o sentimento é de que exista apenas uma Sensedia em qualquer lugar que você esteja trabalhando.\n\n## Contratação\n\nModelo de contratação CLT\n\n## Candidatura\n\nhttps://sensedia.hire.trakstar.com/jobs/fk0zurg/\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Nível\n- Sênior",
+      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
+      "issueState": "open",
+      "contentHash": "d625e0f5587ef3878a785a2c19306431136cd5d77469d03ae1b1ab51ae0c1b92",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt"
+      ],
+      "author": {
+        "id": "vagas-tech-remote",
+        "name": "vagas-tech-remote",
+        "handle": "vagas-tech-remote",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/269812898?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sensedia",
+      "createdAt": "2026-03-20T21:14:39Z",
+      "updatedAt": "2026-03-30T17:08:15Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8451",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e20f87fee19bdfaea2b354ed",
       "sourceId": "awesome-jobs/vietnam#4916",
@@ -646,117 +750,6 @@
       "createdAt": "2026-03-12T03:04:04Z",
       "updatedAt": "2026-03-12T03:04:04Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4904",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d4221d3bc7aa723e22f3bf57",
-      "sourceId": "awesome-jobs/vietnam#4903",
-      "title": "Senior Software Engineer (Python), HCMC",
-      "description": "Gia nhập công ty 𝗔𝗜 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 của Mỹ đang mở rộng team nhân sự tại Việt Nam (Hiện tại team đã có 8 ae rồi). Nếu bạn tìm kiếm môi trường có văn hóa mở, không control thời gian mà tập trung vào chất lượng làm việc thì đây chính là chân ái rồi!!!\n## 👉 𝗢𝗳𝗳𝗲𝗿:\n- Location: HCMC (full office, sắp xếp remote khi có việc)\n- 𝗦𝗮𝗹𝗮𝗿𝘆 𝘂𝗽 𝘁𝗼 $𝟱,𝟬𝟬𝟬 𝗻𝗲𝘁 (không thuế + BHXH) \n- Allowance $10/ bữa trưa công ty chi trả\n## 👉 𝗖𝗮́𝗰 𝘃𝗶̣ 𝘁𝗿𝗶́ đ𝗮𝗻𝗴 𝗼𝗽𝗲𝗻 (𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: 𝗙𝗹𝘂𝗲𝗻𝘁 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻)\n(𝟭) 𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 (𝗣𝘆𝘁𝗵𝗼𝗻)\n- Strong experience designing and building complex software systems using Python\n- Hands-on experience using AI development tools such as GitHub Copilot, Claude, ChatGPT, or Cursor to boost productivity\n- Strong Python programming skills with clean, efficient, and maintainable coding practices\nSolid understanding of software engineering principles, practices, and development methodologies\n- Experience working with cloud platforms such as Azure or AWS\nStrong problem-solving and analytical skills\n- Excellent communication and teamwork abilities\n- Self-motivated learner who stays up to date with emerging technologies.\n(𝟮) 𝗙𝗼𝗿𝘄𝗮𝗿𝗱-𝗗𝗲𝗽𝗹𝗼𝘆𝗲𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 (𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿-𝗙𝗮𝗰𝗶𝗻𝗴, 𝗡𝗼𝗻-𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱)\n- Strong software engineering background (Python or TypeScript preferred). \n- Experience with distributed systems, data pipelines, APIs, and system integration. \n- Ability to communicate clearly with customer engineering and domain teams. \n- Comfortable working across multiple customer accounts with structured engagement cycles. \n- Familiarity with AI/ML, agent architectures, or semantic/ontology modeling is a plus. \n## 📩 Interested or know someone who might be a fit? Let’s connect!\n💬 LinkedIn DM or Zalo / Telegram / WhatsApp: 0915 500 810",
-      "excerpt": "Gia nhập công ty 𝗔𝗜 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 của Mỹ đang mở rộng team nhân sự tại Việt Nam (Hiện tại team đã có 8 ae rồi). Nếu bạn tìm kiếm môi trường có văn hóa mở, không control thời gian mà tập trung vào chất lượng làm việ...",
-      "issueState": "open",
-      "contentHash": "1b69d8d63577093656da61751d52478e07c8c1a3c24440953c91e54f395bbe4d",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "typescript",
-        "python",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "tieuvu9x",
-        "name": "tieuvu9x",
-        "handle": "tieuvu9x",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/71082074?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-11T08:29:52Z",
-      "updatedAt": "2026-03-11T08:29:52Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4903",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b89dd7ae7dbdb913cfe62232",
-      "sourceId": "awesome-jobs/vietnam#4902",
-      "title": "Senior Fullstack Engineer (AI Tools, Java/TypeScript), Full Remote in HCMC",
-      "description": "Công ty phần mềm trụ sở Berlin, Đức đang mở rộng team nhân sự tại Việt Nam và đang cần tìm ứng viên cho vị trí Senior Fullstack Engineer có kinh nghiệm tích hợp các công cụ AI như Claude Code và Cursor vào quy trình phát triển phần mềm hằng ngày. 🚀\n## 👉 𝗢𝗳𝗳𝗲𝗿:\n- Location: HCMC (full remote)\n- 𝗦𝗮𝗹𝗮𝗿𝘆 𝘂𝗽 𝘁𝗼 $𝟰,𝟬𝟬𝟬 𝗚𝗿𝗼𝘀𝘀 \n## 👉 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:\n- 5+ years of software engineering experience \n- Fluent English\n- Proven daily use of Claude Code in real development projects \n- Experience shipping real product features using Cursor \n- Strong understanding of clean architecture and software design principles\n- Experience building systems with TypeScript or Java \n- Ability to critically review and improve AI-generated code \n- Strong problem-solving skills and engineering mindset\n## 📩 Interested or know someone who might be a fit? Let’s connect!\n💬 LinkedIn DM or Zalo / Telegram / WhatsApp: 0915 500 810",
-      "excerpt": "Công ty phần mềm trụ sở Berlin, Đức đang mở rộng team nhân sự tại Việt Nam và đang cần tìm ứng viên cho vị trí Senior Fullstack Engineer có kinh nghiệm tích hợp các công cụ AI như Claude Code và Cursor vào quy trình p...",
-      "issueState": "open",
-      "contentHash": "f71072ce4287b72cd5e0aa49d6baf9a0d63798266ca066d20f2ab07f74f13f19",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "fullstack",
-        "typescript",
-        "java",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "tieuvu9x",
-        "name": "tieuvu9x",
-        "handle": "tieuvu9x",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/71082074?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-11T08:28:44Z",
-      "updatedAt": "2026-03-11T08:28:44Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4902",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_74e792fd5180bf0fee5883a2",
-      "sourceId": "backend-br/vagas#12206",
-      "title": "[Job] Senior Backend Engineer (+10 YOE) - Remote (Brazil South/Southeast Only) - Paid in USD 🚀",
-      "description": "[Job] Senior Backend Engineer (+10 YOE) - Remote (Brazil South/Southeast Only) - Paid in USD 🚀\n\n📍 Location & Eligibility\n100% Remote\nMust be based in the South or Southeast regions of Brazil (PR, SC, RS, SP, RJ, MG, ES).\nFluent English is mandatory for global collaboration.\n\n🏢 The Mission: Ownership & Scale\nWe are looking for a battle-tested ### Senior Backend Engineer with over 10 years of experience. At this level, we aren't just looking for someone who writes code; we need an engineer who can deliver reliable, secure, and observable services—and truly ### own them in production.\n\nIf you believe in ### simplicity over over-engineering and have the \"operational muscle\" to handle systems at scale, we want to talk to you.\n\n🎯 What You Will Do\n\n- Design & Implement: Architect backend services and APIs with a focus on long-term maintainability and pragmatic simplicity.\n- Data Strategy: Work effectively across both SQL and NoSQL environments, choosing the right data models and storage technologies for specific problems.\n- Quality First: Build robust automated testing (unit, integration, e2e), ensuring CI/CD readiness and implementing safe rollout patterns.\n- Operational Excellence: Own the full lifecycle—logs, metrics, traces, and alerting. Participate in on-call support when needed and drive post-incident improvements.\n\n✅ Strong Signals (Requirements)\n\n- Experience: 10+ years of solid backend engineering experience.\n- Communication: Fluent English (written and spoken) is mandatory.\n- Pragmatism: You make architectural decisions based on business value, delivering in small, continuous increments.\n- Automation Mindset: You proactively identify and reduce manual bottlenecks through automation.\n- Location: Residing in the South or Southeast of Brazil is a requirement for this role.\n\n💰 Benefits\n\n100% Remote: Full flexibility to work from home.\nUSD Compensation: Competitive salary paid in US Dollars (high purchasing power in Brazil).\nHigh Autonomy: Direct impact on technical decisions without micromanagement.\n\n📝 How to Apply\n\nPlease send your LinkedIn profile, GitHub, or Resume to [psicomatheuspedroza@gmail.com](mailto:psicomatheuspedroza@gmail.com) with the subject: \"Senior Backend Engineer - Brazil SE/S - [Your Name]",
-      "excerpt": "[Job] Senior Backend Engineer (+10 YOE) - Remote (Brazil South/Southeast Only) - Paid in USD 🚀 📍 Location & Eligibility 100% Remote Must be based in the South or Southeast regions of Brazil (PR, SC, RS, SP, RJ, MG, ...",
-      "issueState": "open",
-      "contentHash": "5148d3a84e56986752c521c3833a575435fe94d25c330d41e9a2510be778e1e5",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sql",
-        "ci/cd",
-        "solid"
-      ],
-      "author": {
-        "id": "psicomatheuspedroza",
-        "name": "psicomatheuspedroza",
-        "handle": "psicomatheuspedroza",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/267138057?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-03-10T19:39:29Z",
-      "updatedAt": "2026-04-11T02:00:43Z",
-      "url": "https://github.com/backend-br/vagas/issues/12206",
       "sourceType": "github-issue"
     }
   ]
