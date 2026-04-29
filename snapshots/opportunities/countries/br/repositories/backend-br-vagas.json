@@ -1,16 +1,56 @@
 {
-  "generatedAt": "2026-04-29T02:11:32.180Z",
+  "generatedAt": "2026-04-29T05:48:49.737Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "backend-br/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 18,
-    "closedIssues": 12
+    "openIssues": 19,
+    "closedIssues": 11
   },
-  "dataHash": "ed4457349a24d5174c604db048cc2e5e8b4c036f72607c332761b130e766acfb",
+  "dataHash": "9e58a84cbc2f53b6412b5fe0998f32ae520060faa7f17a932d6a8727ce7f5c2d",
   "items": [
+    {
+      "id": "gh_c2842e7382b7b6bf1db541df",
+      "sourceId": "backend-br/vagas#12229",
+      "title": "[Remoto] FullStack Node e React - Stefanini",
+      "description": "## Nossa empresa\n\nOLATAM Digital Hub  Stefanini  é uma potência global em tecnologia, especializada em soluções de Nearshoring que conectam os melhores talentos da América Latina a empresas ao redor do mundo Com mais de 35 anos de experiência e presença em mais de 40 países, a Stefanini oferece serviços de transformação digital de ponta a ponta — desde engenharia de software e QA até nuvem, IA e serviços gerenciados.\n\nNosso modelo de Digital Hub permite que as organizações acessem profissionais altamente qualificados e culturalmente alinhados em tempo real, reduzindo custos e mantendo os mais altos padrões de qualidade e inovação. Temos orgulho de construir carreiras de longo prazo, e não apenas alocações — oferecendo aos membros da nossa equipe contratação direta, remuneração competitiva e um ambiente global colaborativo.\n\n## Descrição da vaga\n\nBuscamos um(a) especialista técnico(a) **Full-stack** para atuar em ambientes de arquitetura complexa. O papel envolve projetar e implementar aplicações robustas e de alta performance, focando em uma stack moderna centrada em Node.js (Backend) e React (Frontend).\n\n**Principais Responsabilidades:**\n* Desenvolver e manter features de ponta a ponta (end-to-end) para ambientes de alto tráfego.\n* Colaborar com times multifuncionais para definir padrões arquiteturais.\n* Garantir a alta qualidade do código através de testes rigorosos e code reviews.\n* Participar de todo o ciclo de vida de desenvolvimento (SDLC) em um ambiente Ágil.\n\n## Local\n\n100% Remoto\n\n## Requisitos\n\n**Obrigatórios (Backend & Frontend Core):**\n* **Frontend:** Proficiência avançada em React.js, conectando arquiteturas complexas de backend com componentes de interface de usuário perfeitamente responsivos.\n* **Ambiente & Frameworks:** Node.js (v18+), NestJS e TypeScript.\n* **Monorepo:** Experiência com Turborepo.\n* **Testes:** Proficiência em Jest (Testes Unitários e de Integração).\n* **Bancos de Dados:** Experiência prática com MS SQL Server, MongoDB e PostgreSQL.\n* **Cache & Mensageria:** Redis, Kafka e/ou RabbitMQ.\n* **DevOps e API:** Docker, Git e design de APIs REST.\n* **Segurança:** Profundo entendimento de OAuth2, JWT e OIDC.\n\n**Desejáveis:**\n* **Fintech:** Experiência com plataformas de aplicativos Jack Henry ou Q2.\n* **Arquitetura:** Domínio de Arquitetura Orientada a Eventos (EDA), CQRS + Event Sourcing, Padrão Saga e API Gateways.\n* **Estratégia:** Experiência com *Strangler Fig pattern* e *Trunk Based Development*.\n* **Metodologia:** Forte adesão aos princípios SOLID e Domain-Driven Design (DDD).\n* **Dados:** Familiaridade com Avro Schema e Protobuf.\n\n## Benefícios\n\n* Ambiente global colaborativo e de inovação.\n* Remuneração competitiva.\n* Oportunidade de construir uma carreira de longo prazo em projetos internacionais.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nAs candidaturas devem ser feitas diretamente através da plataforma da Workfully no link: [Stefanini Careers - Application Form](https://hiring.workfully.com/jobs/bd03030b-8857-4821-800f-d810955d7c5c/details)\n\n## Labels\n\n### Nível\n- Sênior\n- Especialista\n\n### Regime\n- CLT\n\n### Alocação\n- Remoto",
+      "excerpt": "## Nossa empresa OLATAM Digital Hub Stefanini é uma potência global em tecnologia, especializada em soluções de Nearshoring que conectam os melhores talentos da América Latina a empresas ao redor do mundo Com mais de ...",
+      "issueState": "open",
+      "contentHash": "edc6d9fa8fc1504583b429e71574da20a391578e935e62ce891ca43103c173ba",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "sênior",
+        "node.js",
+        "remoto",
+        "especialista",
+        "mongodb",
+        "typescript",
+        "postgresql"
+      ],
+      "author": {
+        "id": "fellipebrancaccio",
+        "name": "fellipebrancaccio",
+        "handle": "fellipebrancaccio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22227480?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-04-29T04:33:11Z",
+      "updatedAt": "2026-04-29T04:33:28Z",
+      "url": "https://github.com/backend-br/vagas/issues/12229",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_3ed888e508136df7f21ed82d",
       "sourceId": "backend-br/vagas#12228",
@@ -947,52 +987,6 @@
       "createdAt": "2026-02-27T19:34:49Z",
       "updatedAt": "2026-04-01T02:22:48Z",
       "url": "https://github.com/backend-br/vagas/issues/12197",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_70a20e99088f17067c792a7c",
-      "sourceId": "backend-br/vagas#12196",
-      "title": "[Remoto] Tech Fast Track - Vagas para Back-end developer - Tractian",
-      "description": "## Nossa empresa\n\nFundada em 2019 por três estudantes universitários: Igor Marinelli, Gabriel Lameirinhas e Leonardo Vieira. A Tractian nasceu com o propósito de transforma a indústria por meio da tecnologia e rapidamente se tornou uma empresa global de tecnologia industrial.\n\nCombinamos sensores inteligentes, software e IA para monitorar milhares de ativos em tempo real, reduzir paradas não planejadas e manter fábricas operando em máxima performance.\n\n\n## Descrição da vaga\n\nProcesso seletivo sem limite de vagas para Software Engineering, Hardware e Data Science, com possibilidade de entrada em todas as áreas do time de tecnologia e salário inicial de R$ 12.000 a R$ 21.000.  \n\n**Escolha sua trilha de preferência**\nVocê pode se inscrever em uma trilha e, se fizer sentido, a Tractian te realoca durante o processo.  \n\n**Trilha 1 - Software Engineering**\nConstrua produtos fluidos e intuitivos. Sua missão é elevar a performance de nossas plataformas mobile e desktop, unindo código limpo à usabilidade impecável.  \n\n**Trilha 2 - Hardware**\nDomine o ciclo completo do produto. Do firmware e circuitos ao design externo e manufatura. Garanta hardware robusto, escalável e com alta confiabilidade.  \n\n**Trilha 3 - Data Science & AI**\nColoque IA e Machine Learning em produção. Transforme dados em diagnósticos inteligentes e antecipe problemas. Construa fluxos e infraestrutura de alta performance para integrar produtos em ecossistemas complexos. \n\n   \n**Salário inicial: entre R$ 12.000 e R$ 21.000**\n- A faixa acima é o salário inicial para este programa.\n- O valor final depende principalmente de nível (pleno/sênior/especialista) e escopo da função (complexidade, autonomia, impacto esperado).\n- Durante o processo, você recebe uma proposta compatível com sua avaliação.\n- Até $40,000 USD de equity inicial da empresa de tecnologia que mais cresce no Brasil. \n\n\n## Local\n\n- [Hardware] Disponibilidade para trabalhar no modelo híbrido, baseado em São Paulo - SP.\n- [Software e Data Science & AI] Formato de trabalho pode ser híbrido ou remoto.\n\n\n## Requisitos\n\n- Senioridade mínima: pleno.\n- Disponibilidade para início a partir de abril de 2026.\n- Graduação completa em cursos de tecnologia será um diferencial.\n\n\n## Benefícios\n\n- Plano de saúde e odontológico sem coparticipação\n- R$ 1.035/mês de vale alimentação/refeição\n- Acesso ao Wellhub\n- Incentivo adicional de R$ 300/mês para práticas esportivas\n- Viagem internacional a cada 4 anos para o destino de sua escolha\n- NVIDIA GB300 à sua disposição: Acesso físico exclusivo às GPUs mais potentes do mercado. A única infraestrutura deste porte em toda a América Latina.\n\n\n## Contratação\n\nCLT\n\n\n## Como se candidatar\n\nInscreva-se até 09/03:\nhttps://careers.tractian.com/fast-track-program-2026?utm_source=github&utm_medium=social&utm_campaign=fast-track-2026&utm_content=backend\n\nO processo seguirá o fluxo definido previamente e todos os candidatos receberão um retorno ao fim de cada etapa.\n\n- Inscrição até 09/03\n- Desafio Técnico (online) 11 a 15/03\n- Final Presencial em 28 e 29/03\n\n\n## Labels\n\n### Nível\n- Pleno\n- Sênior\n- Especialista\n\n### Regime\n- CLT\n\n\n### Alocação\n- Remoto\n- Híbrido",
-      "excerpt": "## Nossa empresa Fundada em 2019 por três estudantes universitários: Igor Marinelli, Gabriel Lameirinhas e Leonardo Vieira. A Tractian nasceu com o propósito de transforma a indústria por meio da tecnologia e rapidame...",
-      "issueState": "closed",
-      "contentHash": "98a9c213927d498ee358594c1d86f1f0fdbd842a648ab0ddce3c83d5dcf8960b",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pleno",
-        "sênior",
-        "remoto",
-        "especialista",
-        "presencial",
-        "stale",
-        "híbrido"
-      ],
-      "author": {
-        "id": "ysumitani-hub",
-        "name": "ysumitani-hub",
-        "handle": "ysumitani-hub",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/262422346?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 21000,
-        "period": "month"
-      },
-      "createdAt": "2026-02-25T20:31:14Z",
-      "updatedAt": "2026-03-30T02:14:05Z",
-      "url": "https://github.com/backend-br/vagas/issues/12196",
       "sourceType": "github-issue"
     },
     {

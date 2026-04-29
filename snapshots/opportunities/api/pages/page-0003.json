@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-04-29T02:11:32.180Z",
+  "generatedAt": "2026-04-29T05:48:49.737Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_572dce76ffa409fc0e7e05fe",
+    "gh_fb174104f5fcd15130abb5c5",
     "gh_d6831d3d8f596e82c2d41adf",
     "gh_c55c0ec98d8be9c01ebe7432",
     "gh_5497a5e458f49acc5e1cf37d",
@@ -21,11 +23,83 @@
     "gh_4fc2477b7ca56d5007fa4cc5",
     "gh_30f0a846c8602a68cd49db8d",
     "gh_bebc4c633e728a987497ecda",
-    "gh_dcdf78cbd3dbfc81b414065f",
-    "gh_684ff1896e30b278732e5f5a",
-    "gh_5b39f4b0acc4adfc7a0328f7"
+    "gh_dcdf78cbd3dbfc81b414065f"
   ],
   "items": [
+    {
+      "id": "gh_572dce76ffa409fc0e7e05fe",
+      "sourceId": "ambicuity/New-Grad-Jobs#249",
+      "title": "[Beginner]: add regression tests for artifact integrity failure modes",
+      "description": "### 🐥 Beginner Friendly\nWelcome! This is a **Beginner Issue** — a natural next step after Good First Issues.\n\nIt expects you to:\n- Read existing code and follow its patterns\n- Own a small implementation decision\n- Write or extend tests\n\n**Difficulty:**\n- Basic Python (reading and writing functions) required\n- No external API experience needed\n- Familiarity with the contribution workflow expected\n\n> [!IMPORTANT]\n> We recommend completing at least one Good First Issue before attempting a Beginner Issue.\n>\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 👾 Description of the Issue\n`run_integrity_checks()` in `scripts/quality.py` is a key guardrail for publish safety, but several important failure paths are not explicitly regression-tested end-to-end.\n\nAdd targeted tests for scenarios such as:\n- missing required artifacts (`docs/jobs.json`, `docs/health.json`)\n- invalid JSON payloads\n- jobs/health count mismatch detection\n- contract validation error propagation in report payload\n\nFocus on deterministic, temp-directory-based tests only (no live network calls).\n\n### ✅ Acceptance Criteria\n- [ ] The change is implemented in the correct file/function\n- [ ] Edge cases are handled (None, empty string, NaN, Unicode)\n- [ ] All existing tests pass (`make test`)\n- [ ] New tests are added covering the changed behavior\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)",
+      "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
+      "issueState": "open",
+      "contentHash": "62e698455964e68b72cf2573a85596f7d23ac7052f25af270cd81db9a062a26b",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "beginner"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-10T19:59:24Z",
+      "updatedAt": "2026-04-11T15:56:23Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/249",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_fb174104f5fcd15130abb5c5",
+      "sourceId": "ambicuity/New-Grad-Jobs#248",
+      "title": "[Intermediate]: add deterministic test coverage for evaluate_jobs sidecar",
+      "description": "### 🧩 Intermediate Contributors\nThis issue is intended for contributors who already have experience with this repository\nand the contribution workflow.\n\nYou should feel comfortable:\n- Navigating `scripts/update_jobs.py`, `config.yml`, and `tests/`\n- Understanding how `filter_jobs()`, `deduplicate_jobs()`, and `categorize_job()` work\n- Following existing patterns without step-by-step guidance\n- Writing non-trivial pytest tests with mocking\n\n> [!IMPORTANT]\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 🐞 Problem Description\n`scripts/evaluate_jobs.py` is part of the published analytics sidecar path, but it has little to no direct test coverage for:\n- eligibility gating logic (`_is_eligible`)\n- scoring heuristics (`_score_job`)\n- output artifact shape and metadata consistency in `main()`\n\nThis creates risk that silent scoring/contract regressions ship unnoticed.\n\n### 💡 Expected Solution\nAdd deterministic tests covering:\n- `_is_eligible` include/exclude behavior for closed/malformed jobs\n- `_score_job` score/confidence bounds and reason-code generation\n- `main()` behavior with a temporary `docs/jobs.json` fixture, asserting generated artifact shape and key metadata fields\n\nKeep tests network-free and deterministic. Do not change scoring policy in this issue.\n\n### ✅ Acceptance Criteria\n- [ ] Problem is resolved per the description above\n- [ ] Edge cases handled: None, NaN, empty string, Unicode, malformed data\n- [ ] All existing `pytest tests/` pass\n- [ ] New tests added for changed logic (deterministic — no live network calls)\n- [ ] `pre-commit run --all-files` passes\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)\n\n### 🔗 Additional Context\n- Target module: `scripts/evaluate_jobs.py`\n- Related contract helpers: `scripts/contracts.py`\n- Related integrity checks: `scripts/quality.py`",
+      "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
+      "issueState": "open",
+      "contentHash": "49937d3f1487ccd1ea8ed9d69a95e88170a71bdc138e6b3e96c685494c9e942e",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "intermediate"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-10T19:59:24Z",
+      "updatedAt": "2026-04-10T20:28:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/248",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d6831d3d8f596e82c2d41adf",
       "sourceId": "react-brasil/vagas#3008",
@@ -709,86 +783,6 @@
       "createdAt": "2026-03-25T14:49:07Z",
       "updatedAt": "2026-03-25T14:49:41Z",
       "url": "https://github.com/programadores-br/geral/issues/3061",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_684ff1896e30b278732e5f5a",
-      "sourceId": "backend-br/vagas#12215",
-      "title": "[Curitiba, São Paulo e Rio de Janeiro] Sênior Back-end developer (Python) - Jcal",
-      "description": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO | EMPRESA DE SAÚDE (HEALTHCARE) 💻🌎\nSe você é um profissional Sênior e busca atuar em um ambiente global, com autonomia real e impacto direto em produto — essa pode ser a sua próxima oportunidade.\nEstamos contratando talentos para uma empresa do setor de Healthcare (experiência com HIPAA/PHI é um diferencial, mas não obrigatória).\n🔎 REQUISITOS GERAIS (para todas as vagas)\n✔ Inglês avançado (experiência com times dos Estados Unidos) \n✔ Forte senso de ownership (da ideia à produção)\n✔️Ensino Superior Completo (Ciência da Computação \n📌8+ experiências\n🏡Profissionais localizados em São Paulo ou Rio de Janeiro são bem-vindos a se candidatar, desde que tenham disponibilidade para mudança para Curitiba.\nA posição inicia em modelo remoto, com transição posterior para trabalho híbrido em Curitiba.\n💰Pagamento em dólar (3500/5.500k)\n\n✔ Experiência com:\nDesenvolvimento completo (design → implementação → testes → deploy → suporte)\nTestes (unitário, integração e e2e)\nMonitoramento, logs e resolução de incidentes\n✔ Perfil proativo, independente e orientado a resultados\n✔ Mentalidade de qualidade (sem time separado de QA)\n💡 O mais importante: atitude, autonomia e responsabilidade.\n\n💻 VAGAS DISPONÍVEIS\n🟣 SÊNIOR FRONTEND ENGINEER (REACT) \nMissão: Entregar experiências de alta qualidade com performance e confiabilidade\nResponsabilidades:\nDesenvolver e evoluir features focadas em UX, performance e manutenção\nIntegração com APIs (gestão de estado, erros e performance)\nGarantir qualidade (testes, CI, monitoramento pós-release)\nColaborar com produto e engenharia na definição de escopo\nDiferenciais: ✔ Olhar crítico para UX\n✔ Experiência com observabilidade no frontend\n\n🔵 SÊNIOR BACK-END ENGINEER (PYTHON) \nMissão: Construir serviços escaláveis, seguros e confiáveis\nResponsabilidades:\nDesenvolver APIs e serviços backend\nTrabalhar com bancos SQL e NoSQL\nImplementar testes e pipelines CI/CD\nAtuar com monitoramento, métricas e suporte em produção\nDiferenciais: ✔ Decisões arquiteturais pragmáticas\n✔ Automação de processos e redução de gargalos\n\n🟢 SÊNIOR DEVOPS / AWS ENGINEER \nMissão: Garantir entregas rápidas e seguras com automação e observabilidade\nResponsabilidades:\nGerenciar infraestrutura AWS\nCriar pipelines CI/CD (Infrastructure as Code)\nDefinir padrões de segurança, confiabilidade e custo\nApoiar deploys, monitoramento e resposta a incidentes\nDiferenciais: ✔ Criação de ferramentas self-service\n✔ Forte cultura de segurança e confiabilidade\n\n💬 Interessado(a)?\nMe chame através deste link abaixo👇🏻\nhttps://lnkd.in/dVM8Jbar",
-      "excerpt": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO | EMPRESA DE SAÚDE (HEALTHCARE) 💻🌎 Se você é um profissional Sênior e busca atuar em um ambiente global, com autonomia real e impacto direto em produto — essa pode ser a sua ...",
-      "issueState": "open",
-      "contentHash": "d75666368e05b2bf0e56e52aa727eb28bf5a865a1f611ece1b46e86059863b6b",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "python",
-        "remoto",
-        "aws",
-        "sql",
-        "híbrido",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-03-25T01:14:58Z",
-      "updatedAt": "2026-04-18T16:38:21Z",
-      "url": "https://github.com/backend-br/vagas/issues/12215",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5b39f4b0acc4adfc7a0328f7",
-      "sourceId": "DevOps-Brasil/Vagas#457",
-      "title": "[CARGO] Empresa - Localização",
-      "description": "### 🎯 Cargo\n\nEstágio de TI \n\n### 🏢 Empresa\n\nTabma \n\n### 📊 Nível de Experiência\n\nEstágio\n\n### 🏠 Modalidade de Trabalho\n\nPresencial\n\n### 📍 Localização\n\nGuarulhos/ São Paulo \n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💰 Faixa Salarial\n\nA combinar \n\n### 📋 Descrição da Vaga\n\nA TABMA Informática está contratando! Buscamos um Analista de Suporte de TI para somar ao nosso time. Se você gosta de colocar a mão na massa, desde a manutenção de hardware até a configuração de diferentes sistemas operacionais, queremos te conhecer.\n\nSe você é apaixonado por tecnologia e está no inicio da sua jornada profissional, gosta de resolver problemas e quer iniciar sua carreira em uma equipe que valoriza aprendizado e crescimento, essa oportunidade é para você!\n\n🔧 O que você vai fazer: \n\n- Diagnosticar e reparar defeitos em hardwares de computadores e notebooks;\n\n- Realizar manutenção preventiva e corretiva em equipamentos;\n\n- Instalar, formatar e configurar sistemas operacionais Windows, Linux;\n\n- Prestar suporte técnico básico a usuários, garantindo a funcionalidade dos equipamentos;\n\n- Documentar serviços realizados e manter o controle das manutenções.\n\n\n### ✅ Requisitos Técnicos\n\n```markdown\n🧩 O que esperamos de você:\n\n- Residir próximo a Zona Norte;\n\n- Conhecimentos em hardware (montagem, substituição de peças e testes).\n\n- Experiência com instalação e configuração de sistemas operacionais (Windows, Linux e Mac OS X).\n\n- Conhecimento em drivers, pacotes de software e atualizações.\n\n- Microsoft Office (Word, Excel, PowerPoint).\n```\n\n### 🎁 Benefícios\n\n- Vale Transporte \n\n### 🛠️ Stack/Tecnologias\n\n_No response_\n\n### 📧 Como se Candidatar\n\n📩 Ficou interessado(a)? Não perca tempo! Envie seu currículo para: [alanahsctusjt@gmail.com](mailto:alanahsctusjt@gmail.com)\n\n### 🔗 Link da Vaga (opcional)\n\n_No response_\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
-      "excerpt": "### 🎯 Cargo Estágio de TI ### 🏢 Empresa Tabma ### 📊 Nível de Experiência Estágio ### 🏠 Modalidade de Trabalho Presencial ### 📍 Localização Guarulhos/ São Paulo ### 📝 Tipo de Contratação CLT ### 💰 Faixa Salarial...",
-      "issueState": "open",
-      "contentHash": "b693b672db8c6838d0e84dadb8616659b9453174435b3a2bc574af24a75cc077",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "devops",
-        "sre",
-        "infra",
-        "pa",
-        "se",
-        "pr",
-        "sp"
-      ],
-      "author": {
-        "id": "alanaverass",
-        "name": "alanaverass",
-        "handle": "alanaverass",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/270380465?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "companyName": "Localização",
-      "createdAt": "2026-03-23T14:29:03Z",
-      "updatedAt": "2026-03-23T14:29:27Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/457",
       "sourceType": "github-issue"
     }
   ]

@@ -1,16 +1,54 @@
 {
-  "generatedAt": "2026-04-29T02:11:32.180Z",
+  "generatedAt": "2026-04-29T05:48:49.737Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 7,
-    "closedIssues": 23
+    "openIssues": 8,
+    "closedIssues": 22
   },
-  "dataHash": "eb26573eb5754d65b30a16f13422d2371515476b0648363b3482e010887625a4",
+  "dataHash": "c9f8348828ae9e7a732a90285b34bc2ed54eed0e92940b92df5ff9fb653862f9",
   "items": [
+    {
+      "id": "gh_ac5c3adefbec0251a86525c4",
+      "sourceId": "qa-brasil/vagas#1253",
+      "title": "[Remoto] QA Sênior na Stefanini",
+      "description": "## Descrição da vaga\n\nO Senior QA Analyst atuará no Stefanini LATAM Digital Hub, sendo autoridade de qualidade dentro de Agile Squads em ambientes de Core Banking. O foco da função é definir e melhorar práticas de teste ao longo de todo o ciclo de entrega, garantindo conformidade com regulamentações bancárias, controles internos e padrões de arquitetura corporativa.\n\nO profissional será responsável por validar fluxos complexos de Core Banking (ciclo de conta, transações, juros), liderar estratégias de automação e garantir a prontidão para auditorias.\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Ampla experiência como QA Analyst em ambientes Agile/Scrum.\n- Experiência prática comprovada com sistemas de Core Banking.\n- Forte entendimento de processos bancários, fluxos de transação e restrições regulatórias.\n- Conhecimento sólido em metodologias de teste de software e governança de qualidade.\n- Experiência com JIRA e ferramentas de gerenciamento de teste.\n\n**Desejáveis**\n- Experiência com frameworks de automação de testes (API e/ou UI).\n- Conhecimento de práticas de BDD (Given / When / Then).\n- Familiaridade com pipelines CI/CD e práticas de DevOps.\n\n**Diferenciais**\n- Experiência em suporte a auditorias e revisões de conformidade.\n- Background em ambientes financeiros altamente regulados.\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- Benefícios a confirmar\n\n**Diferenciais**\n\n- Atuação em um Hub Digital Global (Stefanini LATAM).\n- Projetos de missão crítica em escala internacional.\n\n## Range Salarial\n\nA vaga paga até R$ 8.800,00.\n\n## Sobre a empresa\n\nA Stefanini é uma multinacional brasileira presente em mais de 40 países, sendo referência em soluções digitais. O LATAM Digital Hub foca em especialistas para projetos de nearshoring, conectando talentos da região a grandes players do setor financeiro.\n\n## Como se candidatar\n\n- Candidatar através do site: https://hiring.workfully.com/recruiter/4fbaa3d0-45c0-4662-9cf6-f172c4d319ad/job/6d56d25f-0f84-4f50-80bc-80f2ed16459e\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: feedbacks@stefanini.com\n\n## Labels\n- CLT\n- Pleno\n- Sênior\n- Remoto\n- São Paulo",
+      "excerpt": "## Descrição da vaga O Senior QA Analyst atuará no Stefanini LATAM Digital Hub, sendo autoridade de qualidade dentro de Agile Squads em ambientes de Core Banking. O foco da função é definir e melhorar práticas de test...",
+      "issueState": "open",
+      "contentHash": "6b98ea59aef4e8cf30d844a9e9b9fe91d20ddbf2f3c09086d89e6adf6cd72298",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "remoto",
+        "são paulo",
+        "sênior"
+      ],
+      "author": {
+        "id": "fellipebrancaccio",
+        "name": "fellipebrancaccio",
+        "handle": "fellipebrancaccio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22227480?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Benefícios a confirmar",
+      "createdAt": "2026-04-29T03:42:42Z",
+      "updatedAt": "2026-04-29T03:44:38Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1253",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_42aec3e02f4705505e208eb2",
       "sourceId": "qa-brasil/vagas#1252",
@@ -1054,47 +1092,6 @@
       "createdAt": "2025-05-12T13:53:19Z",
       "updatedAt": "2026-03-28T02:38:05Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1218",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3dd2b5dbf91c6e11855dcf6e",
-      "sourceId": "qa-brasil/vagas#1217",
-      "title": "[Campinas/SP] QA na V4 Company",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nEstamos em busca de um(a) Analista de Qualidade para compor o time de tecnologia da V4 Company!\n\nSe você é um profissional motivado, orientado para resultados e apaixonado por ajudar os clientes a alcançar o sucesso por meio do marketing digital e está pronto para assumir um papel desafiador, dá uma olhada na descrição da posição abaixo e te inscreve!\n\nResponsabilidades e Atribuições\n\n- Planejar, projetar e executar testes automatizados para APIs RESTful e outras interfaces de serviços;\n\n- Desenvolver e manter frameworks de automação de testes robustos e escaláveis;\n\n- Criar e gerenciar casos de teste, planos de teste e conjuntos de testes para APIs Identificar, registrar e acompanhar bugs e problemas de qualidade;\n\n- Colaborar com desenvolvedores e outros membros da equipe para resolver problemas e melhorar a qualidade do software;\n\n- Participar de revisões de código e design para garantir a qualidade e testabilidade;\n\n- Implementar e manter pipelines de integração contínua e entrega contínua (CI/CD) para testes automatizados;\n\n- Analisar resultados de testes e fornecer relatórios detalhados sobre a qualidade do software;\n\n- Manter-se atualizado com as últimas tendências e melhores práticas em testes de API e automação.\n\n## Local de trabalho\n<!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->\n- Híbrido. 2 dias remoto e 3 dias presencial no escritório em Campinas - SP, bairro Distrito Industrial (ao lado do Aeroporto Internacional de Viracopos)\n\n## Requisitos da vaga\n\n**Obrigatórios**\n\n- Bacharelado em Ciência da Computação, Engenharia de Software ou área relacionada;\n\n- Experiência comprovada em testes de software, com ênfase em testes de API e automação;\n\n- Conhecimento sólido de princípios e metodologias de teste de software;\n\n- Proficiência em pelo menos uma linguagem de programação relevante para automação de testes (por exemplo, Python, Java, JavaScript);\n\n- Experiência com ferramentas de automação de testes de API (por exemplo, Postman, REST Assured, Karate);\n\n- Familiaridade com protocolos de API (REST, SOAP, GraphQL) e formatos de dados (JSON, XML);\n\n- Conhecimento de ferramentas de CI/CD (por exemplo, Jenkins, GitLab CI, GitHub Actions);\n\n- Experiência com sistemas de controle de versão (preferencialmente Git);\n\n- Compreensão de conceitos de banco de dados e habilidade para escrever consultas SQL básicas;\n\n- Conhecimento de ferramentas de gerenciamento de testes (por exemplo, JIRA, TestRail).\n\n**Desejáveis**\n- Desejável: experiência com testes de performance e segurança de APIs\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Gympass;\n- Onhappy;\n- Acesso a Staage.\n- Acesso a plataforma da English Pass.\n\n## Range Salarial\n\nA vaga paga entre 6.000,00 e 11.000,00 reais.\n\n## Sobre a empresa\n\nA V4 é a maior assessoria de Marketing Digital da América Latina,\ncom um objetivo claro: Vender. Nosso foco é maximizar as vendas dos nossos clientes, alcançar mais pessoas, realizar mais transações e garantir o maior valor possível. Com mais de 10 anos de experiência, operamos com um modelo de franquia, contando com 250 franquias no Brasil e 6 mil clientes ativos. Já trabalhamos com grandes marcas como Spotify, Melissa, Smartfit e Dell e somos sócios do Grupo Dreamers.\nHoje a V4 vende Gestão, Mídia Paga, Criativo, Landing Pages, Dados, CRMs e Equipe de Vendas com solução de Inside Sales. Isso tudo é o que oferecemos hoje pro mercado.\n\n## Como se candidatar\n\n- Candidatar através do site: https://v4company.inhire.app/matriz/vagas/6978f414-0bf7-4fd8-90ad-7b85a5689508/analista-de-testes-automatizados-senioror-time-de-tech-or-matriz\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: thais.silva@v4company.com\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n\n- PJ\n- Pleno\n- Sênior\n\n<!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->\n- Presencial\n- Remoto\n\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n- São Paulo\n\n<!--- Se sua vaga não for do Brasil, apague a linha de estado acima e deixe a de baixo --->\n\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "closed",
-      "contentHash": "8433056f944f242cc000ee37ba2fc5f0776e7028a7222d9d37f7ebab7635c65a",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "remoto",
-        "são paulo",
-        "sênior",
-        "presencial",
-        "inglês",
-        "stale"
-      ],
-      "author": {
-        "id": "Thaistechrec",
-        "name": "Thaistechrec",
-        "handle": "Thaistechrec",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/206752137?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Plano de saúde e odontológico;",
-      "createdAt": "2025-05-09T12:38:01Z",
-      "updatedAt": "2026-03-28T02:38:05Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1217",
       "sourceType": "github-issue"
     },
     {
