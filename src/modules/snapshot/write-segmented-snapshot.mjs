@@ -2,6 +2,10 @@ import { collectPreviousSnapshotFiles } from "./collect-previous-snapshot-files.
 import { pruneStaleSnapshotFiles } from "./prune-stale-snapshot-files.mjs";
 import { writeJsonIfChanged } from "../storage/write-json-if-changed.mjs";
 
+const SNAPSHOT_WRITE_OPTIONS = {
+  ignoredComparisonFields: ["generatedAt"],
+};
+
 function collectNextSnapshotFiles(snapshot) {
   const files = new Set([snapshot.globalIndex.relativePath]);
 
@@ -22,7 +26,11 @@ function collectNextSnapshotFiles(snapshot) {
 
 async function writeCountrySnapshot(countrySnapshot, changedFiles) {
   for (const repositoryShard of countrySnapshot.repositoryShards) {
-    const changed = await writeJsonIfChanged(repositoryShard.filePath, repositoryShard.payload);
+    const changed = await writeJsonIfChanged(
+      repositoryShard.filePath,
+      repositoryShard.payload,
+      SNAPSHOT_WRITE_OPTIONS,
+    );
 
     if (changed) {
       changedFiles.push(repositoryShard.relativePath);
@@ -32,6 +40,7 @@ async function writeCountrySnapshot(countrySnapshot, changedFiles) {
   const changedIndex = await writeJsonIfChanged(
     countrySnapshot.index.filePath,
     countrySnapshot.index.payload,
+    SNAPSHOT_WRITE_OPTIONS,
   );
 
   if (changedIndex) {
@@ -56,7 +65,11 @@ export async function writeSegmentedSnapshot(snapshot) {
   }
 
   for (const staticApiFile of snapshot.staticApiFiles ?? []) {
-    const changed = await writeJsonIfChanged(staticApiFile.filePath, staticApiFile.payload);
+    const changed = await writeJsonIfChanged(
+      staticApiFile.filePath,
+      staticApiFile.payload,
+      SNAPSHOT_WRITE_OPTIONS,
+    );
 
     if (changed) {
       changedFiles.push(staticApiFile.relativePath);
@@ -66,6 +79,7 @@ export async function writeSegmentedSnapshot(snapshot) {
   const changedGlobalIndex = await writeJsonIfChanged(
     snapshot.globalIndex.filePath,
     snapshot.globalIndex.payload,
+    SNAPSHOT_WRITE_OPTIONS,
   );
 
   if (changedGlobalIndex) {
