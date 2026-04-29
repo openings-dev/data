@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-04-29T08:04:45.548Z",
+  "generatedAt": "2026-04-29T10:49:31.510Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_d193c4164f738b737229e88e",
     "gh_73a9d95e468f9863bc02ef3e",
     "gh_5791db11bff49b64cbc3e58f",
     "gh_e03ec064cb4cee84535719c4",
@@ -22,10 +23,45 @@
     "gh_bf8a827e3fae3c73f6d63bba",
     "gh_96ac58e1c655c2681c495a3f",
     "gh_f15763c67c8035ee167088c2",
-    "gh_7f94c93b0bdd4341a646243b",
-    "gh_062069a56cc5aacbb906df50"
+    "gh_7f94c93b0bdd4341a646243b"
   ],
   "items": [
+    {
+      "id": "gh_d193c4164f738b737229e88e",
+      "sourceId": "MubeenMohammed/canada-2026-internships#46",
+      "title": "Issue: Feature: linkedin/JobBoard scrapper",
+      "description": "### Select a category\n\nSuggestion\n\n### Issue/Question/Closed Internship\n\nI need a Python/NodeJS script that does the following things:\n1. Scrapes LinkedIn Jobs or any other job boards for recently posted Canadian internships in that particular date.\n2. Check if that job already exists in the listings.json file\n3. Updates the listing.json file accordingly\n4. If possible, add a GitHub workflow that runs this script every day\n\nI am already in the process of writing the script. I need someone to help me. \n\nThank you in advance.",
+      "excerpt": "### Select a category Suggestion ### Issue/Question/Closed Internship I need a Python/NodeJS script that does the following things: 1. Scrapes LinkedIn Jobs or any other job boards for recently posted Canadian interns...",
+      "issueState": "open",
+      "contentHash": "0bfb4d37c0f25a6cb5a0e9adc3fa565e2402cc08501d1e2d24e04c4e0c1e00ad",
+      "repository": "MubeenMohammed/canada-2026-internships",
+      "repositoryUrl": "https://github.com/MubeenMohammed/canada-2026-internships",
+      "region": "North America",
+      "country": "Canada",
+      "tags": [
+        "enhancement",
+        "good first issue",
+        "beginner",
+        "help-wanted"
+      ],
+      "author": {
+        "id": "MubeenMohammed",
+        "name": "MubeenMohammed",
+        "handle": "MubeenMohammed",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/146858479?v=4"
+      },
+      "community": {
+        "id": "MubeenMohammed",
+        "name": "MubeenMohammed",
+        "avatarUrl": "https://github.com/MubeenMohammed.png?size=80",
+        "repository": "MubeenMohammed/canada-2026-internships",
+        "url": "https://github.com/MubeenMohammed/canada-2026-internships"
+      },
+      "createdAt": "2025-10-05T05:36:59Z",
+      "updatedAt": "2025-10-05T05:37:44Z",
+      "url": "https://github.com/MubeenMohammed/canada-2026-internships/issues/46",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_73a9d95e468f9863bc02ef3e",
       "sourceId": "MubeenMohammed/canada-2026-internships#45",
@@ -710,40 +746,6 @@
       "createdAt": "2025-07-25T21:29:57Z",
       "updatedAt": "2025-07-25T21:29:57Z",
       "url": "https://github.com/Empregos-dev/Vagas-dev/issues/107",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_062069a56cc5aacbb906df50",
-      "sourceId": "datascience-br/vagas#146",
-      "title": "[FIRST DECISION] Cientista de Dados Sênior",
-      "description": "A First Decision, consultoria especializada em tecnologia e migração de Dados está com uma oportunidade de  Cientista de Dados Sênior.\n\nModalidade: 100% Home Office\nContratação: CLT\nRemuneração: R$ Informada no ato da inscrição\n\nResponsabilidades:  Desenvolver, analisar, modelar, implementar e avaliar soluções para problemas de negócios, tanto complexos quanto simples, utilizando técnicas estatísticas, matemáticas e computacionais aplicadas ao processamento e visualização de dados. Atuar em colaboração com o time, compartilhando conhecimento e experiências, sempre com foco na necessidade do cliente.\n\nConhecimentos Técnicos Obrigatórios:\n\nExperiência comprovada com bancos de dados PostgreSQL e MySQL\n\nDomínio da linguagem Python\n\nExperiência com frameworks e bibliotecas Python: Langchain, LangGraph, Pandas, NumPy, OpenAI API\n\nCapacidade de assimilar e implementar modelos inovadores para a ciência de dados\n\nProcessamento de linguagem natural (NLP)\n\nFamiliaridade com LLMs (Linguistic Language Models), com destaque para GPT\n\nCapacidade de manipular e analisar dados estruturados e não estruturados\n\nBom conhecimento de ambientes Linux e Shell Script\n\nFamiliaridade com Docker e Docker-Compose\n\nFamiliaridade com GitLab\n\nFamiliaridade com Solr ou algum banco NoSQL\n\nConhecimentos Técnicos Desejáveis:\n\nExperiência com algoritmos de processamento de linguagem natural\n\nExperiência em sistemas de recomendação\n\nExperiência com Solr\n\nFamiliaridade com Nginx\n\nFamiliaridade com Grafana\n\nFamiliaridade com Prometheus\n\nExperiência com algoritmos de redes neurais profundas\n\nCompreensão de LLMs (Linguistic Language Models)\n\nConhecimento da aplicação prática do SCRUM\n\nFormação:\n\nPossuir diploma de ensino superior completo nas seguintes áreas de conhecimento (e suas subáreas), de acordo com a classificação da CAPES da plataforma Sucupira:\n\nMatemática (10100008).\n\nProbabilidade e Estatística (10200002).\n\nCiência da Computação (10300007).\n\nEngenharias (30000009).\n\nEconomia (60300000).\n\nOutra área com ênfase substancial em análise de dados\n\nCandidate- se pelo link: https://jobs.recrutei.com.br/first-decision/vacancy/104544-cientista-de-dados-senior\n\nou envie o seu currículo para o e-mail: ingrid.brandao@firstdecision.com.br (\n\n<img width=\"1080\" height=\"1080\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c24f470d-0390-4caa-b854-7183eeee8ee8\" />\n\nInforme o meio de divulgação que encontrou a vaga, por gentileza)",
-      "excerpt": "A First Decision, consultoria especializada em tecnologia e migração de Dados está com uma oportunidade de Cientista de Dados Sênior. Modalidade: 100% Home Office Contratação: CLT Remuneração: R$ Informada no ato da i...",
-      "issueState": "open",
-      "contentHash": "d52a79a451931d1c1318363fdaa099e667933fdd04674da750d919897385a427",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior"
-      ],
-      "author": {
-        "id": "IngridBrandaoFD",
-        "name": "IngridBrandaoFD",
-        "handle": "IngridBrandaoFD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/222834767?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-07-25T17:53:18Z",
-      "updatedAt": "2025-07-25T17:53:18Z",
-      "url": "https://github.com/datascience-br/vagas/issues/146",
       "sourceType": "github-issue"
     }
   ]

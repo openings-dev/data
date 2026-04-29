@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-04-29T08:04:45.548Z",
+  "generatedAt": "2026-04-29T10:49:31.510Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_7affd1510d29cbfc03c0f24b",
     "gh_5903d3232c2f99d9ae568fe8",
     "gh_6af0e06bd0406d8e1d62b180",
     "gh_5e3fc1e256e628bfb7f7bdcc",
@@ -22,10 +23,43 @@
     "gh_7c9badcd511583c16a591a99",
     "gh_cca1c3ff69f7054df6568eee",
     "gh_379609d7a1ed1555f83e4adc",
-    "gh_cbbd9c70b7250bcddbcaf3be",
-    "gh_9c27ccbbb027a757720e4a38"
+    "gh_cbbd9c70b7250bcddbcaf3be"
   ],
   "items": [
+    {
+      "id": "gh_7affd1510d29cbfc03c0f24b",
+      "sourceId": "lukasz-madon/awesome-remote-job#997",
+      "title": "Add FileShot.io — secure, zero-knowledge file sharing for remote workers",
+      "description": "Hi! Suggesting FileShot.io for the tools section.\n\nFileShot.io: https://fileshot.io\nGitHub: https://github.com/FileShot/FileShotZKE\nLicense: MIT\n\nA privacy-first file sharing service for remote workers: encrypt files in the browser with AES-256-GCM before upload. Share a link — the recipient gets the file, without any cloud service having access to your data. No account, no sign-up, free.\n\nPractical for remote workers who need to share sensitive documents, contracts, or files with clients without email attachments or trusting a cloud provider.",
+      "excerpt": "Hi! Suggesting FileShot.io for the tools section. FileShot.io: https://fileshot.io GitHub: https://github.com/FileShot/FileShotZKE License: MIT A privacy-first file sharing service for remote workers: encrypt files in...",
+      "issueState": "open",
+      "contentHash": "fad41aa7d7e3a4702222a30930511d8a93c2e57ce2341be026f71b130c0b6d0c",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "data"
+      ],
+      "author": {
+        "id": "FileShot",
+        "name": "FileShot",
+        "handle": "FileShot",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/245179855?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-03-03T20:29:46Z",
+      "updatedAt": "2026-03-17T18:01:38Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/997",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_5903d3232c2f99d9ae568fe8",
       "sourceId": "kotlin-br/vagas#42",
@@ -730,45 +764,6 @@
       "createdAt": "2026-02-10T10:01:56Z",
       "updatedAt": "2026-04-03T08:47:45Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4892",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9c27ccbbb027a757720e4a38",
-      "sourceId": "nerdzao/vagas#189",
-      "title": "[Híbrido-São Paulo/SP] Back-end Developer (NestJS) na Viaflow",
-      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Backend (NestJS/Node.js) de altíssimo nível para atuar em um cliente global, focado em modernização e soluções SaaS do zero.\n\n\nSe você tem domínio em NestJS, arquitetura de microsserviços e paixão por sistemas escaláveis em GCP, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nArquitetura e Desenvolvimento: Projetar, desenvolver e manter serviços de backend escaláveis utilizando NestJS e [Node.js](http://node.js/).\nIntegração de APIs: Construir e integrar APIs RESTful e/ou GraphQL para o frontend e sistemas externos.\nColaboração Multidisciplinar: Trabalhar estreitamente com engenheiros frontend ([React.js](http://react.js/)) para entregar experiências de usuário fluidas e integradas.\nCloud Native: Arquitetar e implementar microsserviços nativos da nuvem no Google Cloud Platform (GCP).\nSistemas Orientados a Eventos: Desenvolver sistemas event-driven utilizando plataformas de mensageria e streaming (ex: Pub/Sub, Kafka, etc.).\nExcelência Técnica: Garantir a segurança, performance, escalabilidade e confiabilidade das aplicações, implementando as melhores práticas de autenticação, autorização e proteção de dados.\nQualidade de Código: Escrever código limpo, de fácil manutenção e bem testado, seguindo os padrões da indústria e participando ativamente de code reviews.\nLiderança Técnica: Participar de discussões de design técnico e decisões arquiteturais.\nOperações: Realizar o troubleshooting de problemas em produção, otimizar a performance do sistema e colaborar com times de DevOps em pipelines de CI/CD e monitoramento.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\nSólida Experiência: Desenvolvimento Backend utilizando NestJS e [Node.js](http://node.js/).\nIntegração Frontend: Experiência prática com [React.js](http://react.js/) (focada na integração e colaboração com times de frontend).\nDesign de APIs: Sólido entendimento de arquiteturas baseadas em APIs (REST / GraphQL).\nArquitetura Moderna: Experiência na construção de microsserviços e sistemas orientados a eventos.\nEspecialista em Cloud: Forte experiência com serviços do Google Cloud Platform (GCP).\nContainerização: Experiência com Docker.\nDados: Conhecimento profundo de bancos de dados (SQL e/ou NoSQL).\nSegurança: Forte compreensão de melhores práticas de segurança e design de sistemas escaláveis.\n🏆 Diferenciais (O que valorizamos)\nExperiência com orquestração utilizando Kubernetes.\nCertificações oficiais GCP.\nVivência prévia em projetos SaaS de escala global.\n🤝 Soft Skills\nExcelentes habilidades de comunicação para atuar em ambientes multidisciplinares.\nCapacidade analítica para resolução de problemas complexos.\n\nIdioma: Inglês Fluente\n\nInformações adicionais\nContratação via modelo cooperativa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nSe candidate através do link:  https://viaflow.gupy.io/jobs/10805702?jobBoardSource=gupy_public_page",
-      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Backend (NestJS/Node.js) de altíssimo nível para atuar em um cliente globa...",
-      "issueState": "open",
-      "contentHash": "37dc953b4049ab2d1448405a34d3441d95786b2fc28717211e42b1f616676388",
-      "repository": "nerdzao/vagas",
-      "repositoryUrl": "https://github.com/nerdzao/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "frontend",
-        "backend",
-        "react",
-        "node",
-        "devops",
-        "design"
-      ],
-      "author": {
-        "id": "jesspinheiro93",
-        "name": "jesspinheiro93",
-        "handle": "jesspinheiro93",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
-      },
-      "community": {
-        "id": "nerdzao",
-        "name": "nerdzao",
-        "avatarUrl": "https://github.com/nerdzao.png?size=80",
-        "repository": "nerdzao/vagas",
-        "url": "https://github.com/nerdzao/vagas"
-      },
-      "companyName": "Viaflow",
-      "createdAt": "2026-02-06T18:44:05Z",
-      "updatedAt": "2026-02-06T18:44:05Z",
-      "url": "https://github.com/nerdzao/vagas/issues/189",
       "sourceType": "github-issue"
     }
   ]

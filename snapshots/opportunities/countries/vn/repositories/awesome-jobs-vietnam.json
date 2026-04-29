@@ -1,16 +1,53 @@
 {
-  "generatedAt": "2026-04-29T08:04:45.548Z",
+  "generatedAt": "2026-04-29T10:49:31.510Z",
   "country": "Vietnam",
   "countryCode": "VN",
   "region": "Asia",
   "repository": "awesome-jobs/vietnam",
   "totals": {
     "opportunities": 30,
-    "openIssues": 25,
-    "closedIssues": 5
+    "openIssues": 26,
+    "closedIssues": 4
   },
-  "dataHash": "3e94b3292f2bfa9ebedc525176d16f692a8f44e0991c3444592af1452d05511e",
+  "dataHash": "f6093ec3df9902bbaffcc59ad2794447e42924d283f0b1594bfccc8510744845",
   "items": [
+    {
+      "id": "gh_7c46d2ffedd5b16713825712",
+      "sourceId": "awesome-jobs/vietnam#4927",
+      "title": "WAOHire - Frontend Developer - Remote - FT",
+      "description": "**Responsibilities:**\n- Responsible for the development of H5 systems within the app (running on WebView)\n- Participate in the design of ZIP hot-reload architecture\n- Responsible for high-performance pages (live streaming / lists / animations)\n- Design JSBridge for communication with Native\n- Optimize loading speed and user experience\n\n**Requirements:**\n- 5+ years of front-end experience\n- Proficient in React (Hooks / performance optimization)\n- Familiar with browser rendering mechanisms\n- Experience with large-scale, complex H5 projects\n- Familiar with WebView scene optimization\n\nNice to have:\n- Experience with Hybrid Apps (shell + H5)\n- Experience with live streaming / short video projects\n- Familiar with Canvas / WebGL\n- Experience with React Native / Flutter\n- Experience with hot-reload systems\n\n**Benefits:**\n- Competitive salary (up to $2500 gross)\n- 100% Remote working\n- Working in a professional, friendly, well-equipped environment both with foreigners and Vietnamese.\n- Extensive on job training, you will always have a chance to work with new emerging technologies.\n- Social insurance, health insurance & unemployment insurance according to Vietnam Labor Law.\n- 12-day annual leave per year.\n- Working time: 11AM-9PM (flexible, no time tracking)\n\nContact:\n**Zalo: 0834033300**",
+      "excerpt": "**Responsibilities:** - Responsible for the development of H5 systems within the app (running on WebView) - Participate in the design of ZIP hot-reload architecture - Responsible for high-performance pages (live strea...",
+      "issueState": "open",
+      "contentHash": "e36d38acaf8b3642eb31496048b79fe5ba1332549e2eb16da7db98ee3f446092",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "hybrid",
+        "frontend",
+        "react",
+        "design"
+      ],
+      "author": {
+        "id": "nhatruchr",
+        "name": "nhatruchr",
+        "handle": "nhatruchr",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/231218520?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-04-29T09:03:46Z",
+      "updatedAt": "2026-04-29T09:05:02Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4927",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d84189d3af685f86cfe258c9",
       "sourceId": "awesome-jobs/vietnam#4926",
@@ -931,46 +968,6 @@
       "createdAt": "2026-01-31T02:06:20Z",
       "updatedAt": "2026-03-12T03:47:15Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4885",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_288377c29349111c863f7a65",
-      "sourceId": "awesome-jobs/vietnam#4876",
-      "title": "Senior Full-Stack AI Engineer (Hybrid, HCMC)",
-      "description": "### Job overview and responsibility\nWe are seeking a talented Full-Stack software engineer to join our team in developing and maintaining a sophisticated AI-powered web application. This is a complex, production-grade application featuring AI agent builders, multi-provider AI integrations, real-time and advanced collaboration tools.\n\n- User Experience & AI Effectiveness: Think about how to bring value to users more than adding features. Focus on understanding user needs, workflows, and desired outcomes to identify solutions that help users use AI effectively through software. Prioritize value-driven development by measuring impact and user outcomes. Design intuitive interfaces and workflows that solve real problems and enhance productivity.\n- Development & Maintenance: Design, develop, test and refactor product features across the full stack (frontend, backend, AI services). Build and enhance AI agent capabilities with custom tools, actions, and access control. Develop real-time features using Server-Sent Events (SSE) and WebSocket technologies. Write clean, maintainable, and well-tested code following Ruby best practices and current project quality.\n- Performance & Reliability: Establish and enforce best practices for implementation, maintenance and monitoring. Write clean, maintainable, and well-documented code following established patterns. Identify bottlenecks, keep code quality, coverage and follow established convention and qualification.\n- Improvement & Continuous Learning: Continuously learn about technical trends and industry best practices and apply them to the product. Measurement of effects for quality improvement and implementations. Participate in code reviews and provide constructive feedback.\n\n### Required skills and experiences\n- **Proven experience in React and TypeScript with at least 4+ years of experience**\n- **Proven experience in Node.js and Express.js with at least 4+ years of experience**\n- Strong proficiency in JavaScript (ES6+), HTML5, CSS3, and asynchronous programming\n- Experience with state management (Zustand, Recoil, or similar) and React Query\n- Experience with MongoDB and Mongoose ODM or relational databases (PostgreSQL, MySQL) and proficiency in writing efficient SQL queries\n- Experience with Redis for caching and session management\n- Experience with RESTful API design and authentication (JWT, OAuth2)\n- Experience with real-time communication (SSE, WebSockets)\n- Experience with testing frameworks (Jest, React Testing Library, etc.)\n- Proficiency with Git, Docker, and modern build tools (Vite, etc.)\n- **Experience integrating with AI/LLM APIs (OpenAI, Anthropic, Google, etc.)**\n- Understanding of AI/LLM concepts: context, tool calling, function calling, streaming, token management, and prompt engineering\n- Understanding of AI agent architectures and workflows\n- Familiarity with AI development tools\n- Strong problem-solving skills and ability to work effectively in a collaborative team environment\n\nPreferred skills and experiences\n- Familiarity with the browser rendering lifecycle and website optimization.\n- Knowledge of advanced React patterns and performance optimization\n- Understanding of CI/CD pipelines (GitHub Actions, Docker, Deployment, etc.)\n- Familiar with LangChain or similar AI orchestration frameworks\n- Familiar with Python for AI/ML development, MCP (Model Context Protocol) implementation, or AI service integration\n- Experience with monitoring and logging tools\n\n### Why Candidate should apply this position\n- Competitive package\n- Hybrid working model\n- Macbook Pro provided for work\n- Bonus: 13th month salary\n- Weekly learning sessions and offsites\n- Close-knit small team culture\n\nReport to\nChief Digital Officer\n\nInterview process\nOverview interview -> Technical interview (90mins) -> Fit interview (in English)\n### Contact: Zalo/WhatsApp: +84915500810",
-      "excerpt": "### Job overview and responsibility We are seeking a talented Full-Stack software engineer to join our team in developing and maintaining a sophisticated AI-powered web application. This is a complex, production-grade...",
-      "issueState": "closed",
-      "contentHash": "b89409690e34c9724d3ac70e6bb22e2c074102138233d29a27688f18066840b6",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "frontend",
-        "backend",
-        "react",
-        "typescript",
-        "node",
-        "python",
-        "java"
-      ],
-      "author": {
-        "id": "tieuvu9x",
-        "name": "tieuvu9x",
-        "handle": "tieuvu9x",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/71082074?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-01-17T08:32:13Z",
-      "updatedAt": "2026-03-11T08:26:59Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4876",
       "sourceType": "github-issue"
     },
     {
