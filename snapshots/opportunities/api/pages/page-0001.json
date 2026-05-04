@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-04T02:06:51.227Z",
+  "generatedAt": "2026-05-04T13:27:33.475Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_8cf64c1923e1f0333fce888c",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_7c46d2ffedd5b16713825712",
     "gh_c2842e7382b7b6bf1db541df",
@@ -22,10 +23,45 @@
     "gh_d02a0dd117513c807d4acb2a",
     "gh_6a99024e7f1e7c9771f0a148",
     "gh_a58e3da662b4eef5d848162e",
-    "gh_4f837355935d55890eb39776",
-    "gh_97af14f3ec3ca62e7db4666f"
+    "gh_4f837355935d55890eb39776"
   ],
   "items": [
+    {
+      "id": "gh_8cf64c1923e1f0333fce888c",
+      "sourceId": "qa-brasil/vagas#1254",
+      "title": "[REMOTO] QA Junior na Port Louis",
+      "description": "## Descrição da vaga\n\n    • Documentação, criação e expansão de casos de teste (end-to-end e integração).\n    • Geração de massa de dados para testes.\n    • Documentação e report de bugs encontrados durante os testes.\n    • Validação de correções.\n    • Validação de cards dos squads para entrada em produção.\n    • Gerenciar ambientes de Alpha e Beta.\n    • Criar e dar manutenção nos pipelines de deploy.\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\n    • Conhecimento em JavaScript e TypeScript.\n    • Experiência com Jest e Cypress.\n    • Conhecimento básico em banco de dados para consultas (SQL e PostgreSQL).\n    • Familiaridade com os diferentes tipos de testes de software.\n    • Compreensão de metodologias ágeis (Scrum) e do papel do QA nesse contexto.\n    • Excelente comunicação e habilidade para interagir com equipes de desenvolvimento.\n    • Proatividade, organização e alta capacidade de aprendizado.\n    • Dinamismo e adaptabilidade.\n\n**Diferenciais**\n- Experiência com K6\n- Projetos open source\n- Conhecimento em docker\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- Plano de saúde Sul América\n- Seguro de vida\n- VA\n\n## Sobre a empresa\n\nNa Port Louis, valorizamos a contratação de desenvolvedores juniores em sua primeira oportunidade, visando seu crescimento em conjunto conosco e seu contínuo desenvolvimento profissional.\n\nOperamos com projetos ágeis, constituídos por squads de 5 a 9 membros, utilizando a metodologia Scrum. Realizamos sprints, com rituais de planning, dailies, review e revisão de roadmap.\n\n        ◦ Tecnologia de ponta para automação de processos (modelo SaaS);\n        ◦ Produto inovador de auditorias jurídicas com portfolio robusto de clientes;\n        ◦ Tecnologia comprovada;\n        ◦ Excelência técnica: obsessão por qualidade + senioridade;\n        ◦ Foco em longo prazo e comprometimento com resultados.\n\nNossa missão: \nAlavancar a tecnologia para que as pessoas realizem trabalhos com alto valor cognitivo.\n\n## Como se candidatar\n\n- Por favor envie um email para recrutamento@portlouis.inf.br com seu CV anexado - Enviar no assunto: Vaga QA\n\n## Labels\n- CLT\n- Júnior\n- Remoto",
+      "excerpt": "## Descrição da vaga • Documentação, criação e expansão de casos de teste (end-to-end e integração). • Geração de massa de dados para testes. • Documentação e report de bugs encontrados durante os testes. • Validação ...",
+      "issueState": "open",
+      "contentHash": "86c546cdab056a1fdf03b8dd24ab2b1f6ffa2f8ce42ec2d467ee79f80331945f",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto",
+        "júnior"
+      ],
+      "author": {
+        "id": "andregodeiro",
+        "name": "andregodeiro",
+        "handle": "andregodeiro",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108381369?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Plano de saúde Sul América",
+      "createdAt": "2026-05-04T11:34:40Z",
+      "updatedAt": "2026-05-04T11:35:16Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1254",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d56bae7c6952a6aa314fa3f2",
       "sourceId": "negarprh/Canadian-Tech-Internships-2026#243",
@@ -724,45 +760,6 @@
       "createdAt": "2026-04-26T23:44:19Z",
       "updatedAt": "2026-04-26T23:44:19Z",
       "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/37",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_97af14f3ec3ca62e7db4666f",
-      "sourceId": "qa-brasil/vagas#1251",
-      "title": "[Porto Alegre - RS] QA/SDET na <db>",
-      "description": "## Descrição da vaga\n\nNesse projeto, trabalharemos juntos na transformação digital em um projeto financeiro focado em inovação. Nosso time é preocupado em propor as melhores soluções baseado em excelência técnica, pensando em alternativas que agreguem valor, com mindset ágil e cultura de colaboração. Nós respeitamos a diversidade e acreditamos que times diversos contribuem para construir ideias mais inovadoras.\n\nResponsabilidades e atribuições\n\n- Atuar como QA ao nível SR, com foco em práticas de SDET (Software Development Engineer in Test);\n- Criar, manter e evoluir testes unitários e testes de integração;\n- Atuar de forma próxima ao time de desenvolvimento, participando de discussões técnicas, code reviews e decisões de arquitetura;\n- Atuar na identificação e resolução de problemas de codificação, apoiando o time de desenvolvimento;\n- Participar ativamente dos processos de CI/CD, garantindo a qualidade contínua das entregas;\n- Trabalhar com autonomia na investigação de problemas e proposição de soluções técnicas.\n\n## Local de trabalho\n\n- Híbrido. 10 dias remoto e 10 dias presencial no escritório no Centro Histórico - Porto Alegre - RS\n\n## Requisitos da vaga\n\n**Obrigatórios**\n\n- Experiência como SDET;\n- Forte conhecimento em testes unitários e testes de integração;\n- Experiência com linguagens como C#, Java e/ou PL1;\n- Experiência com scripts;\n- Vivência com pipelines de CI/CD;\n- Experiência com revisão de código e atuação colaborativa com desenvolvedores;\n- Boa capacidade de análise, visão crítica e senso de ownership sobre a qualidade do produto;\n- Perfil técnico, proativo e com boa comunicação;\n- Disponibilidade para ir Híbrido no centro de Porto Alegre - RS (Duas semanas presenciais no mês);\n- Formação superior completa em Ciências da Computação, Tecnologia da Informação ou áreas correlatas.\n\n**Diferenciais**\n\n- Experiência prévia como engenharia de software;\n- Experiência prévia como Desenvolvedor;\n- Vivência em ambientes com múltiplas integrações e sistemas legados;\n- Vivência em ambientes ágeis;\n- Conhecimento em práticas modernas de qualidade e testes contínuos;\n- Conhecimento em automação mobile.\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- Vale iFood (alimentação e refeição);\n- Ajuda de Custo;\n- Plano de Saúde;\n- Plano Odontológico;\n- Day off de Aniversário;\n- Seguro de Vida;\n- Licença Maternidade e Paternidade estendida;\n- Parcerias Educacionais;\n- Parceria Total Pass - saúde e bem-estar;\n- Parceria Clude Saúde;\n- Programas de Reembolso; \n- Horário flexível;\n- Dresscode: seja você\n\n## Range Salarial\n\nA vaga paga entre 6.000,00 e 8.000,00 reais.\n\n## Sobre a empresa\n\n﻿**A DB**\n\nSomos uma software house que constrói entregas sob medida. Há 30 anos trabalhamos com foco nas pessoas, guiados por nossos valores, crescendo lado a lado com nossos colaboradores. Nosso lema é fazer a coisa certa do jeito certo através do design e do build. Nos últimos anos, iniciamos uma caminhada em direção a diversidade e a inclusão e após o lançamento do nosso Marco Ético temos agora um norteador dos princípios que irão trilhar a nossa trajetória. Estamos orgulhosos de promover um ambiente de trabalho livre de discriminação. Acreditamos que a diversidade de experiências, perspectivas e histórico transforma nosso ambiente de trabalho. Estamos empenhados a construir esse legado com a sua parceria! \n\nConheça nosso Marco ético: http://www.dbserver.com.br/marcoetico/\n\n## Como se candidatar\n\n- Por favor envie um email para pessoas_terra@dbserver.com.br com seu CV anexado - Enviar no assunto: Vaga do QA DB GIT\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 3 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: pessoas_terra@dbserver.com.br\n\n## Labels\n- CLT\n- Pleno\n- Sênior\n- Presencial\n- Remoto\n- Rio Grande do Sul\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "## Descrição da vaga Nesse projeto, trabalharemos juntos na transformação digital em um projeto financeiro focado em inovação. Nosso time é preocupado em propor as melhores soluções baseado em excelência técnica, pens...",
-      "issueState": "open",
-      "contentHash": "c25c633464997c3dc1e31cc2488c6ac1dbac87c36bb643e1e5b025526c51e165",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pleno",
-        "remoto",
-        "rio grande do sul",
-        "sênior",
-        "presencial"
-      ],
-      "author": {
-        "id": "Luavagas",
-        "name": "Luavagas",
-        "handle": "Luavagas",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/185206839?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Vale iFood (alimentação e refeição);",
-      "createdAt": "2026-04-24T13:45:37Z",
-      "updatedAt": "2026-04-24T13:46:04Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1251",
       "sourceType": "github-issue"
     }
   ]
