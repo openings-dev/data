@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-02T15:40:36.824Z",
+  "generatedAt": "2026-05-04T02:06:51.227Z",
   "page": 21,
   "pageSize": 20,
   "nextPage": "api/pages/page-0022.json",
   "ids": [
+    "gh_4c4958e9268af72dc08219b6",
     "gh_24a7a6128a40ae980af86416",
     "gh_c01dc6814f05729a2a35cd60",
     "gh_a179e2d835c745927900656e",
@@ -22,10 +23,45 @@
     "gh_4dd8e42bd3f6494a4e95e53d",
     "gh_91b78ae35204f1e36f0bbe14",
     "gh_4315cde6b10c3d8e365b55d9",
-    "gh_f859c6d8d816c5edda4fcdd3",
-    "gh_5582db1ab9e33a44740d79ce"
+    "gh_f859c6d8d816c5edda4fcdd3"
   ],
   "items": [
+    {
+      "id": "gh_4c4958e9268af72dc08219b6",
+      "sourceId": "nerdzao/vagas#163",
+      "title": "[REMOTO] Dev BackEnd Sênior - 200DEV",
+      "description": "**Nossa empresa**\nA 200DEV é uma consultoria de TI especializada em Inovação e Transformação Digital\nimpulsionada pelos maiores fabricantes de tecnologia e desenvolvida por profissionais com\nfoco no sucesso!\n\n**Descrição da vaga**\nDesenvolver código backend utilizando linguagens como Python, Node.js, C#, Go, entre outras.\nTrabalhar com bancos de dados relacionais (MySQL, PostgreSQL, SQL Server) e NoSQL (MongoDB, Redis).\nImplementar sistemas de mensageria como RabbitMQ, Apache Kafka, etc.\nProjetar, desenvolver e manter APIs RESTful ou GraphQL para comunicação entre front-end e back-end.\nCriar e manter pipelines CI/CD para automatizar processos de construção, teste e implantação de software.\nDesenvolver em ambientes de contêineres usando Docker e Kubernetes.\nGarantir a segurança da informação em aplicativos, protegendo-os contra vulnerabilidades.\nUtilizar sistemas de controle de versão como Git e seguir fluxos de trabalho colaborativos.\nCompreender sistemas operacionais (Linux, Windows) e redes de computadores (TCP/IP).\nEscrever testes automatizados e depurar problemas de forma eficaz usando linguagens de script como Bash, Python ou PowerShell.\n\n**Local**\nRemoto.\n\n**Requisitos**\nProficiência em pelo menos uma linguagem de programação back-end.\nExperiência com bancos de dados relacionais e NoSQL.\nConhecimento em sistemas de mensageria.\nCapacidade de projetar e desenvolver APIs RESTful ou GraphQL.\nExperiência em pipelines CI/CD, contêineres Docker e Kubernetes.\nConhecimentos básicos em segurança da informação.\nFamiliaridade com sistemas de controle de versão como Git.\nCompreensão de sistemas operacionais e redes de computadores.\nHabilidade em escrever testes automatizados e depurar problemas.\n\n**Como se candidatar**\nEnviar Cv para bruno.sander@200dev.com",
+      "excerpt": "**Nossa empresa** A 200DEV é uma consultoria de TI especializada em Inovação e Transformação Digital impulsionada pelos maiores fabricantes de tecnologia e desenvolvida por profissionais com foco no sucesso! **Descriç...",
+      "issueState": "open",
+      "contentHash": "b18ac0a4f3ddd33d59acead3c9db0386ad8ae0f08794bc2f4dfe82042e30efc3",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "node",
+        "python",
+        "data"
+      ],
+      "author": {
+        "id": "bssander97",
+        "name": "bssander97",
+        "handle": "bssander97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/167450685?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2024-05-10T18:05:30Z",
+      "updatedAt": "2024-05-10T18:05:30Z",
+      "url": "https://github.com/nerdzao/vagas/issues/163",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_24a7a6128a40ae980af86416",
       "sourceId": "nerdzao/vagas#162",
@@ -717,37 +753,6 @@
       "createdAt": "2024-02-20T07:03:33Z",
       "updatedAt": "2024-02-20T07:03:33Z",
       "url": "https://github.com/danielbayerlein/remote-jobs-germany/issues/57",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5582db1ab9e33a44740d79ce",
-      "sourceId": "danielbayerlein/remote-jobs-germany#56",
-      "title": "[feature request]  add a new column to show English speaking companies",
-      "description": "add a new column to show English speaking companies, where German is not required.",
-      "excerpt": "add a new column to show English speaking companies, where German is not required.",
-      "issueState": "open",
-      "contentHash": "f33579fd67a3d18160767d7ac9370d3a0cfd852135f9e5f7a60b0a9b7be9d36a",
-      "repository": "danielbayerlein/remote-jobs-germany",
-      "repositoryUrl": "https://github.com/danielbayerlein/remote-jobs-germany",
-      "region": "Europe",
-      "country": "Germany",
-      "tags": [],
-      "author": {
-        "id": "sadaqat-official",
-        "name": "sadaqat-official",
-        "handle": "sadaqat-official",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/71973050?v=4"
-      },
-      "community": {
-        "id": "danielbayerlein",
-        "name": "danielbayerlein",
-        "avatarUrl": "https://github.com/danielbayerlein.png?size=80",
-        "repository": "danielbayerlein/remote-jobs-germany",
-        "url": "https://github.com/danielbayerlein/remote-jobs-germany"
-      },
-      "createdAt": "2024-02-20T07:02:23Z",
-      "updatedAt": "2024-02-20T07:08:42Z",
-      "url": "https://github.com/danielbayerlein/remote-jobs-germany/issues/56",
       "sourceType": "github-issue"
     }
   ]
