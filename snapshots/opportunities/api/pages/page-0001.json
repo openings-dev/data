@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-04T13:27:33.475Z",
+  "generatedAt": "2026-05-04T19:18:32.890Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_23e88f37c8cdd99dec55a249",
     "gh_8cf64c1923e1f0333fce888c",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_7c46d2ffedd5b16713825712",
@@ -22,10 +23,42 @@
     "gh_c69d8dad1dde7423a19d72b3",
     "gh_d02a0dd117513c807d4acb2a",
     "gh_6a99024e7f1e7c9771f0a148",
-    "gh_a58e3da662b4eef5d848162e",
-    "gh_4f837355935d55890eb39776"
+    "gh_a58e3da662b4eef5d848162e"
   ],
   "items": [
+    {
+      "id": "gh_23e88f37c8cdd99dec55a249",
+      "sourceId": "datascience-br/vagas#161",
+      "title": "Engenheiro de Dados ETL/ ELT Sênior na ZUP - 100% remoto",
+      "description": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!**\n\n**O que você fará por aqui**\n\n- Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, garantindo alta performance e qualidade dos dados.\n- Orquestrar rotinas complexas de processamento e integração de dados via AWS Step Functions.\n- Executar análises e validações robustas utilizando SQL e Athena, assegurando integridade e confiabilidade das informações.\n- Colaborar com times multidisciplinares para identificar necessidades de dados e propor soluções técnicas aderentes às demandas do negócio.\n- Investigar falhas, propor e implementar melhorias contínuas na arquitetura e nos processos de dados.\n- Documentar soluções, fluxos de dados e boas práticas para promover o alinhamento técnico entre as equipes.\n\n **O que esperamos que você saiba**\n\n- Excelência em desenvolvimento de pipelines usando PySpark no AWS Glue.\n- Domínio de AWS Step Functions para orquestração de pipelines e agendamento de processos.\n- Sólido conhecimento em SQL para consultas avançadas e validações em grandes volumes de dados.\n- Experiência no uso do Athena para exploração, análise e auditoria de dados.\n- Capacidade de monitorar qualidade dos dados e solucionar problemas complexos em ambientes críticos.\n\n **O que será um diferencial**\n\n- Prática com AWS QuickSight para criação de dashboards e visualização de dados.\n- Conhecimento em estratégias avançadas de monitoramento, observabilidade e automação de processos.\n- Experiência em ambientes de dados altamente regulados (LGPD, GDPR).\n- Familiaridade com novas ferramentas de data engineering no ecossistema AWS (como Lake Formation ou Glue DataBrew).\n- Atuação prévia em projetos de melhoria contínua com foco em performance ou escalabilidade.\n\nUm pouco de nossos beneficios:\n\nPLR : \n🍕 VR/VA Flash R$1.440,00\n📱 Plano de celular Vivo Easy ou Claro com reembolso \n🏡 Auxílio Home Office, ajuda de custo de internet \n📚 Capacitação anual  - a partir do 4º mês - para investir em livros, cursos, palestras. A Zup reembolsa 75% do valor dessas capacitações, dentro desse budget)\n🏥 Plano de Saúde SulAmérica ou Unimed\n🦷 Plano Odontológico SulAmérica\n👶 Auxílio creche / Licença paternidade até 90 dias / Licença maternidade até 180 dias\n⭐ Seguro de vida\n💪 Gympass\n💭 Telavita (psicólogo online com 5 sessões gratuitas por mês)\n💵 Bônus por indicação\n🚀 2 Days Off ao ano e Liberdade para trabalhar de onde quiser\ne mais!\n\n\nCandidate-se  enviando seu currículo para o seguinte email:  kauany.riotinto@zup.com.br\n**No título deve conter seu nome e o da vaga \" Engenheiro de Dados ETL/ELT Sênior\"**",
+      "excerpt": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!** **O que você fará por aqui** - Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, gara...",
+      "issueState": "open",
+      "contentHash": "76a9373fd1a6ec20ac048ad1423a63775d2f5b4f1922beaa564122d929065a50",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "KauanyFD",
+        "name": "KauanyFD",
+        "handle": "KauanyFD",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-05-04T17:18:52Z",
+      "updatedAt": "2026-05-04T17:20:08Z",
+      "url": "https://github.com/datascience-br/vagas/issues/161",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8cf64c1923e1f0333fce888c",
       "sourceId": "qa-brasil/vagas#1254",
@@ -58,7 +91,7 @@
       },
       "companyName": "Plano de saúde Sul América",
       "createdAt": "2026-05-04T11:34:40Z",
-      "updatedAt": "2026-05-04T11:35:16Z",
+      "updatedAt": "2026-05-04T18:06:12Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1254",
       "sourceType": "github-issue"
     },
@@ -727,39 +760,6 @@
       "createdAt": "2026-04-26T23:48:20Z",
       "updatedAt": "2026-04-26T23:48:20Z",
       "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/38",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4f837355935d55890eb39776",
-      "sourceId": "speedyapply/2026-SWE-College-Jobs#37",
-      "title": "ParallaxPro AI Engineer - New Position",
-      "description": "### Position Title\n\nAI Engineer\n\n### Position Application Link\n\nhttps://parallaxpro.ai/careers/ai-engineer-full-time\n\n### Company Name\n\nParallaxPro AI\n\n### Company Link\n\nhttps://parallaxpro.ai/\n\n### Location\n\nRemote\n\n### Is this a new grad position or an internship?\n\nNew Grad\n\n### Is this position based in the USA?\n\nNo, it's international.\n\n### Your GitHub Email\n\n_No response_",
-      "excerpt": "### Position Title AI Engineer ### Position Application Link https://parallaxpro.ai/careers/ai-engineer-full-time ### Company Name ParallaxPro AI ### Company Link https://parallaxpro.ai/ ### Location Remote ### Is thi...",
-      "issueState": "open",
-      "contentHash": "e282eabce468e46a112f9ffdcfbe2ba7627908bbaf1c7c732dcfffe127f3641b",
-      "repository": "speedyapply/2026-SWE-College-Jobs",
-      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "new"
-      ],
-      "author": {
-        "id": "JhihYangWu",
-        "name": "JhihYangWu",
-        "handle": "JhihYangWu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/32950648?v=4"
-      },
-      "community": {
-        "id": "speedyapply",
-        "name": "speedyapply",
-        "avatarUrl": "https://github.com/speedyapply.png?size=80",
-        "repository": "speedyapply/2026-SWE-College-Jobs",
-        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
-      },
-      "createdAt": "2026-04-26T23:44:19Z",
-      "updatedAt": "2026-04-26T23:44:19Z",
-      "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/37",
       "sourceType": "github-issue"
     }
   ]
