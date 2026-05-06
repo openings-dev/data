@@ -1,16 +1,54 @@
 {
-  "generatedAt": "2026-05-06T16:24:56.000Z",
+  "generatedAt": "2026-05-06T19:27:24.701Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "backend-br/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 20,
-    "closedIssues": 10
+    "openIssues": 21,
+    "closedIssues": 9
   },
-  "dataHash": "63062bc3a3346e0c7eb559ef3c587f1bd3d53a9c543d9aa1b36c87ab0d4222b9",
+  "dataHash": "c20eda62ab0698b707c07b7fc27eac7d444fdd073cdf302cb0ce581eb7b9d9a8",
   "items": [
+    {
+      "id": "gh_e13bb358bf081385545e2be0",
+      "sourceId": "backend-br/vagas#12231",
+      "title": "[Alocação] GoLang Back-end Developer - ITEAM",
+      "description": "Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas.\nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado.\nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n## Descrição da vaga\nExperiência sólida em engenharia de software, com foco em soluções na AWS. \nConhecimento avançado em serviços AWS, como Lambda/ECS/SQS/S3/EventBridge, entre outros. \nConhecimento em padrões de projeto e clean arch. \nExperiência com SQL e NOSQL \nFamiliaridade com ferramentas de Observability Splunk, CloudWatch \nExperiencia com infra as a Code (Cloudformation e Terraform) Experiencia em versionamento de codigo utilizando Git.\nInforme a descrição da vaga.\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperiência sólida em engenharia de software, com foco em soluções na AWS. \nExperiencia com infra as a Code (Cloudformation e Terraform) Experiencia em versionamento de código utilizando Git.\nConhecimento avançado em serviços AWS, como Lambda/ECS/SQS/S3/EventBridge, entre outros. \nExperiência com SQL e NOSQL \n\nContratação: PJ\n\nComo se candidatar: \nE-mail: erika.santos@iteam.inf.br\n+55 (11) 99328-6431\n\nInforme os canais disponíveis para a aplicação na vaga.\n\n## Labels\n\n<AWS, SQL, NOSQL, CloudWatch,  SQL e NOSQL, Lambda/ECS/SQS/S3/EventBridge\n\nNível: Sênior",
+      "excerpt": "Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. Reunimos ...",
+      "issueState": "open",
+      "contentHash": "f4fe9e70fbe90b1b1300c5a245a461201c3ffc8c55e60b8a60afebba2898712f",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "remoto",
+        "aws",
+        "sql",
+        "git"
+      ],
+      "author": {
+        "id": "ITeam-oportunidades",
+        "name": "ITeam-oportunidades",
+        "handle": "ITeam-oportunidades",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-06T18:34:29Z",
+      "updatedAt": "2026-05-06T18:34:52Z",
+      "url": "https://github.com/backend-br/vagas/issues/12231",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c58b091791207460283796e3",
       "sourceId": "backend-br/vagas#12230",
@@ -645,46 +683,6 @@
       "createdAt": "2026-03-25T01:14:58Z",
       "updatedAt": "2026-04-18T16:38:21Z",
       "url": "https://github.com/backend-br/vagas/issues/12215",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9c8586dae288fc1688cd2768",
-      "sourceId": "backend-br/vagas#12214",
-      "title": "[Remoto] Back-end Developer - Web-Engenharia",
-      "description": "[Alocação] Back-end Developer - Web-Engenharia\n\n## Nossa empresa\n\nA **Web-Engenharia** é uma empresa de software focada em construir integrações, produtos e soluções que importam. Trabalhamos com um perfil de engenharia generalista, focado em arquitetura e design de sistemas sólidos, buscando sempre alinhar as melhores práticas do mercado (inspirados em empresas como Ebanx, Google, Meta e Ericsson).\n\n## Descrição da vaga\n\nBuscamos um Engenheiro de Software Pleno (foco em Back-end) para atuar no desenvolvimento de integrações e produtos de software. Você terá *ownership* de features ponta a ponta, sendo capaz de assumir demandas de forma independente e colaborar ativamente no design das soluções. O dia a dia envolve a criação e manutenção de APIs REST, modelagem de dados, e garantia de qualidade através de testes automatizados.\n\n## Local\n\nRemoto (com possibilidade de Híbrido/Presencial a depender do acordo comercial de alocação).\n\n## Requisitos\n\n**Obrigatórios:**\n* Formação em Ciência da Computação, Engenharia ou área correlata (ou experiência prática equivalente).\n* Experiência de 2 a 5 anos na área de desenvolvimento.\n* Proficiência em pelo menos uma linguagem de back-end (ex.: Python, Java, C/C++, Go, JavaScript/TypeScript).\n* Domínio de SQL e modelagem de banco de dados.\n* Experiência com testes unitários e de integração.\n* Compreensão de estruturas de dados, algoritmos e design de software.\n* Domínio de controle de versão (Git) e fluxos colaborativos.\n\n**Desejáveis:**\n* Conhecimentos básicos/intermediários em CI/CD.\n* Interesse ou experiência em sistemas distribuídos, concorrência e persistência de dados.\n* Experiência prévia com infraestrutura cloud (AWS, GCP ou Azure).\n* Proficiência em **inglês (escrito e falado)** para colaboração internacional.\n\n## Benefícios\n\n*A definir de acordo com o modelo de contratação/alocação estabelecido.*\n\n## Contratação\n\nPJ / Alocação (Terceirização de TI)\n\n## Como se candidatar\n\nOs interessados devem se candidatar indicando o nome da vaga de interesse através do nosso **formulário de contato** no site ou enviando o currículo por **e-mail**.\n\n## Labels\n\n### Nível\n\n- Estagiario\n- Junior\n- Pleno\n- Senior\n\n### Regime\n\n- PJ\n- Contrato\n\n### Alocação\n\n- Remoto\n\n[https://web-engenharia.com/](https://web-engenharia.com/)",
-      "excerpt": "[Alocação] Back-end Developer - Web-Engenharia ## Nossa empresa A **Web-Engenharia** é uma empresa de software focada em construir integrações, produtos e soluções que importam. Trabalhamos com um perfil de engenharia...",
-      "issueState": "closed",
-      "contentHash": "5c1b86172d07e8b5cd461017ece24da292e83b254ec5e9714e7f8d281a02c330",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "javascript",
-        "python",
-        "java",
-        "go",
-        "remoto",
-        "presencial"
-      ],
-      "author": {
-        "id": "matheuscamarques",
-        "name": "matheuscamarques",
-        "handle": "matheuscamarques",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/37029621?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-03-23T10:28:15Z",
-      "updatedAt": "2026-03-30T20:59:24Z",
-      "url": "https://github.com/backend-br/vagas/issues/12214",
       "sourceType": "github-issue"
     },
     {
