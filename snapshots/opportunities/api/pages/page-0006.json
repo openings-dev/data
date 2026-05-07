@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-07T19:29:26.547Z",
+  "generatedAt": "2026-05-07T21:49:44.160Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_d6f31a804dacbc548031ec5e",
     "gh_0575ada6ef097a82833f72bf",
     "gh_1cb7700b20f4fcdce63c6f02",
     "gh_e5a048bc61d56ec20e336489",
@@ -22,10 +23,51 @@
     "gh_b8c75a4cb1cdaa5d5c4794e6",
     "gh_349305368c4768961f805995",
     "gh_e643051c0833244abfc18c07",
-    "gh_bf70dc9f783bd9e91215da56",
-    "gh_72cc354e7d9c38f999fa902a"
+    "gh_bf70dc9f783bd9e91215da56"
   ],
   "items": [
+    {
+      "id": "gh_d6f31a804dacbc548031ec5e",
+      "sourceId": "phpdevbr/vagas#1324",
+      "title": "[Remoto] Arquiteto de software Pleno na Spun",
+      "description": "**[Clique aqui para se inscrever!](https://spun.inhire.app/vagas/1a1950ca-def1-4ede-8945-cfdce2b7ef6f/arquiteto-de-software-pleno)**\n\n\nOlá!\nÉ um prazer contar com sua participação no processo seletivo da SPUN. 💚\nAgradecemos o interesse em conhecer nosso time. Abaixo estão as principais informações sobre a vaga:\nBuscamos uma pessoa para atuar como Arquiteto de Software Pleno em nosso time. \n\nContratação: PJ/MEI \n\nValor Mensal do Contrato: R$12.000,00 a 14.000,00\n\n**Requisitos**:\nExperiência em desenho e evolução de arquiteturas de sistemas complexos, garantindo escalabilidade, segurança e manutenibilidade.\nExperiência comprovada em desenvolvimento em PHP Laravel.\nConhecimento em tecnologias emergentes, frameworks em python.\nBoas práticas de desenvolvimento utilizando IA.\nExperiência em ambientes com múltiplas squads/projetos e integração entre serviços.\nCapacidade de arquitetar soluções tanto para servidores on-premise/VPS (infra local ou tradicional) quanto para ambientes em nuvem (especialmente GCP), avaliando trade-offs entre as abordagens.\nCapacidade de definir padrões de arquitetura e requisitos não funcionais (segurança, performance, observabilidade) juntos aos demais sêniores do time.\nExperiência em sistemas distribuídos, APIs e integração entre serviços.\nHabilidade em modelagem de domínio e dados (DDD ou equivalentes).\nCapacidade de liderar decisões técnicas e comunicar trade-offs.\nConhecimento sólido de fundamentos de engenharia de software (design, redes, segurança, bancos de dados)\n\n**Diferenciais**:\nParticipação em projetos de modernização de legado ou migração para arquiteturas modernas (ex.: microserviços, event-driven).\nVivência em estratégias híbridas de infraestrutura (migração gradual de on-premise para cloud).\nCertificações em arquitetura ou cloud (ex.: AWS Solutions Architect, TOGAF).\n\n**Responsabilidades:**\nDefinir e evoluir a visão e padrões de arquitetura da empresa, alinhados ao negócio e à estratégia de longo prazo.\nProjetar soluções escaláveis, seguras e resilientes para sistemas novos e existentes.\nGarantir requisitos não funcionais (disponibilidade, segurança, observabilidade e custos) em todas as soluções.\nLiderar discussões técnicas e orientar decisões de trade-off entre inovação e legado.\nMentorar tech leads e desenvolvedores, promovendo alinhamento arquitetural entre squads.\nApoiar a modernização de sistemas e a integração de novos produtos/serviços.\nParticipar de revisões de design e analisar riscos técnicos.\nEstabelecer padrões de documentação e governança técnica.\nBenefícios:\n \n💻 Trabalho 100% remoto, modelo de entregas com disponibilidade combinada.\n💳 Cartão CAJU: Receba 15% do valor mensal do contrato para usar em categorias como Home Office, Cultura, Mobilidade, Saúde e Educação.\n🛡️ Seguro de Vida: Tranquilidade e proteção garantida para você e seus familiares;\n📚 Aulas de inglês: Turmas abertas semestralmente para aprimorar seu aprendizado;\n🏋️‍♂️ Auxílio atividade física: Incentivo para manter sua saúde e bem-estar;\n🎯 Consultoria de treino: Turmas abertas periodicamente com especialistas para potencializar seus resultados;\n📢 Treinamentos e palestras: Conteúdos exclusivos para o seu desenvolvimento profissional e pessoal.",
+      "excerpt": "**[Clique aqui para se inscrever!](https://spun.inhire.app/vagas/1a1950ca-def1-4ede-8945-cfdce2b7ef6f/arquiteto-de-software-pleno)** Olá! É um prazer contar com sua participação no processo seletivo da SPUN. 💚 Agrade...",
+      "issueState": "open",
+      "contentHash": "6144eddb06a6ff4964cdb95cfc2595f3f6929d164c09994c4773cdbf47bfca95",
+      "repository": "phpdevbr/vagas",
+      "repositoryUrl": "https://github.com/phpdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "design"
+      ],
+      "author": {
+        "id": "Jeferson-TechRecruiter",
+        "name": "Jeferson-TechRecruiter",
+        "handle": "Jeferson-TechRecruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/266774619?v=4"
+      },
+      "community": {
+        "id": "phpdevbr",
+        "name": "phpdevbr",
+        "avatarUrl": "https://github.com/phpdevbr.png?size=80",
+        "repository": "phpdevbr/vagas",
+        "url": "https://github.com/phpdevbr/vagas"
+      },
+      "companyName": "Spun",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 14000,
+        "period": "month"
+      },
+      "createdAt": "2026-03-09T15:07:04Z",
+      "updatedAt": "2026-04-01T20:33:51Z",
+      "url": "https://github.com/phpdevbr/vagas/issues/1324",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_0575ada6ef097a82833f72bf",
       "sourceId": "androiddevbr/vagas#2240",
@@ -756,37 +798,6 @@
       "createdAt": "2026-02-18T13:31:05Z",
       "updatedAt": "2026-02-19T04:01:13Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/162",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_72cc354e7d9c38f999fa902a",
-      "sourceId": "timqian/open-source-jobs#161",
-      "title": "Feature: Enhanced Search & Filtering",
-      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
-      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
-      "issueState": "open",
-      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "codeCraft-Ritik",
-        "name": "codeCraft-Ritik",
-        "handle": "codeCraft-Ritik",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2026-02-18T13:29:12Z",
-      "updatedAt": "2026-02-19T04:01:20Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/161",
       "sourceType": "github-issue"
     }
   ]

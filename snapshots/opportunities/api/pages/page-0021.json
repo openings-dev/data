@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-07T19:29:26.547Z",
+  "generatedAt": "2026-05-07T21:49:44.160Z",
   "page": 21,
   "pageSize": 20,
   "nextPage": "api/pages/page-0022.json",
   "ids": [
+    "gh_24a7a6128a40ae980af86416",
     "gh_c01dc6814f05729a2a35cd60",
     "gh_a179e2d835c745927900656e",
     "gh_54f13b2669ed890dc97c5bdc",
@@ -22,10 +23,47 @@
     "gh_91b78ae35204f1e36f0bbe14",
     "gh_4315cde6b10c3d8e365b55d9",
     "gh_f859c6d8d816c5edda4fcdd3",
-    "gh_5582db1ab9e33a44740d79ce",
-    "gh_00555070b0064a3aaacfe2db"
+    "gh_5582db1ab9e33a44740d79ce"
   ],
   "items": [
+    {
+      "id": "gh_24a7a6128a40ae980af86416",
+      "sourceId": "nerdzao/vagas#162",
+      "title": "[São Paulo - SP] Dev FrontEnd Sênior | React - 200DEV",
+      "description": "**Nossa empresa**\nA 200DEV é uma consultoria de TI especializada em Inovação e Transformação Digital\nimpulsionada pelos maiores fabricantes de tecnologia e desenvolvida por profissionais com\nfoco no sucesso!\n\n**Descrição da vaga**\nDesenvolver e implementar interfaces de usuário responsivas e eficientes usando JavaScript/TypeScript, React e Next.js.\nColaborar com designers e desenvolvedores para traduzir requisitos de design em código funcional.\nGarantir a alta qualidade e desempenho das aplicações front-end através de testes e otimizações contínuas.\nParticipar ativamente de revisões de código e contribuir para o desenvolvimento de padrões e práticas de codificação.\n\n**Local**\nSão Paulo - SP.\n\n**Requisitos**\nExperiência comprovada como Desenvolvedor Front-End, utilizando JavaScript/TypeScript, React e preferencialmente Next.js.\nFamiliaridade com ferramentas de controle de versão como Git.\nCapacidade de traduzir requisitos de design em interfaces de usuário atraentes e funcionais.\nConhecimento de princípios de design responsivo e experiência do usuário.\nBoa compreensão de conceitos básicos de SEO e acessibilidade web.\nExcelentes habilidades de comunicação e trabalho em equipe.\n\n**Como se candidatar**\nEnviar Cv para bruno.sander@200dev.com",
+      "excerpt": "**Nossa empresa** A 200DEV é uma consultoria de TI especializada em Inovação e Transformação Digital impulsionada pelos maiores fabricantes de tecnologia e desenvolvida por profissionais com foco no sucesso! **Descriç...",
+      "issueState": "open",
+      "contentHash": "9f5510b24ad59076809b469afb47cd0736eca4a282dae18720ca005912e84f80",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "frontend",
+        "react",
+        "typescript",
+        "java",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "bssander97",
+        "name": "bssander97",
+        "handle": "bssander97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/167450685?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2024-05-10T18:05:27Z",
+      "updatedAt": "2024-05-10T18:05:27Z",
+      "url": "https://github.com/nerdzao/vagas/issues/162",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c01dc6814f05729a2a35cd60",
       "sourceId": "nodejs-tw/jobs#262",
@@ -710,41 +748,6 @@
       "createdAt": "2024-02-20T07:02:23Z",
       "updatedAt": "2024-02-20T07:08:42Z",
       "url": "https://github.com/danielbayerlein/remote-jobs-germany/issues/56",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_00555070b0064a3aaacfe2db",
-      "sourceId": "brasil-php/vagas#190",
-      "title": "[REMOTO] WordPress Developer Senior",
-      "description": "**Descrição da vaga**\nEstamos em busca de um Desenvolvedor WordPress qualificado, com experiência comprovada em PHP, HTML5, CSS3, JavaScript, e conhecimento avançado em features e plugins de wordpress. É essencial ter habilidade na customização de temas e plugins, além de experiência com ferramentas de construção de páginas. Conhecimentos em MySQL, otimização de sites para alta performance, segurança web, e práticas de SEO são fundamentais. Apreciaremos experiência com Git, APIs RESTful para integração com outros serviços e sistemas, e um forte entendimento de acessibilidade na web e padrões web.\n\n**Local**\nRemoto\n\n**Benefícios**\nSalário competitivo\nOportunidades de desenvolvimento profissional em uma startup em crescimento rápido\nAmbiente colaborativo e inovador de trabalho remoto\nHorário flexível e liberdade de localização\nContrato PJ\n\n**Contratação**\nPJ\n\n**Como se candidatar**\nPor favor envie um email para [stiflerandballer@gmail.com](mailto:stiflerandballer@gmail.com) com seu CV anexado - enviar no assunto: WordPress Developer Senior\n\n**Alocação**\nRemoto\n\n**Regime**\nPJ\n\n**Nível**\nSênior\nEspecialista",
-      "excerpt": "**Descrição da vaga** Estamos em busca de um Desenvolvedor WordPress qualificado, com experiência comprovada em PHP, HTML5, CSS3, JavaScript, e conhecimento avançado em features e plugins de wordpress. É essencial ter...",
-      "issueState": "open",
-      "contentHash": "be5e2520e111edd56d44c208c6605a1aa5d74c297a0fc93e39753a6e6be54573",
-      "repository": "brasil-php/vagas",
-      "repositoryUrl": "https://github.com/brasil-php/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "java",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "SebastianStifler",
-        "name": "SebastianStifler",
-        "handle": "SebastianStifler",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/155014980?v=4"
-      },
-      "community": {
-        "id": "brasil-php",
-        "name": "brasil-php",
-        "avatarUrl": "https://github.com/brasil-php.png?size=80",
-        "repository": "brasil-php/vagas",
-        "url": "https://github.com/brasil-php/vagas"
-      },
-      "createdAt": "2024-02-06T00:45:18Z",
-      "updatedAt": "2024-02-06T00:45:18Z",
-      "url": "https://github.com/brasil-php/vagas/issues/190",
       "sourceType": "github-issue"
     }
   ]
