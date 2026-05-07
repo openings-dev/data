@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-07T08:22:57.291Z",
+  "generatedAt": "2026-05-07T11:04:01.927Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_b0b25f9f51d0e7f1c185dc60",
     "gh_8d3d4b455493191722317dda",
     "gh_9b5d9fbb31d726e63b2d6852",
     "gh_777d6953c094c4c77cffa586",
@@ -22,10 +23,47 @@
     "gh_326302de3583c428e75c13a7",
     "gh_56647ce0f055e747d42f4222",
     "gh_f1495b68fe7d4f8349ceb1b6",
-    "gh_bf09c7d748b34bd02d2443a5",
-    "gh_90da04043225a0b75c5b63f5"
+    "gh_bf09c7d748b34bd02d2443a5"
   ],
   "items": [
+    {
+      "id": "gh_b0b25f9f51d0e7f1c185dc60",
+      "sourceId": "pythonjobs/jobs#442",
+      "title": "Lead Graphics Engineer",
+      "description": "🎮 **We’re hiring a Rendering Engine Lead to redefine how buildings are visualized.**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission: **use software to change the way we build**—turning complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n\nOur platform digests massive BIM models, uses **AI** to generate logical assembly sequences, and visualizes them in a **custom 3D engine**.\nWe’re building the **operating system for the next generation of construction**.\n\n📊 **Proof, not promises**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nThe impact: less re-work, compressed schedules, and reduced carbon emissions ♻️\n\n🚀 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the software team to ship the **next-gen Pilot** and make **digital assembly the industry standard**.\n\n🧠 **Your Mission**\nTake full ownership of our **web-based rendering engine**.\nYou’ll lead the strategic transition from **Autodesk Viewer** to a fully custom, high-performance rendering solution—defining how massive construction datasets are visualized and interacted with in the browser.\n\n🔧 **What you’ll solve**\n\n* Architect and scale a modular rendering engine using **Three.js + TypeScript**\n* Push browser rendering to its limits (1M+ objects) with batching, instancing, Draco compression, and dynamic **LOD streaming**\n* Build advanced AEC features: **4D simulations**, sectioning, markup, spatial filtering\n* Optimize **GraphQL data pipelines** for decoupled geometry and metadata loading\n* Own visualization infrastructure, **data sovereignty**, and security\n\n💡 **Who you are**\n\n* Mid–Senior level (5+ years) in **Three.js / Babylon.js / WebGL**\n* Deep understanding of **GPU pipelines, GLSL shaders, and WebGL internals**\n* Hands-on experience with **CAD/BIM data** (Revit, Rhino, IFC)\n* Strong foundation in **3D math** (matrices, vectors, quaternions)\n* Fluent in **JavaScript / TypeScript** (C# a plus)\n\n🧪 **A day in the role**\nMorning: Profiling a 500MB BIM model crashing mobile browsers 📱\nMid-day: Writing a custom **GLSL shader** for an X-ray visualization mode 👻\nAfternoon: Designing GraphQL queries to fetch only critical metadata and speed up dashboards ⚡\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **live job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real, physical-world impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 If you love graphics, performance, and building tools that leave the screen and enter the real world, we should talk.\n\n👉 **Apply via our Portal**: https://www.maestro-tech.com/careers/\n\n#Hiring #GraphicsEngineering #ThreeJS #WebGL #RenderingEngine\n#TechCareers #StartupJobs #ConstructionTech #BIM #3DEngine\n#AI #DigitalConstruction #TurinJobs",
+      "excerpt": "🎮 **We’re hiring a Rendering Engine Lead to redefine how buildings are visualized.** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission: **use software to change t...",
+      "issueState": "open",
+      "contentHash": "0d84fb5b015e00d47d2157863446e725f18b7c22a28aa459b35954c3eea1f18a",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "typescript",
+        "java",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:26:42Z",
+      "updatedAt": "2026-01-19T17:26:42Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/442",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8d3d4b455493191722317dda",
       "sourceId": "pythonjobs/jobs#441",
@@ -730,44 +768,6 @@
       "createdAt": "2025-12-30T13:45:25Z",
       "updatedAt": "2026-03-18T10:37:00Z",
       "url": "https://github.com/react-brasil/vagas/issues/2993",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_90da04043225a0b75c5b63f5",
-      "sourceId": "f2etw/jobs#1163",
-      "title": "[徵才][台北] 期天資訊 React 前端工程師",
-      "description": "**職缺: 前端工程師**\n\n**能力經歷要求:**\n\n* 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js)\n* 基礎 UI / UX 設計規劃能力\n* 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整\n* 獨立自主學習能力，積極主動\n\n**工作內容：**\n\n開發與維護 React TypeScript 相關專案，包含但不限於：\n\n* 金融交易數據可視化界面 UI/UX\n* 程式交易管理系統\n* 上線金流串接與會員管理系統\n* 電子商務前後台管理系統\n\n**適合此職缺的人格特質：**\n\n* 對金融投資有興趣 (台股期權為主)\n* 喜歡理解新事物，能快速動手實做\n* 善於安排任務優先順序，能靈活應變各類狀況\n* 客戶導向思維，釐清並解決實際問題 (非單純以程式面向考量)\n\n**不適合此職缺的人格特質：**\n\n* 只喜歡獨自埋頭寫程式，排斥溝通討論\n* 不喜歡接觸客戶 ( email / 線上會議 / 實體拜訪)\n* 數字敏銳度低或邏輯推理較差\n\n**薪資(月薪):** 50,000 - 80,000\n\n\n**工作環境與該職缺團隊介紹:**\n\n團隊規模約10人，屬於年輕新創小公司風格，組織扁平，每個人都具有影響力。主要產品為證券期貨交易相關資訊系統，提供即時量化數據網站及自動化程式交易相關技術，客戶包含國內多家大型證券期貨商、顧問公司等。\n\n**工作福利:**\n\n* 職務上手熟悉後，可視情況每週1-2天遠端 WFH\n* 每週兩天免費午餐，另有不定時老闆請客聚餐\n* 各式零食咖啡飲料\n* 每週團體運動時間 (目前是2小時羽球)\n* 公司有兩隻貓會不定時跑來蹭你 (?)\n\n**公司分紅與獎金:** 依年度盈餘及個人考績分紅\n\n**聯絡方式:** Cory / service@futures-ai.com",
-      "excerpt": "**職缺: 前端工程師** **能力經歷要求:** * 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js) * 基礎 UI / UX 設計規劃能力 * 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整 * 獨立自主學習能力，積極主動 **工作內容：** 開發與維護 React TypeScript 相關專案，包含但不限於： * 金融交易數據可視化界面 UI/UX *...",
-      "issueState": "open",
-      "contentHash": "c6211660e67dd99ff6f3718043a8fb2cf05d0b43e925ff1940932d0338810b0f",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "缺休假資訊",
-        "求才",
-        "[b] nodejs",
-        "[f] react",
-        "缺特/彈休資訊",
-        "[f] typescript"
-      ],
-      "author": {
-        "id": "cory8249",
-        "name": "cory8249",
-        "handle": "cory8249",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7524724?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2025-12-20T08:51:33Z",
-      "updatedAt": "2025-12-20T10:19:07Z",
-      "url": "https://github.com/f2etw/jobs/issues/1163",
       "sourceType": "github-issue"
     }
   ]

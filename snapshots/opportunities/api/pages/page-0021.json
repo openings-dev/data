@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-07T08:22:57.291Z",
+  "generatedAt": "2026-05-07T11:04:01.927Z",
   "page": 21,
   "pageSize": 20,
   "nextPage": "api/pages/page-0022.json",
   "ids": [
+    "gh_f91d9d65eefdefd547e27e66",
     "gh_a551322a24d1cb8caecfd2d8",
     "gh_bee6bfa2c8e12bb59f137acc",
     "gh_e75b4715ed195c7babe01f51",
@@ -22,10 +23,45 @@
     "gh_00555070b0064a3aaacfe2db",
     "gh_0fe42ffc5aed73eaf633a48e",
     "gh_3280870494bb2d3e88b16788",
-    "gh_bfdb46470bf3c965502a175e",
-    "gh_e62f5dcff54592ebd257e117"
+    "gh_bfdb46470bf3c965502a175e"
   ],
   "items": [
+    {
+      "id": "gh_f91d9d65eefdefd547e27e66",
+      "sourceId": "nerdzao/vagas#161",
+      "title": "[SÃO PAULO-SP] Estágio em T.I na 200DEV",
+      "description": "**Descrição das atividades da vaga**\n- Auxiliar de desenvolvimento\n- Auxiliar na automação de processos\n\n**Habilidades técnicas obrigatórias**\n- Conhecimento básico em Python ou Javascript ou Dart (Flutter) (programação básica)\n- Conhecimento em versionamento de código (GIT)\n- Estar cursando algum curso superior na área de tecnologia a partir do 4º semestre\n\n**Habilidades técnicas desejáveis**\n- Conhecimento em cloud AWS\n- Testes de código\n- Ter desenvolvido algum projeto de programação (pode ser acadêmico)\n- Trabalho em equipe\n\n**Habilidades comportamentais**\n- Aprendizado rápido\n- Autodidata\n- Sempre busca se atualizar na área de tecnologia\n- Postura madura condizente com ambiente corporativo\n\nModelo de trabalho híbrido, sendo 3x por semana presencial no Morumbi.\nHorário previsto: das 10h as 17h, com 1h de almoço.\n\nTem interesse? Envie cv para jessica.pinheiro@200dev.com",
+      "excerpt": "**Descrição das atividades da vaga** - Auxiliar de desenvolvimento - Auxiliar na automação de processos **Habilidades técnicas obrigatórias** - Conhecimento básico em Python ou Javascript ou Dart (Flutter) (programaçã...",
+      "issueState": "open",
+      "contentHash": "57783571d0f8973cf30d442a8bef84fb76895f2a2154316133b9e61418a41888",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "java",
+        "data"
+      ],
+      "author": {
+        "id": "Jess-200DEV",
+        "name": "Jess-200DEV",
+        "handle": "Jess-200DEV",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108304219?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "companyName": "200DEV",
+      "createdAt": "2024-05-06T16:20:40Z",
+      "updatedAt": "2024-05-06T16:21:16Z",
+      "url": "https://github.com/nerdzao/vagas/issues/161",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a551322a24d1cb8caecfd2d8",
       "sourceId": "nerdzao/vagas#160",
@@ -712,45 +748,6 @@
       "createdAt": "2024-01-30T23:02:03Z",
       "updatedAt": "2024-01-30T23:02:03Z",
       "url": "https://github.com/EtherTW/jobs/issues/70",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e62f5dcff54592ebd257e117",
-      "sourceId": "EtherTW/jobs#69",
-      "title": "🛠 Senior Front-End Engineer (🇺🇸 Full-Remote) 🚀",
-      "description": "**Who We Are**\n\nWe are a rapidly growing software technology startup from Silicon Valley, founded by top engineers from Stanford and MIT.\n\nOur dynamic team brings together extensive experience and diverse backgrounds in finance and consulting from New York, San Francisco, and Chicago.\n\nAs a fully remote company, we offer a unique opportunity for exceptional individuals to join our team. We foster a culture that values both practicality and creativity, providing an meritocratic environment for you to showcase your skills and contribute to the creation of innovative products.\n\n🍏 New Graduates welcomed to apply! We have positions for all experience levels.\n\n🇺🇸 Non-Native English speaking team members welcomed. Only basic reading English ability needed.\n\n[APPLY NOW](https://linktr.ee/growaha)\n\nAs our Front-End Engineer, you are tasked with the development of engaging, intuitive, and visually compelling user interfaces for our web app product. You will work in close collaboration with designers and back-end engineers, and the marketing team, transmuting design mockups, user stories, and wireframes into high-quality code, thereby ensuring an immersive and seamless user experience.\n\n## **Your Journey as a Front-End Engineer**\n\n- Our front-end ecosystem is fortified with **TypeScript.**\n    - React, and Material UI (MUI)\n    - React Native for mobile front-end development.\n- As front-end engineers, we take pride in precise design execution, valuing pixel-perfect implementation and employing Figma to maintain alignment with original designs.\n- Collaborative work culture is our ethos.\n    - Work in tandem with a cross-functional team through the development cycle, from front-end frameworks, and front-end service design to deployment.\n    - Engage in code reviews to elevate your work and that of your colleagues.\n    - Write clean, reusable, and testable code for easy maintenance by yourself and your fellow software engineers.\n    - Partner with engineers from various teams to create user-delighting features.\n    - Collaborate with our design team to understand and address user pain points.\n    - Drive enhancements in engineering standards, tooling, and processes.\n    - Develop new tools for internal teams.\n    - Embrace ownership and accountability for your work.\n- API integration is a critical part of your role.\n    - Integrate APIs according to spec with front-end frameworks.\n- Build, mange, and reuse UI components effectively.\n    - Keep UI components organized.\n    - Reuse UI component to maximize efficiency, robustness, and user experience.\n- Troubleshooting and debugging are indispensable skills.\n    - Investigate, debug, and upgrade existing software systems, including the development and integration of new components or automation pipelines as needed.\n    - Address production issues across services.\n- Engage in the regular launch of new markets, features, or products.\n\n## **What You Bring**\n\n1. Degree in Information Technology, Computer Engineering, or related field.\n2. Five or more years of coding experience or a similar role internship.\n3. Proficiency in web development frameworks, especially JavaScript, React, and Material UI (MUI).\n4. Experience with databases like PostgreSQL and SQL Server.\n5. Familiarity with quality control testing using tools such as QUnit, Mocha, Jasmine, or RSpec.\n\nWith your craftsmanship, you'll help to shape the user interface of our software, driving our mission forward through stunning visual experiences. Are you ready to create?\n\n[APPLY NOW](https://linktr.ee/growaha)",
-      "excerpt": "**Who We Are** We are a rapidly growing software technology startup from Silicon Valley, founded by top engineers from Stanford and MIT. Our dynamic team brings together extensive experience and diverse backgrounds in...",
-      "issueState": "open",
-      "contentHash": "8dfd99c368c05575eccb39f0cd3cd36d72f742371358964c4ce688f7dafc9389",
-      "repository": "EtherTW/jobs",
-      "repositoryUrl": "https://github.com/EtherTW/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "remote",
-        "react",
-        "typescript",
-        "java",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "workataha",
-        "name": "workataha",
-        "handle": "workataha",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121159613?v=4"
-      },
-      "community": {
-        "id": "EtherTW",
-        "name": "EtherTW",
-        "avatarUrl": "https://github.com/EtherTW.png?size=80",
-        "repository": "EtherTW/jobs",
-        "url": "https://github.com/EtherTW/jobs"
-      },
-      "createdAt": "2024-01-30T23:00:58Z",
-      "updatedAt": "2024-01-30T23:00:58Z",
-      "url": "https://github.com/EtherTW/jobs/issues/69",
       "sourceType": "github-issue"
     }
   ]
