@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T16:46:17.287Z",
+  "generatedAt": "2026-05-07T19:29:26.547Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
@@ -13,8 +13,6 @@
     "gh_781ec4a1e281c13c2f1fc5c5",
     "gh_092f5dc57ae7d0ee6678dd17",
     "gh_d1335efd5114d1e12b508c18",
-    "gh_f9ab8e236dc3e99853770455",
-    "gh_7affd1510d29cbfc03c0f24b",
     "gh_5903d3232c2f99d9ae568fe8",
     "gh_6af0e06bd0406d8e1d62b180",
     "gh_5e3fc1e256e628bfb7f7bdcc",
@@ -23,7 +21,9 @@
     "gh_bb025dc75f8639bdc7ca7a40",
     "gh_b8c75a4cb1cdaa5d5c4794e6",
     "gh_349305368c4768961f805995",
-    "gh_e643051c0833244abfc18c07"
+    "gh_e643051c0833244abfc18c07",
+    "gh_bf70dc9f783bd9e91215da56",
+    "gh_72cc354e7d9c38f999fa902a"
   ],
   "items": [
     {
@@ -358,73 +358,6 @@
       "createdAt": "2026-03-04T01:19:30Z",
       "updatedAt": "2026-03-04T01:19:30Z",
       "url": "https://github.com/vanshb03/New-Grad-2027/issues/1541",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f9ab8e236dc3e99853770455",
-      "sourceId": "lukasz-madon/awesome-remote-job#998",
-      "title": "FileShot.io – Secure file sharing for distributed/remote teams (zero-knowledge, no account)",
-      "description": "Hi — I'd like to suggest **FileShot.io** for the tools section.\n\nRemote teams constantly need to share files across different trust boundaries — contractors, clients, distributed contributors. FileShot handles AES-256-GCM encryption in the browser so the file hosting service never has access to the content. A quick encrypted share link is easy and doesn't require the recipient to have an account.\n\nMIT licensed, self-hostable.\n\nGitHub: https://github.com/FileShot/FileShotZKE\nSite: https://fileshot.io",
-      "excerpt": "Hi — I'd like to suggest **FileShot.io** for the tools section. Remote teams constantly need to share files across different trust boundaries — contractors, clients, distributed contributors. FileShot handles AES-256-...",
-      "issueState": "open",
-      "contentHash": "0818c6fb1ea1dcc596f2114b0ca646866e9794d79003ccd161a448dcb8d5aea5",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "FileShot",
-        "name": "FileShot",
-        "handle": "FileShot",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/245179855?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-03-03T21:22:11Z",
-      "updatedAt": "2026-03-03T21:22:11Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/998",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7affd1510d29cbfc03c0f24b",
-      "sourceId": "lukasz-madon/awesome-remote-job#997",
-      "title": "Add FileShot.io — secure, zero-knowledge file sharing for remote workers",
-      "description": "Hi! Suggesting FileShot.io for the tools section.\n\nFileShot.io: https://fileshot.io\nGitHub: https://github.com/FileShot/FileShotZKE\nLicense: MIT\n\nA privacy-first file sharing service for remote workers: encrypt files in the browser with AES-256-GCM before upload. Share a link — the recipient gets the file, without any cloud service having access to your data. No account, no sign-up, free.\n\nPractical for remote workers who need to share sensitive documents, contracts, or files with clients without email attachments or trusting a cloud provider.",
-      "excerpt": "Hi! Suggesting FileShot.io for the tools section. FileShot.io: https://fileshot.io GitHub: https://github.com/FileShot/FileShotZKE License: MIT A privacy-first file sharing service for remote workers: encrypt files in...",
-      "issueState": "open",
-      "contentHash": "fad41aa7d7e3a4702222a30930511d8a93c2e57ce2341be026f71b130c0b6d0c",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote",
-        "data"
-      ],
-      "author": {
-        "id": "FileShot",
-        "name": "FileShot",
-        "handle": "FileShot",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/245179855?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-03-03T20:29:46Z",
-      "updatedAt": "2026-03-17T18:01:38Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/997",
       "sourceType": "github-issue"
     },
     {
@@ -790,6 +723,70 @@
       "createdAt": "2026-02-18T14:03:32Z",
       "updatedAt": "2026-02-18T14:03:56Z",
       "url": "https://github.com/programadores-br/geral/issues/3054",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bf70dc9f783bd9e91215da56",
+      "sourceId": "timqian/open-source-jobs#162",
+      "title": "Feature: Social Meta Tags (OpenGraph) for Jobs",
+      "description": "**Issue :** \n\nWhen users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data.\nImprovement: Implement dynamic metadata in the Next.js layout.tsx or individual page components to improve social sharing visibility.\n\n**File Path** :  `open-source-jobs/app/layout.tsx`\n\n**Code logic :**\n\n```\nexport const metadata = {\n  title: 'Open Source Jobs',\n  description: 'Find jobs at companies building open source software.',\n  openGraph: {\n    images: ['/og-image.svg'],\n  },\n};\n```",
+      "excerpt": "**Issue :** When users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data. Improvemen...",
+      "issueState": "open",
+      "contentHash": "e920180e02443af31c31f89d3e048d15c2662c6f00e812dbd7ca62cf61b265e7",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:31:05Z",
+      "updatedAt": "2026-02-19T04:01:13Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/162",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_72cc354e7d9c38f999fa902a",
+      "sourceId": "timqian/open-source-jobs#161",
+      "title": "Feature: Enhanced Search & Filtering",
+      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
+      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
+      "issueState": "open",
+      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:29:12Z",
+      "updatedAt": "2026-02-19T04:01:20Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/161",
       "sourceType": "github-issue"
     }
   ]
