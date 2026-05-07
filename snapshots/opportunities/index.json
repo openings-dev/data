@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-07T13:48:35.812Z",
+  "generatedAt": "2026-05-07T16:46:17.287Z",
   "schemaVersion": 2,
-  "dataHash": "5694fb094f8c9ceeb5a0d917118b7ef188c44f4bd2f5504d9a24571e2f62518d",
+  "dataHash": "9cc22d39f6d3a05e9675e72a2fc43b34c3250d6af9de55bd454f95aa938a821d",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2032,
+    "opportunities": 2034,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -230,6 +230,7 @@
       "api/jobs/dc.json",
       "api/jobs/dd.json",
       "api/jobs/de.json",
+      "api/jobs/df.json",
       "api/jobs/e0.json",
       "api/jobs/e1.json",
       "api/jobs/e2.json",
@@ -336,10 +337,10 @@
       "country": "Brazil",
       "countryCode": "BR",
       "region": "South America",
-      "opportunities": 1181,
+      "opportunities": 1182,
       "repositories": 64,
-      "openIssues": 377,
-      "closedIssues": 804,
+      "openIssues": 379,
+      "closedIssues": 803,
       "indexFile": "countries/br/index.json"
     },
     {
@@ -426,10 +427,10 @@
       "country": "Global",
       "countryCode": "GLOBAL",
       "region": "Global",
-      "opportunities": 261,
+      "opportunities": 262,
       "repositories": 32,
-      "openIssues": 78,
-      "closedIssues": 183,
+      "openIssues": 80,
+      "closedIssues": 182,
       "indexFile": "countries/global/index.json"
     },
     {
@@ -518,8 +519,8 @@
       "region": "North America",
       "opportunities": 119,
       "repositories": 22,
-      "openIssues": 33,
-      "closedIssues": 86,
+      "openIssues": 34,
+      "closedIssues": 85,
       "indexFile": "countries/us/index.json"
     },
     {
