@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-06T19:27:24.701Z",
+  "generatedAt": "2026-05-07T08:22:57.291Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_8d3d4b455493191722317dda",
     "gh_9b5d9fbb31d726e63b2d6852",
     "gh_777d6953c094c4c77cffa586",
     "gh_1ab454dc5165fc4144b1968a",
@@ -22,10 +23,47 @@
     "gh_56647ce0f055e747d42f4222",
     "gh_f1495b68fe7d4f8349ceb1b6",
     "gh_bf09c7d748b34bd02d2443a5",
-    "gh_90da04043225a0b75c5b63f5",
-    "gh_7895541ae68ea62e3538ba5f"
+    "gh_90da04043225a0b75c5b63f5"
   ],
   "items": [
+    {
+      "id": "gh_8d3d4b455493191722317dda",
+      "sourceId": "pythonjobs/jobs#441",
+      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
+      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
+      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
+      "issueState": "open",
+      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "frontend",
+        "react",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:25:09Z",
+      "updatedAt": "2026-01-19T17:25:09Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/441",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_9b5d9fbb31d726e63b2d6852",
       "sourceId": "qa-brasil/vagas#1241",
@@ -730,40 +768,6 @@
       "createdAt": "2025-12-20T08:51:33Z",
       "updatedAt": "2025-12-20T10:19:07Z",
       "url": "https://github.com/f2etw/jobs/issues/1163",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7895541ae68ea62e3538ba5f",
-      "sourceId": "datascience-br/vagas#155",
-      "title": "Cientista de Dados - Remoto",
-      "description": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto confiam suas necessidades de TI à Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na seguinte vaga: Cientista de Dados - Remoto.\n\n\n\nO que oferecemos a você:\n- Assistência médica sem desconto para titulares;\n- Assistência odontológica sem desconto para titulares;\n- Cartão flex tanto para alimentação quanto refeição;\n- Auxílio home office para vaga remota;\n- Vale transporte para posições presenciais ou híbridas;\n- Auxílio creche;\n- Seguro de vida;\n- Desconto em terapia: plataforma de apoio psicossocial;\n- Parceria com instituições de ensino;\n- Parceria com escolas de idiomas;\n- Programa de subsídio para aulas de inglês;\n- Programa de indicações: prêmio para indicações bem-sucedidas;\n- Licença maternidade estendida de 180 dias e a licença paternidade de 20 dias;\n- Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, LinkedIn Learning e Udemy, que possui mais de 80.000 cursos disponíveis;\n- GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, trabalhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics!\n\n\nO que esperar desta posição:\n\nProjeto de desenvolvimento e melhorias em sistemas bancários.\n\n\nO que esperamos de você:\n\nConhecimentos:\n\nProgramação;\nTratamento de Dados.\nLinguagens:\n\nPython;\nPySpark;\nSQL.\nFerramentas:\n\nBig Data:\n\nHUE;\nHive;\nSpark (SparkML);\nNIFI.\nBanco de Dados:\n\nDB2;\nMySQL;\nOracle;\nDbeaver (Ferramenta de Consulta).\nModelagem de Dados (Erwin)\nVersionamento de código (Git)\nDashboards:\n\nSpotfire;\nPower BI.\nCiência de Dados\n\nManipulação de Dados;\nVisualização de Dados;\nEstatística;\nModelagem Preditiva;\nInteligência Artificial\nIA Generativa\nMachine Learning.\n\n\nO que fazer em seguida:\n\nCaso você seja a pessoa que estamos procurando, aguarde nosso contato para te conhecermos melhor e siga as instruções durante o processo seletivo.Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail recrutamento@getronics.com.",
-      "excerpt": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendime...",
-      "issueState": "open",
-      "contentHash": "eee6e40f0735f41aad5928f7243598417b9571db1d87b3e93ac6d4bcdbadba00",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "bellaharashi",
-        "name": "bellaharashi",
-        "handle": "bellaharashi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/176301649?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-12-10T17:26:51Z",
-      "updatedAt": "2025-12-26T20:51:18Z",
-      "url": "https://github.com/datascience-br/vagas/issues/155",
       "sourceType": "github-issue"
     }
   ]

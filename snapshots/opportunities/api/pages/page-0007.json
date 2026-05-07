@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-06T19:27:24.701Z",
+  "generatedAt": "2026-05-07T08:22:57.291Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_379609d7a1ed1555f83e4adc",
     "gh_cbbd9c70b7250bcddbcaf3be",
     "gh_9c27ccbbb027a757720e4a38",
     "gh_337dcc0369d8226aab4c836f",
@@ -22,10 +23,42 @@
     "gh_72c4998e12995d5589a38bf0",
     "gh_6966eef6a98f0a3441888058",
     "gh_fbf342fe13cd02bad05d2ee2",
-    "gh_b0b25f9f51d0e7f1c185dc60",
-    "gh_8d3d4b455493191722317dda"
+    "gh_b0b25f9f51d0e7f1c185dc60"
   ],
   "items": [
+    {
+      "id": "gh_379609d7a1ed1555f83e4adc",
+      "sourceId": "vanshb03/Summer2027-Internships#4452",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://app.ripplematch.com/v2/public/job/dab202a7?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github&utm_term=null\n\n### Company Name\n\nEpic\n\n### Internship Title\n\nUser Experience Design Intern 2026\n\n### Location\n\nMadison, WI\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\n_No response_\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://app.ripplematch.com/v2/public/job/dab202a7?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github&utm_term=null ...",
+      "issueState": "open",
+      "contentHash": "21a21b91309a3eea3b7403c664c3d47eab50fddeafa8fd02fb5994b7455291c6",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "mtlogs",
+        "name": "mtlogs",
+        "handle": "mtlogs",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117412619?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-02-12T22:02:49Z",
+      "updatedAt": "2026-02-12T22:02:49Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4452",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_cbbd9c70b7250bcddbcaf3be",
       "sourceId": "awesome-jobs/vietnam#4892",
@@ -707,44 +740,6 @@
       "createdAt": "2026-01-19T17:26:42Z",
       "updatedAt": "2026-01-19T17:26:42Z",
       "url": "https://github.com/pythonjobs/jobs/issues/442",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8d3d4b455493191722317dda",
-      "sourceId": "pythonjobs/jobs#441",
-      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
-      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
-      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
-      "issueState": "open",
-      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
-      "repository": "pythonjobs/jobs",
-      "repositoryUrl": "https://github.com/pythonjobs/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "hybrid",
-        "frontend",
-        "react",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "sandra614",
-        "name": "sandra614",
-        "handle": "sandra614",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
-      },
-      "community": {
-        "id": "pythonjobs",
-        "name": "pythonjobs",
-        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
-        "repository": "pythonjobs/jobs",
-        "url": "https://github.com/pythonjobs/jobs"
-      },
-      "createdAt": "2026-01-19T17:25:09Z",
-      "updatedAt": "2026-01-19T17:25:09Z",
-      "url": "https://github.com/pythonjobs/jobs/issues/441",
       "sourceType": "github-issue"
     }
   ]
