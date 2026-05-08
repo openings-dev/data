@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-05-08T10:20:04.066Z",
+  "generatedAt": "2026-05-08T16:11:04.595Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_72cc354e7d9c38f999fa902a",
+    "gh_dd237a978dba300d92eb4d35",
+    "gh_37de83a7709ed2c12e150734",
     "gh_7c9badcd511583c16a591a99",
     "gh_cca1c3ff69f7054df6568eee",
     "gh_379609d7a1ed1555f83e4adc",
@@ -20,12 +23,106 @@
     "gh_2eb633768057d06d1e58a245",
     "gh_26b7c402e14a59e43ad9828b",
     "gh_27ad1c5fa6ae31eaf8210333",
-    "gh_4d641b50245b8d41ceff0703",
-    "gh_7b4f6457d040ea0a23c1c43b",
-    "gh_72c4998e12995d5589a38bf0",
-    "gh_6966eef6a98f0a3441888058"
+    "gh_4d641b50245b8d41ceff0703"
   ],
   "items": [
+    {
+      "id": "gh_72cc354e7d9c38f999fa902a",
+      "sourceId": "timqian/open-source-jobs#161",
+      "title": "Feature: Enhanced Search & Filtering",
+      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
+      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
+      "issueState": "open",
+      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:29:12Z",
+      "updatedAt": "2026-02-19T04:01:20Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/161",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_dd237a978dba300d92eb4d35",
+      "sourceId": "timqian/open-source-jobs#160",
+      "title": "chaos-genius repo is archived",
+      "description": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table ,\nfix : might remove it or add another new one which is alternative to it ig?",
+      "excerpt": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table , fix : might remove it or add another new one which is alternative to it ig?",
+      "issueState": "open",
+      "contentHash": "8fa49b441c78bded9b3b3f265b273b1c1cbcac0e78160ac409226673fadcb2d0",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "wasup-yash",
+        "name": "wasup-yash",
+        "handle": "wasup-yash",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112958086?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-17T18:15:36Z",
+      "updatedAt": "2026-02-17T18:15:36Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/160",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_37de83a7709ed2c12e150734",
+      "sourceId": "react-brasil/vagas#3000",
+      "title": "[Remoto/Curitiba] SENIOR FRONT-END ENGINEER | REACT",
+      "description": "🎨 SENIOR FRONT-END ENGINEER | REACT\n📍 Curitiba (exclusivo para residentes)\n💵 Pagamento em dólar\n🌎 Projeto internacional | Inglês avançado obrigatório\nEstamos buscando um(a) Senior Front-End Engineer que não apenas constrói telas — mas cria experiências performáticas, escaláveis e visualmente impecáveis.\nAqui, performance não é detalhe.\nExperiência do usuário não é opcional.\nQualidade de código é premissa.\n🚀 O desafio:\nDesenvolver interfaces modernas e altamente performáticas\nGarantir escalabilidade e manutenibilidade do front-end\nTrabalhar com SSR e otimizações reais de performance\nConstruir experiências com alto padrão visual e técnico\n🔎 Requisitos técnicos:\n✔️ Domínio sólido de React.js\n✔️ Experiência obrigatória com TypeScript\n✔️ Gerenciamento de estado com Redux Toolkit, Zustand ou TanStack Query\n✔️ Experiência com Next.js, SSR e otimização de Web Vitals\n✔️ Criação de componentes reutilizáveis e testáveis (Storybook / Jest)\n✔️ Forte sensibilidade para UI/UX e qualidade visual\n🔥 Perfil que buscamos:\nMentalidade de engenharia front-end\nAtenção extrema à performance e experiência do usuário\nComunicação clara em inglês avançado\nResidente em Curitiba\nProfissional que eleva o padrão técnico do time\n💬 Se você é Senior de verdade, domina React com profundidade e quer atuar em projeto internacional recebendo em dólar, essa é uma oportunidade estratégica.\nMeu LinkedIn\nhttps://www.linkedin.com/in/thisclaudia",
+      "excerpt": "🎨 SENIOR FRONT-END ENGINEER | REACT 📍 Curitiba (exclusivo para residentes) 💵 Pagamento em dólar 🌎 Projeto internacional | Inglês avançado obrigatório Estamos buscando um(a) Senior Front-End Engineer que não apenas...",
+      "issueState": "open",
+      "contentHash": "322e6ff6d0b4eed27c5d2b13e4ba34ad5a692c27a7927abf7723cb0d823895bd",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "react",
+        "typescript",
+        "senior"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "createdAt": "2026-02-14T08:11:06Z",
+      "updatedAt": "2026-04-28T10:46:38Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3000",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_7c9badcd511583c16a591a99",
       "sourceId": "frontendbr/vagas#8442",
@@ -637,105 +734,6 @@
       "createdAt": "2026-01-27T03:41:33Z",
       "updatedAt": "2026-01-27T03:41:33Z",
       "url": "https://github.com/PrepAIJobs/New-Grad-2026/issues/6",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7b4f6457d040ea0a23c1c43b",
-      "sourceId": "jobright-ai/2026-Software-Engineer-New-Grad#4",
-      "title": "Mechanize — Junior Software Engineer",
-      "description": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos",
-      "excerpt": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos",
-      "issueState": "open",
-      "contentHash": "a5cb61106a6c96c61b699e995d7996e75c9d12f87d90ca11109793056ede3bf2",
-      "repository": "jobright-ai/2026-Software-Engineer-New-Grad",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "ArjunPanickssery",
-        "name": "ArjunPanickssery",
-        "handle": "ArjunPanickssery",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30219365?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Software-Engineer-New-Grad",
-        "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad"
-      },
-      "createdAt": "2026-01-27T03:40:08Z",
-      "updatedAt": "2026-01-27T03:40:08Z",
-      "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad/issues/4",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_72c4998e12995d5589a38bf0",
-      "sourceId": "vanshb03/New-Grad-2026#1539",
-      "title": "Mechanize — Junior Software Engineer",
-      "description": "### Link to Job Posting\n\nhttps://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos\n\n### Company Name\n\nMechanize\n\n### Job Title\n\nJunior Software Engineer\n\n### Location\n\nSan Francisco, CA\n\n### Does this job offer sponsorship?\n\nDoes Not Offer Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\narjun.panickssery@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Job Posting https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos ### Company Name Mechanize ### Job Title Junior Software Engineer ### Location San Francisco, C...",
-      "issueState": "open",
-      "contentHash": "fa5bba57d6482f9ab9ebcaa53efbf49c06957a87ffea72dfe1f18e81cad54146",
-      "repository": "vanshb03/New-Grad-2026",
-      "repositoryUrl": "https://github.com/vanshb03/New-Grad-2026",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_role"
-      ],
-      "author": {
-        "id": "ArjunPanickssery",
-        "name": "ArjunPanickssery",
-        "handle": "ArjunPanickssery",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30219365?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/New-Grad-2026",
-        "url": "https://github.com/vanshb03/New-Grad-2026"
-      },
-      "createdAt": "2026-01-27T03:37:25Z",
-      "updatedAt": "2026-01-27T03:38:40Z",
-      "url": "https://github.com/vanshb03/New-Grad-2027/issues/1539",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6966eef6a98f0a3441888058",
-      "sourceId": "vanshb03/New-Grad-2027#1539",
-      "title": "Mechanize — Junior Software Engineer",
-      "description": "### Link to Job Posting\n\nhttps://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos\n\n### Company Name\n\nMechanize\n\n### Job Title\n\nJunior Software Engineer\n\n### Location\n\nSan Francisco, CA\n\n### Does this job offer sponsorship?\n\nDoes Not Offer Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\narjun.panickssery@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Job Posting https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos ### Company Name Mechanize ### Job Title Junior Software Engineer ### Location San Francisco, C...",
-      "issueState": "open",
-      "contentHash": "fa5bba57d6482f9ab9ebcaa53efbf49c06957a87ffea72dfe1f18e81cad54146",
-      "repository": "vanshb03/New-Grad-2027",
-      "repositoryUrl": "https://github.com/vanshb03/New-Grad-2027",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_role"
-      ],
-      "author": {
-        "id": "ArjunPanickssery",
-        "name": "ArjunPanickssery",
-        "handle": "ArjunPanickssery",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30219365?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/New-Grad-2027",
-        "url": "https://github.com/vanshb03/New-Grad-2027"
-      },
-      "createdAt": "2026-01-27T03:37:25Z",
-      "updatedAt": "2026-01-27T03:38:40Z",
-      "url": "https://github.com/vanshb03/New-Grad-2027/issues/1539",
       "sourceType": "github-issue"
     }
   ]

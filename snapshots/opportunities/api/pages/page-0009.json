@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-05-08T10:20:04.066Z",
+  "generatedAt": "2026-05-08T16:11:04.595Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_326302de3583c428e75c13a7",
+    "gh_56647ce0f055e747d42f4222",
+    "gh_f1495b68fe7d4f8349ceb1b6",
     "gh_bf09c7d748b34bd02d2443a5",
     "gh_90da04043225a0b75c5b63f5",
     "gh_7895541ae68ea62e3538ba5f",
@@ -20,12 +23,120 @@
     "gh_7de941f14023985213e7d373",
     "gh_85f078dba4f67f12fd44586b",
     "gh_ce5100908b34ab96e2b8b3eb",
-    "gh_903b11b11902557631119931",
-    "gh_9b96130a0754d51d11da4a31",
-    "gh_50126f5a86863faddfe84fcd",
-    "gh_fb4ec6f93d17afcf44bb3e60"
+    "gh_903b11b11902557631119931"
   ],
   "items": [
+    {
+      "id": "gh_326302de3583c428e75c13a7",
+      "sourceId": "backend-br/vagas#12151",
+      "title": "[Remote] Senior Python Developer - Botcity",
+      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nThe Senior Python Developer will be responsible for leading BotCity’s Python architecture, setting technical direction, and ensuring the scalability and reliability of our platform. The ideal professional is a hands-on Python expert with strong communication, mentoring skills, and a collaborative mindset to guide and elevate the entire engineering team. This role will report to the VP of Engineering\n\nResponsibilities\n\nArchitect, develop, and maintain high-quality Python libraries and modules used by enterprise clients worldwide.\nEnsure Python libraries and modules are secure and free from vulnerabilities in both code and dependencies.\nDefine, promote, and enforce Python coding conventions, linters, static analysis, and architectural guardrails.\nPerform (and lead) code reviews that catch design or performance issues early.\nBuild internal libraries, shared modules, or tooling that abstract common patterns and increase team velocity.\nWork collaboratively with Product, QA, DevOps, and other engineers to translate requirements into reliable, maintainable implementations.\nProfile, monitor, and optimize performance, memory usage, and resource consumption of Python services.\nContribute to API design, interface contracts, data models, and integration strategies.\nStay current in the Python ecosystem and introduce innovations or best practices where appropriate.\nDocument high-level architecture, module contracts, and design rationale.\nMentor development teams via pair programming, review feedback, internal sessions, and guidance.\n\n## Local\n\nRemote\n\n## Requisitos\n\nRequired Qualifications\n\nDegree in Computer Science, Engineering, or a related field.\nProfessional experience (5+ years) with Python development, with a track record of delivering large-scale projects.\nDeep mastery of Python, including language internals, decorators, concurrency, threading/async, and memory management.\nExperience designing, creating, and maintaining Python packages.\nProficiency with testing frameworks (pytest or unittest), CI/CD pipelines, and package managers (uv, conda, pip).\nPublications and contributions to open-source Python libraries and community involvement (PyPI).\nExcellent problem-solving skills, system thinking, and debugging large systems.\nStrong communication skills (verbal/written).\nExperience working with MS Office/Excel, Google Suite, Notion, Slack.\nAbility to travel as needed to support events and meet the team.\nPortuguese - Fluent.\nEnglish - Advanced.\n\nPreferred Qualifications\n\nExperience with asynchronous frameworks, event loops, or systems like Celery, asyncio, RPC frameworks, or message brokers.\nExperience with Rust and integrating Python with Rust.\nSolid experience with relational (e.g. PostgreSQL) and non-relational databases, ORM tools, and schema design.\nFamiliarity with cloud infrastructure (AWS, GCP, or Azure), containers (Docker), and deployment orchestration.\nRelevant hands-on experience with automation projects.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n## Benefícios\n\nCompetitive compensation.\nPaid time off (30 days per year).\n100% remote and flexible hours.\nCaju benefits card.\nConexa health benefits.\nOpportunity to work in a global team with teams in San Francisco and São Paulo.\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/botcity/jobs/694e91869f7bde0013836fc8?src=Github\n\n## Labels\n\n\n### Nível\n- Sênior\n- Especialista\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
+      "issueState": "open",
+      "contentHash": "47fa3c796fe1fdfe7b7d6f460e6f954c2e4abc906d6870103c89a05ae3435e01",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "python",
+        "remoto",
+        "especialista",
+        "aws",
+        "postgresql",
+        "docker"
+      ],
+      "author": {
+        "id": "FranPiresBotcity",
+        "name": "FranPiresBotcity",
+        "handle": "FranPiresBotcity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-01-02T13:05:19Z",
+      "updatedAt": "2026-04-18T16:38:25Z",
+      "url": "https://github.com/backend-br/vagas/issues/12151",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_56647ce0f055e747d42f4222",
+      "sourceId": "backend-br/vagas#12150",
+      "title": "[|Remote] Senior Back-end developer Java - Botcity",
+      "description": "## Nossa empresa\n\nAt BotCity, we’ve built a pioneering Intelligent Automation platform, backed by global investors such as Y Combinator and SoftBank. Our mission is to empower enterprises worldwide to scale their automation initiatives with best-in-class governance, orchestration, and developer tools. We believe that automation projects are fundamentally software projects, which is why we advocate a high-code approach rooted in Python. Our commitment to innovation has enabled us to serve over 1,000 companies in 73 countries, and we continue to expand through strategic partnerships around the globe.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast. \n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nThe Senior Java Backend Engineer is responsible for architecting and developing complex Java backend applications with a strong focus on scalability, performance, and reliability. Leveraging your deep expertise in the Spring Framework, you will design and implement robust, secure microservices that drive automation at the core of some of the world’s largest and most security-conscious enterprises.\n\nResponsibilities\n\nArchitect, develop, deploy, and maintain scalable backend applications using Java/Spring Framework.\nEnsure high performance and availability of applications within a microservices architecture.\nCollaborate with product managers to understand requirements, ensure their technical feasibility, and translate them into reliable and scalable solutions.\nParticipate in software engineering rituals to develop models for complex application\nDefine private and public APIs for a world-class product.\nParticipate in code reviews, ensuring best practices in backend development.\nWrite high-quality technical documentation to clearly communicate backend architecture and API design, ensuring ease of understanding and effective collaboration across teams.\n\n## Local\n\nRemote\n\n## Requisitos\n\nRequired Qualifications\n\nBachelor's degree in Computer Science, Computer Engineering, or related technical discipline.\nProven professional experience (8+ years) in backend development using Java.\nProficiency in Spring Framework.\nStrong experience in code reviews and managing CI/CD pipelines.\nExperience implementing authentication and authorization mechanisms using OAuth, JWT, or SAML.\nExperience with version control and project management systems, particularly Git and GitHub.\nExperience with SQL and No-SQL databases.\nAbility to work independently as well as part of a team, with strong problem-solving skills and attention to detail.\nPrior experience in an early-stage, high-growth and fast-paced startup (or similar) environment.\nAbility to travel as needed to meet the team.\nPortuguese - Fluent\nPreferred Qualifications\n\nExperience in deploying containerized applications using Docker, Kubernetes, or similar technologies.\nExperience with Keycloak.\nFamiliarity with AWS services such as EC2, ECR, ECS, EKS, and ELB.\nEnglish - Fluent\n\n## Benefícios\n\nCompetitive compensation.\nPaid time off (30 days per year).\n100% remote and flexible hours.\nCaju benefits card.\nConexa health benefits.\nWellhub\nOpportunity to work in a global team with teams in San Francisco and São Paulo.\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/botcity/jobs/6942bd7904d89c001382e745?src=Github\n\n## Labels\n\n\n### Nível\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa At BotCity, we’ve built a pioneering Intelligent Automation platform, backed by global investors such as Y Combinator and SoftBank. Our mission is to empower enterprises worldwide to scale their autom...",
+      "issueState": "open",
+      "contentHash": "f53d067fad39533d1910be2f2bd185fa2200f2e2c6167e2f88db8d6b95e79cdd",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "python",
+        "java",
+        "remoto",
+        "aws",
+        "sql",
+        "git"
+      ],
+      "author": {
+        "id": "FranPiresBotcity",
+        "name": "FranPiresBotcity",
+        "handle": "FranPiresBotcity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-01-02T13:02:32Z",
+      "updatedAt": "2026-04-22T02:45:40Z",
+      "url": "https://github.com/backend-br/vagas/issues/12150",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f1495b68fe7d4f8349ceb1b6",
+      "sourceId": "didtheyghostme/Singapore-Summer2026-TechInternships#1",
+      "title": "Should we pull tech intern for SG directly from the website /jobs page instead and show in this README",
+      "description": "commenting for anyone that sees this, would you prefer to see jobs for tech intern sg on github instead of [/jobs](https://didtheyghost.me/jobs?utm_source=githubSummer26Issue) page.\n\nreference: https://github.com/SimplifyJobs/Summer2026-Internships",
+      "excerpt": "commenting for anyone that sees this, would you prefer to see jobs for tech intern sg on github instead of [/jobs](https://didtheyghost.me/jobs?utm_source=githubSummer26Issue) page. reference: https://github.com/Simpl...",
+      "issueState": "open",
+      "contentHash": "f274da1c982b52dfb23675137b23cf0e5323b880a7b39605aeccff9e9eb2ab48",
+      "repository": "didtheyghostme/Singapore-Summer2026-TechInternships",
+      "repositoryUrl": "https://github.com/didtheyghostme/Singapore-Summer2026-TechInternships",
+      "region": "Asia",
+      "country": "Singapore",
+      "tags": [],
+      "author": {
+        "id": "didtheyghostme",
+        "name": "didtheyghostme",
+        "handle": "didtheyghostme",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/188044484?v=4"
+      },
+      "community": {
+        "id": "didtheyghostme",
+        "name": "didtheyghostme",
+        "avatarUrl": "https://github.com/didtheyghostme.png?size=80",
+        "repository": "didtheyghostme/Singapore-Summer2026-TechInternships",
+        "url": "https://github.com/didtheyghostme/Singapore-Summer2026-TechInternships"
+      },
+      "createdAt": "2025-12-31T09:25:54Z",
+      "updatedAt": "2025-12-31T09:28:08Z",
+      "url": "https://github.com/didtheyghostme/Singapore-Summer2026-TechInternships/issues/1",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_bf09c7d748b34bd02d2443a5",
       "sourceId": "react-brasil/vagas#2993",
@@ -635,109 +746,6 @@
       "createdAt": "2025-11-24T13:39:45Z",
       "updatedAt": "2025-11-24T13:39:45Z",
       "url": "https://github.com/PrepAIJobs/New-Grad-2026/issues/5",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9b96130a0754d51d11da4a31",
-      "sourceId": "Gommunity/vagas#263",
-      "title": "[Híbrido - Belo Horizonte] Full Stack Sênior | Golang na Onfly",
-      "description": "Descrição da vaga\n\nPara a vaga de Desenvolvedor(a) Full Stack Sênior | Golang, buscamos um(a) profissional com interesse e experiência em desenvolvimento Full Stack. Além disso, buscamos alguém que também seja dinâmico(a), que saiba trabalhar em equipe e que se conecte com nossa cultura e valores.\n\nLocal\nHíbrido - Belo Horizonte \n\nBenefícios\nHorário de trabalho flexível;\nVale refeição em cartão flexível R$35 (sem desconto de 6%);\nVale transporte em cartão flexível (sem desconto de 6%);\nPlano de Saúde Unimed, sem coparticipação e sem mensalidade para o Onflyer (por nossa conta :D);\nPlano Odontológico (desconto na mensalidade)\nDesconto Farmácia;\nNo dress code;\nBenefício de Psicoterapia on-line (Vittude);\nBenefícios de academia! (Gympass);\nBolsa de 90% para estudos de idiomas;\nDescontos em Graduações e Pós-graduações (UNA e UNIBH);\nAssistência Funeral (Grupo Zelo);\nLicença Maternidade/Paternidade estendida;\nVoucher de R$200,00 no Onhappy (plataforma exclusiva para viajar com desconto para qualquer lugar do Brasil);\nSeguro de vida.\n\n\nRequisitos\nObrigatórios:\n\nExperiência sólida em [Vue.js](http://vue.js/)\nExperiência sólida em Go (Golang).\nProfundo conhecimento dos paradigmas do Go, incluindo concorrência (goroutines, channels) e interfaces.\nExperiência com frameworks e bibliotecas comuns do ecossistema Go (ex: Gin, Echo, Chi, GORM).\nExperiência sólida na construção e otimização de APIs RESTful e (preferencialmente) gRPC.\nArmazenamento de dados em bancos relacionais (ex: PostgreSQL, MySQL) e não-relacionais (ex: Redis).\nExperiência prática com Docker.\nConhecimentos em boas práticas de arquitetura de software, especialmente Microsserviços e Sistemas Distribuídos.\nAtenção para qualidade de código, testes unitários/integrados e design patterns.\nVersionamento de códigos utilizando Git.\nExperiência com metodologias de desenvolvimento ágil (Scrum ou Kanban)\n\n\nprojetos opensource\nContratação\nCLT ou PJ \n\nNossa empresa\nA Onfly é uma startup focada em ajudar as empresas a viajarem melhor!\nDemocratizar a gestão de viagens, reembolsos, descontos em passagens, hotéis e locação de carros em uma experiência completa e simples é foco do nosso negócio.\n\nComo se candidatar\nLink: https://onfly.gupy.io/jobs/10273187\n\nTempo médio de feedbacks\nCostumamos enviar feedbacks em até 5 dias após cada processo. \n\nLabels\nCLT\nPJ\nHibrido\nSênior",
-      "excerpt": "Descrição da vaga Para a vaga de Desenvolvedor(a) Full Stack Sênior | Golang, buscamos um(a) profissional com interesse e experiência em desenvolvimento Full Stack. Além disso, buscamos alguém que também seja dinâmico...",
-      "issueState": "open",
-      "contentHash": "c3d76c6528afa0cd9e551cff404da800ff1f26ff9e48681972622df04fee48b5",
-      "repository": "Gommunity/vagas",
-      "repositoryUrl": "https://github.com/Gommunity/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "sênior",
-        "pj",
-        "híbrido"
-      ],
-      "author": {
-        "id": "tainarodrigues-code",
-        "name": "tainarodrigues-code",
-        "handle": "tainarodrigues-code",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/245042564?v=4"
-      },
-      "community": {
-        "id": "Gommunity",
-        "name": "Gommunity",
-        "avatarUrl": "https://github.com/Gommunity.png?size=80",
-        "repository": "Gommunity/vagas",
-        "url": "https://github.com/Gommunity/vagas"
-      },
-      "companyName": "Onfly",
-      "createdAt": "2025-11-21T16:43:56Z",
-      "updatedAt": "2026-04-18T18:58:58Z",
-      "url": "https://github.com/Gommunity/vagas/issues/263",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_50126f5a86863faddfe84fcd",
-      "sourceId": "zapplyjobs/underclassmen-internships#91",
-      "title": "Linkedin Underclassmen program",
-      "description": "https://careers.linkedin.com/pathways-programs/internships/Technical/first-play",
-      "excerpt": "https://careers.linkedin.com/pathways-programs/internships/Technical/first-play",
-      "issueState": "open",
-      "contentHash": "3be2a74946309198efcd766d20f84313c0dc158f18fedd438c6e8d2c74eb4ae1",
-      "repository": "zapplyjobs/underclassmen-internships",
-      "repositoryUrl": "https://github.com/zapplyjobs/underclassmen-internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [],
-      "author": {
-        "id": "JustinhSE",
-        "name": "JustinhSE",
-        "handle": "JustinhSE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/84724234?v=4"
-      },
-      "community": {
-        "id": "zapplyjobs",
-        "name": "zapplyjobs",
-        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
-        "repository": "zapplyjobs/underclassmen-internships",
-        "url": "https://github.com/zapplyjobs/underclassmen-internships"
-      },
-      "createdAt": "2025-11-19T02:26:46Z",
-      "updatedAt": "2025-11-19T02:26:46Z",
-      "url": "https://github.com/zapplyjobs/underclassmen-internships/issues/91",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fb4ec6f93d17afcf44bb3e60",
-      "sourceId": "ios-taipei/MobileJobs#6",
-      "title": "[徵才][遠端/台北]Ubiquiti_Android Application Developer",
-      "description": "Responsibilities (What he/she will do after joining UI):\nBuild Android Apps That Shine:\nDevelop and maintain high-quality Android applications that integrate seamlessly with Ubiquiti’s ecosystem, including UniFi Connect, UniFi Play, and UniFi Drive. Your work will directly impact how users interact with our products.\n\nDesign Intuitive User Interfaces:\nCreate user-friendly designs that simplify complex workflows, ensuring an exceptional user experience across all devices.\n\nCollaborate Across Teams:\nWork closely with firmware, hardware, and backend teams to implement features like device setup, real-time monitoring, and remote control. Ensure a smooth handoff between software and hardware.\n\nWrite and Maintain Tests:\nDevelop and run unit tests, UI tests, and integration tests to guarantee app stability and performance. Your attention to quality will let every engineer on the team sleep a little easier.\n\nParticipate in Code Reviews:\nContribute to maintaining a high standard of code quality by reviewing teammates’ work, sharing insights, and suggesting improvements. Help the team grow stronger with each iteration.\n\nDocument and Share Knowledge:\nWrite clear and concise documentation for your code and processes, enabling the entire team to work more effectively. Sharing is caring, especially when it saves time!\n\nMinimum Qualifications (MUST-haves) :\nA collaborative and open mindset, with a willingness to seek feedback, share ideas, and support both individual and team growth.\nStrong experience in developing Android applications with Kotlin.\nFamiliarity with Git for version control in team projects.\nAbility to speak and write in English fluently, sufficient for effective collaboration with a global team.\nBachelor’s degree in Computer Science or equivalent practical experience.\n\n\nPreferred Qualifications (Nice-to-haves / Plus) :\nFamiliarity with Coroutines and Flow for efficient asynchronous programming and state management.\nExperience with Dependency Injection frameworks like Hilt or Dagger, and modular architecture design.\nDemonstrated skills in writing unit tests and UI tests.\nExperience with performance optimization techniques, such as improving app startup time, memory usage, and rendering efficiency.\nKnowledge of analyzing and troubleshooting production issues using tools like Firebase Analytics, Crashlytics, or custom logging frameworks.\nA proactive and flexible approach to working in a fast-changing environment, with a focus on collaboration and continuous improvement.\n\n**薪資範圍**\nNT$ 1,700,000以上 (年薪）\n\n**工作福利**\n彈性上下班也可申請遠端WFH\n免費午餐及水果\n優於勞基法不扣薪事假病假\n零食區全日免費提供飲品及美食\n員工/眷屬團體保險及健檢\n健身房補助\n\n**聯絡方式**\nMichael Wu michael.wu@ui.com",
-      "excerpt": "Responsibilities (What he/she will do after joining UI): Build Android Apps That Shine: Develop and maintain high-quality Android applications that integrate seamlessly with Ubiquiti’s ecosystem, including UniFi Conne...",
-      "issueState": "open",
-      "contentHash": "46425d59ab7d3a1749af448ec638b0fa2c29c6a92343305efcd9c204b31352cf",
-      "repository": "ios-taipei/MobileJobs",
-      "repositoryUrl": "https://github.com/ios-taipei/MobileJobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "remote",
-        "backend",
-        "design"
-      ],
-      "author": {
-        "id": "Uiler105",
-        "name": "Uiler105",
-        "handle": "Uiler105",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/102198667?v=4"
-      },
-      "community": {
-        "id": "ios-taipei",
-        "name": "ios-taipei",
-        "avatarUrl": "https://github.com/ios-taipei.png?size=80",
-        "repository": "ios-taipei/MobileJobs",
-        "url": "https://github.com/ios-taipei/MobileJobs"
-      },
-      "createdAt": "2025-11-18T10:17:52Z",
-      "updatedAt": "2025-11-18T10:20:23Z",
-      "url": "https://github.com/ios-taipei/MobileJobs/issues/6",
       "sourceType": "github-issue"
     }
   ]

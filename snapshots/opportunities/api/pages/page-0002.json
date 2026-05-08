@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-05-08T10:20:04.066Z",
+  "generatedAt": "2026-05-08T16:11:04.595Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_c2842e7382b7b6bf1db541df",
+    "gh_ac5c3adefbec0251a86525c4",
+    "gh_3ed888e508136df7f21ed82d",
     "gh_a63db4b94c52f3a3ba8a14fa",
     "gh_97960f30e27ec6a9c51a8615",
     "gh_e7e4a4073f27383bf34c4bd8",
@@ -20,12 +23,127 @@
     "gh_e927f7a3d5012b5647329bd0",
     "gh_57ed728934c67b37c0bed798",
     "gh_615cd5b5c01016e20e631b0c",
-    "gh_4f87440cb18d7065ec28f61e",
-    "gh_79546b5940192c13dad52334",
-    "gh_205016e47a65066e035664f3",
-    "gh_8bbc2d1fbf260ff495b6debe"
+    "gh_4f87440cb18d7065ec28f61e"
   ],
   "items": [
+    {
+      "id": "gh_c2842e7382b7b6bf1db541df",
+      "sourceId": "backend-br/vagas#12229",
+      "title": "[Remoto] FullStack Node e React - Stefanini",
+      "description": "## Nossa empresa\n\nOLATAM Digital Hub  Stefanini  é uma potência global em tecnologia, especializada em soluções de Nearshoring que conectam os melhores talentos da América Latina a empresas ao redor do mundo Com mais de 35 anos de experiência e presença em mais de 40 países, a Stefanini oferece serviços de transformação digital de ponta a ponta — desde engenharia de software e QA até nuvem, IA e serviços gerenciados.\n\nNosso modelo de Digital Hub permite que as organizações acessem profissionais altamente qualificados e culturalmente alinhados em tempo real, reduzindo custos e mantendo os mais altos padrões de qualidade e inovação. Temos orgulho de construir carreiras de longo prazo, e não apenas alocações — oferecendo aos membros da nossa equipe contratação direta, remuneração competitiva e um ambiente global colaborativo.\n\n## Descrição da vaga\n\nBuscamos um(a) especialista técnico(a) **Full-stack** para atuar em ambientes de arquitetura complexa. O papel envolve projetar e implementar aplicações robustas e de alta performance, focando em uma stack moderna centrada em Node.js (Backend) e React (Frontend).\n\n**Principais Responsabilidades:**\n* Desenvolver e manter features de ponta a ponta (end-to-end) para ambientes de alto tráfego.\n* Colaborar com times multifuncionais para definir padrões arquiteturais.\n* Garantir a alta qualidade do código através de testes rigorosos e code reviews.\n* Participar de todo o ciclo de vida de desenvolvimento (SDLC) em um ambiente Ágil.\n\n## Local\n\n100% Remoto\n\n## Requisitos\n\n**Obrigatórios (Backend & Frontend Core):**\n* **Frontend:** Proficiência avançada em React.js, conectando arquiteturas complexas de backend com componentes de interface de usuário perfeitamente responsivos.\n* **Ambiente & Frameworks:** Node.js (v18+), NestJS e TypeScript.\n* **Monorepo:** Experiência com Turborepo.\n* **Testes:** Proficiência em Jest (Testes Unitários e de Integração).\n* **Bancos de Dados:** Experiência prática com MS SQL Server, MongoDB e PostgreSQL.\n* **Cache & Mensageria:** Redis, Kafka e/ou RabbitMQ.\n* **DevOps e API:** Docker, Git e design de APIs REST.\n* **Segurança:** Profundo entendimento de OAuth2, JWT e OIDC.\n\n**Desejáveis:**\n* **Fintech:** Experiência com plataformas de aplicativos Jack Henry ou Q2.\n* **Arquitetura:** Domínio de Arquitetura Orientada a Eventos (EDA), CQRS + Event Sourcing, Padrão Saga e API Gateways.\n* **Estratégia:** Experiência com *Strangler Fig pattern* e *Trunk Based Development*.\n* **Metodologia:** Forte adesão aos princípios SOLID e Domain-Driven Design (DDD).\n* **Dados:** Familiaridade com Avro Schema e Protobuf.\n\n## Benefícios\n\n* Ambiente global colaborativo e de inovação.\n* Remuneração competitiva.\n* Oportunidade de construir uma carreira de longo prazo em projetos internacionais.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nAs candidaturas devem ser feitas diretamente através da plataforma da Workfully no link: [[Stefanini Careers - Application Form](https://hiring.workfully.com/jobs/bd03030b-8857-4821-800f-d810955d7c5c/details)](https://hiring.workfully.com/recruiter/4fbaa3d0-45c0-4662-9cf6-f172c4d319ad/job/bd03030b-8857-4821-800f-d810955d7c5c)\n\n## Labels\n\n### Nível\n- Sênior\n- Especialista\n\n### Regime\n- CLT\n\n### Alocação\n- Remoto",
+      "excerpt": "## Nossa empresa OLATAM Digital Hub Stefanini é uma potência global em tecnologia, especializada em soluções de Nearshoring que conectam os melhores talentos da América Latina a empresas ao redor do mundo Com mais de ...",
+      "issueState": "open",
+      "contentHash": "aae03bbfe81abbdc95724b92d9550a1dbf4671a2d0c7f1ae3e06206108807e22",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "sênior",
+        "node.js",
+        "remoto",
+        "especialista",
+        "mongodb",
+        "typescript",
+        "postgresql"
+      ],
+      "author": {
+        "id": "fellipebrancaccio",
+        "name": "fellipebrancaccio",
+        "handle": "fellipebrancaccio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22227480?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-04-29T04:33:11Z",
+      "updatedAt": "2026-05-01T23:08:04Z",
+      "url": "https://github.com/backend-br/vagas/issues/12229",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ac5c3adefbec0251a86525c4",
+      "sourceId": "qa-brasil/vagas#1253",
+      "title": "[Remoto] QA Sênior na Stefanini",
+      "description": "## Descrição da vaga\n\nO Senior QA Analyst atuará no Stefanini LATAM Digital Hub, sendo autoridade de qualidade dentro de Agile Squads em ambientes de Core Banking. O foco da função é definir e melhorar práticas de teste ao longo de todo o ciclo de entrega, garantindo conformidade com regulamentações bancárias, controles internos e padrões de arquitetura corporativa.\n\nO profissional será responsável por validar fluxos complexos de Core Banking (ciclo de conta, transações, juros), liderar estratégias de automação e garantir a prontidão para auditorias.\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Ampla experiência como QA Analyst em ambientes Agile/Scrum.\n- Experiência prática comprovada com sistemas de Core Banking.\n- Forte entendimento de processos bancários, fluxos de transação e restrições regulatórias.\n- Conhecimento sólido em metodologias de teste de software e governança de qualidade.\n- Experiência com JIRA e ferramentas de gerenciamento de teste.\n\n**Desejáveis**\n- Experiência com frameworks de automação de testes (API e/ou UI).\n- Conhecimento de práticas de BDD (Given / When / Then).\n- Familiaridade com pipelines CI/CD e práticas de DevOps.\n\n**Diferenciais**\n- Experiência em suporte a auditorias e revisões de conformidade.\n- Background em ambientes financeiros altamente regulados.\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- Benefícios a confirmar\n\n**Diferenciais**\n\n- Atuação em um Hub Digital Global (Stefanini LATAM).\n- Projetos de missão crítica em escala internacional.\n\n## Range Salarial\n\nA vaga paga até R$ 8.800,00.\n\n## Sobre a empresa\n\nA Stefanini é uma multinacional brasileira presente em mais de 40 países, sendo referência em soluções digitais. O LATAM Digital Hub foca em especialistas para projetos de nearshoring, conectando talentos da região a grandes players do setor financeiro.\n\n## Como se candidatar\n\n- Candidatar através do site: https://hiring.workfully.com/recruiter/4fbaa3d0-45c0-4662-9cf6-f172c4d319ad/job/6d56d25f-0f84-4f50-80bc-80f2ed16459e\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: feedbacks@stefanini.com\n\n## Labels\n- CLT\n- Pleno\n- Sênior\n- Remoto\n- São Paulo",
+      "excerpt": "## Descrição da vaga O Senior QA Analyst atuará no Stefanini LATAM Digital Hub, sendo autoridade de qualidade dentro de Agile Squads em ambientes de Core Banking. O foco da função é definir e melhorar práticas de test...",
+      "issueState": "open",
+      "contentHash": "6b98ea59aef4e8cf30d844a9e9b9fe91d20ddbf2f3c09086d89e6adf6cd72298",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "remoto",
+        "são paulo",
+        "sênior"
+      ],
+      "author": {
+        "id": "fellipebrancaccio",
+        "name": "fellipebrancaccio",
+        "handle": "fellipebrancaccio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22227480?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Benefícios a confirmar",
+      "createdAt": "2026-04-29T03:42:42Z",
+      "updatedAt": "2026-04-29T03:44:38Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1253",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3ed888e508136df7f21ed82d",
+      "sourceId": "backend-br/vagas#12228",
+      "title": "[REMOTO] Back-end developer Java - DWS Brazil",
+      "description": "### Nossa empresa\nQuem somos:\nA Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atuamos como centro de tecnologia, inovação e design do grupo. Possuímos parceria com diversas agências do grupo e estamos empenhados em entregar soluções criativas e inovadoras aos nossos clientes, atendendo a projetos de desenvolvimento web e mobile. Embora tenhamos nosso escritório físico, por acreditarmos numa conexão sem fronteiras, temos pessoas espalhadas por todo o país que compões os times da DWS Brazil.\n\nOs DWSianes se integram a times multiculturais e que contam com pessoas de diversos países, levando o trabalho em grupo a um nível mais elevado e significativo. Assim, a diversidade de ideias contribui para a construção de tecnologias que revolucionam o mercado.\n\nMuitos desafios, aprendizado e crescimento esperam você na DWS Brazil!\n\n### Descrição da vaga\nEstamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções.\n\n### Local\nRemoto - mas temos um office em Porto Alegre - RS para receber a galera para encontros, festa da firma e ta liberado para quem quiser frequentar!\n_PS: Não voltaremos a atuar presencialmente._\n\n### Requisitos\n**Como será sua rotina? Você será responsável por:**\nDesenvolver soluções utilizando JavaEE e spring boot;\nAnalisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;\nDesenvolver, integrar manter APIs para integração de Sistemas;\nApoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio\nDocumentar todo o processo de desenvolvimento do código;\nCriar relatórios de status e possíveis problemas para o Project Manager;\nParticipar de reuniões técnicas e cerimônias do projeto.\n\n**Obrigatórios:**\n**Para essa posição é importante que você tenha:**\nExperiência com programação em Java (JDK);\nDomínio de conceitos para programação orientado a objetos;\nExperiência com conceito de padrões de arquitetura;Conhecimento em GIt ou Subeversion;\nHabilidades com frameworks open source (Hibertnate, Velocity, etc);\nConhecimento em aplicações Web e protocolos HTTP;\nExperiência com banco de dados relacionais (Oracle, MySQL, etc);\nExperiência com pelo menos um IDE (Eclipse, Intellij IEDA, etc);\nExperiência com Gradle, Mavel ou ANT e integração contínua;\nConhecimento em conceitos ORM ou experiência com implementação (Hibernate ou outra JPA);\nConhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.\n\nBenefícios\nAqui você vai encontrar:\n\nTodo o equipamento necessário para seu trabalho (notebook e periféricos);\nPlano de saúde e odontológico;\nSeguro de vida;\nMental health program;\nAnywhere office - flexibilidade para trabalhar de onde precisar;\nVR/VA (cartão de benefícios Flash);\nAuxílio home office (cartão de benefícios Flash);\nAuxílio mobilidade (cartão de benefícios Flash);\nPrograma de mentoria para desenvolvimento e acompanhamento de carreira;\nParticipação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\nAulas de inglês com professor particular;\nAwesomeness Committee - envio de mimos temáticos e exclusivos;\nGympass;\nHorário flexível (40h semanais);\nDay off no dia do aniversário;\nAppreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\nAtuação 100% remota ou híbrida (a sua escolha).\nContratação\nCLT, 100% remoto e com carga horária flexível\n\nComo se candidatar\nInscreva-se na nossa página de carreiras: https://dwsbrazil.gupy.io/jobs/11083207?jobBoardSource=gupy_public_page\n\n\n\n## Labels\n\n### Nível\n- Pleno\n- Sênior\n\n\n### Regime\n\n\n- CLT\n\n\n### Alocação\n\n- Remoto",
+      "excerpt": "### Nossa empresa Quem somos: A Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atu...",
+      "issueState": "open",
+      "contentHash": "83b43a49c40d8f7516aef0234cead08394801febdd5f1dd365f827608ed04fda",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "sênior",
+        "java",
+        "remoto",
+        "mysql",
+        "git",
+        "oracle"
+      ],
+      "author": {
+        "id": "dwsbrazil",
+        "name": "dwsbrazil",
+        "handle": "dwsbrazil",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-04-28T19:17:43Z",
+      "updatedAt": "2026-05-01T23:08:08Z",
+      "url": "https://github.com/backend-br/vagas/issues/12228",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a63db4b94c52f3a3ba8a14fa",
       "sourceId": "soujava/vagas-java#1879",
@@ -667,112 +785,6 @@
       "createdAt": "2026-04-21T02:37:14Z",
       "updatedAt": "2026-04-21T02:37:14Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4924",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_79546b5940192c13dad52334",
-      "sourceId": "datascience-br/vagas#160",
-      "title": "Curitiba/PR - Analista de Dados PL",
-      "description": "Oportunidade para Analista de Dados Pleno\n\nBuscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto.\n\nAtribuições:\nAtuar de forma consultiva junto às áreas de negócio, traduzindo dados em ações práticas;\nRealizar análises exploratórias e diagnósticas para apoiar a tomada de decisão;\nGerar insights estratégicos e construir storytelling;\nDesenvolver, manter e aprimorar dashboards e relatórios gerenciais;\nAssegurar a qualidade, integridade e confiabilidade das bases de dados;\nIdentificar padrões, tendências e oportunidades de melhoria a partir da análise de dados;\nDefinir, monitorar e analisar indicadores de desempenho (KPIs);\nEntre outros pertinentes a área.\n\nRequisitos técnicos:\nFormação superior pertinente a área;\nDomínio de SQL para extração e manipulação de dados;\nFerramentas de BI (Power BI, Tableau ou similares);\nExcel Avançado;\nCapacidade analítica e visão crítica na interpretação de dados;\nBoa comunicação para traduzir dados em insights para públicos não técnicos.\n\nDesejável:\nConhecimento em Python ou R para análise de dados;\nVivência com bancos de dados relacionais e modelagem de dados;\nExperiência com dados de marketing, CRM, CX ou financeiro;\nAtuação prévia em empresas do setor financeiro ou de serviços;\nConhecimento em governança, qualidade de dados e LGPD.\n\nContrato CLT + Benefícios!\nAtuação 4x Presencial e 1x HO\nAtuação no modelo híbrido em Curitiba/PR.\n\nEnvie seu CV com pretensão salarial para: daiane.fw3@gmail.com",
-      "excerpt": "Oportunidade para Analista de Dados Pleno Buscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto. Atribuições:...",
-      "issueState": "open",
-      "contentHash": "72b31c20ce6ddda3fe4d30f16a902beaabccc4f718c82f79cd5860c3291acc8d",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "pleno"
-      ],
-      "author": {
-        "id": "DaianeMF",
-        "name": "DaianeMF",
-        "handle": "DaianeMF",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/277110536?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2026-04-17T19:53:07Z",
-      "updatedAt": "2026-04-17T19:53:07Z",
-      "url": "https://github.com/datascience-br/vagas/issues/160",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_205016e47a65066e035664f3",
-      "sourceId": "backend-br/vagas#12225",
-      "title": "[Remoto] Tech Lead - Woba",
-      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Nossa empresa\n\nA Woba, a maior rede de escritórios flexíveis por assinatura da América Latina, está buscando um(a) Tech Lead para tornar agente de IA e self-serve a principal interface operacional dos parceiros por meiode experiências fullstack de alto impacto.\n\n\n## Descrição da vaga\n\n- Atuar como liderança técnica do time\n- Mentorar e auxiliar no desenvolvimento dos engenheiros do time\n- Manter estreita colaboração com o time de produtos para definição de roadmap e delivery na iniciativa de parceiros\n- Viabilizar decisões operacionais via agentes no escopo do time\n- Consolidar a plataforma WOS como canal de funcionalidades oferecida aos parceiros\n- Elevar a régua técnica do time\n- Auxiliar no aprimoramento do processo de desenvolvimento do time, reduzindo cycle times, aumentando a frequência das entregas e a satisfação dos stakeholders\n- Desenvolver a arquitetura da solução WOS de modo que atenda aos requisitos de escalabilidade, consistência e segurança da informação\n\n## Local\n\n100% Remoto\n\n## Requisitos\n\nDesenvolvimento de APIs REST, aplicações Web e serviços distribuídos\nAmpla experiência em linguagens orientadas a objeto\nCI/CD\nMonitoria de aplicações\nDesenvolvimento de software assistido por AI\n\n## Benefícios\n\n🎒 Kit Woba: nós realizamos o empréstimo do notebook e você pode adquirir mochila, mouse, teclado, headset que desejar para o seu conforto;\n\n🏢 Escritórios Flexíveis: Você terá acesso ilimitado aos escritórios flexíveis da plataforma;\n\n🛫 Woba Wings: Quando você viajar e utilizar nossos parceiros, nós ajudamos no custo da sua passagem;\n\n☕ Cartão de Benefícios Caju: Nosso cartão é flexível e você poderá usar para 🥗 alimentação, 🍴 refeição, ⛽ mobilidade, 📚 educação e 🏠 ajuda de custo homeoffice;\n\n🏥 Plano de Saúde & Odontológico sem coparticipação para o colaborador;\n\n🏋️‍♀️ Wellhub: Plano de assinatura de academias e diversas atividades físicas;\n\n👶🏽 Auxílio Creche para filhos até 5 anos;\n\n## Contratação\n\nPJ/CLT\n\n## Como se candidatar\n [Clique para se inscrever](https://woba.inhire.app/vagas/d5c88477-b949-4749-9579-7e7645b6ef79/tech-lead-ai)\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Especialista\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Nossa empresa A Woba, a maior rede de escritórios flexíveis por assinatura da América Latina, está buscando um(a) Tech Lead para tornar agente de IA e self-serve...",
-      "issueState": "open",
-      "contentHash": "02eb72a31109fdbf4ed853764179bbf70118827a4bbdd7db38644a002f64e3b4",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "especialista",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "michellegiavoni-coder",
-        "name": "michellegiavoni-coder",
-        "handle": "michellegiavoni-coder",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/260512396?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-04-16T21:05:16Z",
-      "updatedAt": "2026-04-22T02:59:15Z",
-      "url": "https://github.com/backend-br/vagas/issues/12225",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8bbc2d1fbf260ff495b6debe",
-      "sourceId": "programadores-br/geral#3066",
-      "title": "[Hibrido / São Paulo, Brasil] UX/UI Designer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/uxui-designer-165755670?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\n**Objetivo da função:**  \nPlanejar e desenvolver interfaces digitais e fluxos de navegação que  proporcionem experiências intuitivas, acessíveis e funcionais para os usuários, alinhando design e usabilidade aos objetivos estratégicos da empresa.\n\n  \n**Responsabilidades:**  \n● Colaborar diretamente com os times de tecnologia e produto para garantir a viabilidade técnica dos  \nprojetos e uma boa experiência para o usuário;  \n● Desenvolver wireframes, protótipos e layouts para plataformas digitais, incluindo web, aplicativos mobile e websites;  \n● Conduzir pesquisas e estudos sobre experiência do usuário para embasar decisões de design;  \n● Mapear e aprimorar a jornada do usuário, garantindo a melhoria contínua das ferramentas e produtos;  \n● Manter a biblioteca de componentes (Design System) e especificações de design atualizadas;  \n● Elaborar especificações de design para o time de desenvolvimento;  \n● Analisar dados de uso e métricas de experiência (Google Analytics, Hotjar, etc.) para identificar oportunidades e validar hipóteses de design.\n\n  \n**Perfil desejado:**  \n● Olhar crítico para estética e funcionalidade;  \n● Capacidade de transformar insights de pesquisa em soluções de design;  \n● Boa comunicação para apresentar ideias e defender soluções de forma clara e embasada;  \n● Colaboração e flexibilidade para trabalhar em equipe multidisciplinar;  \n● Organização, atenção a detalhes;  \n● Curiosidade, criatividade e orientação para resultados.\n## Namu: \n <p>Começamos nossa trajetória em 2013 com o Portal Namu e desde então nos tornamos uma referência na produção de conteúdo multimídia de bem-estar. Temos a yoga, o pilates e a gastronomia como as principais vertentes da empresa, e mais de 8 milhões de páginas visualizadas compartilhamos ensinamentos em aulas, entrevistas e palestras com as maiores referências nacionais e internacionais. O grande sucesso das aulas de yoga, pilates e gastronomia, com mais de 10 milhões de visualizações no YouTube nos inspirou a criar o Namu Cursos, a primeira plataforma brasileira de cursos online completamente focada em uma vida equilibrada.</p>\n<p>Em pouco mais de um ano construímos um portfólio que oferece a oportunidade e comodidade de praticar yoga onde e quando você quiser, com mais de 87 horas de aulas divididas entre 35 cursos. Os cursos são ministrados por professores de referência no Brasil que, em vários anos de estudos e experiência nas melhores escolas ou com os Gurus ao redor do mundo, se capacitaram para ensinar de forma didática e com preço acessível.</p>\n\n ## Habilidades: \n - Design Thinking \n- Discovery \n- Figma \n- pacote adobe \n- Research \n- UI/UX \n- Teste A/B\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Graduação em Design, Design de Interação ou áreas correlatas; \n-  Experiência na concepção de produtos digitais com base em requisitos de negócio, discovery e research; \n- Aplicação de metodologias e ferramentas de design para direcionamento de soluções; \n- Experiência em Product Discovery e UX Research; \n-  Habilidade em design de interfaces web e mobile (UI) e prototipação; \n- Domínio da ferramenta Figma e pacote Adobe; \n-  Conhecimento em Design Thinking e Métodos Ágeis; \n- Experiência com Responsive Design e Direção de Arte; \n- Desenvolvimento de personas e condução de testes A/B; \n- Conhecimento dos guides visuais Android e iOS;\n\n## Benefícios: \n - VT;️ VR R$28/dia \n- Day off dentro do seu mês de aniversário \n- Namu saúde e bem-estar \n- Plano médico e odontológico da Amil \n- Descontos em graduação, pós-graduação, cursos de extensão e idiomas \n-  Programa TEM Saúde (benefício com inclusão de dependentes) \n- Teleorientações \n- descontos em farmácias e exames.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [UX/UI Designer na Namu](https://coodesh.com/jobs/uxui-designer-165755670?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nDesign/UI",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "1b5cafff4f83e446acf74249300c2ac4bd4748f4ed7bdb9df573e76e6e448cfd",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "clt"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-04-16T17:09:29Z",
-      "updatedAt": "2026-04-16T17:09:56Z",
-      "url": "https://github.com/programadores-br/geral/issues/3066",
       "sourceType": "github-issue"
     }
   ]
