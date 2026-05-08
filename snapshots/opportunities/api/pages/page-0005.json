@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-05-08T05:25:08.901Z",
+  "generatedAt": "2026-05-08T10:20:04.066Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
-    "gh_3cb49aacda2ec7dd8e38be24",
     "gh_1ad70c0d57be5eebce939a29",
     "gh_19d9edf7d6ba67157e1e98b0",
     "gh_b35ed7f0ec1bb0ba8e47ed3f",
@@ -17,51 +16,16 @@
     "gh_fdc6cfabf327abeb4f0d843a",
     "gh_dccc9fa35642a44d54e9f288",
     "gh_de904763bd312fc2ca8dacd4",
-    "gh_f0b120d53327c1931d48a2ae",
     "gh_2aaa5666ff02ace03ebf32c6",
     "gh_74e792fd5180bf0fee5883a2",
     "gh_0f0495da862b94749892e684",
     "gh_f08d1bcb1ff6e9045085efa8",
     "gh_3ae6e4053a144758170ff4dc",
-    "gh_d6f31a804dacbc548031ec5e"
+    "gh_d6f31a804dacbc548031ec5e",
+    "gh_0575ada6ef097a82833f72bf",
+    "gh_1cb7700b20f4fcdce63c6f02"
   ],
   "items": [
-    {
-      "id": "gh_3cb49aacda2ec7dd8e38be24",
-      "sourceId": "programadores-br/geral#3060",
-      "title": "[Remoto] DBA Pleno na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/dba-pleno-123558695?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA TruckPag é uma startup inovadora no setor de Meios de Pagamento, focada em solucionar grandes desafios e gerar impacto relevante no mundo logístico. Buscamos profissionais talentosos e motivados que queiram tornar as operações logísticas mais efetivas, assertivas e competitivas. Acreditamos que grandes ideias nascem da diversidade de vivências, formações e pessoas únicas. Cultivamos um ambiente de trabalho colaborativo, de alta performance e descontraído, onde você terá a oportunidade de agregar valor significativo à nossa equipe e aos nossos produtos.\n\nEstamos em busca de uma pessoa **DBA Pleno** para se juntar ao nosso time de tecnologia. Você terá um papel estratégico na garantia da saúde, performance e segurança dos nossos bancos de dados, que estão 100% hospedados na nuvem utilizando AWS RDS.\n\nNós já contamos com um parceiro responsável pelo monitoramento 24x7 da infraestrutura. Portanto, seu foco principal será atuar preventivamente, realizar _tuning_ avançado, gerenciar nosso ambiente legado e atuar a quatro mãos com os times de desenvolvimento para criar as melhores soluções em arquitetura de dados e queries.\n\n**Responsabilidades e Atribuições:**\n\n*   Administrar, manter e otimizar nossos bancos de dados **PostgreSQL** e **SQL Server** (ambiente legado) hospedados no **AWS RDS**.\n    \n*   Realizar _database tuning_, identificando gargalos de performance, otimizando o uso de recursos e garantindo a escalabilidade do ambiente.\n    \n*   Prestar consultoria e apoio técnico constante aos desenvolvedores na construção e otimização de _queries_, modelagem de dados e criação de índices.\n    \n*   Acompanhar e analisar as notificações e alertas gerados pela nossa empresa parceira de monitoramento 24x7, atuando na resolução de incidentes quando necessário.\n    \n*   Gerenciar e validar políticas de backup, _restore_ e estratégias de alta disponibilidade (HA) e _Disaster Recovery_ (DR) dentro do ecossistema AWS.\n    \n*   Garantir as melhores práticas de segurança e controle de acessos.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS RDS \n- PostgreSQL \n- SQL SERVER \n- Disaster Recovery\n## Local: \n Remota\n## Requisitos: \n - Experiência sólida e comprovada atuando como DBA, com domínio em PostgreSQL e bons conhecimentos em SQL Server. \n- Vivência prática com bancos de dados em nuvem, especificamente com Amazon RDS. \n- Forte conhecimento em performance tuning, análise de planos de execução e otimização de consultas pesadas. \n- Experiência prévia trabalhando próximo a times de engenharia/desenvolvimento de software. \n- Habilidade para atuar na resolução de problemas (troubleshooting) de forma ágil e analítica.\n## Diferenciais: \n - Conhecimento em outras soluções do ecossistema AWS (CloudWatch, IAM, EC2). \n- Vivência com ferramentas de versionamento de banco de dados (ex: Flyway, Liquibase). \n- Experiência com migração de dados ou transição de sistemas legados. \n- Certificações AWS ou certificações oficiais em PostgreSQL/SQL Server.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [DBA Pleno na TruckPag](https://coodesh.com/jobs/dba-pleno-123558695?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nBanco de Dados",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "77258082d23f4c8c18d0d1eee36704f4f4ac7cfc69ad34d6474e46686e45df48",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-18T20:37:25Z",
-      "updatedAt": "2026-03-18T20:37:53Z",
-      "url": "https://github.com/programadores-br/geral/issues/3060",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_1ad70c0d57be5eebce939a29",
       "sourceId": "ambicuity/New-Grad-Jobs#208",
@@ -505,43 +469,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_f0b120d53327c1931d48a2ae",
-      "sourceId": "awesome-jobs/vietnam#4905",
-      "title": "[ĐN - Hybrid] - Back-end Engineer/Full-stack Engineer",
-      "description": "### Backend & Fullstack Developers in Đà Nẵng ơiii – this one’s worth checking out 👀🚀\n\n**Location**: Da Nang (Hybrid)\n**Salary**: Highly competitive – open to strong candidates 💰\n\nRequirements:\n- 3+ years of experience with PHP\n- 3+ years with TypeScript/JavaScript (for Fullstack Developers)\n- Linux experience (3+ years) in development environments\n- English communication skills – comfortable working with colleagues and PMs via calls and messages\n\n\n📩 Reach out via Zalo: 0948876587 (Hương Thảo)\n🚀 Join a growing tech team and build impactful products together!",
-      "excerpt": "### Backend & Fullstack Developers in Đà Nẵng ơiii – this one’s worth checking out 👀🚀 **Location**: Da Nang (Hybrid) **Salary**: Highly competitive – open to strong candidates 💰 Requirements: - 3+ years of experien...",
-      "issueState": "open",
-      "contentHash": "ce512214cd1570f501bcce72dea36c63e23272884e70de71c7949a735c51a21b",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "backend",
-        "fullstack",
-        "typescript",
-        "java"
-      ],
-      "author": {
-        "id": "JenniferTran-recruiter",
-        "name": "JenniferTran-recruiter",
-        "handle": "JenniferTran-recruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/189077440?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-12T03:13:34Z",
-      "updatedAt": "2026-03-12T03:13:34Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4905",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_2aaa5666ff02ace03ebf32c6",
       "sourceId": "ambicuity/New-Grad-Jobs#149",
       "title": "[aw] No-Op Runs",
@@ -758,6 +685,75 @@
       "createdAt": "2026-03-09T15:07:04Z",
       "updatedAt": "2026-04-01T20:33:51Z",
       "url": "https://github.com/phpdevbr/vagas/issues/1324",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0575ada6ef097a82833f72bf",
+      "sourceId": "androiddevbr/vagas#2240",
+      "title": "[Remote] Mobile Engineer (Strider)",
+      "description": "🚀 Oportunidade Internacional | Mobile Engineer (React Native) | LATAM | USD\n\nEmpresa dos Estados Unidos está buscando um Mobile Engineer para atuar 100% remoto na América Latina.\n💰 Salário: 2.8k – 3.8k USD/mês\n🌎 Local: Remoto – Brasil, Argentina, Colômbia, México, Paraguai, Chile, Peru e Costa Rica\n📈 Experiência: +3 anos\n🗣 Inglês: B2\n\n🔧 Requisitos principais\n• 4+ anos de experiência em desenvolvimento de software\n• 3+ anos de experiência com React Native\n• Experiência com desenvolvimento mobile e gestão de releases\n• Conhecimento em App Store e Google Play Store (políticas e processos de aprovação)\n• Experiência com deploy e manutenção de aplicações mobile em produção\n• Conhecimento em CI/CD\n⭐ Diferenciais\n• Experiência em startups\n• Familiaridade com Expo para workflows de CI/CD\n• Experiência com submissão de apps nas lojas (Apple / Google)\n💡 Buscamos profissionais que tenham interesse em construir e manter aplicações mobile em produção e que consigam gerenciar deployments e ciclos de release mobile.\n🔗 Candidatura:\nhttps://app.onstrider.com/r/claudiaantunes?job=bW9iaWxlLWVuZ2luZWVyLWUzMWVlNWM5P3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz⁠�\n\n⚠️ Aplique apenas se o seu perfil estiver aderente à vaga.\n\n#ReactNative #MobileEngineer #LATAMJobs #RemoteJobs #TechJobs #Hiring #VagasTI #Developers #TechCareers",
+      "excerpt": "🚀 Oportunidade Internacional | Mobile Engineer (React Native) | LATAM | USD Empresa dos Estados Unidos está buscando um Mobile Engineer para atuar 100% remoto na América Latina. 💰 Salário: 2.8k – 3.8k USD/mês 🌎 Loc...",
+      "issueState": "open",
+      "contentHash": "afc15552113a0b90089b3a17c7a62c2caf196547e590e04d1c3d26c3ffab3996",
+      "repository": "androiddevbr/vagas",
+      "repositoryUrl": "https://github.com/androiddevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "stale"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "androiddevbr",
+        "name": "androiddevbr",
+        "avatarUrl": "https://github.com/androiddevbr.png?size=80",
+        "repository": "androiddevbr/vagas",
+        "url": "https://github.com/androiddevbr/vagas"
+      },
+      "createdAt": "2026-03-07T11:49:44Z",
+      "updatedAt": "2026-05-07T02:49:33Z",
+      "url": "https://github.com/androiddevbr/vagas/issues/2240",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1cb7700b20f4fcdce63c6f02",
+      "sourceId": "programadores-br/geral#3059",
+      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "52d3395e780ad7bb85db9deb07c4508f8a8366b4a559df19fcc296f1c4bc81c4",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "remoto",
+        "pj"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-03-06T12:55:35Z",
+      "updatedAt": "2026-03-06T12:56:00Z",
+      "url": "https://github.com/programadores-br/geral/issues/3059",
       "sourceType": "github-issue"
     }
   ]
