@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-05-07T21:49:44.160Z",
+  "generatedAt": "2026-05-08T02:15:23.875Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
-    "gh_7b4f6457d040ea0a23c1c43b",
     "gh_72c4998e12995d5589a38bf0",
     "gh_6966eef6a98f0a3441888058",
     "gh_fbf342fe13cd02bad05d2ee2",
@@ -23,42 +22,10 @@
     "gh_bc4faddd4f8543194e1c8927",
     "gh_4dc20dbb42a8bde00d158c2a",
     "gh_4ceaaa1806d1792dbb109bcb",
-    "gh_018090ae0b51c7fe869fe122"
+    "gh_018090ae0b51c7fe869fe122",
+    "gh_326302de3583c428e75c13a7"
   ],
   "items": [
-    {
-      "id": "gh_7b4f6457d040ea0a23c1c43b",
-      "sourceId": "jobright-ai/2026-Software-Engineer-New-Grad#4",
-      "title": "Mechanize — Junior Software Engineer",
-      "description": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos",
-      "excerpt": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490?utm_source=new_grad_repos",
-      "issueState": "open",
-      "contentHash": "a5cb61106a6c96c61b699e995d7996e75c9d12f87d90ca11109793056ede3bf2",
-      "repository": "jobright-ai/2026-Software-Engineer-New-Grad",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "ArjunPanickssery",
-        "name": "ArjunPanickssery",
-        "handle": "ArjunPanickssery",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30219365?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Software-Engineer-New-Grad",
-        "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad"
-      },
-      "createdAt": "2026-01-27T03:40:08Z",
-      "updatedAt": "2026-01-27T03:40:08Z",
-      "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad/issues/4",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_72c4998e12995d5589a38bf0",
       "sourceId": "vanshb03/New-Grad-2026#1539",
@@ -755,6 +722,46 @@
       "createdAt": "2026-01-05T22:50:21Z",
       "updatedAt": "2026-01-05T22:50:21Z",
       "url": "https://github.com/TechnologyMasters/jobs/issues/722",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_326302de3583c428e75c13a7",
+      "sourceId": "backend-br/vagas#12151",
+      "title": "[Remote] Senior Python Developer - Botcity",
+      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nThe Senior Python Developer will be responsible for leading BotCity’s Python architecture, setting technical direction, and ensuring the scalability and reliability of our platform. The ideal professional is a hands-on Python expert with strong communication, mentoring skills, and a collaborative mindset to guide and elevate the entire engineering team. This role will report to the VP of Engineering\n\nResponsibilities\n\nArchitect, develop, and maintain high-quality Python libraries and modules used by enterprise clients worldwide.\nEnsure Python libraries and modules are secure and free from vulnerabilities in both code and dependencies.\nDefine, promote, and enforce Python coding conventions, linters, static analysis, and architectural guardrails.\nPerform (and lead) code reviews that catch design or performance issues early.\nBuild internal libraries, shared modules, or tooling that abstract common patterns and increase team velocity.\nWork collaboratively with Product, QA, DevOps, and other engineers to translate requirements into reliable, maintainable implementations.\nProfile, monitor, and optimize performance, memory usage, and resource consumption of Python services.\nContribute to API design, interface contracts, data models, and integration strategies.\nStay current in the Python ecosystem and introduce innovations or best practices where appropriate.\nDocument high-level architecture, module contracts, and design rationale.\nMentor development teams via pair programming, review feedback, internal sessions, and guidance.\n\n## Local\n\nRemote\n\n## Requisitos\n\nRequired Qualifications\n\nDegree in Computer Science, Engineering, or a related field.\nProfessional experience (5+ years) with Python development, with a track record of delivering large-scale projects.\nDeep mastery of Python, including language internals, decorators, concurrency, threading/async, and memory management.\nExperience designing, creating, and maintaining Python packages.\nProficiency with testing frameworks (pytest or unittest), CI/CD pipelines, and package managers (uv, conda, pip).\nPublications and contributions to open-source Python libraries and community involvement (PyPI).\nExcellent problem-solving skills, system thinking, and debugging large systems.\nStrong communication skills (verbal/written).\nExperience working with MS Office/Excel, Google Suite, Notion, Slack.\nAbility to travel as needed to support events and meet the team.\nPortuguese - Fluent.\nEnglish - Advanced.\n\nPreferred Qualifications\n\nExperience with asynchronous frameworks, event loops, or systems like Celery, asyncio, RPC frameworks, or message brokers.\nExperience with Rust and integrating Python with Rust.\nSolid experience with relational (e.g. PostgreSQL) and non-relational databases, ORM tools, and schema design.\nFamiliarity with cloud infrastructure (AWS, GCP, or Azure), containers (Docker), and deployment orchestration.\nRelevant hands-on experience with automation projects.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n## Benefícios\n\nCompetitive compensation.\nPaid time off (30 days per year).\n100% remote and flexible hours.\nCaju benefits card.\nConexa health benefits.\nOpportunity to work in a global team with teams in San Francisco and São Paulo.\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/botcity/jobs/694e91869f7bde0013836fc8?src=Github\n\n## Labels\n\n\n### Nível\n- Sênior\n- Especialista\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
+      "issueState": "open",
+      "contentHash": "47fa3c796fe1fdfe7b7d6f460e6f954c2e4abc906d6870103c89a05ae3435e01",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "python",
+        "remoto",
+        "especialista",
+        "aws",
+        "postgresql",
+        "docker"
+      ],
+      "author": {
+        "id": "FranPiresBotcity",
+        "name": "FranPiresBotcity",
+        "handle": "FranPiresBotcity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-01-02T13:05:19Z",
+      "updatedAt": "2026-04-18T16:38:25Z",
+      "url": "https://github.com/backend-br/vagas/issues/12151",
       "sourceType": "github-issue"
     }
   ]
