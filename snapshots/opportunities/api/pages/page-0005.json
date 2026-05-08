@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-05-08T16:11:04.595Z",
+  "generatedAt": "2026-05-08T19:08:06.105Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
-    "gh_644385e0db8a70c4f7599974",
     "gh_360a36bfb0c75f23ffd2bcac",
     "gh_3cb49aacda2ec7dd8e38be24",
     "gh_1ad70c0d57be5eebce939a29",
@@ -13,7 +12,6 @@
     "gh_2cda70ac25febb0f454ee551",
     "gh_d3fa225b646b06055dac6d69",
     "gh_935109dffc5ad7dd99644c28",
-    "gh_e3872386cd7d61ca723e6cff",
     "gh_676667090fcd5276269492b4",
     "gh_b6ad9f2a9bbc5c9e930223d7",
     "gh_fdc6cfabf327abeb4f0d843a",
@@ -23,45 +21,11 @@
     "gh_74e792fd5180bf0fee5883a2",
     "gh_0f0495da862b94749892e684",
     "gh_f08d1bcb1ff6e9045085efa8",
-    "gh_3ae6e4053a144758170ff4dc"
+    "gh_3ae6e4053a144758170ff4dc",
+    "gh_d6f31a804dacbc548031ec5e",
+    "gh_0575ada6ef097a82833f72bf"
   ],
   "items": [
-    {
-      "id": "gh_644385e0db8a70c4f7599974",
-      "sourceId": "awesome-jobs/vietnam#4915",
-      "title": "Senior Java Engineer - Product Company HCM",
-      "description": "Connect Zalo: **0944503069 (Nhi)** to know more about Java opportunities\n\n**Responsibilities** \nBe an active participant in the development of high-volume, high-performance, low-latency, and\nreliable mission-critical applications\n• Architect Experience\n• Follow coding standards and development processes to ensure code quality and maintainability\n• Assist in code reviews and issue resolution\n• Design and develop new features based on requirements and specifications\n• Collaborate with team members to troubleshoot and fix system defects\n• Participate in technical discussions and project meetings, providing technical support and suggestions\n\n**Qualifications**\n• Bachelor's or above degree in Computer Science, Software Engineering, or related field\n• 6+ yoe experience in Java programming, familiarity with Java development environment\n• Basic nderstanding of software development life cycle and agile development methodologies\n• Possess baseline problem-solving and debugging skills\n• Excellent communication skills and a strong collaboration mindset\n• Willingness to learn and stay updated to date on new technologies and programming languages\n• Possess foundational database knowledge, such as SQL, transaction and relational databases\n• Good communication in Vietnamese and English are mandatory as the role requires working with Vietnamese and international teams.",
-      "excerpt": "Connect Zalo: **0944503069 (Nhi)** to know more about Java opportunities **Responsibilities** Be an active participant in the development of high-volume, high-performance, low-latency, and reliable mission-critical ap...",
-      "issueState": "open",
-      "contentHash": "5fb7c5789fce7ac7ba7c82e9370ba842ec67c41aeb8cb29da1baca563ea3270e",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "java",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "hoangnhi3110",
-        "name": "hoangnhi3110",
-        "handle": "hoangnhi3110",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/229262159?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-20T10:47:48Z",
-      "updatedAt": "2026-03-20T10:49:21Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4915",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_360a36bfb0c75f23ffd2bcac",
       "sourceId": "awesome-jobs/vietnam#4914",
@@ -350,42 +314,6 @@
       "createdAt": "2026-03-16T09:07:52Z",
       "updatedAt": "2026-03-16T09:07:52Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4910",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e3872386cd7d61ca723e6cff",
-      "sourceId": "ambicuity/New-Grad-Jobs#169",
-      "title": "[Beginner]: expand infrastructure keyword coverage for network automation, NOC, and network performance roles",
-      "description": "### 🐥 Beginner Friendly\nWelcome! This is a **Beginner Issue** — a natural next step after Good First Issues.\n\nIt expects you to:\n- Read existing code and follow its patterns\n- Own a small implementation decision\n- Write or extend tests\n\n**Difficulty:**\n- Basic Python (reading and writing functions) required\n- No external API experience needed\n- Familiarity with the contribution workflow expected\n\n> [!IMPORTANT]\n> We recommend completing at least one Good First Issue before attempting a Beginner Issue.\n>\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n> [!TIP]\n> **You should be comfortable with:**\n> - Forking, branching, committing, and opening a PR without a tutorial\n> - Reading Python code you did not write and following its patterns\n> - Running `make test` and fixing failures before pushing\n> - Rebasing onto `main` to resolve merge conflicts\n\n### 👾 Description of the Issue\nThe current `infrastructure_sre` keyword list in `scripts/update_jobs.py` includes `network engineer`, but it misses several networking titles that are common in entry-level infrastructure hiring and already show up in real boards:\n\n- `network automation engineer`\n- `network performance engineer`\n- `noc engineer`\n- `network operations engineer`\n\nThat creates a quality gap where networking roles can fall into `other`, even though the project README explicitly says the board tracks network-focused roles.\n\nUpdate `CATEGORY_PATTERNS['infrastructure_sre']['keywords']` so these titles are classified consistently, and add tests that prove the behavior.\n\nLook at:\n\n- `scripts/update_jobs.py`\n- `tests/test_categorize.py`\n- live references in `docs/jobs.json` such as SpaceX networking roles\n\nDo not create a brand-new top-level category for this task. The goal is better classification within the existing `Infrastructure & SRE` bucket.\n\n**Before claiming:**\n- Check the issue labels to see what area this touches\n- Review the CodeRabbit AI plan for a rough implementation overview\n- If this feels like too big a step, try a Good First Issue first\n\n### ✅ Acceptance Criteria\n- [ ] Networking titles listed above classify to `infrastructure_sre`\n- [ ] The change is implemented in `scripts/update_jobs.py`\n- [ ] All existing tests pass (`make test`)\n- [ ] New tests are added covering the changed behavior\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🤖 Core scraper (scripts/update_jobs.py)",
-      "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
-      "issueState": "open",
-      "contentHash": "8804e7bb218c2d2892931099b2ad566d632b96b802c7c9e774f7176012dc9d21",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "help wanted",
-        "needs-triage",
-        "beginner"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-14T05:28:08Z",
-      "updatedAt": "2026-05-08T03:28:30Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/169",
       "sourceType": "github-issue"
     },
     {
@@ -752,6 +680,81 @@
       "createdAt": "2026-03-09T18:18:30Z",
       "updatedAt": "2026-04-18T18:58:46Z",
       "url": "https://github.com/react-brasil/vagas/issues/3006",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d6f31a804dacbc548031ec5e",
+      "sourceId": "phpdevbr/vagas#1324",
+      "title": "[Remoto] Arquiteto de software Pleno na Spun",
+      "description": "**[Clique aqui para se inscrever!](https://spun.inhire.app/vagas/1a1950ca-def1-4ede-8945-cfdce2b7ef6f/arquiteto-de-software-pleno)**\n\n\nOlá!\nÉ um prazer contar com sua participação no processo seletivo da SPUN. 💚\nAgradecemos o interesse em conhecer nosso time. Abaixo estão as principais informações sobre a vaga:\nBuscamos uma pessoa para atuar como Arquiteto de Software Pleno em nosso time. \n\nContratação: PJ/MEI \n\nValor Mensal do Contrato: R$12.000,00 a 14.000,00\n\n**Requisitos**:\nExperiência em desenho e evolução de arquiteturas de sistemas complexos, garantindo escalabilidade, segurança e manutenibilidade.\nExperiência comprovada em desenvolvimento em PHP Laravel.\nConhecimento em tecnologias emergentes, frameworks em python.\nBoas práticas de desenvolvimento utilizando IA.\nExperiência em ambientes com múltiplas squads/projetos e integração entre serviços.\nCapacidade de arquitetar soluções tanto para servidores on-premise/VPS (infra local ou tradicional) quanto para ambientes em nuvem (especialmente GCP), avaliando trade-offs entre as abordagens.\nCapacidade de definir padrões de arquitetura e requisitos não funcionais (segurança, performance, observabilidade) juntos aos demais sêniores do time.\nExperiência em sistemas distribuídos, APIs e integração entre serviços.\nHabilidade em modelagem de domínio e dados (DDD ou equivalentes).\nCapacidade de liderar decisões técnicas e comunicar trade-offs.\nConhecimento sólido de fundamentos de engenharia de software (design, redes, segurança, bancos de dados)\n\n**Diferenciais**:\nParticipação em projetos de modernização de legado ou migração para arquiteturas modernas (ex.: microserviços, event-driven).\nVivência em estratégias híbridas de infraestrutura (migração gradual de on-premise para cloud).\nCertificações em arquitetura ou cloud (ex.: AWS Solutions Architect, TOGAF).\n\n**Responsabilidades:**\nDefinir e evoluir a visão e padrões de arquitetura da empresa, alinhados ao negócio e à estratégia de longo prazo.\nProjetar soluções escaláveis, seguras e resilientes para sistemas novos e existentes.\nGarantir requisitos não funcionais (disponibilidade, segurança, observabilidade e custos) em todas as soluções.\nLiderar discussões técnicas e orientar decisões de trade-off entre inovação e legado.\nMentorar tech leads e desenvolvedores, promovendo alinhamento arquitetural entre squads.\nApoiar a modernização de sistemas e a integração de novos produtos/serviços.\nParticipar de revisões de design e analisar riscos técnicos.\nEstabelecer padrões de documentação e governança técnica.\nBenefícios:\n \n💻 Trabalho 100% remoto, modelo de entregas com disponibilidade combinada.\n💳 Cartão CAJU: Receba 15% do valor mensal do contrato para usar em categorias como Home Office, Cultura, Mobilidade, Saúde e Educação.\n🛡️ Seguro de Vida: Tranquilidade e proteção garantida para você e seus familiares;\n📚 Aulas de inglês: Turmas abertas semestralmente para aprimorar seu aprendizado;\n🏋️‍♂️ Auxílio atividade física: Incentivo para manter sua saúde e bem-estar;\n🎯 Consultoria de treino: Turmas abertas periodicamente com especialistas para potencializar seus resultados;\n📢 Treinamentos e palestras: Conteúdos exclusivos para o seu desenvolvimento profissional e pessoal.",
+      "excerpt": "**[Clique aqui para se inscrever!](https://spun.inhire.app/vagas/1a1950ca-def1-4ede-8945-cfdce2b7ef6f/arquiteto-de-software-pleno)** Olá! É um prazer contar com sua participação no processo seletivo da SPUN. 💚 Agrade...",
+      "issueState": "open",
+      "contentHash": "6144eddb06a6ff4964cdb95cfc2595f3f6929d164c09994c4773cdbf47bfca95",
+      "repository": "phpdevbr/vagas",
+      "repositoryUrl": "https://github.com/phpdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "design"
+      ],
+      "author": {
+        "id": "Jeferson-TechRecruiter",
+        "name": "Jeferson-TechRecruiter",
+        "handle": "Jeferson-TechRecruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/266774619?v=4"
+      },
+      "community": {
+        "id": "phpdevbr",
+        "name": "phpdevbr",
+        "avatarUrl": "https://github.com/phpdevbr.png?size=80",
+        "repository": "phpdevbr/vagas",
+        "url": "https://github.com/phpdevbr/vagas"
+      },
+      "companyName": "Spun",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 14000,
+        "period": "month"
+      },
+      "createdAt": "2026-03-09T15:07:04Z",
+      "updatedAt": "2026-04-01T20:33:51Z",
+      "url": "https://github.com/phpdevbr/vagas/issues/1324",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0575ada6ef097a82833f72bf",
+      "sourceId": "androiddevbr/vagas#2240",
+      "title": "[Remote] Mobile Engineer (Strider)",
+      "description": "🚀 Oportunidade Internacional | Mobile Engineer (React Native) | LATAM | USD\n\nEmpresa dos Estados Unidos está buscando um Mobile Engineer para atuar 100% remoto na América Latina.\n💰 Salário: 2.8k – 3.8k USD/mês\n🌎 Local: Remoto – Brasil, Argentina, Colômbia, México, Paraguai, Chile, Peru e Costa Rica\n📈 Experiência: +3 anos\n🗣 Inglês: B2\n\n🔧 Requisitos principais\n• 4+ anos de experiência em desenvolvimento de software\n• 3+ anos de experiência com React Native\n• Experiência com desenvolvimento mobile e gestão de releases\n• Conhecimento em App Store e Google Play Store (políticas e processos de aprovação)\n• Experiência com deploy e manutenção de aplicações mobile em produção\n• Conhecimento em CI/CD\n⭐ Diferenciais\n• Experiência em startups\n• Familiaridade com Expo para workflows de CI/CD\n• Experiência com submissão de apps nas lojas (Apple / Google)\n💡 Buscamos profissionais que tenham interesse em construir e manter aplicações mobile em produção e que consigam gerenciar deployments e ciclos de release mobile.\n🔗 Candidatura:\nhttps://app.onstrider.com/r/claudiaantunes?job=bW9iaWxlLWVuZ2luZWVyLWUzMWVlNWM5P3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz⁠�\n\n⚠️ Aplique apenas se o seu perfil estiver aderente à vaga.\n\n#ReactNative #MobileEngineer #LATAMJobs #RemoteJobs #TechJobs #Hiring #VagasTI #Developers #TechCareers",
+      "excerpt": "🚀 Oportunidade Internacional | Mobile Engineer (React Native) | LATAM | USD Empresa dos Estados Unidos está buscando um Mobile Engineer para atuar 100% remoto na América Latina. 💰 Salário: 2.8k – 3.8k USD/mês 🌎 Loc...",
+      "issueState": "open",
+      "contentHash": "afc15552113a0b90089b3a17c7a62c2caf196547e590e04d1c3d26c3ffab3996",
+      "repository": "androiddevbr/vagas",
+      "repositoryUrl": "https://github.com/androiddevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "stale"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "androiddevbr",
+        "name": "androiddevbr",
+        "avatarUrl": "https://github.com/androiddevbr.png?size=80",
+        "repository": "androiddevbr/vagas",
+        "url": "https://github.com/androiddevbr/vagas"
+      },
+      "createdAt": "2026-03-07T11:49:44Z",
+      "updatedAt": "2026-05-07T02:49:33Z",
+      "url": "https://github.com/androiddevbr/vagas/issues/2240",
       "sourceType": "github-issue"
     }
   ]
