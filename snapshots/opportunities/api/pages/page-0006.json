@@ -1,15 +1,9 @@
 {
-  "generatedAt": "2026-05-09T02:09:31.309Z",
+  "generatedAt": "2026-05-09T13:00:04.372Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
-    "gh_f08d1bcb1ff6e9045085efa8",
-    "gh_3ae6e4053a144758170ff4dc",
-    "gh_d6f31a804dacbc548031ec5e",
-    "gh_0575ada6ef097a82833f72bf",
-    "gh_1cb7700b20f4fcdce63c6f02",
-    "gh_e5a048bc61d56ec20e336489",
     "gh_15fb9ec0047c0e7cc80ada55",
     "gh_4324288a7c63adcedfdcc618",
     "gh_85486f31f6bca38c2dd8836a",
@@ -23,225 +17,15 @@
     "gh_897522e2cc9bcaecd18c02b9",
     "gh_bb025dc75f8639bdc7ca7a40",
     "gh_b8c75a4cb1cdaa5d5c4794e6",
-    "gh_349305368c4768961f805995"
+    "gh_349305368c4768961f805995",
+    "gh_e643051c0833244abfc18c07",
+    "gh_bf70dc9f783bd9e91215da56",
+    "gh_72cc354e7d9c38f999fa902a",
+    "gh_dd237a978dba300d92eb4d35",
+    "gh_37de83a7709ed2c12e150734",
+    "gh_7c9badcd511583c16a591a99"
   ],
   "items": [
-    {
-      "id": "gh_f08d1bcb1ff6e9045085efa8",
-      "sourceId": "golangtw/jobs#232",
-      "title": "[新竹/竹科] [月薪 10 萬起] [年薪 200 萬起] 聯發科技資深解決方案架構師",
-      "description": "# Solution Architect（解決方案架構師）\n\n> AI Coding Era｜Golang + Python｜Senior Level｜Full-Time｜新竹\n\n---\n\n## 關於此職位 About the Role\n\n我們正處於 AI Coding 浪潮的核心，正在尋找一位思維前沿的 Solution Architect，協助帶領工程團隊設計高效能、可擴展的系統架構。你將扮演「架構領航者」，橋接業務需求與工程實作，並在 AI-assisted development 時代建立最佳實踐框架。\n\n| 項目     | 說明                                |\n| -------- | ----------------------------------- |\n| 工作地點 | 新竹                                |\n| 薪資範圍 | 100K/month 以上                      |\n\n---\n\n## 工作職責 Key Responsibilities\n\n### 系統架構設計\n\n- 主導核心系統的整體架構設計，確保高可用性、可擴展性與可維護性\n- 設計 Golang 微服務架構（gRPC / REST），制定服務間溝通規範\n- 規劃 Python AI/ML Pipeline 架構，整合至主體後端服務\n- 制定 API Gateway、Service Mesh、事件驅動架構的設計標準\n\n### AI Coding 與研發效率\n\n- 建立 AI-assisted coding 規範（Claude Code / Gemini / OpenCode 等工具的最佳使用流程）\n- 設計 AI Code Review 流程，確保 AI 生成程式碼的品質與安全性\n- 規劃 RAG / LLM 整合架構，協助產品嵌入 AI 能力\n- 評估並導入 AI 工具鏈，持續提升團隊開發速度\n\n### 技術治理與跨團隊協作\n\n- 擔任技術決策的把關者，參與 Architecture Review Board (ARB)\n- 與 Product、Data、DevOps 團隊密切合作，推動技術方案落地\n- 撰寫架構設計文件（ADR）、技術規範，建立知識庫\n- Mentor 資深工程師，推動技術文化建設\n\n---\n\n## 任職要求 Requirements\n\n### 必要條件\n\n- 8 年以上軟體開發經驗，其中 3 年以上擔任架構師或資深技術領導\n- 精通 Golang：熟悉 goroutine、channel、效能優化；有大規模生產環境經驗\n- 具備 Python 開發能力：AI/ML 框架整合（FastAPI、LangChain、PyTorch）經驗優先\n- 深入理解分散式系統設計：CAP 理論、一致性模型、分散式事務\n- 熟悉雲端架構（AWS / GCP / Azure），具備 IaC（Terraform / Pulumi）實戰經驗\n- 具備 Kubernetes、Service Mesh（Istio / Linkerd）、觀測性工具（OpenTelemetry）實務經驗\n\n### 加分條件\n\n- 實際使用過 Claude Code / Gemini / OpenCode 等 AI Coding 工具，並有團隊推廣經驗\n- 有 LLM 應用架構設計經驗（RAG、Agent、Function Calling）\n- 開源貢獻或技術社群分享（演講、文章、GitHub 專案）\n- 具備 CNCF 生態系相關認證（CKA / CKS / CKAD）\n\n---\n\n## 我們提供 What We Offer\n\n| 薪酬與福利                | 成長與文化                                             |\n| ------------------------- | ------------------------------------------------------ |\n| 具競爭力的薪資 + 績效獎金 | AI 工具授權全額補助（Claude Code / Gemini / OpenCode） |\n| 彈性工時                  | 高自主度的技術決策空間                                 |\n| 年度健康檢查與醫療補助    | 扁平化組織，快速成長機會                               |\n\n---\n\n## 面試流程 Interview Process\n\n| 階段 | 形式         | 說明                                     |\n| ---- | ------------ | ---------------------------------------- |\n| 01   | 技術面試     | 系統設計與架構討論，深入評估技術深度     |\n| 02   | 處長面試     | 與部門主管進行職涯方向與領導力交流       |\n| 03   | HR Screening | 了解背景、動機與薪資期望，確認整體契合度 |\n\n---\n\n> 📩 請將履歷與 Portfolio 寄至 **bo-yi.wu@mediatek.com**，標題是『**應徵 Solution Architect (XXXX 中文姓名)**』",
-      "excerpt": "# Solution Architect（解決方案架構師） > AI Coding Era｜Golang + Python｜Senior Level｜Full-Time｜新竹 --- ## 關於此職位 About the Role 我們正處於 AI Coding 浪潮的核心，正在尋找一位思維前沿的 Solution Architect，協助帶領工程團隊設計高效能、可擴展的系統架構。你將扮演「架構領航者」，橋接業務需求與工程實作，並...",
-      "issueState": "open",
-      "contentHash": "ad4287f606ab3a4e705af56b3f26db8c42b17a94755019bc95f2eefd5bbfe6b8",
-      "repository": "golangtw/jobs",
-      "repositoryUrl": "https://github.com/golangtw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "100k以上",
-        "新竹"
-      ],
-      "author": {
-        "id": "appleboy",
-        "name": "appleboy",
-        "handle": "appleboy",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/21979?v=4"
-      },
-      "community": {
-        "id": "golangtw",
-        "name": "golangtw",
-        "avatarUrl": "https://github.com/golangtw.png?size=80",
-        "repository": "golangtw/jobs",
-        "url": "https://github.com/golangtw/jobs"
-      },
-      "createdAt": "2026-03-10T06:53:56Z",
-      "updatedAt": "2026-03-11T01:26:22Z",
-      "url": "https://github.com/golangtw/jobs/issues/232",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3ae6e4053a144758170ff4dc",
-      "sourceId": "react-brasil/vagas#3006",
-      "title": "REMOTO - DEV FULLSTACK SÊNIOR (JAVA + REACT / REACT NATIVE) - CLT - 26177",
-      "description": "Estamos em busca em Desenvolvedor(a) Fullstack para projetar, desenvolver e manter APIs RESTful em Java (17+/21+) com Spring Boot. Profissional atuará na construção de soluções escaláveis e seguras, com foco em qualidade de código, testes automatizados e integração com infra/DevOps.\n\nResponsabilidades:\n\n— Projetar, desenvolver e manter APIs RESTful utilizando Java e Spring Boot.\n— Implementar soluções escaláveis, seguras e testáveis alinhadas aos requisitos de negócio.\n— Escrever código limpo, eficiente e realizar code reviews.\n— Criar e manter testes automatizados (unitários, de integração e funcionais) com JUnit/Mockito.\n— Modelar e otimizar consultas em bancos relacionais (Postgres, MySQL, Oracle) e NoSQL (MongoDB).\n— Utilizar ORM (Hibernate / JPA) para persistência de dados.\n— Desenvolver integrações com serviços externos via APIs e mensageria (Kafka, RabbitMQ).\n— Implementar mecanismos de autenticação/autorização (OAuth2, JWT).\n— Monitorar e otimizar performance, identificar gargalos e propor soluções de escalabilidade.\n— Participar da definição arquitetural e evolução para microsserviços quando aplicável.\n— Colaborar com DevOps para CI/CD e deploy em Docker, Kubernetes e cloud (AWS/Azure/GCP).\n— Documentar APIs, decisões técnicas e colaborar com frontend, produto e QA.\n\nRequisitos técnicos:\n\n— Domínio de Java 21+ e experiência com Spring Boot, Spring MVC e Spring Security.\n— Experiência com frontend: React e/ou React Native (diferencial / atuação fullstack).\n— SQL avançado (Postgres, MySQL, Oracle) e familiaridade com NoSQL (MongoDB, Redis).\n— Experiência com mensageria (Kafka, RabbitMQ).\n— Testes automatizados: JUnit, Mockito; práticas de TDD.\n— Conhecimento em Docker e Kubernetes; experiência com AWS, Azure ou GCP.\n— Monitoramento/observability: Prometheus, Grafana, ELK (ou similares).\n— Experiência com Git e metodologias ágeis (Scrum / Kanban).\n\nDiferenciais:\n\n— Experiência com GitOps (ArgoCD/Flux).\n— Certificações Java, Spring ou Cloud.\n— Experiência com performance tuning e testes de carga.\n— Experiência prévia em ambientes de microsserviços em larga escala.\n\nInformações adicionais:\n\nModelo: Remoto\nHorário: comercial - 09H AS 18H\nContratação: CLT\n\nLINK PARA CANDIDATURA https://grupotaking.inhire.app/vagas/416c237c-b5ba-44fa-b0ec-1a6e60e2e01d/desenvolvedora-fullstack-senior-26177",
-      "excerpt": "Estamos em busca em Desenvolvedor(a) Fullstack para projetar, desenvolver e manter APIs RESTful em Java (17+/21+) com Spring Boot. Profissional atuará na construção de soluções escaláveis e seguras, com foco em qualid...",
-      "issueState": "open",
-      "contentHash": "63d16aac8f17c40ad96c6f4526775b76400c14e3e7a4bcad7b07ba0078ae4f2d",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ clt",
-        "🏢 remoto"
-      ],
-      "author": {
-        "id": "KatiaGoisJacob",
-        "name": "KatiaGoisJacob",
-        "handle": "KatiaGoisJacob",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/66846955?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-03-09T18:18:30Z",
-      "updatedAt": "2026-04-18T18:58:46Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3006",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d6f31a804dacbc548031ec5e",
-      "sourceId": "phpdevbr/vagas#1324",
-      "title": "[Remoto] Arquiteto de software Pleno na Spun",
-      "description": "**[Clique aqui para se inscrever!](https://spun.inhire.app/vagas/1a1950ca-def1-4ede-8945-cfdce2b7ef6f/arquiteto-de-software-pleno)**\n\n\nOlá!\nÉ um prazer contar com sua participação no processo seletivo da SPUN. 💚\nAgradecemos o interesse em conhecer nosso time. Abaixo estão as principais informações sobre a vaga:\nBuscamos uma pessoa para atuar como Arquiteto de Software Pleno em nosso time. \n\nContratação: PJ/MEI \n\nValor Mensal do Contrato: R$12.000,00 a 14.000,00\n\n**Requisitos**:\nExperiência em desenho e evolução de arquiteturas de sistemas complexos, garantindo escalabilidade, segurança e manutenibilidade.\nExperiência comprovada em desenvolvimento em PHP Laravel.\nConhecimento em tecnologias emergentes, frameworks em python.\nBoas práticas de desenvolvimento utilizando IA.\nExperiência em ambientes com múltiplas squads/projetos e integração entre serviços.\nCapacidade de arquitetar soluções tanto para servidores on-premise/VPS (infra local ou tradicional) quanto para ambientes em nuvem (especialmente GCP), avaliando trade-offs entre as abordagens.\nCapacidade de definir padrões de arquitetura e requisitos não funcionais (segurança, performance, observabilidade) juntos aos demais sêniores do time.\nExperiência em sistemas distribuídos, APIs e integração entre serviços.\nHabilidade em modelagem de domínio e dados (DDD ou equivalentes).\nCapacidade de liderar decisões técnicas e comunicar trade-offs.\nConhecimento sólido de fundamentos de engenharia de software (design, redes, segurança, bancos de dados)\n\n**Diferenciais**:\nParticipação em projetos de modernização de legado ou migração para arquiteturas modernas (ex.: microserviços, event-driven).\nVivência em estratégias híbridas de infraestrutura (migração gradual de on-premise para cloud).\nCertificações em arquitetura ou cloud (ex.: AWS Solutions Architect, TOGAF).\n\n**Responsabilidades:**\nDefinir e evoluir a visão e padrões de arquitetura da empresa, alinhados ao negócio e à estratégia de longo prazo.\nProjetar soluções escaláveis, seguras e resilientes para sistemas novos e existentes.\nGarantir requisitos não funcionais (disponibilidade, segurança, observabilidade e custos) em todas as soluções.\nLiderar discussões técnicas e orientar decisões de trade-off entre inovação e legado.\nMentorar tech leads e desenvolvedores, promovendo alinhamento arquitetural entre squads.\nApoiar a modernização de sistemas e a integração de novos produtos/serviços.\nParticipar de revisões de design e analisar riscos técnicos.\nEstabelecer padrões de documentação e governança técnica.\nBenefícios:\n \n💻 Trabalho 100% remoto, modelo de entregas com disponibilidade combinada.\n💳 Cartão CAJU: Receba 15% do valor mensal do contrato para usar em categorias como Home Office, Cultura, Mobilidade, Saúde e Educação.\n🛡️ Seguro de Vida: Tranquilidade e proteção garantida para você e seus familiares;\n📚 Aulas de inglês: Turmas abertas semestralmente para aprimorar seu aprendizado;\n🏋️‍♂️ Auxílio atividade física: Incentivo para manter sua saúde e bem-estar;\n🎯 Consultoria de treino: Turmas abertas periodicamente com especialistas para potencializar seus resultados;\n📢 Treinamentos e palestras: Conteúdos exclusivos para o seu desenvolvimento profissional e pessoal.",
-      "excerpt": "**[Clique aqui para se inscrever!](https://spun.inhire.app/vagas/1a1950ca-def1-4ede-8945-cfdce2b7ef6f/arquiteto-de-software-pleno)** Olá! É um prazer contar com sua participação no processo seletivo da SPUN. 💚 Agrade...",
-      "issueState": "open",
-      "contentHash": "6144eddb06a6ff4964cdb95cfc2595f3f6929d164c09994c4773cdbf47bfca95",
-      "repository": "phpdevbr/vagas",
-      "repositoryUrl": "https://github.com/phpdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "pleno",
-        "design"
-      ],
-      "author": {
-        "id": "Jeferson-TechRecruiter",
-        "name": "Jeferson-TechRecruiter",
-        "handle": "Jeferson-TechRecruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/266774619?v=4"
-      },
-      "community": {
-        "id": "phpdevbr",
-        "name": "phpdevbr",
-        "avatarUrl": "https://github.com/phpdevbr.png?size=80",
-        "repository": "phpdevbr/vagas",
-        "url": "https://github.com/phpdevbr/vagas"
-      },
-      "companyName": "Spun",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 14000,
-        "period": "month"
-      },
-      "createdAt": "2026-03-09T15:07:04Z",
-      "updatedAt": "2026-04-01T20:33:51Z",
-      "url": "https://github.com/phpdevbr/vagas/issues/1324",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0575ada6ef097a82833f72bf",
-      "sourceId": "androiddevbr/vagas#2240",
-      "title": "[Remote] Mobile Engineer (Strider)",
-      "description": "🚀 Oportunidade Internacional | Mobile Engineer (React Native) | LATAM | USD\n\nEmpresa dos Estados Unidos está buscando um Mobile Engineer para atuar 100% remoto na América Latina.\n💰 Salário: 2.8k – 3.8k USD/mês\n🌎 Local: Remoto – Brasil, Argentina, Colômbia, México, Paraguai, Chile, Peru e Costa Rica\n📈 Experiência: +3 anos\n🗣 Inglês: B2\n\n🔧 Requisitos principais\n• 4+ anos de experiência em desenvolvimento de software\n• 3+ anos de experiência com React Native\n• Experiência com desenvolvimento mobile e gestão de releases\n• Conhecimento em App Store e Google Play Store (políticas e processos de aprovação)\n• Experiência com deploy e manutenção de aplicações mobile em produção\n• Conhecimento em CI/CD\n⭐ Diferenciais\n• Experiência em startups\n• Familiaridade com Expo para workflows de CI/CD\n• Experiência com submissão de apps nas lojas (Apple / Google)\n💡 Buscamos profissionais que tenham interesse em construir e manter aplicações mobile em produção e que consigam gerenciar deployments e ciclos de release mobile.\n🔗 Candidatura:\nhttps://app.onstrider.com/r/claudiaantunes?job=bW9iaWxlLWVuZ2luZWVyLWUzMWVlNWM5P3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz⁠�\n\n⚠️ Aplique apenas se o seu perfil estiver aderente à vaga.\n\n#ReactNative #MobileEngineer #LATAMJobs #RemoteJobs #TechJobs #Hiring #VagasTI #Developers #TechCareers",
-      "excerpt": "🚀 Oportunidade Internacional | Mobile Engineer (React Native) | LATAM | USD Empresa dos Estados Unidos está buscando um Mobile Engineer para atuar 100% remoto na América Latina. 💰 Salário: 2.8k – 3.8k USD/mês 🌎 Loc...",
-      "issueState": "open",
-      "contentHash": "afc15552113a0b90089b3a17c7a62c2caf196547e590e04d1c3d26c3ffab3996",
-      "repository": "androiddevbr/vagas",
-      "repositoryUrl": "https://github.com/androiddevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "stale"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "androiddevbr",
-        "name": "androiddevbr",
-        "avatarUrl": "https://github.com/androiddevbr.png?size=80",
-        "repository": "androiddevbr/vagas",
-        "url": "https://github.com/androiddevbr/vagas"
-      },
-      "createdAt": "2026-03-07T11:49:44Z",
-      "updatedAt": "2026-05-07T02:49:33Z",
-      "url": "https://github.com/androiddevbr/vagas/issues/2240",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1cb7700b20f4fcdce63c6f02",
-      "sourceId": "programadores-br/geral#3059",
-      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "52d3395e780ad7bb85db9deb07c4508f8a8366b4a559df19fcc296f1c4bc81c4",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:55:35Z",
-      "updatedAt": "2026-03-06T12:56:00Z",
-      "url": "https://github.com/programadores-br/geral/issues/3059",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e5a048bc61d56ec20e336489",
-      "sourceId": "devfsa/vagas#2825",
-      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "6fc2c15d658a4ac2ab9098b53157bb8426e83dd9a819eaec0f4aaeaa0855ea1c",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "react",
-        "java",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:55:17Z",
-      "updatedAt": "2026-03-06T12:55:17Z",
-      "url": "https://github.com/devfsa/vagas/issues/2825",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_15fb9ec0047c0e7cc80ada55",
       "sourceId": "programadores-br/geral#3058",
@@ -795,6 +579,209 @@
       "createdAt": "2026-02-23T12:16:03Z",
       "updatedAt": "2026-02-23T12:16:03Z",
       "url": "https://github.com/datascience-br/vagas/issues/158",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e643051c0833244abfc18c07",
+      "sourceId": "programadores-br/geral#3054",
+      "title": "[Remoto] Frontend Developer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/frontend-developer-135309084?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nComo Pessoa Desenvolvedora Frontend Pleno, você será peça-chave na construção e evolução das nossas aplicações web, garantindo interfaces ricas, responsivas e de alta performance. Suas principais responsabilidades incluem:\n\n● Desenvolvimento de Interfaces: Implementar novas features utilizando React.js (e/ou frameworks modernos), transformando protótipos de alta fidelidade em código funcional, responsivo e acessível.\n\n● Integração de Mapas e Geolocalização: Atuar diretamente na implementação de mapas interativos, rotas e serviços de localização, integrando a aplicação com a Google Maps Platform e APIs relacionadas para entregar funcionalidades geoespaciais robustas.\n\n● Integração com APIs: Consumir APIs RESTful de forma eficiente, gerenciando estados da aplicação, tratamentos de erro e garantindo a sincronia correta dos dados com o Backend.\n\n● Performance e Otimização: Monitorar e atuar na melhoria do desempenho das aplicações, otimizando o tempo de carregamento, renderização e consumo de recursos do navegador.\n\n● Manutenção e Qualidade: Identificar e corrigir bugs, refatorar componentes legados e garantir que a aplicação seja escalável e de fácil manutenção.\n\n● Colaboração Multidisciplinar: Participar ativamente das cerimônias ágeis (planning, dailies, reviews), trabalhando lado a lado com Designers (para fidelidade visual e UX) e Backend (para definição de contratos de API).\n\n● Qualidade de Código: Garantir boas práticas de desenvolvimento (Clean Code), componentização eficiente, reutilização de código e escrita de testes unitários e de componentes.\n\n● Documentação e Evolução: Manter a documentação técnica atualizada (Storybook ou similar) e contribuir com discussões sobre arquitetura de frontend e novas tecnologias.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - Code Review \n- css3 \n- HTML 5 \n- Javascript \n- React \n- Typescript \n- Jest\n## Local: \n Remota\n## Requisitos: \n - Experiência Sólida com React.js: Vivência em projetos web em produção, com domínio de Hooks, ciclo de vida de componentes e ecossistema React, utilizando JavaScript ES6+ ou TypeScript. \n- Google Maps APIs: Experiência prática na integração e manipulação da Google Maps Platform (Maps JavaScript API, Places API, Directions API, Geocoding) e tratamento de dados de geolocalização. \n- HTML e CSS Avançado: Proficiência em HTML5 semântico e CSS3 (Flexbox, Grid Layout). Experiência com pré-processadores (Sass) ou CSS-in-JS (Styled Components, Emotion) ou Tailwind. \n- Gerenciamento de Estado: Experiência com gerenciamento de estado global (Context API, Redux, Zustand ou similares) e gerenciamento de estado de servidor (TanStack Query). \n- Consumo de APIs: Entendimento profundo de verbos HTTP, headers, autenticação (JWT) e manuseio de dados assíncronos. \n- Segurança no Frontend: Conhecimento em boas práticas de segurança no front-end (prevenção contra XSS, CSRF, Injection, etc). \n- Controle de Versão: Experiência com Git e fluxos de trabalho colaborativos (PRs, Code Review e resolução de conflitos). \n- Testes Automatizados: Experiência com testes unitários e de componentes (Jest, React Testing Library). \n- Trabalho em Equipe: Capacidade de comunicar ideias técnicas com clareza e atuar com autonomia em um ambiente ágil.\n## Diferenciais: \n - Conhecimento em Backend (PHP/Laravel): Familiaridade com a estrutura do framework Laravel, capacidade de leitura de código PHP e entendimento de como as APIs são construídas no backend. \n- Experiência com Next.js (SSR/SSG). \n- Conhecimento em ferramentas de build modernas (Vite, Webpack). \n- Experiência com bibliotecas de visualização de dados em mapas (ex: deck.gl ou Leaflet). \n- Noções de CI/CD para frontend e pipelines de deploy. \n- Residência em Cascavel – PR (não obrigatório, mas um diferencial).\n## Benefícios: \n - Horário Flexível: Maior autonomia e equilíbrio entre vida pessoal e profissional. \n- Parceria Alura: Acesso a diversas plataformas de aprendizado para desenvolvimento contínuo. \n- Descanso remunerado: 30 dias de descanso remunerado por ano. \n- Day off de Aniversário: Um dia de folga no aniversário do Colaborador/Prestador ou de seu filho. \n- WellHub (Gympass): Acesso a uma vasta rede de academias e programas de bem-estar. \n- Incentivo aos estudos (Grupo Cogna): Descontos de até 60% em cursos de graduação e pós-graduação.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Frontend Developer na TruckPag](https://coodesh.com/jobs/frontend-developer-135309084?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFront-End",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "99e2fd9a7a8e12e02fce9b402b8170bdb5a354a6e19bef4d532565986b5ca747",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "remoto",
+        "pj",
+        "backend",
+        "frontend"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-02-18T14:03:32Z",
+      "updatedAt": "2026-02-18T14:03:56Z",
+      "url": "https://github.com/programadores-br/geral/issues/3054",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bf70dc9f783bd9e91215da56",
+      "sourceId": "timqian/open-source-jobs#162",
+      "title": "Feature: Social Meta Tags (OpenGraph) for Jobs",
+      "description": "**Issue :** \n\nWhen users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data.\nImprovement: Implement dynamic metadata in the Next.js layout.tsx or individual page components to improve social sharing visibility.\n\n**File Path** :  `open-source-jobs/app/layout.tsx`\n\n**Code logic :**\n\n```\nexport const metadata = {\n  title: 'Open Source Jobs',\n  description: 'Find jobs at companies building open source software.',\n  openGraph: {\n    images: ['/og-image.svg'],\n  },\n};\n```",
+      "excerpt": "**Issue :** When users share a specific job update or the homepage on social media, there is no dynamic OpenGraph preview. The project has an og-image.svg, but it is not dynamically populated with job data. Improvemen...",
+      "issueState": "open",
+      "contentHash": "e920180e02443af31c31f89d3e048d15c2662c6f00e812dbd7ca62cf61b265e7",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:31:05Z",
+      "updatedAt": "2026-02-19T04:01:13Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/162",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_72cc354e7d9c38f999fa902a",
+      "sourceId": "timqian/open-source-jobs#161",
+      "title": "Feature: Enhanced Search & Filtering",
+      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
+      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
+      "issueState": "open",
+      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:29:12Z",
+      "updatedAt": "2026-02-19T04:01:20Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/161",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_dd237a978dba300d92eb4d35",
+      "sourceId": "timqian/open-source-jobs#160",
+      "title": "chaos-genius repo is archived",
+      "description": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table ,\nfix : might remove it or add another new one which is alternative to it ig?",
+      "excerpt": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table , fix : might remove it or add another new one which is alternative to it ig?",
+      "issueState": "open",
+      "contentHash": "8fa49b441c78bded9b3b3f265b273b1c1cbcac0e78160ac409226673fadcb2d0",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "wasup-yash",
+        "name": "wasup-yash",
+        "handle": "wasup-yash",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112958086?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-17T18:15:36Z",
+      "updatedAt": "2026-02-17T18:15:36Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/160",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_37de83a7709ed2c12e150734",
+      "sourceId": "react-brasil/vagas#3000",
+      "title": "[Remoto/Curitiba] SENIOR FRONT-END ENGINEER | REACT",
+      "description": "🎨 SENIOR FRONT-END ENGINEER | REACT\n📍 Curitiba (exclusivo para residentes)\n💵 Pagamento em dólar\n🌎 Projeto internacional | Inglês avançado obrigatório\nEstamos buscando um(a) Senior Front-End Engineer que não apenas constrói telas — mas cria experiências performáticas, escaláveis e visualmente impecáveis.\nAqui, performance não é detalhe.\nExperiência do usuário não é opcional.\nQualidade de código é premissa.\n🚀 O desafio:\nDesenvolver interfaces modernas e altamente performáticas\nGarantir escalabilidade e manutenibilidade do front-end\nTrabalhar com SSR e otimizações reais de performance\nConstruir experiências com alto padrão visual e técnico\n🔎 Requisitos técnicos:\n✔️ Domínio sólido de React.js\n✔️ Experiência obrigatória com TypeScript\n✔️ Gerenciamento de estado com Redux Toolkit, Zustand ou TanStack Query\n✔️ Experiência com Next.js, SSR e otimização de Web Vitals\n✔️ Criação de componentes reutilizáveis e testáveis (Storybook / Jest)\n✔️ Forte sensibilidade para UI/UX e qualidade visual\n🔥 Perfil que buscamos:\nMentalidade de engenharia front-end\nAtenção extrema à performance e experiência do usuário\nComunicação clara em inglês avançado\nResidente em Curitiba\nProfissional que eleva o padrão técnico do time\n💬 Se você é Senior de verdade, domina React com profundidade e quer atuar em projeto internacional recebendo em dólar, essa é uma oportunidade estratégica.\nMeu LinkedIn\nhttps://www.linkedin.com/in/thisclaudia",
+      "excerpt": "🎨 SENIOR FRONT-END ENGINEER | REACT 📍 Curitiba (exclusivo para residentes) 💵 Pagamento em dólar 🌎 Projeto internacional | Inglês avançado obrigatório Estamos buscando um(a) Senior Front-End Engineer que não apenas...",
+      "issueState": "open",
+      "contentHash": "322e6ff6d0b4eed27c5d2b13e4ba34ad5a692c27a7927abf7723cb0d823895bd",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "react",
+        "typescript",
+        "senior"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "createdAt": "2026-02-14T08:11:06Z",
+      "updatedAt": "2026-04-28T10:46:38Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3000",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7c9badcd511583c16a591a99",
+      "sourceId": "frontendbr/vagas#8442",
+      "title": "[Remoto/Curitiba] SENIOR FRONT-END ENGINEER | REACT",
+      "description": "🎨 SENIOR FRONT-END ENGINEER | REACT\n📍 Curitiba (exclusivo para residentes)\n💵 Pagamento em dólar\n🌎 Projeto internacional | Inglês avançado obrigatório\nEstamos buscando um(a) Senior Front-End Engineer que não apenas constrói telas — mas cria experiências performáticas, escaláveis e visualmente impecáveis.\nAqui, performance não é detalhe.\nExperiência do usuário não é opcional.\nQualidade de código é premissa.\n🚀 O desafio:\nDesenvolver interfaces modernas e altamente performáticas\nGarantir escalabilidade e manutenibilidade do front-end\nTrabalhar com SSR e otimizações reais de performance\nConstruir experiências com alto padrão visual e técnico\n🔎 Requisitos técnicos:\n✔️ Domínio sólido de React.js\n✔️ Experiência obrigatória com TypeScript\n✔️ Gerenciamento de estado com Redux Toolkit, Zustand ou TanStack Query\n✔️ Experiência com Next.js, SSR e otimização de Web Vitals\n✔️ Criação de componentes reutilizáveis e testáveis (Storybook / Jest)\n✔️ Forte sensibilidade para UI/UX e qualidade visual\n🔥 Perfil que buscamos:\nMentalidade de engenharia front-end\nAtenção extrema à performance e experiência do usuário\nComunicação clara em inglês avançado\nResidente em Curitiba\nProfissional que eleva o padrão técnico do time\n💬 Se você é Senior de verdade, domina React com profundidade e quer atuar em projeto internacional recebendo em dólar, essa é uma oportunidade estratégica.\nMeu LinkedIn\nSENIOR FRONT-END ENGINEER | REACT",
+      "excerpt": "🎨 SENIOR FRONT-END ENGINEER | REACT 📍 Curitiba (exclusivo para residentes) 💵 Pagamento em dólar 🌎 Projeto internacional | Inglês avançado obrigatório Estamos buscando um(a) Senior Front-End Engineer que não apenas...",
+      "issueState": "open",
+      "contentHash": "daa616fea29662e303e993bc8d333a1531324177222f6a4557685e364f4b68b1",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "react",
+        "typescript",
+        "senior"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "createdAt": "2026-02-14T08:08:49Z",
+      "updatedAt": "2026-04-26T14:31:57Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8442",
       "sourceType": "github-issue"
     }
   ]
