@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-05-08T21:54:11.976Z",
+  "generatedAt": "2026-05-09T02:09:31.309Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_08c2b289f0b0fbaf5bd9f142",
+    "gh_23e88f37c8cdd99dec55a249",
     "gh_8cf64c1923e1f0333fce888c",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_c2842e7382b7b6bf1db541df",
@@ -21,11 +23,73 @@
     "gh_c69d8dad1dde7423a19d72b3",
     "gh_97af14f3ec3ca62e7db4666f",
     "gh_18aeb84c7b8ace6d5be56e77",
-    "gh_4a3287b63e4b9420bebc557e",
-    "gh_e927f7a3d5012b5647329bd0",
-    "gh_57ed728934c67b37c0bed798"
+    "gh_4a3287b63e4b9420bebc557e"
   ],
   "items": [
+    {
+      "id": "gh_08c2b289f0b0fbaf5bd9f142",
+      "sourceId": "cncf/gitjobs#383",
+      "title": "Ability to manually assign jobs to a foundation/project after submission",
+      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
+      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
+      "issueState": "open",
+      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamweswilson",
+        "name": "iamweswilson",
+        "handle": "iamweswilson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2026-05-05T18:56:03Z",
+      "updatedAt": "2026-05-06T15:39:22Z",
+      "url": "https://github.com/cncf/gitjobs/issues/383",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_23e88f37c8cdd99dec55a249",
+      "sourceId": "datascience-br/vagas#161",
+      "title": "Engenheiro de Dados ETL/ ELT Sênior na ZUP - 100% remoto",
+      "description": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!**\n\n**O que você fará por aqui**\n\n- Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, garantindo alta performance e qualidade dos dados.\n- Orquestrar rotinas complexas de processamento e integração de dados via AWS Step Functions.\n- Executar análises e validações robustas utilizando SQL e Athena, assegurando integridade e confiabilidade das informações.\n- Colaborar com times multidisciplinares para identificar necessidades de dados e propor soluções técnicas aderentes às demandas do negócio.\n- Investigar falhas, propor e implementar melhorias contínuas na arquitetura e nos processos de dados.\n- Documentar soluções, fluxos de dados e boas práticas para promover o alinhamento técnico entre as equipes.\n\n **O que esperamos que você saiba**\n\n- Excelência em desenvolvimento de pipelines usando PySpark no AWS Glue.\n- Domínio de AWS Step Functions para orquestração de pipelines e agendamento de processos.\n- Sólido conhecimento em SQL para consultas avançadas e validações em grandes volumes de dados.\n- Experiência no uso do Athena para exploração, análise e auditoria de dados.\n- Capacidade de monitorar qualidade dos dados e solucionar problemas complexos em ambientes críticos.\n\n **O que será um diferencial**\n\n- Prática com AWS QuickSight para criação de dashboards e visualização de dados.\n- Conhecimento em estratégias avançadas de monitoramento, observabilidade e automação de processos.\n- Experiência em ambientes de dados altamente regulados (LGPD, GDPR).\n- Familiaridade com novas ferramentas de data engineering no ecossistema AWS (como Lake Formation ou Glue DataBrew).\n- Atuação prévia em projetos de melhoria contínua com foco em performance ou escalabilidade.\n\nUm pouco de nossos beneficios:\n\nPLR : \n🍕 VR/VA Flash R$1.440,00\n📱 Plano de celular Vivo Easy ou Claro com reembolso \n🏡 Auxílio Home Office, ajuda de custo de internet \n📚 Capacitação anual  - a partir do 4º mês - para investir em livros, cursos, palestras. A Zup reembolsa 75% do valor dessas capacitações, dentro desse budget)\n🏥 Plano de Saúde SulAmérica ou Unimed\n🦷 Plano Odontológico SulAmérica\n👶 Auxílio creche / Licença paternidade até 90 dias / Licença maternidade até 180 dias\n⭐ Seguro de vida\n💪 Gympass\n💭 Telavita (psicólogo online com 5 sessões gratuitas por mês)\n💵 Bônus por indicação\n🚀 2 Days Off ao ano e Liberdade para trabalhar de onde quiser\ne mais!\n\n\nCandidate-se  enviando seu currículo para o seguinte email:  kauany.riotinto@zup.com.br\n**No título deve conter seu nome e o da vaga \" Engenheiro de Dados ETL/ELT Sênior\"**",
+      "excerpt": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!** **O que você fará por aqui** - Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, gara...",
+      "issueState": "open",
+      "contentHash": "76a9373fd1a6ec20ac048ad1423a63775d2f5b4f1922beaa564122d929065a50",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "KauanyFD",
+        "name": "KauanyFD",
+        "handle": "KauanyFD",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-05-04T17:18:52Z",
+      "updatedAt": "2026-05-04T17:20:08Z",
+      "url": "https://github.com/datascience-br/vagas/issues/161",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8cf64c1923e1f0333fce888c",
       "sourceId": "qa-brasil/vagas#1254",
@@ -709,85 +773,6 @@
       "createdAt": "2026-04-23T19:40:24Z",
       "updatedAt": "2026-04-24T14:42:44Z",
       "url": "https://github.com/backend-br/vagas/issues/12227",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e927f7a3d5012b5647329bd0",
-      "sourceId": "backend-br/vagas#12226",
-      "title": "[Alocação] Back-end developer - NomeDaEmpresa",
-      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## BRASIL EM DOBRO\n\nInforme a descrição da empresa.\n\nBrasil em Dobro é uma plataforma de tecnologia e marketing focada no setor gastronômico, reconhecida como o maior Tour Gastronômico do pais. A iniciativa busca incentivar o público a explorar novos restaurantes, bares e cafés por meio de um sistema de benefícios exclusivos.  \n## Descrição da vaga\n\nInforme a descrição da vaga.\nEstamos em busca de um(a) Desenvolvedor Backend Senior - Node.js / Typescript\npara atuar no desenvolvimento e evolução de aplicações backend escaláveis, seguras e de alta performance, utilizando TypeScript e Fastify.\n\nO papel envolve participar ativamente de decisões técnicas, desenvolvimento de novas funcionalidades, manutenção de sistemas existentes e colaboração próxima com outras áreas, como produto e infraestrutura.\n\n## Local\nEmpresa está situada em Florianópolis\n\nInforme se é remoto, híbrido ou presencial.\nRemoto\n\n## Requisitos\n\nInglês Intermediário\nComunicação via texto clara e rápida\nConsegue trabalhar de forma independente\nCuriosidade profunda\nAprendizado rápido, por conta própria\nEsperamos que você trabalhe somente para o Brasil em Dobro, ou seja, não fará nenhum tipo de trabalho freelancer\nVocê precisa ter o seu computador próprio para começar a trabalhar\nConhecimento (intermediário)\nTypescript | Fastify | Docker | Mysql (SQL) | Git\nDiferencial\nTer familiaridade com serviços da AWS\n\nInforme os requisitos obrigatórios e desejáveis para a vaga.\n\n## Benefícios\nday office no aniversário e floripa em dobro(para quem mora na grande Florianópolis)\n\nInforme os benefícios oferecidos pela empresa.\n\n## Contratação\n\nInforme o tipo de contratação, CLT, PJ ou outra.\ncontratação por PJ OU CLT\n\n## Como se candidatar\n\npreenchimento do formulário abaixo\n\nInforme os canais disponíveis para a aplicação na vaga.\n\n## Labels\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdI9_Y_7EiuwmukDCe8O_FFLDSbrr48_RLm7z09ZpdrvkkJ6A/viewform?usp=sharing&ouid=109376093729844002479\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\nSênior\n\n\n### Regime\n\n- PJ\n- CLT\n\n\n### Alocação\n\n- Remoto",
-      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## BRASIL EM DOBRO Informe a descrição da empresa. Brasil em Dobro é uma plataforma de tecnologia e marketing focada no setor gastronômico, reconhecida como o maior...",
-      "issueState": "open",
-      "contentHash": "71f10f46babf0125bf808cfa7dda49de4a6f6ab178b1600b049eb1da5773d6e3",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "node.js",
-        "remoto",
-        "presencial",
-        "aws",
-        "mysql"
-      ],
-      "author": {
-        "id": "rafaelamartins-BRASILEMDOBRO",
-        "name": "rafaelamartins-BRASILEMDOBRO",
-        "handle": "rafaelamartins-BRASILEMDOBRO",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/278704650?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-04-23T13:40:57Z",
-      "updatedAt": "2026-04-29T19:24:32Z",
-      "url": "https://github.com/backend-br/vagas/issues/12226",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_57ed728934c67b37c0bed798",
-      "sourceId": "qa-brasil/vagas#1250",
-      "title": "[100% Remoto] QA Jr na Codeleap",
-      "description": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap.\n\nEssa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática trabalhando com produtos reais e clientes internacionais.\n\nNo dia a dia, você vai testar aplicações web e mobile, identificar bugs, garantir a qualidade das entregas e trabalhar próximo de desenvolvedores e produto.\n\n## Local de trabalho\n\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência inicial com testes manuais (projetos pessoais, acadêmicos ou profissionais)\n- Inglês intermediário (leitura e escrita para documentação e bug reports)\n- Noção básica de desenvolvimento web/mobile (especialmente React / React Native)\n- Boa comunicação e vontade de aprender\n\n**Desejáveis**\n- Conhecimento básico em testes automatizados\n- Experiência com organização de casos de teste e documentação\n- Interesse em produto e experiência do usuário\n\n**Diferenciais**\n- Experiência prévia em projetos reais (mesmo que pequenos)\n- Perfil detalhista e curioso\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Trabalho 100% remoto\n- Horário flexível\n- Ambiente colaborativo e informal\n\n**Diferenciais**\n- Projetos reais com clientes internacionais (UK/EU)\n- Crescimento rápido com possibilidade de assumir mais responsabilidades\n- Mentoria e feedback constante\n- Aulas semanais de conversação em inglês\n- Bônus por performance (possibilidade de 13º e 14º salário)\n\n## Range Salarial\n\nA vaga paga entre R$2.000,00 e R$3.000,00 reais.\n\n## Sobre a empresa\n\nA CodeLeap é uma software house com base em Londres, trabalhando com clientes internacionais. Somos um time pequeno, focado em qualidade, aprendizado constante e desenvolvimento rápido dos nossos membros.\n\n## Como se candidatar\n\n- Candidatar através do formulário:\nhttps://docs.google.com/forms/d/e/1FAIpQLScMTarmAMcuEt51vYXX_5RGS4AfsYQD_kqDWaqgRkMf5uRxyQ/viewform\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada etapa do processo.\n\nE-mail para contato em caso de dúvidas: vini.garcia@codeleap.co.uk\n\n## Labels\n\n- PJ\n- Júnior\n- Remoto\n- Exterior\n```",
-      "excerpt": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap. Essa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática tra...",
-      "issueState": "open",
-      "contentHash": "ffc66f263900c7bb2c29f235523a4a5951900b595da1d4d24073a35871374c71",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "estágio",
-        "exterior",
-        "júnior",
-        "inglês"
-      ],
-      "author": {
-        "id": "dudamassena",
-        "name": "dudamassena",
-        "handle": "dudamassena",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/278477713?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Trabalho 100% remoto",
-      "createdAt": "2026-04-22T17:49:17Z",
-      "updatedAt": "2026-04-24T19:07:27Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1250",
       "sourceType": "github-issue"
     }
   ]
