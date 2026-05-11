@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-09T18:50:18.781Z",
+  "generatedAt": "2026-05-11T15:18:56.186Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_0b48071263222f42f82eed85",
     "gh_d797410281865fe5fdfcc927",
     "gh_d8668644a6f0ebb1839f0122",
     "gh_cda7c0fc8d1bf1340237fd89",
@@ -22,18 +23,53 @@
     "gh_c58b091791207460283796e3",
     "gh_08c2b289f0b0fbaf5bd9f142",
     "gh_23e88f37c8cdd99dec55a249",
-    "gh_8cf64c1923e1f0333fce888c",
-    "gh_d56bae7c6952a6aa314fa3f2"
+    "gh_8cf64c1923e1f0333fce888c"
   ],
   "items": [
     {
+      "id": "gh_0b48071263222f42f82eed85",
+      "sourceId": "backend-br/vagas#12235",
+      "title": "[Alocação] Back-end developer - NomeDaEmpresa",
+      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\nA Alonso Baldez atua como uma consultoria boutique focada em recrutamento e estruturação de subsistemas de RH. Com uma trajetória de mais de 20 anos, a consultoria prioriza a identificação de talentos que possuam alta aderência técnica e cultural aos projetos de seus clientes\n\n## Descrição da vaga\n\nAnalista de T.I. Pleno, com foco em infraestrutura industrial e suporte para a unidade de frigorífico em Inhumas-GO.\n- Domínio de Infraestrutura e Hardware Industrial\n- Experiência em manutenção preventiva e corretiva de servidores, coletores de dados, balanças e impressoras térmicas.\n- Capacidade de atuação no monitoramento de rede (switches) e gestão de sistemas de CFTV, com foco na normalização e manutenção do plano de monitoramento de câmeras.\n- Sólida compreensão do fluxo de dados em sistemas ERP para assegurar a disponibilidade dos processos industriais e administrativos.\n- Competência para interface com empresas terceiras de segurança (Sophos/VPN) e proposição de melhorias em políticas de acesso.\n- Atuação voltada à antecipação de problemas e olhar preventivo sobre o parque tecnológico.\n- Proatividade para realizar visitas periódicas às áreas fabris, estabelecendo interface direta com clientes internos para levantamento de necessidades.\n\n\n## Local\n\nLocal de trabalho é na cidade de Inhumas/GO, de forma presencial.\n\n## Requisitos\n\nSuperior completo ou cursando.\nDisponibilidade para residir em Inhumas.\nVeículo própria para o translado da cidade à indústria. (12km).\n\n## Benefícios\n\n5% de assiduidade.\nVale Alimentação de R$ 400,00\n\n## Contratação\n\nContratação CLT\n\n## Como se candidatar\n\nEnviar o CV por e-mail: kalonsobaldez@gmail.com\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n- Pleno\n### Regime\n- CLT\n### Alocação\n- Presencial",
+      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> A Alonso Baldez atua como uma consultoria boutique focada em recrutamento e estruturação de subsistemas de RH. Com uma trajetória de mais de 20 anos, a consultoria ...",
+      "issueState": "open",
+      "contentHash": "b7e049192fe931d2c1fc7639fb2473a074380b658b590d9783ec30544fbf14f3",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "go",
+        "presencial"
+      ],
+      "author": {
+        "id": "180465",
+        "name": "180465",
+        "handle": "180465",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/283697385?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-11T14:50:39Z",
+      "updatedAt": "2026-05-11T14:51:06Z",
+      "url": "https://github.com/backend-br/vagas/issues/12235",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_d797410281865fe5fdfcc927",
       "sourceId": "frontendbr/vagas#8475",
-      "title": "[Cidade] Front-end Developer na Nome da Empresa",
+      "title": "[Remoto] Front-end Developer na Igma",
       "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n\n## Descrição da vaga\n\nEstamos em busca de uma pessoa Tech Lead para se juntar ao nosso Chapter de desenvolvimento e criar produtos digitais para as maiores empresas do Brasil.\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Responsabilidades**\n\nNa Igma, como Tech Lead, você é responsável por garantir que nossas entregas de tecnologias tenham uma arquitetura sólida e escalável, bem como acompanhar a qualidade de código de sua equipe. O desafio será desenhar e planejar arquiteturas, propostas de infraestrutura, bem como escolher as melhores tecnologias para o projeto. Levando em consideração performance, segurança e skills do time. É essencial ter aptidão para trabalhar em equipe com profissionais de diferentes áreas, saiba se comunicar com clareza e tenha adaptabilidade para lidar com mudanças constante.\n\nPara isso é necessário fazer parte de sua rotina:\n\n- Git\n- Docker\n- AWS/Azure/GCP\n- CI/CD\n- Testes (Unitários, interface, integração)\n- Code Review com boas práticas\n- Principais Tecnologias: Python e .NET\n- Curiosidade ativa por Inteligência Artificial e disposição para explorar como a IA pode potencializar seu trabalho\n\n## Local\n\nRegime: 100% remoto\n\n## Requisitos\n\n- Arquitetura / Infra-estrutura, incluindo a análise e escolha de tecnologias adequadas para cada projeto.\n- Micro-serviços\n- Cloud\n- Containerização\n- API\n- Versionamento\n- Testes automatizados\n- CI / CD\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n## Benefícios\n\n- Trabalho 100% remoto\n- Plano de Saúde e odontológico individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/igma/jobs/69fe477d6a49d70013459688\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação",
       "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico ...",
       "issueState": "open",
-      "contentHash": "cfaf54b43e3810426d23dc667e05d4eb5ee4b0aa9567eaac3511e447d30a8ed3",
+      "contentHash": "ca630ba9c9251bc642d2639afdf648dd96c6b3ed033d0cd392cbc86a0415092e",
       "repository": "frontendbr/vagas",
       "repositoryUrl": "https://github.com/frontendbr/vagas",
       "region": "South America",
@@ -55,9 +91,9 @@
         "repository": "frontendbr/vagas",
         "url": "https://github.com/frontendbr/vagas"
       },
-      "companyName": "Nome da Empresa",
+      "companyName": "Igma",
       "createdAt": "2026-05-08T20:43:52Z",
-      "updatedAt": "2026-05-09T18:26:04Z",
+      "updatedAt": "2026-05-11T15:09:18Z",
       "url": "https://github.com/frontendbr/vagas/issues/8475",
       "sourceType": "github-issue"
     },
@@ -702,37 +738,6 @@
       "createdAt": "2026-05-04T11:34:40Z",
       "updatedAt": "2026-05-05T01:26:31Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1254",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d56bae7c6952a6aa314fa3f2",
-      "sourceId": "negarprh/Canadian-Tech-Internships-2026#243",
-      "title": "Suggestion",
-      "description": "hi,\n\ndid u think of making an email list? \n\nit would be a daily nice notifier for new positions\n\nu can use render, or any other service",
-      "excerpt": "hi, did u think of making an email list? it would be a daily nice notifier for new positions u can use render, or any other service",
-      "issueState": "open",
-      "contentHash": "d65ac7a54462a85b041c139de3d380d05e51bffecd66b6dd5200fd8a4683719c",
-      "repository": "negarprh/Canadian-Tech-Internships-2026",
-      "repositoryUrl": "https://github.com/negarprh/Canadian-Tech-Internships-2026",
-      "region": "North America",
-      "country": "Canada",
-      "tags": [],
-      "author": {
-        "id": "adssib",
-        "name": "adssib",
-        "handle": "adssib",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/75389300?v=4"
-      },
-      "community": {
-        "id": "negarprh",
-        "name": "negarprh",
-        "avatarUrl": "https://github.com/negarprh.png?size=80",
-        "repository": "negarprh/Canadian-Tech-Internships-2026",
-        "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026"
-      },
-      "createdAt": "2026-05-04T01:05:23Z",
-      "updatedAt": "2026-05-04T01:05:23Z",
-      "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026/issues/243",
       "sourceType": "github-issue"
     }
   ]
