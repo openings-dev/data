@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-09T13:00:04.372Z",
+  "generatedAt": "2026-05-11T19:30:34.517Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_7c9badcd511583c16a591a99",
     "gh_cbbd9c70b7250bcddbcaf3be",
     "gh_9c27ccbbb027a757720e4a38",
     "gh_337dcc0369d8226aab4c836f",
@@ -22,10 +23,44 @@
     "gh_72c4998e12995d5589a38bf0",
     "gh_6966eef6a98f0a3441888058",
     "gh_fbf342fe13cd02bad05d2ee2",
-    "gh_b0b25f9f51d0e7f1c185dc60",
-    "gh_8d3d4b455493191722317dda"
+    "gh_b0b25f9f51d0e7f1c185dc60"
   ],
   "items": [
+    {
+      "id": "gh_7c9badcd511583c16a591a99",
+      "sourceId": "frontendbr/vagas#8442",
+      "title": "[Remoto/Curitiba] SENIOR FRONT-END ENGINEER | REACT",
+      "description": "🎨 SENIOR FRONT-END ENGINEER | REACT\n📍 Curitiba (exclusivo para residentes)\n💵 Pagamento em dólar\n🌎 Projeto internacional | Inglês avançado obrigatório\nEstamos buscando um(a) Senior Front-End Engineer que não apenas constrói telas — mas cria experiências performáticas, escaláveis e visualmente impecáveis.\nAqui, performance não é detalhe.\nExperiência do usuário não é opcional.\nQualidade de código é premissa.\n🚀 O desafio:\nDesenvolver interfaces modernas e altamente performáticas\nGarantir escalabilidade e manutenibilidade do front-end\nTrabalhar com SSR e otimizações reais de performance\nConstruir experiências com alto padrão visual e técnico\n🔎 Requisitos técnicos:\n✔️ Domínio sólido de React.js\n✔️ Experiência obrigatória com TypeScript\n✔️ Gerenciamento de estado com Redux Toolkit, Zustand ou TanStack Query\n✔️ Experiência com Next.js, SSR e otimização de Web Vitals\n✔️ Criação de componentes reutilizáveis e testáveis (Storybook / Jest)\n✔️ Forte sensibilidade para UI/UX e qualidade visual\n🔥 Perfil que buscamos:\nMentalidade de engenharia front-end\nAtenção extrema à performance e experiência do usuário\nComunicação clara em inglês avançado\nResidente em Curitiba\nProfissional que eleva o padrão técnico do time\n💬 Se você é Senior de verdade, domina React com profundidade e quer atuar em projeto internacional recebendo em dólar, essa é uma oportunidade estratégica.\nMeu LinkedIn\nSENIOR FRONT-END ENGINEER | REACT",
+      "excerpt": "🎨 SENIOR FRONT-END ENGINEER | REACT 📍 Curitiba (exclusivo para residentes) 💵 Pagamento em dólar 🌎 Projeto internacional | Inglês avançado obrigatório Estamos buscando um(a) Senior Front-End Engineer que não apenas...",
+      "issueState": "open",
+      "contentHash": "daa616fea29662e303e993bc8d333a1531324177222f6a4557685e364f4b68b1",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "react",
+        "typescript",
+        "senior"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "createdAt": "2026-02-14T08:08:49Z",
+      "updatedAt": "2026-04-26T14:31:57Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8442",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_cbbd9c70b7250bcddbcaf3be",
       "sourceId": "awesome-jobs/vietnam#4892",
@@ -707,44 +742,6 @@
       "createdAt": "2026-01-19T17:26:42Z",
       "updatedAt": "2026-01-19T17:26:42Z",
       "url": "https://github.com/pythonjobs/jobs/issues/442",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8d3d4b455493191722317dda",
-      "sourceId": "pythonjobs/jobs#441",
-      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
-      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
-      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
-      "issueState": "open",
-      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
-      "repository": "pythonjobs/jobs",
-      "repositoryUrl": "https://github.com/pythonjobs/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "hybrid",
-        "frontend",
-        "react",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "sandra614",
-        "name": "sandra614",
-        "handle": "sandra614",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
-      },
-      "community": {
-        "id": "pythonjobs",
-        "name": "pythonjobs",
-        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
-        "repository": "pythonjobs/jobs",
-        "url": "https://github.com/pythonjobs/jobs"
-      },
-      "createdAt": "2026-01-19T17:25:09Z",
-      "updatedAt": "2026-01-19T17:25:09Z",
-      "url": "https://github.com/pythonjobs/jobs/issues/441",
       "sourceType": "github-issue"
     }
   ]

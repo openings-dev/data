@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-09T13:00:04.372Z",
+  "generatedAt": "2026-05-11T19:30:34.517Z",
   "page": 18,
   "pageSize": 20,
   "nextPage": "api/pages/page-0019.json",
   "ids": [
+    "gh_1401ffa8e9444186cd443217",
     "gh_b2ddfc0dac455051f7864129",
     "gh_73a0a20ce7e6291123435689",
     "gh_444ccdb58e72ce0bddf53a22",
@@ -22,10 +23,44 @@
     "gh_5145b0058c86e61c86bb13f5",
     "gh_1ab5a300f4da0aa3b3a7d605",
     "gh_aed2ab6ef20672bd74f7e022",
-    "gh_878c818f3bab42b66032d2c9",
-    "gh_f359da55434e48270efd807c"
+    "gh_878c818f3bab42b66032d2c9"
   ],
   "items": [
+    {
+      "id": "gh_1401ffa8e9444186cd443217",
+      "sourceId": "nerdzao/vagas#180",
+      "title": "[REMOTA] Full Stack JAVA Developer Sênior na @200DEV",
+      "description": "Sobre a empresa\n\nSe você busca desafios e deseja fazer parte de projetos inovadores em empresas que estão revolucionando o uso da tecnologia, este é o lugar certo para você embarcar em uma jornada com alcance ilimitado!\n\nA 200DEV é uma consultoria de TI especializada em Inovação e Transformação Digital impulsionada pelos maiores fabricantes de tecnologia e desenvolvida por profissionais com foco no sucesso!\n\nQuer fazer parte do time?\nVem com a gente desenvolver o sucesso global!\n\nDescrição da vaga:\n\nJava Backend Springboot + Microsserviços - Familiaridade com métodos ágeis de desenvolvimento;\n\nLocal\nRemoto\n\nBenefícios\nSalário competitivo\nCLT\n\nPor favor envie um email para [juliana.cunha@200dev.com](mailto:juliana.cunha@200dev.com) com seu CV anexado - enviar no assunto: JAVA FULLSTACK\n\nOportunidades de desenvolvimento profissional na área financeira\nAmbiente colaborativo e inovador de trabalho remoto\n\nRequisitos\nJava Backend Springboot + Microsserviços - Familiaridade com métodos ágeis de desenvolvimento;\nExperiência com desenvolvimento Java 8+ e Framework Spring Boot;\nExperiência com arquitetura de microsserviços\nExperiência com versionamento de código (Git, RTC, SVN, etc);\nExperiência com integração de APIs RESTful;\nConhecimentos em Banco de Dados;\nExperiência com TDD, testes unitários / integração contínua;\nFila e Mensageria - Experiência em Bancos\nConhecimento em GCP - Cloud Google Plataform;\nFramework Apache Camel;\nElasticSearch",
+      "excerpt": "Sobre a empresa Se você busca desafios e deseja fazer parte de projetos inovadores em empresas que estão revolucionando o uso da tecnologia, este é o lugar certo para você embarcar em uma jornada com alcance ilimitado...",
+      "issueState": "open",
+      "contentHash": "cd4b5cb10f02225afd21ed03bf2bf5b3d681181b2e69a13765602304ecf4a18e",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "fullstack",
+        "java"
+      ],
+      "author": {
+        "id": "JulyRHTECH",
+        "name": "JulyRHTECH",
+        "handle": "JulyRHTECH",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/166169790?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2024-08-20T20:00:55Z",
+      "updatedAt": "2024-08-20T20:00:55Z",
+      "url": "https://github.com/nerdzao/vagas/issues/180",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b2ddfc0dac455051f7864129",
       "sourceId": "nodejs-tw/jobs#265",
@@ -717,41 +752,6 @@
       "createdAt": "2024-07-08T16:19:47Z",
       "updatedAt": "2024-08-08T17:27:47Z",
       "url": "https://github.com/developersRJ/vagas/issues/512",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f359da55434e48270efd807c",
-      "sourceId": "seujobtech/vagas#419",
-      "title": "[Remoto] Pessoa Engenheira de Software Backend Sênior - Ruby on Rails/Node - RD Station",
-      "description": "## Nossa empresa\nSomos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais de 40 países. Como alcançamos tudo isso? Através do nosso [A-team](https://bit.ly/3ZUPopc), composto por mais de 1.500 pessoas colaboradoras em nosso grupo, capaz de oferecer soluções, produtos, e educar o mercado, impactando o ecossistema e empoderando heróis e heroínas que fazem a economia crescer.\n\n\n ## Descrição da vaga\nA partir da nossa visão sistêmica nos conectamos com pessoas, times e clientes facilitando o uso das ferramentas de forma integrada para pequenas e médias empresas, porque queremos democratizar e potencializar o processo de vendas e marketing, revolucionando a experiência multiproduto.\n\nVocê estará no time de Engenharia do produto RD Station Conversas responsável pela evolução do chatbot, implementando Inteligência Artificial dentro do produto RD Conversas.\nVocê contará com o apoio de pessoas na posição de Team Leader, Product Manager, Designer e Fullstack Developers, além de toda a galera dos chapters, guildas e tribos pra te ajudar a tracionar suas entregas como Senior Software Engineer.\n\n## Local\nRemoto\n\n## Requisitos\n\n- Experiência com desenvolvimento backend, na linguagem Ruby on Rails e/ou Node;\n- Experiência com testes, como TDD;\n- Experiência com serviços de mensageria (Kafka, RabbitMQ);\n- Experiência sólida na construção de arquiteturas sustentáveis e escaláveis;\n- Estar habituado com Operação (incidentes e bugs);\n- Experiência com ferramentas de observabilidade, como Datadog e Grafana;\n- Vivência com boas práticas de desenvolvimento, como Clean Architectures e entre outras.\n\n**Características que somam pontos…**\n\nExperiência com Golang, Rspec, NoSQL, APIs, Criação de Libs;\nExperiência com metodologias ágeis de entrega, Scrum ou Kanban;\nExperiência com integração de banco de dados como Postgree, Elastic Search;\nSer (ou querer se tornar) uma pessoa ativa na comunidade, que compartilha conhecimento dentro e fora da empresa através de eventos, artigos, mentorias, iniciativas voluntárias, projetos open source, etc.\n\n## Benefícios\nLink dos nossos benefícios [aqui](https://talent.rdstation-tm.com/beneficios-rdstation).\n\n## Contratação\nCLT\n\n#### Nível\n- Sênior\n\n## Como se candidatar\nPara se candidatar é só clicar [aqui](https://grnh.se/fe8f13802us).",
-      "excerpt": "## Nossa empresa Somos a [RD Station](https://bit.ly/3RyakzX), líder em soluções de tecnologia no Brasil. Nossa plataforma de automação de marketing e vendas é líder no Brasil e soma mais de 50.000 clientes, em mais d...",
-      "issueState": "open",
-      "contentHash": "3ef2a0d72e462fa405c6df0bd9fe4f05e0227bc3e10858778099f0bb0adb1162",
-      "repository": "seujobtech/vagas",
-      "repositoryUrl": "https://github.com/seujobtech/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "especialista",
-        "remoto"
-      ],
-      "author": {
-        "id": "SheilaMiqueli",
-        "name": "SheilaMiqueli",
-        "handle": "SheilaMiqueli",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/175030286?v=4"
-      },
-      "community": {
-        "id": "seujobtech",
-        "name": "seujobtech",
-        "avatarUrl": "https://github.com/seujobtech.png?size=80",
-        "repository": "seujobtech/vagas",
-        "url": "https://github.com/seujobtech/vagas"
-      },
-      "createdAt": "2024-07-08T16:17:53Z",
-      "updatedAt": "2024-08-08T17:26:57Z",
-      "url": "https://github.com/seujobtech/vagas/issues/419",
       "sourceType": "github-issue"
     }
   ]

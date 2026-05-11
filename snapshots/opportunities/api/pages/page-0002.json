@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-11T15:18:56.186Z",
+  "generatedAt": "2026-05-11T19:30:34.517Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_8cf64c1923e1f0333fce888c",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_c2842e7382b7b6bf1db541df",
     "gh_ac5c3adefbec0251a86525c4",
@@ -22,10 +23,45 @@
     "gh_18aeb84c7b8ace6d5be56e77",
     "gh_4a3287b63e4b9420bebc557e",
     "gh_e927f7a3d5012b5647329bd0",
-    "gh_57ed728934c67b37c0bed798",
-    "gh_615cd5b5c01016e20e631b0c"
+    "gh_57ed728934c67b37c0bed798"
   ],
   "items": [
+    {
+      "id": "gh_8cf64c1923e1f0333fce888c",
+      "sourceId": "qa-brasil/vagas#1254",
+      "title": "[REMOTO] QA Junior na Port Louis",
+      "description": "## Descrição da vaga\n\n    • Documentação, criação e expansão de casos de teste (end-to-end e integração).\n    • Geração de massa de dados para testes.\n    • Documentação e report de bugs encontrados durante os testes.\n    • Validação de correções.\n    • Validação de cards dos squads para entrada em produção.\n    • Gerenciar ambientes de Alpha e Beta.\n    • Criar e dar manutenção nos pipelines de deploy.\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\n    • Conhecimento em JavaScript e TypeScript.\n    • Experiência com Jest e Cypress.\n    • Conhecimento básico em banco de dados para consultas (SQL e PostgreSQL).\n    • Familiaridade com os diferentes tipos de testes de software.\n    • Compreensão de metodologias ágeis (Scrum) e do papel do QA nesse contexto.\n    • Excelente comunicação e habilidade para interagir com equipes de desenvolvimento.\n    • Proatividade, organização e alta capacidade de aprendizado.\n    • Dinamismo e adaptabilidade.\n\n**Diferenciais**\n- Experiência com K6\n- Projetos open source\n- Conhecimento em docker\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- Plano de saúde Sul América\n- Seguro de vida\n- VA\n\n## Sobre a empresa\n\nNa Port Louis, valorizamos a contratação de desenvolvedores juniores em sua primeira oportunidade, visando seu crescimento em conjunto conosco e seu contínuo desenvolvimento profissional.\n\nOperamos com projetos ágeis, constituídos por squads de 5 a 9 membros, utilizando a metodologia Scrum. Realizamos sprints, com rituais de planning, dailies, review e revisão de roadmap.\n\n        ◦ Tecnologia de ponta para automação de processos (modelo SaaS);\n        ◦ Produto inovador de auditorias jurídicas com portfolio robusto de clientes;\n        ◦ Tecnologia comprovada;\n        ◦ Excelência técnica: obsessão por qualidade + senioridade;\n        ◦ Foco em longo prazo e comprometimento com resultados.\n\nNossa missão: \nAlavancar a tecnologia para que as pessoas realizem trabalhos com alto valor cognitivo.\n\n## Como se candidatar\n\n- Por favor envie um email para recrutamento@portlouis.inf.br com seu CV anexado - Enviar no assunto: Vaga QA\n\n## Labels\n- CLT\n- Júnior\n- Remoto",
+      "excerpt": "## Descrição da vaga • Documentação, criação e expansão de casos de teste (end-to-end e integração). • Geração de massa de dados para testes. • Documentação e report de bugs encontrados durante os testes. • Validação ...",
+      "issueState": "open",
+      "contentHash": "86c546cdab056a1fdf03b8dd24ab2b1f6ffa2f8ce42ec2d467ee79f80331945f",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto",
+        "júnior"
+      ],
+      "author": {
+        "id": "andregodeiro",
+        "name": "andregodeiro",
+        "handle": "andregodeiro",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108381369?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Plano de saúde Sul América",
+      "createdAt": "2026-05-04T11:34:40Z",
+      "updatedAt": "2026-05-05T01:26:31Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1254",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d56bae7c6952a6aa314fa3f2",
       "sourceId": "negarprh/Canadian-Tech-Internships-2026#243",
@@ -752,37 +788,6 @@
       "createdAt": "2026-04-22T17:49:17Z",
       "updatedAt": "2026-04-24T19:07:27Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1250",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_615cd5b5c01016e20e631b0c",
-      "sourceId": "timqian/open-source-jobs#173",
-      "title": "Feature: Add Email Alert for Recent Update",
-      "description": "When there is a new update (recent job commit), alert a subscribed user via email.",
-      "excerpt": "When there is a new update (recent job commit), alert a subscribed user via email.",
-      "issueState": "open",
-      "contentHash": "a8ef46de2f893b78eb34cc3076865df60ce7da46346945d3f344be7848c5c7eb",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "iamkalio",
-        "name": "iamkalio",
-        "handle": "iamkalio",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/89003403?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2026-04-21T10:30:11Z",
-      "updatedAt": "2026-04-21T10:30:30Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/173",
       "sourceType": "github-issue"
     }
   ]
