@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-12T17:04:55.312Z",
+  "generatedAt": "2026-05-12T19:31:32.273Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_79a315ed40808c87b46f41d5",
     "gh_c9758d48b55ce23edf7ef085",
     "gh_f515acf2658e33ad15f81d1b",
     "gh_3180852b6881f4eb47502eb8",
@@ -22,10 +23,42 @@
     "gh_35788f44eaf100a0645b1750",
     "gh_0288f14e04d058580cc30e17",
     "gh_e13bb358bf081385545e2be0",
-    "gh_c58b091791207460283796e3",
-    "gh_08c2b289f0b0fbaf5bd9f142"
+    "gh_c58b091791207460283796e3"
   ],
   "items": [
+    {
+      "id": "gh_79a315ed40808c87b46f41d5",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2895",
+      "title": "New Role",
+      "description": "### Link to Job Posting\n\nhttps://ralliant.eightfold.ai/careers/job/1133912499916?domain=ralliant.com&utm_source=linkedin&utm_medium=jobboard\n\n### Company Name\n\nTektronix\n\n### Job Title\n\nSoftware Security Engineer (Entry-Level)\n\n### Location\n\nBeaverton, OR\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nDoes Not Offer Sponsorship\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\naudrey967@comcast.net\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Job Posting https://ralliant.eightfold.ai/careers/job/1133912499916?domain=ralliant.com&utm_source=linkedin&utm_medium=jobboard ### Company Name Tektronix ### Job Title Software Security Engineer (Entry-Le...",
+      "issueState": "open",
+      "contentHash": "5bb43a23cf2ad758275b5a5ed686f20de5f51abbee60f46d123ace9b0bd41d01",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "audreyau",
+        "name": "audreyau",
+        "handle": "audreyau",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52758047?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-05-12T18:01:29Z",
+      "updatedAt": "2026-05-12T18:01:29Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2895",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c9758d48b55ce23edf7ef085",
       "sourceId": "frontendbr/vagas#8477",
@@ -94,7 +127,7 @@
       },
       "companyName": "Sysprem Tecnologia",
       "createdAt": "2026-05-11T17:28:24Z",
-      "updatedAt": "2026-05-12T13:56:53Z",
+      "updatedAt": "2026-05-12T18:46:13Z",
       "url": "https://github.com/frontendbr/vagas/issues/8476",
       "sourceType": "github-issue"
     },
@@ -710,37 +743,6 @@
       "createdAt": "2026-05-06T13:56:09Z",
       "updatedAt": "2026-05-06T13:56:35Z",
       "url": "https://github.com/backend-br/vagas/issues/12230",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_08c2b289f0b0fbaf5bd9f142",
-      "sourceId": "cncf/gitjobs#383",
-      "title": "Ability to manually assign jobs to a foundation/project after submission",
-      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
-      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
-      "issueState": "open",
-      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
-      "repository": "cncf/gitjobs",
-      "repositoryUrl": "https://github.com/cncf/gitjobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "iamweswilson",
-        "name": "iamweswilson",
-        "handle": "iamweswilson",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
-      },
-      "community": {
-        "id": "cncf",
-        "name": "cncf",
-        "avatarUrl": "https://github.com/cncf.png?size=80",
-        "repository": "cncf/gitjobs",
-        "url": "https://github.com/cncf/gitjobs"
-      },
-      "createdAt": "2026-05-05T18:56:03Z",
-      "updatedAt": "2026-05-06T15:39:22Z",
-      "url": "https://github.com/cncf/gitjobs/issues/383",
       "sourceType": "github-issue"
     }
   ]
