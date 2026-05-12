@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-05-11T19:30:34.517Z",
+  "generatedAt": "2026-05-12T06:00:56.626Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
-    "gh_8d3d4b455493191722317dda",
-    "gh_9b5d9fbb31d726e63b2d6852",
-    "gh_777d6953c094c4c77cffa586",
     "gh_1ab454dc5165fc4144b1968a",
     "gh_2dda52493191f3b9d796a75a",
     "gh_8ac6e6406bab29dc70c10f65",
@@ -23,121 +20,12 @@
     "gh_56647ce0f055e747d42f4222",
     "gh_f1495b68fe7d4f8349ceb1b6",
     "gh_bf09c7d748b34bd02d2443a5",
-    "gh_90da04043225a0b75c5b63f5"
+    "gh_90da04043225a0b75c5b63f5",
+    "gh_7895541ae68ea62e3538ba5f",
+    "gh_4a966f0411391356b026c1e4",
+    "gh_8db85587dee791f9b3c4b60d"
   ],
   "items": [
-    {
-      "id": "gh_8d3d4b455493191722317dda",
-      "sourceId": "pythonjobs/jobs#441",
-      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
-      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
-      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
-      "issueState": "open",
-      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
-      "repository": "pythonjobs/jobs",
-      "repositoryUrl": "https://github.com/pythonjobs/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "hybrid",
-        "frontend",
-        "react",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "sandra614",
-        "name": "sandra614",
-        "handle": "sandra614",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
-      },
-      "community": {
-        "id": "pythonjobs",
-        "name": "pythonjobs",
-        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
-        "repository": "pythonjobs/jobs",
-        "url": "https://github.com/pythonjobs/jobs"
-      },
-      "createdAt": "2026-01-19T17:25:09Z",
-      "updatedAt": "2026-01-19T17:25:09Z",
-      "url": "https://github.com/pythonjobs/jobs/issues/441",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9b5d9fbb31d726e63b2d6852",
-      "sourceId": "qa-brasil/vagas#1241",
-      "title": "[Remote] QA Jr. na Devvo Tecnologia",
-      "description": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de oportunidades de crescimento, sua busca termina aqui! Sediados em Brasília, nossa missão é impulsionar a sociedade por meio de soluções de ponta, conduzindo a transformação digital de empresas de todos os portes.**\n\n\n**Descrição da Vaga:**\nJunte-se a nós e colabore ativamente no fortalecimento e aprimoramento da nossa equipe de tecnologia. Você terá a oportunidade de participar do desenvolvimento e manutenção de soluções de software de alto desempenho, trabalhando lado a lado com equipes multidisciplinares que garantem a excelência na execução e entrega de projetos ambiciosos.\n\n\n**Responsabilidades:**\nAuxílio na realização de testes de qualidade para assegurar a boa performance dos sistemas;\nHabilidade em identificar e reportar bugs de forma clara e precisa;\nContribuição no desenvolvimento de projetos web e mobile;\nColaboração na melhoria contínua dos processos internos de gestão e desenvolvimento de projetos.\n\n\n**Requisitos:**\nProficiência em metodologias ágeis;\nBoas habilidades de comunicação e trabalho em equipe;\nConhecimento básico de Javascript / Typescript;\nExperiência prévia como Analista de Qualidade em meio corporativo.\n\n\n**Diferenciais:**\nConhecimento básico de Javascript / Typescript;\nConhecimento em ferramentas de automação de testes, como Selenium, Cypress ou Playwright.\n\n**Junte-se a Nós:**\n\nSe você está pronto(a) para um desafio estimulante em um ambiente colaborativo e inovador, este é o momento! Venha fazer parte da nossa equipe dedicada e impulsione sua carreira conosco na Devvo Tecnologia.\n\n\n**Como se candidatar:**\n\nEnvie seu Currículo e LinkedIn atualizado para o e-mail contato@devvo.com.br \nPor favor, inclua no assunto do e-mail \"[Nome] - Analista de qualidade Jr.\". Aguardamos ansiosamente para conhecer você e discutir mais sobre essa oportunidade de trabalho.\n\n\nRegime do trabalho: 100% remoto.\nModelo de Contratação: PJ.",
-      "excerpt": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de...",
-      "issueState": "open",
-      "contentHash": "1f413c7e2291f3bd9c484274a1850e8f239e2714f0eb32385a81ed543216dc8a",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "brasília",
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "LucasCamposDevvo",
-        "name": "LucasCamposDevvo",
-        "handle": "LucasCamposDevvo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/191256669?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Devvo Tecnologia",
-      "createdAt": "2026-01-19T15:28:41Z",
-      "updatedAt": "2026-04-02T15:13:35Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1241",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_777d6953c094c4c77cffa586",
-      "sourceId": "f2etw/jobs#1165",
-      "title": "[徵才][台北][1.4M+] SWAG.live 徵求資深前端工程師 | Senior Frontend Engineer",
-      "description": "## 公司介紹 \nSWAG 創立於 2016 年 8 月，最初的產品構想，是要打造一個能串連網紅創作者及用戶的 PGC 流量變現的平台，讓粉絲可以無時無刻的與心儀的網紅互動、讓網紅可以透過人氣實現獲利。\n透過豐富多元的內容及強大的行銷推廣，目前平台有超過 400 萬註冊用戶及數千位內容提供者，用戶遍及臺灣、香港、澳門、新加坡、馬來西亞及歐美等，並獲得數十位 YouTuber 網紅大力推薦；成為亞洲最大的影音串流平台。\n官方在 2018 上半年開啟了 swag.live ，使用者可以透過網頁直接開啟 SWAG，並陸續加入了直播、一對一私訊聊天以及影片解鎖等新功能。\n如今 SWAG 定位為亞洲最大的影音串流社交平台，並且持續的拓展國際市場\n\n* 請至 [SWAG Careers](https://www.swag.careers/) 查看所有招募中的職缺\n* 喜歡 SWAG 的文化，卻若找不到合適的職缺嗎？歡迎來信 hr@swag.live 附上履歷，並告訴我們你也很適合 SWAG!\n\n## 薪資範圍\nNTD 1,400,000 – 1,800,000 per year\n\n## 工作內容\n1. 根據規格獨立開發新功能與除錯\n2. 跨部門協作及溝通 (PM, Design, Backend)\n3. 產品效能提升\n4. 內部程式碼審核\n\n## 必要條件\n1. Web: HTML, CSS, Javascript, React, Redux\n2. 以下技術任挑五項以上\n    * Server-side render: react-router v7, express server, NextJS App router\n    * Performance: critical rendering path, event loop, interaction to next paint (INP), intersection observer\n    * Persist: Cookie, LocalStorage, IndexedDB\n    * Cache: CDN cache, server side fetch cache, redis, cache-control header, service worker fetch cache\n    * WebApp: PWA, service worker, push notification, i18n\n    * SEO: og headers, canonical headers, ld+json, sitemap/robot.txt\n\n## 加分條件\n1. Others: webpack, socket.io, React Native, tween.js, PixiJS, Apple/Google/Samsung Pay, WebASM\n2. Players: video.js, DASH.js, shaka-player, bitmovin, ...\n3. CI/CD: GitHub action/workflow, Dockerfile, pm2\n4. 個性主動積極，樂於研究新知並分享\n5. 有帶過新手或領導小專案的經驗",
-      "excerpt": "## 公司介紹 SWAG 創立於 2016 年 8 月，最初的產品構想，是要打造一個能串連網紅創作者及用戶的 PGC 流量變現的平台，讓粉絲可以無時無刻的與心儀的網紅互動、讓網紅可以透過人氣實現獲利。 透過豐富多元的內容及強大的行銷推廣，目前平台有超過 400 萬註冊用戶及數千位內容提供者，用戶遍及臺灣、香港、澳門、新加坡、馬來西亞及歐美等，並獲得數十位 YouTuber 網紅大力推薦；成為亞洲最大的影音串流平台。 官方在 201...",
-      "issueState": "open",
-      "contentHash": "6e7a9b66848e35c5ee351e460e3e54186d6df2ced4cc0aa3029f267f8b5b9e09",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "缺休假資訊",
-        "求才",
-        "senior",
-        "年薪百萬",
-        "[f] react",
-        "缺特/彈休資訊"
-      ],
-      "author": {
-        "id": "bill42362",
-        "name": "bill42362",
-        "handle": "bill42362",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/2115695?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2026-01-15T06:48:02Z",
-      "updatedAt": "2026-01-15T12:54:45Z",
-      "url": "https://github.com/f2etw/jobs/issues/1165",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_1ab454dc5165fc4144b1968a",
       "sourceId": "programadores-br/geral#3052",
@@ -768,6 +656,111 @@
       "createdAt": "2025-12-20T08:51:33Z",
       "updatedAt": "2025-12-20T10:19:07Z",
       "url": "https://github.com/f2etw/jobs/issues/1163",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7895541ae68ea62e3538ba5f",
+      "sourceId": "datascience-br/vagas#155",
+      "title": "Cientista de Dados - Remoto",
+      "description": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto confiam suas necessidades de TI à Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na seguinte vaga: Cientista de Dados - Remoto.\n\n\n\nO que oferecemos a você:\n- Assistência médica sem desconto para titulares;\n- Assistência odontológica sem desconto para titulares;\n- Cartão flex tanto para alimentação quanto refeição;\n- Auxílio home office para vaga remota;\n- Vale transporte para posições presenciais ou híbridas;\n- Auxílio creche;\n- Seguro de vida;\n- Desconto em terapia: plataforma de apoio psicossocial;\n- Parceria com instituições de ensino;\n- Parceria com escolas de idiomas;\n- Programa de subsídio para aulas de inglês;\n- Programa de indicações: prêmio para indicações bem-sucedidas;\n- Licença maternidade estendida de 180 dias e a licença paternidade de 20 dias;\n- Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, LinkedIn Learning e Udemy, que possui mais de 80.000 cursos disponíveis;\n- GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, trabalhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics!\n\n\nO que esperar desta posição:\n\nProjeto de desenvolvimento e melhorias em sistemas bancários.\n\n\nO que esperamos de você:\n\nConhecimentos:\n\nProgramação;\nTratamento de Dados.\nLinguagens:\n\nPython;\nPySpark;\nSQL.\nFerramentas:\n\nBig Data:\n\nHUE;\nHive;\nSpark (SparkML);\nNIFI.\nBanco de Dados:\n\nDB2;\nMySQL;\nOracle;\nDbeaver (Ferramenta de Consulta).\nModelagem de Dados (Erwin)\nVersionamento de código (Git)\nDashboards:\n\nSpotfire;\nPower BI.\nCiência de Dados\n\nManipulação de Dados;\nVisualização de Dados;\nEstatística;\nModelagem Preditiva;\nInteligência Artificial\nIA Generativa\nMachine Learning.\n\n\nO que fazer em seguida:\n\nCaso você seja a pessoa que estamos procurando, aguarde nosso contato para te conhecermos melhor e siga as instruções durante o processo seletivo.Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail recrutamento@getronics.com.",
+      "excerpt": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendime...",
+      "issueState": "open",
+      "contentHash": "eee6e40f0735f41aad5928f7243598417b9571db1d87b3e93ac6d4bcdbadba00",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "data"
+      ],
+      "author": {
+        "id": "bellaharashi",
+        "name": "bellaharashi",
+        "handle": "bellaharashi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/176301649?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2025-12-10T17:26:51Z",
+      "updatedAt": "2025-12-26T20:51:18Z",
+      "url": "https://github.com/datascience-br/vagas/issues/155",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4a966f0411391356b026c1e4",
+      "sourceId": "datascience-br/vagas#154",
+      "title": "Engenheiro de Dados - Remoto",
+      "description": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto confiam suas necessidades de TI à Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na seguinte vaga: Engenheiro de Dados - Remoto.\n\n\n\nO que oferecemos a você:\n\n- Assistência médica sem desconto para titulares\n- Assistência odontológica sem desconto para titulares\n- Cartão flex tanto para alimentação quanto refeição\n- Auxílio home office para vaga remota\n- Vale transporte para posições presenciais ou híbridas\n- Auxílio creche\n- Seguro de vida\n- Parceria com instituições de ensino\n- Parceria com escolas de idiomas\n- Programa de subsídio para aulas de inglês\n- Programa de indicações: prêmio para indicações bem-sucedidas\n- Licença maternidade estendida de 180 dias e a licença paternidade de 20 dias\n- Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, LinkedIn Learning e Udemy, que possui mais de 80.000 cursos disponíveis\n- GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, trabalhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics!\n\n\nO que esperar desta posição:\n\nProjeto de desenvolvimento e melhorias em sistemas bancários.\n\n\nO que esperamos de você:\n\nConhecimentos:\n\n• Programação;\n• Tratamento de Dados.\nLinguagens:\n\n• Python;\n• PySpark;\n• SQL.\nFerramentas:\n\nBig Data:\n\n• HUE;\n• Hive;\n• Spark (SparkML);\n• NIFI.\nBanco de Dados:\n\n• DB2;\n• MySQL;\n• Oracle;\n• Dbeaver (Ferramenta de Consulta).\n• Modelagem de Dados (Erwin)\n• Versionamento de código (Git)\n\n\nO que fazer em seguida:\n\nCaso você seja a pessoa que estamos procurando, aguarde nosso contato para te conhecermos melhor e siga as instruções durante o processo seletivo. Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail recrutamento@getronics.com.\n\n\n\n\n\n\n- Alocado\n- Remoto\n- CLT\n- Pleno",
+      "excerpt": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendime...",
+      "issueState": "open",
+      "contentHash": "46474c9f59607b16a4b75550426349bb7f948fcc7ed4a9533fac57fc2ae61793",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "bellaharashi",
+        "name": "bellaharashi",
+        "handle": "bellaharashi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/176301649?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2025-12-10T17:25:40Z",
+      "updatedAt": "2025-12-10T17:25:40Z",
+      "url": "https://github.com/datascience-br/vagas/issues/154",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8db85587dee791f9b3c4b60d",
+      "sourceId": "frontendbr/vagas#8410",
+      "title": "[Remote] Full  Stack  AI Engineer | React/Node.js | AWS Serverless & AI Focus@ beyond AI",
+      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\nBeyond AI\n “Exciting opportunity to work remotely with a Brazilian company on an international project, startup, impactful AI solutions.”  \n\n\n## Descrição da vaga\n**Full Stack Engineer | React/Node.js | AWS Serverless & AI Focus**\n\nWe are a fast-growing, AI-driven tech startup dedicated to building innovative solutions that impact millions of users. We are seeking a highly skilled and motivated Full Stack Engineer to join our remote, international team. You will be responsible for designing, developing, and deploying scalable, high-performance applications using modern JavaScript stacks and cutting-edge AWS Serverless architecture.\n\n## Local\n\nRemote\n\n## Requisitos\n\n**Obrigatórios:**\n\n- Experience: Minimum 3+ years of professional experience in Full Stack  Development.\n\n- AWS & Serverless: Mandatory hands-on experience with AWS (e.g., S3, DynamoDB, CloudFront) and significant, proven experience deploying and managing production applications using AWS Lambda.\n\n- AI Development Experience: Mandatory practical experience in the development cycle of AI/ML features. This includes integrating and consuming Machine Learning models or AI services (e.g., LLMs, Computer Vision) into production applications, and handling related data pipelines.\n\n**- Stack: Strong proficiency in Node.js (Backend) and React (Frontend).** \n\n- Language: Advanced/Fluent English (written and verbal) is required for daily collaboration with international teams.\n- \n- Methodology: Solid understanding of software architecture principles, testing (Jest/Cypress), and CI/CD pipelines.\n- \n- Startup environment\n\n\n**Desejáveis:**\nExperience with Next.js is a plus.\n\n\n\n\n## Benefícios\n\n_Remote\n-Earn in USD \nRange - 3k - 5k USD $\n\n\n\n## Contratação\n\nFull Contract \n\n## Como se candidatar\n\nReady to build the future with Serverless and AI in a fast-paced environment?\n\nemail to : adri@reachbeyond.ai\n\n\n## Labels\n\n#### Alocação\n\n- Remote\n\n\n#### Regime\n\n- Contractor\n\n#### Nível\n\n- Mid level\n- Senior level",
+      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
+      "issueState": "open",
+      "contentHash": "07a900980533afcc28beaab98ff7cadce014607cbcfb6e6c9da55765cc3d26e6",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "Adrianabeyond",
+        "name": "Adrianabeyond",
+        "handle": "Adrianabeyond",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/231765253?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "createdAt": "2025-12-08T18:16:19Z",
+      "updatedAt": "2026-05-04T15:05:49Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8410",
       "sourceType": "github-issue"
     }
   ]

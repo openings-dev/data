@@ -1,43 +1,6 @@
 {
-  "generatedAt": "2026-05-05T10:30:03.855Z",
+  "generatedAt": "2026-05-12T06:00:56.626Z",
   "items": {
-    "gh_f17fc53f656060f5cdee06f5": {
-      "id": "gh_f17fc53f656060f5cdee06f5",
-      "sourceId": "ambicuity/New-Grad-Jobs#258",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T15:15:57Z` |\n| Stale for | 101 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T15:15:57Z` | | Stale for | 10...",
-      "issueState": "open",
-      "contentHash": "9be6a7e684361ad51da0901eef4a16af1c3b55e989e9d8c024ac79ad5872bd70",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "status: in-progress",
-        "stale",
-        "priority: critical",
-        "automation"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-27T16:57:21Z",
-      "updatedAt": "2026-04-27T16:57:34Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/258",
-      "sourceType": "github-issue"
-    },
     "gh_f1495b68fe7d4f8349ceb1b6": {
       "id": "gh_f1495b68fe7d4f8349ceb1b6",
       "sourceId": "didtheyghostme/Singapore-Summer2026-TechInternships#1",

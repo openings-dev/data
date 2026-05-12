@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-08T19:08:06.105Z",
+  "generatedAt": "2026-05-12T06:00:56.626Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 17,
-    "openIssues": 8,
-    "closedIssues": 9
+    "opportunities": 16,
+    "openIssues": 5,
+    "closedIssues": 11
   },
-  "dataHash": "e4cc69e95ab3bc2fdf3a49b852e2c5721e900182f29f67c9b89883e258ce4a48",
+  "dataHash": "f607eb6ed4f31e2017f63c1a20aba47e0d4d502b9a3ac66fafbd928abef88f02",
   "items": [
     {
       "id": "gh_97960f30e27ec6a9c51a8615",
@@ -17,7 +17,7 @@
       "title": "🚨 Board is stale — scraper may have stopped",
       "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T18:17:01Z` |\n| Stale for | 92 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
       "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T18:17:01Z` | | Stale for | 92 ...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "1789146490cfdb05b30001f98d198735d5384db965ce169b2d35a6d0af0e8a7f",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -43,7 +43,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-04-27T19:49:47Z",
-      "updatedAt": "2026-04-27T19:49:57Z",
+      "updatedAt": "2026-05-12T05:41:36Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/260",
       "sourceType": "github-issue"
     },
@@ -53,7 +53,7 @@
       "title": "🚨 Board is stale — scraper may have stopped",
       "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **63 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T17:02:04Z` |\n| Stale for | 63 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
       "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **63 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T17:02:04Z` | | Stale for | 63 ...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "b351fc2689d1a23bd210e18a34a8b0788520da1667d2bc4b466e128ff7b06dfe",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -80,7 +80,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-04-27T18:05:28Z",
-      "updatedAt": "2026-04-27T18:05:41Z",
+      "updatedAt": "2026-05-12T05:41:37Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/259",
       "sourceType": "github-issue"
     },
@@ -90,7 +90,7 @@
       "title": "🚨 Board is stale — scraper may have stopped",
       "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T15:15:57Z` |\n| Stale for | 101 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
       "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T15:15:57Z` | | Stale for | 10...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "9be6a7e684361ad51da0901eef4a16af1c3b55e989e9d8c024ac79ad5872bd70",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -117,7 +117,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-04-27T16:57:21Z",
-      "updatedAt": "2026-04-27T16:57:34Z",
+      "updatedAt": "2026-05-12T05:41:39Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/258",
       "sourceType": "github-issue"
     },
@@ -305,43 +305,6 @@
       "createdAt": "2026-03-18T02:39:20Z",
       "updatedAt": "2026-04-21T04:51:23Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/206",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_adc310b3979abbcfb550fb43",
-      "sourceId": "ambicuity/New-Grad-Jobs#170",
-      "title": "[Intermediate]: filter out non-engineering 'network' roles that leak into the board",
-      "description": "### 🧩 Intermediate Contributors\nThis issue is intended for contributors who already have experience with this repository\nand the contribution workflow.\n\nYou should feel comfortable:\n- Navigating `scripts/update_jobs.py`, `config.yml`, and `tests/`\n- Understanding how `filter_jobs()`, `deduplicate_jobs()`, and `categorize_job()` work\n- Following existing patterns without step-by-step guidance\n- Writing non-trivial pytest tests with mocking\n\n> [!IMPORTANT]\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 🐞 Problem Description\nThe project aims to surface entry-level software, infrastructure, and networking roles, but the current filter configuration is broad enough that some non-engineering \"network\" jobs leak into the dataset.\n\nExamples already present in `docs/jobs.json` include titles like:\n\n- `Provider Network Associate`\n- `Associate, Network Contracting`\n\nThese are valid jobs, but they are not aligned with the repository's core mission of curating quality new grad software/infrastructure roles. They create clutter in the same track that should contain roles like `Network Engineer`, `Network Security Engineer`, and `Systems Engineer, Networks`.\n\nThis likely comes from the interaction between:\n\n- broad `new_grad_signals` like `associate`\n- broad `track_signals` like `network`\n- permissive filtering in `filter_jobs()`\n\n### 💡 Expected Solution\nTighten the filter logic so non-engineering healthcare/provider-contracting \"network\" titles are excluded without losing legitimate networking/infrastructure roles.\n\nThe solution should:\n\n- preserve real engineering titles such as `Network Engineer` and `Network Security Engineer`\n- avoid hard-coding company-specific exclusions if a title- or pattern-based rule is sufficient\n- keep the overall job schema unchanged\n\n### ✅ Acceptance Criteria\n- [ ] False positives like `Provider Network Associate` no longer pass the filter\n- [ ] Legitimate engineering/networking titles still pass the filter\n- [ ] Edge cases handled: None, NaN, empty string, Unicode, malformed data\n- [ ] All existing `pytest tests/` pass\n- [ ] New tests added for changed logic (deterministic — no live network calls)\n- [ ] `pre-commit run --all-files` passes\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🤖 Core scraper (scripts/update_jobs.py)\n\n### 🔗 Additional Context\n- Relevant functions: `filter_jobs()`, `has_new_grad_signal()`, `has_track_signal()`\n- Evidence is visible in the generated dataset under `docs/jobs.json`",
-      "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
-      "issueState": "closed",
-      "contentHash": "89d0a3f6739dc7a0ea691aa5ccc8f1abd79007086824762358c97bd3d714af21",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "needs-triage",
-        "status: in-progress",
-        "intermediate",
-        "awaiting-response"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-14T05:28:09Z",
-      "updatedAt": "2026-04-10T19:45:20Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/170",
       "sourceType": "github-issue"
     },
     {

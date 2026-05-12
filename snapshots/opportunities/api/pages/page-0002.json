@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T19:30:34.517Z",
+  "generatedAt": "2026-05-12T06:00:56.626Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
@@ -10,9 +10,6 @@
     "gh_ac5c3adefbec0251a86525c4",
     "gh_3ed888e508136df7f21ed82d",
     "gh_a63db4b94c52f3a3ba8a14fa",
-    "gh_97960f30e27ec6a9c51a8615",
-    "gh_e7e4a4073f27383bf34c4bd8",
-    "gh_f17fc53f656060f5cdee06f5",
     "gh_7e07f369e29e2a6bacb6d970",
     "gh_96c7575eb031866b4b7e2c45",
     "gh_d3b6a4244c421b1da0dd8ed9",
@@ -23,7 +20,10 @@
     "gh_18aeb84c7b8ace6d5be56e77",
     "gh_4a3287b63e4b9420bebc557e",
     "gh_e927f7a3d5012b5647329bd0",
-    "gh_57ed728934c67b37c0bed798"
+    "gh_57ed728934c67b37c0bed798",
+    "gh_615cd5b5c01016e20e631b0c",
+    "gh_4f87440cb18d7065ec28f61e",
+    "gh_79546b5940192c13dad52334"
   ],
   "items": [
     {
@@ -249,116 +249,6 @@
       "createdAt": "2026-04-28T19:15:50Z",
       "updatedAt": "2026-04-28T19:16:12Z",
       "url": "https://github.com/soujava/vagas-java/issues/1879",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_97960f30e27ec6a9c51a8615",
-      "sourceId": "ambicuity/New-Grad-Jobs#260",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T18:17:01Z` |\n| Stale for | 92 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T18:17:01Z` | | Stale for | 92 ...",
-      "issueState": "open",
-      "contentHash": "1789146490cfdb05b30001f98d198735d5384db965ce169b2d35a6d0af0e8a7f",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "stale",
-        "priority: critical",
-        "automation"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-27T19:49:47Z",
-      "updatedAt": "2026-04-27T19:49:57Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/260",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e7e4a4073f27383bf34c4bd8",
-      "sourceId": "ambicuity/New-Grad-Jobs#259",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **63 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T17:02:04Z` |\n| Stale for | 63 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **63 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T17:02:04Z` | | Stale for | 63 ...",
-      "issueState": "open",
-      "contentHash": "b351fc2689d1a23bd210e18a34a8b0788520da1667d2bc4b466e128ff7b06dfe",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "status: in-progress",
-        "stale",
-        "priority: critical",
-        "automation"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-27T18:05:28Z",
-      "updatedAt": "2026-04-27T18:05:41Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/259",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f17fc53f656060f5cdee06f5",
-      "sourceId": "ambicuity/New-Grad-Jobs#258",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T15:15:57Z` |\n| Stale for | 101 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T15:15:57Z` | | Stale for | 10...",
-      "issueState": "open",
-      "contentHash": "9be6a7e684361ad51da0901eef4a16af1c3b55e989e9d8c024ac79ad5872bd70",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "status: in-progress",
-        "stale",
-        "priority: critical",
-        "automation"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-27T16:57:21Z",
-      "updatedAt": "2026-04-27T16:57:34Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/258",
       "sourceType": "github-issue"
     },
     {
@@ -788,6 +678,104 @@
       "createdAt": "2026-04-22T17:49:17Z",
       "updatedAt": "2026-04-24T19:07:27Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1250",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_615cd5b5c01016e20e631b0c",
+      "sourceId": "timqian/open-source-jobs#173",
+      "title": "Feature: Add Email Alert for Recent Update",
+      "description": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "excerpt": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "issueState": "open",
+      "contentHash": "a8ef46de2f893b78eb34cc3076865df60ce7da46346945d3f344be7848c5c7eb",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamkalio",
+        "name": "iamkalio",
+        "handle": "iamkalio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89003403?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-04-21T10:30:11Z",
+      "updatedAt": "2026-04-21T10:30:30Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/173",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4f87440cb18d7065ec28f61e",
+      "sourceId": "awesome-jobs/vietnam#4924",
+      "title": "[HN - Onsite] - Engineering Manager (Japanese/English)",
+      "description": "🚀 𝑯𝒊𝒓𝒊𝒏𝒈: 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 – 𝑯𝒂𝒏𝒐𝒊\n💰 Attractive salary + Performance Bonus\n\n𝑾𝒉𝒂𝒕 𝒚𝒐𝒖’𝒍𝒍 𝒅𝒐:\n▪️ Lead and grow a team of ~40 engineers to enhance a fast-scaling ERP product across Southeast Asia\n▪️Work closely with Japan HQ to bring in structured development practices and elevate team performance\n▪️Drive AI adoption across the SDLC to improve efficiency, quality, and overall engineering productivity\n\n𝑾𝒉𝒂𝒕 𝒘𝒆’𝒓𝒆 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓:\n🧩  Fluent in English & Japanese (key bridge between VN & Japan)\n🧩 10+ years in Software Engineering, including 5+ years in leadership\n🧩 Proven experience managing large engineering teams\n🧩 Experience with AI is a strong plus\n\n🌏 Open for both local candidates and expats\n\n📩 Contact: Zalo/WhatsApp 094 887 6587 | [jennifer@businessedge.asia](mailto:jennifer@businessedge.asia)\n💡 Feel free to share within your network — really appreciate it, thank you so so much!",
+      "excerpt": "🚀 𝑯𝒊𝒓𝒊𝒏𝒈: 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 – 𝑯𝒂𝒏𝒐𝒊 💰 Attractive salary + Performance Bonus 𝑾𝒉𝒂𝒕 𝒚𝒐𝒖’𝒍𝒍 𝒅𝒐: ▪️ Lead and grow a team of ~40 engineers to enhance a fast-scaling ERP product ac...",
+      "issueState": "open",
+      "contentHash": "d630865596e0b927ffe59576e68d04a82b0414ce5c4124493199fda4035e7598",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite"
+      ],
+      "author": {
+        "id": "JenniferTran-recruiter",
+        "name": "JenniferTran-recruiter",
+        "handle": "JenniferTran-recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/189077440?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-04-21T02:37:14Z",
+      "updatedAt": "2026-04-21T02:37:14Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4924",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_79546b5940192c13dad52334",
+      "sourceId": "datascience-br/vagas#160",
+      "title": "Curitiba/PR - Analista de Dados PL",
+      "description": "Oportunidade para Analista de Dados Pleno\n\nBuscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto.\n\nAtribuições:\nAtuar de forma consultiva junto às áreas de negócio, traduzindo dados em ações práticas;\nRealizar análises exploratórias e diagnósticas para apoiar a tomada de decisão;\nGerar insights estratégicos e construir storytelling;\nDesenvolver, manter e aprimorar dashboards e relatórios gerenciais;\nAssegurar a qualidade, integridade e confiabilidade das bases de dados;\nIdentificar padrões, tendências e oportunidades de melhoria a partir da análise de dados;\nDefinir, monitorar e analisar indicadores de desempenho (KPIs);\nEntre outros pertinentes a área.\n\nRequisitos técnicos:\nFormação superior pertinente a área;\nDomínio de SQL para extração e manipulação de dados;\nFerramentas de BI (Power BI, Tableau ou similares);\nExcel Avançado;\nCapacidade analítica e visão crítica na interpretação de dados;\nBoa comunicação para traduzir dados em insights para públicos não técnicos.\n\nDesejável:\nConhecimento em Python ou R para análise de dados;\nVivência com bancos de dados relacionais e modelagem de dados;\nExperiência com dados de marketing, CRM, CX ou financeiro;\nAtuação prévia em empresas do setor financeiro ou de serviços;\nConhecimento em governança, qualidade de dados e LGPD.\n\nContrato CLT + Benefícios!\nAtuação 4x Presencial e 1x HO\nAtuação no modelo híbrido em Curitiba/PR.\n\nEnvie seu CV com pretensão salarial para: daiane.fw3@gmail.com",
+      "excerpt": "Oportunidade para Analista de Dados Pleno Buscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto. Atribuições:...",
+      "issueState": "open",
+      "contentHash": "72b31c20ce6ddda3fe4d30f16a902beaabccc4f718c82f79cd5860c3291acc8d",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno"
+      ],
+      "author": {
+        "id": "DaianeMF",
+        "name": "DaianeMF",
+        "handle": "DaianeMF",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/277110536?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-04-17T19:53:07Z",
+      "updatedAt": "2026-04-17T19:53:07Z",
+      "url": "https://github.com/datascience-br/vagas/issues/160",
       "sourceType": "github-issue"
     }
   ]

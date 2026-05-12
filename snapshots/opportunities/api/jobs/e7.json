@@ -1,43 +1,6 @@
 {
-  "generatedAt": "2026-04-29T13:29:01.811Z",
+  "generatedAt": "2026-05-12T06:00:56.626Z",
   "items": {
-    "gh_e7e4a4073f27383bf34c4bd8": {
-      "id": "gh_e7e4a4073f27383bf34c4bd8",
-      "sourceId": "ambicuity/New-Grad-Jobs#259",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **63 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T17:02:04Z` |\n| Stale for | 63 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **63 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T17:02:04Z` | | Stale for | 63 ...",
-      "issueState": "open",
-      "contentHash": "b351fc2689d1a23bd210e18a34a8b0788520da1667d2bc4b466e128ff7b06dfe",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "status: in-progress",
-        "stale",
-        "priority: critical",
-        "automation"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-27T18:05:28Z",
-      "updatedAt": "2026-04-27T18:05:41Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/259",
-      "sourceType": "github-issue"
-    },
     "gh_e7615c199389762cfff7d82f": {
       "id": "gh_e7615c199389762cfff7d82f",
       "sourceId": "soujava/vagas-java#1848",
