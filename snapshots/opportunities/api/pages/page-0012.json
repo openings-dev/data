@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-14T16:58:04.348Z",
+  "generatedAt": "2026-05-14T19:30:41.970Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
   "ids": [
+    "gh_338622c06f4332345fe4f4ea",
     "gh_feb466ba4cbe4c6806ea058b",
     "gh_8c2d5d947c92f4c68c1ac6f2",
     "gh_2dd307ccb8f3ad7b24c5d38b",
@@ -22,10 +23,43 @@
     "gh_75bcd6157f3119d27594a657",
     "gh_64cfb91af959233fcc481c1b",
     "gh_07030bf16b39bedaabe36688",
-    "gh_4e154d4fc7ecc61336e35b06",
-    "gh_72963d5e4d80ff7c20fc14da"
+    "gh_4e154d4fc7ecc61336e35b06"
   ],
   "items": [
+    {
+      "id": "gh_338622c06f4332345fe4f4ea",
+      "sourceId": "golangtw/jobs#225",
+      "title": "[苗栗/竹南][月薪 90k 起] 群聯電子 雲原生平台工程師",
+      "description": "## 工作地點\n- 群聯電子竹南總部 (苗栗縣竹南鎮群義路1號)\n\n## 工作內容\n- 使用 Golang 開發 Kubernetes Operator 與高效能後端服務。\n- 開發多叢集管理平台，整合反向隧道、API 閘道與統一資源操作介面。\n- 基於 Kubernetes、Rook/Ceph 與 Istio 服務網格，建構雲原生基礎設施。\n- 設計與實作平台安全機制，包含 OIDC 身份驗證、mTLS 憑證管理、Kubernetes RBAC 與多租戶隔離。\n- 開發 LLM 模型服務基礎設施，透過 KServe 與 Gateway API Inference Extension 管理模型的打包、部署與推論生命週期。\n- 設計與實作 Kubernetes CRD 及 Controller，管理叢集、工作負載、租戶隔離與模型生命週期。\n- 使用 ConnectRPC / gRPC 設計跨叢集 API，搭配 Protobuf 定義服務介面。\n- 與前端（SvelteKit）、DevOps 及 QA 團隊合作，確保程式碼品質與安全性。\n- 參與技術研究，探索 AI 推論優化、Gateway API 與雲原生新技術。\n\n## 能力需求\n- Go 經驗：3 年以上 Go 開發經驗，熟悉 Goroutine 與 Channel。\n- Kubernetes：熟悉 Kubernetes 架構，具備 Operator / controller-runtime 開發經驗。\n- 開源貢獻：參與過 GitHub 開源專案，熟悉 Pull Request 與程式碼審查。\n- Linux 技能：精通 Linux 系統操作、Shell 腳本、系統監控與效能優化。\n- 容器化技術：熟悉 Docker，具備撰寫多階段 Dockerfile 與容器部署經驗。\n- API 設計：熟悉 ConnectRPC / gRPC、Protobuf 與 RESTful API 設計。\n- 軟實力：優秀的問題解決能力、團隊合作精神與溝通技巧。\n\n## 加分項目\n- 熟悉 Kubernetes RBAC、NetworkPolicy 或 Admission Webhook 等安全機制。\n- 具備 OIDC / OAuth 2.0 身份驗證或 mTLS 憑證管理實作經驗。\n- 具備 AI/ML 模型服務經驗（如 KServe、vLLM 或類似推論框架）。\n- 熟悉 Istio 服務網格或 Envoy Gateway。\n- 熟悉 Gateway API 與 Kubernetes 網路模型。\n- 熟悉 CI/CD 工具（如 GitHub Actions）與 GitOps 流程（如 Flux CD）。\n- 具備 Helm Chart 開發與管理經驗。\n- 熟悉 OpenTelemetry 分散式追蹤與可觀測性實踐。\n- 熟悉前端技術（如 SvelteKit、TypeScript）。\n\n## 團隊技術\n- 程式語言：Go、TypeScript、Protobuf\n- 前端框架：SvelteKit、Tailwind CSS\n- 通訊協定：ConnectRPC、gRPC\n- 容器與叢集：Kubernetes、Docker、Helm\n- 儲存與網路：Rook/Ceph、Istio、Gateway API\n- AI/ML 推論：KServe、llm-d、Gateway API Inference Extension\n- 安全機制：OIDC、mTLS、Kubernetes RBAC、多租戶隔離\n- 監控與可觀測性：Prometheus、Grafana、OpenTelemetry\n- CI/CD：GitHub Actions、Flux CD\n\n## 薪資與福利\n  - 基本底薪：每月 90,000 - 110,000 元。\n  - 年薪保證 14 個月，另加績效獎金與公司分紅。\n\n## 職涯發展\n- 技術專家：深入 Kubernetes Operator、多叢集架構與 AI 推論基礎設施，成為雲原生平台專家。\n- 技術管理：帶領技術團隊，參與產品策略制定。\n- 跨領域成長：參與前端、AI/ML 推論或基礎設施自動化專案。\n\n## 應徵方式\n請將履歷寄至 [paul_tsai@phison.com](mailto:paul_tsai@phison.com) ，並簡述您的後端開發、Kubernetes 或雲原生技術經驗。",
+      "excerpt": "## 工作地點 - 群聯電子竹南總部 (苗栗縣竹南鎮群義路1號) ## 工作內容 - 使用 Golang 開發 Kubernetes Operator 與高效能後端服務。 - 開發多叢集管理平台，整合反向隧道、API 閘道與統一資源操作介面。 - 基於 Kubernetes、Rook/Ceph 與 Istio 服務網格，建構雲原生基礎設施。 - 設計與實作平台安全機制，包含 OIDC 身份驗證、mTLS 憑證管理、Kubernet...",
+      "issueState": "open",
+      "contentHash": "fd2d0c5383bbd3a92e29f99abb4d9e780b24b944b2784284c76aa9de8a311fee",
+      "repository": "golangtw/jobs",
+      "repositoryUrl": "https://github.com/golangtw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "90k以上",
+        "苗栗"
+      ],
+      "author": {
+        "id": "iasthc",
+        "name": "iasthc",
+        "handle": "iasthc",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40525303?v=4"
+      },
+      "community": {
+        "id": "golangtw",
+        "name": "golangtw",
+        "avatarUrl": "https://github.com/golangtw.png?size=80",
+        "repository": "golangtw/jobs",
+        "url": "https://github.com/golangtw/jobs"
+      },
+      "createdAt": "2025-07-08T07:48:12Z",
+      "updatedAt": "2026-04-09T02:47:13Z",
+      "url": "https://github.com/golangtw/jobs/issues/225",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_feb466ba4cbe4c6806ea058b",
       "sourceId": "f2etw/jobs#1154",
@@ -726,40 +760,6 @@
       "createdAt": "2025-05-09T21:26:26Z",
       "updatedAt": "2025-05-09T21:43:25Z",
       "url": "https://github.com/nodejs-tw/jobs/issues/270",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_72963d5e4d80ff7c20fc14da",
-      "sourceId": "devfsa/vagas#2803",
-      "title": "Híbrido em Campinas/SP | Product Designer Junior | V4 Company",
-      "description": "Estamos em busca de um(a) Product Designer para compor o time de Produto da V4 Company!\n\nVocê será responsável por criar e validar protótipos mobile, definição de fluxos de navegação e sitemap, criação de wireframe, layouts e protótipos.\n\nSe você é um profissional motivado, orientado para resultados e apaixonado por ajudar os clientes a alcançar o sucesso por meio do marketing digital e está pronto para assumir um papel desafiador, dá uma olhada na descrição da posição abaixo e te inscreve!\n\n \n**Alguns dos desafios que você vai encarar:**\n\n- Entender as necessidades, motivações e comportamentos das pessoas usuárias e traduzi-los em resultados;\n\n- Contribuir no desenvolvimento e manutenção de padrões de Style Guide e Design System;\n\n- Trabalhar junto a squad (Devs, POs, etc) durante todo o processo de Discovery e Delivery;\n\n- Criar e validar protótipos mobile;\n\n- Design e criação de projetos digitais;\n\n- Definição de fluxos de navegação e sitemap;\n\n- Criação de wireframe, layouts e protótipos;\n\n- Levantamento de briefing e discussão de escopo;\n\n- Entendimento de requisitos e ou limitações técnicas para desenvolvimento de projetos;\n\n- Mapeamento e organização de conteúdos.\n\n \n**Pré-requisitos para candidatura:**\n\n- Figma (imprescindível);\n\n- Experiência com Design System;\n\n- Conhecimento em Design Ops;\n\n- Conhecimento em Ux Research;\n\n- Vivencia com Interface;\n\n- Habilidades de desenho visual, capazes de criar telas de produtos atraentes e de alta fidelidade, incluindo o uso de um conjunto diversificado de software, como Figma e Miro.\n\n- Experiência com produtos digitais.\n\n \n**O que mais oferecemos:**\n\n- Ambiente vibrante, cheio de pessoas com o propósito de crescer;\n- Foco em metas, não em horários;\n- Gestão meritocrática;\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Aulas de inglês;\n- Gympass;\n- Acesso a OnHappy.",
-      "excerpt": "Estamos em busca de um(a) Product Designer para compor o time de Produto da V4 Company! Você será responsável por criar e validar protótipos mobile, definição de fluxos de navegação e sitemap, criação de wireframe, la...",
-      "issueState": "open",
-      "contentHash": "ed8d83d03ecbb76883bb308bf92223b1db284df54a1896e99c2163e75a3f5cd9",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "junior",
-        "design"
-      ],
-      "author": {
-        "id": "Thaistechrec",
-        "name": "Thaistechrec",
-        "handle": "Thaistechrec",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/206752137?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "createdAt": "2025-05-09T12:49:43Z",
-      "updatedAt": "2025-05-09T12:49:43Z",
-      "url": "https://github.com/devfsa/vagas/issues/2803",
       "sourceType": "github-issue"
     }
   ]

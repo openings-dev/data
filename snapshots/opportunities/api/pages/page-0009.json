@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-14T16:58:04.348Z",
+  "generatedAt": "2026-05-14T19:30:41.970Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_5f1c8b18033011026ee64886",
     "gh_ba81b538383170559d6a81ae",
     "gh_6a7e130080047a6a67b88feb",
     "gh_7de941f14023985213e7d373",
@@ -22,10 +23,45 @@
     "gh_1210ec3be1fbd6b0e753f052",
     "gh_101b8e85d6e51f17f4f4fa8b",
     "gh_2fa1d8c2e1f80581bc696a54",
-    "gh_54df3a793409f5375f18ab14",
-    "gh_4e7ccb040b173a74f0990e85"
+    "gh_54df3a793409f5375f18ab14"
   ],
   "items": [
+    {
+      "id": "gh_5f1c8b18033011026ee64886",
+      "sourceId": "hanzili/canada_sde_junior_new_grad_position#3",
+      "title": "adding more canadian jobs",
+      "description": "",
+      "excerpt": "adding more canadian jobs",
+      "issueState": "open",
+      "contentHash": "7e628204e2df39791704da3ebbdca9b36865679231d4d338c47bf4d58456a04c",
+      "repository": "hanzili/canada_sde_junior_new_grad_position",
+      "repositoryUrl": "https://github.com/hanzili/canada_sde_junior_new_grad_position",
+      "region": "North America",
+      "country": "Canada",
+      "tags": [
+        "documentation",
+        "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "avatarUrl": "https://github.com/hanzili.png?size=80",
+        "repository": "hanzili/canada_sde_junior_new_grad_position",
+        "url": "https://github.com/hanzili/canada_sde_junior_new_grad_position"
+      },
+      "createdAt": "2025-12-04T19:38:50Z",
+      "updatedAt": "2025-12-04T19:38:50Z",
+      "url": "https://github.com/hanzili/canada_sde_junior_new_grad_position/issues/3",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ba81b538383170559d6a81ae",
       "sourceId": "speedyapply/2026-SWE-College-Jobs#32",
@@ -706,41 +742,6 @@
       "createdAt": "2025-11-04T00:13:11Z",
       "updatedAt": "2025-11-04T00:13:11Z",
       "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad/issues/3",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4e7ccb040b173a74f0990e85",
-      "sourceId": "remoteintech/remote-jobs#2040",
-      "title": "List of companies to add",
-      "description": "This list came from a Gist in #772 but to keep things tidy, I'm closing that Issue and moving it here as a checkbox list. \n\nUse the list below, if it isn't checked off, it may be free to add. Check the company doesn't exist in the list and then open a PR to add it. Once merged, check off the list.\n\n- [x] Adeva - https://adevait.com/\n- [ ] AgentFire - https://agentfire.com/\n- [x] Aha! - https://www.aha.io/\n- [ ] Airpush - https://www.airpush.com/\n- [ ] Airship - https://teamairship.com/\n- [x] AirTreks - https://www.airtreks.com/\n- [x] Arkency - https://arkency.com/\n- [x] Automattic - https://automattic.com/\n- [ ] Avallain - https://www.avallain.com/\n- [ ] Baselayer - https://www.baselayer.com/\n- [ ] Bevy - https://www.bevy.com/\n- [ ] Bold Penguin - https://www.boldpenguin.com/\n- [ ] BookingSync - https://www.bookingsync.com/en/\n- [x] Brave - https://brave.com/\n- [ ] BRYTER - https://bryter.io/\n- [ ] ButterCloud - http://www.buttercloud.com/\n- [ ] Cadasta - http://cadasta.org/\n- [x] Calendly - https://calendly.com/\n- [ ] Cloudbeds - https://www.cloudbeds.com/\n- [x] Cloudbees - https://www.cloudbees.com/\n- [ ] CodeCov - https://codecov.io/\n- [ ] Codelathe - https://www.getfilecloud.com/\n- [ ] Countly - https://count.ly/\n- [x] Crossover - https://www.crossover.com/\n- [ ] DataQuest - https://www.dataquest.io/\n- [x] DataRobot - http://www.datarobot.com\n- [x] Deel - https://www.letsdeel.com/\n- [ ] Differential - https://www.differential.com/\n- [ ] digitalminds.io - https://www.digitalminds.io/\n- [ ] Dotnetos - https://dotnetos.org/\n- [ ] Dotsub - https://dotsub.com/\n- [x] Doximity - https://www.doximity.com/\n- [ ] Dribbble - https://dribbble.com\n- [ ] Drupal Association - https://assoc.drupal.org/\n- [ ] Eloquentix - http://eloquentix.com/\n- [x] Envoy - https://envoy.com/\n- [ ] EquipmentShare - https://www.equipmentshare.com/\n- [x] Figma - https://www.figma.com/\n- [ ] Fullstack - https://gofullstack.com/\n- [ ] Genuitec - http://www.genuitec.com\n- [x] Ghost - https://ghost.org/\n- [x] Giant Swarm - https://www.giantswarm.io/\n- [ ] Gigster - https://gigster.com/\n- [ ] Gitee - https://gitee.com/\n- [ ] Gradle - https://gradle.com/\n- [ ] Help Docs - https://www.helpdocs.io/\n- [x] Hubstaff - https://hubstaff.com/\n- [x] Instructure - https://www.instructure.com/\n- [ ] Invisible Technologies - https://inv.tech/\n- [ ] Jibble Group - https://www.jibblegroup.com/\n- [ ] Judge.me - https://judge.me/\n- [ ] Keepsafe - https://www.getkeepsafe.com/\n- [x] Knack - https://www.knack.com\n- [ ] LaunchPotato - http://launchpotato.com/\n- [ ] Logikcull - https://www.logikcull.com/\n- [x] madewithlove - https://madewithlove.be/\n- [ ] Magic - https://getmagic.com/\n- [x] MariaDB - https://mariadb.com/\n- [x] Mattermost - https://mattermost.com/\n- [ ] Minerva Project - https://www.minervaproject.com/\n- [x] Modern Tribe - https://tri.be/\n- [ ] Modus Create - https://moduscreate.com/\n- [ ] Mosalingua - https://www.mosalingua.com/en/\n- [ ] MyTime - https://www.mytime.com/\n- [x] NearForm - https://www.nearform.com/\n- [x] Netlify - https://www.netlify.com/\n- [ ] Nightwatch - https://nightwatch.io/\n- [ ] NinjaCat - https://www.ninjacat.io/\n- [ ] Niteo - https://niteo.co/\n- [x] Nozbe - https://nozbe.com/\n- [ ] Octane AI - https://www.octaneai.com/\n- [ ] onTheGo Systems - https://www.onthegosystems.com\n- [ ] Parknav - https://parknav.com/\n- [ ] Pathstream - https://www.pathstream.com/\n- [ ] Patients Know Best - https://patients.workable.com/\n- [ ] Pilot - https://pilot.co/\n- [x] Pluralsight - https://www.pluralsight.com/\n- [x] Power - https://powerhrg.com/\n- [ ] ProdPerfect - https://prodperfect.com/\n- [x] Prominent Edge - https://prominentedge.com/\n- [ ] Pythian - https://www.pythian.com/\n- [ ] Retail Zipline - https://www.retailzipline.com/\n- [x] Scribd - https://www.scribd.com/\n- [ ] Sendle - https://www.sendle.com/\n- [ ] Serverless - https://www.serverless.com/\n- [x] ServiceNow - https://www.servicenow.com/\n- [ ] ShakaCode - http://www.shakacode.com/\n- [ ] Shelterluv - https://www.shelterluv.com/\n- [x] Shopify - https://www.shopify.com/\n- [x] Signal - https://www.signal.org/\n- [x] Sketch - https://www.sketch.com/\n- [ ] Skyscrapers - http://skyscrapers.eu/\n- [x] Slack - https://slack.com/\n- [x] Sonatype - https://www.sonatype.com/\n- [x] Sourcegraph - https://about.sourcegraph.com/\n- [x] Spreaker - https://www.spreaker.com/\n- [ ] SuperOrbital - https://superorbit.al/\n- [ ] Tesera - https://tesera.com/\n- [ ] Thermeon - http://thermeon.com/\n- [x] Thorn - https://thorn.org/\n- [x] Time Doctor - https://www.timedoctor.com/\n- [ ] Tithe.ly - https://get.tithe.ly/\n- [x] Tyk - https://tyk.io/\n- [ ] Upstack - https://upstack.co/\n- [ ] Vidalingua - http://www.vidalingua.com/\n- [ ] Water Lily Pond - http://waterlilypond.co.uk/\n- [x] WorkOS - https://workos.com/\n- [x] XWP - https://xwp.co/\n- [x] You Need A Budget - https://www.youneedabudget.com/\n- [ ] YourSports - https://www.yoursports.com/\n- [ ] Z1 - https://z1.digital/\n- [ ] Zamphyr - https://zamphyr.com/\n- [ ] ZipRecruiter - https://www.ziprecruiter.com/",
-      "excerpt": "This list came from a Gist in #772 but to keep things tidy, I'm closing that Issue and moving it here as a checkbox list. Use the list below, if it isn't checked off, it may be free to add. Check the company doesn't e...",
-      "issueState": "open",
-      "contentHash": "476e073d94461fd47d483fe89590444bd3f3fcbb7c45d6588c5a472c1d0538b2",
-      "repository": "remoteintech/remote-jobs",
-      "repositoryUrl": "https://github.com/remoteintech/remote-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "fullstack",
-        "staff",
-        "data"
-      ],
-      "author": {
-        "id": "dougaitken",
-        "name": "dougaitken",
-        "handle": "dougaitken",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52214?v=4"
-      },
-      "community": {
-        "id": "remoteintech",
-        "name": "remoteintech",
-        "avatarUrl": "https://github.com/remoteintech.png?size=80",
-        "repository": "remoteintech/remote-jobs",
-        "url": "https://github.com/remoteintech/remote-jobs"
-      },
-      "createdAt": "2025-10-27T19:23:32Z",
-      "updatedAt": "2026-05-02T14:00:27Z",
-      "url": "https://github.com/remoteintech/remote-jobs/issues/2040",
       "sourceType": "github-issue"
     }
   ]

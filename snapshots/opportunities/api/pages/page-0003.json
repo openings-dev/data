@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-05-14T13:52:05.199Z",
+  "generatedAt": "2026-05-14T19:30:41.970Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_e927f7a3d5012b5647329bd0",
+    "gh_57ed728934c67b37c0bed798",
     "gh_615cd5b5c01016e20e631b0c",
     "gh_4f87440cb18d7065ec28f61e",
     "gh_79546b5940192c13dad52334",
@@ -15,17 +17,94 @@
     "gh_ede4e196608326f40042404e",
     "gh_ce15a00c90aa76f35181fc83",
     "gh_4e35e3ee4a19594e8247db30",
-    "gh_d0645487984bd10b10a0af57",
     "gh_c1f62ee123f8efd2aadac8ea",
     "gh_d626fe94b7e42f4340d82624",
     "gh_572dce76ffa409fc0e7e05fe",
     "gh_1f5a98f47e42c00c1630a12f",
     "gh_c55c0ec98d8be9c01ebe7432",
     "gh_5497a5e458f49acc5e1cf37d",
-    "gh_b5220ce704e9136f8724e349",
-    "gh_9b3b31360337cf3d5131badf"
+    "gh_b5220ce704e9136f8724e349"
   ],
   "items": [
+    {
+      "id": "gh_e927f7a3d5012b5647329bd0",
+      "sourceId": "backend-br/vagas#12226",
+      "title": "[Alocação] Back-end developer - NomeDaEmpresa",
+      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## BRASIL EM DOBRO\n\nInforme a descrição da empresa.\n\nBrasil em Dobro é uma plataforma de tecnologia e marketing focada no setor gastronômico, reconhecida como o maior Tour Gastronômico do pais. A iniciativa busca incentivar o público a explorar novos restaurantes, bares e cafés por meio de um sistema de benefícios exclusivos.  \n## Descrição da vaga\n\nInforme a descrição da vaga.\nEstamos em busca de um(a) Desenvolvedor Backend Senior - Node.js / Typescript\npara atuar no desenvolvimento e evolução de aplicações backend escaláveis, seguras e de alta performance, utilizando TypeScript e Fastify.\n\nO papel envolve participar ativamente de decisões técnicas, desenvolvimento de novas funcionalidades, manutenção de sistemas existentes e colaboração próxima com outras áreas, como produto e infraestrutura.\n\n## Local\nEmpresa está situada em Florianópolis\n\nInforme se é remoto, híbrido ou presencial.\nRemoto\n\n## Requisitos\n\nInglês Intermediário\nComunicação via texto clara e rápida\nConsegue trabalhar de forma independente\nCuriosidade profunda\nAprendizado rápido, por conta própria\nEsperamos que você trabalhe somente para o Brasil em Dobro, ou seja, não fará nenhum tipo de trabalho freelancer\nVocê precisa ter o seu computador próprio para começar a trabalhar\nConhecimento (intermediário)\nTypescript | Fastify | Docker | Mysql (SQL) | Git\nDiferencial\nTer familiaridade com serviços da AWS\n\nInforme os requisitos obrigatórios e desejáveis para a vaga.\n\n## Benefícios\nday office no aniversário e floripa em dobro(para quem mora na grande Florianópolis)\n\nInforme os benefícios oferecidos pela empresa.\n\n## Contratação\n\nInforme o tipo de contratação, CLT, PJ ou outra.\ncontratação por PJ OU CLT\n\n## Como se candidatar\n\npreenchimento do formulário abaixo\n\nInforme os canais disponíveis para a aplicação na vaga.\n\n## Labels\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdI9_Y_7EiuwmukDCe8O_FFLDSbrr48_RLm7z09ZpdrvkkJ6A/viewform?usp=sharing&ouid=109376093729844002479\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\nSênior\n\n\n### Regime\n\n- PJ\n- CLT\n\n\n### Alocação\n\n- Remoto",
+      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## BRASIL EM DOBRO Informe a descrição da empresa. Brasil em Dobro é uma plataforma de tecnologia e marketing focada no setor gastronômico, reconhecida como o maior...",
+      "issueState": "open",
+      "contentHash": "71f10f46babf0125bf808cfa7dda49de4a6f6ab178b1600b049eb1da5773d6e3",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "node.js",
+        "remoto",
+        "presencial",
+        "aws",
+        "mysql"
+      ],
+      "author": {
+        "id": "rafaelamartins-BRASILEMDOBRO",
+        "name": "rafaelamartins-BRASILEMDOBRO",
+        "handle": "rafaelamartins-BRASILEMDOBRO",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/278704650?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-04-23T13:40:57Z",
+      "updatedAt": "2026-04-29T19:24:32Z",
+      "url": "https://github.com/backend-br/vagas/issues/12226",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_57ed728934c67b37c0bed798",
+      "sourceId": "qa-brasil/vagas#1250",
+      "title": "[100% Remoto] QA Jr na Codeleap",
+      "description": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap.\n\nEssa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática trabalhando com produtos reais e clientes internacionais.\n\nNo dia a dia, você vai testar aplicações web e mobile, identificar bugs, garantir a qualidade das entregas e trabalhar próximo de desenvolvedores e produto.\n\n## Local de trabalho\n\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência inicial com testes manuais (projetos pessoais, acadêmicos ou profissionais)\n- Inglês intermediário (leitura e escrita para documentação e bug reports)\n- Noção básica de desenvolvimento web/mobile (especialmente React / React Native)\n- Boa comunicação e vontade de aprender\n\n**Desejáveis**\n- Conhecimento básico em testes automatizados\n- Experiência com organização de casos de teste e documentação\n- Interesse em produto e experiência do usuário\n\n**Diferenciais**\n- Experiência prévia em projetos reais (mesmo que pequenos)\n- Perfil detalhista e curioso\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Trabalho 100% remoto\n- Horário flexível\n- Ambiente colaborativo e informal\n\n**Diferenciais**\n- Projetos reais com clientes internacionais (UK/EU)\n- Crescimento rápido com possibilidade de assumir mais responsabilidades\n- Mentoria e feedback constante\n- Aulas semanais de conversação em inglês\n- Bônus por performance (possibilidade de 13º e 14º salário)\n\n## Range Salarial\n\nA vaga paga entre R$2.000,00 e R$3.000,00 reais.\n\n## Sobre a empresa\n\nA CodeLeap é uma software house com base em Londres, trabalhando com clientes internacionais. Somos um time pequeno, focado em qualidade, aprendizado constante e desenvolvimento rápido dos nossos membros.\n\n## Como se candidatar\n\n- Candidatar através do formulário:\nhttps://docs.google.com/forms/d/e/1FAIpQLScMTarmAMcuEt51vYXX_5RGS4AfsYQD_kqDWaqgRkMf5uRxyQ/viewform\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada etapa do processo.\n\nE-mail para contato em caso de dúvidas: vini.garcia@codeleap.co.uk\n\n## Labels\n\n- PJ\n- Júnior\n- Remoto\n- Exterior\n```",
+      "excerpt": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap. Essa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática tra...",
+      "issueState": "open",
+      "contentHash": "ffc66f263900c7bb2c29f235523a4a5951900b595da1d4d24073a35871374c71",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "remoto",
+        "estágio",
+        "exterior",
+        "júnior",
+        "inglês"
+      ],
+      "author": {
+        "id": "dudamassena",
+        "name": "dudamassena",
+        "handle": "dudamassena",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/278477713?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Trabalho 100% remoto",
+      "createdAt": "2026-04-22T17:49:17Z",
+      "updatedAt": "2026-04-24T19:07:27Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1250",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_615cd5b5c01016e20e631b0c",
       "sourceId": "timqian/open-source-jobs#173",
@@ -408,48 +487,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_d0645487984bd10b10a0af57",
-      "sourceId": "backend-br/vagas#12223",
-      "title": "[Remoto] Integration Engineer Golang|Strider",
-      "description": "💻 INTEGRATION ENGINEER GOLANG \n📌 Accepting Applications\n📍 Remote in Argentina, Brazil, Colombia, Mexico, Paraguay, Chile, Peru, Costa Rica\n🏢 US Company | Micro (1–10 employees)\nSeniority\n🔹 3 to 5 years of experience\nEnglish Level\n🗣️ C1\nCompensation\n💰 $3k – $5k USD/month\nIndustry\n🚚 Logistics / Transportation / Shipping\nWork Model\n\n🌎 Full Remote\n🛠️ Required Skills\nAPI Integrations\nGolang\nSelenium\nPlaywright\n✅ Requirements\nMust-haves\n3–5+ years of software development experience\nStrong proficiency in Golang\nExperience with scraping tools like Selenium, Playwright, or AI-driven browser tools (e.g., Stagehand)\nSolid experience with backend systems and API integrations\nStrong knowledge of web scraping and browser automation, including dynamic content and complex DOM structures\nAbility to clearly communicate progress, blockers, and technical issues (standups, tickets, messaging tools)\nExperience collaborating on code reviews and contributing to engineering discussions\nDeep understanding of debugging API issues (authentication, session handling, request failures)\nExperience with AI coding tools (e.g., Cursor)\nStrong written and spoken English communication skills\n⭐ Nice-to-haves\nStartup experience\nExperience with prompt engineering and AI evaluation tools (e.g., Braintrust)\nExperience with AWS, Lambda, SQS, and Infrastructure as Code\nAbility to explain technical concepts to non-technical stakeholders and support customer interactions\nBachelor’s Degree in Computer Engineering, Computer Science, or related field\n\nInscreva-se 👇🏻 \nhttps://app.onstrider.com/r/claudiaantunes?job=aW50ZWdyYXRpb24tZW5naW5lZXItZTM3YWM5ODM/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=",
-      "excerpt": "💻 INTEGRATION ENGINEER GOLANG 📌 Accepting Applications 📍 Remote in Argentina, Brazil, Colombia, Mexico, Paraguay, Chile, Peru, Costa Rica 🏢 US Company | Micro (1–10 employees) Seniority 🔹 3 to 5 years of experien...",
-      "issueState": "open",
-      "contentHash": "202c666d07c45d14b82eed01d6e6eb8a8f0632b64e2d088d937d494cf1839e67",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "aws",
-        "solid"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "companyName": "Micro (1–10 employees)",
-      "salary": {
-        "currency": "BRL",
-        "min": 3000,
-        "max": 5000,
-        "period": "month"
-      },
-      "createdAt": "2026-04-14T18:12:15Z",
-      "updatedAt": "2026-04-14T18:12:31Z",
-      "url": "https://github.com/backend-br/vagas/issues/12223",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_c1f62ee123f8efd2aadac8ea",
       "sourceId": "awesome-jobs/vietnam#4920",
       "title": "[Hybrid] Principal Platform Engineer (Azure)_Up To $7000",
@@ -699,39 +736,6 @@
       "createdAt": "2026-04-06T22:58:07Z",
       "updatedAt": "2026-04-26T12:52:37Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/169",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9b3b31360337cf3d5131badf",
-      "sourceId": "awesome-jobs/vietnam#4919",
-      "title": "LeapXpert - Knowledge System Lead - Ho Chi Minh - FT",
-      "description": "# **Knowledge Systems Lead (formerly Technical Writer)**\n\n## Location \n\n* Ho Chi Minh City, Vietnam\n\n---\n\n## Salary Expectation \n\n* Competitive, based on experience\n\n---\n\n## Requirements\n\n### Must Have\n\n* Systems thinking mindset (designing scalable knowledge infrastructure)\n* Strong written communication and content structuring skills\n* Ability to identify inaccuracies, inconsistencies, and compliance risks in documentation\n* Familiarity with version control and structured documentation workflows\n\n### Ideally\n\n* Experience in fintech, compliance, or regulated SaaS environments\n* Familiarity with structured authoring (e.g., DITA, reusable content systems)\n* Prompt engineering experience for documentation or knowledge systems\n* Experience working closely with product managers and engineers\n\n---\n\n## Responsibilities\n\nGreat power comes with great responsibility — in this role, you’ll own how knowledge is created, structured, and scaled across the organization.\n\n### You’ll be responsible for\n\n* Designing and operating an end-to-end AI-assisted documentation pipeline\n* Defining documentation toolchains (docs-as-code, versioning, publishing)\n* Establishing and enforcing content standards across product squads\n* Acting as a quality gate for AI-generated documentation (accuracy, compliance, consistency)\n* Building and maintaining knowledge architecture and taxonomy\n* Ensuring documentation is machine-readable and optimized for AI (RAG, search, chatbots)\n* Embedding documentation into the product development lifecycle as a release requirement\n* Enabling product squads to self-serve documentation through structured workflows\n\n### You can bring\n\n* Strong analytical thinking and ability to design scalable systems\n* Attention to detail, especially in high-stakes or regulated environments\n* Ability to operate in ambiguity and define processes from scratch\n* Proactive mindset — identifying risks, not just gaps\n\n---\n\n## Why it would be awesome to work with us\n\n* Work on cutting-edge AI + product infrastructure in a fast-growing global company\n* Be part of a product-driven, agile organization with real ownership\n* Collaborate with a diverse, international team\n* Competitive compensation and benefits\n* Opportunities for career growth and learning new technologies\n* Premium healthcare, flexible leave policy, and team activities\n\n---\n\n## Interesting Engineering Projects \n* Building an agentic AI-powered documentation pipeline\n* Creating a machine-readable knowledge base for AI retrieval and grounding\n* Designing scalable documentation systems across 15+ product squads\n* Enabling zero-lag documentation shipping alongside product releases\n\n---\n\n## Contact\n\nHomepage: [https://www.leapxpert.com/](https://www.leapxpert.com)\nContact recruiter for more details: Thao - 0399596647 (zalo/whatsapp)",
-      "excerpt": "# **Knowledge Systems Lead (formerly Technical Writer)** ## Location * Ho Chi Minh City, Vietnam --- ## Salary Expectation * Competitive, based on experience --- ## Requirements ### Must Have * Systems thinking mindse...",
-      "issueState": "open",
-      "contentHash": "4bff7d4932cbe892d6cbf241da007a6ad2af82fb8bcb4f0978982187336e2b3a",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "design"
-      ],
-      "author": {
-        "id": "phuongthao02141",
-        "name": "phuongthao02141",
-        "handle": "phuongthao02141",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/75608123?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-04-02T08:12:44Z",
-      "updatedAt": "2026-04-02T08:12:44Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4919",
       "sourceType": "github-issue"
     }
   ]
