@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T06:19:13.544Z",
+  "generatedAt": "2026-05-14T11:11:35.083Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
@@ -9,7 +9,7 @@
     "openIssues": 3,
     "closedIssues": 13
   },
-  "dataHash": "1032781fc60e68e3c0910cc6d70cff4c30e4151c7feb15b0be9df2a39ff637b0",
+  "dataHash": "78b6e6f74a005a78dad3c6a5df76cf707ca3cb059e240eb19855c865adc41eaf",
   "items": [
     {
       "id": "gh_97960f30e27ec6a9c51a8615",
@@ -195,24 +195,21 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_fb174104f5fcd15130abb5c5",
-      "sourceId": "ambicuity/New-Grad-Jobs#248",
-      "title": "[Intermediate]: add deterministic test coverage for evaluate_jobs sidecar",
-      "description": "### 🧩 Intermediate Contributors\nThis issue is intended for contributors who already have experience with this repository\nand the contribution workflow.\n\nYou should feel comfortable:\n- Navigating `scripts/update_jobs.py`, `config.yml`, and `tests/`\n- Understanding how `filter_jobs()`, `deduplicate_jobs()`, and `categorize_job()` work\n- Following existing patterns without step-by-step guidance\n- Writing non-trivial pytest tests with mocking\n\n> [!IMPORTANT]\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 🐞 Problem Description\n`scripts/evaluate_jobs.py` is part of the published analytics sidecar path, but it has little to no direct test coverage for:\n- eligibility gating logic (`_is_eligible`)\n- scoring heuristics (`_score_job`)\n- output artifact shape and metadata consistency in `main()`\n\nThis creates risk that silent scoring/contract regressions ship unnoticed.\n\n### 💡 Expected Solution\nAdd deterministic tests covering:\n- `_is_eligible` include/exclude behavior for closed/malformed jobs\n- `_score_job` score/confidence bounds and reason-code generation\n- `main()` behavior with a temporary `docs/jobs.json` fixture, asserting generated artifact shape and key metadata fields\n\nKeep tests network-free and deterministic. Do not change scoring policy in this issue.\n\n### ✅ Acceptance Criteria\n- [ ] Problem is resolved per the description above\n- [ ] Edge cases handled: None, NaN, empty string, Unicode, malformed data\n- [ ] All existing `pytest tests/` pass\n- [ ] New tests added for changed logic (deterministic — no live network calls)\n- [ ] `pre-commit run --all-files` passes\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)\n\n### 🔗 Additional Context\n- Target module: `scripts/evaluate_jobs.py`\n- Related contract helpers: `scripts/contracts.py`\n- Related integrity checks: `scripts/quality.py`",
-      "excerpt": "### 🧩 Intermediate Contributors This issue is intended for contributors who already have experience with this repository and the contribution workflow. You should feel comfortable: - Navigating `scripts/update_jobs.p...",
+      "id": "gh_1f5a98f47e42c00c1630a12f",
+      "sourceId": "ambicuity/New-Grad-Jobs#242",
+      "title": "[Bug]: Operator Manual is out of sync with current config and workflow behavior",
+      "description": "### Bug Type\nOther\n\n### Description\n`docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior.\n\nExamples:\n- It references `filters.exclude_keywords`, but current config uses `filtering.exclusion_signals`.\n- It suggests tuning thread pools directly in `scripts/update_jobs.py`, while worker-pool behavior is now configurable via `config.yml` (`worker_pools`).\n- It references JobSpy location/config patterns that no longer match current configuration shape.\n- Several workflow guidance notes are stale relative to `.github/workflows/update-jobs.yml`.\n\nThis creates contributor confusion and increases maintenance error risk.\n\n### Steps to Reproduce\n1. Open `docs/wiki/Operator-Manual.md`.\n2. Compare recipe/config field names against `config.yml`.\n3. Compare workflow instructions against `.github/workflows/update-jobs.yml`.\n4. Observe mismatches between documented and actual behavior.\n\n### Additional Context\nCandidate source-of-truth files for alignment:\n- `docs/wiki/Operator-Manual.md`\n- `config.yml`\n- `.github/workflows/update-jobs.yml`\n- `scripts/update_jobs.py`",
+      "excerpt": "### Bug Type Other ### Description `docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior. Examples: - It references `filters.exclude_keywords`, but current config uses `fi...",
       "issueState": "open",
-      "contentHash": "49937d3f1487ccd1ea8ed9d69a95e88170a71bdc138e6b3e96c685494c9e942e",
+      "contentHash": "ca13b8bf4b9f4a12dba0d54fcb9f3bb7773dafb036c0bd97185bcc6ea340ed1a",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
       "region": "North America",
       "country": "United States",
       "tags": [
-        "type: enhancement",
-        "help wanted",
         "needs-triage",
-        "priority: medium",
-        "enhancement",
-        "intermediate"
+        "status: in-progress",
+        "bug"
       ],
       "author": {
         "id": "ambicuity",
@@ -227,9 +224,9 @@
         "repository": "ambicuity/New-Grad-Jobs",
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
-      "createdAt": "2026-04-10T19:59:24Z",
-      "updatedAt": "2026-04-10T20:28:10Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/248",
+      "createdAt": "2026-04-08T14:59:35Z",
+      "updatedAt": "2026-05-14T09:43:09Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/242",
       "sourceType": "github-issue"
     },
     {

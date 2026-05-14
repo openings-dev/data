@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T06:19:13.544Z",
+  "generatedAt": "2026-05-14T11:11:35.083Z",
   "dimensions": {
     "repositories": {
       "SimplifyJobs/Summer2026-Internships": [
@@ -189,7 +189,7 @@
       ],
       "ambicuity/New-Grad-Jobs": [
         "gh_572dce76ffa409fc0e7e05fe",
-        "gh_fb174104f5fcd15130abb5c5",
+        "gh_1f5a98f47e42c00c1630a12f",
         "gh_19d9edf7d6ba67157e1e98b0"
       ],
       "DevOps-Brasil/Vagas": [
@@ -872,7 +872,7 @@
         "gh_ede4e196608326f40042404e",
         "gh_ce15a00c90aa76f35181fc83",
         "gh_572dce76ffa409fc0e7e05fe",
-        "gh_fb174104f5fcd15130abb5c5",
+        "gh_1f5a98f47e42c00c1630a12f",
         "gh_86cf7c4c726a6cec1163d1fb",
         "gh_19d9edf7d6ba67157e1e98b0",
         "gh_676667090fcd5276269492b4",
@@ -1540,7 +1540,7 @@
         "gh_9de20cf178bdf31ec7ef83b8",
         "gh_3e8010399abf27a86fd3a8bd",
         "gh_572dce76ffa409fc0e7e05fe",
-        "gh_fb174104f5fcd15130abb5c5",
+        "gh_1f5a98f47e42c00c1630a12f",
         "gh_86cf7c4c726a6cec1163d1fb",
         "gh_19d9edf7d6ba67157e1e98b0",
         "gh_676667090fcd5276269492b4",
@@ -2231,8 +2231,6 @@
     "tags": {
       "enhancement": [
         "gh_9de20cf178bdf31ec7ef83b8",
-        "gh_fb174104f5fcd15130abb5c5",
-        "gh_fb174104f5fcd15130abb5c5",
         "gh_5f1c8b18033011026ee64886",
         "gh_d193c4164f738b737229e88e",
         "gh_d9a16b267ec899d01e912d28",
@@ -4243,7 +4241,6 @@
       ],
       "help-wanted": [
         "gh_572dce76ffa409fc0e7e05fe",
-        "gh_fb174104f5fcd15130abb5c5",
         "gh_5f1c8b18033011026ee64886",
         "gh_d193c4164f738b737229e88e",
         "gh_529af6046ca6a2af0d52eeca",
@@ -4254,20 +4251,26 @@
       ],
       "needs-triage": [
         "gh_572dce76ffa409fc0e7e05fe",
-        "gh_fb174104f5fcd15130abb5c5"
+        "gh_1f5a98f47e42c00c1630a12f"
       ],
       "priority-medium": [
-        "gh_572dce76ffa409fc0e7e05fe",
-        "gh_fb174104f5fcd15130abb5c5"
+        "gh_572dce76ffa409fc0e7e05fe"
       ],
       "beginner": [
         "gh_572dce76ffa409fc0e7e05fe",
         "gh_d193c4164f738b737229e88e",
         "gh_73a9d95e468f9863bc02ef3e"
       ],
-      "intermediate": [
-        "gh_fb174104f5fcd15130abb5c5",
-        "gh_f904a3a42564d7b308ebabae"
+      "status-in-progress": [
+        "gh_1f5a98f47e42c00c1630a12f",
+        "gh_19d9edf7d6ba67157e1e98b0"
+      ],
+      "bug": [
+        "gh_1f5a98f47e42c00c1630a12f",
+        "gh_19d9edf7d6ba67157e1e98b0",
+        "gh_9f2c52d5334b5cfe27646aca",
+        "gh_e43426d1a2257902e81afbcb",
+        "gh_944a2f8bc18a924c8efd7dfd"
       ],
       "santa-catarina": [
         "gh_5497a5e458f49acc5e1cf37d"
@@ -4327,15 +4330,6 @@
       ],
       "sp": [
         "gh_5b39f4b0acc4adfc7a0328f7"
-      ],
-      "bug": [
-        "gh_19d9edf7d6ba67157e1e98b0",
-        "gh_9f2c52d5334b5cfe27646aca",
-        "gh_e43426d1a2257902e81afbcb",
-        "gh_944a2f8bc18a924c8efd7dfd"
-      ],
-      "status-in-progress": [
-        "gh_19d9edf7d6ba67157e1e98b0"
       ],
       "priority-critical": [
         "gh_19d9edf7d6ba67157e1e98b0"
@@ -4610,6 +4604,9 @@
       "saigon": [
         "gh_f904a3a42564d7b308ebabae"
       ],
+      "intermediate": [
+        "gh_f904a3a42564d7b308ebabae"
+      ],
       "ios": [
         "gh_9d95c8a01cba2b0c65a2516e"
       ],
@@ -4782,7 +4779,7 @@
       ],
       "ambicuity": [
         "gh_572dce76ffa409fc0e7e05fe",
-        "gh_fb174104f5fcd15130abb5c5"
+        "gh_1f5a98f47e42c00c1630a12f"
       ],
       "psicomatheuspedroza": [
         "gh_c55c0ec98d8be9c01ebe7432"
@@ -6364,7 +6361,8 @@
       "needs-triage": "needs-triage",
       "priority-medium": "priority: medium",
       "beginner": "beginner",
-      "intermediate": "intermediate",
+      "status-in-progress": "status: in-progress",
+      "bug": "bug",
       "santa-catarina": "santa catarina",
       "sre": "sre",
       "infra": "infra",
@@ -6379,8 +6377,6 @@
       "pr": "pr",
       "jenkins": "jenkins",
       "sp": "sp",
-      "bug": "type: bug",
-      "status-in-progress": "status: in-progress",
       "priority-critical": "priority: critical",
       "automation": "automation",
       "testing": "testing",
@@ -6448,6 +6444,7 @@
       "recruited": "求才（recruited）",
       "1m-up-year": "年薪百萬（1m up / year）",
       "saigon": "saigon",
+      "intermediate": "intermediate",
       "ios": "ios",
       "objc": "objc"
     }
