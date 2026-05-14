@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-14T06:19:13.544Z",
+  "generatedAt": "2026-05-14T13:52:05.199Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_e13bb358bf081385545e2be0",
     "gh_c58b091791207460283796e3",
     "gh_08c2b289f0b0fbaf5bd9f142",
     "gh_23e88f37c8cdd99dec55a249",
@@ -22,10 +23,47 @@
     "gh_18aeb84c7b8ace6d5be56e77",
     "gh_4a3287b63e4b9420bebc557e",
     "gh_e927f7a3d5012b5647329bd0",
-    "gh_57ed728934c67b37c0bed798",
-    "gh_615cd5b5c01016e20e631b0c"
+    "gh_57ed728934c67b37c0bed798"
   ],
   "items": [
+    {
+      "id": "gh_e13bb358bf081385545e2be0",
+      "sourceId": "backend-br/vagas#12231",
+      "title": "[Alocação] GoLang Back-end Developer - ITEAM",
+      "description": "Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas.\nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado.\nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n## Descrição da vaga\nExperiência sólida em engenharia de software, com foco em soluções na AWS. \nConhecimento avançado em serviços AWS, como Lambda/ECS/SQS/S3/EventBridge, entre outros. \nConhecimento em padrões de projeto e clean arch. \nExperiência com SQL e NOSQL \nFamiliaridade com ferramentas de Observability Splunk, CloudWatch \nExperiencia com infra as a Code (Cloudformation e Terraform) Experiencia em versionamento de codigo utilizando Git.\nInforme a descrição da vaga.\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperiência sólida em engenharia de software, com foco em soluções na AWS. \nExperiencia com infra as a Code (Cloudformation e Terraform) Experiencia em versionamento de código utilizando Git.\nConhecimento avançado em serviços AWS, como Lambda/ECS/SQS/S3/EventBridge, entre outros. \nExperiência com SQL e NOSQL \n\nContratação: PJ\n\nComo se candidatar: \nE-mail: erika.santos@iteam.inf.br\n+55 (11) 99328-6431\n\nInforme os canais disponíveis para a aplicação na vaga.\n\n## Labels\n\n<AWS, SQL, NOSQL, CloudWatch,  SQL e NOSQL, Lambda/ECS/SQS/S3/EventBridge\n\nNível: Sênior",
+      "excerpt": "Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. Reunimos ...",
+      "issueState": "open",
+      "contentHash": "f4fe9e70fbe90b1b1300c5a245a461201c3ffc8c55e60b8a60afebba2898712f",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "remoto",
+        "aws",
+        "sql",
+        "git"
+      ],
+      "author": {
+        "id": "ITeam-oportunidades",
+        "name": "ITeam-oportunidades",
+        "handle": "ITeam-oportunidades",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-06T18:34:29Z",
+      "updatedAt": "2026-05-06T18:34:52Z",
+      "url": "https://github.com/backend-br/vagas/issues/12231",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c58b091791207460283796e3",
       "sourceId": "backend-br/vagas#12230",
@@ -739,37 +777,6 @@
       "createdAt": "2026-04-22T17:49:17Z",
       "updatedAt": "2026-04-24T19:07:27Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1250",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_615cd5b5c01016e20e631b0c",
-      "sourceId": "timqian/open-source-jobs#173",
-      "title": "Feature: Add Email Alert for Recent Update",
-      "description": "When there is a new update (recent job commit), alert a subscribed user via email.",
-      "excerpt": "When there is a new update (recent job commit), alert a subscribed user via email.",
-      "issueState": "open",
-      "contentHash": "a8ef46de2f893b78eb34cc3076865df60ce7da46346945d3f344be7848c5c7eb",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "iamkalio",
-        "name": "iamkalio",
-        "handle": "iamkalio",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/89003403?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2026-04-21T10:30:11Z",
-      "updatedAt": "2026-04-21T10:30:30Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/173",
       "sourceType": "github-issue"
     }
   ]
