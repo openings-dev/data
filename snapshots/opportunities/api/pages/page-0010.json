@@ -1,15 +1,9 @@
 {
-  "generatedAt": "2026-05-14T19:30:41.970Z",
+  "generatedAt": "2026-05-14T22:04:59.024Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
-    "gh_4e7ccb040b173a74f0990e85",
-    "gh_6284b68530bc4b1d4959e9c8",
-    "gh_fea096ffe5fa2e076e317137",
-    "gh_85e96ece37aa7c4072d4d09a",
-    "gh_c6e5cde5cf70452b958787bd",
-    "gh_7090b13757103ad4886dca79",
     "gh_e2bf92920267625501ec5bdc",
     "gh_ff871b03fcabd20a93060047",
     "gh_6f7c8c640891ada1a0682607",
@@ -23,222 +17,15 @@
     "gh_99150832107b847772cd7a87",
     "gh_926f3c14cae6e82e67bdbdbf",
     "gh_26085b80562d970f087f85db",
-    "gh_c1cea2402373fd5357a46ba9"
+    "gh_c1cea2402373fd5357a46ba9",
+    "gh_81aa8bfda8cd75209a233f69",
+    "gh_5e7c0ed3e21fb1a527ca77ca",
+    "gh_962eeb5d07c4cee43120e80f",
+    "gh_4e61569a5d7ecd89c151cb8a",
+    "gh_4fe43a3256a6d731ae826236",
+    "gh_324055d14c5ee3765bdb1221"
   ],
   "items": [
-    {
-      "id": "gh_4e7ccb040b173a74f0990e85",
-      "sourceId": "remoteintech/remote-jobs#2040",
-      "title": "List of companies to add",
-      "description": "This list came from a Gist in #772 but to keep things tidy, I'm closing that Issue and moving it here as a checkbox list. \n\nUse the list below, if it isn't checked off, it may be free to add. Check the company doesn't exist in the list and then open a PR to add it. Once merged, check off the list.\n\n- [x] Adeva - https://adevait.com/\n- [ ] AgentFire - https://agentfire.com/\n- [x] Aha! - https://www.aha.io/\n- [ ] Airpush - https://www.airpush.com/\n- [ ] Airship - https://teamairship.com/\n- [x] AirTreks - https://www.airtreks.com/\n- [x] Arkency - https://arkency.com/\n- [x] Automattic - https://automattic.com/\n- [ ] Avallain - https://www.avallain.com/\n- [ ] Baselayer - https://www.baselayer.com/\n- [ ] Bevy - https://www.bevy.com/\n- [ ] Bold Penguin - https://www.boldpenguin.com/\n- [ ] BookingSync - https://www.bookingsync.com/en/\n- [x] Brave - https://brave.com/\n- [ ] BRYTER - https://bryter.io/\n- [ ] ButterCloud - http://www.buttercloud.com/\n- [ ] Cadasta - http://cadasta.org/\n- [x] Calendly - https://calendly.com/\n- [ ] Cloudbeds - https://www.cloudbeds.com/\n- [x] Cloudbees - https://www.cloudbees.com/\n- [ ] CodeCov - https://codecov.io/\n- [ ] Codelathe - https://www.getfilecloud.com/\n- [ ] Countly - https://count.ly/\n- [x] Crossover - https://www.crossover.com/\n- [ ] DataQuest - https://www.dataquest.io/\n- [x] DataRobot - http://www.datarobot.com\n- [x] Deel - https://www.letsdeel.com/\n- [ ] Differential - https://www.differential.com/\n- [ ] digitalminds.io - https://www.digitalminds.io/\n- [ ] Dotnetos - https://dotnetos.org/\n- [ ] Dotsub - https://dotsub.com/\n- [x] Doximity - https://www.doximity.com/\n- [ ] Dribbble - https://dribbble.com\n- [ ] Drupal Association - https://assoc.drupal.org/\n- [ ] Eloquentix - http://eloquentix.com/\n- [x] Envoy - https://envoy.com/\n- [ ] EquipmentShare - https://www.equipmentshare.com/\n- [x] Figma - https://www.figma.com/\n- [ ] Fullstack - https://gofullstack.com/\n- [ ] Genuitec - http://www.genuitec.com\n- [x] Ghost - https://ghost.org/\n- [x] Giant Swarm - https://www.giantswarm.io/\n- [ ] Gigster - https://gigster.com/\n- [ ] Gitee - https://gitee.com/\n- [ ] Gradle - https://gradle.com/\n- [ ] Help Docs - https://www.helpdocs.io/\n- [x] Hubstaff - https://hubstaff.com/\n- [x] Instructure - https://www.instructure.com/\n- [ ] Invisible Technologies - https://inv.tech/\n- [ ] Jibble Group - https://www.jibblegroup.com/\n- [ ] Judge.me - https://judge.me/\n- [ ] Keepsafe - https://www.getkeepsafe.com/\n- [x] Knack - https://www.knack.com\n- [ ] LaunchPotato - http://launchpotato.com/\n- [ ] Logikcull - https://www.logikcull.com/\n- [x] madewithlove - https://madewithlove.be/\n- [ ] Magic - https://getmagic.com/\n- [x] MariaDB - https://mariadb.com/\n- [x] Mattermost - https://mattermost.com/\n- [ ] Minerva Project - https://www.minervaproject.com/\n- [x] Modern Tribe - https://tri.be/\n- [ ] Modus Create - https://moduscreate.com/\n- [ ] Mosalingua - https://www.mosalingua.com/en/\n- [ ] MyTime - https://www.mytime.com/\n- [x] NearForm - https://www.nearform.com/\n- [x] Netlify - https://www.netlify.com/\n- [ ] Nightwatch - https://nightwatch.io/\n- [ ] NinjaCat - https://www.ninjacat.io/\n- [ ] Niteo - https://niteo.co/\n- [x] Nozbe - https://nozbe.com/\n- [ ] Octane AI - https://www.octaneai.com/\n- [ ] onTheGo Systems - https://www.onthegosystems.com\n- [ ] Parknav - https://parknav.com/\n- [ ] Pathstream - https://www.pathstream.com/\n- [ ] Patients Know Best - https://patients.workable.com/\n- [ ] Pilot - https://pilot.co/\n- [x] Pluralsight - https://www.pluralsight.com/\n- [x] Power - https://powerhrg.com/\n- [ ] ProdPerfect - https://prodperfect.com/\n- [x] Prominent Edge - https://prominentedge.com/\n- [ ] Pythian - https://www.pythian.com/\n- [ ] Retail Zipline - https://www.retailzipline.com/\n- [x] Scribd - https://www.scribd.com/\n- [ ] Sendle - https://www.sendle.com/\n- [ ] Serverless - https://www.serverless.com/\n- [x] ServiceNow - https://www.servicenow.com/\n- [ ] ShakaCode - http://www.shakacode.com/\n- [ ] Shelterluv - https://www.shelterluv.com/\n- [x] Shopify - https://www.shopify.com/\n- [x] Signal - https://www.signal.org/\n- [x] Sketch - https://www.sketch.com/\n- [ ] Skyscrapers - http://skyscrapers.eu/\n- [x] Slack - https://slack.com/\n- [x] Sonatype - https://www.sonatype.com/\n- [x] Sourcegraph - https://about.sourcegraph.com/\n- [x] Spreaker - https://www.spreaker.com/\n- [ ] SuperOrbital - https://superorbit.al/\n- [ ] Tesera - https://tesera.com/\n- [ ] Thermeon - http://thermeon.com/\n- [x] Thorn - https://thorn.org/\n- [x] Time Doctor - https://www.timedoctor.com/\n- [ ] Tithe.ly - https://get.tithe.ly/\n- [x] Tyk - https://tyk.io/\n- [ ] Upstack - https://upstack.co/\n- [ ] Vidalingua - http://www.vidalingua.com/\n- [ ] Water Lily Pond - http://waterlilypond.co.uk/\n- [x] WorkOS - https://workos.com/\n- [x] XWP - https://xwp.co/\n- [x] You Need A Budget - https://www.youneedabudget.com/\n- [ ] YourSports - https://www.yoursports.com/\n- [ ] Z1 - https://z1.digital/\n- [ ] Zamphyr - https://zamphyr.com/\n- [ ] ZipRecruiter - https://www.ziprecruiter.com/",
-      "excerpt": "This list came from a Gist in #772 but to keep things tidy, I'm closing that Issue and moving it here as a checkbox list. Use the list below, if it isn't checked off, it may be free to add. Check the company doesn't e...",
-      "issueState": "open",
-      "contentHash": "476e073d94461fd47d483fe89590444bd3f3fcbb7c45d6588c5a472c1d0538b2",
-      "repository": "remoteintech/remote-jobs",
-      "repositoryUrl": "https://github.com/remoteintech/remote-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "fullstack",
-        "staff",
-        "data"
-      ],
-      "author": {
-        "id": "dougaitken",
-        "name": "dougaitken",
-        "handle": "dougaitken",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52214?v=4"
-      },
-      "community": {
-        "id": "remoteintech",
-        "name": "remoteintech",
-        "avatarUrl": "https://github.com/remoteintech.png?size=80",
-        "repository": "remoteintech/remote-jobs",
-        "url": "https://github.com/remoteintech/remote-jobs"
-      },
-      "createdAt": "2025-10-27T19:23:32Z",
-      "updatedAt": "2026-05-02T14:00:27Z",
-      "url": "https://github.com/remoteintech/remote-jobs/issues/2040",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6284b68530bc4b1d4959e9c8",
-      "sourceId": "devfsa/vagas#2820",
-      "title": "[Hibrido / São Paulo, Brasil] UX/UI Designer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/uxui-designer-171340783?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\nEstamos buscando **U/UX Designer** para compor nosso time!\n\n**Objetivo da função:**\n\nPlanejar e desenvolver interfaces digitais e fluxos de navegação que proporcionem experiências intuitivas, acessíveis e funcionais para os usuários, alinhando design e usabilidade aos objetivos estratégicos da empresa.\n\n**Responsabilidades:**\n\n● Colaborar diretamente com os times de tecnologia e produto para garantir a viabilidade técnica dos projetos e uma boa experiência para o usuário;\n\n● Desenvolver wireframes, protótipos e layouts para plataformas digitais, incluindo web, aplicativos mobile e websites;\n\n● Conduzir pesquisas e estudos sobre experiência do usuário para embasar decisões de design;\n\n● Mapear e aprimorar a jornada do usuário, garantindo a melhoria contínua das ferramentas e produtos;\n\n● Manter a biblioteca de componentes (Design System) e especificações de design atualizadas;\n\n● Elaborar especificações de design para o time de desenvolvimento;\n\n● Analisar dados de uso e métricas de experiência (Google Analytics, Hotjar, etc.) para identificar oportunidades e validar hipóteses de design.\n## Namu: \n <p>Começamos nossa trajetória em 2013 com o Portal Namu e desde então nos tornamos uma referência na produção de conteúdo multimídia de bem-estar. Temos a yoga, o pilates e a gastronomia como as principais vertentes da empresa, e mais de 8 milhões de páginas visualizadas compartilhamos ensinamentos em aulas, entrevistas e palestras com as maiores referências nacionais e internacionais. O grande sucesso das aulas de yoga, pilates e gastronomia, com mais de 10 milhões de visualizações no YouTube nos inspirou a criar o Namu Cursos, a primeira plataforma brasileira de cursos online completamente focada em uma vida equilibrada.</p>\n<p>Em pouco mais de um ano construímos um portfólio que oferece a oportunidade e comodidade de praticar yoga onde e quando você quiser, com mais de 87 horas de aulas divididas entre 35 cursos. Os cursos são ministrados por professores de referência no Brasil que, em vários anos de estudos e experiência nas melhores escolas ou com os Gurus ao redor do mundo, se capacitaram para ensinar de forma didática e com preço acessível.</p>\n\n ## Habilidades: \n - Figma \n- Programas Adobe de design \n- Design de Software \n- Product Discovery \n- Design UI \n- UI/UX Research\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Olhar crítico para estética e funcionalidade; \n- Capacidade de transformar insights de pesquisa em soluções de design; \n- Boa comunicação para apresentar ideias e defender soluções de forma clara e embasada; \n- Colaboração e flexibilidade para trabalhar em equipe multidisciplinar; \n- Organização, atenção a detalhes; \n- Curiosidade, criatividade e orientação para resultados. \n- Graduação em Design, Design de Interação ou áreas correlatas; \n- Experiência na concepção de produtos digitais com base em requisitos de negócio, discovery e research; \n- Aplicação de metodologias e ferramentas de design para direcionamento de soluções; \n- Experiência em Product Discovery e UX Research; \n- Habilidade em design de interfaces web e mobile (UI) e prototipação; \n- Domínio da ferramenta Figma e pacote Adobe; \n- Conhecimento em Design Thinking e Métodos Ágeis; \n- Experiência com Responsive Design e Direção de Arte; \n- Desenvolvimento de personas e condução de testes A/B; \n- Conhecimento dos guides visuais Android e iOS;\n\n## Benefícios: \n - VT \n- VR R$28/dia \n- Day off dentro do seu mês de aniversário \n- Namu saúde e bem-estar \n- Plano de Saúde Amil \n- Programa TEM Saúde (benefício com inclusão de dependentes) \n- Desconto em farmácias e exames\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [UX/UI Designer na Namu](https://coodesh.com/jobs/uxui-designer-171340783?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nDesign/UX",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "17057a29202c115d4a4caecbc17c260891ba3d01877763b7cad022e6dddf43ea",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-10-23T17:23:22Z",
-      "updatedAt": "2025-10-23T17:23:22Z",
-      "url": "https://github.com/devfsa/vagas/issues/2820",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fea096ffe5fa2e076e317137",
-      "sourceId": "programadores-br/geral#3039",
-      "title": "[Hibrido / São Paulo, Brasil] UX/UI Designer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/uxui-designer-171340783?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando **U/UX Designer** para compor nosso time!\n\n**Objetivo da função:**\n\nPlanejar e desenvolver interfaces digitais e fluxos de navegação que proporcionem experiências intuitivas, acessíveis e funcionais para os usuários, alinhando design e usabilidade aos objetivos estratégicos da empresa.\n\n**Responsabilidades:**\n\n● Colaborar diretamente com os times de tecnologia e produto para garantir a viabilidade técnica dos projetos e uma boa experiência para o usuário;\n\n● Desenvolver wireframes, protótipos e layouts para plataformas digitais, incluindo web, aplicativos mobile e websites;\n\n● Conduzir pesquisas e estudos sobre experiência do usuário para embasar decisões de design;\n\n● Mapear e aprimorar a jornada do usuário, garantindo a melhoria contínua das ferramentas e produtos;\n\n● Manter a biblioteca de componentes (Design System) e especificações de design atualizadas;\n\n● Elaborar especificações de design para o time de desenvolvimento;\n\n● Analisar dados de uso e métricas de experiência (Google Analytics, Hotjar, etc.) para identificar oportunidades e validar hipóteses de design.\n## Namu: \n <p>Começamos nossa trajetória em 2013 com o Portal Namu e desde então nos tornamos uma referência na produção de conteúdo multimídia de bem-estar. Temos a yoga, o pilates e a gastronomia como as principais vertentes da empresa, e mais de 8 milhões de páginas visualizadas compartilhamos ensinamentos em aulas, entrevistas e palestras com as maiores referências nacionais e internacionais. O grande sucesso das aulas de yoga, pilates e gastronomia, com mais de 10 milhões de visualizações no YouTube nos inspirou a criar o Namu Cursos, a primeira plataforma brasileira de cursos online completamente focada em uma vida equilibrada.</p>\n<p>Em pouco mais de um ano construímos um portfólio que oferece a oportunidade e comodidade de praticar yoga onde e quando você quiser, com mais de 87 horas de aulas divididas entre 35 cursos. Os cursos são ministrados por professores de referência no Brasil que, em vários anos de estudos e experiência nas melhores escolas ou com os Gurus ao redor do mundo, se capacitaram para ensinar de forma didática e com preço acessível.</p>\n\n ## Habilidades: \n - Figma \n- Programas Adobe de design \n- Design de Software \n- Product Discovery \n- Design UI \n- UI/UX Research\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Olhar crítico para estética e funcionalidade; \n- Capacidade de transformar insights de pesquisa em soluções de design; \n- Boa comunicação para apresentar ideias e defender soluções de forma clara e embasada; \n- Colaboração e flexibilidade para trabalhar em equipe multidisciplinar; \n- Organização, atenção a detalhes; \n- Curiosidade, criatividade e orientação para resultados. \n- Graduação em Design, Design de Interação ou áreas correlatas; \n- Experiência na concepção de produtos digitais com base em requisitos de negócio, discovery e research; \n- Aplicação de metodologias e ferramentas de design para direcionamento de soluções; \n- Experiência em Product Discovery e UX Research; \n- Habilidade em design de interfaces web e mobile (UI) e prototipação; \n- Domínio da ferramenta Figma e pacote Adobe; \n- Conhecimento em Design Thinking e Métodos Ágeis; \n- Experiência com Responsive Design e Direção de Arte; \n- Desenvolvimento de personas e condução de testes A/B; \n- Conhecimento dos guides visuais Android e iOS;\n\n## Benefícios: \n - VT \n- VR R$28/dia \n- Day off dentro do seu mês de aniversário \n- Namu saúde e bem-estar \n- Plano de Saúde Amil \n- Programa TEM Saúde (benefício com inclusão de dependentes) \n- Desconto em farmácias e exames\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [UX/UI Designer na Namu](https://coodesh.com/jobs/uxui-designer-171340783?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nDesign/UX",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "4881b0a5f4b9c86829f8871c802a96fc99155bf6a2074b44bc503bdcf149e9bb",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-10-23T17:23:06Z",
-      "updatedAt": "2025-10-23T17:23:38Z",
-      "url": "https://github.com/programadores-br/geral/issues/3039",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_85e96ece37aa7c4072d4d09a",
-      "sourceId": "datascience-br/vagas#150",
-      "title": "[REMOTO]  Analista de Dados (GCP)",
-      "description": "https://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff \nDescrição:\nBuscamos uma pessoa capaz de transformar dados em estratégia, com facilidade para transitar entre times técnicos e de negócio, conectando necessidades a soluções estruturadas e escaláveis. O foco da vaga é analisar e compreender produtos digitais, estruturando a ingestão e disponibilização desses dados no datalake para apoiar análises em um cliente do setor da saúde.\n\nValorizamos alguém com boa capacidade de organização, planejamento de escopo e execução das atividades de análise e especificação, garantindo entregas claras e consistentes para o time de engenharia realizar a implementação.\n\nRequisitos:\nObrigatório:\n\nExperiência com SQL e modelagem de dados (relacional e dimensional) em torno de 2 a 3 anos de experiência.\nConhecimento em arquiteturas de dados modernas e ambientes em nuvem (GCP - mínimo 1 ano).\nCapacidade analítica e visão de negócio para traduzir métricas em impacto.\nVivência com gestão de backlog, priorização de demandas e comunicação entre áreas.\nBoa comunicação e perfil colaborativo para atuar como ponte entre tecnologia e negócio.\nPró-atividade, capacidade de trabalhar em equipe, organização, e respeitar prazos\nCapacidade de planejar escopo e execução das atividades de análise e especificação para time de Engenharia de Dados\n\n\nDesejável:\n\nExperiência com integração de sistemas via API (XML, JSON, etc.).\nExperiência com DB NoSQL.\nExperiência com ferramentas de orquestração e integração (Airflow, Composer, BigQuery).\nConhecimento em outros ambientes clouds além de GCP, especialmente AWS e seus serviços\n\n\nAtribuições:\nAtuar na interface entre o negócio e o time de engenharia de dados, compreendendo as demandas estratégicas e traduzindo-as em requisitos técnicos.\nAvaliar necessidades de integração entre sistemas/ferramentas e o datalake, sejam via BD SQL e NoSQL, API, SFTP, entre outras.\nPlanejar e gerenciar o backlog de dados, garantindo priorização, clareza e alinhamento com as áreas envolvidas.\nCriar e otimizar modelos de dados e pipelines, assegurando qualidade, governança e consistência das informações.\nEscrever e revisar queries SQL complexas para análises, integrações e suporte à tomada de decisão.\nApoiar a construção de dashboards e indicadores que analisam questões sobre FINOPS.\nColaborar com engenheiros de dados e analistas de BI na criação de soluções em nuvem (GCP).\nRealizar a modelagem dimensional (fatos e dimensões) dos dados.\nInformações Adicionais:\nO que oferecemos para você crescer junto com a gente:\n\n🎓 Programa de Certificações para apoiar seu desenvolvimento técnico.\n\n🚀 Programa de Formação de Lideranças para quem busca evoluir na carreira como líder.\n\n📈 Plano de Desenvolvimento Individual estruturado, personalizado e contínuo.\n\n📚 Descontos em cursos de graduação e pós-graduação da PUCRS, ampliando suas oportunidades de aprendizado.\n\n💬 Encontros para troca de conhecimento com colegas da equipe.\n\n🤝 Rede interna com especialistas em dados, fortalecendo seu networking.\n\n🏆 Programa de incentivo à criação de conteúdos, premiando quem compartilha conhecimento nas redes da empresa.\n\n[Quero me candidatar] \n\nhttps://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff",
-      "excerpt": "https://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff Descrição: Buscamos uma pessoa capaz de transformar dados em estratégia, com facilidade para transitar entre times téc...",
-      "issueState": "open",
-      "contentHash": "6f6b0c7d767defb5e6facec140d9b210c5ca111525c2166c18680a5f81ee3008",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data"
-      ],
-      "author": {
-        "id": "arthurdepauli",
-        "name": "arthurdepauli",
-        "handle": "arthurdepauli",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/95439507?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-10-20T20:18:25Z",
-      "updatedAt": "2025-10-20T20:18:25Z",
-      "url": "https://github.com/datascience-br/vagas/issues/150",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c6e5cde5cf70452b958787bd",
-      "sourceId": "datascience-br/vagas#149",
-      "title": "[REMOTO] Engenheiro de Dados (GCP)",
-      "description": "https://datalakers.rhstorm.com.br/vagas/engenheiro-de-dados-gcp/a6f5bd12-f718-4772-937e-6b2ec5a14059\n\nDescrição:\nBuscamos um(a) Engenheiro(a) de Dados para atuar em um cliente da área da saúde para implementar pipelines no ambiente GCP usando Composer, Dataproc e BigQuery. Entre os principais desafios, deve definir e implementar pipelines de arquitetura de dados, importação, armazenamento, processamento e visualização.\n\n\n\n\n\nRequisitos:\nObrigatório:\n\nExperiência em desenvolvimento de pipelines de ELT/ETL.\nExperiência em PySpark.\nExperiência em SQL.\nExperiência em GCP (Airflow/Composer, Dataproc e Bigquery).\nConhecimento em Apache Spark.\nExperiência em linguagem de programação Python.\nFamiliaridade com práticas de processamento em Batch e Streaming.\nSuperior completo em Ciência da Computação, Sistemas de Informação, TI e áreas afins.\nPró-atividade, capacidade de trabalhar em equipe, organização, planejamento e respeitar prazos.\n\n\n\n\nDesejável:\n\nCertificação GCP Data Engineer.\nAtribuições:\nDesenvolver pipelines de processamento de dados para ingestão, transformação e carga em tempo hábil e eficiente;\nImplementar e manter integração contínua, visando à automação de processos e melhoria de desempenho.\nColaborar ativamente com o time multidisciplinar para entender as demandas de dados e entregar soluções alinhadas com as necessidades do negócio.\nRealizar análises de performance dos processos e propor otimizações para garantir a escalabilidade e confiabilidade das soluções de engenharia de dados.\nInformações Adicionais:\nInformações Adicionais:O que oferecemos para você crescer junto com a gente:\n\n🎓 Programa de Certificações para apoiar seu desenvolvimento técnico.\n\n🚀 Programa de Formação de Lideranças para quem busca evoluir na carreira como líder.\n\n📈 Plano de Desenvolvimento Individual estruturado, personalizado e contínuo.\n\n📚 Descontos em cursos de graduação e pós-graduação da PUCRS, ampliando suas oportunidades de aprendizado.\n\n💬 Encontros para troca de conhecimento com colegas da equipe.\n\n🤝 Rede interna com especialistas em dados, fortalecendo seu networking.\n\n🏆 Programa de incentivo à criação de conteúdos, premiando quem compartilha conhecimento nas redes da empresa.",
-      "excerpt": "https://datalakers.rhstorm.com.br/vagas/engenheiro-de-dados-gcp/a6f5bd12-f718-4772-937e-6b2ec5a14059 Descrição: Buscamos um(a) Engenheiro(a) de Dados para atuar em um cliente da área da saúde para implementar pipeline...",
-      "issueState": "open",
-      "contentHash": "db3c7189be13501c5c6d17b55d7531a8e48ff9ae5fac598b2e058efad2fbe563",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "arthurdepauli",
-        "name": "arthurdepauli",
-        "handle": "arthurdepauli",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/95439507?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-10-20T20:17:06Z",
-      "updatedAt": "2025-10-20T20:19:01Z",
-      "url": "https://github.com/datascience-br/vagas/issues/149",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7090b13757103ad4886dca79",
-      "sourceId": "datascience-br/vagas#148",
-      "title": "[Hibrido em Savassi - BH 1x p/ semana] Analista de BI Pleno/Sênior - PJ 6,5k - 9k",
-      "description": "## Descrição da vaga\n\nEstamos em busca de um(a) Analista de BI nível Pleno para integrar nosso time de Dados. A atuação será em modelo híbrido, com um dia presencial por semana no bairro Savassi, em Belo Horizonte, alocado em um de nossos clientes. Será responsável por desenvolver relatórios, indicadores e dashboards voltados para as áreas de negócio do cliente, contribuindo diretamente para a tomada de decisões estratégicas.\n\nO que você vai fazer (responsabilidades)\n\n-Construir, manter e otimizar consultas SQL para extração, manipulação e análise de dados.\n-Desenvolver dashboards e relatórios gerenciais (preferencialmente Looker; Power BI aceitável).\n-Disponibilizar dados e informações em relatórios acessíveis, facilitando a tomada de decisão.\n-Trabalhar com times técnicos e de negócio para entender necessidades e propor soluções eficientes.\n-Interagir com plataformas Google para coleta, análise e visualização de dados.\n\n## Local\n\nHibrido em Savassi - Belo Horizonte 1x p/ semana \n\n## Benefícios\n\n## Diferenciais\n\n🚀 Crescimento de carreira (feedbacks para desenvolvimento pessoal + certificações GCP)\n🧠 Tecnologias atuais\n⏰ Horários flexíveis\n🤝 Time colaborativo\n💸 Bonificação por indicação de novos colaboradores\n\n## Requisitos\n\nStack principal\n\n-Experiência sólida e comprovada com linguagem MySQL e BigQuery.\n-Experiência prática em pelo menos uma ferramenta de BI (Looker ou Power BI).\n-Boas práticas de modelagem de dados e ETL.\n-Experiência com ferramentas e soluções Google.\n\n#### Obrigatórios:\n\n-Possui equipamento próprio\n-Disponibilidade para atuação hibrida em Savassi - Belo Horizonte\n\n#### Desejáveis:\n\n#### Diferenciais:\n\n## Contratação\n\nContratação e requisitos\n\nContratação PJ com remuneração p/hora trabalhada entre R$36,93 - R$51,13/h (A proposta inicial mensal é de aproximadamente R$6.500 e R$9.000)\n\n## Nossa empresa\n\nA Minds Digital é uma IDTech especializada em biometria de voz, por meio da nossa inteligência artificial conseguimos autenticar e identificar a sua voz. Com ela as pessoas se tornam únicas, exclusivas e insubstituíveis. Além dessa tecnologia inovadora, trabalhamos também como Outsourcing com a responsabilidade de ajudar desenvolver toda área de TI, com soluções em nuvem para o nosso cliente.\n## Como se candidatar\n\nFaça sua inscrição pelo pelo formulário acessando o link: https://forms.gle/p83QXvhSZebNZmUK8\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada processo.\nCaso queira falar comigo me chame no LinkedIn:https://www.linkedin.com/in/vitor-albuquerque-rh/ \n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n\n- Hibrido\n\n#### Regime\n\n- PJ\n\n#### Nível\n\n- Pleno\n- Sênior",
-      "excerpt": "## Descrição da vaga Estamos em busca de um(a) Analista de BI nível Pleno para integrar nosso time de Dados. A atuação será em modelo híbrido, com um dia presencial por semana no bairro Savassi, em Belo Horizonte, alo...",
-      "issueState": "open",
-      "contentHash": "481dbf59711f5cd45da83a867ae072968af43a31c85805e184a4cb0f6b898362",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "principal",
-        "data"
-      ],
-      "author": {
-        "id": "Vitor-TI",
-        "name": "Vitor-TI",
-        "handle": "Vitor-TI",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/82530199?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 37,
-        "max": 51,
-        "period": "hour"
-      },
-      "createdAt": "2025-10-19T21:50:38Z",
-      "updatedAt": "2025-10-19T21:50:38Z",
-      "url": "https://github.com/datascience-br/vagas/issues/148",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_e2bf92920267625501ec5bdc",
       "sourceId": "Empregos-dev/Vagas-dev#110",
@@ -744,6 +531,226 @@
       "createdAt": "2025-08-23T18:35:32Z",
       "updatedAt": "2025-09-02T21:10:06Z",
       "url": "https://github.com/speedyapply/2026-AI-College-Jobs/issues/1",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_81aa8bfda8cd75209a233f69",
+      "sourceId": "TechnologyMasters/jobs#719",
+      "title": "Sr. Software Engineer",
+      "description": "# Hiring experienced Sr. Software Engineers at Turing! 🚀  \nApply Here: http://turing.com/s/DWBRdK\n\nTuring is one of the fastest-growing AI companies, pushing the boundaries of AI-assisted software development.  \nIn this role, you’ll review AI-generated code, rank solutions, and provide feedback to improve how Large Language Models (LLMs) learn real-world coding best practices.  \n\n## We’re looking for professionals with:  \n- 5+ years of software engineering experience, with 2 years as a full-stack engineer at a leading tech product company  \n- Strong skills in code review, debugging, and software design  \n\n## Role Details:  \n- **Location:** Global (Remote, flexible 10/20/40 hrs/week)  \n- **Work style:** Remote contract (flexible hours, partial PT overlap)  \n- **Salary:** $50–$150/hr, depending on experience & geography  \n\n👉 [Check out the full details](https://developers.turing.com/direct-apply/UiGLqtqqU30Y?&utm_source=ad&utm_medium=techmasters&utm_campaign=swe_100&utm_term=techmasters_discord)",
+      "excerpt": "# Hiring experienced Sr. Software Engineers at Turing! 🚀 Apply Here: http://turing.com/s/DWBRdK Turing is one of the fastest-growing AI companies, pushing the boundaries of AI-assisted software development. In this r...",
+      "issueState": "open",
+      "contentHash": "60fa8d24fd87f0f7591508b70740e275f0ed5c80be37db4698eb7694f83242dd",
+      "repository": "TechnologyMasters/jobs",
+      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "design"
+      ],
+      "author": {
+        "id": "aditya97499",
+        "name": "aditya97499",
+        "handle": "aditya97499",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/227619972?v=4"
+      },
+      "community": {
+        "id": "TechnologyMasters",
+        "name": "TechnologyMasters",
+        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
+        "repository": "TechnologyMasters/jobs",
+        "url": "https://github.com/TechnologyMasters/jobs"
+      },
+      "companyName": "Strong skills in code review, debugging, and software design",
+      "salary": {
+        "currency": "USD",
+        "min": 50,
+        "max": 150,
+        "period": "hour"
+      },
+      "createdAt": "2025-08-21T12:47:19Z",
+      "updatedAt": "2025-08-21T12:47:19Z",
+      "url": "https://github.com/TechnologyMasters/jobs/issues/719",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5e7c0ed3e21fb1a527ca77ca",
+      "sourceId": "Empregos-dev/Vagas-dev#108",
+      "title": "🚀 Vaga Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟 📍 São Paulo - Barueri 🚀",
+      "description": "# Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟\n\n- 📍 Localização: São Paulo - Barueri\n- 📈 Nível: pleno\n- 📃 Contrato: clt\n- 💰 Salário: R$ 4.000,00 - R$ 5.000,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\nEmpresa de tecnologia que atua com inteligência artificial especializada em logística, oferecendo soluções para otimização e automação de operações, com foco em eficiência e sustentabilidade na cadeia de suprimentos. 🏢\n\n\n## Atividades e responsabilidade:\n• Desenvolver e implementar sistemas com C# e JavaScript\n• Criar e consumir APIs RESTful\n• Projetar e manter bancos de dados relacionais (ex: SQL Server)\n• Contribuir com interfaces e funcionalidades web\n• Garantir qualidade de código e entregas dentro dos prazos\n\n\n## Requisitos:\n✔ Experiência em C# e JavaScript\n✔ Conhecimento em APIs RESTful e desenvolvimento web\n✔ Vivência com bancos de dados relacionais\n✔ Organização e autonomia no trabalho\n✔ Boa comunicação com equipe e stakeholders\n✔ Disponibilidade para trabalho 100% presencial em Alphaville\n\n\n## Benefícios:\n• Vale Refeição (R$ 30,00/dia) \n• Plano de saúde e odontológico sem custo\n• Seguro de vida\n\n## Mais Informações:\n🔹 Experiência com ASP.NET Core\n🔹 Conhecimento em metodologias ágeis\n🔹 Capacidade de propor soluções criativas e escaláveis\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/desenvolvedora-backend-pleno-c-javascript-8249)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
+      "excerpt": "# Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟 - 📍 Localização: São Paulo - Barueri - 📈 Nível: pleno - 📃 Contrato: clt - 💰 Salário: R$ 4.000,00 - R$ 5.000,00 - 🏃‍♂️ Corre para se candidatar, ainda dá tempo...",
+      "issueState": "open",
+      "contentHash": "c2d8fe8733f02d6ca8788fa124158bbbe48ccab2129c27ceaae1230f548d891e",
+      "repository": "Empregos-dev/Vagas-dev",
+      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "c#",
+        "pleno",
+        "são paulo - barueri"
+      ],
+      "author": {
+        "id": "ecossistemadev",
+        "name": "ecossistemadev",
+        "handle": "ecossistemadev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
+      },
+      "community": {
+        "id": "Empregos-dev",
+        "name": "Empregos-dev",
+        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
+        "repository": "Empregos-dev/Vagas-dev",
+        "url": "https://github.com/Empregos-dev/Vagas-dev"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 4000,
+        "max": 5000,
+        "period": "year"
+      },
+      "createdAt": "2025-08-08T00:46:06Z",
+      "updatedAt": "2025-08-08T00:46:06Z",
+      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/108",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_962eeb5d07c4cee43120e80f",
+      "sourceId": "TechnologyMasters/jobs#718",
+      "title": "Lean Analyst",
+      "description": "Apply @ rahul.g@laibatechnology.com\n\n**Position: Lean Analyst\n\nLocation: Houston, TX (Onsite)**\n\nExp: 6-15 Yrs\nMust have oil ang gas domain background\nThe Lean analyst will play a key role in driving process improvement projects by helping to facilitate and plan workshops with the Lean specialists and client team, analyzing and presenting pertinent data in the appropriate format, developing metrics and measurement tools to improve operating processes toward greater efficiency and effectiveness in all areas of oil and gas (upstream, downstream, chemicals, pipeline, etc.)\n\nTrack and record all relevant data for global Lean program, and refresh data for accuracy on monthly basis including but not limited to Lean Practitioner (LP) count, LP status, LP certification progress, yield rate, functional/job family representation, LP office location/geography, project tracking metrics, value tracking metrics, etc.\n\nAnalyze performance data/metrics, and develop appropriate presentations and dashboard tools to demonstrate Lean performance to client, including but not limited to SmartSheets, PowerBI, Tableau\n\nDevelop and build relevant process documents at the request of Lean specialists leveraging Visio, Mural, Zoom Whiteboard or Powerpoint\n\nConstruct and manage Microsoft SharePoint site for global Lean program and serve as site Admin to manage data storage, restricted access requests, subsite construction, etc.\n\nDesign, develop, and build HTML code using standard webpage design software (e.g. Figma) for professional Lean website\n\n\nApply @ rahul.g@laibatechnology.com",
+      "excerpt": "Apply @ rahul.g@laibatechnology.com **Position: Lean Analyst Location: Houston, TX (Onsite)** Exp: 6-15 Yrs Must have oil ang gas domain background The Lean analyst will play a key role in driving process improvement ...",
+      "issueState": "open",
+      "contentHash": "485a0c58c2b323cec4c33955d8c115ed5fad641c6a39964f1aa312d7b2c08c1c",
+      "repository": "TechnologyMasters/jobs",
+      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "onsite",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "Rahul-garg60",
+        "name": "Rahul-garg60",
+        "handle": "Rahul-garg60",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
+      },
+      "community": {
+        "id": "TechnologyMasters",
+        "name": "TechnologyMasters",
+        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
+        "repository": "TechnologyMasters/jobs",
+        "url": "https://github.com/TechnologyMasters/jobs"
+      },
+      "createdAt": "2025-08-01T20:50:49Z",
+      "updatedAt": "2025-08-01T20:50:49Z",
+      "url": "https://github.com/TechnologyMasters/jobs/issues/718",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4e61569a5d7ecd89c151cb8a",
+      "sourceId": "TechnologyMasters/jobs#717",
+      "title": "AI Solution Architect",
+      "description": "Apply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com)\n\n\n**Role - AI Solution Architect \nLocation - Remote, USA - PST time zone\nContract role** \n\nThe AI Solution Architect will be responsible for translating complex business challenges into viable, scalable, and secure AI/ML solutions. This role requires a deep understanding of AI/ML methodologies, data architectures, cloud platforms, and software engineering best practices. The successful candidate will work closely with business stakeholders, data scientists, ML engineers, software developers, and IT operations teams to architect, guide, and ensure the successful delivery of AI-powered products and services.\n\nyears of experience in solution architecture, with at least [Y+] years specifically focused on designing and implementing AI/ML solutions in an enterprise environment. Proven expertise in designing and deploying end-to-end machine learning pipelines. Strong understanding of various AI/ML techniques and algorithms (e.g., supervised, unsupervised, reinforcement learning, deep learning, NLP, computer vision). Hands-on experience with at least one major cloud platform's AI/ML services (AWS, Azure, GCP). Proficiency in programming languages commonly used in AI/ML (e.g., Python, R, Java). Familiarity with MLOps principles and tools for continuous integration, deployment, and monitoring of ML models. Solid understanding of data governance, data quality, and data security principles. Excellent problem-solving, analytical, and critical thinking skills. Strong communication, presentation, and interpersonal skills, with the ability to influence and collaborate effectively across diverse teams. Preferred Qualifications: Experience with Generative AI models (LLMs, diffusion models) and related frameworks (e.g., LangChain, LlamaIndex). Experience with big data technologies (e.g., Spark, Hadoop, Kafka). Certifications in relevant cloud AI/ML platforms (e.g., AWS Certified Machine Learning Specialty, Google Cloud Professional Machine Learning Engineer). Experience with agile development methodologies\n\n\nApply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com)",
+      "excerpt": "Apply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com) **Role - AI Solution Architect Location - Remote, USA - PST time zone Contract role** The AI Solution Architect will be responsible for transl...",
+      "issueState": "open",
+      "contentHash": "baf5392df4bf8a9e16e3986d5a43cf4080521d540bdc385d7c0a1ae2f2c9983b",
+      "repository": "TechnologyMasters/jobs",
+      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "python",
+        "java",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "Rahul-garg60",
+        "name": "Rahul-garg60",
+        "handle": "Rahul-garg60",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
+      },
+      "community": {
+        "id": "TechnologyMasters",
+        "name": "TechnologyMasters",
+        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
+        "repository": "TechnologyMasters/jobs",
+        "url": "https://github.com/TechnologyMasters/jobs"
+      },
+      "createdAt": "2025-08-01T15:52:12Z",
+      "updatedAt": "2025-08-01T15:52:12Z",
+      "url": "https://github.com/TechnologyMasters/jobs/issues/717",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4fe43a3256a6d731ae826236",
+      "sourceId": "TechnologyMasters/jobs#716",
+      "title": "Electrical Equipment Test Engineer",
+      "description": "APPLY on :    Email: **rahul.g@laibatechnology.com**\n\n\n****Position: Heavy Equipment Test Engineer\nLocation: Erie, PA (Onsite role)\nFull time / Permanent / Annual Salary**** \n\n\nRoles & Responsibilities:\n\nPerform all tests with minimum supervision, involving knowledge of power and control electronics, difficult circuits, electrical measurements, electrical theory and calculations, testing operations and data acquisition. \nDevelop, setup, and execute assigned tests\nAttend and contribute to reviews with leads, engineering, EHS, and others when necessary to review, update, approve and perform proposed functionality tests or similar changes \nAttend necessary safety and qualification training for working on electrical and mechanical test stands.\nWork on and communicate effectively with a cross functional team of technicians, engineers and Safety personnel\nProvide technical expertise as needed to ensure test needs are met\nEnsure all assigned tests are performed and documented properly\nAttend test review/planning meetings as needed\n\nWork Experience\n\nRequired Skills:\n\nAssociates degree in Electrical or Electronics Technology or a related technical discipline from an accredited university or college (Or a High School Diploma / GED with a minimum of 2 years of Military Technical Training or Electrical/Test experiences)\nHands on electrical troubleshooting capability and experience\nUnderstanding and ability to work with complicated electrical schematics, verbal instructions, and / or drawings \nTest Documentation writing/development capability and experience \nStrong computer skills (Word, Excel, Office, PowerPoint)\nAbility to meet physical / safety standards for heavy equipment test operations\nAbility to work weekends and/or on a rotating shift\n\n\nDesired Skills:\n\nA minimum of 1 year of work experience in a heavy equipment test related field\nKnowledge of AC / DC theory, Digital Electronics, 3 phase power, electric motor mechanics, electric motor theory (AC/DC), rotating machinery testing, electrical and mechanical test instrumentation, and troubleshooting electrical, mechanical, and hydraulic systems\nKnowledge and/or training on Pneumatic Systems\nAbility to properly use and care for assigned tools and equipment\nAbility to adhere to standards and do a quality job in a safe and timely manner\nAbility to promote climate of cooperation, such as; leading by example mentoring others in Quality, Safety, Environmental, and Lean philosophies\nAbility to rotate through all or most of the processes, rather than being assigned to a specific task\nAbility to work as part of a team and perform all related duties\n \n\nPhysical Requirements & Work Environment:\n\nMostly heavy industrial test environment with work on high HP (1000 KVA), medium voltage (2 KV) and high current (10 KA) systems and heavy mechanical machinery.\nFrequent requirement to lift up to 50 lbs., frequently required to walk, climb, bend, reach outward, and handle materials and tools. Occasionally required to sit, squat and/or kneel.\nWhile performing duties on this job, the employee is exposed to wet or hot, humid conditions (non-weather); work near moving mechanical parts and vibration. The noise level is usually loud. The vision requirements include: close vision, distance vision, peripheral vision, depth perception and ability to adjust focus.\nSubstantial amounts of telephone and computer work.\nHeavily Regulated Industries with strict adherence to procedures.\nFlexibility to meet business deadlines by staying late or arriving early.\nVaried Work Schedule to meet equipment delivery schedules. Weekend and rotating shift work.\nAbility to use personal transportation to visit customer locations.\n\n\nEmail: rahul.g@laibatechnology.com",
+      "excerpt": "APPLY on : Email: **rahul.g@laibatechnology.com** ****Position: Heavy Equipment Test Engineer Location: Erie, PA (Onsite role) Full time / Permanent / Annual Salary**** Roles & Responsibilities: Perform all tests with...",
+      "issueState": "open",
+      "contentHash": "d3b03192b89c3b5bbb51872f2dc2f4d131dae1833b236a1ef85592e6f19bbdb4",
+      "repository": "TechnologyMasters/jobs",
+      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "onsite",
+        "data"
+      ],
+      "author": {
+        "id": "Rahul-garg60",
+        "name": "Rahul-garg60",
+        "handle": "Rahul-garg60",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
+      },
+      "community": {
+        "id": "TechnologyMasters",
+        "name": "TechnologyMasters",
+        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
+        "repository": "TechnologyMasters/jobs",
+        "url": "https://github.com/TechnologyMasters/jobs"
+      },
+      "createdAt": "2025-08-01T15:04:02Z",
+      "updatedAt": "2025-08-01T15:05:24Z",
+      "url": "https://github.com/TechnologyMasters/jobs/issues/716",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_324055d14c5ee3765bdb1221",
+      "sourceId": "PrepAIJobs/New-Grad-2026#3",
+      "title": "New Grad",
+      "description": "### Link to Grad Posting\n\nhttps://work.mercor.com/jobs/list_AAABlmlUjFNWBdE31bNALLGU?referralCode=45d6ae1e-76d4-49fc-abc8-c1f0f9472c91&utm_source=referral&utm_medium=share&utm_campaign=job_referral\n\n### Company Name\n\nMercor\n\n### Grad Title\n\nApplied AI Engineer\n\n### Location\n\nSan Francisco\n\n### Does this opportunity offer sponsorship?\n\nOffers Sponsorship\n\n### Is this position currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nyukuairoy@gmail.com\n\n### Extra Notes (Optional)\n\nI'm hiring for this role and candidates can contact me directly.",
+      "excerpt": "### Link to Grad Posting https://work.mercor.com/jobs/list_AAABlmlUjFNWBdE31bNALLGU?referralCode=45d6ae1e-76d4-49fc-abc8-c1f0f9472c91&utm_source=referral&utm_medium=share&utm_campaign=job_referral ### Company Name Mer...",
+      "issueState": "open",
+      "contentHash": "42cdf122e8f2b7200cc9e7991c258fc8c8fd6fd61ba223432b443a5186e38bbb",
+      "repository": "PrepAIJobs/New-Grad-2026",
+      "repositoryUrl": "https://github.com/PrepAIJobs/New-Grad-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "yukuairoy",
+        "name": "yukuairoy",
+        "handle": "yukuairoy",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5060492?v=4"
+      },
+      "community": {
+        "id": "PrepAIJobs",
+        "name": "PrepAIJobs",
+        "avatarUrl": "https://github.com/PrepAIJobs.png?size=80",
+        "repository": "PrepAIJobs/New-Grad-2026",
+        "url": "https://github.com/PrepAIJobs/New-Grad-2026"
+      },
+      "createdAt": "2025-07-31T20:57:04Z",
+      "updatedAt": "2025-07-31T20:57:04Z",
+      "url": "https://github.com/PrepAIJobs/New-Grad-2026/issues/3",
       "sourceType": "github-issue"
     }
   ]
