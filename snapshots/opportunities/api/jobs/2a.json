@@ -1,40 +1,6 @@
 {
-  "generatedAt": "2026-04-30T05:52:47.673Z",
+  "generatedAt": "2026-05-14T06:19:13.544Z",
   "items": {
-    "gh_2aaa5666ff02ace03ebf32c6": {
-      "id": "gh_2aaa5666ff02ace03ebf32c6",
-      "sourceId": "ambicuity/New-Grad-Jobs#149",
-      "title": "[aw] No-Op Runs",
-      "description": "This issue tracks all no-op runs from agentic workflows in this repository. Each workflow run that completes with a no-op message (indicating no action was needed) posts a comment here.\n\n<details>\n<summary><b>📘 What is a No-Op?</b></summary>\n\nA no-op (no operation) occurs when an agentic workflow runs successfully but determines that no action is required. For example:\n- A security scanner that finds no issues\n- An update checker that finds nothing to update\n- A monitoring workflow that finds everything is healthy\n\nThese are successful outcomes, not failures, and help provide transparency into workflow behavior.\n\n</details>\n\n<details>\n<summary><b>🎯 How This Helps</b></summary>\n\nThis issue helps you:\n- Track workflows that ran but determined no action was needed\n- Distinguish between failures and intentional no-ops\n- Monitor workflow health by seeing when workflows decide not to act\n\n</details>\n\n<details>\n<summary><b>📚 Resources</b></summary>\n\n- [GitHub Agentic Workflows Documentation](https://github.com/github/gh-aw)\n\n</details>\n\n> [!TIP]\n> To stop a workflow from posting here, set `report-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   noop:\n>     report-as-issue: false\n> ```\n\n---\n\n> This issue is automatically managed by GitHub Agentic Workflows. Do not close this issue manually.\n> \n> **No action to take** - Do not assign to an agent.\n\n<!-- gh-aw-noop-runs -->\n\n> - [x] expires <!-- gh-aw-expires: 2026-04-09T21:31:28.822Z --> on Apr 9, 2026, 9:31 PM UTC",
-      "excerpt": "This issue tracks all no-op runs from agentic workflows in this repository. Each workflow run that completes with a no-op message (indicating no action was needed) posts a comment here. <details> <summary><b>📘 What i...",
-      "issueState": "open",
-      "contentHash": "62cc67f2ac42091925529f3010f47e4e0ad937a0ff16554f3514611ff004e804",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "stale",
-        "agentic-workflows"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-10T21:31:29Z",
-      "updatedAt": "2026-04-30T05:34:02Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/149",
-      "sourceType": "github-issue"
-    },
     "gh_2a32dd8a394da27f5c118299": {
       "id": "gh_2a32dd8a394da27f5c118299",
       "sourceId": "jobright-ai/2026-Engineering-New-Grad#1",

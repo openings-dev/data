@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-12T06:00:56.626Z",
+  "generatedAt": "2026-05-14T06:19:13.544Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
     "opportunities": 16,
-    "openIssues": 5,
-    "closedIssues": 11
+    "openIssues": 3,
+    "closedIssues": 13
   },
-  "dataHash": "f607eb6ed4f31e2017f63c1a20aba47e0d4d502b9a3ac66fafbd928abef88f02",
+  "dataHash": "1032781fc60e68e3c0910cc6d70cff4c30e4151c7feb15b0be9df2a39ff637b0",
   "items": [
     {
       "id": "gh_97960f30e27ec6a9c51a8615",
@@ -238,7 +238,7 @@
       "title": "[aw] Daily Backlog Burner failed",
       "description": "### Workflow Failure\n\n**Workflow:** [Daily Backlog Burner](#)  \n**Branch:** main  \n**Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968\n\n\n**🛡️ Protected Files**: The code push was refused because the patch modifies protected files (package manifests, agent instruction files, or repository security configuration). This protection guards against unintended supply chain changes.\n\n**Blocked Operations:**\n- `create_pull_request`: Cannot create pull request: patch modifies protected files (.github/workflows/ci.yml). Add them to the allowed-files configuration field or set protected-files: fallback-to-issue to create a review issue instead.\n\nTo review and apply these changes manually, configure `protected-files: fallback-to-issue` — the agent will create a review issue with instructions instead of blocking:\n```yaml\nsafe-outputs:\n  create-pull-request:\n    protected-files: fallback-to-issue\n```\n\n\n\n### Action Required\n\n**Option 1: Debug using any coding agent**\n\nUse this prompt with any coding agent (GitHub Copilot, Claude, Gemini, etc.):\n\n````\nDebug the agentic workflow failure using https://raw.githubusercontent.com/github/gh-aw/main/debug.md\n\nThe failed workflow run is at https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968\n````\n\n**Option 2: Assign this issue to Copilot**\n\nAssign this issue to Copilot using the `agentic-workflows` sub-agent to automatically debug and fix the workflow failure.\n\n**Option 3: Manually invoke the agent**\n\nDebug this workflow failure using your favorite Agent CLI and the `agentic-workflows` prompt.\n\n- Start your agent\n- Load the `agentic-workflows` prompt from `.github/agents/agentic-workflows.agent.md` or <https://github.com/github/gh-aw/blob/main/.github/agents/agentic-workflows.agent.md>\n- Type `debug the agentic workflow daily-backlog-burner failure in https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968`\n\n> [!TIP]\n> To stop a workflow from creating failure issues, set `report-failure-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   report-failure-as-issue: false\n> ```\n\n\n> Generated from [Daily Backlog Burner](https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968) · [◷](https://github.com/search?q=repo%3Aambicuity%2FNew-Grad-Jobs+is%3Aissue+%22gh-aw-workflow-id%3A+daily-backlog-burner%22&type=issues)\n> - [x] expires <!-- gh-aw-expires: 2026-03-25T10:57:35.715Z --> on Mar 25, 2026, 10:57 AM UTC\n\n<!-- gh-aw-agentic-workflow: Daily Backlog Burner, id: 23241125968, workflow_id: daily-backlog-burner, run: https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968 -->",
       "excerpt": "### Workflow Failure **Workflow:** [Daily Backlog Burner](#) **Branch:** main **Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968 **🛡️ Protected Files**: The code push was refused because the...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "894b3acbbe5a4c6c7eb2df12c3954f8190ec7fded94d39d84a9a23590901cae5",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -266,7 +266,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-03-18T10:57:35Z",
-      "updatedAt": "2026-04-30T05:33:57Z",
+      "updatedAt": "2026-05-14T05:51:36Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/208",
       "sourceType": "github-issue"
     },
@@ -387,7 +387,7 @@
       "title": "[aw] No-Op Runs",
       "description": "This issue tracks all no-op runs from agentic workflows in this repository. Each workflow run that completes with a no-op message (indicating no action was needed) posts a comment here.\n\n<details>\n<summary><b>📘 What is a No-Op?</b></summary>\n\nA no-op (no operation) occurs when an agentic workflow runs successfully but determines that no action is required. For example:\n- A security scanner that finds no issues\n- An update checker that finds nothing to update\n- A monitoring workflow that finds everything is healthy\n\nThese are successful outcomes, not failures, and help provide transparency into workflow behavior.\n\n</details>\n\n<details>\n<summary><b>🎯 How This Helps</b></summary>\n\nThis issue helps you:\n- Track workflows that ran but determined no action was needed\n- Distinguish between failures and intentional no-ops\n- Monitor workflow health by seeing when workflows decide not to act\n\n</details>\n\n<details>\n<summary><b>📚 Resources</b></summary>\n\n- [GitHub Agentic Workflows Documentation](https://github.com/github/gh-aw)\n\n</details>\n\n> [!TIP]\n> To stop a workflow from posting here, set `report-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   noop:\n>     report-as-issue: false\n> ```\n\n---\n\n> This issue is automatically managed by GitHub Agentic Workflows. Do not close this issue manually.\n> \n> **No action to take** - Do not assign to an agent.\n\n<!-- gh-aw-noop-runs -->\n\n> - [x] expires <!-- gh-aw-expires: 2026-04-09T21:31:28.822Z --> on Apr 9, 2026, 9:31 PM UTC",
       "excerpt": "This issue tracks all no-op runs from agentic workflows in this repository. Each workflow run that completes with a no-op message (indicating no action was needed) posts a comment here. <details> <summary><b>📘 What i...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "62cc67f2ac42091925529f3010f47e4e0ad937a0ff16554f3514611ff004e804",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -411,7 +411,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-03-10T21:31:29Z",
-      "updatedAt": "2026-04-30T05:34:02Z",
+      "updatedAt": "2026-05-14T05:51:39Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/149",
       "sourceType": "github-issue"
     },
