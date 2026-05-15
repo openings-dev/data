@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-14T11:11:35.083Z",
+  "generatedAt": "2026-05-15T02:29:49.871Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 16,
+    "opportunities": 15,
     "openIssues": 3,
-    "closedIssues": 13
+    "closedIssues": 12
   },
-  "dataHash": "78b6e6f74a005a78dad3c6a5df76cf707ca3cb059e240eb19855c865adc41eaf",
+  "dataHash": "916a6ac9bff28e7839ab72ba114adf713f4b84d05893f33d85c6281ca68541e0",
   "items": [
     {
       "id": "gh_97960f30e27ec6a9c51a8615",
@@ -155,43 +155,6 @@
       "createdAt": "2026-04-10T19:59:24Z",
       "updatedAt": "2026-04-11T15:56:23Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/249",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bba9509cd3fa07b6227e4e08",
-      "sourceId": "ambicuity/New-Grad-Jobs#250",
-      "title": "[Good First Issue]: add focused unit tests for publish helper",
-      "description": "### 🆕 Newcomer Friendly\nThis is a **Good First Issue** — a guided, well-scoped task designed for contributors\nwho are new to this repository.\n\n#### What you'll do\n- ✅ Read a small part of the codebase\n- ✅ Make a focused, well-defined change\n- ✅ Write or extend a test\n- ✅ Submit and merge a pull request\n\n#### Support\nThe maintainer actively monitors Good First Issues and will respond to questions\nwithin 24–48 hours.\n\n> [!IMPORTANT]\n> **This issue does not require prior scraping or API experience.**\n>\n> - Basic Python and Git are sufficient\n> - You must be assigned before starting — comment `/assign` to claim this issue\n> - Read [CONTRIBUTING.md](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTING.md)\n>   before opening a PR\n\n> [!NOTE]\n> ⏱️ **Typical time to complete:** 30–90 minutes (once local setup is done)\n> 🧩 **Difficulty:** Small, well-contained change\n> 🎓 **Best for:** First-time contributors\n\n### 👾 Task Description\nAdd a small dedicated test module for `scripts/publish.py::write_json_artifact`.\n\nTarget behaviors to verify:\n- creates missing parent directories automatically\n- writes valid JSON payload with pretty indentation\n- preserves UTF-8 content\n- writes a trailing newline (`\\n`) at EOF\n\nSuggested location:\n- new tests in `tests/test_publish.py`\n\n### ✅ Acceptance Criteria\n- [ ] Tests are added for `write_json_artifact` parent-directory creation behavior\n- [ ] Tests assert output file content is valid JSON with expected structure\n- [ ] Tests verify trailing newline is present at end of written artifact\n- [ ] Existing tests still pass (`make test`)\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format",
-      "excerpt": "### 🆕 Newcomer Friendly This is a **Good First Issue** — a guided, well-scoped task designed for contributors who are new to this repository. #### What you'll do - ✅ Read a small part of the codebase - ✅ Make a focus...",
-      "issueState": "closed",
-      "contentHash": "e12b582089e52c0187d6c1f53becbf46052c63dc087c2c9650214fb6a29f5c15",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "help wanted",
-        "good first issue",
-        "needs-triage",
-        "status: in-progress"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-10T19:59:24Z",
-      "updatedAt": "2026-04-11T01:50:38Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/250",
       "sourceType": "github-issue"
     },
     {
