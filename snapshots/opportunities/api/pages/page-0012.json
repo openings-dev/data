@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-14T22:04:59.024Z",
+  "generatedAt": "2026-05-15T06:27:53.572Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
   "ids": [
+    "gh_0334f931443ab00c53da098c",
     "gh_c1e8308e6f56f9f9fe5e212e",
     "gh_0916ca6958d7f404418dfcce",
     "gh_1ce4d396bdf950364af4492b",
@@ -22,10 +23,43 @@
     "gh_ff027a565cc24441464307e9",
     "gh_73f3507b952d2a8b09d86fea",
     "gh_a30547f5853d337ea89895e9",
-    "gh_7e923ca8233bc921db05ea5b",
-    "gh_35675ecd494ba80044916118"
+    "gh_7e923ca8233bc921db05ea5b"
   ],
   "items": [
+    {
+      "id": "gh_0334f931443ab00c53da098c",
+      "sourceId": "nodejs-tw/jobs#271",
+      "title": "【徵才】後端軟體工程師 (Backend Software Developer)",
+      "description": "職缺描述\n\n立昇恆數位創新有限公司正在尋找一位具有創新精神的後端軟體工程師加入我們快速發展的團隊。\n您將負責設計和開發解決方案，以支持我們的機器人產品在各行業中的運作。\n\n職務需求\n\n1.  設計及開發後端系統以支持機器人功能和業務需求。\n2. 使用nodejs進行服務端開發，確保系統的高效能和穩定性。\n3. 與跨部門團隊協作，確保技術解決方案符合業務需求。\n4. 在Google Cloud Platform (GCP)上進行部署及維護，確保系統可靠性。\n5. 提供故障排除及技術支持，以應對運行中的任何問題。\n6. 至少三年的相關工作經驗，具備nodejs及GCP的使用經驗。\n\n薪資範圍\n40,000~60,000元新台幣，依能力經驗，並且根據每季執行狀況KPI頒發季獎金。\n\n面試流程\n1. 提供作品集\n2. 面試\n\n聯絡方式：\n黃先生\nservice@everise.digital",
+      "excerpt": "職缺描述 立昇恆數位創新有限公司正在尋找一位具有創新精神的後端軟體工程師加入我們快速發展的團隊。 您將負責設計和開發解決方案，以支持我們的機器人產品在各行業中的運作。 職務需求 1. 設計及開發後端系統以支持機器人功能和業務需求。 2. 使用nodejs進行服務端開發，確保系統的高效能和穩定性。 3. 與跨部門團隊協作，確保技術解決方案符合業務需求。 4. 在Google Cloud Platform (GCP)上進行部署及維護，...",
+      "issueState": "open",
+      "contentHash": "f936e9ee46f27074bbf748d96999bc8c6f82cb13febd69406b81afea930a00ea",
+      "repository": "nodejs-tw/jobs",
+      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "backend",
+        "node"
+      ],
+      "author": {
+        "id": "yenming",
+        "name": "yenming",
+        "handle": "yenming",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7127769?v=4"
+      },
+      "community": {
+        "id": "nodejs-tw",
+        "name": "nodejs-tw",
+        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
+        "repository": "nodejs-tw/jobs",
+        "url": "https://github.com/nodejs-tw/jobs"
+      },
+      "createdAt": "2025-06-22T15:26:45Z",
+      "updatedAt": "2025-06-22T15:26:45Z",
+      "url": "https://github.com/nodejs-tw/jobs/issues/271",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c1e8308e6f56f9f9fe5e212e",
       "sourceId": "nerdzao/vagas#186",
@@ -727,48 +761,6 @@
       "createdAt": "2025-05-05T15:12:31Z",
       "updatedAt": "2025-05-05T15:12:58Z",
       "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/112",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_35675ecd494ba80044916118",
-      "sourceId": "Empregos-dev/Vagas-dev#99",
-      "title": "🚀 Vaga DESENVOLVEDOR DE HARDWARE PJ (PORTO ALEGRE) 🖥️ 📍 Presencial - Porto Alegre 🚀",
-      "description": "# DESENVOLVEDOR DE HARDWARE PJ (PORTO ALEGRE) 🖥️\n\n- 📍 Localização: Presencial - Porto Alegre\n- 📈 Nível: sênior\n- 📃 Contrato: pj\n- 💰 Salário: R$ 9.000,00 a R$ 10.000,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\n📢 Vaga urgente para Desenvolvedor de Hardware! \n\nSalário entre R$ 9.000,00 e R$ 10.000,00 (na modalidade MEI ou ME) com oportunidades de crescimento.\n\n\n## Atividades e responsabilidade:\n🔧 Atividades: \n\n- Desenvolver Firmware para aplicações embarcadas; \n- Desenvolver conceitos de novos produtos; \n- Validar projetos eletrônicos analisando PCB; \n- Produzir protótipos de ideias, recursos e funcionalidades; \n- Avaliar e corrigir problemas de produtos em andamento; \n- Participar das cerimônias de Desenvolvimento, Planejamento e entrega.\n\n\n## Requisitos:\n✅ Requisitos: \n\n- Mínimo de 3 a 5 anos de experiência na área; \n- Experiência em firmware de embarcados com programação em C/C++; \n- Experiência de desenvolvimento baseado nas famílias de microcontroladores ESP32 e STM32; \n- Familiaridade com ESP-IDF e PlatformIO; \n- Conhecimentos de protocolos de comunicação Industrial (Modbus, Profibus) e de Rede (SNMP); \n- Conhecimento de protocolos IoT (MQTT e HTTP); \n- Conhecimentos em controladores de redes Celular, WiFi e LoRa.\n\n\n## Benefícios:\n🎁 Benefícios: \n\n- Oportunidade de crescimento na carreira.\n\n## Mais Informações:\nℹ️ Horário: \n\n- Segunda à quinta-feira, das 8hs às 18hs e sexta das 8hs às 17hs.\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/desenvolvedor-de-hardware-pj-porto-alegre-5438)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
-      "excerpt": "# DESENVOLVEDOR DE HARDWARE PJ (PORTO ALEGRE) 🖥️ - 📍 Localização: Presencial - Porto Alegre - 📈 Nível: sênior - 📃 Contrato: pj - 💰 Salário: R$ 9.000,00 a R$ 10.000,00 - 🏃‍♂️ Corre para se candidatar, ainda dá te...",
-      "issueState": "open",
-      "contentHash": "dbe498ac48a161782d708ba47e7dd76b5f5c519bd5266d0bae8ea0ff2d192e6b",
-      "repository": "Empregos-dev/Vagas-dev",
-      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "pj",
-        "presencial - porto alegre",
-        "c/c++"
-      ],
-      "author": {
-        "id": "ecossistemadev",
-        "name": "ecossistemadev",
-        "handle": "ecossistemadev",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
-      },
-      "community": {
-        "id": "Empregos-dev",
-        "name": "Empregos-dev",
-        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
-        "repository": "Empregos-dev/Vagas-dev",
-        "url": "https://github.com/Empregos-dev/Vagas-dev"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 9000,
-        "max": 10000,
-        "period": "year"
-      },
-      "createdAt": "2025-05-02T12:54:40Z",
-      "updatedAt": "2025-05-02T12:54:40Z",
-      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/99",
       "sourceType": "github-issue"
     }
   ]
