@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-05-14T19:30:41.970Z",
+  "generatedAt": "2026-05-17T13:02:46.295Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_005e9d2bba01454364d45942",
+    "gh_4e34b19349821ddbbd2572e6",
     "gh_35788f44eaf100a0645b1750",
     "gh_0288f14e04d058580cc30e17",
     "gh_e13bb358bf081385545e2be0",
@@ -21,11 +23,71 @@
     "gh_42aec3e02f4705505e208eb2",
     "gh_4ea4dd77b7082cd6a55c6a18",
     "gh_c69d8dad1dde7423a19d72b3",
-    "gh_97af14f3ec3ca62e7db4666f",
-    "gh_18aeb84c7b8ace6d5be56e77",
-    "gh_4a3287b63e4b9420bebc557e"
+    "gh_97af14f3ec3ca62e7db4666f"
   ],
   "items": [
+    {
+      "id": "gh_005e9d2bba01454364d45942",
+      "sourceId": "speedyapply/2026-SWE-College-Jobs#39",
+      "title": "Other Issue",
+      "description": "### Issue or Feature Request\n\nTHE\nAce Hardware  IT Associate Software Engineer 2026 Summer Internship  Full Time/Paid/12 weeks IL Oak Brook.\nDOES NOT EXIST.",
+      "excerpt": "### Issue or Feature Request THE Ace Hardware IT Associate Software Engineer 2026 Summer Internship Full Time/Paid/12 weeks IL Oak Brook. DOES NOT EXIST.",
+      "issueState": "open",
+      "contentHash": "50bcfb06c21729614c24081ca55ee4557a25ce1d5c21cde7e4cf0fa16b924076",
+      "repository": "speedyapply/2026-SWE-College-Jobs",
+      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "DanV27",
+        "name": "DanV27",
+        "handle": "DanV27",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/130527793?v=4"
+      },
+      "community": {
+        "id": "speedyapply",
+        "name": "speedyapply",
+        "avatarUrl": "https://github.com/speedyapply.png?size=80",
+        "repository": "speedyapply/2026-SWE-College-Jobs",
+        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
+      },
+      "createdAt": "2026-05-07T13:13:59Z",
+      "updatedAt": "2026-05-07T13:13:59Z",
+      "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/39",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4e34b19349821ddbbd2572e6",
+      "sourceId": "awesome-jobs/vietnam#4930",
+      "title": "XCAP - Product Manager - Wealth Management - HCM - FT",
+      "description": "📍 Ho Chi Minh City | Full-time \nWhat you'll do\n• Define product vision and feature roadmap for a premium wealth platform\n• Translate complex financial concepts (portfolio allocation, risk modeling, succession planning) into clear product specs\n• Work closely with AI/ML and engineering teams to ship\n• Engage directly with early clients — HNW individuals and wealth managers\nWhat we're looking for\n• 3–6 years in Product Management, with at least 2 years in fintech, banking, or wealth management\n• Experience building products from scratch (0→1)\n• Strong understanding of financial products and investment advisory\n• Ability to write crystal-clear PRDs — engineering reads once, no follow-up questions\n• Business-level English\nBig plus: CFA/CFP, private banking background, or experience with AI/ML teams\nWhy join us\n• Rare chance to define a product category in an underserved market\n• AI-native stack - not a ChatGPT wrapper\n• Competitive salary + bonus\n• Clear path to Head of Product in 18–24 months\nApply via email: anh.ton@xnoquant.io or via LinkedIn at XCapital Technology.",
+      "excerpt": "📍 Ho Chi Minh City | Full-time What you'll do • Define product vision and feature roadmap for a premium wealth platform • Translate complex financial concepts (portfolio allocation, risk modeling, succession planning...",
+      "issueState": "open",
+      "contentHash": "1ec21fc07b57dd182e40df72c31e7c662642271ef672667a1c3956c5b73f4ff7",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [],
+      "author": {
+        "id": "tonnutramanh2-code",
+        "name": "tonnutramanh2-code",
+        "handle": "tonnutramanh2-code",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/235616798?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-05-07T07:11:33Z",
+      "updatedAt": "2026-05-07T07:38:51Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4930",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_35788f44eaf100a0645b1750",
       "sourceId": "awesome-jobs/vietnam#4929",
@@ -688,85 +750,6 @@
       "createdAt": "2026-04-24T13:45:37Z",
       "updatedAt": "2026-04-24T13:46:04Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1251",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_18aeb84c7b8ace6d5be56e77",
-      "sourceId": "awesome-jobs/vietnam#4925",
-      "title": "WAOHire - Twilio Developer (Ruby) - Remote - Contractor",
-      "description": "**Responsibilities:**\n- Platform Development: Design, configure, and optimize Twilio Flex and Studio workflows, including developing IVR systems to ensure optimal performance, scalability, and automated customer routing.\n- Workflow & Automation: Implement call and messaging workflows and integrate Twilio services with internal systems (like CRMs and ticketing platforms) to boost customer support efficiency.\n- Reporting & Analytics: Build comprehensive dashboards to track key metrics (such as call volume and agent productivity), provide actionable operational insights, and integrate AI-driven solutions.\n- Platform Optimization: Resolve performance bottlenecks and maintain system security, reliability, and scalability to continuously improve customer interaction flows.\n- Cross-Functional Collaboration: Partner with Product, Engineering, and Customer Operations teams to offer technical guidance on best practices for Twilio-based contact center architecture.\n\n**Requirements:**\n- At least 5 years of experience in software development.\n- Backend: Proficiency in TypeScript or Ruby.\n- Frontend: Experience with React.\n- Cloud: Experience with serverless compute and distributed storage patterns. \n- Experience or a strong desire to learnb how to integrate AI/ML models into production environments (e.g., for transcription, data extraction, or automated analysis) is a major advantage.\n- Integration: Skilled in building \"glue\" between platforms (e.g., pulling Zendesk notes via API to enrich communication logs). \n- Fluent in English (both verbal and written)\n**Nice to have:**\n- Experience with CPaaS platforms (Twilio, AWS Connect, or Vonage).\n- A background in Fintech or highly regulated industries (familiarity with handling sensitive data)\n\n**Benefits:**\n- Competitive salary (upto $3000 Net)\n- Contractor signing, no SHUI included\n- Remote working (only for Vietnamese candidates currently located in Vietnam)\n- Working in a professional, friendly, well-equipped environment both with foreigners and Vietnamese.\n- Extensive on job training, you will always have a chance to work with new emerging technologies.\n\nContact:\n- Zalo: 0834033300",
-      "excerpt": "**Responsibilities:** - Platform Development: Design, configure, and optimize Twilio Flex and Studio workflows, including developing IVR systems to ensure optimal performance, scalability, and automated customer routi...",
-      "issueState": "open",
-      "contentHash": "118337a26984d6fcfbf2efd6c9d313c3bbae9810d5fc87d322e650f789881923",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "react",
-        "typescript",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "nhatruchr",
-        "name": "nhatruchr",
-        "handle": "nhatruchr",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/231218520?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-04-24T03:25:58Z",
-      "updatedAt": "2026-04-24T03:26:20Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4925",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4a3287b63e4b9420bebc557e",
-      "sourceId": "backend-br/vagas#12227",
-      "title": "Mobile- Brasil em Dobro",
-      "description": "<!-- Por favor, poste apenas vagas para Mobile. -->\n\n## Nossa empresa\n\nNo Brasil em Dobro, nossa missão é simplificar experiências. Buscamos um designer pleno que alie proatividade à excelência visual para evoluir nossos aplicativos e plataformas. Se você possui um olhar meticuloso para detalhes, domina o Figma e compreende o design como uma ferramenta estratégica de produto, queremos você no time para moldar o futuro das nossas interfaces digitais.\nInforme a descrição da empresa.\n\n## Descrição da vaga\n\nEstamos em busca de um Desenvolvedor Mobile Senior - React Native para atuar no desenvolvimento e evolução de aplicações iOS e Android, escaláveis, seguras e de alta performance.\nEssa pessoa fará parte de um time colaborativo, com foco em qualidade de código, boas práticas de engenharia e entrega contínua de valor para o negócio.\nO papel envolve participar ativamente de decisões técnicas, desenvolvimento de novas funcionalidades, manutenção do aplicativo existente e colaboração próxima com outras áreas, como produto, design e infraestrutura/back-end, garantindo uma excelente experiência para o usuário.\nInforme a descrição da vaga.\n\n## Local\nFlorianópolis- Santa Catarina \n\n\nRemoto\n\n## Requisitos\n\n\nInglês intermediário\nComunicação via texto clara e rápida\nConsegue trabalhar de forma independente\nCuriosidade profunda\nAprendizado rápido e autodidata\nEsperamos que você trabalhe somente para o Brasil em Dobro (sem freelancer)\nVocê precisa ter computador próprio para começar a trabalhar\n\nConhecimentos (intermediário)\nReact Native \nReact Native | React | TypeScript | Git\nConsumo de APIs REST/GraphQL (axios/fetch, autenticação, refresh token, etc.)\nState management (Context, Zustand, Redux, etc.)\nTestes (Jest, React Native Testing Library)\nBuild & release (Android Studio/Xcode, CI/CD, Codemagic)\n\n Diferenciais\nFamiliaridade com serviços da AWS (S3, CloudFront, Cognito, etc.)\nExperiência com CI/CD (Bitrise, GitHub Actions, Fastlane, etc.)\nExperiência com observabilidade e crash reporting (Sentry, Firebase Crashlytics)\n\n\n\n## Benefícios\n\nDay office no aniversário, Floripa em Dobro (Para moradores da grande Florianópolis)  \n\n## Contratação\n\nCLT ou PJ \n\n## Como se candidatar \n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdhu_PntR6oI4Oec8tNlIcJKs6upTom_MHthdMo9KTMhOrtoA/viewform?usp=sharing&ouid=109376093729844002479\n\n\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n\n- Sênior\n\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "<!-- Por favor, poste apenas vagas para Mobile. --> ## Nossa empresa No Brasil em Dobro, nossa missão é simplificar experiências. Buscamos um designer pleno que alie proatividade à excelência visual para evoluir nosso...",
-      "issueState": "open",
-      "contentHash": "9ebf7f8dfd33df0b761c46b1fa5e571824221ae871000785e4d77c230f4cd583",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "sênior",
-        "remoto",
-        "aws",
-        "typescript",
-        "git"
-      ],
-      "author": {
-        "id": "rafaelamartins-BRASILEMDOBRO",
-        "name": "rafaelamartins-BRASILEMDOBRO",
-        "handle": "rafaelamartins-BRASILEMDOBRO",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/278704650?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-04-23T19:40:24Z",
-      "updatedAt": "2026-04-24T14:42:44Z",
-      "url": "https://github.com/backend-br/vagas/issues/12227",
       "sourceType": "github-issue"
     }
   ]
