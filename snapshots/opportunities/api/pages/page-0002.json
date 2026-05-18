@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-18T12:24:32.423Z",
+  "generatedAt": "2026-05-18T17:28:37.199Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_3e8010399abf27a86fd3a8bd",
     "gh_046e40a5a4aaffa9b0373703",
     "gh_005e9d2bba01454364d45942",
     "gh_4e34b19349821ddbbd2572e6",
@@ -22,10 +23,42 @@
     "gh_96c7575eb031866b4b7e2c45",
     "gh_d3b6a4244c421b1da0dd8ed9",
     "gh_42aec3e02f4705505e208eb2",
-    "gh_4ea4dd77b7082cd6a55c6a18",
-    "gh_c69d8dad1dde7423a19d72b3"
+    "gh_4ea4dd77b7082cd6a55c6a18"
   ],
   "items": [
+    {
+      "id": "gh_3e8010399abf27a86fd3a8bd",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2892",
+      "title": "Algonquin Capital Job Posting",
+      "description": "### Issue/Question\n\nHi there, I am with Algonquin Capital and we are looking to gain more exposure for the quantitative developer role we are looking for. I've attached the job posting - please advise on how we might be able to share this role on your site.\n\n[Quantitative Developer Algonquin Capital.pdf](https://github.com/user-attachments/files/27481946/Quantitative.Developer.Algonquin.Capital.pdf)",
+      "excerpt": "### Issue/Question Hi there, I am with Algonquin Capital and we are looking to gain more exposure for the quantitative developer role we are looking for. I've attached the job posting - please advise on how we might b...",
+      "issueState": "open",
+      "contentHash": "aa25a465e8a078d34f28e52b5d4fc96daafca64c2d51681fde8c7e6c95dafafc",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "misc"
+      ],
+      "author": {
+        "id": "mperera-algonquincap",
+        "name": "mperera-algonquincap",
+        "handle": "mperera-algonquincap",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/281684370?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-05-07T13:56:43Z",
+      "updatedAt": "2026-05-07T13:56:43Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2892",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_046e40a5a4aaffa9b0373703",
       "sourceId": "backend-br/vagas#12232",
@@ -714,42 +747,8 @@
       },
       "companyName": "Devvo Tecnologia",
       "createdAt": "2026-04-27T12:58:48Z",
-      "updatedAt": "2026-04-27T12:59:22Z",
+      "updatedAt": "2026-05-18T15:50:10Z",
       "url": "https://github.com/frontendbr/vagas/issues/8470",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c69d8dad1dde7423a19d72b3",
-      "sourceId": "react-brasil/vagas#3009",
-      "title": "[Hibrido/DF-Brasilia] - Desenvolvedor Desenvolvedor Full Stack Jr. (React/React Native/Nodejs)",
-      "description": "**Descrição da vaga**\n**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de oportunidades de crescimento, sua busca termina aqui! Sediados em Brasília, nossa missão é impulsionar a sociedade por meio de soluções de ponta, conduzindo a transformação digital de empresas de todos os portes.**\n\nJunte-se a nós e colabore ativamente no fortalecimento e aprimoramento da nossa equipe de tecnologia. Você terá a oportunidade de participar do desenvolvimento e manutenção de soluções de software de alto desempenho, trabalhando lado a lado com equipes multidisciplinares que garantem a excelência na execução e entrega de projetos ambiciosos.\n\n\n**Responsabilidades:**\n\nContribuição no desenvolvimento de projetos web e mobile;\nAuxílio na realização de testes de qualidade para assegurar a boa performance dos sistemas;\nExecução de deploys de sistemas;\nColaboração na melhoria contínua dos processos internos de gestão e desenvolvimento de projetos.\nParticipar da definição de arquitetura e escolha de tecnologias junto ao time;\nRevisar código de colegas (code review) e propor melhorias contínuas;\nColaborar com designers e product owners para transformar requisitos de negócio em soluções técnicas viáveis;\nDocumentar decisões técnicas, APIs e fluxos de trabalho para facilitar o onboarding de novos membros;\nZelar pelas boas práticas de segurança (OWASP Top 10, gestão de segredos, controle de acessos);\n\n\n**Requisitos:**\n\nDe 1 a 3 anos de experiência no desenvolvimento de aplicações Web e Mobile em ambiente corporativo;\nNoções de Docker e CI/CD (GitHub Actions, GitLab CI ou similares);\nExperiência como Desenvolvedor(a) Full Stack;\nHabilidade comprovada em React, React Native, Node e SQL;\nFamiliaridade com Git (branching, pull requests, resolução de conflitos);\nConhecimento básico de serviços em nuvem (GCP, AWS ou Azure) e monitoramento (Cloud Logging, Grafana, etc.)\nBoas habilidades de comunicação, organização e trabalho em equipe.\n\n\n**Diferenciais:**\n\nGraduado em Engenharia da Computação, Ciência da Computação ou áreas similares;\nExperiência no desenvolvimento com Terraform, GCP e publicações nas lojas (App Store e PlayStore);\nExperiência do gerenciamento de projetos e pessoas;\nProficiência em metodologias ágeis para um fluxo de trabalho otimizado.\n\n\n**Junte-se a Nós:**\n\nSe você está pronto(a) para um desafio estimulante em um ambiente colaborativo e inovador, este é o momento! Venha fazer parte da nossa equipe dedicada e impulsione sua carreira conosco na Devvo Tecnologia.\n\n\n**Como se candidatar:\n\nEnvie seu Currículo atualizado para [contato@devvo.com.br]\nPor favor, inclua no assunto do e-mail \"[Seu Nome] - Vaga de Desenvolvedor Full Stack Jr.\".\nAguardamos ansiosamente para conhecer você e discutir mais sobre essa oportunidade.**\n\n\nRegime do trabalho: Hibrido [2~3x presencial];\nModelo de Contratação: PJ",
-      "excerpt": "**Descrição da vaga** **Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente...",
-      "issueState": "open",
-      "contentHash": "721127137ed9a1531df54d3f1ef2c0dd175547d17b9513c75a73b2c8fd7deefe",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ pj",
-        "🏢 presencial"
-      ],
-      "author": {
-        "id": "LucasCamposDevvo",
-        "name": "LucasCamposDevvo",
-        "handle": "LucasCamposDevvo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/191256669?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-04-27T12:53:55Z",
-      "updatedAt": "2026-04-27T12:54:23Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3009",
       "sourceType": "github-issue"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T13:29:01.811Z",
+  "generatedAt": "2026-05-18T17:28:37.199Z",
   "items": {
     "gh_57ed728934c67b37c0bed798": {
       "id": "gh_57ed728934c67b37c0bed798",
@@ -38,42 +38,6 @@
       "createdAt": "2026-04-22T17:49:17Z",
       "updatedAt": "2026-04-24T19:07:27Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1250",
-      "sourceType": "github-issue"
-    },
-    "gh_572dce76ffa409fc0e7e05fe": {
-      "id": "gh_572dce76ffa409fc0e7e05fe",
-      "sourceId": "ambicuity/New-Grad-Jobs#249",
-      "title": "[Beginner]: add regression tests for artifact integrity failure modes",
-      "description": "### 🐥 Beginner Friendly\nWelcome! This is a **Beginner Issue** — a natural next step after Good First Issues.\n\nIt expects you to:\n- Read existing code and follow its patterns\n- Own a small implementation decision\n- Write or extend tests\n\n**Difficulty:**\n- Basic Python (reading and writing functions) required\n- No external API experience needed\n- Familiarity with the contribution workflow expected\n\n> [!IMPORTANT]\n> We recommend completing at least one Good First Issue before attempting a Beginner Issue.\n>\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n### 👾 Description of the Issue\n`run_integrity_checks()` in `scripts/quality.py` is a key guardrail for publish safety, but several important failure paths are not explicitly regression-tested end-to-end.\n\nAdd targeted tests for scenarios such as:\n- missing required artifacts (`docs/jobs.json`, `docs/health.json`)\n- invalid JSON payloads\n- jobs/health count mismatch detection\n- contract validation error propagation in report payload\n\nFocus on deterministic, temp-directory-based tests only (no live network calls).\n\n### ✅ Acceptance Criteria\n- [ ] The change is implemented in the correct file/function\n- [ ] Edge cases are handled (None, empty string, NaN, Unicode)\n- [ ] All existing tests pass (`make test`)\n- [ ] New tests are added covering the changed behavior\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🧪 Tests (tests/)",
-      "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
-      "issueState": "open",
-      "contentHash": "62e698455964e68b72cf2573a85596f7d23ac7052f25af270cd81db9a062a26b",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "needs-triage",
-        "priority: medium",
-        "beginner"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-10T19:59:24Z",
-      "updatedAt": "2026-04-11T15:56:23Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/249",
       "sourceType": "github-issue"
     },
     "gh_5791db11bff49b64cbc3e58f": {
