@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-18T17:28:37.199Z",
+  "generatedAt": "2026-05-18T19:29:18.135Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 14,
+    "opportunities": 12,
     "openIssues": 2,
-    "closedIssues": 12
+    "closedIssues": 10
   },
-  "dataHash": "216cc6a091201317fbbb90faa2a06d3d7f869c6362760f5e25fc63dd78d787ce",
+  "dataHash": "46554e760d48d3046d1ff614eeb1351e8ddbac231fbe42beb8e5646df0c78a78",
   "items": [
     {
       "id": "gh_97960f30e27ec6a9c51a8615",
@@ -441,75 +441,6 @@
       "createdAt": "2026-03-10T21:00:18Z",
       "updatedAt": "2026-04-24T05:11:55Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/145",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_61d52366e85daaa8db75f008",
-      "sourceId": "ambicuity/New-Grad-Jobs#24",
-      "title": "[Intermediate]: Expand test_config.py to cover filter_jobs, categorize_job, and deduplicate_jobs logic",
-      "description": "### Contributor Level\n\nThis is an intermediate issue. You need to understand how to write Python tests against functions that have no external dependencies, and how to read existing functions carefully enough to design meaningful test cases.\n\nPrerequisites:\n- Comfortable writing standalone Python test functions\n- Able to import and call functions from a separate module\n- Understands the difference between testing behavior vs. testing implementation\n\nEstimated time to complete: 4-6 hours, including reading the source functions and designing edge cases.\n\n---\n\n### Problem Description\n\n`test_config.py` is the entire test suite for this repository. It does one thing: load `config.yml` and assert that 10,000 or more companies are present. It does not cover any of the core filtering, categorization, or deduplication logic that the scraper depends on.\n\nThis means a regression in `filter_jobs()`, `categorize_job()`, or `deduplicate_jobs()` can silently ship to production and corrupt the live job board. The CI workflow (`ci.yml`) runs `python test_config.py` but this provides no confidence in the correctness of the data pipeline.\n\n---\n\n### Proposed Solution\n\nCreate a new file `scripts/test_scraper_logic.py` that exercises the core stateless functions using synthetic input data. No network calls, no API keys, and no external dependencies are required.\n\nThe file should follow the same runner pattern as `test_config.py` — a plain Python script that exits with code 0 on success and 1 on failure.\n\nMinimum required test coverage:\n\n**`categorize_job(title, description)`**\n- A title containing \"Software Engineer\" maps to `software_engineering`\n- A title containing \"Data Scientist\" maps to `data_ml`\n- A title with no matching keyword maps to `other`\n- Category ID, name, and emoji fields are all present in the return value\n\n**`is_valid_location(location)`**\n- Returns `True` for: `\"Remote\"`, `\"San Francisco, CA\"`, `\"New York, NY\"`, `\"Toronto, Canada\"`, `\"Bangalore, India\"`\n- Returns `False` for: `\"London, UK\"`, `\"Berlin, Germany\"`, `\"\"`, `None` (check the function signature before passing `None`)\n\n**`deduplicate_jobs(jobs)`**\n- A list with two identical jobs (same company, title, URL) returns one entry\n- A list with two jobs differing only by URL returns two entries\n- An empty list returns an empty list\n\n**`normalize_date_string(posted_at)`**\n- `\"Posted Today\"` returns today's date in `YYYY-MM-DD` format\n- `\"Posted Yesterday\"` returns yesterday's date\n- `\"Posted 3 Days Ago\"` returns a date 3 days in the past\n- A string that matches no pattern is returned unchanged\n\nAfter writing your tests, update `.github/workflows/ci.yml` to also run `python scripts/test_scraper_logic.py` in the `Run unit tests` step.\n\n---\n\n### Background Research\n\nRead these functions before writing any tests. Understanding their exact return types and edge case handling is essential for writing correct assertions:\n\n- `categorize_job()` — line ~278\n- `is_valid_location()` — line ~1067\n- `deduplicate_jobs()` — line ~973, and its helper `get_job_key()` at line ~950\n- `normalize_date_string()` — line ~1000\n\n---\n\n### Testing Your Changes\n\nRun your test file locally before opening a PR:\n\n```\ncd /path/to/New-Grad-Jobs\npython scripts/test_scraper_logic.py\n```\n\nAll tests must pass with exit code 0. Do not use AI to generate your test assertions — derive them from reading the actual function logic.\n\n---\n\n### Acceptance Criteria\n\n- `scripts/test_scraper_logic.py` exists and covers all four functions listed above\n- At least 3 test cases per function, including at least one edge case each\n- The file exits with code 0 on success and code 1 on any failure\n- `.github/workflows/ci.yml` runs the new test file in the `Run unit tests` step\n- `python -m py_compile scripts/test_scraper_logic.py` passes\n\n---\n\n### Done Checklist\n\nBefore opening your PR, confirm:\n\n- [ ] `python scripts/test_scraper_logic.py` passes locally with all tests green\n- [ ] `ci.yml` is updated to run the new test file\n- [ ] Test cases cover the four functions listed above with edge cases\n- [ ] No AI-generated test assertions — each assertion was derived from reading the source function\n- [ ] Commit message follows Conventional Commits format: `test(scraper): add logic tests for filter, categorize, and dedup functions`\n- [ ] `README.md` has not been modified (it is auto-generated)\n\n---\n\n### Additional Context\n\n- Files to work in: `scripts/test_scraper_logic.py` (new), `.github/workflows/ci.yml` (update)\n- Functions under test: `scripts/update_jobs.py`\n- Related guide: [CONTRIBUTING.md](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTING.md)",
-      "excerpt": "### Contributor Level This is an intermediate issue. You need to understand how to write Python tests against functions that have no external dependencies, and how to read existing functions carefully enough to design...",
-      "issueState": "closed",
-      "contentHash": "51c993cc659ea1dc483d89d46b7f161678d45a157c36b74d211dbf49d4316807",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "stale"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T20:13:06Z",
-      "updatedAt": "2026-04-17T04:52:19Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/24",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fd2b4e46207d949ab591ae31",
-      "sourceId": "ambicuity/New-Grad-Jobs#23",
-      "title": "[Intermediate]: Replace bare except clauses in date parsing functions with explicit exception types",
-      "description": "### Contributor Level\n\nThis is an intermediate issue. You need to understand how Python exception handling works and be comfortable reading a function end-to-end before making changes. You do not need to run the scraper against live APIs to complete this.\n\nPrerequisites:\n- Familiar with Python exception handling (`try/except`, exception hierarchies)\n- Able to identify what exceptions a block of code can realistically raise\n- Comfortable running `python -m py_compile` and basic local validation\n\nEstimated time to complete: 2-4 hours, including research and testing.\n\n---\n\n### Problem Description\n\nThree functions in `scripts/update_jobs.py` use bare `except:` clauses, which catch all exceptions including `SystemExit`, `KeyboardInterrupt`, and `MemoryError`. This pattern makes debugging nearly impossible when date parsing fails in production, because the error is swallowed silently and the job receives a fallback value with no diagnostic output.\n\nAffected functions and lines:\n\n- `format_posted_date()` — line ~1270: bare `except:` silently returns `\"Unknown\"`\n- `get_iso_date()` — line ~1283: bare `except:` silently returns `\"\"`\n- `get_sort_date()` (inner function inside `generate_jobs_json()`) — line ~1308: bare `except:` returns `datetime.min`\n\nCurrent pattern:\n\n```python\ndef format_posted_date(posted_at: str) -> str:\n    try:\n        ...date parsing logic...\n    except:\n        return \"Unknown\"\n```\n\nWhen a new date format arrives from a job board API, this silently produces `\"Unknown\"` in the live job board with no log output and no way to diagnose the root cause.\n\n---\n\n### Proposed Solution\n\nReplace all bare `except:` clauses in the three functions above with an explicit exception tuple covering the exceptions that date parsing can realistically raise. Add a diagnostic print statement so failures are visible in the GitHub Actions logs.\n\nThe correct exception types for date parsing in this codebase are: `ValueError`, `TypeError`, `OverflowError`, and `OSError` (the last covers timestamp-to-datetime conversion failures on some platforms).\n\nReference implementation:\n\n```python\ndef format_posted_date(posted_at) -> str:\n    try:\n        ...date parsing logic...\n    except (ValueError, TypeError, OverflowError, OSError) as e:\n        print(f\"  Warning: Could not parse date '{posted_at}': {e}\")\n        return \"Unknown\"\n```\n\nApply the same change to `get_iso_date()` and `get_sort_date()`. The print prefix should match the existing style used elsewhere in the file (e.g., `\"  Warning:\"` or `\"  Error:\"`).\n\n---\n\n### Background Research\n\nBefore writing your fix, read the following to understand what exceptions are realistic:\n\n- `dateutil.parser.parse()` raises `ValueError` and `OverflowError` on unparseable input\n- `datetime.fromtimestamp()` raises `OSError` on out-of-range timestamps on some platforms\n- `normalize_date_string()` (line ~1000) can be called with non-string types — check what `isinstance` guards are already in place\n\n---\n\n### Testing Your Changes\n\nNo network access is required. Write a short local test:\n\n```python\nfrom scripts.update_jobs import format_posted_date, get_iso_date\n\n# Should not raise, should return \"Unknown\" with a warning print\nprint(format_posted_date(\"not-a-date\"))\nprint(format_posted_date(None))\nprint(get_iso_date(\"garbage input\"))\n```\n\nRun `python -m py_compile scripts/update_jobs.py` to confirm no syntax errors.\n\n---\n\n### Acceptance Criteria\n\n- All three functions use explicit exception types with no bare `except:` remaining\n- Each `except` clause includes a `print()` statement with the failed input and exception message\n- `python -m py_compile scripts/update_jobs.py` passes\n- No logic changes beyond the exception handling — do not alter the fallback return values\n\n---\n\n### Done Checklist\n\nBefore opening your PR, confirm:\n\n- [ ] All three bare `except:` clauses are replaced with explicit exception types\n- [ ] Each except block prints a diagnostic message\n- [ ] `python -m py_compile scripts/update_jobs.py` passes locally\n- [ ] Commit message follows Conventional Commits format: `fix(scraper): replace bare except with explicit exception types in date functions`\n- [ ] `README.md` has not been modified (it is auto-generated)\n\n---\n\n### Additional Context\n\n- File: `scripts/update_jobs.py`\n- Functions: `format_posted_date()` (~L1270), `get_iso_date()` (~L1283), `get_sort_date()` (~L1308)\n- Same bare `except:` pattern exists in `save_market_history()` (~L1404, ~L1446) — fixing those is optional but welcome\n- Related guide: [CONTRIBUTING.md](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTING.md)",
-      "excerpt": "### Contributor Level This is an intermediate issue. You need to understand how Python exception handling works and be comfortable reading a function end-to-end before making changes. You do not need to run the scrape...",
-      "issueState": "closed",
-      "contentHash": "94362d5e7435df153b55415f56b0522a01d8c8f0136886e8b2848ad1d034fb5a",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "type: enhancement",
-        "stale"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T20:12:28Z",
-      "updatedAt": "2026-04-17T04:52:20Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/23",
       "sourceType": "github-issue"
     }
   ]
