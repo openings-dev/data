@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T06:50:10.077Z",
+  "generatedAt": "2026-05-18T22:00:14.894Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,8 +9,48 @@
     "openIssues": 19,
     "closedIssues": 11
   },
-  "dataHash": "8dc0d3d62aba1e8f3fd4b60984b43dcb516df143bb8160a15bd18ab44343377e",
+  "dataHash": "450e373db12684f89a52863e355a6119e579519ed65b54ce556c5fd7f07ea5e1",
   "items": [
+    {
+      "id": "gh_333c5838c2f9f7ce47f1bcd0",
+      "sourceId": "backend-br/vagas#12239",
+      "title": "[Alocação] Back-end + AI Engineer - Mission Brasil",
+      "description": "## Mission Brasil\n\nA Mission Brasil é uma plataforma que conecta empresas a uma rede ativa de usuários em todo o país para execução de missões em campo, pesquisas, auditorias, cliente oculto, vistorias e ações de trade marketing. Ao mesmo tempo, oferece oportunidades de renda extra para pessoas que desejam ganhar dinheiro pelo celular realizando missões simples e remuneradas. Com mais de 1 milhão de usuários e presença em mais de 5.000 municípios, a Mission Brasil atende tanto marcas que buscam escala e capilaridade quanto usuários em busca de novas formas de gerar renda.\n\n## Descrição da vaga\n\nEstamos em busca de um(a) Back-end + AI Engineer para atuar no desenvolvimento de soluções escaláveis com foco em APIs, automações inteligentes e aplicações baseadas em Inteligência Artificial.\nA pessoa será responsável por construir e evoluir serviços backend, integrar modelos de IA/LLMs e participar da arquitetura de produtos digitais com alto impacto no negócio.\n\nBuscamos alguém com perfil analítico, hands-on, que goste de resolver problemas complexos e tenha interesse em trabalhar na interseção entre engenharia de software e IA aplicada.\n\n## Obrigatórios\n\n- Experiência sólida com desenvolvimento backend\n- Domínio de Node.js, Python ou Go\n- Experiência com APIs REST\n- Conhecimento em bancos relacionais e NoSQL\n- Experiência com serviços cloud (AWS, GCP ou Azure)\n- Conhecimento em Docker e ambientes containerizados\n- Experiência com integração de APIs de IA/LLMs\n- Familiaridade com Git, CI/CD e boas práticas de engenharia\n- Capacidade de trabalhar de forma autônoma e colaborativa\n\n## Diferenciais\n- Experiência com LangChain, CrewAI, LlamaIndex ou frameworks similares\n- Conhecimento em RAG (Retrieval-Augmented Generation)\n- Experiência com vector databases (Pinecone, Weaviate, Chroma, pgvector)\n- Vivência com Kubernetes\n- Experiência com sistemas de mensageria (RabbitMQ, Kafka, SQS)\n- Conhecimento em observabilidade e monitoramento\n- Experiência com fine-tuning ou avaliação de modelos de IA\n\n## Local\n\nSão Paulo, SP\n\n## Requisitos\n\n- Desenvolver e manter APIs e serviços backend escaláveis\n- Criar integrações com modelos de IA (OpenAI, Anthropic, Gemini, etc.)\n- Estruturar pipelines de processamento de dados e automações\n- Trabalhar com arquiteturas orientadas a microsserviços e cloud\n- Implementar boas práticas de segurança, observabilidade e performance\n- Participar da definição técnica e evolução da arquitetura dos produtos\n- Desenvolver sistemas com foco em AI Agents, RAG e workflows inteligentes\n- Colaborar com times de produto, design e operações\n\n## Benefícios\n\n- Salário competitivo\n- Ambiente inovador\n- Liberdade para propor soluções e testar novas tecnologias\n- Contato direto com projetos de IA aplicada\n- Oportunidade de crescimento acelerado\n- Cultura colaborativa e orientada a resultados\n\n## Contratação\n\n- PJ\n\n## Como se candidatar\n\nEnvie curriculo e/ou github para eduardo.parucker@missionbrasil.com.br\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n- Especialista\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Presencial",
+      "excerpt": "## Mission Brasil A Mission Brasil é uma plataforma que conecta empresas a uma rede ativa de usuários em todo o país para execução de missões em campo, pesquisas, auditorias, cliente oculto, vistorias e ações de trade...",
+      "issueState": "open",
+      "contentHash": "78564630abe482e4b8bb428f73cdf0199d5b8bf8bdeca6b622de5a18dbf4d40d",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "python",
+        "node.js",
+        "go",
+        "especialista",
+        "presencial",
+        "aws"
+      ],
+      "author": {
+        "id": "paruckerr",
+        "name": "paruckerr",
+        "handle": "paruckerr",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1139650?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-18T19:43:20Z",
+      "updatedAt": "2026-05-18T19:43:40Z",
+      "url": "https://github.com/backend-br/vagas/issues/12239",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b8c97ddfaf8d7d5e0b19956c",
       "sourceId": "backend-br/vagas#12238",
@@ -707,46 +747,6 @@
       "createdAt": "2026-04-07T12:37:59Z",
       "updatedAt": "2026-05-08T19:00:47Z",
       "url": "https://github.com/backend-br/vagas/issues/12219",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_65d25f9cd821ac9d83e3f087",
-      "sourceId": "backend-br/vagas#12218",
-      "title": "[Remoto] Vagas Tech - Strider (USD)",
-      "description": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO LATAM | PAGAMENTO EM USD 💻🌎\nSe você deseja trabalhar para empresas dos Estados Unidos, receber em dólar e atuar 100% remoto da América Latina, essa pode ser a sua oportunidade!\nAtualmente tenho diversas vagas abertas para profissionais localizados no Brasil, Argentina, Colômbia, México, Paraguai, Chile, Peru e Costa Rica.\n\n🔗 Conecte-se comigo no LinkedIn:\nhttps://www.linkedin.com/in/thisclaudia\n\n💻 CRM ARCHITECT\n🔹 HubSpot, Salesforce\n📌 4+ anos de experiências\n💰 3k USD/mês\n🗣️ Inglês C1\n📍 Remoto – LATAM\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=Y3JtLWFyY2hpdGVjdC1lOWY4MGMxOD9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw== \n\n💻 PRODUCT & UX DESIGNER \n🔹 Figma, UX Design \n📌 6+ anos de experiências\n💰 3.8k-7.8k USD/month \n🗣️ Inglês C1\n📍 Remoto – LATAM\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=cHJvZHVjdC11eC1kZXNpZ25lci0wNzE5YWZjZj9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==\n\n💻 SALESFORCE BUSINESS ANALYST\n🔹 Salesforce Sales Cloud, Slack, Google Workspace (Sheets, Docs, Slides) \n📌 3 a 5 anos de experiência\n💰 3k – 5k USD/mês \n🗣️ Inglês B2 \n📍 Remoto – LATAM\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=c2FsZXNmb3JjZS1idXNpbmVzcy1hbmFseXN0LTJhZmEwODYzP3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz\n\n💻 SEO STRATEGIST \n🔹 5 a 6 anos de experiências\n🗣️ Inglês C1\n💰 1k-3k USD/month \n📍 Remoto – LATAM\n🛠️ Wordpress, Google Analytics, SEO, Screaming Frog, Google Search Console\nSemrush\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=Y29udGVudC1zcGVjaWFsaXN0LXNlby1jNGVkN2UzZD9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==\n\n💻 SENIOR GTM ENGINEER \n🔹 5+ anos de experiências\n🗣️ Inglês B2 \n💰 3k-5kUSD/mês \n📍 Remoto – LATAM\n🛠️ Salesforce Sales Cloud, Salesforce Flow\nApex (Programming language), Salesforce\nGTM processes \n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=c2VuaW9yLWd0bS1lbmdpbmVlci0xOGEzN2FmND9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==\n\n💻 DATA PLATFORM ENGINEER\n🔹 4+ anos de experiência\n🗣️ Inglês B2\n💰 3.5k – 5.5k USD/mês\n📍 Remoto – LATAM\n🛠️ Snowflake, DBT, Python, CI/CD, AWS, Terraform\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZGF0YS1wbGF0Zm9ybS1lbmdpbmVlci0wZDgyNTgzYT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==\n\n💻 MOBILE ENGINEER\n🔹 3 a 6+anos de experiências\n🗣️ Inglês B2\n📍 Remoto – LATAM\n💰 2.8k-3.8k USD/mês \n🛠️ React Native, CI/CD\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=bW9iaWxlLWVuZ2luZWVyLWUzMWVlNWM5P3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz \n\n💻 FULL-STACK ENGINEER\n🔹 5 a 7 anos de experiência\n🗣️ Inglês B2\n💰 2.8k – 3.8k USD/mês\n📍 Remoto – LATAM\n🛠️ React.js, Node.js, PostgreSQL, HTML/CSS, LLM, AWS\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1lbmdpbmVlci0yZGQ1M2NlZT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==\n\n💻 FULL-STACK ENGINEER\n🔹 5 a 8 anos de experiências\n🗣️ Inglês B2\n💰 3.5k – 5k USD/mês\n📍 Remoto – LATAM\n🛠️ Kotlin, PostgreSQL, MySQL, Google Cloud (GCP), Java, React.js, Golang\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1lbmdpbmVlci01NmIwZTU2Mj9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==\n\n\n🌎 Não encontrou uma vaga que combine com seu perfil?\nCadastre-se no link abaixo para futuras oportunidades 👇\n👉 app.onstrider.com/r/claudiaantunes",
-      "excerpt": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO LATAM | PAGAMENTO EM USD 💻🌎 Se você deseja trabalhar para empresas dos Estados Unidos, receber em dólar e atuar 100% remoto da América Latina, essa pode ser a sua oportunidad...",
-      "issueState": "open",
-      "contentHash": "8b3d86078084a0489f2b7d67dc7d9861a730223eb745fdf83826671ba69b4f0d",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "node.js",
-        "java",
-        "remoto",
-        "aws",
-        "mysql",
-        "postgresql",
-        "kotlin"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-03-28T07:02:53Z",
-      "updatedAt": "2026-04-18T16:38:09Z",
-      "url": "https://github.com/backend-br/vagas/issues/12218",
       "sourceType": "github-issue"
     },
     {
