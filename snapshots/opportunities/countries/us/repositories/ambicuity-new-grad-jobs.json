@@ -1,52 +1,16 @@
 {
-  "generatedAt": "2026-05-19T02:36:06.908Z",
+  "generatedAt": "2026-05-19T11:57:11.761Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 7,
+    "opportunities": 5,
     "openIssues": 1,
-    "closedIssues": 6
+    "closedIssues": 4
   },
-  "dataHash": "3b87d9eb39f4d4ef0f9c6dae85912d45ccb3e3dab7531128e288498318131d39",
+  "dataHash": "dad097d77ac4d7507efb92e64c7b7054ead47a99d85b5960de0947584911e922",
   "items": [
-    {
-      "id": "gh_97960f30e27ec6a9c51a8615",
-      "sourceId": "ambicuity/New-Grad-Jobs#260",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T18:17:01Z` |\n| Stale for | 92 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **92 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T18:17:01Z` | | Stale for | 92 ...",
-      "issueState": "closed",
-      "contentHash": "1789146490cfdb05b30001f98d198735d5384db965ce169b2d35a6d0af0e8a7f",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "stale",
-        "priority: critical",
-        "automation"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-27T19:49:47Z",
-      "updatedAt": "2026-05-12T05:41:36Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/260",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_e7e4a4073f27383bf34c4bd8",
       "sourceId": "ambicuity/New-Grad-Jobs#259",
@@ -193,42 +157,6 @@
       "createdAt": "2026-03-18T10:57:35Z",
       "updatedAt": "2026-05-14T05:51:36Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/208",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e3872386cd7d61ca723e6cff",
-      "sourceId": "ambicuity/New-Grad-Jobs#169",
-      "title": "[Beginner]: expand infrastructure keyword coverage for network automation, NOC, and network performance roles",
-      "description": "### 🐥 Beginner Friendly\nWelcome! This is a **Beginner Issue** — a natural next step after Good First Issues.\n\nIt expects you to:\n- Read existing code and follow its patterns\n- Own a small implementation decision\n- Write or extend tests\n\n**Difficulty:**\n- Basic Python (reading and writing functions) required\n- No external API experience needed\n- Familiarity with the contribution workflow expected\n\n> [!IMPORTANT]\n> We recommend completing at least one Good First Issue before attempting a Beginner Issue.\n>\n> **You must be assigned before starting** — comment `/assign` to claim this issue.\n> PRs submitted without a prior assignment will be closed.\n\n> [!TIP]\n> **You should be comfortable with:**\n> - Forking, branching, committing, and opening a PR without a tutorial\n> - Reading Python code you did not write and following its patterns\n> - Running `make test` and fixing failures before pushing\n> - Rebasing onto `main` to resolve merge conflicts\n\n### 👾 Description of the Issue\nThe current `infrastructure_sre` keyword list in `scripts/update_jobs.py` includes `network engineer`, but it misses several networking titles that are common in entry-level infrastructure hiring and already show up in real boards:\n\n- `network automation engineer`\n- `network performance engineer`\n- `noc engineer`\n- `network operations engineer`\n\nThat creates a quality gap where networking roles can fall into `other`, even though the project README explicitly says the board tracks network-focused roles.\n\nUpdate `CATEGORY_PATTERNS['infrastructure_sre']['keywords']` so these titles are classified consistently, and add tests that prove the behavior.\n\nLook at:\n\n- `scripts/update_jobs.py`\n- `tests/test_categorize.py`\n- live references in `docs/jobs.json` such as SpaceX networking roles\n\nDo not create a brand-new top-level category for this task. The goal is better classification within the existing `Infrastructure & SRE` bucket.\n\n**Before claiming:**\n- Check the issue labels to see what area this touches\n- Review the CodeRabbit AI plan for a rough implementation overview\n- If this feels like too big a step, try a Good First Issue first\n\n### ✅ Acceptance Criteria\n- [ ] Networking titles listed above classify to `infrastructure_sre`\n- [ ] The change is implemented in `scripts/update_jobs.py`\n- [ ] All existing tests pass (`make test`)\n- [ ] New tests are added covering the changed behavior\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format\n\n### 🏗️ Which area does this touch?\n🤖 Core scraper (scripts/update_jobs.py)",
-      "excerpt": "### 🐥 Beginner Friendly Welcome! This is a **Beginner Issue** — a natural next step after Good First Issues. It expects you to: - Read existing code and follow its patterns - Own a small implementation decision - Wri...",
-      "issueState": "closed",
-      "contentHash": "8804e7bb218c2d2892931099b2ad566d632b96b802c7c9e774f7176012dc9d21",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "help wanted",
-        "needs-triage",
-        "beginner"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-14T05:28:08Z",
-      "updatedAt": "2026-05-08T16:49:58Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/169",
       "sourceType": "github-issue"
     },
     {
