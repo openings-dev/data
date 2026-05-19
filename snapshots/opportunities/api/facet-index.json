@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-05-19T17:36:36.301Z",
+  "generatedAt": "2026-05-19T22:10:50.040Z",
   "dimensions": {
     "repositories": {
+      "backend-br/vagas": [
+        "gh_f528ed932103f94a64bcedb3",
+        "gh_0e939645dba1b1336b9aa8b7",
+        "gh_333c5838c2f9f7ce47f1bcd0",
+        "gh_b8c97ddfaf8d7d5e0b19956c",
+        "gh_0b48071263222f42f82eed85",
+        "gh_d8668644a6f0ebb1839f0122",
+        "gh_1efee2417f6bee01b5cd3f0a",
+        "gh_046e40a5a4aaffa9b0373703",
+        "gh_e13bb358bf081385545e2be0",
+        "gh_c2842e7382b7b6bf1db541df",
+        "gh_3ed888e508136df7f21ed82d",
+        "gh_4a3287b63e4b9420bebc557e",
+        "gh_e927f7a3d5012b5647329bd0",
+        "gh_d626fe94b7e42f4340d82624",
+        "gh_65d25f9cd821ac9d83e3f087",
+        "gh_a269acc66665707ccd197892",
+        "gh_4fc2477b7ca56d5007fa4cc5",
+        "gh_684ff1896e30b278732e5f5a",
+        "gh_326302de3583c428e75c13a7"
+      ],
       "programadores-br/geral": [
         "gh_73e0c5d98159d349f10f4fa9",
         "gh_3537ba57897dbc655d648955",
@@ -23,27 +44,6 @@
         "gh_f9338edba66dd0fc78e5cf9e",
         "gh_720980f7a8c28105a2b6a178",
         "gh_d2790bdd459d3b0acc4e320e"
-      ],
-      "backend-br/vagas": [
-        "gh_0e939645dba1b1336b9aa8b7",
-        "gh_333c5838c2f9f7ce47f1bcd0",
-        "gh_b8c97ddfaf8d7d5e0b19956c",
-        "gh_0b48071263222f42f82eed85",
-        "gh_d8668644a6f0ebb1839f0122",
-        "gh_1efee2417f6bee01b5cd3f0a",
-        "gh_046e40a5a4aaffa9b0373703",
-        "gh_e13bb358bf081385545e2be0",
-        "gh_c2842e7382b7b6bf1db541df",
-        "gh_3ed888e508136df7f21ed82d",
-        "gh_4a3287b63e4b9420bebc557e",
-        "gh_e927f7a3d5012b5647329bd0",
-        "gh_205016e47a65066e035664f3",
-        "gh_d626fe94b7e42f4340d82624",
-        "gh_65d25f9cd821ac9d83e3f087",
-        "gh_a269acc66665707ccd197892",
-        "gh_4fc2477b7ca56d5007fa4cc5",
-        "gh_684ff1896e30b278732e5f5a",
-        "gh_326302de3583c428e75c13a7"
       ],
       "awesome-jobs/vietnam": [
         "gh_e9b4a283834e5996e763f1fd",
@@ -843,6 +843,7 @@
     },
     "regions": {
       "South America": [
+        "gh_f528ed932103f94a64bcedb3",
         "gh_73e0c5d98159d349f10f4fa9",
         "gh_3537ba57897dbc655d648955",
         "gh_3074e9f6173315eedc1a54e6",
@@ -879,7 +880,6 @@
         "gh_e927f7a3d5012b5647329bd0",
         "gh_57ed728934c67b37c0bed798",
         "gh_79546b5940192c13dad52334",
-        "gh_205016e47a65066e035664f3",
         "gh_8bbc2d1fbf260ff495b6debe",
         "gh_a5d2446fe102d2b8b34f94c2",
         "gh_d626fe94b7e42f4340d82624",
@@ -1499,6 +1499,7 @@
     },
     "countries": {
       "Brazil": [
+        "gh_f528ed932103f94a64bcedb3",
         "gh_73e0c5d98159d349f10f4fa9",
         "gh_3537ba57897dbc655d648955",
         "gh_3074e9f6173315eedc1a54e6",
@@ -1535,7 +1536,6 @@
         "gh_e927f7a3d5012b5647329bd0",
         "gh_57ed728934c67b37c0bed798",
         "gh_79546b5940192c13dad52334",
-        "gh_205016e47a65066e035664f3",
         "gh_8bbc2d1fbf260ff495b6debe",
         "gh_a5d2446fe102d2b8b34f94c2",
         "gh_d626fe94b7e42f4340d82624",
@@ -2176,7 +2176,79 @@
       ]
     },
     "tags": {
+      "pj": [
+        "gh_f528ed932103f94a64bcedb3",
+        "gh_73e0c5d98159d349f10f4fa9",
+        "gh_3537ba57897dbc655d648955",
+        "gh_3074e9f6173315eedc1a54e6",
+        "gh_0e939645dba1b1336b9aa8b7",
+        "gh_333c5838c2f9f7ce47f1bcd0",
+        "gh_b8c97ddfaf8d7d5e0b19956c",
+        "gh_ba4f8e13f468e4ef55d8683c",
+        "gh_d797410281865fe5fdfcc927",
+        "gh_d8668644a6f0ebb1839f0122",
+        "gh_cda7c0fc8d1bf1340237fd89",
+        "gh_1efee2417f6bee01b5cd3f0a",
+        "gh_270034965458fc3af3e97f7b",
+        "gh_046e40a5a4aaffa9b0373703",
+        "gh_e13bb358bf081385545e2be0",
+        "gh_4ea4dd77b7082cd6a55c6a18",
+        "gh_c69d8dad1dde7423a19d72b3",
+        "gh_4a3287b63e4b9420bebc557e",
+        "gh_e927f7a3d5012b5647329bd0",
+        "gh_57ed728934c67b37c0bed798",
+        "gh_c19e786d010bd878cb453ffe",
+        "gh_44777bae6b4fe014c46c9687",
+        "gh_cb460a994692de5cafcca4d8",
+        "gh_bebc4c633e728a987497ecda",
+        "gh_dcdf78cbd3dbfc81b414065f",
+        "gh_3cb49aacda2ec7dd8e38be24",
+        "gh_1cb7700b20f4fcdce63c6f02",
+        "gh_15fb9ec0047c0e7cc80ada55",
+        "gh_5903d3232c2f99d9ae568fe8",
+        "gh_eae48d87a90e3ffbeb60afaf",
+        "gh_e643051c0833244abfc18c07",
+        "gh_9b5d9fbb31d726e63b2d6852",
+        "gh_1ab454dc5165fc4144b1968a",
+        "gh_2dda52493191f3b9d796a75a",
+        "gh_ee6ccd25c3e7ddfabb79530d",
+        "gh_f9338edba66dd0fc78e5cf9e",
+        "gh_720980f7a8c28105a2b6a178",
+        "gh_d2790bdd459d3b0acc4e320e",
+        "gh_4ceaaa1806d1792dbb109bcb",
+        "gh_326302de3583c428e75c13a7",
+        "gh_bf09c7d748b34bd02d2443a5",
+        "gh_8db85587dee791f9b3c4b60d",
+        "gh_caa5aac79acc6f4ebbd77fe4",
+        "gh_a9233bdfb914b0a5d4293e24",
+        "gh_1ce4d396bdf950364af4492b",
+        "gh_41c29be6f0ed9aa55bba60f2",
+        "gh_35675ecd494ba80044916118",
+        "gh_37d4fbca63e20e104991a24e",
+        "gh_62458a563a0020a9016b76c8",
+        "gh_a087c2a7e4c36bd695c90fdc",
+        "gh_89803f47f897852dacdda1b0",
+        "gh_a2e4d9bb2f7ed9fc4102fd7e",
+        "gh_08f3bd4c20c7fe00b27026b4",
+        "gh_765c52689426865cf1b7436b",
+        "gh_bb48358b6dad443eeb12b358",
+        "gh_260f6a61331b6aa993b78340",
+        "gh_91b78ae35204f1e36f0bbe14",
+        "gh_d52bb8fcdb4d2e9adfe1c750",
+        "gh_e9721afbc9b4182c76aa329b",
+        "gh_0f9ff03150a09e129cb26187"
+      ],
+      "tdd": [
+        "gh_f528ed932103f94a64bcedb3"
+      ],
+      "ruby": [
+        "gh_f528ed932103f94a64bcedb3",
+        "gh_5102037c7d2ef00f074349ba",
+        "gh_7b019f4a45224b8daa71263a",
+        "gh_2e287f38108c3c23aa596c09"
+      ],
       "remote": [
+        "gh_f528ed932103f94a64bcedb3",
         "gh_73e0c5d98159d349f10f4fa9",
         "gh_3537ba57897dbc655d648955",
         "gh_3074e9f6173315eedc1a54e6",
@@ -2202,7 +2274,6 @@
         "gh_4a3287b63e4b9420bebc557e",
         "gh_e927f7a3d5012b5647329bd0",
         "gh_57ed728934c67b37c0bed798",
-        "gh_205016e47a65066e035664f3",
         "gh_a5d2446fe102d2b8b34f94c2",
         "gh_d626fe94b7e42f4340d82624",
         "gh_c55c0ec98d8be9c01ebe7432",
@@ -2342,67 +2413,19 @@
         "gh_97b38c3549056e8284da124d",
         "gh_afdb6ae2b462869bcd4a67fc"
       ],
-      "pj": [
-        "gh_73e0c5d98159d349f10f4fa9",
-        "gh_3537ba57897dbc655d648955",
-        "gh_3074e9f6173315eedc1a54e6",
-        "gh_0e939645dba1b1336b9aa8b7",
-        "gh_333c5838c2f9f7ce47f1bcd0",
-        "gh_b8c97ddfaf8d7d5e0b19956c",
-        "gh_ba4f8e13f468e4ef55d8683c",
-        "gh_d797410281865fe5fdfcc927",
+      "testes-automatizados": [
+        "gh_f528ed932103f94a64bcedb3",
         "gh_d8668644a6f0ebb1839f0122",
-        "gh_cda7c0fc8d1bf1340237fd89",
         "gh_1efee2417f6bee01b5cd3f0a",
-        "gh_270034965458fc3af3e97f7b",
+        "gh_046e40a5a4aaffa9b0373703"
+      ],
+      "ci-cd": [
+        "gh_f528ed932103f94a64bcedb3",
+        "gh_b8c97ddfaf8d7d5e0b19956c",
+        "gh_d8668644a6f0ebb1839f0122",
+        "gh_1efee2417f6bee01b5cd3f0a",
         "gh_046e40a5a4aaffa9b0373703",
-        "gh_e13bb358bf081385545e2be0",
-        "gh_4ea4dd77b7082cd6a55c6a18",
-        "gh_c69d8dad1dde7423a19d72b3",
-        "gh_4a3287b63e4b9420bebc557e",
-        "gh_e927f7a3d5012b5647329bd0",
-        "gh_57ed728934c67b37c0bed798",
-        "gh_205016e47a65066e035664f3",
-        "gh_c19e786d010bd878cb453ffe",
-        "gh_44777bae6b4fe014c46c9687",
-        "gh_cb460a994692de5cafcca4d8",
-        "gh_bebc4c633e728a987497ecda",
-        "gh_dcdf78cbd3dbfc81b414065f",
-        "gh_3cb49aacda2ec7dd8e38be24",
-        "gh_1cb7700b20f4fcdce63c6f02",
-        "gh_15fb9ec0047c0e7cc80ada55",
-        "gh_5903d3232c2f99d9ae568fe8",
-        "gh_eae48d87a90e3ffbeb60afaf",
-        "gh_e643051c0833244abfc18c07",
-        "gh_9b5d9fbb31d726e63b2d6852",
-        "gh_1ab454dc5165fc4144b1968a",
-        "gh_2dda52493191f3b9d796a75a",
-        "gh_ee6ccd25c3e7ddfabb79530d",
-        "gh_f9338edba66dd0fc78e5cf9e",
-        "gh_720980f7a8c28105a2b6a178",
-        "gh_d2790bdd459d3b0acc4e320e",
-        "gh_4ceaaa1806d1792dbb109bcb",
-        "gh_326302de3583c428e75c13a7",
-        "gh_bf09c7d748b34bd02d2443a5",
-        "gh_8db85587dee791f9b3c4b60d",
-        "gh_caa5aac79acc6f4ebbd77fe4",
-        "gh_a9233bdfb914b0a5d4293e24",
-        "gh_1ce4d396bdf950364af4492b",
-        "gh_41c29be6f0ed9aa55bba60f2",
-        "gh_35675ecd494ba80044916118",
-        "gh_37d4fbca63e20e104991a24e",
-        "gh_62458a563a0020a9016b76c8",
-        "gh_a087c2a7e4c36bd695c90fdc",
-        "gh_89803f47f897852dacdda1b0",
-        "gh_a2e4d9bb2f7ed9fc4102fd7e",
-        "gh_08f3bd4c20c7fe00b27026b4",
-        "gh_765c52689426865cf1b7436b",
-        "gh_bb48358b6dad443eeb12b358",
-        "gh_260f6a61331b6aa993b78340",
-        "gh_91b78ae35204f1e36f0bbe14",
-        "gh_d52bb8fcdb4d2e9adfe1c750",
-        "gh_e9721afbc9b4182c76aa329b",
-        "gh_0f9ff03150a09e129cb26187"
+        "gh_684ff1896e30b278732e5f5a"
       ],
       "senior": [
         "gh_3537ba57897dbc655d648955",
@@ -3660,7 +3683,6 @@
       "especialista": [
         "gh_333c5838c2f9f7ce47f1bcd0",
         "gh_c2842e7382b7b6bf1db541df",
-        "gh_205016e47a65066e035664f3",
         "gh_5497a5e458f49acc5e1cf37d",
         "gh_5e3fc1e256e628bfb7f7bdcc",
         "gh_b8c75a4cb1cdaa5d5c4794e6",
@@ -3690,7 +3712,6 @@
         "gh_97af14f3ec3ca62e7db4666f",
         "gh_4a3287b63e4b9420bebc557e",
         "gh_e927f7a3d5012b5647329bd0",
-        "gh_205016e47a65066e035664f3",
         "gh_8bbc2d1fbf260ff495b6debe",
         "gh_a5d2446fe102d2b8b34f94c2",
         "gh_5497a5e458f49acc5e1cf37d",
@@ -3861,14 +3882,6 @@
         "gh_54f13b2669ed890dc97c5bdc",
         "gh_587643a4a567b9ba1a8bfad7",
         "gh_f665747ff85c4149206bf971"
-      ],
-      "ci-cd": [
-        "gh_b8c97ddfaf8d7d5e0b19956c",
-        "gh_d8668644a6f0ebb1839f0122",
-        "gh_1efee2417f6bee01b5cd3f0a",
-        "gh_046e40a5a4aaffa9b0373703",
-        "gh_205016e47a65066e035664f3",
-        "gh_684ff1896e30b278732e5f5a"
       ],
       "design": [
         "gh_04e16e2c007892d76818f4d4",
@@ -4057,11 +4070,6 @@
         "gh_4e35e3ee4a19594e8247db30",
         "gh_ba81b538383170559d6a81ae",
         "gh_6a7e130080047a6a67b88feb"
-      ],
-      "testes-automatizados": [
-        "gh_d8668644a6f0ebb1839f0122",
-        "gh_1efee2417f6bee01b5cd3f0a",
-        "gh_046e40a5a4aaffa9b0373703"
       ],
       "staff": [
         "gh_f5a0b73442c552104a3eaf13",
@@ -4472,11 +4480,6 @@
         "gh_9411c946edb1024dc76f07bb",
         "gh_6ee8b9c08295773ddc3dd28a"
       ],
-      "ruby": [
-        "gh_5102037c7d2ef00f074349ba",
-        "gh_7b019f4a45224b8daa71263a",
-        "gh_2e287f38108c3c23aa596c09"
-      ],
       "swift": [
         "gh_6f4d0a1c5dabd825edd7a35f",
         "gh_9d95c8a01cba2b0c65a2516e"
@@ -4514,6 +4517,9 @@
     "authors": {
       "180465": [
         "gh_0b48071263222f42f82eed85"
+      ],
+      "KalebPortillo": [
+        "gh_f528ed932103f94a64bcedb3"
       ],
       "FrancieleGhizzoni": [
         "gh_73e0c5d98159d349f10f4fa9",
@@ -4659,9 +4665,6 @@
       ],
       "DaianeMF": [
         "gh_79546b5940192c13dad52334"
-      ],
-      "michellegiavoni-coder": [
-        "gh_205016e47a65066e035664f3"
       ],
       "hoangnhi3110": [
         "gh_97c0bf090eea933e04e06647",
@@ -5827,6 +5830,7 @@
   "labels": {
     "authors": {
       "180465": "180465",
+      "KalebPortillo": "KalebPortillo",
       "FrancieleGhizzoni": "FrancieleGhizzoni",
       "henriquequeirozrh-sketch": "henriquequeirozrh-sketch",
       "thanhlam1405": "thanhlam1405",
@@ -5856,7 +5860,6 @@
       "iamkalio": "iamkalio",
       "JenniferTran-recruiter": "JenniferTran-recruiter",
       "DaianeMF": "DaianeMF",
-      "michellegiavoni-coder": "michellegiavoni-coder",
       "hoangnhi3110": "hoangnhi3110",
       "mtlogs": "mtlogs",
       "Thusky68": "Thusky68",
@@ -6161,8 +6164,12 @@
       "liuchenx": "liuchenx"
     },
     "tags": {
-      "remote": "remoto",
       "pj": "pj",
+      "tdd": "tdd",
+      "ruby": "ruby",
+      "remote": "remoto",
+      "testes-automatizados": "testes automatizados",
+      "ci-cd": "ci/cd",
       "senior": "sênior",
       "backend": "backend",
       "pleno": "pleno",
@@ -6194,12 +6201,10 @@
       "hibernate": "hibernate",
       "eclipse": "eclipse",
       "hybrid": "hybrid",
-      "ci-cd": "ci/cd",
       "design": "design",
       "junior": "júnior",
       "enhancement": "enhancement",
       "new": "new",
-      "testes-automatizados": "testes automatizados",
       "staff": "staff",
       "misc": "misc",
       "sql": "sql",
@@ -6292,7 +6297,6 @@
       "todo": "todo",
       "android": "android",
       "remoteok-io": "remoteok.io",
-      "ruby": "lang-ruby",
       "swift": "lang-swift",
       "php": "lang-php",
       "freela": "freela",
