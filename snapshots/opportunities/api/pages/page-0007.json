@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T06:50:10.077Z",
+  "generatedAt": "2026-05-19T02:36:06.908Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
@@ -21,9 +21,9 @@
     "gh_720980f7a8c28105a2b6a178",
     "gh_d2790bdd459d3b0acc4e320e",
     "gh_03fa03119cda6972a7f24c60",
-    "gh_bc4faddd4f8543194e1c8927",
     "gh_4ceaaa1806d1792dbb109bcb",
-    "gh_018090ae0b51c7fe869fe122"
+    "gh_018090ae0b51c7fe869fe122",
+    "gh_326302de3583c428e75c13a7"
   ],
   "items": [
     {
@@ -640,51 +640,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_bc4faddd4f8543194e1c8927",
-      "sourceId": "awesome-jobs/vietnam#4873",
-      "title": "Lifeframe - Senior React Developer - Remote/Vietnam - FT Contractor",
-      "description": "## Location\n\n* Vietnam\n\n## Salary\n\n* $2000 USD/month\n\n## The Vision\n\n**LifeFrame** is a visual-first life design platform that transforms how people plan their lives. Every activity gets AI-generated imagery. Scheduling works like humans think—\"2 PM Tuesday\" OR \"morning on weekdays\"—with bidirectional calendar sync. Social features let users share and \"ReFrame\" life practices (like forking code, but for habits) with built-in attribution and revenue sharing.\n\n**This isn't another productivity app.** It's life design tool like nothing you’ve seen before. \n\nWe're **bootstrapped, self-funded, fundamentally innovative**. No VC pressure, no pivots, just clear technical vision. Senior technical lead already built the foundation—GitHub repo ready, architecture started and developing fast. You'll build the visual experience that makes life design feel intuitive and beautiful.\n\n## The Role\n\nBuild the frontend that brings LifeFrame to life. We need stunning UI/UX—not just functional, but inspiring. We have already created stunning FIGMA designs so it’s a matter of executing our created designs and make the experience smooth and fast loading. Users should feel excited opening the app every morning. You'll also handle mobile deployment (Android/iOS) as we expand beyond web. Work closely with SpringBoot backend developer via REST APIs.\n\n## What You'll Build\n\n* Visual-first UI for Frames (life design containers with AI imagery)\n* Multi-scheduling interface (specific times + flexible dayparts)\n* Calendar integration UI (sync status, conflict resolution)\n* Social features (ReFraming, attribution, sharing)\n* Responsive web app (Next.js 15) + mobile apps (React Native)\n* AI imagery generation flows and loading states\n* Real-time collaboration features\n\n## Required Skills\n\n### Must Have\n\n* Frontend: 5-8 years experience, expert in React, Next.js 15, TypeScript, TailwindCSS, Selenium\n* Mobile: React Native experience (Android + iOS deployment)\n* UI/UX: Strong design sense, responsive design, component libraries\n* State Management: Redux or similar, complex data flows\n\n### Nice To Have\n\n* WebSocket/real-time features, OpenAI API integration, calendar UI patterns, animation libraries\n\n## What We're Looking For\n\n### Technically:\n* Can build beautiful, performant UIs that feel polished\n* Understands complex state management (scheduling + calendar sync = non-trivial)\n* Mobile app deployment experience (App Store + Google Play)\n* Strong attention to visual detail and user experience\n\n### Culturally\n\n* Excited by the mission - care about building tools that help people design better lives\n* Design-minded - not just \"make it work,\" but \"make it beautiful\"\n* Self-directed - you own the frontend, make decisions, ship quality\n* Startup mentality - move fast, wear multiple hats (web + mobile) \n    \n## What We Offer\n\n* Ground-zero impact—define the visual language users will love\n* Modern stack (Next.js 15, React, TypeScript, TailwindCSS)\n* High ownership—frontend is yours to shape\n* Growth path to frontend leadership as team scales\n* Equity options available\n* Remote, flexible, no VC pressure\n\n## Techstack\n\n* Frontend: Next.js 15, React, TypeScript, TailwindCSS, Redux\n* Mobile: React Native\n* Backend: SpringBoot, PostgreSQL (handled by backend team)\n* Infrastructure: AWS, Docker, GitHub\n\n## Apply\n\nEmail quynh@lifeframe.app with:\n1. Resume + GitHub + **portfolio/live projects\n2. Brief answers\n    - Why does LifeFrame resonate with you?\n    - Show us your best UI work (links/screenshots)\n    - Your React Native + mobile deployment experience?\n    - How do you approach complex state management?\n\n## Contact\nHomepage: [lifeframe.app](lifeframe.app)\nEmail: quynh@lifeframe.app",
-      "excerpt": "## Location * Vietnam ## Salary * $2000 USD/month ## The Vision **LifeFrame** is a visual-first life design platform that transforms how people plan their lives. Every activity gets AI-generated imagery. Scheduling wo...",
-      "issueState": "open",
-      "contentHash": "58772e6364164734e71e2ad946cd2e2e4b9aa0f3ee0efd8993b0e78e880a0d29",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "react",
-        "typescript",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "quynh-bui08",
-        "name": "quynh-bui08",
-        "handle": "quynh-bui08",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/249594602?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 2000,
-        "period": "month"
-      },
-      "createdAt": "2026-01-09T15:12:18Z",
-      "updatedAt": "2026-03-12T21:11:10Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4873",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_4ceaaa1806d1792dbb109bcb",
       "sourceId": "react-brasil/vagas#2994",
       "title": "[Remote] Full Stack Developer na Devvo Tecnologia",
@@ -753,6 +708,46 @@
       "createdAt": "2026-01-05T22:50:21Z",
       "updatedAt": "2026-01-05T22:50:21Z",
       "url": "https://github.com/TechnologyMasters/jobs/issues/722",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_326302de3583c428e75c13a7",
+      "sourceId": "backend-br/vagas#12151",
+      "title": "[Remote] Senior Python Developer - Botcity",
+      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nThe Senior Python Developer will be responsible for leading BotCity’s Python architecture, setting technical direction, and ensuring the scalability and reliability of our platform. The ideal professional is a hands-on Python expert with strong communication, mentoring skills, and a collaborative mindset to guide and elevate the entire engineering team. This role will report to the VP of Engineering\n\nResponsibilities\n\nArchitect, develop, and maintain high-quality Python libraries and modules used by enterprise clients worldwide.\nEnsure Python libraries and modules are secure and free from vulnerabilities in both code and dependencies.\nDefine, promote, and enforce Python coding conventions, linters, static analysis, and architectural guardrails.\nPerform (and lead) code reviews that catch design or performance issues early.\nBuild internal libraries, shared modules, or tooling that abstract common patterns and increase team velocity.\nWork collaboratively with Product, QA, DevOps, and other engineers to translate requirements into reliable, maintainable implementations.\nProfile, monitor, and optimize performance, memory usage, and resource consumption of Python services.\nContribute to API design, interface contracts, data models, and integration strategies.\nStay current in the Python ecosystem and introduce innovations or best practices where appropriate.\nDocument high-level architecture, module contracts, and design rationale.\nMentor development teams via pair programming, review feedback, internal sessions, and guidance.\n\n## Local\n\nRemote\n\n## Requisitos\n\nRequired Qualifications\n\nDegree in Computer Science, Engineering, or a related field.\nProfessional experience (5+ years) with Python development, with a track record of delivering large-scale projects.\nDeep mastery of Python, including language internals, decorators, concurrency, threading/async, and memory management.\nExperience designing, creating, and maintaining Python packages.\nProficiency with testing frameworks (pytest or unittest), CI/CD pipelines, and package managers (uv, conda, pip).\nPublications and contributions to open-source Python libraries and community involvement (PyPI).\nExcellent problem-solving skills, system thinking, and debugging large systems.\nStrong communication skills (verbal/written).\nExperience working with MS Office/Excel, Google Suite, Notion, Slack.\nAbility to travel as needed to support events and meet the team.\nPortuguese - Fluent.\nEnglish - Advanced.\n\nPreferred Qualifications\n\nExperience with asynchronous frameworks, event loops, or systems like Celery, asyncio, RPC frameworks, or message brokers.\nExperience with Rust and integrating Python with Rust.\nSolid experience with relational (e.g. PostgreSQL) and non-relational databases, ORM tools, and schema design.\nFamiliarity with cloud infrastructure (AWS, GCP, or Azure), containers (Docker), and deployment orchestration.\nRelevant hands-on experience with automation projects.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n## Benefícios\n\nCompetitive compensation.\nPaid time off (30 days per year).\n100% remote and flexible hours.\nCaju benefits card.\nConexa health benefits.\nOpportunity to work in a global team with teams in San Francisco and São Paulo.\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/botcity/jobs/694e91869f7bde0013836fc8?src=Github\n\n## Labels\n\n\n### Nível\n- Sênior\n- Especialista\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
+      "issueState": "open",
+      "contentHash": "47fa3c796fe1fdfe7b7d6f460e6f954c2e4abc906d6870103c89a05ae3435e01",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "python",
+        "remoto",
+        "especialista",
+        "aws",
+        "postgresql",
+        "docker"
+      ],
+      "author": {
+        "id": "FranPiresBotcity",
+        "name": "FranPiresBotcity",
+        "handle": "FranPiresBotcity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-01-02T13:05:19Z",
+      "updatedAt": "2026-04-18T16:38:25Z",
+      "url": "https://github.com/backend-br/vagas/issues/12151",
       "sourceType": "github-issue"
     }
   ]
