@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-19T02:36:06.908Z",
+  "generatedAt": "2026-05-19T06:43:53.865Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_50126f5a86863faddfe84fcd",
     "gh_fb4ec6f93d17afcf44bb3e60",
     "gh_4f932f9132ac743803a990ff",
     "gh_e69a66e5d4446a6782d444c6",
@@ -22,10 +23,40 @@
     "gh_c6e5cde5cf70452b958787bd",
     "gh_7090b13757103ad4886dca79",
     "gh_e2bf92920267625501ec5bdc",
-    "gh_ff871b03fcabd20a93060047",
-    "gh_6f7c8c640891ada1a0682607"
+    "gh_ff871b03fcabd20a93060047"
   ],
   "items": [
+    {
+      "id": "gh_50126f5a86863faddfe84fcd",
+      "sourceId": "zapplyjobs/underclassmen-internships#91",
+      "title": "Linkedin Underclassmen program",
+      "description": "https://careers.linkedin.com/pathways-programs/internships/Technical/first-play",
+      "excerpt": "https://careers.linkedin.com/pathways-programs/internships/Technical/first-play",
+      "issueState": "open",
+      "contentHash": "3be2a74946309198efcd766d20f84313c0dc158f18fedd438c6e8d2c74eb4ae1",
+      "repository": "zapplyjobs/underclassmen-internships",
+      "repositoryUrl": "https://github.com/zapplyjobs/underclassmen-internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "JustinhSE",
+        "name": "JustinhSE",
+        "handle": "JustinhSE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84724234?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/underclassmen-internships",
+        "url": "https://github.com/zapplyjobs/underclassmen-internships"
+      },
+      "createdAt": "2025-11-19T02:26:46Z",
+      "updatedAt": "2025-11-19T02:26:46Z",
+      "url": "https://github.com/zapplyjobs/underclassmen-internships/issues/91",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_fb4ec6f93d17afcf44bb3e60",
       "sourceId": "ios-taipei/MobileJobs#6",
@@ -713,37 +744,6 @@
       "createdAt": "2025-10-09T14:30:35Z",
       "updatedAt": "2025-10-09T14:30:35Z",
       "url": "https://github.com/phpdevbr/vagas/issues/1318",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6f7c8c640891ada1a0682607",
-      "sourceId": "suarezafelipe/awesome-jobs-colombia#75",
-      "title": "Link roto: Gorilla Logic",
-      "description": "El enlace que se encuentra actualmente para la empresa Gorilla Logic redirecciona a una URL que no existe más",
-      "excerpt": "El enlace que se encuentra actualmente para la empresa Gorilla Logic redirecciona a una URL que no existe más",
-      "issueState": "open",
-      "contentHash": "0b56187e79fdc3aa33fbf5ef24227826987c6d4ad712818836e9e28393f0b97b",
-      "repository": "suarezafelipe/awesome-jobs-colombia",
-      "repositoryUrl": "https://github.com/suarezafelipe/awesome-jobs-colombia",
-      "region": "South America",
-      "country": "Colombia",
-      "tags": [],
-      "author": {
-        "id": "Seb0927",
-        "name": "Seb0927",
-        "handle": "Seb0927",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83418390?v=4"
-      },
-      "community": {
-        "id": "suarezafelipe",
-        "name": "suarezafelipe",
-        "avatarUrl": "https://github.com/suarezafelipe.png?size=80",
-        "repository": "suarezafelipe/awesome-jobs-colombia",
-        "url": "https://github.com/suarezafelipe/awesome-jobs-colombia"
-      },
-      "createdAt": "2025-10-08T14:19:48Z",
-      "updatedAt": "2025-10-08T14:19:48Z",
-      "url": "https://github.com/suarezafelipe/awesome-jobs-colombia/issues/75",
       "sourceType": "github-issue"
     }
   ]
