@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-20T02:36:21.351Z",
+  "generatedAt": "2026-05-20T22:21:22.637Z",
   "page": 16,
   "pageSize": 20,
   "nextPage": "api/pages/page-0017.json",
   "ids": [
+    "gh_eeea31fd5124dd6751e00eb2",
     "gh_bf55e273bcd1fcc7a52d3299",
     "gh_e484025446cd7b270d0ca43e",
     "gh_9dc42750ea29e0514f2c475d",
@@ -22,10 +23,40 @@
     "gh_83b439b3147fb792636dee2a",
     "gh_821e7e95f930a646b5904030",
     "gh_ebb20116727987d8185d2cbb",
-    "gh_ed6127b303640db835b7684a",
-    "gh_419a27f3b6346b8ff54d10ef"
+    "gh_ed6127b303640db835b7684a"
   ],
   "items": [
+    {
+      "id": "gh_eeea31fd5124dd6751e00eb2",
+      "sourceId": "LinuxSuRen/remote-jobs-in-china#80",
+      "title": "这个库不维护了是吗？",
+      "description": "1. 萌时的链接好像是个内部 Notion 链接，Notion 登录就跳转到自己的 Workspace 了，看不到内容。\n2. 矩阵起源的点过去看了下好像都不支持远程了。",
+      "excerpt": "1. 萌时的链接好像是个内部 Notion 链接，Notion 登录就跳转到自己的 Workspace 了，看不到内容。 2. 矩阵起源的点过去看了下好像都不支持远程了。",
+      "issueState": "open",
+      "contentHash": "bf69987ea80a19a437f044d0d47d51e90525bcc59d5632ad18e59fdcfca6a10d",
+      "repository": "LinuxSuRen/remote-jobs-in-china",
+      "repositoryUrl": "https://github.com/LinuxSuRen/remote-jobs-in-china",
+      "region": "Asia",
+      "country": "China",
+      "tags": [],
+      "author": {
+        "id": "trojanyao",
+        "name": "trojanyao",
+        "handle": "trojanyao",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22811809?v=4"
+      },
+      "community": {
+        "id": "LinuxSuRen",
+        "name": "LinuxSuRen",
+        "avatarUrl": "https://github.com/LinuxSuRen.png?size=80",
+        "repository": "LinuxSuRen/remote-jobs-in-china",
+        "url": "https://github.com/LinuxSuRen/remote-jobs-in-china"
+      },
+      "createdAt": "2024-11-01T02:54:52Z",
+      "updatedAt": "2024-11-01T03:11:53Z",
+      "url": "https://github.com/LinuxSuRen/remote-jobs-in-china/issues/80",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_bf55e273bcd1fcc7a52d3299",
       "sourceId": "Empregos-dev/Vagas-dev#83",
@@ -677,43 +708,6 @@
       "createdAt": "2024-09-10T15:45:29Z",
       "updatedAt": "2024-09-10T15:45:29Z",
       "url": "https://github.com/IonicBrazil/vagas/issues/7",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_419a27f3b6346b8ff54d10ef",
-      "sourceId": "datascience-br/vagas#135",
-      "title": "[Remoto] Engenheiro de Dados na [Hunter Hunter]",
-      "description": "Engenheiro de Dados\n\nRemoto e Fulltime horário comercial BR.\n\nEntre R$8 mil a R$15 mil PJ negociável dependendo da experiência e senioridade.\n\nEstamos buscando um Engenheiro de Dados talentoso e proativo para se juntar à nossa equipe no setor de iGaming. O candidato ideal terá sólida experiência em design, construção e otimização de pipelines de dados, além de um profundo entendimento de arquitetura de dados e melhores práticas de ETL. Você trabalhará em estreita colaboração com equipes de análise, desenvolvimento e operações para garantir que os dados fluam de maneira eficiente e segura por toda a organização.\n\nRequisitos:\n•\tExperiência: Mínimo de 3 anos de experiência como Engenheiro de Dados ou em uma função semelhante, no setor de iGaming ou fintech.\n•\tHabilidades Técnicas: Proficiência em linguagens de programação como Python, SQL e Java. Experiência com ferramentas de big data (Hadoop, Spark), e plataformas de nuvem (AWS, Google Cloud, Azure).\n•\tConhecimento em Banco de Dados: Forte conhecimento em bancos de dados relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB, Cassandra).\n•\tFamiliaridade com Ferramentas de ETL: Experiência com ferramentas de ETL como Apache NiFi, Talend ou Airflow.\n•\tCapacidade Analítica: Habilidade de resolver problemas complexos e otimizar processos com soluções técnicas inovadoras.\n•\tEducação: Bacharelado em Ciência da Computação, Engenharia de Software, Engenharia de Dados ou área relacionada.\n•\tCertificações: Certificações relevantes (como AWS Certified Data Analytics, Google Professional Data Engineer) são um diferencial.\n\nPrincipais Responsabilidades:\n•\tDesenvolvimento de Pipelines de Dados: Projetar, implementar e manter pipelines de dados robustos, escaláveis e eficientes para processar grandes volumes de dados em tempo real e em batch.\n•\tGestão de Bancos de Dados: Criar e otimizar bancos de dados relacionais e não relacionais, garantindo alta performance e segurança.\n•\tIntegração de Dados: Integrar dados de múltiplas fontes (internas e externas) para criar uma visão unificada e acessível dos dados corporativos.\n•\tAutomatização de Processos: Desenvolver e automatizar processos de ETL (Extração, Transformação e Carga), garantindo a integridade e a qualidade dos dados.\n•\tColaboração com Equipes: Trabalhar de forma colaborativa com analistas de dados, cientistas de dados e desenvolvedores para garantir que os dados estejam prontos para análise e modelagem.\n•\tMonitoramento e Manutenção: Monitorar a saúde dos sistemas de dados, identificar e resolver problemas de performance, e garantir que as soluções sejam escaláveis e resilientes.\n•\tSegurança e Compliance: Implementar práticas de segurança e compliance para proteger dados sensíveis e garantir a conformidade com regulamentos do setor.\n\n\nSe tem interesse e os requisitos da oportunidade entre em contato pelo Linkedin abaixo, informando qual é a oportunidade:[https://www.linkedin.com/in/erickamarquesb/]",
-      "excerpt": "Engenheiro de Dados Remoto e Fulltime horário comercial BR. Entre R$8 mil a R$15 mil PJ negociável dependendo da experiência e senioridade. Estamos buscando um Engenheiro de Dados talentoso e proativo para se juntar à...",
-      "issueState": "open",
-      "contentHash": "82f3814959e731591a939a3677be7cf4a5f9837f1a9715fb9c14bc3d843a460a",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "java",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "ErickaMB",
-        "name": "ErickaMB",
-        "handle": "ErickaMB",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2024-08-29T20:11:37Z",
-      "updatedAt": "2024-10-12T13:54:35Z",
-      "url": "https://github.com/datascience-br/vagas/issues/135",
       "sourceType": "github-issue"
     }
   ]
