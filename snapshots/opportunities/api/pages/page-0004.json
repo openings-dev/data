@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-19T17:36:36.301Z",
+  "generatedAt": "2026-05-20T02:36:21.351Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_1f5a98f47e42c00c1630a12f",
     "gh_c55c0ec98d8be9c01ebe7432",
     "gh_5497a5e458f49acc5e1cf37d",
     "gh_b5220ce704e9136f8724e349",
@@ -22,10 +23,45 @@
     "gh_dcdf78cbd3dbfc81b414065f",
     "gh_684ff1896e30b278732e5f5a",
     "gh_5b39f4b0acc4adfc7a0328f7",
-    "gh_86cf7c4c726a6cec1163d1fb",
-    "gh_90dc15cf0fb5560e4c0f0993"
+    "gh_86cf7c4c726a6cec1163d1fb"
   ],
   "items": [
+    {
+      "id": "gh_1f5a98f47e42c00c1630a12f",
+      "sourceId": "ambicuity/New-Grad-Jobs#242",
+      "title": "[Bug]: Operator Manual is out of sync with current config and workflow behavior",
+      "description": "### Bug Type\nOther\n\n### Description\n`docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior.\n\nExamples:\n- It references `filters.exclude_keywords`, but current config uses `filtering.exclusion_signals`.\n- It suggests tuning thread pools directly in `scripts/update_jobs.py`, while worker-pool behavior is now configurable via `config.yml` (`worker_pools`).\n- It references JobSpy location/config patterns that no longer match current configuration shape.\n- Several workflow guidance notes are stale relative to `.github/workflows/update-jobs.yml`.\n\nThis creates contributor confusion and increases maintenance error risk.\n\n### Steps to Reproduce\n1. Open `docs/wiki/Operator-Manual.md`.\n2. Compare recipe/config field names against `config.yml`.\n3. Compare workflow instructions against `.github/workflows/update-jobs.yml`.\n4. Observe mismatches between documented and actual behavior.\n\n### Additional Context\nCandidate source-of-truth files for alignment:\n- `docs/wiki/Operator-Manual.md`\n- `config.yml`\n- `.github/workflows/update-jobs.yml`\n- `scripts/update_jobs.py`",
+      "excerpt": "### Bug Type Other ### Description `docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior. Examples: - It references `filters.exclude_keywords`, but current config uses `fi...",
+      "issueState": "open",
+      "contentHash": "ca13b8bf4b9f4a12dba0d54fcb9f3bb7773dafb036c0bd97185bcc6ea340ed1a",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "needs-triage",
+        "status: in-progress",
+        "bug",
+        "awaiting-response"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-08T14:59:35Z",
+      "updatedAt": "2026-05-17T03:50:01Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/242",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c55c0ec98d8be9c01ebe7432",
       "sourceId": "frontendbr/vagas#8468",
@@ -755,39 +791,6 @@
       "createdAt": "2026-03-22T16:47:15Z",
       "updatedAt": "2026-03-22T16:51:05Z",
       "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/1",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_90dc15cf0fb5560e4c0f0993",
-      "sourceId": "react-brasil/vagas#3007",
-      "title": "desenvolvedor react native senior",
-      "description": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona como memória externa com captura de voz, separação automática por IA, organização inteligente e lembretes discretos. Stack: React Native + TypeScript + Node.js + PostgreSQL + IA (Whisper/GPT). Prazo 4 meses. Preciso de dev com 3+ anos React Native e pelo menos 1 app publicado nas stores.",
-      "excerpt": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona c...",
-      "issueState": "open",
-      "contentHash": "07e76fc850ef066f91e92332475c8524069654d7bffe5998cc0da68835b9c1c9",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "👴 senior"
-      ],
-      "author": {
-        "id": "mclaudiaferreira",
-        "name": "mclaudiaferreira",
-        "handle": "mclaudiaferreira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/269824166?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-03-20T22:05:39Z",
-      "updatedAt": "2026-04-28T10:46:01Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3007",
       "sourceType": "github-issue"
     }
   ]
