@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-20T22:21:22.637Z",
+  "generatedAt": "2026-05-21T02:37:29.786Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
+    "gh_5c6fa83157f78b5fb109953b",
     "gh_18d1e672fe4959dd0f3f1147",
     "gh_37d4fbca63e20e104991a24e",
     "gh_62458a563a0020a9016b76c8",
@@ -22,10 +23,42 @@
     "gh_f0a399ade124ccb0520bf139",
     "gh_31072b7eb07f8515de34a041",
     "gh_b4c389988f0e5a389aabf3b3",
-    "gh_3daf6c20d4edf1f0f9f34327",
-    "gh_a8804e9c31dabfe160161277"
+    "gh_3daf6c20d4edf1f0f9f34327"
   ],
   "items": [
+    {
+      "id": "gh_5c6fa83157f78b5fb109953b",
+      "sourceId": "cncf/gitjobs#245",
+      "title": "ASWF Job Board",
+      "description": "The https://www.aswf.io was interested in an embedded job board",
+      "excerpt": "The https://www.aswf.io was interested in an embedded job board",
+      "issueState": "open",
+      "contentHash": "6ad04730deb6da43ab5b3a7931e92de128906ac114fa145499f5769d632dddd1",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "integration"
+      ],
+      "author": {
+        "id": "caniszczyk",
+        "name": "caniszczyk",
+        "handle": "caniszczyk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63777?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2025-04-25T19:21:49Z",
+      "updatedAt": "2026-02-07T20:02:48Z",
+      "url": "https://github.com/cncf/gitjobs/issues/245",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_18d1e672fe4959dd0f3f1147",
       "sourceId": "datascience-br/vagas#142",
@@ -698,37 +731,6 @@
       "createdAt": "2025-02-22T03:54:33Z",
       "updatedAt": "2025-02-22T03:54:33Z",
       "url": "https://github.com/zapplyjobs/underclassmen-internships/issues/88",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a8804e9c31dabfe160161277",
-      "sourceId": "ad-si/awesome-fp-jobs#10",
-      "title": "Add https://beyond-tabs.com/",
-      "description": "",
-      "excerpt": "Add https://beyond-tabs.com/",
-      "issueState": "open",
-      "contentHash": "6d829e34413bef77173249f5afaf5a67471e4eddbe0bb1a16e5ef4794584381f",
-      "repository": "ad-si/awesome-fp-jobs",
-      "repositoryUrl": "https://github.com/ad-si/awesome-fp-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "ad-si",
-        "name": "ad-si",
-        "handle": "ad-si",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36796532?v=4"
-      },
-      "community": {
-        "id": "ad-si",
-        "name": "ad-si",
-        "avatarUrl": "https://github.com/ad-si.png?size=80",
-        "repository": "ad-si/awesome-fp-jobs",
-        "url": "https://github.com/ad-si/awesome-fp-jobs"
-      },
-      "createdAt": "2025-02-17T19:51:51Z",
-      "updatedAt": "2025-02-17T19:51:51Z",
-      "url": "https://github.com/ad-si/awesome-fp-jobs/issues/10",
       "sourceType": "github-issue"
     }
   ]
