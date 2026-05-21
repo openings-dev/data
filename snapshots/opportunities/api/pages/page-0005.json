@@ -1,13 +1,9 @@
 {
-  "generatedAt": "2026-05-21T02:37:29.786Z",
+  "generatedAt": "2026-05-21T06:46:36.544Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
-    "gh_86cf7c4c726a6cec1163d1fb",
-    "gh_6373b597eee33e25846bf94a",
-    "gh_90dc15cf0fb5560e4c0f0993",
-    "gh_e20f87fee19bdfaea2b354ed",
     "gh_644385e0db8a70c4f7599974",
     "gh_360a36bfb0c75f23ffd2bcac",
     "gh_3cb49aacda2ec7dd8e38be24",
@@ -17,152 +13,19 @@
     "gh_676667090fcd5276269492b4",
     "gh_b6ad9f2a9bbc5c9e930223d7",
     "gh_fdc6cfabf327abeb4f0d843a",
-    "gh_dccc9fa35642a44d54e9f288",
     "gh_0f0495da862b94749892e684",
     "gh_f08d1bcb1ff6e9045085efa8",
     "gh_3ae6e4053a144758170ff4dc",
     "gh_d6f31a804dacbc548031ec5e",
     "gh_1cb7700b20f4fcdce63c6f02",
-    "gh_e5a048bc61d56ec20e336489"
+    "gh_e5a048bc61d56ec20e336489",
+    "gh_15fb9ec0047c0e7cc80ada55",
+    "gh_85486f31f6bca38c2dd8836a",
+    "gh_781ec4a1e281c13c2f1fc5c5",
+    "gh_5903d3232c2f99d9ae568fe8",
+    "gh_5e3fc1e256e628bfb7f7bdcc"
   ],
   "items": [
-    {
-      "id": "gh_86cf7c4c726a6cec1163d1fb",
-      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#1",
-      "title": "Bug: Company logo thumbnails enter corrupted render state after job application, stale DOM / z-index collision across job card components",
-      "description": "# Company thumbnails overlap other job cards after applying to a posting\n\nHey team,\n\nI've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that job bleeds over into the other job cards in the feed. Sometimes it stacks on top of the adjacent card's logo, sometimes it straight up replaces it. It looks pretty broken.\n\nThe weird part is that it fixes itself the moment I do a hard refresh. So the data coming from the backend seems fine, this is purely a client-side rendering issue.\n\n## Repro\n\n1. Go to the job listings feed.\n2. Apply to any job.\n3. Come back to the listings (back nav or closing the apply modal).\n4. The thumbnails on nearby job cards are now messed up; wrong logos, overlapping, stacked, etc.\n5. Refresh the page → everything goes back to normal.\n\nThis happens every single time, not intermittent. I've tried it across a few different browsers (Chrome and Firefox) and it's the same behavior.\n\n## What I think is going on\n\nI'm a software engineer so I poked around in devtools a bit. A few things that might be worth looking at:\n\n**Key prop issue on the list**: If the job card list is keyed by array index instead of something stable like `job.id`, React's reconciler will reuse DOM nodes incorrectly when the list state changes after applying. This would explain why the thumbnails get \"shifted\" onto wrong cards. Classic React anti-pattern.\n\n**Stacking context / z-index leak**: When the apply flow triggers (modal, overlay, toast, whatever), it might be setting `position: absolute` or bumping `z-index` on the applied card's thumbnail. If that style isn't cleaned up properly (maybe an animation callback that doesn't fire?), the image escapes its container and sits on top of siblings. Throwing `overflow: hidden` and `position: relative` on the card container would contain this.\n\n**Race condition on refetch**: If applying fires off a POST and then the feed revalidates in parallel (SWR `mutate()`, React Query `invalidateQueries()`, etc.), there's a window where partial/stale data gets rendered before the fresh response lands. The thumbnails might be getting swapped around during that intermediate state.\n\n**Image caching**: Less likely, but if there's a custom image component or service worker caching thumbnails by position/index instead of URL, a re-render after apply could serve the wrong cached image to the wrong card.\n\n## Quick fix suggestions\n\n- Check that `key={job.id}` (or whatever unique identifier) is used on the card list, not `key={index}`.\n- Make sure each card's thumbnail container has its own stacking context (`position: relative; overflow: hidden;`).\n- If the apply action triggers a list refetch, batch the state update or wrap it in `startTransition` so you don't get an intermediate broken frame.\n- Audit `useEffect` cleanups around the apply modal/overlay, something might not be resetting styles on unmount.\n\n## Environment\n\n- Chrome 124  on macOS\n- Desktop, standard resolution\n- Happens on both fast and slow connections so it's not a network timing thing\n\nNot a blocker since refresh fixes it, but it makes the platform look buggy and I'd imagine it's hurting trust with less technical users who don't know to just reload. Happy to provide more details or screen recordings if that helps.",
-      "excerpt": "# Company thumbnails overlap other job cards after applying to a posting Hey team, I've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that ...",
-      "issueState": "open",
-      "contentHash": "1e4843c8fb9d905a53f168f5b02b0201043140e257eec09e5f353c378fe3c473",
-      "repository": "jobright-ai/2026-Data-Analysis-Internship",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "backend",
-        "react",
-        "node",
-        "data"
-      ],
-      "author": {
-        "id": "JayDS22",
-        "name": "JayDS22",
-        "handle": "JayDS22",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/91157708?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Data-Analysis-Internship",
-        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
-      },
-      "createdAt": "2026-03-22T16:47:15Z",
-      "updatedAt": "2026-03-22T16:51:05Z",
-      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/1",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6373b597eee33e25846bf94a",
-      "sourceId": "frontendbr/vagas#8452",
-      "title": "[Remoto] Vagas de TI - Strider",
-      "description": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO LATAM | PAGAMENTO EM USD 💻🌎\nSe você deseja trabalhar para empresas dos Estados Unidos, receber em dólar e atuar 100% remoto da América Latina, essa pode ser a sua oportunidade!\nAtualmente tenho diversas vagas abertas para profissionais localizados no Brasil, Argentina, Colômbia, México, Paraguai, Chile, Peru e Costa Rica.\n\n🔗 Conecte-se comigo no LinkedIn:\nhttps://www.linkedin.com/in/thisclaudia⁠�\n\n💻 CRM ARCHITECT\n🔹 HubSpot, Salesforce\n📌 4 a 6 anos de experiência\n💰 2k USD/mês\n🗣️ Inglês C1\n📍 Remoto – LATAM\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=Y3JtLWFyY2hpdGVjdC1lOWY4MGMxOD9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==⁠�\n\n💻 FULL-STACK ENGINEER\n🔹 4 a 6 anos de experiência\n🗣️ Inglês C1\n💰 1.8k – 3.8k USD/mês\n📍 Remoto – LATAM\n🛠️ React.js, Claude Code, Python\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1lbmdpbmVlci1lMzFkNzcyMT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==⁠�\n\n\n💻 DATA PLATFORM ENGINEER\n🔹 4+ anos de experiência\n🗣️ Inglês B2\n💰 3.5k – 5.5k USD/mês\n📍 Remoto – LATAM\n🛠️ Snowflake, DBT, Python, CI/CD, AWS, Terraform\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZGF0YS1wbGF0Zm9ybS1lbmdpbmVlci0wZDgyNTgzYT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==⁠�\n\n💻 MOBILE ENGINEER\n🔹 3+ anos de experiência\n🗣️ Inglês B2\n📍 Remoto – LATAM\n🛠️ React Native, CI/CD\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=bW9iaWxlLWVuZ2luZWVyLWUzMWVlNWM5P3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz⁠�\n\n💻 FULL-STACK ENGINEER\n🔹 5 a 7 anos de experiência\n🗣️ Inglês B2\n💰 2.8k – 3.8k USD/mês\n📍 Remoto – LATAM\n🛠️ React.js, Node.js, PostgreSQL, HTML/CSS, LLM, AWS\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1lbmdpbmVlci0yZGQ1M2NlZT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==⁠�\n\n💻 SENIOR DBA\n🔹 5+ anos de experiência\n🗣️ Inglês B2\n💰 3.5k – 5.5k USD/mês\n📍 Remoto – LATAM\n🛠️ MSSQL, EC2, PostgreSQL, SQL, Amazon RDS, AWS\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=c2VuaW9yLWRiYS0wOWRjNTU0YT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==⁠�\n\n💻 FULL-STACK ENGINEER\n🔹 5 a 8 anos de experiência\n🗣️ Inglês B2\n💰 3.5k – 5k USD/mês\n📍 Remoto – LATAM\n🛠️ Kotlin, PostgreSQL, MySQL, Google Cloud (GCP), Java, React.js, Golang\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1lbmdpbmVlci01NmIwZTU2Mj9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==⁠�\n\n💻 WORDPRESS DEVELOPER\n🔹 3 a 5 anos de experiência\n🗣️ Inglês C1\n💰 18 – 38 USD/hora\n📍 Remoto – LATAM\n🛠️ HTML5, CSS3, JavaScript, PHP, WordPress\n🔗 Candidate-se aqui:\nhttps://app.onstrider.com/r/claudiaantunes?job=d29yZHByZXNzLWRldmVsb3Blci0wYTU2ZDQ5ZT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==⁠�\n\n\n🌎 Não encontrou uma vaga que combine com seu perfil?\nCadastre-se no link abaixo para futuras oportunidades 👇\n👉 https://app.onstrider.com/r/claudiaantunes⁠�",
-      "excerpt": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO LATAM | PAGAMENTO EM USD 💻🌎 Se você deseja trabalhar para empresas dos Estados Unidos, receber em dólar e atuar 100% remoto da América Latina, essa pode ser a sua oportunidad...",
-      "issueState": "open",
-      "contentHash": "e91637bed46fa72f21c7efb77f0ba03b9e08e319704387a18e9f095bc97b0e8c",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "stale"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "createdAt": "2026-03-21T13:57:50Z",
-      "updatedAt": "2026-05-21T02:31:35Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8452",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_90dc15cf0fb5560e4c0f0993",
-      "sourceId": "react-brasil/vagas#3007",
-      "title": "desenvolvedor react native senior",
-      "description": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona como memória externa com captura de voz, separação automática por IA, organização inteligente e lembretes discretos. Stack: React Native + TypeScript + Node.js + PostgreSQL + IA (Whisper/GPT). Prazo 4 meses. Preciso de dev com 3+ anos React Native e pelo menos 1 app publicado nas stores.",
-      "excerpt": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona c...",
-      "issueState": "open",
-      "contentHash": "07e76fc850ef066f91e92332475c8524069654d7bffe5998cc0da68835b9c1c9",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "👴 senior"
-      ],
-      "author": {
-        "id": "mclaudiaferreira",
-        "name": "mclaudiaferreira",
-        "handle": "mclaudiaferreira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/269824166?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-03-20T22:05:39Z",
-      "updatedAt": "2026-04-28T10:46:01Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3007",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e20f87fee19bdfaea2b354ed",
-      "sourceId": "awesome-jobs/vietnam#4916",
-      "title": "iOS Engineer - HCM - Basic English (3+)",
-      "description": "**Contact: Zalo - 0944503069 for further information**\n\nWe are looking for iOS Engineer.\n\n**Your day-to-day:**\n• Design and implement iOS apps for part of various our Services.\n• Conduct technical research, testing, design, and implementation of key components in the iOS environment\n\n**Your qualifications:**\n• Background in computer science and engineering.\n• 3+ yoe in iOS development, knowledge in object-oriented and functional programming, and design patterns.\n• Understanding of iOS Frameworks.\n• Experience with third-party libraries and APIs.\n• A deep familiarity with Objective-C and Swift.\n• Understanding of Data Structure, Algorithm, and Distributed Systems.\n• Experience in Git (Merging, branching, etc.).\n• Solid understanding of the full mobile development life cycle",
-      "excerpt": "**Contact: Zalo - 0944503069 for further information** We are looking for iOS Engineer. **Your day-to-day:** • Design and implement iOS apps for part of various our Services. • Conduct technical research, testing, des...",
-      "issueState": "open",
-      "contentHash": "3bef9f87e5f9ccb98d9e64825cd6fa6fd8d156564c8e6ea53eadfe225084f7c7",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "hoangnhi3110",
-        "name": "hoangnhi3110",
-        "handle": "hoangnhi3110",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/229262159?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-20T10:51:22Z",
-      "updatedAt": "2026-03-20T10:52:33Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4916",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_644385e0db8a70c4f7599974",
       "sourceId": "awesome-jobs/vietnam#4915",
@@ -489,44 +352,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_dccc9fa35642a44d54e9f288",
-      "sourceId": "awesome-jobs/vietnam#4907",
-      "title": "[HCMC, Onsite] AI DATA PYTHON",
-      "description": "📍 Location: HB Tower, 699 Điện Biên Phủ Street, Ward 25, Bình Thạnh District, HCMC\n ⏰ Working Hours:\nMonday – Friday: 08:30 – 18:00 (Lunch break: 12:00 – 13:30)\n\n\nSaturday: 08:30 – 12:30 (Work From Home)\n 👤 Direct Manager: Project Manager / Senior Management\n\n\n\nOverview\nWe are seeking a highly skilled and motivated AI/ML Engineer to join our AI Assistant Platform team.\nIn this role, you will design, develop, and deploy advanced AI/ML models and services that power intelligent features, natural language processing, and real-time inference.\nYou’ll collaborate closely with platform engineers, data scientists, and cloud architects to ensure AI solutions are scalable, reliable, and deeply integrated into our intelligent applications.\n\nKey Responsibilities\nDesign and develop scalable AI/ML solutions and production-ready models for core AI Assistant capabilities (e.g., natural language understanding, generation).\nOwn the end-to-end lifecycle of AI/ML models, from initial experimentation and training to testing, validation, and deployment in production environments.\nArchitect and optimize ML infrastructure across distributed cloud environments (AWS, GCP, or Azure) to support high-throughput, low-latency inference.\nImplement robust model monitoring, versioning, and performance optimization frameworks (e.g., drift detection, A/B testing) to maintain model integrity and quality.\nPartner with backend engineers to integrate AI/ML services with the AI Assistant core platform.\nEnforce model fairness, security, and performance best practices across the entire ML lifecycle.\nRequired Skills & Qualifications\nBachelor’s or Master’s degree in Computer Science, Machine Learning, or a related quantitative field.\n2+ years of experience in AI/ML engineering, machine learning, or software development with a strong focus on AI.\nProficiency in Python and popular ML libraries (e.g., PyTorch, TensorFlow, Scikit-learn) for model development and prototyping.\nStrong experience with MLOps practices and tools (e.g., MLflow, Kubeflow, Sagemaker) for automating the model development and deployment pipeline.\nDeep understanding of machine learning algorithms, model training, and evaluation techniques.\nExperience with cloud-based compute and ML services (e.g., AWS SageMaker, Google AI Platform, Azure ML).\nExpertise in productionizing and scaling AI/ML models in a high-traffic, low-latency production environment.\nExcellent analytical, problem-solving, and communication skills.\nPreferred Qualifications\nProven experience with Large Language Models (LLMs), Natural Language Processing (NLP), or Computer Vision applications.\nHands-on experience with vector databases, RAG architectures, and fine-tuning LLMs.\nKnowledge of containerization and orchestration tools (Docker, Kubernetes).\nAbility to work cross-functionally in Agile or fast-paced R&D environments.\nGood to have experienced with Agentic AI application.\nWhy Join Us\nPlay a pivotal role in building the AI models and services for a next-generation AI Assistant Platform.\nCollaborate with a world-class team of AI, data, and platform engineers on cutting-edge technologies.\nContribute to a scalable architecture that supports real-time AI experiences across industries.\nWhat We Offer\n💰 Competitive salary & performance-based bonus + 13th-month salary + holiday/Tết bonuses.\n🏥 Healthcare Insurance.\n💻 Modern equipment (MacBook, iPhone).\n🎯 Team building, Happy Hours, dynamic and young work environment.\n📚 Clear career path with opportunities for professional development.\n📩 Apply Now\nEmail: hr@gontech.asia",
-      "excerpt": "📍 Location: HB Tower, 699 Điện Biên Phủ Street, Ward 25, Bình Thạnh District, HCMC ⏰ Working Hours: Monday – Friday: 08:30 – 18:00 (Lunch break: 12:00 – 13:30) Saturday: 08:30 – 12:30 (Work From Home) 👤 Direct Manag...",
-      "issueState": "open",
-      "contentHash": "9aeaaf676d7831fe850e47b804147f6085de18b292f08877b168f1cc7ce1c689",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "onsite",
-        "backend",
-        "python",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "HRGONTECH",
-        "name": "HRGONTECH",
-        "handle": "HRGONTECH",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/267851988?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-13T06:34:39Z",
-      "updatedAt": "2026-03-13T06:40:21Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4907",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_0f0495da862b94749892e684",
       "sourceId": "react-native-drops/vagas#148",
       "title": "[Curitiba] Senior React Native Developer para um cliente da Visionnaire",
@@ -747,6 +572,199 @@
       "createdAt": "2026-03-06T12:55:17Z",
       "updatedAt": "2026-03-06T12:55:17Z",
       "url": "https://github.com/devfsa/vagas/issues/2825",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_15fb9ec0047c0e7cc80ada55",
+      "sourceId": "programadores-br/geral#3058",
+      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "52d3395e780ad7bb85db9deb07c4508f8a8366b4a559df19fcc296f1c4bc81c4",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "remoto",
+        "pj"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-03-06T12:54:58Z",
+      "updatedAt": "2026-03-06T12:55:21Z",
+      "url": "https://github.com/programadores-br/geral/issues/3058",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_85486f31f6bca38c2dd8836a",
+      "sourceId": "programadores-br/geral#3057",
+      "title": "[Hibrido / São Paulo, Brasil] Analista de Dados - Afirmativa para PCD na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-negocios-afirmativa-para-pcd-122422707?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando **Analista de Dados** para uma empresa parceira.\n\n**IMPORTANTE:** Vaga Afirmativa para PCD\n\n**Responsábilidades:**\n\n*   Entender os requisitos de negócios e desenvolver dashboards e relatórios utilizando plataformas de visualização de BI, com especial foco em Power BI.\n    \n*   Realizar a manutenção de relatórios existentes e propor melhorias contínuas para otimizar a visualização e a entrega de informações.\n    \n*   Utilizar aplicações analíticas para identificar tendências e relacionamentos entre diferentes conjuntos de dados, traduzindo-os em descobertas analíticas claras e impactantes.\n    \n*   Conduzir auditorias e monitoramento da qualidade dos dados para garantir a integridade e confiabilidade das informações.\n    \n*   Colaborar ativamente com diversos stakeholders, incluindo equipes de tecnologia e de negócio, para criar e aprimorar produtos de dados, garantindo o alinhamento com os objetivos estratégicos.\n    \n*   Atuar como P.O. (Product Owner) em projetos específicos, priorizando e gerenciando as demandas com base nos objetivos e impactos de negócio.\n    \n*   Avaliar novas ferramentas e tecnologias para continuamente melhorar os processos analíticos e a eficiência da área.\n## Coodesh Carreiras: \n <p>Nós somos a Coodesh, uma plataforma que conecta pessoas da área de tecnologia em oportunidades 100% remotas de nossas empresas parceiras.</p>\n<p>Em nossa plataforma você encontra posições de diversos níveis, tecnologias e modelos de contratação, de variadas empresas com diversas culturas e que oferecem diversos desafios, pensando sempre em atender as expectativas e objetivos de nossas pessoas candidatas.</p><a href='https://coodesh.com/companies/coodesh-selected'>Veja mais no site</a>\n\n ## Habilidades: \n - Inglês \n- Power BI \n- Python \n- SQL/PostgreSQL \n- Tableau \n- Looker Studio\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Graduação em Administração, Engenharias, Economia, Estatística, Ciência da Computação ou áreas correlatas. \n- Experiência profissional comprovada trabalhando com dados e análises. \n- Português fluente e Inglês avançado (capacidade de participar de reuniões, redigir e-mails e fazer apresentações). \n- Forte domínio em SQL. \n- Proficiência em Python para análise e manipulação de dados. \n- Experiência sólida no desenvolvimento de dashboards utilizando Power BI, Tableau, Looker Studio ou ferramentas similares. \n- Experiência na manipulação de grandes conjuntos de dados e utilização de bancos de dados (preferencialmente Google Big Query). \n- Conhecimento em ferramentas para cruzamento de dados, como Alteryx. \n- Capacidade comprovada de interpretar grandes volumes de dados, realizar atividades analíticas e processuais complexas, e apresentar dados de forma clara e eficaz, atendendo às necessidades específicas dos diversos stakeholders.\n## Diferenciais: \n - Espanhol intermediário \n- Experiência de trabalho em start-ups e empresas de tecnologia. \n- Pós-graduação ou especialização em dados. \n- Conhecimento e aplicação de práticas ágeis. \n- Conhecimentos em CRM (especialmente Salesforce). \n- Familiaridade com modelos preditivos, Inteligência Artificial (IA) e Aprendizado de Máquina (ML).\n## Benefícios: \n - Serão detalhados no decorrer do processo.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Analista de Dados - Afirmativa para PCD na Coodesh Carreiras](https://coodesh.com/jobs/analista-de-negocios-afirmativa-para-pcd-122422707?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nBanco de Dados",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "7425889b55defb42db2d8b626c1d6e7462401fa5b0cbf4990beee69501b47633",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "alocado",
+        "clt"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-03-06T12:33:58Z",
+      "updatedAt": "2026-03-06T12:34:20Z",
+      "url": "https://github.com/programadores-br/geral/issues/3057",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_781ec4a1e281c13c2f1fc5c5",
+      "sourceId": "DevOps-Brasil/Vagas#456",
+      "title": "[DEVOPS ANALYST] HEXAGON MINING- HÍBRIDO EM BH",
+      "description": "### 🎯 Cargo\n\nDevOps Analyst\n\n### 🏢 Empresa\n\nHexagon Mining\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nBelo Horizonte/MG\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💰 Faixa Salarial\n\n_No response_\n\n### 📋 Descrição da Vaga\n\n**The Company:**\n\nHexagon is a global leader in digital reality solutions, combining sensor, software, and autonomous technologies. We are putting data to work to boost efficiency, productivity, quality, and safety across industrial, manufacturing, infrastructure, public sector, and mobility applications.\nOur technologies are shaping the production and people-related ecosystems to become increasingly connected and autonomous — ensuring a scalable, sustainable future.\nHexagon’s Mining division solves surface and underground mine challenges with proven technologies for planning, operations, and safety.\nHexagon (Nasdaq Stockholm: HEXA B) has approximately 24,000 employees in 50 countries and net sales of approximately 5.5bn USD. Learn more at hexagon.com and follow us @HexagonAB.\nPurpose of Position:\n\n\nThe DevOps Engineer will play a key role in the automation of deployment, integration, and testing for exciting mining projects. They will work with the development, support, and quality assurance teams to implement processes by which projects can be produced at scale and tested and distributed automatically. They will assist teams working on both hardware and software projects with the goal of increasing both team productivity and product quality.\n\n\n**Major Areas of Responsibility:**\n\nImplement automated Continous Integration and Continous Deployment for both hardware and software based projects\nImplement test automation for both hardware and software based projects\nHelp with development and deployment of simulation infrastructure for testing purposes\nSupport hardware and software teams with DevOps responsibilities\n\n\n**Knowledge and Experience - Required:**\n\nBachelor's degree in Computer Science, Software Engineering, or equivalent;\nStrong knowledge of Continuous Integration/Continuous Deployment and DevOps principles;\nKnowledge of test automation principles;\nKnowledge of Kubernetes;\nDevelopment skills using a language such as C++, Java, or .NET;\nProficiency in scripting and automation tools such as Linux Bash, PowerShell and Python;\nKnowledge of Agile development methodologies is required;\nFull professional English proficiency.\n\n\n**Knowledge and Experience - Desired:**\n\nKnowledge of Atlassian Bamboo a plus\nExperience with containerization and deployment using Kubernetes and Docker a plus\nRelevant certifications in cloud platforms such as AWS, Azure, or GCP are a plus.\nKnowledge of Cybersecurity industry standards such as NIST or CIS is a plus\nRelevant certifications in Cybersecurity are a plus.\n\n\n**Travel:**\n\nNo travel is required.\n\n\n**Benefits:**\n\nHealth plan\nComprehensive health program (psychological, nutritional, legal, financial, and social assistance)\nWellhub (Gym)\nLife insurance\nMeal/food allowance\nDental plan\nPrivate pension plan\n\n\nYou will work on products that could revolutionize the mining industry in the next 5 years. Your colleagues consist of highly qualified and open-minded engineers from all over the world. Beside the developer career you will have the opportunity to develop into multiple directions.\n\nJoin our team as a DevOps engineer and make a significant impact on our clients' digital transformation initiatives. We offer a stimulating work environment, competitive compensation package, and opportunities for professional growth. Apply now and help shape the future of Hexagon’s technology solutions.\n\nHexagon is an Equal Opportunity Employer. We prohibit discrimination against any job applicant based on protected characteristic.\n\n### ✅ Requisitos Técnicos\n\n```markdown\n**Knowledge and Experience - Required:**\n\nBachelor's degree in Computer Science, Software Engineering, or equivalent;\nStrong knowledge of Continuous Integration/Continuous Deployment and DevOps principles;\nKnowledge of test automation principles;\nKnowledge of Kubernetes;\nDevelopment skills using a language such as C++, Java, or .NET;\nProficiency in scripting and automation tools such as Linux Bash, PowerShell and Python;\nKnowledge of Agile development methodologies is required;\nFull professional English proficiency.\n```\n\n### 🎁 Benefícios\n\nHealth plan\nComprehensive health program (psychological, nutritional, legal, financial, and social assistance)\nWellhub (Gym)\nLife insurance\nMeal/food allowance\nDental plan\nPrivate pension plan\n\n### 🛠️ Stack/Tecnologias\n\n_No response_\n\n### 📧 Como se Candidatar\n\nCandidate-se pelo link: https://www.linkedin.com/jobs/view/4378857875/?trk=mcm\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.linkedin.com/jobs/view/4378857875/?trk=mcm\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo DevOps Analyst ### 🏢 Empresa Hexagon Mining ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização Belo Horizonte/MG ### 📝 Tipo de Contratação CLT ### 💰 Faixa Salar...",
+      "issueState": "open",
+      "contentHash": "2ab5fc80105cd499a45a8a228679beb9c4a379702052261ad56fc91089a18151",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "stale",
+        "sre",
+        "infra",
+        "security",
+        "aws",
+        "azure"
+      ],
+      "author": {
+        "id": "nicoli-martha-recruiter",
+        "name": "nicoli-martha-recruiter",
+        "handle": "nicoli-martha-recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/196654355?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "companyName": "**",
+      "createdAt": "2026-03-05T17:18:29Z",
+      "updatedAt": "2026-05-05T03:37:49Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/456",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5903d3232c2f99d9ae568fe8",
+      "sourceId": "kotlin-br/vagas#42",
+      "title": "[Remoto] Kotlin Developer (Sênior) na ITeam",
+      "description": "### Nossa empresa\n\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP,  realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. \nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado. \nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n\n### Descrição da vaga\n\nDesenvolvedor Kotlin Back-end com sólida experiência em engenharia de software, com foco em soluções na AWS.\n\n### Local\n\n\nRemoto\nHorário: 09h às 18h\n\n### Requisitos: \n\nPossui conhecimento avançado em serviços AWS, como Lambda, ECS, SQS, S3 e EventBridge, entre outros.\nExperiência com padrões de projeto e Clean Architecture.\nVivência com bancos de dados SQL e NoSQL.\nFamiliaridade com ferramentas de observabilidade, como Splunk e CloudWatch.\nExperiência com Infra as Code (CloudFormation e Terraform).\nAtuação com versionamento de código utilizando Git.\n\n\n### Contratação\n\nPrazo de contrato: 12 meses (com possibilidade de efetivação)\nRegime: PJ (necessário empresa aberta) ou CLT\n\n### Como se candidatar\n\nPor favor, envie o currículo atualizado com a pretensão de taxa/hora PJ ou CLT para: viviane.pereira@iteam.inf.br\n\n### Tempo médio de feedbacks\n\n1 semana\n\n### Keywords\n\nKotlin\nAWS\nTerraform\nGit\n\n### Alocação\n\n- [X] Alocado\n- [X] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [X] CLT\n- [ ] Estágio\n- [ ] Freela\n- [X] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto",
+      "excerpt": "### Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções espe...",
+      "issueState": "open",
+      "contentHash": "ceb41344be5ed48efb9f1e54bc689921fcc7093f667706a866737cc747ed3e4e",
+      "repository": "kotlin-br/vagas",
+      "repositoryUrl": "https://github.com/kotlin-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "estágio",
+        "contrato",
+        "remoto",
+        "híbrido",
+        "presencial",
+        "júnior"
+      ],
+      "author": {
+        "id": "ITeam-oportunidades",
+        "name": "ITeam-oportunidades",
+        "handle": "ITeam-oportunidades",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
+      },
+      "community": {
+        "id": "kotlin-br",
+        "name": "kotlin-br",
+        "avatarUrl": "https://github.com/kotlin-br.png?size=80",
+        "repository": "kotlin-br/vagas",
+        "url": "https://github.com/kotlin-br/vagas"
+      },
+      "companyName": "ITeam",
+      "createdAt": "2026-03-03T14:46:28Z",
+      "updatedAt": "2026-03-03T14:46:47Z",
+      "url": "https://github.com/kotlin-br/vagas/issues/42",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5e3fc1e256e628bfb7f7bdcc",
+      "sourceId": "programadores-br/geral#3056",
+      "title": "[Remoto] BackEnd Kotlin Sênior @ ITeam",
+      "description": "### Nossa empresa\n\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP,  realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. \nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado. \nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n\n### Descrição da vaga\n\nDesenvolvedor Kotlin Back-end com sólida experiência em engenharia de software, com foco em soluções na AWS.\n\n### Local\n\n\nRemoto\nHorário: 09h às 18h\n\n### Requisitos: \n\nPossui conhecimento avançado em serviços AWS, como Lambda, ECS, SQS, S3 e EventBridge, entre outros.\nExperiência com padrões de projeto e Clean Architecture.\nVivência com bancos de dados SQL e NoSQL.\nFamiliaridade com ferramentas de observabilidade, como Splunk e CloudWatch.\nExperiência com Infra as Code (CloudFormation e Terraform).\nAtuação com versionamento de código utilizando Git.\n\n\n### Contratação\n\nPrazo de contrato: 12 meses (com possibilidade de efetivação)\nRegime: PJ (necessário empresa aberta) ou CLT\n\n### Como se candidatar\n\nPor favor, envie o currículo atualizado com a pretensão de taxa/hora PJ ou CLT para: viviane.pereira@iteam.inf.br\n\n### Tempo médio de feedbacks\n\n1 semana\n\n### Keywords\n\nKotlin\nAWS\nTerraform\nGit\n\n### Alocação\n\n- [X] Alocado\n- [X] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [X] CLT\n- [ ] Estágio\n- [ ] Freela\n- [X] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto",
+      "excerpt": "### Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções espe...",
+      "issueState": "open",
+      "contentHash": "d58ee0ec90cd4535f4c91ce7e4188d9effb5db4eb160a726fefcdb84d107826b",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "alocado",
+        "estágio",
+        "full time",
+        "especialista",
+        "pleno",
+        "híbrido",
+        "part time",
+        "remoto"
+      ],
+      "author": {
+        "id": "ITeam-oportunidades",
+        "name": "ITeam-oportunidades",
+        "handle": "ITeam-oportunidades",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "createdAt": "2026-03-03T14:44:39Z",
+      "updatedAt": "2026-03-03T14:45:31Z",
+      "url": "https://github.com/programadores-br/geral/issues/3056",
       "sourceType": "github-issue"
     }
   ]
