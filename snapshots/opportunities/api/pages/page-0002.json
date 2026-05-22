@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-05-22T02:39:09.615Z",
+  "generatedAt": "2026-05-22T19:26:12.932Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_1064af9b7fc9aca6eda2af2d",
+    "gh_200f3045b6c290bb361c8b57",
+    "gh_c6ea6f26ee3637c83a93d6bc",
+    "gh_b8c97ddfaf8d7d5e0b19956c",
+    "gh_c33f944f0198dd7fdf21feba",
+    "gh_04e16e2c007892d76818f4d4",
+    "gh_ba4f8e13f468e4ef55d8683c",
     "gh_9de20cf178bdf31ec7ef83b8",
     "gh_28db0fa4dd1c9d5a8a8953f3",
     "gh_3180852b6881f4eb47502eb8",
@@ -16,16 +23,281 @@
     "gh_270034965458fc3af3e97f7b",
     "gh_3e8010399abf27a86fd3a8bd",
     "gh_046e40a5a4aaffa9b0373703",
-    "gh_005e9d2bba01454364d45942",
-    "gh_4e34b19349821ddbbd2572e6",
-    "gh_35788f44eaf100a0645b1750",
-    "gh_0288f14e04d058580cc30e17",
-    "gh_e13bb358bf081385545e2be0",
-    "gh_08c2b289f0b0fbaf5bd9f142",
-    "gh_23e88f37c8cdd99dec55a249",
-    "gh_d56bae7c6952a6aa314fa3f2"
+    "gh_005e9d2bba01454364d45942"
   ],
   "items": [
+    {
+      "id": "gh_1064af9b7fc9aca6eda2af2d",
+      "sourceId": "DevOps-Brasil/Vagas#461",
+      "title": "[Senior DevOps Engineer] DWS Brazil - Remoto",
+      "description": "### 🎯 Cargo\n\nSenior DevOps Engineer\n\n### 🏢 Empresa\n\ndentsu world services brazil [DWS Brazil]\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nSede em Porto Alegre - RS [vaga remota para residentes no Brasil]\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\nR$11.000-12.000 - podemos conversar melhor :)\n\n### 📋 Descrição da Vaga\n\nEstamos em busca de uma pessoa Engenheira de DevOps para participar de iniciativas de infraestrutura e automação em ambientes em núvem. Essa pessoa atuará de forma prática no desenvolvimento de soluções escaláveis, além de garantir a qualidade das entregas em ambientes distribuídos e altamente dinâmicos.\n\n**Responsabilidades e atribuições\n\nVocê será responsável por:**\n• Projetar e construir pipelines de CI/CD seguros para múltiplos sistemas de destino.\n• Desenvolver e gerenciar pipelines usando principalmente GitHub Actions, além de outras ferramentas como Jenkins, Bamboo e Travis.\n• Automatizar processos manuais e desenvolver ferramentas que aumentem a eficiência operacional.\n• Colaborar com os times de desenvolvimento para apoiar a adoção de ferramentas e práticas DevOps.\n• Garantir o uso de padrões seguros e boas práticas em pipelines e infraestrutura.\n• Escrever e manter infraestrutura como código (IaC), preferencialmente com Terraform (conhecimento em Ansible será considerado um diferencial).\n• Trabalhar em parceria com as equipes de infraestrutura para entregar soluções robustas e confiáveis.\n• Solucionar problemas e otimizar os ambientes de desenvolvimento, homologação e produção.\n• Contribuir para estratégias técnicas e apoiar a evolução da plataforma.\n• Compartilhar conhecimento e atuar como referência técnica para outros membros do time.\n\n### ✅ Requisitos Técnicos\n\n```markdown\nRequisitos e qualificações\nPara essa posição, é importante que você tenha:\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com azure, preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\nSerá legal se você tiver:\n\n• Experiência com Helm e criação de charts.\n• Familiaridade com Kubernetes (não é obrigatório — oferecemos treinamento).\n• Conhecimentos em segurança de aplicações e infraestrutura, redes (TCP/IP) e PKI.\n• Experiência com ferramentas de qualidade de código, como SonarQube.\n• Experiência com repositórios privados de pacotes (npm, PyPI, NuGet).\n• Habilidade para troubleshooting em ambientes com [Node.js](http://node.js/) e Python.\n• Conhecimento em scripts (bash/sh/ksh).\n```\n\n### 🎁 Benefícios\n\n**Aqui você vai encontrar (Nossos benefícios):**\n\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n-  Aulas de inglês com professor particular;\n-  Awesomeness - envio de mimos temáticos e exclusivos;\n-  Gympass;\n-  Horário flexível (40h semanais);\n-  Day off de aniversário;\n-  Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n-  Atuação 100% remota ou híbrida (a sua escolha).\n\n### 🛠️ Stack/Tecnologias\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com **azure,** preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\n### 📧 Como se Candidatar\n\nInscreva-se na vaga: https://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\nou envie um email com seu CV atualizado em inglês, pretensão salarial e nível de inglês para: debora.dalbem@dentsu.com\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Senior DevOps Engineer ### 🏢 Empresa dentsu world services brazil [DWS Brazil] ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Sede em Porto Alegre - RS [vaga r...",
+      "issueState": "open",
+      "contentHash": "1eb2d8c742d0703939ec8387ca516c7afb00dc8890ae2d4203f3078f488e4cf2",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "sre",
+        "platform",
+        "infra",
+        "security",
+        "azure",
+        "kubernetes"
+      ],
+      "author": {
+        "id": "dwsbrazil",
+        "name": "dwsbrazil",
+        "handle": "dwsbrazil",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 11000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-05-18T13:44:20Z",
+      "updatedAt": "2026-05-18T13:45:26Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/461",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_200f3045b6c290bb361c8b57",
+      "sourceId": "soujava/vagas-java#1884",
+      "title": "[REMOTO] Back-end developer Java - DWS Brazil",
+      "description": "## Descrição da vaga\nEstamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções\n\n## Local\nRemoto - mas temos um office em Porto Alegre - RS para receber a galera para encontros, festa da firma e ta liberado para quem quiser frequentar!\nPS: Não voltaremos a atuar presencialmente.\n\n## Benefícios\n\n**Aqui você vai encontrar:**\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n- Aulas de inglês com professor particular;\n- Awesomeness Committee - envio de mimos temáticos e exclusivos;\n- Gympass;\n- Horário flexível (40h semanais);\n- Day off no dia do aniversário;\n- Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n- Atuação 100% remota ou híbrida (a sua escolha).\n- Contratação\n- CLT, 100% remoto e com carga horária flexível\n\n## Diferenciais\n\n- Programa de mentoria para desenvolvimento de carreira\n- Cultura de valorização, desenvolvimento e descontração\n- No office em porto alegre temos um frigobar sempre cheio :P (e tudo de graça)\n- Sala Fun com PS5, VR, Nintendo Switch, Karaokê\n\n## Requisitos\n**Como será sua rotina? Você será responsável por:**\n- Desenvolver soluções utilizando JavaEE e spring boot;\n- Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;\n- Desenvolver, integrar manter APIs para integração de Sistemas;\n- Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio\n- Documentar todo o processo de desenvolvimento do código;\n- Criar relatórios de status e possíveis problemas para o Project Manager;\n- Participar de reuniões técnicas e cerimônias do projeto.\n\n#### Obrigatórios:\n**Para essa posição é importante que você tenha:**\n- Experiência com programação em Java (JDK);\n- Domínio de conceitos para programação orientado a objetos;\n- Experiência com conceito de padrões de arquitetura;Conhecimento em GIt ou Subeversion;\n- Habilidades com frameworks open source (Hibertnate, Velocity, etc);\n- Conhecimento em aplicações Web e protocolos HTTP;\n- Experiência com banco de dados relacionais (Oracle, MySQL, etc);\n- Experiência com pelo menos um IDE (Eclipse, Intellij IEDA, etc);\n- Experiência com Gradle, Mavel ou ANT e integração contínua;\n- Conhecimento em conceitos ORM ou experiência com implementação (Hibernate ou outra JPA);\n- Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.\n\n#### Diferenciais:\n\n- Projeto internacional\n- Utilização diária do inglês para comunicação com os times multiculturais \n\n## Contratação\n\n- CLT \n\n## Nossa empresa\n\nA Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atuamos como centro de tecnologia, inovação e design do grupo. Possuímos parceria com diversas agências do grupo e estamos empenhados em entregar soluções criativas e inovadoras aos nossos clientes, atendendo a projetos de desenvolvimento web e mobile. Embora tenhamos nosso escritório físico, por acreditarmos numa conexão sem fronteiras, temos pessoas espalhadas por todo o país que compões os times da DWS Brazil.\n\nOs DWSianes se integram a times multiculturais e que contam com pessoas de diversos países, levando o trabalho em grupo a um nível mais elevado e significativo. Assim, a diversidade de ideias contribui para a construção de tecnologias que revolucionam o mercado.\n\nMuitos desafios, aprendizado e crescimento esperam você na DWS Brazil!\n\n## Como se candidatar\nInscreva-se na nossa página de carreiras: https://dwsbrazil.gupy.io/jobs/11083207?jobBoardSource=gupy_public_page\n\n## Tempo médio de feedbacks\n\nNosso processo costuma ter em torno de 15 dias ao todo\nE-mail para contato em caso de não haver resposta: debora.dalbem@dentsu.com \n\n## Labels\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n#### Nível\n- Pleno\n- Sênior",
+      "excerpt": "## Descrição da vaga Estamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções ## Local Remoto - mas temos um office em Porto Alegre - RS para receber a galera pa...",
+      "issueState": "open",
+      "contentHash": "636adf5ecad5d26b0e4d9d4a247bd0715b211c2d47d9aa314bc12d7b0e965e2c",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "internacional",
+        "pleno",
+        "remoto",
+        "spring",
+        "hibernate",
+        "eclipse"
+      ],
+      "author": {
+        "id": "dwsbrazil",
+        "name": "dwsbrazil",
+        "handle": "dwsbrazil",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "createdAt": "2026-05-18T13:35:33Z",
+      "updatedAt": "2026-05-18T13:35:56Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1884",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_c6ea6f26ee3637c83a93d6bc",
+      "sourceId": "awesome-jobs/vietnam#4932",
+      "title": "WAOHire - Devops/Site Reliability Engineer - Remote/Hybrid HCMC - FT",
+      "description": "**Responsibilities:**\n- Engage in improving the whole lifecycle of services from inception through deployment, operations, and refinement\n- Implement service monitoring and alerting solutions to track service health and performance\n- Define service level objectives and gather the required metrics to track these objectives\n- Improve the software lifecycle with automated tests, deployments and builds, as well as performing load testing\n- Analyse and resolve issues in software, systems, tools, and services to minimize down time and interruption to development\n- Identify and mitigate risks with both current infrastructure, systems, and technologies as well as potential future risks with scalability and reliability\n- Work with software engineers to develop new game features with a high standard of code quality, stability, maintainability, readability, and performance.\n- Work with electrical engineers to integrate custom hardware interfaces and implement tools for thoroughly testing hardware.\n\n**Requirements:**\n- From 5 years of experience in Site Reliability Engineer, DevOps, or Systems Infrastructure.\n- Proven hands-on experience with Kubernetes (Self-hosted), Helm, and GCP (Google Cloud Platform).\n- Expertise in Linux System Administration, cluster management, containers, and shell scripting.\n- Working proficiency in GoLang & gRPC for microservices architecture.\n- Good communication skills in English (both written and verbal).\n- **Nice to have:** Exposure to real-time protocols (WebRTC, TypeScript, React, Firebase, C#).\n\n**Benefits:**\n- Competitive salary (upto 70M gross) with 100% paid during probation.\n- 13th-month salary, 12-day annual leave, full insurance, periodic health check-ups according to Vietnam Labor Law.\n- No OT policy with highly flexible working hours.\n- Flexible working mode (Fully remote then switch to hybrid 3 days/week once team expands)\n- Opportunities to travel to Singapore for professional workshops and training.\n- Expected location: District 1, HCMC\n\nContact: **+84 834033300 (Zalo)**",
+      "excerpt": "**Responsibilities:** - Engage in improving the whole lifecycle of services from inception through deployment, operations, and refinement - Implement service monitoring and alerting solutions to track service health a...",
+      "issueState": "open",
+      "contentHash": "cfd5afcf61400d15b5a46c4c5b2bc8a3d7c2456ef2f3bd65dd2684e9ee79aa94",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "hybrid",
+        "react",
+        "typescript",
+        "golang",
+        "devops"
+      ],
+      "author": {
+        "id": "nhatruchr",
+        "name": "nhatruchr",
+        "handle": "nhatruchr",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/231218520?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-05-18T07:50:12Z",
+      "updatedAt": "2026-05-18T09:39:44Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4932",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_b8c97ddfaf8d7d5e0b19956c",
+      "sourceId": "backend-br/vagas#12238",
+      "title": "[Alocação] Back-end developer - Node j.s Pleno / Sênior - ITEAM",
+      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Nossa empresa\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas.\nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado.\nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\nInforme a descrição da vaga.\n\nDesenvolvedor(a) Node.js – Pleno / Sênior \nExperiência em Node.js. Desenvolvimento de APIs REST e integrações e soluções distribuídas. \nExperiência em AWS, CI/CD e práticas ágeis. \nExperiência com Git e ambientes Cloud.\n\n\n## Local\nAtendimento híbrido – 2x por semana em Santo Amaro/SP\n\n\n## Requisitos\n\nExperiência em Node.js. Desenvolvimento de APIs REST e integrações e soluções distribuídas. \nExperiência em AWS, CI/CD e práticas ágeis. \nExperiência com Git e ambientes Cloud.\n\n\n## Contratação\n\nContratação PJ\n\n## Como se candidatar\n\nEnviar o currículo para o e-mail: erika.santos@iteam.inf.br / whatsapp: (11) 99328-6431\n\n## Labels\n\nNode.js, APIs REST, AWS, CI/CD, Git,  Cloud\n\n### Nível\nPleno / Sênior\n\n### Regime\n\nPJ\n\n### Alocação\n\nPrazo: entre 6 a 12 meses",
+      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços ...",
+      "issueState": "open",
+      "contentHash": "811c6c0401e248dbb92207defa0bd52f82d9d42b6b3a58b2a5095128eabcf7c7",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "sênior",
+        "node.js",
+        "aws",
+        "git",
+        "híbrido",
+        "ci/cd"
+      ],
+      "author": {
+        "id": "ITeam-oportunidades",
+        "name": "ITeam-oportunidades",
+        "handle": "ITeam-oportunidades",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-15T20:42:49Z",
+      "updatedAt": "2026-05-15T20:43:05Z",
+      "url": "https://github.com/backend-br/vagas/issues/12238",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_c33f944f0198dd7fdf21feba",
+      "sourceId": "frontendbr/vagas#8478",
+      "title": "[Remoto] Fullstack Developer (React + Angular) | Sênior na Sensedia",
+      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\n\nA Sensedia é líder no mercado de APIs, oferecendo soluções de integração e consultoria a grandes empresas no Brasil e no mundo, em uma variedade de setores. Seu portfólio, além de uma plataforma API Management, inclui Sensedia Integrations, Service Mesh, API Adaptive Governance, Events Hub, Open Banking & Finance e equipes estratégicas de Professional Services.\n\nTrabalhar aqui é pertencer a uma cultura plural, descontraída e inovadora. É para quem tem coragem de ir além, pensar e agir fora da caixa. Preferimos pedir desculpas ao invés de pedir permissão e estamos sempre dispostos a nos transformar, nos reinventar.\nNossas pessoas são incríveis e você pode fazer parte disso tudo. Nos comprometemos em garantir um ambiente de trabalho acolhedor e respeitoso.\n\nConheça + em nosso site: [https://br.sensedia.com/sensedia-careers](url)\n\n## Descrição da vaga\n\nAtuar no desenvolvimento de soluções fullstack modernas e escaláveis para grandes clientes do mercado corporativo, com foco principal no frontend utilizando React e Angular, sem deixar de contribuir em integrações e evoluções backend.\nBuscamos uma pessoa desenvolvedora fullstack com forte domínio em frontend, capaz de construir aplicações robustas, performáticas e de alta usabilidade, colaborando com decisões técnicas e atuando de ponta a ponta nas entregas.\nComo:\n-Desenvolver interfaces modernas, responsivas e performáticas utilizando React e Angular;\n-Atuar na construção e evolução de aplicações fullstack;\n-Desenvolver integrações com APIs e microsserviços;\n-Participar da definição de arquitetura frontend e boas práticas de desenvolvimento;\n-Identificar, analisar e atuar na correção de vulnerabilidades e riscos de segurança nas aplicações; \n-Aplicar boas práticas de segurança no desenvolvimento de software;\n-Apoiar o time em dúvidas técnicas e compartilhamento de conhecimento;\n-Participar de cerimônias ágeis e interações frequentes com clientes;\n-Trabalhar em conjunto com backend, UX/UI e arquitetura para definição das soluções;\n-Garantir qualidade de código através de testes automatizados e code reviews;\n-Identificar oportunidades de melhoria contínua em performance, usabilidade e manutenção das aplicações;\n-Apoiar tech leads e stakeholders técnicos em refinamentos e definições técnicas.\n\n## Local\nRemoto \n\n## Requisitos\n\n**Obrigatórios:**\n -HTML5, CSS3 e Javascript/Typescript; Experiência sólida com React;\n\n-Experiência sólida com Angular (preferencialmente versões mais recentes);\n\n-Experiência no desenvolvimento de aplicações fullstack com maior atuação em frontend;\n\n-Experiência com gerenciamento de estado (Redux, Context API, NgRx ou similares);\n\n-Desenvolvimento de componentes reutilizáveis e design systems;\n\n-Experiência com consumo e integração de APIs REST;\n\n-Experiência com Node.js para construção de BFFs e integrações;\n\n-Conhecimento em práticas de desenvolvimento seguro e correção de vulnerabilidades;\n\n-Testes automatizados (Jest, React Testing Library, Cypress ou similares);\n\n-Conhecimento em arquitetura frontend moderna e Micro Frontends (MFE);\n\n-Conhecimento em boas práticas de desenvolvimento: SOLID, Clean Code e Design Patterns;\n\n-Experiência com Git e fluxo de versionamento;\n\n-Vivência em ambientes ágeis (Scrum/Kanban);\n\n-Conhecimento em responsividade, acessibilidade e performance frontend.\n\n**Diferenciais:**\n\n-Bom conhecimento em Java (Spring Boot) ou Node.js para atuação backend;\n\n-Experiência com Styled Components, Tailwind ou SCSS;\n\n-Conhecimento em Next.js; Experiência com pipelines CI/CD;\n\n-Conhecimento em Cloud (Azure, AWS ou GCP);\n\n-Experiência com observabilidade e monitoramento frontend;\n\n-Vivência em projetos de alta volumetria e aplicações críticas;\n\n-Experiência com bibliotecas/componentização frontend;\n\n-Inglês intermediário ou avançado.\n\n## Benefícios\n\nVale Refeição/Vale Alimentação (Cartão Flash benefícios), Plano de Saúde, Plano Odontológico, Seguro de Vida, PPR, TotalPass, Auxílio Creche, Programa Well-Being (destinado para saúde física e mental), Universidade Corporativa (nossa #SensediaAcademy), com diversas trilhas de desenvolvimento; Parceiros culturais e educacionais, com descontos especiais; Somos uma empresa cidadã,  proporcionando licença maternidade e licença paternidade estendida.\n\n\n## Contratação\nCLT\n\n## Como se candidatar\nSe candidate em: [https://sensedia.hire.trakstar.com/jobs/fk0zvlo/](url)\n\n## Tempo médio de feedbacks\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Nível\n- Sênior",
+      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
+      "issueState": "open",
+      "contentHash": "bcf01d4aa8aee09030da3fcce7cbb7c56db69f3d1c79cb93d3da3f68d100c6bb",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "remoto"
+      ],
+      "author": {
+        "id": "vagas-tech-remote",
+        "name": "vagas-tech-remote",
+        "handle": "vagas-tech-remote",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/269812898?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sensedia",
+      "createdAt": "2026-05-15T20:37:21Z",
+      "updatedAt": "2026-05-16T16:41:20Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8478",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_04e16e2c007892d76818f4d4",
+      "sourceId": "nerdzao/vagas#190",
+      "title": "Vagas Tecnologia",
+      "description": "A [3 Pontos](https://3pontos.com/l) é um ecossistema que une solução e conhecimento em um único lugar.\n\nEstamos sempre em busca de profissionais talentosos da área de tecnologia para fazer parte do nosso time. Se você gosta de inovação, resolver problemas complexos e trabalhar em um ambiente colaborativo, queremos conhecer você.\n\nAo se inscrever em nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas à sua experiência e interesses.\n\n**Áreas que buscamos**\nBuscamos profissionais de diferentes níveis (Júnior, Pleno e Sênior) nas seguintes áreas:\n\n- Desenvolvimento Back-end\n- Desenvolvimento Front-end\n- Full Stack\n- UI/UX Design\n- Product Management\n- QA / Testes\n- DevOps / Cloud\n- Data / Analytics\n- Segurança da Informação\n\n**O que esperamos:**\n\nExperiência com desenvolvimento de produtos digitais\nPerfil colaborativo e orientado à resolução de problemas\nBoa comunicação e trabalho em equipe\n\nSe aplique pela nossa página de carreiras: https://recrutamento.3pontos.com/vagas/banco-de-talentos-tecnologia-ybhf\n\n\nEsperamos por vocês!!",
+      "excerpt": "A [3 Pontos](https://3pontos.com/l) é um ecossistema que une solução e conhecimento em um único lugar. Estamos sempre em busca de profissionais talentosos da área de tecnologia para fazer parte do nosso time. Se você ...",
+      "issueState": "open",
+      "contentHash": "6ba11401c8db862457eccbaf0211033babb805a4290caae22bef9a44c7e2ca1a",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "Malu3pontos",
+        "name": "Malu3pontos",
+        "handle": "Malu3pontos",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/282318656?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-05-15T15:16:11Z",
+      "updatedAt": "2026-05-15T15:16:11Z",
+      "url": "https://github.com/nerdzao/vagas/issues/190",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ba4f8e13f468e4ef55d8683c",
+      "sourceId": "programadores-br/geral#3067",
+      "title": "[Remoto] Product Owner Jr na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nBuscamos uma mente curiosa, organizada e apaixonada por resolver problemas para se juntar ao nosso time de Produto. Como **PO Júnior**, você será a ponte fundamental entre as necessidades dos nossos usuários e a execução técnica do time de desenvolvimento.\n\nEste é o lugar ideal para quem deseja consolidar seus conhecimentos em metodologias ágeis e aprender na prática como transformar uma visão de negócio em funcionalidades de alto impacto.\n## Credifit SCD: \n <p>A Credifit é uma FinTech do tipo SCD - Sociedade de Crédito Direto. Isto significa que somos uma Instituição Financeira regulada pelo Banco Central, e por isso, não precisamos de intermediários para fazer nossas operações de crédito. Temos o coração Tech e já nascemos com a metodologia ágil no sangue. Queremos mais que desenvolvedores, e sim pessoas que façam parte do nosso negócio, e conheçam sobre as áreas da empresa. Estamos aqui para crescer!</p></p>\n\n ## Habilidades: \n - Backlog \n- Contabilidade \n- Estabelecer KPIs \n- Gestão de prioridade \n- Organização \n- Comunicação\n## Local: \n Remota\n## Requisitos: \n - Mentalidade Analítica: Capacidade de ler dados e transformá-los em hipóteses de melhoria. \n- Comunicação: Você precisará explicar o contexto das necessidades para times dev e backoffice interno. \n- Organização: Facilidade para lidar com prazos e prioridades mutáveis. \n- Conhecimento Base: Entendimento de metodologias Ágeis (Scrum/Kanban). \n- Diferencial: Conhecimento em ferramentas de gestão (Jira, Trello ou ClickUp) e noções de UX/UI.\n## Diferenciais: \n - Conhecimento em Contabilidade será considerado um diferencial.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Product Owner Jr na Credifit SCD](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nGestão",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "57ede4f24b18292f780c6932eae42e3d162e35796c910f956cbab42c585cec79",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "júnior",
+        "pj"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-14T11:23:47Z",
+      "updatedAt": "2026-05-14T11:24:06Z",
+      "url": "https://github.com/programadores-br/geral/issues/3067",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_9de20cf178bdf31ec7ef83b8",
       "sourceId": "SimplifyJobs/Summer2026-Internships#9533",
@@ -493,239 +765,6 @@
       "createdAt": "2026-05-07T13:13:59Z",
       "updatedAt": "2026-05-07T13:13:59Z",
       "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/39",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4e34b19349821ddbbd2572e6",
-      "sourceId": "awesome-jobs/vietnam#4930",
-      "title": "XCAP - Product Manager - Wealth Management - HCM - FT",
-      "description": "📍 Ho Chi Minh City | Full-time \nWhat you'll do\n• Define product vision and feature roadmap for a premium wealth platform\n• Translate complex financial concepts (portfolio allocation, risk modeling, succession planning) into clear product specs\n• Work closely with AI/ML and engineering teams to ship\n• Engage directly with early clients — HNW individuals and wealth managers\nWhat we're looking for\n• 3–6 years in Product Management, with at least 2 years in fintech, banking, or wealth management\n• Experience building products from scratch (0→1)\n• Strong understanding of financial products and investment advisory\n• Ability to write crystal-clear PRDs — engineering reads once, no follow-up questions\n• Business-level English\nBig plus: CFA/CFP, private banking background, or experience with AI/ML teams\nWhy join us\n• Rare chance to define a product category in an underserved market\n• AI-native stack - not a ChatGPT wrapper\n• Competitive salary + bonus\n• Clear path to Head of Product in 18–24 months\nApply via email: anh.ton@xnoquant.io or via LinkedIn at XCapital Technology.",
-      "excerpt": "📍 Ho Chi Minh City | Full-time What you'll do • Define product vision and feature roadmap for a premium wealth platform • Translate complex financial concepts (portfolio allocation, risk modeling, succession planning...",
-      "issueState": "open",
-      "contentHash": "1ec21fc07b57dd182e40df72c31e7c662642271ef672667a1c3956c5b73f4ff7",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [],
-      "author": {
-        "id": "tonnutramanh2-code",
-        "name": "tonnutramanh2-code",
-        "handle": "tonnutramanh2-code",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/235616798?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-07T07:11:33Z",
-      "updatedAt": "2026-05-07T07:38:51Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4930",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_35788f44eaf100a0645b1750",
-      "sourceId": "awesome-jobs/vietnam#4929",
-      "title": "XCAP - AI Engineer - HCM - FT",
-      "description": "📍 Ho Chi Minh City | Full-time\n\n**What you’ll do:**\n\t•\tTrain & deploy ML/DL models for financial signal generation and forecasting\n\t•\tBuild LLM pipelines (RAG, agents, tool-calling) for AI-powered wealth advisory\n\t•\tIntegrate models into production APIs with low-latency requirements\n\t•\tRun experiments and iterate fast with modern MLOps practices\n**What we’re looking for:**\n\t•\t1–3 years building ML/AI systems (strong projects considered)\n\t•\tPython + PyTorch/TensorFlow, solid deep learning fundamentals\n\t•\tExperience with LLMs and frameworks like LangChain or LlamaIndex\n\t•\tFast learner, analytical mindset, comfortable in a startup pace\n**Bonus:** RL for trading, vector DBs, Vietnamese market knowledge\n**What you get:**\n\t•\tCompetitive salary + performance bonus\n\t•\tFrontier AI x Fintech work with real market impact\n\t•\tGPU compute, top-tier LLM API access, learning budget\nApply via email: anh.ton@xnoquant.io or via LinkedIn at XCapital Technology.",
-      "excerpt": "📍 Ho Chi Minh City | Full-time **What you’ll do:** • Train & deploy ML/DL models for financial signal generation and forecasting • Build LLM pipelines (RAG, agents, tool-calling) for AI-powered wealth advisory • Inte...",
-      "issueState": "open",
-      "contentHash": "0d929da6878678bdb132ab4105afa0488368f940eca9267e05c19b8859e97124",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "python"
-      ],
-      "author": {
-        "id": "tonnutramanh2-code",
-        "name": "tonnutramanh2-code",
-        "handle": "tonnutramanh2-code",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/235616798?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-07T07:09:10Z",
-      "updatedAt": "2026-05-07T07:38:35Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4929",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0288f14e04d058580cc30e17",
-      "sourceId": "awesome-jobs/vietnam#4928",
-      "title": "XCAP - Senior AI Engineer - HCM - FT",
-      "description": "📍 Ho Chi Minh City | Full-time \n\n**What you’ll do:**\n\t•\tLead design and delivery of multi-agent AI systems and LLM pipelines for capital markets\n\t•\tOwn the full AI lifecycle: data strategy → model development → production → monitoring\n\t•\tDefine engineering standards and MLOps practices for the AI team\n**What we’re looking for:**\n\t•\t4+ years shipping production AI/ML systems end-to-end\n\t•\tExpert Python, PyTorch; strong command of Transformers and generative models\n\t•\tProven LLM system architecture (RAG, fine-tuning, multi-agent orchestration)\n\t•\tExperience with RL, financial time-series data, and cloud-native MLOps\n\t•\tTechnical leadership: you set direction, make trade-offs, drive alignment\n**Bonus:** Published research, agentic frameworks (AutoGen, LangGraph), quant finance background\n**What you get:**\n\t•\tSenior comp: competitive base + equity / significant performance bonus\n\t•\tClear path to AI Lead or Head of AI as XCap scales\n\t•\tDirect collaboration with founders and investment leadership\n\t•\tHigh-trust, results-over-hours culture\nApply via email: anh.ton@xnoquant.io or via LinkedIn at XCapital Technology.",
-      "excerpt": "📍 Ho Chi Minh City | Full-time **What you’ll do:** • Lead design and delivery of multi-agent AI systems and LLM pipelines for capital markets • Own the full AI lifecycle: data strategy → model development → productio...",
-      "issueState": "open",
-      "contentHash": "6db6bbce8052e2b2f50a2e9cf454706b3b2ba186f1b8328eaf4fd24f66180fc9",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "python",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "tonnutramanh2-code",
-        "name": "tonnutramanh2-code",
-        "handle": "tonnutramanh2-code",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/235616798?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-07T07:07:42Z",
-      "updatedAt": "2026-05-07T07:38:24Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4928",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e13bb358bf081385545e2be0",
-      "sourceId": "backend-br/vagas#12231",
-      "title": "[Alocação] GoLang Back-end Developer - ITEAM",
-      "description": "Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas.\nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado.\nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n## Descrição da vaga\nExperiência sólida em engenharia de software, com foco em soluções na AWS. \nConhecimento avançado em serviços AWS, como Lambda/ECS/SQS/S3/EventBridge, entre outros. \nConhecimento em padrões de projeto e clean arch. \nExperiência com SQL e NOSQL \nFamiliaridade com ferramentas de Observability Splunk, CloudWatch \nExperiencia com infra as a Code (Cloudformation e Terraform) Experiencia em versionamento de codigo utilizando Git.\nInforme a descrição da vaga.\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperiência sólida em engenharia de software, com foco em soluções na AWS. \nExperiencia com infra as a Code (Cloudformation e Terraform) Experiencia em versionamento de código utilizando Git.\nConhecimento avançado em serviços AWS, como Lambda/ECS/SQS/S3/EventBridge, entre outros. \nExperiência com SQL e NOSQL \n\nContratação: PJ\n\nComo se candidatar: \nE-mail: erika.santos@iteam.inf.br\n+55 (11) 99328-6431\n\nInforme os canais disponíveis para a aplicação na vaga.\n\n## Labels\n\n<AWS, SQL, NOSQL, CloudWatch,  SQL e NOSQL, Lambda/ECS/SQS/S3/EventBridge\n\nNível: Sênior",
-      "excerpt": "Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. Reunimos ...",
-      "issueState": "open",
-      "contentHash": "f4fe9e70fbe90b1b1300c5a245a461201c3ffc8c55e60b8a60afebba2898712f",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "remoto",
-        "aws",
-        "sql",
-        "git"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-06T18:34:29Z",
-      "updatedAt": "2026-05-06T18:34:52Z",
-      "url": "https://github.com/backend-br/vagas/issues/12231",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_08c2b289f0b0fbaf5bd9f142",
-      "sourceId": "cncf/gitjobs#383",
-      "title": "Ability to manually assign jobs to a foundation/project after submission",
-      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
-      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
-      "issueState": "open",
-      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
-      "repository": "cncf/gitjobs",
-      "repositoryUrl": "https://github.com/cncf/gitjobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "iamweswilson",
-        "name": "iamweswilson",
-        "handle": "iamweswilson",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
-      },
-      "community": {
-        "id": "cncf",
-        "name": "cncf",
-        "avatarUrl": "https://github.com/cncf.png?size=80",
-        "repository": "cncf/gitjobs",
-        "url": "https://github.com/cncf/gitjobs"
-      },
-      "createdAt": "2026-05-05T18:56:03Z",
-      "updatedAt": "2026-05-06T15:39:22Z",
-      "url": "https://github.com/cncf/gitjobs/issues/383",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_23e88f37c8cdd99dec55a249",
-      "sourceId": "datascience-br/vagas#161",
-      "title": "Engenheiro de Dados ETL/ ELT Sênior na ZUP - 100% remoto",
-      "description": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!**\n\n**O que você fará por aqui**\n\n- Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, garantindo alta performance e qualidade dos dados.\n- Orquestrar rotinas complexas de processamento e integração de dados via AWS Step Functions.\n- Executar análises e validações robustas utilizando SQL e Athena, assegurando integridade e confiabilidade das informações.\n- Colaborar com times multidisciplinares para identificar necessidades de dados e propor soluções técnicas aderentes às demandas do negócio.\n- Investigar falhas, propor e implementar melhorias contínuas na arquitetura e nos processos de dados.\n- Documentar soluções, fluxos de dados e boas práticas para promover o alinhamento técnico entre as equipes.\n\n **O que esperamos que você saiba**\n\n- Excelência em desenvolvimento de pipelines usando PySpark no AWS Glue.\n- Domínio de AWS Step Functions para orquestração de pipelines e agendamento de processos.\n- Sólido conhecimento em SQL para consultas avançadas e validações em grandes volumes de dados.\n- Experiência no uso do Athena para exploração, análise e auditoria de dados.\n- Capacidade de monitorar qualidade dos dados e solucionar problemas complexos em ambientes críticos.\n\n **O que será um diferencial**\n\n- Prática com AWS QuickSight para criação de dashboards e visualização de dados.\n- Conhecimento em estratégias avançadas de monitoramento, observabilidade e automação de processos.\n- Experiência em ambientes de dados altamente regulados (LGPD, GDPR).\n- Familiaridade com novas ferramentas de data engineering no ecossistema AWS (como Lake Formation ou Glue DataBrew).\n- Atuação prévia em projetos de melhoria contínua com foco em performance ou escalabilidade.\n\nUm pouco de nossos beneficios:\n\nPLR : \n🍕 VR/VA Flash R$1.440,00\n📱 Plano de celular Vivo Easy ou Claro com reembolso \n🏡 Auxílio Home Office, ajuda de custo de internet \n📚 Capacitação anual  - a partir do 4º mês - para investir em livros, cursos, palestras. A Zup reembolsa 75% do valor dessas capacitações, dentro desse budget)\n🏥 Plano de Saúde SulAmérica ou Unimed\n🦷 Plano Odontológico SulAmérica\n👶 Auxílio creche / Licença paternidade até 90 dias / Licença maternidade até 180 dias\n⭐ Seguro de vida\n💪 Gympass\n💭 Telavita (psicólogo online com 5 sessões gratuitas por mês)\n💵 Bônus por indicação\n🚀 2 Days Off ao ano e Liberdade para trabalhar de onde quiser\ne mais!\n\n\nCandidate-se  enviando seu currículo para o seguinte email:  kauany.riotinto@zup.com.br\n**No título deve conter seu nome e o da vaga \" Engenheiro de Dados ETL/ELT Sênior\"**",
-      "excerpt": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!** **O que você fará por aqui** - Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, gara...",
-      "issueState": "open",
-      "contentHash": "76a9373fd1a6ec20ac048ad1423a63775d2f5b4f1922beaa564122d929065a50",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data"
-      ],
-      "author": {
-        "id": "KauanyFD",
-        "name": "KauanyFD",
-        "handle": "KauanyFD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2026-05-04T17:18:52Z",
-      "updatedAt": "2026-05-12T12:20:37Z",
-      "url": "https://github.com/datascience-br/vagas/issues/161",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d56bae7c6952a6aa314fa3f2",
-      "sourceId": "negarprh/Canadian-Tech-Internships-2026#243",
-      "title": "Suggestion",
-      "description": "hi,\n\ndid u think of making an email list? \n\nit would be a daily nice notifier for new positions\n\nu can use render, or any other service",
-      "excerpt": "hi, did u think of making an email list? it would be a daily nice notifier for new positions u can use render, or any other service",
-      "issueState": "open",
-      "contentHash": "d65ac7a54462a85b041c139de3d380d05e51bffecd66b6dd5200fd8a4683719c",
-      "repository": "negarprh/Canadian-Tech-Internships-2026",
-      "repositoryUrl": "https://github.com/negarprh/Canadian-Tech-Internships-2026",
-      "region": "North America",
-      "country": "Canada",
-      "tags": [],
-      "author": {
-        "id": "adssib",
-        "name": "adssib",
-        "handle": "adssib",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/75389300?v=4"
-      },
-      "community": {
-        "id": "negarprh",
-        "name": "negarprh",
-        "avatarUrl": "https://github.com/negarprh.png?size=80",
-        "repository": "negarprh/Canadian-Tech-Internships-2026",
-        "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026"
-      },
-      "createdAt": "2026-05-04T01:05:23Z",
-      "updatedAt": "2026-05-04T01:05:23Z",
-      "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026/issues/243",
       "sourceType": "github-issue"
     }
   ]
