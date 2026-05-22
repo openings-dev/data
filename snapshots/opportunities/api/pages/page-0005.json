@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-21T12:10:43.589Z",
+  "generatedAt": "2026-05-22T02:39:09.615Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_90dc15cf0fb5560e4c0f0993",
     "gh_e20f87fee19bdfaea2b354ed",
     "gh_644385e0db8a70c4f7599974",
     "gh_360a36bfb0c75f23ffd2bcac",
@@ -22,10 +23,42 @@
     "gh_e5a048bc61d56ec20e336489",
     "gh_15fb9ec0047c0e7cc80ada55",
     "gh_85486f31f6bca38c2dd8836a",
-    "gh_781ec4a1e281c13c2f1fc5c5",
-    "gh_5903d3232c2f99d9ae568fe8"
+    "gh_781ec4a1e281c13c2f1fc5c5"
   ],
   "items": [
+    {
+      "id": "gh_90dc15cf0fb5560e4c0f0993",
+      "sourceId": "react-brasil/vagas#3007",
+      "title": "desenvolvedor react native senior",
+      "description": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona como memória externa com captura de voz, separação automática por IA, organização inteligente e lembretes discretos. Stack: React Native + TypeScript + Node.js + PostgreSQL + IA (Whisper/GPT). Prazo 4 meses. Preciso de dev com 3+ anos React Native e pelo menos 1 app publicado nas stores.",
+      "excerpt": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona c...",
+      "issueState": "open",
+      "contentHash": "07e76fc850ef066f91e92332475c8524069654d7bffe5998cc0da68835b9c1c9",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "👴 senior"
+      ],
+      "author": {
+        "id": "mclaudiaferreira",
+        "name": "mclaudiaferreira",
+        "handle": "mclaudiaferreira",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/269824166?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "createdAt": "2026-03-20T22:05:39Z",
+      "updatedAt": "2026-04-28T10:46:01Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3007",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e20f87fee19bdfaea2b354ed",
       "sourceId": "awesome-jobs/vietnam#4916",
@@ -718,47 +751,6 @@
       "createdAt": "2026-03-05T17:18:29Z",
       "updatedAt": "2026-05-05T03:37:49Z",
       "url": "https://github.com/DevOps-Brasil/Vagas/issues/456",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5903d3232c2f99d9ae568fe8",
-      "sourceId": "kotlin-br/vagas#42",
-      "title": "[Remoto] Kotlin Developer (Sênior) na ITeam",
-      "description": "### Nossa empresa\n\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP,  realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. \nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado. \nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n\n### Descrição da vaga\n\nDesenvolvedor Kotlin Back-end com sólida experiência em engenharia de software, com foco em soluções na AWS.\n\n### Local\n\n\nRemoto\nHorário: 09h às 18h\n\n### Requisitos: \n\nPossui conhecimento avançado em serviços AWS, como Lambda, ECS, SQS, S3 e EventBridge, entre outros.\nExperiência com padrões de projeto e Clean Architecture.\nVivência com bancos de dados SQL e NoSQL.\nFamiliaridade com ferramentas de observabilidade, como Splunk e CloudWatch.\nExperiência com Infra as Code (CloudFormation e Terraform).\nAtuação com versionamento de código utilizando Git.\n\n\n### Contratação\n\nPrazo de contrato: 12 meses (com possibilidade de efetivação)\nRegime: PJ (necessário empresa aberta) ou CLT\n\n### Como se candidatar\n\nPor favor, envie o currículo atualizado com a pretensão de taxa/hora PJ ou CLT para: viviane.pereira@iteam.inf.br\n\n### Tempo médio de feedbacks\n\n1 semana\n\n### Keywords\n\nKotlin\nAWS\nTerraform\nGit\n\n### Alocação\n\n- [X] Alocado\n- [X] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [X] CLT\n- [ ] Estágio\n- [ ] Freela\n- [X] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto",
-      "excerpt": "### Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções espe...",
-      "issueState": "open",
-      "contentHash": "ceb41344be5ed48efb9f1e54bc689921fcc7093f667706a866737cc747ed3e4e",
-      "repository": "kotlin-br/vagas",
-      "repositoryUrl": "https://github.com/kotlin-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "estágio",
-        "contrato",
-        "remoto",
-        "híbrido",
-        "presencial",
-        "júnior"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "kotlin-br",
-        "name": "kotlin-br",
-        "avatarUrl": "https://github.com/kotlin-br.png?size=80",
-        "repository": "kotlin-br/vagas",
-        "url": "https://github.com/kotlin-br/vagas"
-      },
-      "companyName": "ITeam",
-      "createdAt": "2026-03-03T14:46:28Z",
-      "updatedAt": "2026-03-03T14:46:47Z",
-      "url": "https://github.com/kotlin-br/vagas/issues/42",
       "sourceType": "github-issue"
     }
   ]

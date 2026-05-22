@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-21T12:10:43.589Z",
+  "generatedAt": "2026-05-22T02:39:09.615Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_3ca6bfcccb91efa2b245a1f6",
     "gh_87ff6095a89da3f020be3eb8",
     "gh_3e73a10962b0b9a8e0920287",
     "gh_cb3234a96bffc3e0b5521d34",
@@ -22,10 +23,42 @@
     "gh_b8c97ddfaf8d7d5e0b19956c",
     "gh_c33f944f0198dd7fdf21feba",
     "gh_04e16e2c007892d76818f4d4",
-    "gh_ba4f8e13f468e4ef55d8683c",
-    "gh_9de20cf178bdf31ec7ef83b8"
+    "gh_ba4f8e13f468e4ef55d8683c"
   ],
   "items": [
+    {
+      "id": "gh_3ca6bfcccb91efa2b245a1f6",
+      "sourceId": "lukasz-madon/awesome-remote-job#1053",
+      "title": "Add claudio: productivity tool for remote workers with voice dictation",
+      "description": "Repository: https://github.com/ayushkumar1808/claudio\n\nclaudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, terminal) to dictate text. Useful productivity tool for remote workers.",
+      "excerpt": "Repository: https://github.com/ayushkumar1808/claudio claudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, te...",
+      "issueState": "open",
+      "contentHash": "34f0812e9748512ef7767de54d589637ded444e3e146dc3f0b5d287767494cca",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "ayushkumar1808",
+        "name": "ayushkumar1808",
+        "handle": "ayushkumar1808",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145252811?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-05-22T01:54:40Z",
+      "updatedAt": "2026-05-22T01:54:40Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_87ff6095a89da3f020be3eb8",
       "sourceId": "qa-brasil/vagas#1255",
@@ -212,7 +245,7 @@
         "url": "https://github.com/backend-br/vagas"
       },
       "createdAt": "2026-05-19T20:01:37Z",
-      "updatedAt": "2026-05-19T20:02:07Z",
+      "updatedAt": "2026-05-22T01:51:51Z",
       "url": "https://github.com/backend-br/vagas/issues/12241",
       "sourceType": "github-issue"
     },
@@ -758,39 +791,6 @@
       "createdAt": "2026-05-14T11:23:47Z",
       "updatedAt": "2026-05-14T11:24:06Z",
       "url": "https://github.com/programadores-br/geral/issues/3067",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9de20cf178bdf31ec7ef83b8",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9533",
-      "title": "New Feature Request: <feature>",
-      "description": "### Improvement\n\nI think the repo should have a category \"Visa sponsorship\" with values \"Yes\" or \"No\" so it is easier for international students to navigate",
-      "excerpt": "### Improvement I think the repo should have a category \"Visa sponsorship\" with values \"Yes\" or \"No\" so it is easier for international students to navigate",
-      "issueState": "open",
-      "contentHash": "728725f3f954939577d9a202012fab0f2b9239a4ddeecfd338c9474f17e8bfb5",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "enhancement"
-      ],
-      "author": {
-        "id": "uj-sxn",
-        "name": "uj-sxn",
-        "handle": "uj-sxn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/238549487?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-14T03:24:01Z",
-      "updatedAt": "2026-05-14T03:24:01Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9533",
       "sourceType": "github-issue"
     }
   ]
