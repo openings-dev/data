@@ -1,770 +1,689 @@
 {
-  "generatedAt": "2026-05-22T19:26:12.932Z",
+  "generatedAt": "2026-05-23T10:23:51.812Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
-    "gh_1064af9b7fc9aca6eda2af2d",
-    "gh_200f3045b6c290bb361c8b57",
-    "gh_c6ea6f26ee3637c83a93d6bc",
-    "gh_b8c97ddfaf8d7d5e0b19956c",
-    "gh_c33f944f0198dd7fdf21feba",
-    "gh_04e16e2c007892d76818f4d4",
-    "gh_ba4f8e13f468e4ef55d8683c",
-    "gh_9de20cf178bdf31ec7ef83b8",
-    "gh_28db0fa4dd1c9d5a8a8953f3",
-    "gh_3180852b6881f4eb47502eb8",
-    "gh_0b48071263222f42f82eed85",
-    "gh_d797410281865fe5fdfcc927",
-    "gh_d8668644a6f0ebb1839f0122",
-    "gh_cda7c0fc8d1bf1340237fd89",
-    "gh_1efee2417f6bee01b5cd3f0a",
-    "gh_f5a0b73442c552104a3eaf13",
-    "gh_270034965458fc3af3e97f7b",
-    "gh_3e8010399abf27a86fd3a8bd",
-    "gh_046e40a5a4aaffa9b0373703",
-    "gh_005e9d2bba01454364d45942"
+    "gh_46a150328a6f51c45fb9170e",
+    "gh_de2f150f8ae82f165d3de17f",
+    "gh_d91757ba7e6a964d1a721b15",
+    "gh_d63340f658d1795240713d28",
+    "gh_92cf26cb945fd865af1120a9",
+    "gh_32bfbfcdfde9f4fdbb856e35",
+    "gh_605715d7674c34ba5c170683",
+    "gh_754edf3a5fbb659494803dfa",
+    "gh_da1cbc62830414679008d708",
+    "gh_3f0d40d5ba0593fb11de4058",
+    "gh_d876a48d5259c827d38586a9",
+    "gh_2bcae84d11206156fd04b393",
+    "gh_1df3c23e575db643360a29cb",
+    "gh_36f80eb758ce8a3e62ff7cc4",
+    "gh_34801a452582b3519fe521bc",
+    "gh_8ed1e4ac33b635945ea74ad0",
+    "gh_54099e9313a3d6b65e850f80",
+    "gh_8b7f500a2bbf38aa602dd58a",
+    "gh_e32ecd13b866675b4dc3919a",
+    "gh_f2a0d99b0459fab9d9b8272e"
   ],
   "items": [
     {
-      "id": "gh_1064af9b7fc9aca6eda2af2d",
-      "sourceId": "DevOps-Brasil/Vagas#461",
-      "title": "[Senior DevOps Engineer] DWS Brazil - Remoto",
-      "description": "### 🎯 Cargo\n\nSenior DevOps Engineer\n\n### 🏢 Empresa\n\ndentsu world services brazil [DWS Brazil]\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nSede em Porto Alegre - RS [vaga remota para residentes no Brasil]\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\nR$11.000-12.000 - podemos conversar melhor :)\n\n### 📋 Descrição da Vaga\n\nEstamos em busca de uma pessoa Engenheira de DevOps para participar de iniciativas de infraestrutura e automação em ambientes em núvem. Essa pessoa atuará de forma prática no desenvolvimento de soluções escaláveis, além de garantir a qualidade das entregas em ambientes distribuídos e altamente dinâmicos.\n\n**Responsabilidades e atribuições\n\nVocê será responsável por:**\n• Projetar e construir pipelines de CI/CD seguros para múltiplos sistemas de destino.\n• Desenvolver e gerenciar pipelines usando principalmente GitHub Actions, além de outras ferramentas como Jenkins, Bamboo e Travis.\n• Automatizar processos manuais e desenvolver ferramentas que aumentem a eficiência operacional.\n• Colaborar com os times de desenvolvimento para apoiar a adoção de ferramentas e práticas DevOps.\n• Garantir o uso de padrões seguros e boas práticas em pipelines e infraestrutura.\n• Escrever e manter infraestrutura como código (IaC), preferencialmente com Terraform (conhecimento em Ansible será considerado um diferencial).\n• Trabalhar em parceria com as equipes de infraestrutura para entregar soluções robustas e confiáveis.\n• Solucionar problemas e otimizar os ambientes de desenvolvimento, homologação e produção.\n• Contribuir para estratégias técnicas e apoiar a evolução da plataforma.\n• Compartilhar conhecimento e atuar como referência técnica para outros membros do time.\n\n### ✅ Requisitos Técnicos\n\n```markdown\nRequisitos e qualificações\nPara essa posição, é importante que você tenha:\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com azure, preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\nSerá legal se você tiver:\n\n• Experiência com Helm e criação de charts.\n• Familiaridade com Kubernetes (não é obrigatório — oferecemos treinamento).\n• Conhecimentos em segurança de aplicações e infraestrutura, redes (TCP/IP) e PKI.\n• Experiência com ferramentas de qualidade de código, como SonarQube.\n• Experiência com repositórios privados de pacotes (npm, PyPI, NuGet).\n• Habilidade para troubleshooting em ambientes com [Node.js](http://node.js/) e Python.\n• Conhecimento em scripts (bash/sh/ksh).\n```\n\n### 🎁 Benefícios\n\n**Aqui você vai encontrar (Nossos benefícios):**\n\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n-  Aulas de inglês com professor particular;\n-  Awesomeness - envio de mimos temáticos e exclusivos;\n-  Gympass;\n-  Horário flexível (40h semanais);\n-  Day off de aniversário;\n-  Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n-  Atuação 100% remota ou híbrida (a sua escolha).\n\n### 🛠️ Stack/Tecnologias\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com **azure,** preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\n### 📧 Como se Candidatar\n\nInscreva-se na vaga: https://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\nou envie um email com seu CV atualizado em inglês, pretensão salarial e nível de inglês para: debora.dalbem@dentsu.com\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
-      "excerpt": "### 🎯 Cargo Senior DevOps Engineer ### 🏢 Empresa dentsu world services brazil [DWS Brazil] ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Sede em Porto Alegre - RS [vaga r...",
+      "id": "gh_46a150328a6f51c45fb9170e",
+      "sourceId": "vanshb03/Summer2026-Internships#4480",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/verkada/jobs/5099596007?gh_src=cda0ce657us\n\n### Company Name\n\nVerkada \n\n### Internship Title\n\nEmbedded Software Engineering Intern \n\n### Location\n\nSan Mateo, CA\n\n### What season is this internship for?\n\nFall\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/verkada/jobs/5099596007?gh_src=cda0ce657us ### Company Name Verkada ### Internship Title Embedded Software Engineering Intern ### Location San Mateo, CA ...",
       "issueState": "open",
-      "contentHash": "1eb2d8c742d0703939ec8387ca516c7afb00dc8890ae2d4203f3078f488e4cf2",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "devops",
-        "sre",
-        "platform",
-        "infra",
-        "security",
-        "azure",
-        "kubernetes"
-      ],
-      "author": {
-        "id": "dwsbrazil",
-        "name": "dwsbrazil",
-        "handle": "dwsbrazil",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 11000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-05-18T13:44:20Z",
-      "updatedAt": "2026-05-18T13:45:26Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/461",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_200f3045b6c290bb361c8b57",
-      "sourceId": "soujava/vagas-java#1884",
-      "title": "[REMOTO] Back-end developer Java - DWS Brazil",
-      "description": "## Descrição da vaga\nEstamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções\n\n## Local\nRemoto - mas temos um office em Porto Alegre - RS para receber a galera para encontros, festa da firma e ta liberado para quem quiser frequentar!\nPS: Não voltaremos a atuar presencialmente.\n\n## Benefícios\n\n**Aqui você vai encontrar:**\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n- Aulas de inglês com professor particular;\n- Awesomeness Committee - envio de mimos temáticos e exclusivos;\n- Gympass;\n- Horário flexível (40h semanais);\n- Day off no dia do aniversário;\n- Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n- Atuação 100% remota ou híbrida (a sua escolha).\n- Contratação\n- CLT, 100% remoto e com carga horária flexível\n\n## Diferenciais\n\n- Programa de mentoria para desenvolvimento de carreira\n- Cultura de valorização, desenvolvimento e descontração\n- No office em porto alegre temos um frigobar sempre cheio :P (e tudo de graça)\n- Sala Fun com PS5, VR, Nintendo Switch, Karaokê\n\n## Requisitos\n**Como será sua rotina? Você será responsável por:**\n- Desenvolver soluções utilizando JavaEE e spring boot;\n- Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;\n- Desenvolver, integrar manter APIs para integração de Sistemas;\n- Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio\n- Documentar todo o processo de desenvolvimento do código;\n- Criar relatórios de status e possíveis problemas para o Project Manager;\n- Participar de reuniões técnicas e cerimônias do projeto.\n\n#### Obrigatórios:\n**Para essa posição é importante que você tenha:**\n- Experiência com programação em Java (JDK);\n- Domínio de conceitos para programação orientado a objetos;\n- Experiência com conceito de padrões de arquitetura;Conhecimento em GIt ou Subeversion;\n- Habilidades com frameworks open source (Hibertnate, Velocity, etc);\n- Conhecimento em aplicações Web e protocolos HTTP;\n- Experiência com banco de dados relacionais (Oracle, MySQL, etc);\n- Experiência com pelo menos um IDE (Eclipse, Intellij IEDA, etc);\n- Experiência com Gradle, Mavel ou ANT e integração contínua;\n- Conhecimento em conceitos ORM ou experiência com implementação (Hibernate ou outra JPA);\n- Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.\n\n#### Diferenciais:\n\n- Projeto internacional\n- Utilização diária do inglês para comunicação com os times multiculturais \n\n## Contratação\n\n- CLT \n\n## Nossa empresa\n\nA Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atuamos como centro de tecnologia, inovação e design do grupo. Possuímos parceria com diversas agências do grupo e estamos empenhados em entregar soluções criativas e inovadoras aos nossos clientes, atendendo a projetos de desenvolvimento web e mobile. Embora tenhamos nosso escritório físico, por acreditarmos numa conexão sem fronteiras, temos pessoas espalhadas por todo o país que compões os times da DWS Brazil.\n\nOs DWSianes se integram a times multiculturais e que contam com pessoas de diversos países, levando o trabalho em grupo a um nível mais elevado e significativo. Assim, a diversidade de ideias contribui para a construção de tecnologias que revolucionam o mercado.\n\nMuitos desafios, aprendizado e crescimento esperam você na DWS Brazil!\n\n## Como se candidatar\nInscreva-se na nossa página de carreiras: https://dwsbrazil.gupy.io/jobs/11083207?jobBoardSource=gupy_public_page\n\n## Tempo médio de feedbacks\n\nNosso processo costuma ter em torno de 15 dias ao todo\nE-mail para contato em caso de não haver resposta: debora.dalbem@dentsu.com \n\n## Labels\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n#### Nível\n- Pleno\n- Sênior",
-      "excerpt": "## Descrição da vaga Estamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções ## Local Remoto - mas temos um office em Porto Alegre - RS para receber a galera pa...",
-      "issueState": "open",
-      "contentHash": "636adf5ecad5d26b0e4d9d4a247bd0715b211c2d47d9aa314bc12d7b0e965e2c",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "internacional",
-        "pleno",
-        "remoto",
-        "spring",
-        "hibernate",
-        "eclipse"
-      ],
-      "author": {
-        "id": "dwsbrazil",
-        "name": "dwsbrazil",
-        "handle": "dwsbrazil",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "createdAt": "2026-05-18T13:35:33Z",
-      "updatedAt": "2026-05-18T13:35:56Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1884",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c6ea6f26ee3637c83a93d6bc",
-      "sourceId": "awesome-jobs/vietnam#4932",
-      "title": "WAOHire - Devops/Site Reliability Engineer - Remote/Hybrid HCMC - FT",
-      "description": "**Responsibilities:**\n- Engage in improving the whole lifecycle of services from inception through deployment, operations, and refinement\n- Implement service monitoring and alerting solutions to track service health and performance\n- Define service level objectives and gather the required metrics to track these objectives\n- Improve the software lifecycle with automated tests, deployments and builds, as well as performing load testing\n- Analyse and resolve issues in software, systems, tools, and services to minimize down time and interruption to development\n- Identify and mitigate risks with both current infrastructure, systems, and technologies as well as potential future risks with scalability and reliability\n- Work with software engineers to develop new game features with a high standard of code quality, stability, maintainability, readability, and performance.\n- Work with electrical engineers to integrate custom hardware interfaces and implement tools for thoroughly testing hardware.\n\n**Requirements:**\n- From 5 years of experience in Site Reliability Engineer, DevOps, or Systems Infrastructure.\n- Proven hands-on experience with Kubernetes (Self-hosted), Helm, and GCP (Google Cloud Platform).\n- Expertise in Linux System Administration, cluster management, containers, and shell scripting.\n- Working proficiency in GoLang & gRPC for microservices architecture.\n- Good communication skills in English (both written and verbal).\n- **Nice to have:** Exposure to real-time protocols (WebRTC, TypeScript, React, Firebase, C#).\n\n**Benefits:**\n- Competitive salary (upto 70M gross) with 100% paid during probation.\n- 13th-month salary, 12-day annual leave, full insurance, periodic health check-ups according to Vietnam Labor Law.\n- No OT policy with highly flexible working hours.\n- Flexible working mode (Fully remote then switch to hybrid 3 days/week once team expands)\n- Opportunities to travel to Singapore for professional workshops and training.\n- Expected location: District 1, HCMC\n\nContact: **+84 834033300 (Zalo)**",
-      "excerpt": "**Responsibilities:** - Engage in improving the whole lifecycle of services from inception through deployment, operations, and refinement - Implement service monitoring and alerting solutions to track service health a...",
-      "issueState": "open",
-      "contentHash": "cfd5afcf61400d15b5a46c4c5b2bc8a3d7c2456ef2f3bd65dd2684e9ee79aa94",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "react",
-        "typescript",
-        "golang",
-        "devops"
-      ],
-      "author": {
-        "id": "nhatruchr",
-        "name": "nhatruchr",
-        "handle": "nhatruchr",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/231218520?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-18T07:50:12Z",
-      "updatedAt": "2026-05-18T09:39:44Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4932",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b8c97ddfaf8d7d5e0b19956c",
-      "sourceId": "backend-br/vagas#12238",
-      "title": "[Alocação] Back-end developer - Node j.s Pleno / Sênior - ITEAM",
-      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Nossa empresa\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas.\nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado.\nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\nInforme a descrição da vaga.\n\nDesenvolvedor(a) Node.js – Pleno / Sênior \nExperiência em Node.js. Desenvolvimento de APIs REST e integrações e soluções distribuídas. \nExperiência em AWS, CI/CD e práticas ágeis. \nExperiência com Git e ambientes Cloud.\n\n\n## Local\nAtendimento híbrido – 2x por semana em Santo Amaro/SP\n\n\n## Requisitos\n\nExperiência em Node.js. Desenvolvimento de APIs REST e integrações e soluções distribuídas. \nExperiência em AWS, CI/CD e práticas ágeis. \nExperiência com Git e ambientes Cloud.\n\n\n## Contratação\n\nContratação PJ\n\n## Como se candidatar\n\nEnviar o currículo para o e-mail: erika.santos@iteam.inf.br / whatsapp: (11) 99328-6431\n\n## Labels\n\nNode.js, APIs REST, AWS, CI/CD, Git,  Cloud\n\n### Nível\nPleno / Sênior\n\n### Regime\n\nPJ\n\n### Alocação\n\nPrazo: entre 6 a 12 meses",
-      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços ...",
-      "issueState": "open",
-      "contentHash": "811c6c0401e248dbb92207defa0bd52f82d9d42b6b3a58b2a5095128eabcf7c7",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "sênior",
-        "node.js",
-        "aws",
-        "git",
-        "híbrido",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-15T20:42:49Z",
-      "updatedAt": "2026-05-15T20:43:05Z",
-      "url": "https://github.com/backend-br/vagas/issues/12238",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c33f944f0198dd7fdf21feba",
-      "sourceId": "frontendbr/vagas#8478",
-      "title": "[Remoto] Fullstack Developer (React + Angular) | Sênior na Sensedia",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\n\nA Sensedia é líder no mercado de APIs, oferecendo soluções de integração e consultoria a grandes empresas no Brasil e no mundo, em uma variedade de setores. Seu portfólio, além de uma plataforma API Management, inclui Sensedia Integrations, Service Mesh, API Adaptive Governance, Events Hub, Open Banking & Finance e equipes estratégicas de Professional Services.\n\nTrabalhar aqui é pertencer a uma cultura plural, descontraída e inovadora. É para quem tem coragem de ir além, pensar e agir fora da caixa. Preferimos pedir desculpas ao invés de pedir permissão e estamos sempre dispostos a nos transformar, nos reinventar.\nNossas pessoas são incríveis e você pode fazer parte disso tudo. Nos comprometemos em garantir um ambiente de trabalho acolhedor e respeitoso.\n\nConheça + em nosso site: [https://br.sensedia.com/sensedia-careers](url)\n\n## Descrição da vaga\n\nAtuar no desenvolvimento de soluções fullstack modernas e escaláveis para grandes clientes do mercado corporativo, com foco principal no frontend utilizando React e Angular, sem deixar de contribuir em integrações e evoluções backend.\nBuscamos uma pessoa desenvolvedora fullstack com forte domínio em frontend, capaz de construir aplicações robustas, performáticas e de alta usabilidade, colaborando com decisões técnicas e atuando de ponta a ponta nas entregas.\nComo:\n-Desenvolver interfaces modernas, responsivas e performáticas utilizando React e Angular;\n-Atuar na construção e evolução de aplicações fullstack;\n-Desenvolver integrações com APIs e microsserviços;\n-Participar da definição de arquitetura frontend e boas práticas de desenvolvimento;\n-Identificar, analisar e atuar na correção de vulnerabilidades e riscos de segurança nas aplicações; \n-Aplicar boas práticas de segurança no desenvolvimento de software;\n-Apoiar o time em dúvidas técnicas e compartilhamento de conhecimento;\n-Participar de cerimônias ágeis e interações frequentes com clientes;\n-Trabalhar em conjunto com backend, UX/UI e arquitetura para definição das soluções;\n-Garantir qualidade de código através de testes automatizados e code reviews;\n-Identificar oportunidades de melhoria contínua em performance, usabilidade e manutenção das aplicações;\n-Apoiar tech leads e stakeholders técnicos em refinamentos e definições técnicas.\n\n## Local\nRemoto \n\n## Requisitos\n\n**Obrigatórios:**\n -HTML5, CSS3 e Javascript/Typescript; Experiência sólida com React;\n\n-Experiência sólida com Angular (preferencialmente versões mais recentes);\n\n-Experiência no desenvolvimento de aplicações fullstack com maior atuação em frontend;\n\n-Experiência com gerenciamento de estado (Redux, Context API, NgRx ou similares);\n\n-Desenvolvimento de componentes reutilizáveis e design systems;\n\n-Experiência com consumo e integração de APIs REST;\n\n-Experiência com Node.js para construção de BFFs e integrações;\n\n-Conhecimento em práticas de desenvolvimento seguro e correção de vulnerabilidades;\n\n-Testes automatizados (Jest, React Testing Library, Cypress ou similares);\n\n-Conhecimento em arquitetura frontend moderna e Micro Frontends (MFE);\n\n-Conhecimento em boas práticas de desenvolvimento: SOLID, Clean Code e Design Patterns;\n\n-Experiência com Git e fluxo de versionamento;\n\n-Vivência em ambientes ágeis (Scrum/Kanban);\n\n-Conhecimento em responsividade, acessibilidade e performance frontend.\n\n**Diferenciais:**\n\n-Bom conhecimento em Java (Spring Boot) ou Node.js para atuação backend;\n\n-Experiência com Styled Components, Tailwind ou SCSS;\n\n-Conhecimento em Next.js; Experiência com pipelines CI/CD;\n\n-Conhecimento em Cloud (Azure, AWS ou GCP);\n\n-Experiência com observabilidade e monitoramento frontend;\n\n-Vivência em projetos de alta volumetria e aplicações críticas;\n\n-Experiência com bibliotecas/componentização frontend;\n\n-Inglês intermediário ou avançado.\n\n## Benefícios\n\nVale Refeição/Vale Alimentação (Cartão Flash benefícios), Plano de Saúde, Plano Odontológico, Seguro de Vida, PPR, TotalPass, Auxílio Creche, Programa Well-Being (destinado para saúde física e mental), Universidade Corporativa (nossa #SensediaAcademy), com diversas trilhas de desenvolvimento; Parceiros culturais e educacionais, com descontos especiais; Somos uma empresa cidadã,  proporcionando licença maternidade e licença paternidade estendida.\n\n\n## Contratação\nCLT\n\n## Como se candidatar\nSe candidate em: [https://sensedia.hire.trakstar.com/jobs/fk0zvlo/](url)\n\n## Tempo médio de feedbacks\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Nível\n- Sênior",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
-      "issueState": "open",
-      "contentHash": "bcf01d4aa8aee09030da3fcce7cbb7c56db69f3d1c79cb93d3da3f68d100c6bb",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "remoto"
-      ],
-      "author": {
-        "id": "vagas-tech-remote",
-        "name": "vagas-tech-remote",
-        "handle": "vagas-tech-remote",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/269812898?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sensedia",
-      "createdAt": "2026-05-15T20:37:21Z",
-      "updatedAt": "2026-05-16T16:41:20Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8478",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_04e16e2c007892d76818f4d4",
-      "sourceId": "nerdzao/vagas#190",
-      "title": "Vagas Tecnologia",
-      "description": "A [3 Pontos](https://3pontos.com/l) é um ecossistema que une solução e conhecimento em um único lugar.\n\nEstamos sempre em busca de profissionais talentosos da área de tecnologia para fazer parte do nosso time. Se você gosta de inovação, resolver problemas complexos e trabalhar em um ambiente colaborativo, queremos conhecer você.\n\nAo se inscrever em nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas à sua experiência e interesses.\n\n**Áreas que buscamos**\nBuscamos profissionais de diferentes níveis (Júnior, Pleno e Sênior) nas seguintes áreas:\n\n- Desenvolvimento Back-end\n- Desenvolvimento Front-end\n- Full Stack\n- UI/UX Design\n- Product Management\n- QA / Testes\n- DevOps / Cloud\n- Data / Analytics\n- Segurança da Informação\n\n**O que esperamos:**\n\nExperiência com desenvolvimento de produtos digitais\nPerfil colaborativo e orientado à resolução de problemas\nBoa comunicação e trabalho em equipe\n\nSe aplique pela nossa página de carreiras: https://recrutamento.3pontos.com/vagas/banco-de-talentos-tecnologia-ybhf\n\n\nEsperamos por vocês!!",
-      "excerpt": "A [3 Pontos](https://3pontos.com/l) é um ecossistema que une solução e conhecimento em um único lugar. Estamos sempre em busca de profissionais talentosos da área de tecnologia para fazer parte do nosso time. Se você ...",
-      "issueState": "open",
-      "contentHash": "6ba11401c8db862457eccbaf0211033babb805a4290caae22bef9a44c7e2ca1a",
-      "repository": "nerdzao/vagas",
-      "repositoryUrl": "https://github.com/nerdzao/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Malu3pontos",
-        "name": "Malu3pontos",
-        "handle": "Malu3pontos",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/282318656?v=4"
-      },
-      "community": {
-        "id": "nerdzao",
-        "name": "nerdzao",
-        "avatarUrl": "https://github.com/nerdzao.png?size=80",
-        "repository": "nerdzao/vagas",
-        "url": "https://github.com/nerdzao/vagas"
-      },
-      "createdAt": "2026-05-15T15:16:11Z",
-      "updatedAt": "2026-05-15T15:16:11Z",
-      "url": "https://github.com/nerdzao/vagas/issues/190",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ba4f8e13f468e4ef55d8683c",
-      "sourceId": "programadores-br/geral#3067",
-      "title": "[Remoto] Product Owner Jr na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nBuscamos uma mente curiosa, organizada e apaixonada por resolver problemas para se juntar ao nosso time de Produto. Como **PO Júnior**, você será a ponte fundamental entre as necessidades dos nossos usuários e a execução técnica do time de desenvolvimento.\n\nEste é o lugar ideal para quem deseja consolidar seus conhecimentos em metodologias ágeis e aprender na prática como transformar uma visão de negócio em funcionalidades de alto impacto.\n## Credifit SCD: \n <p>A Credifit é uma FinTech do tipo SCD - Sociedade de Crédito Direto. Isto significa que somos uma Instituição Financeira regulada pelo Banco Central, e por isso, não precisamos de intermediários para fazer nossas operações de crédito. Temos o coração Tech e já nascemos com a metodologia ágil no sangue. Queremos mais que desenvolvedores, e sim pessoas que façam parte do nosso negócio, e conheçam sobre as áreas da empresa. Estamos aqui para crescer!</p></p>\n\n ## Habilidades: \n - Backlog \n- Contabilidade \n- Estabelecer KPIs \n- Gestão de prioridade \n- Organização \n- Comunicação\n## Local: \n Remota\n## Requisitos: \n - Mentalidade Analítica: Capacidade de ler dados e transformá-los em hipóteses de melhoria. \n- Comunicação: Você precisará explicar o contexto das necessidades para times dev e backoffice interno. \n- Organização: Facilidade para lidar com prazos e prioridades mutáveis. \n- Conhecimento Base: Entendimento de metodologias Ágeis (Scrum/Kanban). \n- Diferencial: Conhecimento em ferramentas de gestão (Jira, Trello ou ClickUp) e noções de UX/UI.\n## Diferenciais: \n - Conhecimento em Contabilidade será considerado um diferencial.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Product Owner Jr na Credifit SCD](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nGestão",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "57ede4f24b18292f780c6932eae42e3d162e35796c910f956cbab42c585cec79",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "júnior",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-14T11:23:47Z",
-      "updatedAt": "2026-05-14T11:24:06Z",
-      "url": "https://github.com/programadores-br/geral/issues/3067",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9de20cf178bdf31ec7ef83b8",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9533",
-      "title": "New Feature Request: <feature>",
-      "description": "### Improvement\n\nI think the repo should have a category \"Visa sponsorship\" with values \"Yes\" or \"No\" so it is easier for international students to navigate",
-      "excerpt": "### Improvement I think the repo should have a category \"Visa sponsorship\" with values \"Yes\" or \"No\" so it is easier for international students to navigate",
-      "issueState": "open",
-      "contentHash": "728725f3f954939577d9a202012fab0f2b9239a4ddeecfd338c9474f17e8bfb5",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "contentHash": "fc83c6f320ba076a671a1bc2d119ee74aca20895c4b9a02aef2b5f5d6dae67af",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
       "region": "North America",
-      "country": "United States",
-      "tags": [
-        "enhancement"
-      ],
-      "author": {
-        "id": "uj-sxn",
-        "name": "uj-sxn",
-        "handle": "uj-sxn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/238549487?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-14T03:24:01Z",
-      "updatedAt": "2026-05-14T03:24:01Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9533",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_28db0fa4dd1c9d5a8a8953f3",
-      "sourceId": "vuejs-br/vagas#599",
-      "title": "[Maringá/PR | Remoto] Desenvolvedor FullStack Pleno @Greenn",
-      "description": "## Descrição da vaga\n\nBuscamos de um(a) Desenvolvedor(a) Fullstack Pleno entusiasmado(a) por criar e aprimorar soluções de software que sejam escaláveis e eficazes. Você fará parte de um time engajado, contribuindo em uma variedade de projetos, desde desenvolvimento de aplicações com Vue.js e TypeScript até a manutenção de sistemas utilizando PHP com Laravel. Você desempenhará um papel importante na implementação de novas funcionalidades, na manutenção da qualidade do código e na otimização da experiência do usuário.\n\n## Local\n\nRemoto ou Escritório, Maringá/PR\n\n## Benefícios\n- Seguro de vida\n- Auxílio Educação/ano\n- Psicoterapia\n- Unimed Coparticipativo\n- FLASH Vale Alimentação/Vale Refeição\n- Telemedicina\n- Wellhub\n\n## Responsabilidades\n\n**Chaves:**\n- Desenvolver funcionalidades para aplicações front-end utilizando Vue.js e TypeScript.\n- Desenvolver soluções back-end em PHP com Laravel, focando na eficiência e escalabilidade.\n- Realizar a manutenção e aprimoramento de sistemas existentes em PHP com Laravel.\n- Participar da gestão e otimização de banco de dados MySQL.\n- Realizar a integração de sistemas com mensageria assíncrona, como RabbitMQ, para aprimoramento dos fluxos de dados.\n- Implementar soluções de cache em memória com Redis.\n- Trabalhar em conjunto com equipes multidisciplinares (UI/UX, QA, DevOps) para definir requisitos e melhorar a entrega das soluções.\n- Engajar-se no processo de revisão de código para assegurar a qualidade e eficácia do desenvolvimento.\n\n## Resquisitos\n\n**Obrigatórios.**\n- Conhecimento sólido em TypeScript, Vue.js, PHP e Laravel.\n- Experiência com design e manutenção de banco de dados MySQL.\n- Familiaridade com sistemas de mensageria, preferencialmente RabbitMQ.\n- Experiência com uso de Redis para cache em memória.\n- Capacidade para escrever código claro, eficiente e bem documentado.\n- Boa compreensão de princípios de design de software e melhores práticas de desenvolvimento.\n- Boas habilidades de comunicação e capacidade de trabalhar bem em equipe.\n\n**Desejáveis:**\n- Cnhecimentos em Vuex\n- Conhecimentos em GraphQL\n\n**Diferenciais:**\n- Experiência em projetos com funcionalidades integradas às inteligências artificiais (por meio do OpenRouter, ElevenLabs ou semelhantes)\n\n## Contratação\nPJ a combinar.\n\n## Nossa empresa\n\nA Greenn é o ecossistema completo para divulgar, vender e entregar produtos digitais. Somos apaixonados por tecnologia, inovação e humanização. Nossa missão? Tornar os processos mais simples para que nossos clientes possam ir além.\n\nEstar ao lado de pessoas que buscam crescimento contínuo, que não se acomodam e que têm afinidade com tecnologia é o que nos inspira. Nosso maior prazer é identificar e valorizar talentos únicos, muitas vezes escondidos.\n\nQueremos ajudar você a explorar e desenvolver suas habilidades, para que possa se destacar tanto no âmbito profissional quanto pessoal. Na Greenn, vivenciamos valores que possuem um profundo significado para nós: Tecnologia, protagonismo, integridade e compromisso com o cliente, guiando cada decisão e impulsionando nossa jornada de inovação e crescimento sustentável.\n\n## Como se candidatar\nAtravés do link da Vaga em: https://greenn.vagas.solides.com.br/vaga/840400\n\n## Labels\n#### Alocação\n- Presencial ou Remoto\n\n#### Experiência\n- Pleno\n\n\n#### Regime\n- PJ",
-      "excerpt": "## Descrição da vaga Buscamos de um(a) Desenvolvedor(a) Fullstack Pleno entusiasmado(a) por criar e aprimorar soluções de software que sejam escaláveis e eficazes. Você fará parte de um time engajado, contribuindo em ...",
-      "issueState": "open",
-      "contentHash": "2ea42c32ee0ff6c2c039452fc145799d8d1559fbc87b7532b9df485f9c3c2074",
-      "repository": "vuejs-br/vagas",
-      "repositoryUrl": "https://github.com/vuejs-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "fullstack",
-        "typescript",
-        "pleno",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "iuriroc",
-        "name": "iuriroc",
-        "handle": "iuriroc",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/220885057?v=4"
-      },
-      "community": {
-        "id": "vuejs-br",
-        "name": "vuejs-br",
-        "avatarUrl": "https://github.com/vuejs-br.png?size=80",
-        "repository": "vuejs-br/vagas",
-        "url": "https://github.com/vuejs-br/vagas"
-      },
-      "createdAt": "2026-05-13T11:55:27Z",
-      "updatedAt": "2026-05-13T12:56:27Z",
-      "url": "https://github.com/vuejs-br/vagas/issues/599",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3180852b6881f4eb47502eb8",
-      "sourceId": "speedyapply/2026-SWE-College-Jobs#40",
-      "title": "SWE @ Arphie",
-      "description": "### Position Title\n\nSoftware Engineer\n\n### Position Application Link\n\nhttps://app.joinhandshake.com/public/jobs/11036227\n\n### Company Name\n\nArphie\n\n### Company Link\n\nhttps://www.arphie.ai\n\n### Location\n\nSan Francisco, CA\n\n### Is this a new grad position or an internship?\n\nNew Grad\n\n### Is this position based in the USA?\n\nYes, it's based in the USA.\n\n### Your GitHub Email\n\nmichael@arphie.ai",
-      "excerpt": "### Position Title Software Engineer ### Position Application Link https://app.joinhandshake.com/public/jobs/11036227 ### Company Name Arphie ### Company Link https://www.arphie.ai ### Location San Francisco, CA ### I...",
-      "issueState": "open",
-      "contentHash": "5c26d3a993788d4aea53d4b1bd8653676e59b380fc6afd7cf8754db460530ac0",
-      "repository": "speedyapply/2026-SWE-College-Jobs",
-      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
-      "region": "Global",
       "country": "Global",
       "tags": [
-        "new"
+        "new_internship"
       ],
       "author": {
-        "id": "michaelchen01",
-        "name": "michaelchen01",
-        "handle": "michaelchen01",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5933898?v=4"
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
       },
       "community": {
-        "id": "speedyapply",
-        "name": "speedyapply",
-        "avatarUrl": "https://github.com/speedyapply.png?size=80",
-        "repository": "speedyapply/2026-SWE-College-Jobs",
-        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
       },
-      "createdAt": "2026-05-11T17:05:32Z",
-      "updatedAt": "2026-05-11T17:05:32Z",
-      "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/40",
+      "createdAt": "2026-05-23T09:04:43Z",
+      "updatedAt": "2026-05-23T09:04:43Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4480",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_0b48071263222f42f82eed85",
-      "sourceId": "backend-br/vagas#12235",
-      "title": "[Alocação] Back-end developer - NomeDaEmpresa",
-      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\nA Alonso Baldez atua como uma consultoria boutique focada em recrutamento e estruturação de subsistemas de RH. Com uma trajetória de mais de 20 anos, a consultoria prioriza a identificação de talentos que possuam alta aderência técnica e cultural aos projetos de seus clientes\n\n## Descrição da vaga\n\nAnalista de T.I. Pleno, com foco em infraestrutura industrial e suporte para a unidade de frigorífico em Inhumas-GO.\n- Domínio de Infraestrutura e Hardware Industrial\n- Experiência em manutenção preventiva e corretiva de servidores, coletores de dados, balanças e impressoras térmicas.\n- Capacidade de atuação no monitoramento de rede (switches) e gestão de sistemas de CFTV, com foco na normalização e manutenção do plano de monitoramento de câmeras.\n- Sólida compreensão do fluxo de dados em sistemas ERP para assegurar a disponibilidade dos processos industriais e administrativos.\n- Competência para interface com empresas terceiras de segurança (Sophos/VPN) e proposição de melhorias em políticas de acesso.\n- Atuação voltada à antecipação de problemas e olhar preventivo sobre o parque tecnológico.\n- Proatividade para realizar visitas periódicas às áreas fabris, estabelecendo interface direta com clientes internos para levantamento de necessidades.\n\n\n## Local\n\nLocal de trabalho é na cidade de Inhumas/GO, de forma presencial.\n\n## Requisitos\n\nSuperior completo ou cursando.\nDisponibilidade para residir em Inhumas.\nVeículo própria para o translado da cidade à indústria. (12km).\n\n## Benefícios\n\n5% de assiduidade.\nVale Alimentação de R$ 400,00\n\n## Contratação\n\nContratação CLT\n\n## Como se candidatar\n\nEnviar o CV por e-mail: kalonsobaldez@gmail.com\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n- Pleno\n### Regime\n- CLT\n### Alocação\n- Presencial",
-      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> A Alonso Baldez atua como uma consultoria boutique focada em recrutamento e estruturação de subsistemas de RH. Com uma trajetória de mais de 20 anos, a consultoria ...",
+      "id": "gh_de2f150f8ae82f165d3de17f",
+      "sourceId": "vanshb03/Summer2027-Internships#4480",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/verkada/jobs/5099596007?gh_src=cda0ce657us\n\n### Company Name\n\nVerkada \n\n### Internship Title\n\nEmbedded Software Engineering Intern \n\n### Location\n\nSan Mateo, CA\n\n### What season is this internship for?\n\nFall\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/verkada/jobs/5099596007?gh_src=cda0ce657us ### Company Name Verkada ### Internship Title Embedded Software Engineering Intern ### Location San Mateo, CA ...",
       "issueState": "open",
-      "contentHash": "b7e049192fe931d2c1fc7639fb2473a074380b658b590d9783ec30544fbf14f3",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pleno",
-        "go",
-        "presencial"
-      ],
-      "author": {
-        "id": "180465",
-        "name": "180465",
-        "handle": "180465",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/283697385?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-11T14:50:39Z",
-      "updatedAt": "2026-05-11T14:51:06Z",
-      "url": "https://github.com/backend-br/vagas/issues/12235",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d797410281865fe5fdfcc927",
-      "sourceId": "frontendbr/vagas#8475",
-      "title": "[Remoto] Front-end Developer na Igma",
-      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n\n## Descrição da vaga\n\nEstamos em busca de uma pessoa Tech Lead para se juntar ao nosso Chapter de desenvolvimento e criar produtos digitais para as maiores empresas do Brasil.\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Responsabilidades**\n\nNa Igma, como Tech Lead, você é responsável por garantir que nossas entregas de tecnologias tenham uma arquitetura sólida e escalável, bem como acompanhar a qualidade de código de sua equipe. O desafio será desenhar e planejar arquiteturas, propostas de infraestrutura, bem como escolher as melhores tecnologias para o projeto. Levando em consideração performance, segurança e skills do time. É essencial ter aptidão para trabalhar em equipe com profissionais de diferentes áreas, saiba se comunicar com clareza e tenha adaptabilidade para lidar com mudanças constante.\n\nPara isso é necessário fazer parte de sua rotina:\n\n- Git\n- Docker\n- AWS/Azure/GCP\n- CI/CD\n- Testes (Unitários, interface, integração)\n- Code Review com boas práticas\n- Principais Tecnologias: Python e .NET\n- Curiosidade ativa por Inteligência Artificial e disposição para explorar como a IA pode potencializar seu trabalho\n\n## Local\n\nRegime: 100% remoto\n\n## Requisitos\n\n- Arquitetura / Infra-estrutura, incluindo a análise e escolha de tecnologias adequadas para cada projeto.\n- Micro-serviços\n- Cloud\n- Containerização\n- API\n- Versionamento\n- Testes automatizados\n- CI / CD\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n## Benefícios\n\n- Trabalho 100% remoto\n- Plano de Saúde e odontológico individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/igma/jobs/69fe477d6a49d70013459688\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação",
-      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico ...",
-      "issueState": "open",
-      "contentHash": "ca630ba9c9251bc642d2639afdf648dd96c6b3ed033d0cd392cbc86a0415092e",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Igma",
-      "createdAt": "2026-05-08T20:43:52Z",
-      "updatedAt": "2026-05-13T15:14:52Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8475",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d8668644a6f0ebb1839f0122",
-      "sourceId": "backend-br/vagas#12234",
-      "title": "[Remoto] Tech Lead - Igma",
-      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n\n## Descrição da vaga\n\nEstamos em busca de uma pessoa Tech Lead para se juntar ao nosso Chapter de desenvolvimento e criar produtos digitais para as maiores empresas do Brasil.\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Responsabilidades**\n\nNa Igma, como Tech Lead, você é responsável por garantir que nossas entregas de tecnologias tenham uma arquitetura sólida e escalável, bem como acompanhar a qualidade de código de sua equipe. O desafio será desenhar e planejar arquiteturas, propostas de infraestrutura, bem como escolher as melhores tecnologias para o projeto. Levando em consideração performance, segurança e skills do time. É essencial ter aptidão para trabalhar em equipe com profissionais de diferentes áreas, saiba se comunicar com clareza e tenha adaptabilidade para lidar com mudanças constante.\n\nPara isso é necessário fazer parte de sua rotina:\n\n- Git\n- Docker\n- AWS/Azure/GCP\n- CI/CD\n- Testes (Unitários, interface, integração)\n- Code Review com boas práticas\n- Principais Tecnologias: Python e .NET\n- Curiosidade ativa por Inteligência Artificial e disposição para explorar como a IA pode potencializar seu trabalho\n\n## Local\n\nRegime: 100% remoto\n\n## Requisitos\n\n- Arquitetura / Infra-estrutura, incluindo a análise e escolha de tecnologias adequadas para cada projeto.\n- Micro-serviços\n- Cloud\n- Containerização\n- API\n- Versionamento\n- Testes automatizados\n- CI / CD\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n## Benefícios\n\n- Trabalho 100% remoto\n- Plano de Saúde e odontológico individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\n(https://jobs.quickin.io/igma/jobs/69fe477d6a49d70013459688)\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação",
-      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico ...",
-      "issueState": "open",
-      "contentHash": "fff1845ef3aa306792577dca15ae57c95533faae218384cfd9df3a661e6b8052",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "python",
-        "remoto",
-        "aws",
-        "testes automatizados",
-        "git",
-        "docker",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-08T20:43:06Z",
-      "updatedAt": "2026-05-09T18:26:08Z",
-      "url": "https://github.com/backend-br/vagas/issues/12234",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cda7c0fc8d1bf1340237fd89",
-      "sourceId": "frontendbr/vagas#8474",
-      "title": "[Remoto] Front-end Developer na Igma",
-      "description": "**Nossa empresa**\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n**Descrição da vaga**\nEstamos em busca de uma Pessoa Desenvolvedora Full-Stack para se juntar ao nosso Chapter de desenvolvimento, fortalecer o time de projetos e criar produtos digitais para as maiores empresas do Brasil.\n\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Na Igma você será responsável por:**\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\n**Local**\nRegime: 100% remoto\n\n**Requisitos**\n\n- Experiência comprovada de ao menos 4 anos com desenvolvimento full-stack.\n- Experiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\n- Experiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\n- Conhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\n- Experiência com integração de APIs REST e/ou GraphQL.\n- Conhecimento em bancos de dados relacionais e não relacionais.\n- Controle de versão com Git.\n- Boas práticas de testes automatizados (unitários e integração).\n- Familiaridade com pipelines de CI/CD.\n- Conhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n**Benefícios**\n\n- Trabalho 100% remoto\n- Plano de Saúde individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n\n**Como se candidatar**\n(https://jobs.quickin.io/igma/jobs/69fdf8136a49d7001314045c)\n\n**Nível**\nSênior\n\n**Regime**\nPJ\n\n**Alocação**\nRemoto\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação",
-      "excerpt": "**Nossa empresa** A Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico ...",
-      "issueState": "open",
-      "contentHash": "95a53e2829912e20e00736e27454df1302584234d3d645f3933fbf37cdc7ccb9",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Igma",
-      "createdAt": "2026-05-08T15:53:43Z",
-      "updatedAt": "2026-05-08T23:17:29Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8474",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1efee2417f6bee01b5cd3f0a",
-      "sourceId": "backend-br/vagas#12233",
-      "title": "[Remoto] Pessoa Desenvolvedora Full-Stack Sênior - Igma",
-      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n## Descrição da vaga\n\nEstamos em busca de uma Pessoa Desenvolvedora Full-Stack para se juntar ao nosso Chapter de desenvolvimento, fortalecer o time de projetos e criar produtos digitais para as maiores empresas do Brasil.\n\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Na Igma você será responsável por:**\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\n## Local\n\nRegime: 100% remoto\n\n## Requisitos\n\n- Experiência comprovada de ao menos **4 anos** com desenvolvimento full-stack.\n- Experiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\n- Experiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\n- Conhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\n- Experiência com integração de APIs REST e/ou GraphQL.\n- Conhecimento em bancos de dados relacionais e não relacionais.\n- Controle de versão com Git.\n- Boas práticas de testes automatizados (unitários e integração).\n- Familiaridade com pipelines de CI/CD.\n- Conhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n## Benefícios\n\nTrabalho 100% remoto\nPlano de Saúde individual\nAuxílio Cuidado e Desenvolvimento\nIncentivo à prática de esportes\nSeguro de vida\nCartão multi-benefício através do Caju\nAuxílio Remoto para investimento em equipamentos (R$2.000 anual)\nPJ - 30 dias de férias remuneradas\n\n## Contratação\n\nModelo de contratação: PJ \n\n## Como se candidatar\n\n(https://jobs.quickin.io/igma/jobs/69fdf8136a49d7001314045c)\n\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação",
-      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico d...",
-      "issueState": "open",
-      "contentHash": "d4c2a5cbfd1a9fa74b22248fdd45e5444efb07f3e3b6f8d7707690c8a0630bca",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "node.js",
-        "remoto",
-        "testes automatizados",
-        "git",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-08T15:51:18Z",
-      "updatedAt": "2026-05-08T15:51:42Z",
-      "url": "https://github.com/backend-br/vagas/issues/12233",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f5a0b73442c552104a3eaf13",
-      "sourceId": "awesome-jobs/vietnam#4931",
-      "title": "WAOHire - Senior/Staff Golang Developer - Remote (HCM) - Fulltime",
-      "description": "**Responsibilities:**\n- Design and develop high-performance, scalable backend systems and real-time communication services using Golang.\n- Implement and optimize WebRTC solutions for seamless live-streaming and real-time communication experiences.\n- Architect and maintain scalable Firebase-based solutions for data management, authentication, and cloud functions.\n- Perform low-level programming optimization using C to resolve live-streaming performance issues and bottlenecks.\n- Design and develop software with a high standard of code quality, stability, maintainability, readability, and performance.\n- Collaborate with frontend developers, product managers, and designers to build robust APIs and backend services.\n- Optimize live-streaming infrastructure and troubleshoot complex performance issues.\n- Advise the development team on the best software packages, platforms, and techniques for implementing features and systems.\n- Contribute to architecture decisions for new features and improvements to existing platform capabilities.\n- Work with hardware engineers when needed to integrate custom interfaces and implement comprehensive testing tools.\n- Contribute to the design and technical feasibility assessment of new product ideas and features.\n\n**Requirements:**\n- From 7 years of experience in Backend development, especially with Golang.\n- Expert-level proficiency in Golang with demonstrated experience building production-grade applications and services.\n- Strong understanding of video streaming fundamentals, protocols, and how streaming technologies work end-to-end.\n- Experience with NoSQL database design and implementation.\n- Worked with GCP platform and serverless functions.\n- Strong experience with live-streaming technologies and video/audio processing pipelines.\n- Proficiency with the gRPC framework for high-performance API development.\n- Experience working in teams with version control systems such as Git.\n- Experience with software development best practices, including unit testing, build automation, design patterns, and data-driven development.\n- Able to thrive in a diverse, collaborative team, working productively and autonomously.\n- Strong communication skills in English, both written and verbal.\n- Passion for building scalable, high-performance web applications and live-streaming platforms.\n\n**Benefits:**\n- Competitive salary (upto 70M gross) with 100% paid in probation.\n- Work fully remote then hybrid when office is done (flexible arrangements for teammembers with children)\n- 13th-month salary, full insurance, annual health check-ups, 12-day leave, no OT.\n- Opportunities to attend professional workshops in Singapore.\n- Periodic social gatherings and dinners with the Singapore leadership team.\n- Working in a professional, friendly, well-equipped environment with both foreigner and Vietnamese colleagues.\n\nContact: +84 834033300 (Zalo)",
-      "excerpt": "**Responsibilities:** - Design and develop high-performance, scalable backend systems and real-time communication services using Golang. - Implement and optimize WebRTC solutions for seamless live-streaming and real-t...",
-      "issueState": "open",
-      "contentHash": "c1eb33121ab36741efda0fde57d714d8435e9edd53cdfd55366b75d20b988ee3",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "frontend",
-        "backend",
-        "golang",
-        "senior",
-        "staff",
-        "data"
-      ],
-      "author": {
-        "id": "nhatruchr",
-        "name": "nhatruchr",
-        "handle": "nhatruchr",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/231218520?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-08T07:35:12Z",
-      "updatedAt": "2026-05-08T07:37:24Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4931",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_270034965458fc3af3e97f7b",
-      "sourceId": "frontendbr/vagas#8472",
-      "title": "[Remoto] Desenvolvedor Full-Stack na Igma",
-      "description": "## **Nossa empresa**\n\nA **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n## **Descrição da vaga**\n\nNa **Igma**, como **Dev Full-Stack,** você será responsável por:\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação\n\n## Local\n\n100% Remoto\n\n## **Requisitos**\n\n- Experiência comprovada de ao menos 2 anos com desenvolvimento fullstack.\n- Experiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\n- Experiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\n- Conhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\n- Experiência com integração de APIs REST e/ou GraphQL.\n- Conhecimento em bancos de dados relacionais e não relacionais.\n- Controle de versão com Git.\n- Boas práticas de testes automatizados (unitários e integração).\n- Familiaridade com pipelines de CI/CD.\n- Conhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n## **Benefícios**\n\n- Trabalho 100% remoto\n- Plano de Saúde individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## **Contratação**\n\nPJ\n\n## **Como se candidatar**\n\nhttps://jobs.quickin.io/igma/jobs/69fc945c7999060013a0d997\n\n\n### **Nível**\n\n- Pleno\n\n### **Regime**\n\n- PJ\n\n### **Alocação**\n\n- Remoto",
-      "excerpt": "## **Nossa empresa** A **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado t...",
-      "issueState": "open",
-      "contentHash": "f8d06252ed9d51ba7623632e646421eacd9cf1df691aca8830a54360ed689ff3",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Igma",
-      "createdAt": "2026-05-07T13:56:46Z",
-      "updatedAt": "2026-05-09T18:26:39Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8472",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3e8010399abf27a86fd3a8bd",
-      "sourceId": "SimplifyJobs/New-Grad-Positions#2892",
-      "title": "Algonquin Capital Job Posting",
-      "description": "### Issue/Question\n\nHi there, I am with Algonquin Capital and we are looking to gain more exposure for the quantitative developer role we are looking for. I've attached the job posting - please advise on how we might be able to share this role on your site.\n\n[Quantitative Developer Algonquin Capital.pdf](https://github.com/user-attachments/files/27481946/Quantitative.Developer.Algonquin.Capital.pdf)",
-      "excerpt": "### Issue/Question Hi there, I am with Algonquin Capital and we are looking to gain more exposure for the quantitative developer role we are looking for. I've attached the job posting - please advise on how we might b...",
-      "issueState": "open",
-      "contentHash": "aa25a465e8a078d34f28e52b5d4fc96daafca64c2d51681fde8c7e6c95dafafc",
-      "repository": "SimplifyJobs/New-Grad-Positions",
-      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "contentHash": "fc83c6f320ba076a671a1bc2d119ee74aca20895c4b9a02aef2b5f5d6dae67af",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
       "region": "North America",
-      "country": "United States",
-      "tags": [
-        "misc"
-      ],
-      "author": {
-        "id": "mperera-algonquincap",
-        "name": "mperera-algonquincap",
-        "handle": "mperera-algonquincap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/281684370?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/New-Grad-Positions",
-        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
-      },
-      "createdAt": "2026-05-07T13:56:43Z",
-      "updatedAt": "2026-05-07T13:56:43Z",
-      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2892",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_046e40a5a4aaffa9b0373703",
-      "sourceId": "backend-br/vagas#12232",
-      "title": "[Remoto] Desenvolvedor Full-Stack Pleno - Igma",
-      "description": "## **Nossa empresa**\n\nA **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n## **Descrição da vaga**\n\nNa **Igma**, como **Dev Full-Stack,** você será responsável por:\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação\n\n## Local\n\n100% Remoto\n\n## **Requisitos**\n\n- Experiência comprovada de ao menos 2 anos com desenvolvimento fullstack.\n- Experiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\n- Experiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\n- Conhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\n- Experiência com integração de APIs REST e/ou GraphQL.\n- Conhecimento em bancos de dados relacionais e não relacionais.\n- Controle de versão com Git.\n- Boas práticas de testes automatizados (unitários e integração).\n- Familiaridade com pipelines de CI/CD.\n- Conhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n## **Benefícios**\n\n- Trabalho 100% remoto\n- Plano de Saúde individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## **Contratação**\n\nPJ\n\n## **Como se candidatar**\n\nhttps://jobs.quickin.io/igma/jobs/69fc945c7999060013a0d997\n\n\n### **Nível**\n\n- Pleno\n\n### **Regime**\n\n- PJ\n\n### **Alocação**\n\n- Remoto",
-      "excerpt": "## **Nossa empresa** A **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado t...",
-      "issueState": "open",
-      "contentHash": "1df3a1842044574352bfca20ba7a04372b868bf6662de36159c1e445a4cb7b26",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "node.js",
-        "remoto",
-        "testes automatizados",
-        "git",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-07T13:54:55Z",
-      "updatedAt": "2026-05-07T13:55:22Z",
-      "url": "https://github.com/backend-br/vagas/issues/12232",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_005e9d2bba01454364d45942",
-      "sourceId": "speedyapply/2026-SWE-College-Jobs#39",
-      "title": "Other Issue",
-      "description": "### Issue or Feature Request\n\nTHE\nAce Hardware  IT Associate Software Engineer 2026 Summer Internship  Full Time/Paid/12 weeks IL Oak Brook.\nDOES NOT EXIST.",
-      "excerpt": "### Issue or Feature Request THE Ace Hardware IT Associate Software Engineer 2026 Summer Internship Full Time/Paid/12 weeks IL Oak Brook. DOES NOT EXIST.",
-      "issueState": "open",
-      "contentHash": "50bcfb06c21729614c24081ca55ee4557a25ce1d5c21cde7e4cf0fa16b924076",
-      "repository": "speedyapply/2026-SWE-College-Jobs",
-      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
-      "region": "Global",
       "country": "Global",
-      "tags": [],
+      "tags": [
+        "new_internship"
+      ],
       "author": {
-        "id": "DanV27",
-        "name": "DanV27",
-        "handle": "DanV27",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/130527793?v=4"
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
       },
       "community": {
-        "id": "speedyapply",
-        "name": "speedyapply",
-        "avatarUrl": "https://github.com/speedyapply.png?size=80",
-        "repository": "speedyapply/2026-SWE-College-Jobs",
-        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
       },
-      "createdAt": "2026-05-07T13:13:59Z",
-      "updatedAt": "2026-05-07T13:13:59Z",
-      "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/39",
+      "createdAt": "2026-05-23T09:04:43Z",
+      "updatedAt": "2026-05-23T09:04:43Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4480",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d91757ba7e6a964d1a721b15",
+      "sourceId": "vanshb03/Summer2026-Internships#4479",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089?source=LinkedIn\n\n### Company Name\n\nCopart, Inc.\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nDallas, TX\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089?source=LinkedIn ### Company Name Copart, Inc. ### Internship Title Software...",
+      "issueState": "open",
+      "contentHash": "7d8a896c7d88fe34e25b1c47e7912b4cffce6fe8ea945b5008892a551f6749ad",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T09:04:17Z",
+      "updatedAt": "2026-05-23T09:04:17Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4479",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d63340f658d1795240713d28",
+      "sourceId": "vanshb03/Summer2027-Internships#4479",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089?source=LinkedIn\n\n### Company Name\n\nCopart, Inc.\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nDallas, TX\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089?source=LinkedIn ### Company Name Copart, Inc. ### Internship Title Software...",
+      "issueState": "open",
+      "contentHash": "7d8a896c7d88fe34e25b1c47e7912b4cffce6fe8ea945b5008892a551f6749ad",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T09:04:17Z",
+      "updatedAt": "2026-05-23T09:04:17Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4479",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_92cf26cb945fd865af1120a9",
+      "sourceId": "vanshb03/Summer2026-Internships#4478",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06?utm_source=gVAve8bk7l&src=LinkedIn\n\n### Company Name\n\nTessera Labs\n\n### Internship Title\n\nSoftware Engineering Intern, Frontend\n\n### Location\n\nSan Jose, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06?utm_source=gVAve8bk7l&src=LinkedIn ### Company Name Tessera Labs ### Internship Title Software Engineering Inte...",
+      "issueState": "open",
+      "contentHash": "52c46a3628989f3c82e62daa64b354389443f27b6d021ec24a78ac89ee4427ed",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T09:03:50Z",
+      "updatedAt": "2026-05-23T09:03:50Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4478",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_32bfbfcdfde9f4fdbb856e35",
+      "sourceId": "vanshb03/Summer2027-Internships#4478",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06?utm_source=gVAve8bk7l&src=LinkedIn\n\n### Company Name\n\nTessera Labs\n\n### Internship Title\n\nSoftware Engineering Intern, Frontend\n\n### Location\n\nSan Jose, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06?utm_source=gVAve8bk7l&src=LinkedIn ### Company Name Tessera Labs ### Internship Title Software Engineering Inte...",
+      "issueState": "open",
+      "contentHash": "52c46a3628989f3c82e62daa64b354389443f27b6d021ec24a78ac89ee4427ed",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T09:03:50Z",
+      "updatedAt": "2026-05-23T09:03:50Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4478",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_605715d7674c34ba5c170683",
+      "sourceId": "vanshb03/Summer2026-Internships#4477",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=Simplify&utm_source=Simplify\n\n### Company Name\n\nNeuralink\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nAustin, Texas, United States; South San Francisco, California, United States\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=Simplify&utm_source=Simplify ### Company Name Neuralink ### Internship Title Software Engineer Intern ...",
+      "issueState": "open",
+      "contentHash": "a8d7709e294b0c668e441b041537ebc319d472302f37d1293764594b7cc1d297",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T08:58:09Z",
+      "updatedAt": "2026-05-23T08:58:09Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4477",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_754edf3a5fbb659494803dfa",
+      "sourceId": "vanshb03/Summer2027-Internships#4477",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=Simplify&utm_source=Simplify\n\n### Company Name\n\nNeuralink\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nAustin, Texas, United States; South San Francisco, California, United States\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=Simplify&utm_source=Simplify ### Company Name Neuralink ### Internship Title Software Engineer Intern ...",
+      "issueState": "open",
+      "contentHash": "a8d7709e294b0c668e441b041537ebc319d472302f37d1293764594b7cc1d297",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T08:58:09Z",
+      "updatedAt": "2026-05-23T08:58:09Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4477",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_da1cbc62830414679008d708",
+      "sourceId": "vanshb03/Summer2026-Internships#4476",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36548?utm_medium=jobshare&src=SNS-102\n\n### Company Name\n\nNokia \n\n### Internship Title\n\nSoftware Development Coop\n\n### Location\n\nNaperville, IL or Dallas, TX\n\n### What season is this internship for?\n\nFall\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36548?utm_medium=jobshare&src=SNS-102 ### Company Name Nokia ### Internship Title Software ...",
+      "issueState": "open",
+      "contentHash": "71d705344b6dc14721b26da8761c317f8fe53cf57accbbb97b40ce42df7b4560",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T08:57:20Z",
+      "updatedAt": "2026-05-23T08:57:20Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4476",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3f0d40d5ba0593fb11de4058",
+      "sourceId": "vanshb03/Summer2027-Internships#4476",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36548?utm_medium=jobshare&src=SNS-102\n\n### Company Name\n\nNokia \n\n### Internship Title\n\nSoftware Development Coop\n\n### Location\n\nNaperville, IL or Dallas, TX\n\n### What season is this internship for?\n\nFall\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36548?utm_medium=jobshare&src=SNS-102 ### Company Name Nokia ### Internship Title Software ...",
+      "issueState": "open",
+      "contentHash": "71d705344b6dc14721b26da8761c317f8fe53cf57accbbb97b40ce42df7b4560",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T08:57:20Z",
+      "updatedAt": "2026-05-23T08:57:20Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4476",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d876a48d5259c827d38586a9",
+      "sourceId": "vanshb03/Summer2026-Internships#4475",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://careers.celonis.com/join-us/open-positions/job-detail?jobId=7738530003?gh_jid=7738530003&gh_src=e1e6b9893us\n\n### Company Name\n\nCelonis\n\n### Internship Title\n\nEngineering Intern\n\n### Location\n\nNew York City, USA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://careers.celonis.com/join-us/open-positions/job-detail?jobId=7738530003?gh_jid=7738530003&gh_src=e1e6b9893us ### Company Name Celonis ### Internship Title Engineering Intern ### L...",
+      "issueState": "open",
+      "contentHash": "a0eab90809b9aac0ad2d39ae0863bd5a1ce6a24fecda7346e5eb9463d8213245",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T08:56:45Z",
+      "updatedAt": "2026-05-23T08:56:45Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4475",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2bcae84d11206156fd04b393",
+      "sourceId": "vanshb03/Summer2027-Internships#4475",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://careers.celonis.com/join-us/open-positions/job-detail?jobId=7738530003?gh_jid=7738530003&gh_src=e1e6b9893us\n\n### Company Name\n\nCelonis\n\n### Internship Title\n\nEngineering Intern\n\n### Location\n\nNew York City, USA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://careers.celonis.com/join-us/open-positions/job-detail?jobId=7738530003?gh_jid=7738530003&gh_src=e1e6b9893us ### Company Name Celonis ### Internship Title Engineering Intern ### L...",
+      "issueState": "open",
+      "contentHash": "a0eab90809b9aac0ad2d39ae0863bd5a1ce6a24fecda7346e5eb9463d8213245",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T08:56:45Z",
+      "updatedAt": "2026-05-23T08:56:45Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4475",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1df3c23e575db643360a29cb",
+      "sourceId": "vanshb03/Summer2026-Internships#4474",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7?utm_source=gVAve8bk7l&src=LinkedIn\n\n### Company Name\n\nTessera Labs\n\n### Internship Title\n\nSoftware Engineering Intern, Backend\n\n### Location\n\nSan Jose Office, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7?utm_source=gVAve8bk7l&src=LinkedIn ### Company Name Tessera Labs ### Internship Title Software Engineering Inte...",
+      "issueState": "open",
+      "contentHash": "ed3abf999217ebd96fe9a98b5d1c13dd2c1ad653688129663a1a8c3f721b224e",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T08:54:23Z",
+      "updatedAt": "2026-05-23T08:54:23Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4474",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_36f80eb758ce8a3e62ff7cc4",
+      "sourceId": "vanshb03/Summer2027-Internships#4474",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7?utm_source=gVAve8bk7l&src=LinkedIn\n\n### Company Name\n\nTessera Labs\n\n### Internship Title\n\nSoftware Engineering Intern, Backend\n\n### Location\n\nSan Jose Office, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7?utm_source=gVAve8bk7l&src=LinkedIn ### Company Name Tessera Labs ### Internship Title Software Engineering Inte...",
+      "issueState": "open",
+      "contentHash": "ed3abf999217ebd96fe9a98b5d1c13dd2c1ad653688129663a1a8c3f721b224e",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T08:54:23Z",
+      "updatedAt": "2026-05-23T08:54:23Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4474",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_34801a452582b3519fe521bc",
+      "sourceId": "vanshb03/Summer2026-Internships#4473",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://careers.quakerhoughton.com/job/software-developer-intern-2049\n\n### Company Name\n\nQuaker Houghton\n\n### Internship Title\n\nSoftware Developer Intern\n\n### Location\n\n Conshohocken, PA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.comac\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://careers.quakerhoughton.com/job/software-developer-intern-2049 ### Company Name Quaker Houghton ### Internship Title Software Developer Intern ### Location Conshohocken, PA ### Wh...",
+      "issueState": "open",
+      "contentHash": "ec07ff3c49358dfd0a033e954ab253e48e59fa693433dbb9d7d4fe0ce2a66848",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T08:53:58Z",
+      "updatedAt": "2026-05-23T08:53:58Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4473",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8ed1e4ac33b635945ea74ad0",
+      "sourceId": "vanshb03/Summer2027-Internships#4473",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://careers.quakerhoughton.com/job/software-developer-intern-2049\n\n### Company Name\n\nQuaker Houghton\n\n### Internship Title\n\nSoftware Developer Intern\n\n### Location\n\n Conshohocken, PA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.comac\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://careers.quakerhoughton.com/job/software-developer-intern-2049 ### Company Name Quaker Houghton ### Internship Title Software Developer Intern ### Location Conshohocken, PA ### Wh...",
+      "issueState": "open",
+      "contentHash": "ec07ff3c49358dfd0a033e954ab253e48e59fa693433dbb9d7d4fe0ce2a66848",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T08:53:58Z",
+      "updatedAt": "2026-05-23T08:53:58Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4473",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_54099e9313a3d6b65e850f80",
+      "sourceId": "vanshb03/Summer2026-Internships#4472",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129?source=LinkedIn\n\n### Company Name\n\nCopart, Inc. \n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nDallas, TX \n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129?source=LinkedIn ### Company Name Copart, Inc. ### Internship Title Software...",
+      "issueState": "open",
+      "contentHash": "3f6a1fa731207ed898cf1dfec057bd2ef12368580981d9eb3639a85e921df6f4",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T08:53:29Z",
+      "updatedAt": "2026-05-23T08:53:29Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4472",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8b7f500a2bbf38aa602dd58a",
+      "sourceId": "vanshb03/Summer2027-Internships#4472",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129?source=LinkedIn\n\n### Company Name\n\nCopart, Inc. \n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nDallas, TX \n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129?source=LinkedIn ### Company Name Copart, Inc. ### Internship Title Software...",
+      "issueState": "open",
+      "contentHash": "3f6a1fa731207ed898cf1dfec057bd2ef12368580981d9eb3639a85e921df6f4",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T08:53:29Z",
+      "updatedAt": "2026-05-23T08:53:29Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4472",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e32ecd13b866675b4dc3919a",
+      "sourceId": "vanshb03/Summer2026-Internships#4471",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=02bf241f-148a-44d4-9d1d-f4f9d2614639&ccId=19000101_000001&jobId=598880&source=CC2&lang=en_US\n\n### Company Name\n\nND Defense \n\n### Internship Title\n\nEngineering Intern\n\n### Location\n\nUS\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\n_No response_\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=02bf241f-148a-44d4-9d1d-f4f9d2614639&ccId=19000101_000001&jobId=598880&source=CC2&lang=en_US ### Company ...",
+      "issueState": "open",
+      "contentHash": "9f2a168e937c11e3965197ac95a16cb51ac765742bb94e4f97c9ff1f9bb448d7",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-23T08:18:12Z",
+      "updatedAt": "2026-05-23T08:18:12Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4471",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f2a0d99b0459fab9d9b8272e",
+      "sourceId": "vanshb03/Summer2027-Internships#4471",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=02bf241f-148a-44d4-9d1d-f4f9d2614639&ccId=19000101_000001&jobId=598880&source=CC2&lang=en_US\n\n### Company Name\n\nND Defense \n\n### Internship Title\n\nEngineering Intern\n\n### Location\n\nUS\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\n_No response_\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=02bf241f-148a-44d4-9d1d-f4f9d2614639&ccId=19000101_000001&jobId=598880&source=CC2&lang=en_US ### Company ...",
+      "issueState": "open",
+      "contentHash": "9f2a168e937c11e3965197ac95a16cb51ac765742bb94e4f97c9ff1f9bb448d7",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-23T08:18:12Z",
+      "updatedAt": "2026-05-23T08:18:12Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4471",
       "sourceType": "github-issue"
     }
   ]
