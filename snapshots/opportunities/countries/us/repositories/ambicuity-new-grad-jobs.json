@@ -1,16 +1,50 @@
 {
-  "generatedAt": "2026-05-24T02:34:28.137Z",
+  "generatedAt": "2026-05-24T06:31:37.269Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 3,
+    "opportunities": 4,
     "openIssues": 1,
-    "closedIssues": 2
+    "closedIssues": 3
   },
-  "dataHash": "01ec96d9d95d61b9c33a0fba8f4e2cdb73f152650537ea204be19454be7ee1e7",
+  "dataHash": "a86a8aacc65e6aee0a562b702ba9e646a4948bed775694ee9aeb798ef55ca8ab",
   "items": [
+    {
+      "id": "gh_ba7cab00af578f842830e12b",
+      "sourceId": "ambicuity/New-Grad-Jobs#293",
+      "title": "feat: Add 59 new companies to expand job coverage",
+      "description": "## Summary\n\nExpand the job portal's company coverage by adding 59 new companies across three ATS platforms.\n\n### Changes\n\n**Greenhouse (+30 companies)**\n- AI Labs: Anthropic, Hugging Face, Cohere, Adept AI, Character AI, Jasper\n- Fintech: Brex, Ramp, Deel, Rippling, Vanta, Pipe, Navan\n- SaaS/DevTools: Retool, Canva, Miro, Notion, Verkada, Fivetran, dbt Labs, HashiCorp, Confluent\n- Autonomous: Aurora, Zoox, Cruise, Niantic\n- Crypto: Coinbase, Kraken, Alchemy, Chainalysis\n\n**Ashby (+17 companies)**\n- AI/ML: Anthropic, Hugging Face, Together AI, Groq, Cerebras, Databricks, Scale AI, Weights & Biases, Replicate\n- DevTools: Vercel, Cal.com, Tinybird, Neon, PlanetScale, Axiom, Mintlify, Dub\n\n**Workday (+12 companies)**\n- Enterprise: Amazon, IBM, Samsung, Sony, Ford, GM, Honeywell\n- Defense: Leidos, CACI, Peraton, SAIC\n\n### Impact\n- Total companies: 215 → 274 (+27% increase)\n- All tests pass (718/718)\n- Pre-commit hooks pass\n- Config validation passes\n\n### Testing\n- [x] Config validates successfully\n- [x] All 718 tests pass\n- [x] Pre-commit hooks pass\n- [ ] CI will run the scraper to verify new companies return jobs",
+      "excerpt": "## Summary Expand the job portal's company coverage by adding 59 new companies across three ATS platforms. ### Changes **Greenhouse (+30 companies)** - AI Labs: Anthropic, Hugging Face, Cohere, Adept AI, Character AI,...",
+      "issueState": "closed",
+      "contentHash": "cdfede98265b9cd60c5b4911dc3ba0b508c4299a1c9f9ac52059d62cb1ff3d46",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "enhancement"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-05-24T05:49:22Z",
+      "updatedAt": "2026-05-24T05:56:28Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/293",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b464df0a2fc4f62a08dd3dfa",
       "sourceId": "ambicuity/New-Grad-Jobs#289",
