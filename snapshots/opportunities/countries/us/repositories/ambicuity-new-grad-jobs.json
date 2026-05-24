@@ -1,40 +1,37 @@
 {
-  "generatedAt": "2026-05-21T12:10:43.589Z",
+  "generatedAt": "2026-05-24T02:34:28.137Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 4,
+    "opportunities": 3,
     "openIssues": 1,
-    "closedIssues": 3
+    "closedIssues": 2
   },
-  "dataHash": "e2bdafaf2d41797b77e02828785e8334ae88016ca196c3a5183e9b54beeefd60",
+  "dataHash": "01ec96d9d95d61b9c33a0fba8f4e2cdb73f152650537ea204be19454be7ee1e7",
   "items": [
     {
-      "id": "gh_f17fc53f656060f5cdee06f5",
-      "sourceId": "ambicuity/New-Grad-Jobs#258",
-      "title": "🚨 Board is stale — scraper may have stopped",
-      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-04-27T15:15:57Z` |\n| Stale for | 101 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
-      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **101 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-04-27T15:15:57Z` | | Stale for | 10...",
+      "id": "gh_b464df0a2fc4f62a08dd3dfa",
+      "sourceId": "ambicuity/New-Grad-Jobs#289",
+      "title": "Bug: generated_at timestamp missing timezone info causes incorrect time display",
+      "description": "## Problem\n\nThe `generated_at` timestamp in `jobs.json` is generated using `datetime.now().isoformat()` which produces a **naive datetime without timezone information**.\n\n```json\n\"generated_at\": \"2026-05-24T00:15:27.735356\"\n```\n\nThe scraper runs on GitHub Actions in UTC, but the timestamp has no timezone marker (`Z` or `+00:00`). When the frontend parses this with `Date.parse()`, JavaScript interprets it as **local time** on the viewer's machine, causing the LIVE indicator to display an incorrect time.\n\n## Root Cause\n\nIn `scripts/update_jobs.py`:\n```python\n'generated_at': datetime.now().isoformat(),\n```\n\nThis produces a timezone-naive ISO string. The frontend `live-stamp-format.js` parses it without timezone info, so `Date.parse()` assumes local time.\n\n## Fix\n\nReplace `datetime.now()` with `datetime.now(timezone.utc)` to produce a timezone-aware UTC timestamp:\n\n```python\nfrom datetime import datetime, timezone\n\n'generated_at': datetime.now(timezone.utc).isoformat(),\n```\n\nThis produces: `\"2026-05-24T00:15:27.735356+00:00\"`\n\nThe frontend `Intl.DateTimeFormat` will then correctly convert to the viewer's local timezone.\n\n## Impact\n\n- All users see incorrect last-updated time in the LIVE indicator\n- Affects trust in the LIVE badge accuracy",
+      "excerpt": "## Problem The `generated_at` timestamp in `jobs.json` is generated using `datetime.now().isoformat()` which produces a **naive datetime without timezone information**. ```json \"generated_at\": \"2026-05-24T00:15:27.735...",
       "issueState": "closed",
-      "contentHash": "9be6a7e684361ad51da0901eef4a16af1c3b55e989e9d8c024ac79ad5872bd70",
+      "contentHash": "c0f3caedac7d5f433debf332618d4bc2e70d1d68776f0f30f50951203fab7f5b",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
       "region": "North America",
       "country": "United States",
       "tags": [
-        "type: bug",
-        "status: in-progress",
-        "stale",
-        "priority: critical",
-        "automation"
+        "needs-triage",
+        "bug"
       ],
       "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
       },
       "community": {
         "id": "ambicuity",
@@ -43,9 +40,46 @@
         "repository": "ambicuity/New-Grad-Jobs",
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
-      "createdAt": "2026-04-27T16:57:21Z",
-      "updatedAt": "2026-05-12T05:41:39Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/258",
+      "createdAt": "2026-05-24T02:14:06Z",
+      "updatedAt": "2026-05-24T02:18:43Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/289",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4e2ce91d6a8a263dc608a7a0",
+      "sourceId": "ambicuity/New-Grad-Jobs#275",
+      "title": "Fix: Greenhouse jobs with empty descriptions (e.g. Anduril)",
+      "description": "## Problem\n\nThe Greenhouse list API endpoint `/v1/boards/{board_token}/jobs?content=true` returns empty `content` fields for some companies (e.g., Anduril Industries with 1960 jobs). However, the individual job endpoint `/v1/boards/{board_token}/jobs/{id}` returns full HTML descriptions (12,000+ chars).\n\n## Impact\n\n- Jobs from affected companies show no \"About the role\" description in the frontend\n- Users cannot evaluate job fit without clicking through to the external ATS\n- Compensation extraction fails (no text to parse)\n\n## Root Cause\n\n`fetch_greenhouse_jobs()` only reads `content` from the list endpoint response. Some Greenhouse boards return `content: \"\"` in the list even with `?content=true`.\n\n## Solution\n\n1. After fetching the list, detect jobs with empty `content`\n2. Fetch individual job details from `/{job_id}` endpoint for those jobs only\n3. The individual endpoint always returns full descriptions\n4. Preserve raw HTML in `description_html` field alongside cleaned `description`\n5. Increase `clean_description` max_chars from 1200 to 3000\n6. Add `full_description` field with complete (non-clipped) text\n\n## Constraints\n\n- Must only enrich jobs with empty content (performance)\n- Must use `limited_get()` for all HTTP calls\n- Must not break companies that DO return content in the list endpoint\n- Greenhouse Job Board API has no rate limits",
+      "excerpt": "## Problem The Greenhouse list API endpoint `/v1/boards/{board_token}/jobs?content=true` returns empty `content` fields for some companies (e.g., Anduril Industries with 1960 jobs). However, the individual job endpoin...",
+      "issueState": "closed",
+      "contentHash": "ba17acef3a48f7a0a66807d6304ad9dbf6377f90ed355a88f1a36e7cb3d42b8e",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "priority: medium",
+        "enhancement",
+        "intermediate",
+        "bug"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-05-23T22:28:54Z",
+      "updatedAt": "2026-05-23T22:59:09Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/275",
       "sourceType": "github-issue"
     },
     {
@@ -82,78 +116,6 @@
       "createdAt": "2026-04-08T14:59:35Z",
       "updatedAt": "2026-05-21T07:15:17Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/242",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1ad70c0d57be5eebce939a29",
-      "sourceId": "ambicuity/New-Grad-Jobs#208",
-      "title": "[aw] Daily Backlog Burner failed",
-      "description": "### Workflow Failure\n\n**Workflow:** [Daily Backlog Burner](#)  \n**Branch:** main  \n**Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968\n\n\n**🛡️ Protected Files**: The code push was refused because the patch modifies protected files (package manifests, agent instruction files, or repository security configuration). This protection guards against unintended supply chain changes.\n\n**Blocked Operations:**\n- `create_pull_request`: Cannot create pull request: patch modifies protected files (.github/workflows/ci.yml). Add them to the allowed-files configuration field or set protected-files: fallback-to-issue to create a review issue instead.\n\nTo review and apply these changes manually, configure `protected-files: fallback-to-issue` — the agent will create a review issue with instructions instead of blocking:\n```yaml\nsafe-outputs:\n  create-pull-request:\n    protected-files: fallback-to-issue\n```\n\n\n\n### Action Required\n\n**Option 1: Debug using any coding agent**\n\nUse this prompt with any coding agent (GitHub Copilot, Claude, Gemini, etc.):\n\n````\nDebug the agentic workflow failure using https://raw.githubusercontent.com/github/gh-aw/main/debug.md\n\nThe failed workflow run is at https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968\n````\n\n**Option 2: Assign this issue to Copilot**\n\nAssign this issue to Copilot using the `agentic-workflows` sub-agent to automatically debug and fix the workflow failure.\n\n**Option 3: Manually invoke the agent**\n\nDebug this workflow failure using your favorite Agent CLI and the `agentic-workflows` prompt.\n\n- Start your agent\n- Load the `agentic-workflows` prompt from `.github/agents/agentic-workflows.agent.md` or <https://github.com/github/gh-aw/blob/main/.github/agents/agentic-workflows.agent.md>\n- Type `debug the agentic workflow daily-backlog-burner failure in https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968`\n\n> [!TIP]\n> To stop a workflow from creating failure issues, set `report-failure-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   report-failure-as-issue: false\n> ```\n\n\n> Generated from [Daily Backlog Burner](https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968) · [◷](https://github.com/search?q=repo%3Aambicuity%2FNew-Grad-Jobs+is%3Aissue+%22gh-aw-workflow-id%3A+daily-backlog-burner%22&type=issues)\n> - [x] expires <!-- gh-aw-expires: 2026-03-25T10:57:35.715Z --> on Mar 25, 2026, 10:57 AM UTC\n\n<!-- gh-aw-agentic-workflow: Daily Backlog Burner, id: 23241125968, workflow_id: daily-backlog-burner, run: https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968 -->",
-      "excerpt": "### Workflow Failure **Workflow:** [Daily Backlog Burner](#) **Branch:** main **Run:** https://github.com/ambicuity/New-Grad-Jobs/actions/runs/23241125968 **🛡️ Protected Files**: The code push was refused because the...",
-      "issueState": "closed",
-      "contentHash": "894b3acbbe5a4c6c7eb2df12c3954f8190ec7fded94d39d84a9a23590901cae5",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "stale",
-        "priority: high",
-        "agentic-workflows",
-        "automation",
-        "testing"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-18T10:57:35Z",
-      "updatedAt": "2026-05-14T05:51:36Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/208",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2aaa5666ff02ace03ebf32c6",
-      "sourceId": "ambicuity/New-Grad-Jobs#149",
-      "title": "[aw] No-Op Runs",
-      "description": "This issue tracks all no-op runs from agentic workflows in this repository. Each workflow run that completes with a no-op message (indicating no action was needed) posts a comment here.\n\n<details>\n<summary><b>📘 What is a No-Op?</b></summary>\n\nA no-op (no operation) occurs when an agentic workflow runs successfully but determines that no action is required. For example:\n- A security scanner that finds no issues\n- An update checker that finds nothing to update\n- A monitoring workflow that finds everything is healthy\n\nThese are successful outcomes, not failures, and help provide transparency into workflow behavior.\n\n</details>\n\n<details>\n<summary><b>🎯 How This Helps</b></summary>\n\nThis issue helps you:\n- Track workflows that ran but determined no action was needed\n- Distinguish between failures and intentional no-ops\n- Monitor workflow health by seeing when workflows decide not to act\n\n</details>\n\n<details>\n<summary><b>📚 Resources</b></summary>\n\n- [GitHub Agentic Workflows Documentation](https://github.com/github/gh-aw)\n\n</details>\n\n> [!TIP]\n> To stop a workflow from posting here, set `report-as-issue: false` in its frontmatter:\n> ```yaml\n> safe-outputs:\n>   noop:\n>     report-as-issue: false\n> ```\n\n---\n\n> This issue is automatically managed by GitHub Agentic Workflows. Do not close this issue manually.\n> \n> **No action to take** - Do not assign to an agent.\n\n<!-- gh-aw-noop-runs -->\n\n> - [x] expires <!-- gh-aw-expires: 2026-04-09T21:31:28.822Z --> on Apr 9, 2026, 9:31 PM UTC",
-      "excerpt": "This issue tracks all no-op runs from agentic workflows in this repository. Each workflow run that completes with a no-op message (indicating no action was needed) posts a comment here. <details> <summary><b>📘 What i...",
-      "issueState": "closed",
-      "contentHash": "62cc67f2ac42091925529f3010f47e4e0ad937a0ff16554f3514611ff004e804",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "stale",
-        "agentic-workflows"
-      ],
-      "author": {
-        "id": "github-actions[bot]",
-        "name": "github-actions[bot]",
-        "handle": "github-actions[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-10T21:31:29Z",
-      "updatedAt": "2026-05-14T05:51:39Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/149",
       "sourceType": "github-issue"
     }
   ]
