@@ -1,16 +1,53 @@
 {
-  "generatedAt": "2026-05-24T06:31:37.269Z",
+  "generatedAt": "2026-05-26T20:00:11.926Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 4,
+    "opportunities": 7,
     "openIssues": 1,
-    "closedIssues": 3
+    "closedIssues": 6
   },
-  "dataHash": "a86a8aacc65e6aee0a562b702ba9e646a4948bed775694ee9aeb798ef55ca8ab",
+  "dataHash": "8958a394589e6d803bccc2c85cea17f196baa2362895a8fc490780ac1130e901",
   "items": [
+    {
+      "id": "gh_43e9777012c7847f19984cf9",
+      "sourceId": "ambicuity/New-Grad-Jobs#297",
+      "title": "Flaky test: test_unicorn_company can fail when iteration order picks a FAANG+ unicorn",
+      "description": "## Summary\n\n`tests/test_enrichment.py::TestGetCompanyTier::test_unicorn_company` is order-dependent and fails non-deterministically depending on Python's hash randomization.\n\n## Where\n\n`tests/test_enrichment.py` (around lines 140–146):\n\n```python\ndef test_unicorn_company(self):\n    from update_jobs import UNICORNS\n    if UNICORNS:\n        company = next(iter(UNICORNS))\n        result = get_company_tier(company)\n        assert result['tier'] == 'unicorn'\n```\n\n## Why it flakes\n\n`get_company_tier()` in `scripts/update_jobs.py` checks `FAANG_PLUS` **before** `UNICORNS`:\n\n```python\nif company_name in FAANG_PLUS:\n    tier_info = {'tier': 'faang_plus', ...}\nelif company_name in UNICORNS:\n    tier_info = {'tier': 'unicorn', ...}\n```\n\nWhen a company is in **both** sets and ends up first in `iter(UNICORNS)` for a given `PYTHONHASHSEED`, the test asserts `'unicorn'` but receives `'faang_plus'`.\n\nThis was observed in CI on PR #295:\n\n```\nAssertionError: assert 'faang_plus' == 'unicorn'\n  - unicorn\n  + faang_plus\n```\n\nA re-run with a different hash seed passed, confirming flakiness rather than logic regression. PR #295 only changed `normalize_date_string()` and did not touch UNICORNS/FAANG_PLUS at all.\n\n## Proposed fix\n\nPick deterministically from companies that are in `UNICORNS` but **not** in `FAANG_PLUS`:\n\n```python\ndef test_unicorn_company(self):\n    from update_jobs import UNICORNS, FAANG_PLUS\n    unicorn_only = sorted(UNICORNS - FAANG_PLUS)\n    assert unicorn_only, \"Expected at least one unicorn that is not also FAANG+\"\n    result = get_company_tier(unicorn_only[0])\n    assert result['tier'] == 'unicorn'\n```\n\n`sorted(...)` removes set-iteration-order nondeterminism; `UNICORNS - FAANG_PLUS` removes the tier-precedence ambiguity.\n\nSame hardening should be applied to `test_finance_sector_detected` and `test_defense_sector_detected` — those assertions are sector-based (additive, not precedence-gated), so they happen to be safe today, but sorting makes them robust to future refactors.\n\n## Impact\n\n- Spurious CI failures on unrelated PRs (cost: re-runs and reviewer trust).\n- Erodes confidence in the test suite.",
+      "excerpt": "## Summary `tests/test_enrichment.py::TestGetCompanyTier::test_unicorn_company` is order-dependent and fails non-deterministically depending on Python's hash randomization. ## Where `tests/test_enrichment.py` (around ...",
+      "issueState": "closed",
+      "contentHash": "08fc6e4b794a1e20a3122564cf96fca285cfc565570d2ffde7d479605a8f231f",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "help wanted",
+        "good first issue",
+        "needs-triage",
+        "priority: medium"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-05-26T17:01:06Z",
+      "updatedAt": "2026-05-26T17:14:52Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/297",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ba7cab00af578f842830e12b",
       "sourceId": "ambicuity/New-Grad-Jobs#293",
@@ -80,49 +117,12 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_4e2ce91d6a8a263dc608a7a0",
-      "sourceId": "ambicuity/New-Grad-Jobs#275",
-      "title": "Fix: Greenhouse jobs with empty descriptions (e.g. Anduril)",
-      "description": "## Problem\n\nThe Greenhouse list API endpoint `/v1/boards/{board_token}/jobs?content=true` returns empty `content` fields for some companies (e.g., Anduril Industries with 1960 jobs). However, the individual job endpoint `/v1/boards/{board_token}/jobs/{id}` returns full HTML descriptions (12,000+ chars).\n\n## Impact\n\n- Jobs from affected companies show no \"About the role\" description in the frontend\n- Users cannot evaluate job fit without clicking through to the external ATS\n- Compensation extraction fails (no text to parse)\n\n## Root Cause\n\n`fetch_greenhouse_jobs()` only reads `content` from the list endpoint response. Some Greenhouse boards return `content: \"\"` in the list even with `?content=true`.\n\n## Solution\n\n1. After fetching the list, detect jobs with empty `content`\n2. Fetch individual job details from `/{job_id}` endpoint for those jobs only\n3. The individual endpoint always returns full descriptions\n4. Preserve raw HTML in `description_html` field alongside cleaned `description`\n5. Increase `clean_description` max_chars from 1200 to 3000\n6. Add `full_description` field with complete (non-clipped) text\n\n## Constraints\n\n- Must only enrich jobs with empty content (performance)\n- Must use `limited_get()` for all HTTP calls\n- Must not break companies that DO return content in the list endpoint\n- Greenhouse Job Board API has no rate limits",
-      "excerpt": "## Problem The Greenhouse list API endpoint `/v1/boards/{board_token}/jobs?content=true` returns empty `content` fields for some companies (e.g., Anduril Industries with 1960 jobs). However, the individual job endpoin...",
-      "issueState": "closed",
-      "contentHash": "ba17acef3a48f7a0a66807d6304ad9dbf6377f90ed355a88f1a36e7cb3d42b8e",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "priority: medium",
-        "enhancement",
-        "intermediate",
-        "bug"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-05-23T22:28:54Z",
-      "updatedAt": "2026-05-23T22:59:09Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/275",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_1f5a98f47e42c00c1630a12f",
       "sourceId": "ambicuity/New-Grad-Jobs#242",
       "title": "[Bug]: Operator Manual is out of sync with current config and workflow behavior",
       "description": "### Bug Type\nOther\n\n### Description\n`docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior.\n\nExamples:\n- It references `filters.exclude_keywords`, but current config uses `filtering.exclusion_signals`.\n- It suggests tuning thread pools directly in `scripts/update_jobs.py`, while worker-pool behavior is now configurable via `config.yml` (`worker_pools`).\n- It references JobSpy location/config patterns that no longer match current configuration shape.\n- Several workflow guidance notes are stale relative to `.github/workflows/update-jobs.yml`.\n\nThis creates contributor confusion and increases maintenance error risk.\n\n### Steps to Reproduce\n1. Open `docs/wiki/Operator-Manual.md`.\n2. Compare recipe/config field names against `config.yml`.\n3. Compare workflow instructions against `.github/workflows/update-jobs.yml`.\n4. Observe mismatches between documented and actual behavior.\n\n### Additional Context\nCandidate source-of-truth files for alignment:\n- `docs/wiki/Operator-Manual.md`\n- `config.yml`\n- `.github/workflows/update-jobs.yml`\n- `scripts/update_jobs.py`",
       "excerpt": "### Bug Type Other ### Description `docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior. Examples: - It references `filters.exclude_keywords`, but current config uses `fi...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "ca13b8bf4b9f4a12dba0d54fcb9f3bb7773dafb036c0bd97185bcc6ea340ed1a",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -148,8 +148,112 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-04-08T14:59:35Z",
-      "updatedAt": "2026-05-21T07:15:17Z",
+      "updatedAt": "2026-05-26T17:37:20Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/242",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f314624bc74f2bb4ac0db285",
+      "sourceId": "ambicuity/New-Grad-Jobs#228",
+      "title": "[Bug]: market-history category breakdown is always empty despite non-empty jobs",
+      "description": "### Bug Type\nOther\n\n### Description\n`docs/market-history.json` snapshots are being generated with an empty `categories` object, even when `docs/jobs.json` has populated category counts.\n\nThis makes trend analytics incomplete and causes the Insights pipeline to lose category-level historical signal.\n\n### Steps to Reproduce\n1. Run the scraper (`python scripts/update_jobs.py`).\n2. Open `docs/jobs.json` and verify `meta.categories` contains category counts.\n3. Open `docs/market-history.json`.\n4. Observe latest snapshot has `\"categories\": {}`.\n\n### Additional Context\nLikely root cause in `save_market_history()` (`scripts/update_jobs.py`):\n- code iterates `job.get('categories', [])`\n- enriched jobs store a singular `job['category']` object, not `categories`\n\nSuggested fix direction:\n- aggregate from `job.get('category', {}).get('id')`\n- add regression tests for snapshot category population",
+      "excerpt": "### Bug Type Other ### Description `docs/market-history.json` snapshots are being generated with an empty `categories` object, even when `docs/jobs.json` has populated category counts. This makes trend analytics incom...",
+      "issueState": "closed",
+      "contentHash": "4658eaa36eaa266431a1751b5266104fb499a6fd65ac1ab6f52f1d69359fdea3",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "bug"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-04-03T17:07:22Z",
+      "updatedAt": "2026-05-26T18:42:59Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/228",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1946d60c2578a736f7120ee6",
+      "sourceId": "ambicuity/New-Grad-Jobs#58",
+      "title": "[Beginner]: Add `timeout` as a parameter to fetch functions",
+      "description": "### Description\nCurrently, HTTP requests in `update_jobs.py` have hardcoded `timeout=5`. Change fetch functions to accept a `timeout` parameter, defaulting to a `DEFAULT_TIMEOUT = 5` constant.\n\n### Why it matters\nHardcoded timeouts make it difficult to adapt to temporary API slowdowns. Parameterizing it allows dynamic adjustment.\n\n### Acceptance Criteria\n- [ ] Create `DEFAULT_TIMEOUT` constant\n- [ ] Update function signatures and `HTTP_SESSION.get()` calls to use it\n- [ ] Passes `pre-commit run --all-files`",
+      "excerpt": "### Description Currently, HTTP requests in `update_jobs.py` have hardcoded `timeout=5`. Change fetch functions to accept a `timeout` parameter, defaulting to a `DEFAULT_TIMEOUT = 5` constant. ### Why it matters Hardc...",
+      "issueState": "closed",
+      "contentHash": "91564efe1c9997fa581e1a762a70ca3a3f5770c215ce1d59385ef4d0e1a40b02",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "good first issue"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-02T23:39:55Z",
+      "updatedAt": "2026-05-26T17:22:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/58",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_db7b29e6b9c9b5ad8788f6ac",
+      "sourceId": "ambicuity/New-Grad-Jobs#30",
+      "title": "[Beginner]: Add argparse to generate_companies.py for command-line options",
+      "description": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g., --greenhouse-count 4000).",
+      "excerpt": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g.,...",
+      "issueState": "open",
+      "contentHash": "d1f46ab8cd3b1a54ef12f738b807609949effc1a8525d70664d7a11948d3c57b",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "good first issue"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-02T20:47:18Z",
+      "updatedAt": "2026-05-26T19:59:13Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/30",
       "sourceType": "github-issue"
     }
   ]

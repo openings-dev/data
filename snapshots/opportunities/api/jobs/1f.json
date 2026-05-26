@@ -1,40 +1,41 @@
 {
-  "generatedAt": "2026-05-21T12:10:43.589Z",
+  "generatedAt": "2026-05-26T20:00:11.926Z",
   "items": {
-    "gh_1f5a98f47e42c00c1630a12f": {
-      "id": "gh_1f5a98f47e42c00c1630a12f",
-      "sourceId": "ambicuity/New-Grad-Jobs#242",
-      "title": "[Bug]: Operator Manual is out of sync with current config and workflow behavior",
-      "description": "### Bug Type\nOther\n\n### Description\n`docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior.\n\nExamples:\n- It references `filters.exclude_keywords`, but current config uses `filtering.exclusion_signals`.\n- It suggests tuning thread pools directly in `scripts/update_jobs.py`, while worker-pool behavior is now configurable via `config.yml` (`worker_pools`).\n- It references JobSpy location/config patterns that no longer match current configuration shape.\n- Several workflow guidance notes are stale relative to `.github/workflows/update-jobs.yml`.\n\nThis creates contributor confusion and increases maintenance error risk.\n\n### Steps to Reproduce\n1. Open `docs/wiki/Operator-Manual.md`.\n2. Compare recipe/config field names against `config.yml`.\n3. Compare workflow instructions against `.github/workflows/update-jobs.yml`.\n4. Observe mismatches between documented and actual behavior.\n\n### Additional Context\nCandidate source-of-truth files for alignment:\n- `docs/wiki/Operator-Manual.md`\n- `config.yml`\n- `.github/workflows/update-jobs.yml`\n- `scripts/update_jobs.py`",
-      "excerpt": "### Bug Type Other ### Description `docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior. Examples: - It references `filters.exclude_keywords`, but current config uses `fi...",
+    "gh_1f61de8de06b483a9a82d5f4": {
+      "id": "gh_1f61de8de06b483a9a82d5f4",
+      "sourceId": "nerdzao/vagas#191",
+      "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
+      "description": "Nossa empresa\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\nRequisitos\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\nEvent Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nBenefícios\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\nContratação\nCooperativa\n\nComo se candidatar\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\nNível\nSênior\n\nRegime\nCooperado\n\nAlocação\nHíbrido",
+      "excerpt": "Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado...",
       "issueState": "open",
-      "contentHash": "ca13b8bf4b9f4a12dba0d54fcb9f3bb7773dafb036c0bd97185bcc6ea340ed1a",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
+      "contentHash": "2fc01278c009d5c1f04db3ab1217bceecb1f162af09e7cadae08ac22860ffae9",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
       "tags": [
-        "needs-triage",
-        "status: in-progress",
-        "bug",
-        "awaiting-response"
+        "backend",
+        "java",
+        "devops",
+        "data",
+        "design"
       ],
       "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
       },
       "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
       },
-      "createdAt": "2026-04-08T14:59:35Z",
-      "updatedAt": "2026-05-21T07:15:17Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/242",
+      "createdAt": "2026-05-26T18:22:15Z",
+      "updatedAt": "2026-05-26T18:22:15Z",
+      "url": "https://github.com/nerdzao/vagas/issues/191",
       "sourceType": "github-issue"
     }
   }
