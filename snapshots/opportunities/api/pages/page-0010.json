@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-26T02:32:30.785Z",
+  "generatedAt": "2026-05-26T15:21:28.196Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_8d3d4b455493191722317dda",
+    "gh_9b5d9fbb31d726e63b2d6852",
     "gh_777d6953c094c4c77cffa586",
     "gh_1ab454dc5165fc4144b1968a",
     "gh_2dda52493191f3b9d796a75a",
     "gh_8ac6e6406bab29dc70c10f65",
     "gh_ee6ccd25c3e7ddfabb79530d",
-    "gh_f9338edba66dd0fc78e5cf9e",
-    "gh_720980f7a8c28105a2b6a178",
     "gh_03fa03119cda6972a7f24c60",
     "gh_4ceaaa1806d1792dbb109bcb",
     "gh_018090ae0b51c7fe869fe122",
@@ -26,6 +26,80 @@
     "gh_72cfadae02e4f1d29faac8e9"
   ],
   "items": [
+    {
+      "id": "gh_8d3d4b455493191722317dda",
+      "sourceId": "pythonjobs/jobs#441",
+      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
+      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
+      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
+      "issueState": "open",
+      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "frontend",
+        "react",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:25:09Z",
+      "updatedAt": "2026-01-19T17:25:09Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/441",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_9b5d9fbb31d726e63b2d6852",
+      "sourceId": "qa-brasil/vagas#1241",
+      "title": "[Remote] QA Jr. na Devvo Tecnologia",
+      "description": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de oportunidades de crescimento, sua busca termina aqui! Sediados em Brasília, nossa missão é impulsionar a sociedade por meio de soluções de ponta, conduzindo a transformação digital de empresas de todos os portes.**\n\n\n**Descrição da Vaga:**\nJunte-se a nós e colabore ativamente no fortalecimento e aprimoramento da nossa equipe de tecnologia. Você terá a oportunidade de participar do desenvolvimento e manutenção de soluções de software de alto desempenho, trabalhando lado a lado com equipes multidisciplinares que garantem a excelência na execução e entrega de projetos ambiciosos.\n\n\n**Responsabilidades:**\nAuxílio na realização de testes de qualidade para assegurar a boa performance dos sistemas;\nHabilidade em identificar e reportar bugs de forma clara e precisa;\nContribuição no desenvolvimento de projetos web e mobile;\nColaboração na melhoria contínua dos processos internos de gestão e desenvolvimento de projetos.\n\n\n**Requisitos:**\nProficiência em metodologias ágeis;\nBoas habilidades de comunicação e trabalho em equipe;\nConhecimento básico de Javascript / Typescript;\nExperiência prévia como Analista de Qualidade em meio corporativo.\n\n\n**Diferenciais:**\nConhecimento básico de Javascript / Typescript;\nConhecimento em ferramentas de automação de testes, como Selenium, Cypress ou Playwright.\n\n**Junte-se a Nós:**\n\nSe você está pronto(a) para um desafio estimulante em um ambiente colaborativo e inovador, este é o momento! Venha fazer parte da nossa equipe dedicada e impulsione sua carreira conosco na Devvo Tecnologia.\n\n\n**Como se candidatar:**\n\nEnvie seu Currículo e LinkedIn atualizado para o e-mail contato@devvo.com.br \nPor favor, inclua no assunto do e-mail \"[Nome] - Analista de qualidade Jr.\". Aguardamos ansiosamente para conhecer você e discutir mais sobre essa oportunidade de trabalho.\n\n\nRegime do trabalho: 100% remoto.\nModelo de Contratação: PJ.",
+      "excerpt": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de...",
+      "issueState": "open",
+      "contentHash": "1f413c7e2291f3bd9c484274a1850e8f239e2714f0eb32385a81ed543216dc8a",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "brasília",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "LucasCamposDevvo",
+        "name": "LucasCamposDevvo",
+        "handle": "LucasCamposDevvo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/191256669?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Devvo Tecnologia",
+      "createdAt": "2026-01-19T15:28:41Z",
+      "updatedAt": "2026-04-02T15:13:35Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1241",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_777d6953c094c4c77cffa586",
       "sourceId": "f2etw/jobs#1165",
@@ -206,79 +280,6 @@
       "createdAt": "2026-01-13T18:03:45Z",
       "updatedAt": "2026-01-13T18:04:16Z",
       "url": "https://github.com/programadores-br/geral/issues/3050",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f9338edba66dd0fc78e5cf9e",
-      "sourceId": "programadores-br/geral#3049",
-      "title": "[Hibrido / São Paulo, Brasil] Analista de Cloud AWS na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-cloud-aws-134313900?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando Analista Cloud AWS para compor nosso time.\nResponsabilidades:\n● Planejar e implementar arquiteturas de infraestrutura na AWS, garantindo escalabilidade e segurança.\n● Monitorar e otimizar recursos na nuvem (EC2, RDS, S3, Lambda, CloudWatch, ECR, Fargate, etc...) para alta disponibilidade.\n● Gerenciar backups, recuperação de desastres e políticas de segurança na AWS.\n● Automatizar processos usando scripts (Bash) e ferramentas como AWS CloudFormation.\n● Realizar análise de custos e propor otimizações financeiras na utilização de serviços AWS.\n● Colaborar com equipes de desenvolvimento na integração de aplicações com serviços AWS.\n● Documentar configurações e processos técnicos para suporte e auditoria.\n● Apoiar na resolução de incidentes relacionados à infraestrutura na nuvem.\n● Implementar e manter soluções de CI/CD utilizando AWS CodePipeline.\n## Namu: \n <p>Começamos nossa trajetória em 2013 com o Portal Namu e desde então nos tornamos uma referência na produção de conteúdo multimídia de bem-estar. Temos a yoga, o pilates e a gastronomia como as principais vertentes da empresa, e mais de 8 milhões de páginas visualizadas compartilhamos ensinamentos em aulas, entrevistas e palestras com as maiores referências nacionais e internacionais. O grande sucesso das aulas de yoga, pilates e gastronomia, com mais de 10 milhões de visualizações no YouTube nos inspirou a criar o Namu Cursos, a primeira plataforma brasileira de cursos online completamente focada em uma vida equilibrada.</p>\n<p>Em pouco mais de um ano construímos um portfólio que oferece a oportunidade e comodidade de praticar yoga onde e quando você quiser, com mais de 87 horas de aulas divididas entre 35 cursos. Os cursos são ministrados por professores de referência no Brasil que, em vários anos de estudos e experiência nas melhores escolas ou com os Gurus ao redor do mundo, se capacitaram para ensinar de forma didática e com preço acessível.</p>\n\n ## Habilidades: \n - AWS CloudFormation \n- Amazon EC2 \n- AWS RDS \n- AWS Lambda \n- AWS CloudWatch \n- Python \n- Bash \n- DevOps e CI/CD\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - ● Ter o certificado AWS Certified Cloud Practitioner ou mais avançado. \n- ● Experiência comprovada em administração e configuração de serviços AWS (EC2, RDS, S3, Lambda, CloudWatch, ECR, Fargate, QuickSight). \n- ● Conhecimento em ferramentas de automação e infraestrutura como código (AWS CloudFormation). \n- ● Domínio de scripts em Python, Bash ou linguagens similares para automação. \n- ● Familiaridade com monitoramento e análise de desempenho na AWS (CloudWatch, QuickSight). \n- ● Experiência com redes na nuvem (Route53, Global Accelerator). \n- ● Conhecimento em segurança na nuvem (IAM). \n- ● Capacidade de gerenciar múltiplos projetos e priorizar tarefas em ambiente dinâmico. \n- ● Experiência com integração contínua/entrega contínua (CI/CD) na AWS usando CodePipeline.\n\n## Benefícios: \n - Convênio médico \n- Convênio odontológico \n- Day off de aniversário \n- Férias remuneradas Acesso à plataforma NAMU \n- Programa TEM Saúde\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Analista de Cloud AWS na Namu](https://coodesh.com/jobs/analista-de-cloud-aws-134313900?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "b1b390721b981853272941f125fdc834f5f3fec4069695c78341baa6211cb022",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "pj",
-        "devops"
-      ],
-      "author": {
-        "id": "quetlinkober-source",
-        "name": "quetlinkober-source",
-        "handle": "quetlinkober-source",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/253765460?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-01-13T17:59:54Z",
-      "updatedAt": "2026-01-13T18:00:23Z",
-      "url": "https://github.com/programadores-br/geral/issues/3049",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_720980f7a8c28105a2b6a178",
-      "sourceId": "programadores-br/geral#3048",
-      "title": "[Hibrido / Brasília, Brasil] Python Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/python-developer-pleno-235834841?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando Python Developer pleno para compor nosso time. \n\nVaga híbrida preferencialmente para Brasília, mas também aceitamos candidatos de Belo Horizonte.\n## Mera: \n Conectamos profissionais da saúde a oportunidades de atendimentos em empresas de saúde. Auxiliamos as empresas de saúde a garantir atendimentos e plantões. A Mera é uma empresa que chegou para inovar no mercado, de forma disruptiva, buscando qualidade, valorização e assertividade dos atendimentos. \n\nundefined \n\n\n\n ## Habilidades: \n - MySQL \n- AWS \n- Amazon EC2 \n- Lambda \n- DynamoDB \n- Airflow\n## Local: \n Brasília, Brasil\n## Requisitos: \n - Conhecimento intermediário em engenharia de dados \n- Banco de dados: Postgres e mysql \n- ⁠AWS: EC2, Lambda, DynamoDB, IAM \n- ⁠ Conhecimento em Airflow \n- ⁠DevOps básico\n## Diferenciais: \n - Azure Básico\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Python Developer (Pleno) na Mera](https://coodesh.com/jobs/python-developer-pleno-235834841?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nBack-End",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "2259bace11d747aea6beea46bfb69a516baf6695a7999f88e7a10a8f15c1f0d4",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "pleno",
-        "pj",
-        "devops"
-      ],
-      "author": {
-        "id": "quetlinkober-source",
-        "name": "quetlinkober-source",
-        "handle": "quetlinkober-source",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/253765460?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-01-13T14:25:17Z",
-      "updatedAt": "2026-01-13T14:25:43Z",
-      "url": "https://github.com/programadores-br/geral/issues/3048",
       "sourceType": "github-issue"
     },
     {
