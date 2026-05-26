@@ -1,16 +1,87 @@
 {
-  "generatedAt": "2026-05-26T20:00:11.926Z",
+  "generatedAt": "2026-05-26T22:16:56.933Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 7,
+    "opportunities": 11,
     "openIssues": 1,
-    "closedIssues": 6
+    "closedIssues": 10
   },
-  "dataHash": "8958a394589e6d803bccc2c85cea17f196baa2362895a8fc490780ac1130e901",
+  "dataHash": "5f81ac616bea6dc10e92d1941c3d93602c7a7fc5e1c003de0e86e21a829ca1a6",
   "items": [
+    {
+      "id": "gh_cb8519b006acc63d85db9bca",
+      "sourceId": "ambicuity/New-Grad-Jobs#307",
+      "title": "[Feature]: clicking a company in HIRING NOW should filter the job list to that company",
+      "description": "### Bug Type / UX\nFrontend interaction\n\n### Description\n\nThe \\`HIRING NOW\\` sidebar on the dashboard (\\`docs/terminal/dashboard.jsx\\`) lists companies and their open-role counts:\n\n\\`\\`\\`\nSpaceX                186\nAnduril Industries    164\nWaymo                 51\n…\n\\`\\`\\`\n\nBut the rows have no click handler. Users naturally expect that clicking a company name will narrow the center job table to that company and pop the first matching role into the right-hand detail panel — that's the affordance the layout implies.\n\nToday, clicking does nothing. The chrome hints at interactivity (it's a Bloomberg-terminal aesthetic, and every other row in the UI is clickable) but the wire-up is missing.\n\n### Steps to reproduce\n1. Open https://jobs.riteshrana.engineer/\n2. Scroll to the \\`HIRING NOW\\` panel in the left sidebar.\n3. Click any company (e.g. \\`SpaceX\\`).\n4. Nothing happens.\n\n### Proposed solution\n\n- Add \\`company\\` to the dashboard \\`filters\\` state (a \\`Set\\` so multi-select works).\n- Filter \\`filtered\\` jobs by \\`filters.company\\` if non-empty.\n- Compute \\`coCounts\\` from the **pre-company** filter set so the sidebar list does **not** collapse to just the selected company — users can still switch between companies.\n- Wire each HIRING NOW row to toggle its company in the set; clicking the same company again deselects.\n- Visual selected state on the row (background + amber accent on text) and \\`cursor: pointer\\` to make the affordance discoverable.\n- Auto-select the first matching job for the detail panel (the existing \\`useEffect\\` already handles this when \\`filtered\\` changes).\n\n### Out of scope\n- Multi-select keyboard nav.\n- Reflecting the company filter in the URL.\n- A separate \"company picker\" modal — the sidebar list already serves this role.",
+      "excerpt": "### Bug Type / UX Frontend interaction ### Description The \\`HIRING NOW\\` sidebar on the dashboard (\\`docs/terminal/dashboard.jsx\\`) lists companies and their open-role counts: \\`\\`\\` SpaceX 186 Anduril Industries 164...",
+      "issueState": "closed",
+      "contentHash": "17b3aefc7be0a85463dfd16853cfd3d3576cc9fa65a513e10ffd7cd83921d41f",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "ui/ux"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-05-26T21:40:15Z",
+      "updatedAt": "2026-05-26T21:45:11Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/307",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2c92bac1085f46589d6afd6a",
+      "sourceId": "ambicuity/New-Grad-Jobs#305",
+      "title": "[Bug]: /favicon.ico returns 404 (no favicon configured)",
+      "description": "### Bug Type\nOther (frontend)\n\n### Description\n\nBrowsers auto-request \\`/favicon.ico\\` and the deployed site at https://jobs.riteshrana.engineer/ responds with **404**:\n\n\\`\\`\\`\nGET https://jobs.riteshrana.engineer/favicon.ico → 404\n\\`\\`\\`\n\n\\`docs/\\` does not contain a \\`favicon.ico\\` (or \\`favicon.svg\\`), and \\`docs/index.html\\` has no \\`<link rel=\\\"icon\\\">\\` tag. Cosmetic only — the browser tab shows a blank icon and the console shows a 404 entry on every page load.\n\n### Steps to Reproduce\n\n1. Open https://jobs.riteshrana.engineer/ in any browser.\n2. Open DevTools → Network or Console.\n3. Observe the \\`/favicon.ico\\` request returns 404.\n4. Note the tab icon is blank.\n\n### Additional Context\n\nDiscovered while auditing the live site after #299–#304. Predates this work; not a regression.\n\nSuggested fix:\n- Add a small brand-aligned SVG favicon to \\`docs/favicon.svg\\` (amber accent + dark terminal aesthetic, consistent with the LIVE-chip dot and the rest of the UI).\n- Add \\`<link rel=\\\"icon\\\" type=\\\"image/svg+xml\\\" href=\\\"favicon.svg\\\">\\` to \\`docs/index.html\\`.\n- Optionally include a \\`favicon.ico\\` PNG fallback for legacy browsers, but modern browsers all support SVG favicons.",
+      "excerpt": "### Bug Type Other (frontend) ### Description Browsers auto-request \\`/favicon.ico\\` and the deployed site at https://jobs.riteshrana.engineer/ responds with **404**: \\`\\`\\` GET https://jobs.riteshrana.engineer/favico...",
+      "issueState": "closed",
+      "contentHash": "9b01046895339367c8dbb1e49007de0e47ab6b02f0a2c018acd1e642a9443ace",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "good first issue",
+        "ui/ux"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-05-26T21:22:45Z",
+      "updatedAt": "2026-05-26T21:30:05Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/305",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_43e9777012c7847f19984cf9",
       "sourceId": "ambicuity/New-Grad-Jobs#297",
@@ -80,40 +151,6 @@
       "createdAt": "2026-05-24T05:49:22Z",
       "updatedAt": "2026-05-24T05:56:28Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/293",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b464df0a2fc4f62a08dd3dfa",
-      "sourceId": "ambicuity/New-Grad-Jobs#289",
-      "title": "Bug: generated_at timestamp missing timezone info causes incorrect time display",
-      "description": "## Problem\n\nThe `generated_at` timestamp in `jobs.json` is generated using `datetime.now().isoformat()` which produces a **naive datetime without timezone information**.\n\n```json\n\"generated_at\": \"2026-05-24T00:15:27.735356\"\n```\n\nThe scraper runs on GitHub Actions in UTC, but the timestamp has no timezone marker (`Z` or `+00:00`). When the frontend parses this with `Date.parse()`, JavaScript interprets it as **local time** on the viewer's machine, causing the LIVE indicator to display an incorrect time.\n\n## Root Cause\n\nIn `scripts/update_jobs.py`:\n```python\n'generated_at': datetime.now().isoformat(),\n```\n\nThis produces a timezone-naive ISO string. The frontend `live-stamp-format.js` parses it without timezone info, so `Date.parse()` assumes local time.\n\n## Fix\n\nReplace `datetime.now()` with `datetime.now(timezone.utc)` to produce a timezone-aware UTC timestamp:\n\n```python\nfrom datetime import datetime, timezone\n\n'generated_at': datetime.now(timezone.utc).isoformat(),\n```\n\nThis produces: `\"2026-05-24T00:15:27.735356+00:00\"`\n\nThe frontend `Intl.DateTimeFormat` will then correctly convert to the viewer's local timezone.\n\n## Impact\n\n- All users see incorrect last-updated time in the LIVE indicator\n- Affects trust in the LIVE badge accuracy",
-      "excerpt": "## Problem The `generated_at` timestamp in `jobs.json` is generated using `datetime.now().isoformat()` which produces a **naive datetime without timezone information**. ```json \"generated_at\": \"2026-05-24T00:15:27.735...",
-      "issueState": "closed",
-      "contentHash": "c0f3caedac7d5f433debf332618d4bc2e70d1d68776f0f30f50951203fab7f5b",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "needs-triage",
-        "bug"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-05-24T02:14:06Z",
-      "updatedAt": "2026-05-24T02:18:43Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/289",
       "sourceType": "github-issue"
     },
     {
@@ -189,6 +226,80 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_19d9edf7d6ba67157e1e98b0",
+      "sourceId": "ambicuity/New-Grad-Jobs#206",
+      "title": "🚨 Board is stale — scraper may have stopped",
+      "description": "## 🚨 Automated Alert: Board is Stale\n\nThe watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**.\n\n| Field | Value |\n|-------|-------|\n| Last updated | `2026-03-18T01:05:29Z` |\n| Stale for | 93 minutes |\n| Update cycle | Every 5 minutes |\n\n## What to check\n\n1. **Actions tab**: Is the `Update New Grad Jobs` workflow failing? Check [Actions](https://github.com/ambicuity/New-Grad-Jobs/actions/workflows/update-jobs.yml)\n2. **Branch protection**: Did a new ruleset get added that blocks direct push?\n3. **Scraper errors**: Is the scraper producing 0 jobs (all sources failing)?\n\n## Auto-close\n\nClose this issue once the board is confirmed fresh again.\n\n*Filed automatically by the Board Freshness Watchdog workflow.*",
+      "excerpt": "## 🚨 Automated Alert: Board is Stale The watchdog detected that `docs/jobs.json` has not been updated in **93 minutes**. | Field | Value | |-------|-------| | Last updated | `2026-03-18T01:05:29Z` | | Stale for | 93 ...",
+      "issueState": "closed",
+      "contentHash": "b8a145091306575e3e6dc7232437c1eb8f3ad4b3dc606ae397a16153b7c1f3e8",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "status: in-progress",
+        "priority: critical",
+        "automation",
+        "testing"
+      ],
+      "author": {
+        "id": "github-actions[bot]",
+        "name": "github-actions[bot]",
+        "handle": "github-actions[bot]",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-18T02:39:20Z",
+      "updatedAt": "2026-05-26T21:34:50Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/206",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bdfe5324ae5bcca87c72d659",
+      "sourceId": "ambicuity/New-Grad-Jobs#146",
+      "title": "[Test] E2E Agent Triage Verification",
+      "description": "The Workday API is returning HTTP 422 errors for about 30 enterprise companies. The scraper silently drops these jobs. Can someone investigate?",
+      "excerpt": "The Workday API is returning HTTP 422 errors for about 30 enterprise companies. The scraper silently drops these jobs. Can someone investigate?",
+      "issueState": "closed",
+      "contentHash": "77c684de5f5b41262454a98d2c2c504d8e7e32e5d7462cfa41e9313d9fc5ade5",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "help wanted",
+        "needs-triage",
+        "priority: high",
+        "intermediate"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-10T21:16:15Z",
+      "updatedAt": "2026-05-26T21:34:48Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/146",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_1946d60c2578a736f7120ee6",
       "sourceId": "ambicuity/New-Grad-Jobs#58",
       "title": "[Beginner]: Add `timeout` as a parameter to fetch functions",
@@ -254,6 +365,40 @@
       "createdAt": "2026-03-02T20:47:18Z",
       "updatedAt": "2026-05-26T19:59:13Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/30",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_9884ea0e58eaed339de72098",
+      "sourceId": "ambicuity/New-Grad-Jobs#29",
+      "title": "[Beginner]: Add type hints to generate_companies.py",
+      "description": "The functions generate_greenhouse_companies, generate_lever_companies, generate_workday_companies, and format_yaml_companies currently lack Python type hints. This issue involves adding valid type hints (e.g., count: int, start_id: int, returning list[dict[str, str]]) to improve code readability and static analysis.",
+      "excerpt": "The functions generate_greenhouse_companies, generate_lever_companies, generate_workday_companies, and format_yaml_companies currently lack Python type hints. This issue involves adding valid type hints (e.g., count: ...",
+      "issueState": "closed",
+      "contentHash": "d4b1b93f912435c81dd0c8771d4ececfddeb18957555262ba92489756eb9e0ef",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "good first issue"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-02T20:47:16Z",
+      "updatedAt": "2026-05-26T21:34:46Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/29",
       "sourceType": "github-issue"
     }
   ]
