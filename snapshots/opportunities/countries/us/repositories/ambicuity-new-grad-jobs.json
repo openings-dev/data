@@ -1,16 +1,124 @@
 {
-  "generatedAt": "2026-05-26T22:16:56.933Z",
+  "generatedAt": "2026-05-27T02:42:17.129Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 11,
-    "openIssues": 1,
-    "closedIssues": 10
+    "opportunities": 13,
+    "openIssues": 2,
+    "closedIssues": 11
   },
-  "dataHash": "5f81ac616bea6dc10e92d1941c3d93602c7a7fc5e1c003de0e86e21a829ca1a6",
+  "dataHash": "fab4f4e8ecd7188241c8253c7470242b9fb60c32e635006c22f6a677f74847a3",
   "items": [
+    {
+      "id": "gh_6bd2ea87cfb4bbe49569241c",
+      "sourceId": "ambicuity/New-Grad-Jobs#316",
+      "title": "[ROADMAP] Help us expand job data — all suggestions welcome!",
+      "description": "## TL;DR\n\nWe want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are welcome and I will reply to every comment.**\n\n---\n\n## Why this roadmap?\n\nNew-Grad-Jobs is most useful when it captures the widest possible surface of legitimate new-grad opportunities. Today we scrape and curate from a known set of sources, but there's a long tail of companies, regions, and job types we're missing.\n\nThis issue is the central place to brainstorm **how we add more jobs** — sources, regions, scrapers, partnerships, automation, data quality, anything.\n\n## What kind of suggestions are we looking for?\n\nPick whatever resonates — these are just prompts:\n\n### Sources\n- [ ] Specific ATS platforms we don't yet scrape (Workday tenants, Greenhouse boards, Lever, Ashby, SmartRecruiters, iCIMS, Taleo, Eightfold, Phenom, Jobvite, BrassRing, etc.)\n- [ ] Specific companies whose new-grad pipelines we should track\n- [ ] Regional job boards (EU, India, LATAM, MENA, APAC, Canada, UK, etc.)\n- [ ] University career portals worth aggregating\n- [ ] Government / public-sector hiring portals\n- [ ] Startup-focused aggregators (YC, Wellfound, etc.)\n- [ ] Diversity-focused or accessibility-focused boards\n\n### Job categories\n- [ ] Internship pipelines distinct from full-time\n- [ ] PhD / research / quant-specific listings\n- [ ] Hardware, semiconductor, robotics, aerospace\n- [ ] Game industry\n- [ ] Finance / trading / actuarial new-grad tracks\n- [ ] Bio / pharma / healthcare new-grad roles\n- [ ] Trades, ops, supply chain, manufacturing new-grad programs\n\n### Data quality\n- [ ] How should we detect & dedupe reposted listings?\n- [ ] How should we classify \\\"new grad\\\" vs \\\"junior\\\" vs \\\"intern\\\" more accurately?\n- [ ] Should we surface salary data when available? From which sources?\n- [ ] Should we flag visa sponsorship / remote / hybrid more explicitly?\n- [ ] How should we handle stale postings (last-seen vs first-seen)?\n- [ ] What metadata is most useful to filter on?\n\n### Infrastructure & automation\n- [ ] Scraper frameworks or libraries worth adopting\n- [ ] Anti-bot / rate-limit strategies that respect ToS\n- [ ] Workflow scheduling improvements (cron, GitHub Actions, queues)\n- [ ] LLM-assisted parsing for unstructured careers pages\n- [ ] Storage / dedup / canonicalization approaches\n- [ ] Notification channels (RSS, Discord, Slack, email digest)\n\n### Community & contribution\n- [ ] How can we make it easier for contributors to add a new company in one PR?\n- [ ] Should we publish a contribution template specifically for \\\"add a company\\\"?\n- [ ] Would a structured YAML/JSON registry of companies + ATS endpoints help?\n- [ ] Mentorship for first-time contributors who want to add a scraper\n\n## How to suggest\n\nJust comment below. Any format works:\n\n- **A single company:** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"\n- **A source idea:** \\\"There's an ATS called `<X>` used by these companies: …\\\"\n- **A feature idea:** \\\"It would be great if listings showed `<field>`\\\"\n- **A full proposal:** longer-form design ideas, link to a gist or doc\n- **A pain point:** \\\"As a job seeker, I wish this repo did `<X>`\\\"\n\nYou don't need to know how to scrape, write Python, or anything technical. **Ideas count just as much as code.**\n\n## Commitment\n\n- I'll **reply to every comment on this thread.**\n- Concrete, actionable suggestions will be moved into their own tracking issues and linked back here.\n- Larger themes will become milestones on the roadmap.\n- Credit will go to the suggester in the resulting PR / issue / changelog.\n\n## Ground rules\n\n- Be respectful — this is a community space.\n- Don't post anything that violates a source's Terms of Service or robots.txt; we want sustainable, ethical aggregation.\n- Don't post personal data, recruiter contacts, or anything that could harm a company or candidate.\n- Prefer one idea per comment when possible — it makes follow-up easier.\n\n---\n\n**Thanks in advance — every suggestion helps a new grad find their first job.**",
+      "excerpt": "## TL;DR We want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are ...",
+      "issueState": "open",
+      "contentHash": "9dbc30e311e1ce44614e0ce628edb4d89c70df9f08cacdec11198141b4fa7ba7",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "roadmap"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
+      "createdAt": "2026-05-26T23:52:14Z",
+      "updatedAt": "2026-05-27T00:03:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_307fe4a418b9e5c1331b5ce6",
+      "sourceId": "ambicuity/New-Grad-Jobs#314",
+      "title": "[UX]: status bar — drop noisy SEL slug, make SAVED count clickable",
+      "description": "### Description\n\nTwo coupled changes to the dashboard footer status bar (\\`docs/terminal/dashboard.jsx:402–420\\`):\n\n**1. Drop the \\`SEL: …\\` indicator.**\n\n\\`\\`\\`html\n<span>SEL: <span>samsara-field-sales-engineer-ii,-enterprise-midwest/northeast-remote---us</span></span>\n\\`\\`\\`\n\nThe selected job's row is already highlighted in the center table and its full detail is rendered in the right panel. Repeating the (very long, kebab-case) job ID in the status bar adds visual noise without conveying anything the user can't see at a glance.\n\n**2. Make \\`SAVED: N\\` clickable.**\n\nToday the \\`SAVED\\` count is a passive indicator. The natural UX expectation — given that everything else in this terminal-style UI is interactive — is that clicking it filters the table to *only* the saved jobs. Click again to clear.\n\n### Proposed behavior\n\n- Add a \\`savedOnly\\` boolean state.\n- When active, \\`preCompanyFiltered\\` excludes any job whose id isn't in \\`saved\\`.\n- The HIRING NOW sidebar's company counts automatically follow (they already derive from \\`preCompanyFiltered\\`), so the sidebar collapses to just the companies among the user's saved jobs — which is exactly the cross-section the user wants while pruning.\n- Visual: when active, the SAVED chip flips to amber bg + black text so it reads as \\\"on\\\". Tooltip explains the toggle. Keyboard activation on Enter/Space.\n- Edge case: if \\`saved.size === 0\\`, the click flashes a toast (\\`\\\"no saved jobs\\\"\\`) and is a no-op — no point activating a filter that would empty the table.\n\n### Out of scope\n- URL persistence of the saved-only filter.\n- A separate \\\"saved\\\" tab (the toggle is enough).",
+      "excerpt": "### Description Two coupled changes to the dashboard footer status bar (\\`docs/terminal/dashboard.jsx:402–420\\`): **1. Drop the \\`SEL: …\\` indicator.** \\`\\`\\`html <span>SEL: <span>samsara-field-sales-engineer-ii,-ente...",
+      "issueState": "closed",
+      "contentHash": "fbcb07ed8463806f7eac2a7bd5d851ea712dcd138ddf4ed5e7db5b6f45d0de08",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "ui/ux"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-05-26T23:01:57Z",
+      "updatedAt": "2026-05-26T23:14:48Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/314",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_76b085862bd7eb7fdf9ac21c",
+      "sourceId": "ambicuity/New-Grad-Jobs#311",
+      "title": "[Bug]: POSTED column sort is alphabetical, not chronological",
+      "description": "### Bug Type\nFrontend bug (sort comparator)\n\n### Description\n\nClicking the **POSTED** column header in the dashboard's job table does fire a sort, but the result is wrong: jobs are ordered alphabetically by the relative-time string (\\`\\\"1d\\\"\\`, \\`\\\"2w\\\"\\`, \\`\\\"3mo\\\"\\`) rather than by actual recency.\n\nRoot cause in \\`docs/terminal/dashboard.jsx\\`:\n\n\\`\\`\\`jsx\nif (sortKey === 'posted')   out.sort((a,b) => dir*a.posted.localeCompare(b.posted));\n\\`\\`\\`\n\n\\`j.posted\\` is the formatted output of \\`ageString()\\` in \\`docs/terminal/data.jsx\\` — values look like \\`\\\"now\\\"\\`, \\`\\\"3h\\\"\\`, \\`\\\"2d\\\"\\`, \\`\\\"1w\\\"\\`, \\`\\\"2mo\\\"\\`. \\`localeCompare\\` on those produces:\n\n\\`\\`\\`\n\\\"1d\\\" < \\\"1w\\\" < \\\"2d\\\" < \\\"2w\\\" < \\\"30d\\\" < \\\"3h\\\" < \\\"now\\\"\n\\`\\`\\`\n\n…which has nothing to do with which jobs are actually newer.\n\n### Steps to reproduce\n1. Open https://jobs.riteshrana.engineer/\n2. Click the **POSTED** column header.\n3. Observe rows ordered by alphabet on their relative-time string, not by recency.\n\n### Proposed fix\n\nThe raw ISO timestamp (\\`j.posted_at\\`) is already on the source records — \\`ageString(j.posted_at)\\` is computed in \\`data.jsx\\`. Plumb the raw timestamp through onto the mapped \\`NGJOBS\\` entries (e.g. \\`postedTs: new Date(j.posted_at).getTime()\\` with \\`|| 0\\` fallback for missing values), then sort numerically:\n\n\\`\\`\\`jsx\nif (sortKey === 'posted') out.sort((a,b) => dir*(b.postedTs - a.postedTs));\n\\`\\`\\`\n\n\\`dir=1\\` (the default on the first click) puts the **newest jobs first**, matching how a new-grad job board reader naturally reads the column (\\\"recently posted on top\\\").\n\n### Affected file\n\\`docs/terminal/dashboard.jsx\\` (line ~76), \\`docs/terminal/data.jsx\\` (line ~134).",
+      "excerpt": "### Bug Type Frontend bug (sort comparator) ### Description Clicking the **POSTED** column header in the dashboard's job table does fire a sort, but the result is wrong: jobs are ordered alphabetically by the relative...",
+      "issueState": "closed",
+      "contentHash": "5f145d1a0ca9a6287b8cab1a5743c563d1dd8584bc72d70f9567a6e29cc9e4c9",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: bug",
+        "bug"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-05-26T22:47:22Z",
+      "updatedAt": "2026-05-26T22:51:41Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/311",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_cb8519b006acc63d85db9bca",
       "sourceId": "ambicuity/New-Grad-Jobs#307",
@@ -117,40 +225,6 @@
       "createdAt": "2026-05-26T17:01:06Z",
       "updatedAt": "2026-05-26T17:14:52Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/297",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ba7cab00af578f842830e12b",
-      "sourceId": "ambicuity/New-Grad-Jobs#293",
-      "title": "feat: Add 59 new companies to expand job coverage",
-      "description": "## Summary\n\nExpand the job portal's company coverage by adding 59 new companies across three ATS platforms.\n\n### Changes\n\n**Greenhouse (+30 companies)**\n- AI Labs: Anthropic, Hugging Face, Cohere, Adept AI, Character AI, Jasper\n- Fintech: Brex, Ramp, Deel, Rippling, Vanta, Pipe, Navan\n- SaaS/DevTools: Retool, Canva, Miro, Notion, Verkada, Fivetran, dbt Labs, HashiCorp, Confluent\n- Autonomous: Aurora, Zoox, Cruise, Niantic\n- Crypto: Coinbase, Kraken, Alchemy, Chainalysis\n\n**Ashby (+17 companies)**\n- AI/ML: Anthropic, Hugging Face, Together AI, Groq, Cerebras, Databricks, Scale AI, Weights & Biases, Replicate\n- DevTools: Vercel, Cal.com, Tinybird, Neon, PlanetScale, Axiom, Mintlify, Dub\n\n**Workday (+12 companies)**\n- Enterprise: Amazon, IBM, Samsung, Sony, Ford, GM, Honeywell\n- Defense: Leidos, CACI, Peraton, SAIC\n\n### Impact\n- Total companies: 215 → 274 (+27% increase)\n- All tests pass (718/718)\n- Pre-commit hooks pass\n- Config validation passes\n\n### Testing\n- [x] Config validates successfully\n- [x] All 718 tests pass\n- [x] Pre-commit hooks pass\n- [ ] CI will run the scraper to verify new companies return jobs",
-      "excerpt": "## Summary Expand the job portal's company coverage by adding 59 new companies across three ATS platforms. ### Changes **Greenhouse (+30 companies)** - AI Labs: Anthropic, Hugging Face, Cohere, Adept AI, Character AI,...",
-      "issueState": "closed",
-      "contentHash": "cdfede98265b9cd60c5b4911dc3ba0b508c4299a1c9f9ac52059d62cb1ff3d46",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "enhancement"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-05-24T05:49:22Z",
-      "updatedAt": "2026-05-24T05:56:28Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/293",
       "sourceType": "github-issue"
     },
     {
