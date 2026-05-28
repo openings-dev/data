@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-28T20:25:10.076Z",
+  "generatedAt": "2026-05-28T22:29:33.370Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_b03b3f7f6aecea6acd0cdc74",
     "gh_78bd5ed6303a4f36ae15da78",
     "gh_31d3c208b2b39f35424db09f",
     "gh_7ba652a44a8de9edef28588e",
@@ -22,10 +23,49 @@
     "gh_d66328769b5be7c40b7b8f22",
     "gh_c71d0907801b77de8478d34e",
     "gh_1e19c4cbae4ef29e4318b7c2",
-    "gh_e2a378bedb2ffbc73d1fdc3e",
-    "gh_856ff706e562f3289fb55dad"
+    "gh_e2a378bedb2ffbc73d1fdc3e"
   ],
   "items": [
+    {
+      "id": "gh_b03b3f7f6aecea6acd0cdc74",
+      "sourceId": "backend-br/vagas#12248",
+      "title": "[Bolsa Inovação] Full-Stack / Backend Developer (React, IA LLM, RAG Multicamadas, n8n, Supabase) - SAPCON",
+      "description": "## SAPCON\n\nSistema de Automação de Planos de Contingência.\n\n## Descrição da vaga\n\nEstamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma Web e motores de automação.\nO que você vai fazer (Escopo das 40 semanas)\n*MVP 1 (Coração Orquestrador): Modelagem do banco de dados relacional, criação de arquitetura Multi-RAG com foco em Chunking Semântico e Reranking (evitando infoxicação da LLM), e tradução de regras determinísticas de organograma/escalas de funcionários.\n*MVP 2 (Automação e Campo): Integração com APIs externas de monitoramento (clima/alertas), robôs de webscrapping para busca ativa de recursos e homologação de canais de comunicação (WhatsApp API e Voz STT/TTS).\n*MVP 3 (Escala e IA): Desenvolvimento do fluxo \"Redator\" para geração automatizada de Planos de Contingência (Placon) baseados em modelos doutrinários e cruzamento seguro entre bases de conhecimento.\nObs: desejável conhecimento para desenvolver App que inicialmente será apenas para visualização das informações, e envio de mensagens.\n\n## Local\n\n100% remoto.\n\n## Requisitos\n\n* Forte domínio em *React / TypeScript** e consumo de APIs RESTful.\n* Experiência prática em modelagem de bancos de dados relacionais (PostgreSQL / Supabase).\n* Familiaridade com ferramentas de automação visual de fluxos (preferencialmente **n8n**).\n* Entendimento conceitual sobre arquiteturas de IA (RAG, busca vetorial, embeddings e manipulação de contexts).\n* Maturidade para trabalhar de forma autônoma, organizada e focada em marcos de entrega (*milestones*).\n\n## Benefícios\n\nTotalmente remoto.\nFlexibilidade de horário.\nLiberdade para propor modificações.\nPretendemos, após os 12 meses, continuar vínculo com o profissional.\n\n## Contratação\n\nModelo de Contratação: Bolsista de Desenvolvimento Tecnológico / Extensão Inovadora (fomento público).\nRemuneração: 'Aproximadamente' R$ 50.000,00 totais divididos ao longo do projeto de 12 meses.\nCronograma de desenvolvimento: estimamos 9 meses. Restante do tempo para suporte técnico e correções.\nCarga Horária: Estimado em 20h semanais, com horários flexíveis, e foco em entregas/sprints.\n\n## Como se candidatar\n\nEmail para: contato@sapcon.com.br\n\n## Labels\n\n### Nível\n- Pleno\n- Sênior\n- Especialista\n\n### Regime\n- Contrato\n- Freelance\n\n### Alocação\n- Remoto",
+      "excerpt": "## SAPCON Sistema de Automação de Planos de Contingência. ## Descrição da vaga Estamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma ...",
+      "issueState": "open",
+      "contentHash": "71ca66ab97f9cb499641d728481d8fcf4d743279cc5d34a56349ffdd57066ec9",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "remoto",
+        "especialista",
+        "typescript",
+        "postgresql",
+        "freelance",
+        "contrato"
+      ],
+      "author": {
+        "id": "fmcarpes",
+        "name": "fmcarpes",
+        "handle": "fmcarpes",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51268403?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-28T22:20:25Z",
+      "updatedAt": "2026-05-28T22:20:40Z",
+      "url": "https://github.com/backend-br/vagas/issues/12248",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_78bd5ed6303a4f36ae15da78",
       "sourceId": "backend-br/vagas#12247",
@@ -703,39 +743,6 @@
         "avatarUrl": "https://github.com/vanshb03.png?size=80",
         "repository": "vanshb03/Summer2026-Internships",
         "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-23T09:07:22Z",
-      "updatedAt": "2026-05-23T09:07:22Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4483",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_856ff706e562f3289fb55dad",
-      "sourceId": "vanshb03/Summer2027-Internships#4483",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.tesla.com/careers/search/job/271209?source=LinkedIn&source=LinkedIn\n\n### Company Name\n\nTesla\n\n### Internship Title\n\nInternship, Software Engineer, IT Apps \n\n### Location\n\nFremont, CA\n\n### What season is this internship for?\n\nFall\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.tesla.com/careers/search/job/271209?source=LinkedIn&source=LinkedIn ### Company Name Tesla ### Internship Title Internship, Software Engineer, IT Apps ### Location Fremont, C...",
-      "issueState": "open",
-      "contentHash": "674bd817d545bb8c6922da7857bf55dd74a5bb7deb28a9d0e5925790c62f0b92",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
       },
       "createdAt": "2026-05-23T09:07:22Z",
       "updatedAt": "2026-05-23T09:07:22Z",
