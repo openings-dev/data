@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T06:47:03.364Z",
+  "generatedAt": "2026-05-28T20:25:10.076Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,8 +9,48 @@
     "openIssues": 12,
     "closedIssues": 18
   },
-  "dataHash": "d99ea2e8675bc3221d7940e50f6fe4f1a803a147e3e3992526728648f7b2bdee",
+  "dataHash": "0bed99825b58ea07c55b99c2ad4bff27851064f9b85c79724d8db2b260c46273",
   "items": [
+    {
+      "id": "gh_78bd5ed6303a4f36ae15da78",
+      "sourceId": "backend-br/vagas#12247",
+      "title": "[Remoto] Desenvolvedor(a) Back-end .NET — Junior/Pleno - PJ",
+      "description": "## Nossa empresa\nA StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como um centro tecnológico dos nossos parceiros — com foco total em resultados e comprometimento com os objetivos de cada cliente.\n\nNossa stack é primordialmente Microsoft, e temos expertise consolidada na integração de intranets e extranets com sistemas de ERP, CRM e outros legados. Contamos com equipes multidisciplinares que cobrem desde arquitetura de informação e design até desenvolvimento front-end (Angular, HTML5, CSS, SEO) e back-end (MVC, .NET, C#).\n\nUma carteira sólida de projetos de sucesso e muito retorno para nossos clientes é o que resume nossa trajetória: construída com trabalho, dedicação e entrega de verdade.\n\n## Descrição da vaga\nBuscamos um(a) **Desenvolvedor(a) Back-end .NET Junior/Pleno** para integrar nosso time de engenharia. Você será responsável pelo desenvolvimento e manutenção de APIs REST, modelagem de dados e evolução de sistemas — incluindo produtos modernos e legados em .NET Framework.\n\nJúnior: Esperamos uma base conceitual firme em C# e SQL, proatividade para investigar bugs, fazer perguntas essenciais e, principalmente, dedicação para acelerar a curva de aprendizado nas ferramentas que ainda não domina.\n\n## Local\n🌐 Remoto\n\n## Requisitos\n**Obrigatórios**\n- .NET Core / .NET 6 ou superior\n- Desenvolvimento de APIs REST com ASP.NET Core\n- Bancos de dados relacionais (SQL Server ou PostgreSQL)\n- Modelagem de dados e escrita de queries SQL\n- Versionamento com Git\n\n**Diferenciais**\n- .NET Framework (manutenção de sistemas legados)\n- ASP.NET MVC ou Web Forms\n- Noções de arquitetura em camadas ou Clean Architecture\n\n## Benefícios\n- Horário flexível\n\n## Contratação\n- PJ\n\n## Como se candidatar\nEnvie seu currículo com pretensão salarial para: **recrutamento@starcorp.com.br**",
+      "excerpt": "## Nossa empresa A StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como...",
+      "issueState": "open",
+      "contentHash": "98bc7bfbe97f0c7525dbc8f4a767ad31541443bf1fad73ddf9982a5e167994d4",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "sênior",
+        "júnior",
+        ".net",
+        "remoto",
+        "postgresql",
+        "sql"
+      ],
+      "author": {
+        "id": "RaulFerreiraSilva",
+        "name": "RaulFerreiraSilva",
+        "handle": "RaulFerreiraSilva",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/105366476?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-28T18:32:38Z",
+      "updatedAt": "2026-05-28T19:38:17Z",
+      "url": "https://github.com/backend-br/vagas/issues/12247",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_96749c04b2a41cefede1f9cb",
       "sourceId": "backend-br/vagas#12246",
@@ -479,46 +519,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_d8668644a6f0ebb1839f0122",
-      "sourceId": "backend-br/vagas#12234",
-      "title": "[Remoto] Tech Lead - Igma",
-      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n\n## Descrição da vaga\n\nEstamos em busca de uma pessoa Tech Lead para se juntar ao nosso Chapter de desenvolvimento e criar produtos digitais para as maiores empresas do Brasil.\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Responsabilidades**\n\nNa Igma, como Tech Lead, você é responsável por garantir que nossas entregas de tecnologias tenham uma arquitetura sólida e escalável, bem como acompanhar a qualidade de código de sua equipe. O desafio será desenhar e planejar arquiteturas, propostas de infraestrutura, bem como escolher as melhores tecnologias para o projeto. Levando em consideração performance, segurança e skills do time. É essencial ter aptidão para trabalhar em equipe com profissionais de diferentes áreas, saiba se comunicar com clareza e tenha adaptabilidade para lidar com mudanças constante.\n\nPara isso é necessário fazer parte de sua rotina:\n\n- Git\n- Docker\n- AWS/Azure/GCP\n- CI/CD\n- Testes (Unitários, interface, integração)\n- Code Review com boas práticas\n- Principais Tecnologias: Python e .NET\n- Curiosidade ativa por Inteligência Artificial e disposição para explorar como a IA pode potencializar seu trabalho\n\n## Local\n\nRegime: 100% remoto\n\n## Requisitos\n\n- Arquitetura / Infra-estrutura, incluindo a análise e escolha de tecnologias adequadas para cada projeto.\n- Micro-serviços\n- Cloud\n- Containerização\n- API\n- Versionamento\n- Testes automatizados\n- CI / CD\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n## Benefícios\n\n- Trabalho 100% remoto\n- Plano de Saúde e odontológico individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\n(https://jobs.quickin.io/igma/jobs/69fe477d6a49d70013459688)\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação",
-      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico ...",
-      "issueState": "open",
-      "contentHash": "fff1845ef3aa306792577dca15ae57c95533faae218384cfd9df3a661e6b8052",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "python",
-        "remoto",
-        "aws",
-        "testes automatizados",
-        "git",
-        "docker",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-08T20:43:06Z",
-      "updatedAt": "2026-05-09T18:26:08Z",
-      "url": "https://github.com/backend-br/vagas/issues/12234",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_c58b091791207460283796e3",
       "sourceId": "backend-br/vagas#12230",
       "title": "[Remoto] Desenvolvedor (a) Delphi Sênior I Back-End - Weknow Healthtech",
@@ -631,7 +631,7 @@
         "url": "https://github.com/backend-br/vagas"
       },
       "createdAt": "2026-04-16T21:05:16Z",
-      "updatedAt": "2026-05-25T03:32:32Z",
+      "updatedAt": "2026-05-28T19:17:56Z",
       "url": "https://github.com/backend-br/vagas/issues/12225",
       "sourceType": "github-issue"
     },
