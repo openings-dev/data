@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-28T22:29:33.370Z",
+  "generatedAt": "2026-05-29T06:48:30.521Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "backend-br/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 12,
-    "closedIssues": 18
+    "openIssues": 13,
+    "closedIssues": 17
   },
-  "dataHash": "31ddb54ed7cb403673238e7cf8e219f58b4ef797eeac191e7dd8ea3cb755b36e",
+  "dataHash": "fb392f15944e4e74453b00f750ee74bbe0b8ab75855d811b8d195fb4d64fd2e9",
   "items": [
     {
       "id": "gh_b03b3f7f6aecea6acd0cdc74",
@@ -47,7 +47,7 @@
         "url": "https://github.com/backend-br/vagas"
       },
       "createdAt": "2026-05-28T22:20:25Z",
-      "updatedAt": "2026-05-28T22:20:40Z",
+      "updatedAt": "2026-05-29T03:31:31Z",
       "url": "https://github.com/backend-br/vagas/issues/12248",
       "sourceType": "github-issue"
     },
@@ -562,6 +562,46 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_c2842e7382b7b6bf1db541df",
+      "sourceId": "backend-br/vagas#12229",
+      "title": "[Remoto] FullStack Node e React - Stefanini",
+      "description": "## Nossa empresa\n\nOLATAM Digital Hub  Stefanini  é uma potência global em tecnologia, especializada em soluções de Nearshoring que conectam os melhores talentos da América Latina a empresas ao redor do mundo Com mais de 35 anos de experiência e presença em mais de 40 países, a Stefanini oferece serviços de transformação digital de ponta a ponta — desde engenharia de software e QA até nuvem, IA e serviços gerenciados.\n\nNosso modelo de Digital Hub permite que as organizações acessem profissionais altamente qualificados e culturalmente alinhados em tempo real, reduzindo custos e mantendo os mais altos padrões de qualidade e inovação. Temos orgulho de construir carreiras de longo prazo, e não apenas alocações — oferecendo aos membros da nossa equipe contratação direta, remuneração competitiva e um ambiente global colaborativo.\n\n## Descrição da vaga\n\nBuscamos um(a) especialista técnico(a) **Full-stack** para atuar em ambientes de arquitetura complexa. O papel envolve projetar e implementar aplicações robustas e de alta performance, focando em uma stack moderna centrada em Node.js (Backend) e React (Frontend).\n\n**Principais Responsabilidades:**\n* Desenvolver e manter features de ponta a ponta (end-to-end) para ambientes de alto tráfego.\n* Colaborar com times multifuncionais para definir padrões arquiteturais.\n* Garantir a alta qualidade do código através de testes rigorosos e code reviews.\n* Participar de todo o ciclo de vida de desenvolvimento (SDLC) em um ambiente Ágil.\n\n## Local\n\n100% Remoto\n\n## Requisitos\n\n**Obrigatórios (Backend & Frontend Core):**\n* **Frontend:** Proficiência avançada em React.js, conectando arquiteturas complexas de backend com componentes de interface de usuário perfeitamente responsivos.\n* **Ambiente & Frameworks:** Node.js (v18+), NestJS e TypeScript.\n* **Monorepo:** Experiência com Turborepo.\n* **Testes:** Proficiência em Jest (Testes Unitários e de Integração).\n* **Bancos de Dados:** Experiência prática com MS SQL Server, MongoDB e PostgreSQL.\n* **Cache & Mensageria:** Redis, Kafka e/ou RabbitMQ.\n* **DevOps e API:** Docker, Git e design de APIs REST.\n* **Segurança:** Profundo entendimento de OAuth2, JWT e OIDC.\n\n**Desejáveis:**\n* **Fintech:** Experiência com plataformas de aplicativos Jack Henry ou Q2.\n* **Arquitetura:** Domínio de Arquitetura Orientada a Eventos (EDA), CQRS + Event Sourcing, Padrão Saga e API Gateways.\n* **Estratégia:** Experiência com *Strangler Fig pattern* e *Trunk Based Development*.\n* **Metodologia:** Forte adesão aos princípios SOLID e Domain-Driven Design (DDD).\n* **Dados:** Familiaridade com Avro Schema e Protobuf.\n\n## Benefícios\n\n* Ambiente global colaborativo e de inovação.\n* Remuneração competitiva.\n* Oportunidade de construir uma carreira de longo prazo em projetos internacionais.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nAs candidaturas devem ser feitas diretamente através da plataforma da Workfully no link: [[Stefanini Careers - Application Form](https://hiring.workfully.com/jobs/bd03030b-8857-4821-800f-d810955d7c5c/details)](https://hiring.workfully.com/recruiter/4fbaa3d0-45c0-4662-9cf6-f172c4d319ad/job/bd03030b-8857-4821-800f-d810955d7c5c)\n\n## Labels\n\n### Nível\n- Sênior\n- Especialista\n\n### Regime\n- CLT\n\n### Alocação\n- Remoto",
+      "excerpt": "## Nossa empresa OLATAM Digital Hub Stefanini é uma potência global em tecnologia, especializada em soluções de Nearshoring que conectam os melhores talentos da América Latina a empresas ao redor do mundo Com mais de ...",
+      "issueState": "open",
+      "contentHash": "aae03bbfe81abbdc95724b92d9550a1dbf4671a2d0c7f1ae3e06206108807e22",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "sênior",
+        "node.js",
+        "remoto",
+        "especialista",
+        "mongodb",
+        "typescript",
+        "postgresql"
+      ],
+      "author": {
+        "id": "fellipebrancaccio",
+        "name": "fellipebrancaccio",
+        "handle": "fellipebrancaccio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22227480?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-04-29T04:33:11Z",
+      "updatedAt": "2026-05-29T03:35:25Z",
+      "url": "https://github.com/backend-br/vagas/issues/12229",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_4a3287b63e4b9420bebc557e",
       "sourceId": "backend-br/vagas#12227",
       "title": "Mobile- Brasil em Dobro",
@@ -1040,46 +1080,6 @@
       "createdAt": "2026-03-10T19:39:29Z",
       "updatedAt": "2026-05-14T02:50:44Z",
       "url": "https://github.com/backend-br/vagas/issues/12206",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6af0e06bd0406d8e1d62b180",
-      "sourceId": "backend-br/vagas#12201",
-      "title": "[Remoto] Kotlin Back-end developer - ITeam",
-      "description": "### Nossa empresa\n\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP,  realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. \nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado. \nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n\n### Descrição da vaga\n\nDesenvolvedor Kotlin Back-end com sólida experiência em engenharia de software, com foco em soluções na AWS.\n\n### Local\n\n\nRemoto\nHorário: 09h às 18h\n\n### Requisitos: \n\nPossui conhecimento avançado em serviços AWS, como Lambda, ECS, SQS, S3 e EventBridge, entre outros.\nExperiência com padrões de projeto e Clean Architecture.\nVivência com bancos de dados SQL e NoSQL.\nFamiliaridade com ferramentas de observabilidade, como Splunk e CloudWatch.\nExperiência com Infra as Code (CloudFormation e Terraform).\nAtuação com versionamento de código utilizando Git.\n\n\n### Contratação\n\nPrazo de contrato: 12 meses (com possibilidade de efetivação)\nRegime: PJ (necessário empresa aberta) ou CLT\n\n### Como se candidatar\n\nPor favor, envie o currículo atualizado com a pretensão de taxa/hora PJ ou CLT para: viviane.pereira@iteam.inf.br\n\n### Tempo médio de feedbacks\n\n1 semana\n\n### Keywords\n\nKotlin\nAWS\nTerraform\nGit\n\n### Alocação\n\n- [X] Alocado\n- [X] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [X] CLT\n- [ ] Estágio\n- [ ] Freela\n- [X] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto",
-      "excerpt": "### Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções espe...",
-      "issueState": "closed",
-      "contentHash": "e85f04a5ac6229829b0e0d0e14adaaa566d4bc7769934d02ab11330395d0e4ad",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "sênior",
-        "júnior",
-        "remoto",
-        "especialista",
-        "presencial"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-03-03T14:45:46Z",
-      "updatedAt": "2026-05-12T02:42:59Z",
-      "url": "https://github.com/backend-br/vagas/issues/12201",
       "sourceType": "github-issue"
     },
     {
