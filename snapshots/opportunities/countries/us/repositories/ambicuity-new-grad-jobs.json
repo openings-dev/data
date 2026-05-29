@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-27T02:42:17.129Z",
+  "generatedAt": "2026-05-29T02:33:18.524Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 13,
+    "opportunities": 12,
     "openIssues": 2,
-    "closedIssues": 11
+    "closedIssues": 10
   },
-  "dataHash": "fab4f4e8ecd7188241c8253c7470242b9fb60c32e635006c22f6a677f74847a3",
+  "dataHash": "00dc0bee80b773061b9f428dbe4392b2439892b1d0dc5f0f6ffa222342a5a69c",
   "items": [
     {
       "id": "gh_6bd2ea87cfb4bbe49569241c",
@@ -188,43 +188,6 @@
       "createdAt": "2026-05-26T21:22:45Z",
       "updatedAt": "2026-05-26T21:30:05Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/305",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_43e9777012c7847f19984cf9",
-      "sourceId": "ambicuity/New-Grad-Jobs#297",
-      "title": "Flaky test: test_unicorn_company can fail when iteration order picks a FAANG+ unicorn",
-      "description": "## Summary\n\n`tests/test_enrichment.py::TestGetCompanyTier::test_unicorn_company` is order-dependent and fails non-deterministically depending on Python's hash randomization.\n\n## Where\n\n`tests/test_enrichment.py` (around lines 140–146):\n\n```python\ndef test_unicorn_company(self):\n    from update_jobs import UNICORNS\n    if UNICORNS:\n        company = next(iter(UNICORNS))\n        result = get_company_tier(company)\n        assert result['tier'] == 'unicorn'\n```\n\n## Why it flakes\n\n`get_company_tier()` in `scripts/update_jobs.py` checks `FAANG_PLUS` **before** `UNICORNS`:\n\n```python\nif company_name in FAANG_PLUS:\n    tier_info = {'tier': 'faang_plus', ...}\nelif company_name in UNICORNS:\n    tier_info = {'tier': 'unicorn', ...}\n```\n\nWhen a company is in **both** sets and ends up first in `iter(UNICORNS)` for a given `PYTHONHASHSEED`, the test asserts `'unicorn'` but receives `'faang_plus'`.\n\nThis was observed in CI on PR #295:\n\n```\nAssertionError: assert 'faang_plus' == 'unicorn'\n  - unicorn\n  + faang_plus\n```\n\nA re-run with a different hash seed passed, confirming flakiness rather than logic regression. PR #295 only changed `normalize_date_string()` and did not touch UNICORNS/FAANG_PLUS at all.\n\n## Proposed fix\n\nPick deterministically from companies that are in `UNICORNS` but **not** in `FAANG_PLUS`:\n\n```python\ndef test_unicorn_company(self):\n    from update_jobs import UNICORNS, FAANG_PLUS\n    unicorn_only = sorted(UNICORNS - FAANG_PLUS)\n    assert unicorn_only, \"Expected at least one unicorn that is not also FAANG+\"\n    result = get_company_tier(unicorn_only[0])\n    assert result['tier'] == 'unicorn'\n```\n\n`sorted(...)` removes set-iteration-order nondeterminism; `UNICORNS - FAANG_PLUS` removes the tier-precedence ambiguity.\n\nSame hardening should be applied to `test_finance_sector_detected` and `test_defense_sector_detected` — those assertions are sector-based (additive, not precedence-gated), so they happen to be safe today, but sorting makes them robust to future refactors.\n\n## Impact\n\n- Spurious CI failures on unrelated PRs (cost: re-runs and reviewer trust).\n- Erodes confidence in the test suite.",
-      "excerpt": "## Summary `tests/test_enrichment.py::TestGetCompanyTier::test_unicorn_company` is order-dependent and fails non-deterministically depending on Python's hash randomization. ## Where `tests/test_enrichment.py` (around ...",
-      "issueState": "closed",
-      "contentHash": "08fc6e4b794a1e20a3122564cf96fca285cfc565570d2ffde7d479605a8f231f",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: bug",
-        "help wanted",
-        "good first issue",
-        "needs-triage",
-        "priority: medium"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-05-26T17:01:06Z",
-      "updatedAt": "2026-05-26T17:14:52Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/297",
       "sourceType": "github-issue"
     },
     {
