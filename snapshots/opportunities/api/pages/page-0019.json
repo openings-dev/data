@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-05-29T06:48:30.521Z",
+  "generatedAt": "2026-05-29T22:25:42.076Z",
   "page": 19,
   "pageSize": 20,
   "nextPage": "api/pages/page-0020.json",
   "ids": [
+    "gh_44c03279d6ff5cc8e80e1514",
     "gh_d2651b95b225f4fe309789d9",
     "gh_e8786de4831962baa72de297",
     "gh_00fe093f0868a67bd653c165",
@@ -22,10 +23,42 @@
     "gh_d9f863df40d8382e5b389168",
     "gh_d4e6810f754311088e0d8d2e",
     "gh_06e5133410ad03bfe789378a",
-    "gh_7bb136dcb096579054341ee1",
-    "gh_3c621670361db2aab9e21860"
+    "gh_7bb136dcb096579054341ee1"
   ],
   "items": [
+    {
+      "id": "gh_44c03279d6ff5cc8e80e1514",
+      "sourceId": "remote-es/remotes#167",
+      "title": "Allow tracking links?",
+      "description": "https://github.com/remote-es/remotes/commit/c75a6f98d58036fce9ecd3351d560df4ca8e71e4 uses a tracking link to identify visits from this site. I think this is nothing very problematic (HTTP referrer more or less provides the same information), but opening a public issue to see if anyone has reasons to adopt a policy to disallow this.\n\nI'll consider that the person submitting that link votes in favor.\n\nI'll keep this open for at least a month.",
+      "excerpt": "https://github.com/remote-es/remotes/commit/c75a6f98d58036fce9ecd3351d560df4ca8e71e4 uses a tracking link to identify visits from this site. I think this is nothing very problematic (HTTP referrer more or less provide...",
+      "issueState": "open",
+      "contentHash": "1d5f55843788b869105b892c43a9255b863f4359171b7e5458bec13e525c3464",
+      "repository": "remote-es/remotes",
+      "repositoryUrl": "https://github.com/remote-es/remotes",
+      "region": "Europe",
+      "country": "Spain",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "alexpdp7",
+        "name": "alexpdp7",
+        "handle": "alexpdp7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
+      },
+      "community": {
+        "id": "remote-es",
+        "name": "remote-es",
+        "avatarUrl": "https://github.com/remote-es.png?size=80",
+        "repository": "remote-es/remotes",
+        "url": "https://github.com/remote-es/remotes"
+      },
+      "createdAt": "2024-10-01T22:55:51Z",
+      "updatedAt": "2024-10-01T22:55:51Z",
+      "url": "https://github.com/remote-es/remotes/issues/167",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d2651b95b225f4fe309789d9",
       "sourceId": "nodejs-tw/jobs#267",
@@ -681,39 +714,6 @@
       "createdAt": "2024-08-08T13:29:37Z",
       "updatedAt": "2024-08-08T13:29:37Z",
       "url": "https://github.com/PHPcomRapadura/Vagas/issues/94",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3c621670361db2aab9e21860",
-      "sourceId": "nerdzao/vagas#175",
-      "title": "PRESENCIAL - 🚀 Vaga: Analista de Projetos de TI (Maxicon) 🚀",
-      "description": "Cadastre-se:https://encurtador.com.br/ZwZ4t\n\n🔍 Principais atividades:\n\nAdministrar e planejar a execução de projetos;\nAcompanhar o escopo e o progresso das rotinas;\nAssegurar que a solução atenda aos requisitos estabelecidos pelo cliente;\nFornecer informações periódicas à gerência, diretores e fábricas sobre entregas e cronogramas de projetos;\nIdentificar os riscos para mitigar impactos e corrigir ações;\nConduzir reuniões de acompanhamento dos projetos e fornecer relatórios aos clientes, apresentando os prazos de entrega.\n\n📋 Requisitos Essenciais:\n\nGraduação completa em TI, Administração, Economia, Contábeis ou áreas afins;\nExperiência com metodologias de gestão de projetos;\nConhecimento sobre métricas de resultados;\nPacote Office.\n\n💡 Diferenciais:\n\nFormação em gestão de projetos ou metodologias ágeis;\nExperiência em Gestão de Projetos.\n\n🎁 Benefícios:\n\nPrograma de capacitação pessoal e profissional;\nPlano de saúde;\nPlano odontológico;\nVale alimentação;\nVale transporte;\nSeguro de vida;\nBônus anual.\n\n🕐 Informações adicionais:\n\nJornada de trabalho de segunda a sexta-feira das 8h às 12h - 13h30 às 18h10.\n🏢 Sobre a empresa:\nA Maxicon Sistemas atua no mercado desde 1999 com o desenvolvimento e venda de softwares, oferecendo soluções específicas para gerenciamento de atividades, proporcionando maior controle, redução de custos e agilidade nos processos, principalmente no agronegócio.\n\n✨ Junte-se a nós e faça parte desse time incrível! ✨\n\n#Oportunidade #VagaDeEmprego #AnalistaDeProjetos #TI #Maxicon #GestãoDeProjetos #Benefícios #Desenvolvimento #Capacitação #Carreira #VemPraMaxicon 🚀👩‍💻👨‍💻\n![analista de projetos](https://github.com/user-attachments/assets/953f2e24-b96f-415a-bc2d-f6dbe3999841)",
-      "excerpt": "Cadastre-se:https://encurtador.com.br/ZwZ4t 🔍 Principais atividades: Administrar e planejar a execução de projetos; Acompanhar o escopo e o progresso das rotinas; Assegurar que a solução atenda aos requisitos estabel...",
-      "issueState": "open",
-      "contentHash": "141f6587698e409d619aec0b47c58fdb5e04a6edddac43e54b5bb01d87b595a7",
-      "repository": "nerdzao/vagas",
-      "repositoryUrl": "https://github.com/nerdzao/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "principal"
-      ],
-      "author": {
-        "id": "folkseloana",
-        "name": "folkseloana",
-        "handle": "folkseloana",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/176680249?v=4"
-      },
-      "community": {
-        "id": "nerdzao",
-        "name": "nerdzao",
-        "avatarUrl": "https://github.com/nerdzao.png?size=80",
-        "repository": "nerdzao/vagas",
-        "url": "https://github.com/nerdzao/vagas"
-      },
-      "createdAt": "2024-08-08T13:24:30Z",
-      "updatedAt": "2024-08-08T13:24:30Z",
-      "url": "https://github.com/nerdzao/vagas/issues/175",
       "sourceType": "github-issue"
     }
   ]

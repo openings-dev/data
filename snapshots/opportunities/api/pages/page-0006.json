@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-05-29T12:10:53.907Z",
+  "generatedAt": "2026-05-29T22:25:42.076Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_08c2b289f0b0fbaf5bd9f142",
+    "gh_23e88f37c8cdd99dec55a249",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_c2842e7382b7b6bf1db541df",
     "gh_ac5c3adefbec0251a86525c4",
@@ -21,11 +23,73 @@
     "gh_4f87440cb18d7065ec28f61e",
     "gh_79546b5940192c13dad52334",
     "gh_8bbc2d1fbf260ff495b6debe",
-    "gh_97c0bf090eea933e04e06647",
-    "gh_a5d2446fe102d2b8b34f94c2",
-    "gh_4e35e3ee4a19594e8247db30"
+    "gh_97c0bf090eea933e04e06647"
   ],
   "items": [
+    {
+      "id": "gh_08c2b289f0b0fbaf5bd9f142",
+      "sourceId": "cncf/gitjobs#383",
+      "title": "Ability to manually assign jobs to a foundation/project after submission",
+      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
+      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
+      "issueState": "open",
+      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamweswilson",
+        "name": "iamweswilson",
+        "handle": "iamweswilson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2026-05-05T18:56:03Z",
+      "updatedAt": "2026-05-06T15:39:22Z",
+      "url": "https://github.com/cncf/gitjobs/issues/383",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_23e88f37c8cdd99dec55a249",
+      "sourceId": "datascience-br/vagas#161",
+      "title": "Engenheiro de Dados ETL/ ELT Sênior na ZUP - 100% remoto",
+      "description": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!**\n\n**O que você fará por aqui**\n\n- Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, garantindo alta performance e qualidade dos dados.\n- Orquestrar rotinas complexas de processamento e integração de dados via AWS Step Functions.\n- Executar análises e validações robustas utilizando SQL e Athena, assegurando integridade e confiabilidade das informações.\n- Colaborar com times multidisciplinares para identificar necessidades de dados e propor soluções técnicas aderentes às demandas do negócio.\n- Investigar falhas, propor e implementar melhorias contínuas na arquitetura e nos processos de dados.\n- Documentar soluções, fluxos de dados e boas práticas para promover o alinhamento técnico entre as equipes.\n\n **O que esperamos que você saiba**\n\n- Excelência em desenvolvimento de pipelines usando PySpark no AWS Glue.\n- Domínio de AWS Step Functions para orquestração de pipelines e agendamento de processos.\n- Sólido conhecimento em SQL para consultas avançadas e validações em grandes volumes de dados.\n- Experiência no uso do Athena para exploração, análise e auditoria de dados.\n- Capacidade de monitorar qualidade dos dados e solucionar problemas complexos em ambientes críticos.\n\n **O que será um diferencial**\n\n- Prática com AWS QuickSight para criação de dashboards e visualização de dados.\n- Conhecimento em estratégias avançadas de monitoramento, observabilidade e automação de processos.\n- Experiência em ambientes de dados altamente regulados (LGPD, GDPR).\n- Familiaridade com novas ferramentas de data engineering no ecossistema AWS (como Lake Formation ou Glue DataBrew).\n- Atuação prévia em projetos de melhoria contínua com foco em performance ou escalabilidade.\n\nUm pouco de nossos beneficios:\n\nPLR : \n🍕 VR/VA Flash R$1.440,00\n📱 Plano de celular Vivo Easy ou Claro com reembolso \n🏡 Auxílio Home Office, ajuda de custo de internet \n📚 Capacitação anual  - a partir do 4º mês - para investir em livros, cursos, palestras. A Zup reembolsa 75% do valor dessas capacitações, dentro desse budget)\n🏥 Plano de Saúde SulAmérica ou Unimed\n🦷 Plano Odontológico SulAmérica\n👶 Auxílio creche / Licença paternidade até 90 dias / Licença maternidade até 180 dias\n⭐ Seguro de vida\n💪 Gympass\n💭 Telavita (psicólogo online com 5 sessões gratuitas por mês)\n💵 Bônus por indicação\n🚀 2 Days Off ao ano e Liberdade para trabalhar de onde quiser\ne mais!\n\n\nCandidate-se  enviando seu currículo para o seguinte email:  kauany.riotinto@zup.com.br\n**No título deve conter seu nome e o da vaga \" Engenheiro de Dados ETL/ELT Sênior\"**",
+      "excerpt": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!** **O que você fará por aqui** - Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, gara...",
+      "issueState": "open",
+      "contentHash": "76a9373fd1a6ec20ac048ad1423a63775d2f5b4f1922beaa564122d929065a50",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "KauanyFD",
+        "name": "KauanyFD",
+        "handle": "KauanyFD",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-05-04T17:18:52Z",
+      "updatedAt": "2026-05-12T12:20:37Z",
+      "url": "https://github.com/datascience-br/vagas/issues/161",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d56bae7c6952a6aa314fa3f2",
       "sourceId": "negarprh/Canadian-Tech-Internships-2026#243",
@@ -685,75 +749,6 @@
       "createdAt": "2026-04-16T10:47:12Z",
       "updatedAt": "2026-04-16T10:47:12Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4923",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a5d2446fe102d2b8b34f94c2",
-      "sourceId": "frontendbr/vagas#8469",
-      "title": "[Remoto] Front-end Developer Pleno na Sensedia",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\n\nA Sensedia é líder no mercado de APIs, oferecendo soluções de integração e consultoria a grandes empresas no Brasil e no mundo, em uma variedade de setores. Seu portfólio, além de uma plataforma API Management, inclui Sensedia Integrations, Service Mesh, API Adaptive Governance, Events Hub, Open Banking & Finance e equipes estratégicas de Professional Services.\n\nTrabalhar aqui é pertencer a uma cultura plural, descontraída e inovadora. É para quem tem coragem de ir além, pensar e agir fora da caixa. Preferimos pedir desculpas ao invés de pedir permissão e estamos sempre dispostos a nos transformar, nos reinventar.\nNossas pessoas são incríveis e você pode fazer parte disso tudo. Nos comprometemos em garantir um ambiente de trabalho acolhedor e respeitoso.\n\n## Descrição da vaga\n\nVocê terá um alto impacto no estado atual e no futuro das nossas soluções com visibilidade para toda empresa, atuando na área de Serviços desenvolvendo novas funcionalidades e produtos utilizando tecnologias como NextJs e Typescript, além de trabalhar com um time de alta performance com Devs, UI/UX, Testers e Arquitetos!\n\n## Local\n\nRemoto\n\n## Requisitos\n\n**Obrigatórios:**\n\n-Ampla experiência em NextJS e seu ecossistema;\n-Experiência na integração de aplicações front-end com APIs;\n-Experiência em Javascript/Typescript;\n-Experiência em CSS e HTML; \n-Experiência em Git; Experiência na escrita de testes unitários;\n-Conhecimentos básicos sobre Swagger.\n\n**Atividades do dia a dia**\n-Implementação de Interfaces: Desenvolver interfaces de usuário complexas e interativas utilizando NextJS, HTML e CSS.\n-Garantir a responsividade e acessibilidade das aplicações para diferentes dispositivos e navegadores.\n-Integração com APIs: Conectar o front-end com APIs RESTful para buscar e enviar dados, utilizando JavaScript/TypeScript. \n-Garantir a correta manipulação e exibição dos dados na interface.\n-Testes Unitários: Escrever testes unitários para garantir a qualidade e robustez do código front-end. Utilizar frameworks de teste para automatizar os testes. \n-Otimização de Performance: Analisar e otimizar o desempenho das aplicações front-end para garantir uma experiência de usuário fluida.\n-Manutenção de Portais WEB: Desenvolver e manter portais web complexos, com grande fluxo de dados, e que tenha responsividade, e mantenha uma boa experiência de navegação do usuário.\n\n**Diferenciais:**\n-Vivência com desenvolvimento de Portais WEB;\n-Conhecimentos sobre micro-frontends;\n-Conhecimento sobre ferramentas de prototipação (Figma);\n-Conhecimentos sobre CI/CD;\n-Conhecimentos em GO;\n-Conhecimento em Espanhol.\n\n## Benefícios\n\nVale Refeição/Vale Alimentação (Cartão Flash benefícios), Plano de Saúde, Plano Odontológico, Seguro de Vida, PPR, TotalPass, Auxílio Creche, Programa Well-Being (destinado para saúde física e mental), Universidade Corporativa (nossa #SensediaAcademy), com diversas trilhas de desenvolvimento; Parceiros culturais e educacionais, com descontos especiais; Somos uma empresa cidadã,  proporcionando licença maternidade e licença paternidade estendida.\n\n## Contratação\n\nModelo CLT (8h por dia)\n\n## Como se candidatar\n\nCandidate-se pelo site: https://sensedia.hire.trakstar.com/jobs/fk0zqt4/\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada processo.\n\n#### Nível\n- Pleno",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
-      "issueState": "open",
-      "contentHash": "63c8eed41a8fc35fe7af7910cad7cf1b7bafa3c5f4b48282bc1aeaefd7c731c3",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "clt",
-        "remoto"
-      ],
-      "author": {
-        "id": "vagas-tech-remote",
-        "name": "vagas-tech-remote",
-        "handle": "vagas-tech-remote",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/269812898?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sensedia",
-      "createdAt": "2026-04-15T12:23:46Z",
-      "updatedAt": "2026-05-05T14:29:49Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8469",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4e35e3ee4a19594e8247db30",
-      "sourceId": "speedyapply/2026-SWE-College-Jobs#35",
-      "title": "Palo Alto Networks New Grad SWE",
-      "description": "### Position Title\n\nSoftware Engineer - Bachelors - New College Grad\n\n### Position Application Link\n\nhttps://app.ripplematch.com/v2/public/job/9f16f671?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github&utm_term=null\n\n### Company Name\n\nPalo Alto Networks\n\n### Company Link\n\nhttps://www.paloaltonetworks.com\n\n### Location\n\nSanta Clara, CA\n\n### Is this a new grad position or an internship?\n\nNew Grad\n\n### Is this position based in the USA?\n\nYes, it's based in the USA.\n\n### Your GitHub Email\n\n_No response_",
-      "excerpt": "### Position Title Software Engineer - Bachelors - New College Grad ### Position Application Link https://app.ripplematch.com/v2/public/job/9f16f671?from_page=company_branded_page&utm_source=Github&utm_medium=organic_...",
-      "issueState": "open",
-      "contentHash": "6899d675200b3e15a56e828743a4f93380a4a51504c67d0106b726421b000a9a",
-      "repository": "speedyapply/2026-SWE-College-Jobs",
-      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "new"
-      ],
-      "author": {
-        "id": "mtlogs",
-        "name": "mtlogs",
-        "handle": "mtlogs",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/117412619?v=4"
-      },
-      "community": {
-        "id": "speedyapply",
-        "name": "speedyapply",
-        "avatarUrl": "https://github.com/speedyapply.png?size=80",
-        "repository": "speedyapply/2026-SWE-College-Jobs",
-        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
-      },
-      "createdAt": "2026-04-14T18:55:14Z",
-      "updatedAt": "2026-04-19T16:03:14Z",
-      "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/35",
       "sourceType": "github-issue"
     }
   ]
