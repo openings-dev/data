@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T06:59:08.943Z",
+  "generatedAt": "2026-05-29T12:10:53.907Z",
   "country": "Vietnam",
   "countryCode": "VN",
   "region": "Asia",
@@ -9,8 +9,47 @@
     "openIssues": 24,
     "closedIssues": 6
   },
-  "dataHash": "a498ad5115bf7fbc579fdb6be06bf7d1c8d5edb063d1eca98875461377716de5",
+  "dataHash": "9044554f325666dd69efc4efd91b8dab7fbb0fb486cd438139c06181fcdb668b",
   "items": [
+    {
+      "id": "gh_dd917afbcd6258ace2a2497e",
+      "sourceId": "awesome-jobs/vietnam#4937",
+      "title": "[Part-time / Async] Senior Code Reviewer — Supply Chain ERP (React + Python + Postgres) · Hanoi preferred · ~5–8 hrs/week",
+      "description": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand forecasting, multi-currency P&L, FX exposure tracking, working capital, cost-per-batch, customer profitability, segregation of duties, and more.\n\nWe are developing the system in-house using AI-assisted coding and are looking for a **senior developer to serve as our ongoing technical reviewer** — not to write code, but to be our second set of eyes and catch issues before they reach production.\n\n**What you would do:**\n- Review pull requests (PRs) or code drops asynchronously (written feedback, no mandatory calls)\n- Flag security vulnerabilities, authentication gaps, and business logic errors\n- Identify AI-generated code failure patterns: missing edge cases, transaction boundary issues, weak input validation\n- Provide structured written feedback categorised by severity: Security / Correctness / Architecture / Performance\n- Occasional architecture discussion at the start of new modules\n\n**Tech stack:**\n- Frontend: React (or Vue TBD)\n- Backend: Python (FastAPI or Django) + PostgreSQL\n- Domain: ERP / supply chain / manufacturing — complex business logic, financial data, multi-currency\n\n**What we are looking for:**\n- 6+ years of hands-on commercial software development experience, ideally with enterprise or ERP-class systems\n- Comfortable reviewing AI-assisted code — knows what patterns to distrust\n- Strong written communication — can prioritise findings clearly, not just leave inline comments\n- Bonus: prior experience in manufacturing, supply chain, or fintech domains\n- Hanoi-based preferred (for occasional in-person sync if needed); fully remote also considered\n\n**Commitment:** ~5–8 hrs/week, async and flexible schedule. Ongoing retainer engagement. Starting date is from mid-June 2026\n\n**Salary:** **400,000–700,000 VND/hour** depending on experience and domain fit.\n\n**To apply:** Send a brief intro + GitHub profile or relevant past work to: **anhluong@qt-hitech.com**. We will then review them and if short-listed send a 200–300 line code sample. If the depth of feedback is right, we proceed to a retainer.",
+      "excerpt": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand fo...",
+      "issueState": "open",
+      "contentHash": "9b9b24a403c090d80340d9c05948fe504f1d3735472d75aae543cb0af3f69499",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "frontend",
+        "backend",
+        "react",
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "AnhQT-hitech",
+        "name": "AnhQT-hitech",
+        "handle": "AnhQT-hitech",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/288850728?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-05-29T08:24:55Z",
+      "updatedAt": "2026-05-29T08:24:55Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_da896600aad0215e0d135ae8",
       "sourceId": "awesome-jobs/vietnam#4936",
@@ -888,45 +927,6 @@
       "createdAt": "2026-03-16T09:07:52Z",
       "updatedAt": "2026-03-16T09:07:52Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4910",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b6ad9f2a9bbc5c9e930223d7",
-      "sourceId": "awesome-jobs/vietnam#4909",
-      "title": "CoverGo - Senior Full Stack Engineer (.Net, Vue/React) - Remote/Hybrid (HCMC) - FT",
-      "description": "## Location\n\n* HCMC, Vietnam (Hybrid)\n* Remote\n\n## Salary Expectation\n\n* Negotiable\n\n## Requirements\n* 6+ years of Software Engineering experience (focus on complex SaaS applications)\n* Proficiency in .NET Core and C#\n* Expertise in Vue.js or React\n* Experience with GraphQL and MongoDB/PostgreSQL\n* Strong knowledge of Docker and Cloud platforms (AWS/Azure/GCP)\n* Mastery of Test-Driven Development (TDD) and Domain-Driven Design (DDD)\n\n## Skills\n\n### Must Have\n\n* Ability to architect scalable and efficient software solutions\n* Experience on complex SAAS applications\n* Excellent problem-solving and proactive troubleshooting skills\n* English proficiency (to work in an international environment)\n\n### Ideally\n\n* Experience in the Insurtech or Fintech industry\n\n### Responsibilities\n\n* Design and implement scalable SaaS features based on insurance business requirements.\n* Work across the full stack to build cohesive and efficient software solutions.\n* Collaborate with cross-functional teams to translate technical concepts into seamless user experiences.\n* Optimize performance to handle large datasets and high user traffic.\n* Review code and write tests to ensure high quality and platform reliability.\n* Investigate and fix bugs promptly to maintain system stability.\n* Ensure security and compliance when handling sensitive customer data.\n* Stay updated with new tech to keep the platform innovative and competitive.\n* Architect for scalability to accommodate a growing number of clients and users.\n* Mentor junior developers to support their technical growth and team contributions.\n\n### Why it would be awesome to work with us\n\n* Competitive renumeration package\n* International Environment\n* 13th month salary\n* 15 days annual leave, 10 sick leave\n* Annual Performance Bonus\n* Company activities and events\n* Learning and development plan\n\n\n### Contact\n\nWebsite: https://covergo.com/\n\nEmail: giang.builam@covergo.com\n\nLinkedIn: https://www.linkedin.com/company/covergo/posts/?feedView=all\n\nCareers: https://apply.workable.com/covergo/?lng=en\n\nApply directy here: \n* Senior Full Stack Engineer (.Net, Vue/React) - Hybrid (HCMC): https://apply.workable.com/covergo/j/323F31C86E/\n* Senior Full Stack Engineer (.Net, Vue/React) - Fully Remote: https://apply.workable.com/covergo/j/CA6C355073/",
-      "excerpt": "## Location * HCMC, Vietnam (Hybrid) * Remote ## Salary Expectation * Negotiable ## Requirements * 6+ years of Software Engineering experience (focus on complex SaaS applications) * Proficiency in .NET Core and C# * E...",
-      "issueState": "open",
-      "contentHash": "f0ad48ba13ee2f805c78ddd9e3db97a8daa79af39e1c0ec3ff63f93b9d4c3220",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "react",
-        "senior",
-        "junior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "giangbui-hazel",
-        "name": "giangbui-hazel",
-        "handle": "giangbui-hazel",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/267902749?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-13T10:48:48Z",
-      "updatedAt": "2026-03-16T03:31:07Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4909",
       "sourceType": "github-issue"
     },
     {
