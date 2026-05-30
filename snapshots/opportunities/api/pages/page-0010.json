@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-05-29T22:25:42.076Z",
+  "generatedAt": "2026-05-30T02:27:40.878Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_8e17475ccce44e680c92068f",
+    "gh_0e5d3a2e3871e6ff6b4f7976",
     "gh_d774a41259f652c1ea370252",
     "gh_26b7c402e14a59e43ad9828b",
     "gh_27ad1c5fa6ae31eaf8210333",
@@ -17,15 +19,91 @@
     "gh_8ac6e6406bab29dc70c10f65",
     "gh_ee6ccd25c3e7ddfabb79530d",
     "gh_03fa03119cda6972a7f24c60",
+    "gh_4dc20dbb42a8bde00d158c2a",
     "gh_4ceaaa1806d1792dbb109bcb",
     "gh_018090ae0b51c7fe869fe122",
     "gh_56647ce0f055e747d42f4222",
-    "gh_f1495b68fe7d4f8349ceb1b6",
-    "gh_bf09c7d748b34bd02d2443a5",
-    "gh_90da04043225a0b75c5b63f5",
-    "gh_7895541ae68ea62e3538ba5f"
+    "gh_f1495b68fe7d4f8349ceb1b6"
   ],
   "items": [
+    {
+      "id": "gh_8e17475ccce44e680c92068f",
+      "sourceId": "soujava/vagas-java#1858",
+      "title": "[REMOTO] Desenvolvedor(a) Java Pleno na DB1",
+      "description": "## Descrição da vaga\n<!-- Informe mais detalhes sobre a vaga --> \n\nVocê será o responsável por participar das definições e evoluções da arquitetura de software, garantindo eficiência, escalabilidade  e segurança além, claro, do alinhamento com as necessidades do negócio e as melhores práticas de engenharia.\n\n## Local\n\nRemoto ou Escritório, São Paulo - Vila Olímpia\n\n## Benefícios\n\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nCrédito Consignado com as melhores taxas (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n## Diferenciais\n\n- 2 horas de almoço\n- Monte a sua máquina como desejar\n- Frigobar sempre cheio :P\n- Sala de jogos\n...\n\n## Requisitos\n\n#### Obrigatórios:\n<!-- Adicione os detalhes obrigatórios para a vaga -->\n\nPerfil que buscamos:\n\nExperiência com integração de API's (REST, SOAP e GraphQL) para o contexto de ERP (módulos pedido/produto/estoque) e Plataforma (e-commerce);\nExperiência com Java, Spring Boot, Angular (JS e 2+) e Liquibase;\nConhecimento avançado em Design Pattern, SOLID, Clean Code e Segurança;\nConhecimento em arquitetura distribuída com AWS, NGINX, Docker e Kubernetes;\nConhecimento em observabilidade de software com ferramentas como Kibana e/ou Grafana;\nConhecimento em fluxo de trabalho com Git e GitFlow;\nConceito de mensageria com ActiveMQ e Kafka;\nConceito de banco de dados com PostgreSQL, MongoDB e Redis; e\nExperiência no uso de Inteligência Artificial aplicado a rotina no trabalho.\n\n\n## Contratação\n\n- clt\n\n## Nossa empresa\n\nAqui na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldada por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n\n## Como se candidatar\n\nhttps://db1.inhire.app/vagas/707f0860-989b-4bd1-83ef-7168b4e81484/desenvolvedora-java-pleno?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n\n\n#### Nível\n\n- Especialista",
+      "excerpt": "## Descrição da vaga <!-- Informe mais detalhes sobre a vaga --> Você será o responsável por participar das definições e evoluções da arquitetura de software, garantindo eficiência, escalabilidade e segurança além, cl...",
+      "issueState": "open",
+      "contentHash": "f87723bc0449378e532c04f0d893d275f53e0a52fe0a23fa4dbada395555ce70",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "remoto",
+        "rest",
+        "spring",
+        "angular",
+        "docker",
+        "soap"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "DB1",
+      "createdAt": "2026-02-03T14:14:33Z",
+      "updatedAt": "2026-05-22T17:12:34Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1858",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0e5d3a2e3871e6ff6b4f7976",
+      "sourceId": "frontendbr/vagas#8433",
+      "title": "[Remoto] Desenvolvedor(a) Fullstack Pleno (Java e React + TypeScript) | Foco em Frontend na DB1",
+      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n\n## Descrição da vaga\n\nEstamos buscando um(a) Desenvolvedor(a) fullstack para atuar no WinnerBox, uma plataforma inteligente que ajuda vendedores de marketplaces a venderem mais e melhor, com automação, dados e tecnologia de ponta. Aqui você vai construir soluções escaláveis, performáticas e com impacto real no e-commerce brasileiro. Se você gosta de resolver problemas complexos, transformar design em produto e também entende o que acontece “atrás do front”, o seu lugar pode ser aqui.\n\n## Local\n\nRemoto\n\n## Requisitos\n\nO que você vai fazer por aqui: \n\nDesenvolver interfaces modernas, intuitivas e responsivas com ReactJS + TypeScript\nCriar e manter componentes reutilizáveis seguindo boas práticas de UI/UX e design system (Ant Design)\nDesenvolver e manter serviços back-end, com foco em boas práticas, performance e segurança\nIntegrar front e back-end, garantindo fluxos consistentes e bem estruturados\nParticipar de discussões de arquitetura e decisões técnicas com o time de engenharia e produto\nPropor melhorias contínuas em usabilidade, performance, estrutura de código e processos de desenvolvimento\nPerfil que buscamos:\n\nExperiência com ReactJS e TypeScript;\nExperiência com integração entre front e back-end;\nVivência com APIs RESTful (consumo e desenvolvimento);\nConhecimento em Java ou .Net;\nNoções de arquitetura web, mensageria (RabbitMQ, SQS, etc.) e bancos relacionais (PostgreSQL);\nFamiliaridade com UI/UX e boas práticas de componentização.\n\n## Benefícios\n\n- Plano de saúde\n- Seguro de vida\n- VR de R$ X/dia\n- Auxílio creche\n- ...\n\n**Diferenciais:**\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nLink: https://db1.inhire.app/vagas/723d0b3f-00b5-4150-a63f-bf70778fe0c7/desenvolvedora-fullstack-pleno-java-e-react-typescript-or-foco-em-frontend?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n\n- Pleno",
+      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
+      "issueState": "open",
+      "contentHash": "ce6230de66796ab62ba45ff9f6bb357a757b15f245bc280201816984c1bf6216",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "clt",
+        "remoto",
+        "stale"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "DB1",
+      "createdAt": "2026-02-03T14:00:43Z",
+      "updatedAt": "2026-05-30T02:12:12Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8433",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d774a41259f652c1ea370252",
       "sourceId": "EtherTW/jobs#74",
@@ -490,6 +568,46 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_4dc20dbb42a8bde00d158c2a",
+      "sourceId": "frontendbr/vagas#8419",
+      "title": "[Híbrido] Front-end Developer no BTG Pactual",
+      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\n\nQue tal ter a chance de ser dono do seu próprio negócio dentro de uma empresa sólida e com mais de 40 anos de história? No BTG valorizamos espírito empreendedor, autonomia, agilidade, foco no cliente, excelência e visão de longo prazo. Agimos com integridade, responsabilidade, simplicidade, inconformismo e dedicação.\n\nMeritocracia está no centro do nosso dia a dia. Temos um escritório open space e uma estrutura horizontal onde você vai conversar com os melhores profissionais de mercado e ter desafios reais e diários.\n\n## Descrição da vaga\n\nNosso time é responsável pelos portais da plataforma de varejo digital do BTG Pactual Empresas. Desenvolvemos soluções inovadoras que oferecem um diferencial competitivo para nossos clientes e para o mercado. Trabalhamos em estreita colaboração com o time de negócios, promovendo agilidade e eficiência nas decisões. Somos uma equipe dinâmica e versátil, comprometida com entregas de alta qualidade e escalabilidade. Valorizamos o aprendizado contínuo, o esforço e o trabalho em equipe. \n\n## Local\n\nHíbrido em nosso escritório da Avenida Brigadeiro Faria Lima, São Paulo.\n\n## Requisitos\n\n**Obrigatórios:**\n- Graduação superior completa em Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou áreas relacionadas. \n- Mais de 3 anos de experiência em desenvolvimento de software com foco em frontend (HTML5, CSS3, TypeScript e React). \n- Familiaridade com ferramentas de construção modernas como Vite e Webpack. \n- Forte habilidade de comunicação escrita e verbal, capaz de se comunicar eficazmente com lideranças, clientes e áreas de negócio. \n- Compromisso com a melhoria contínua da experiência do usuário. \n- Habilidade de se destacar em um ambiente colaborativo e dinâmico. \n\n**Desejáveis:**\n- Experiência com design responsivo e otimização de performance. \n- Conhecimento em práticas de acessibilidade. \n- Conhecimento profundo das \"Rules of React\" e melhores práticas de desenvolvimento com React. \n- Experiência com práticas modernas de CI/CD e DevOps. \n- Apreciação pela importância de uma boa documentação e testes automatizados. \n\n**Diferenciais:**\n- Experiência com backend, especialmente em Elixir ou C#\n\n## Benefícios\n\n- Participação nos Lucros e Resultados (PLR);\n- Auxílio Alimentação e Refeição;\n- Plano Médico;\n- Plano Odontológico;\n- Auxílio Creche/Babá;\n- Vale Transporte;\n- WellHub;\n- TotalPass;\n- Programa de Apoio Pessoal (EAP);\n- Planos por adesão como Previdência Privada e Seguro de Vida;\n- Desconto em Farmácia;\n- Programa de Nutrição;\n- Programa de Gestantes;\n- Licença Maternidade e Paternidade Estendida – empresa Cidadã.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nhttps://carreiras.btgpactual.com/vagas/tech-development/engenheiro-a-de-software-frontend-pleno-a-senior-react-it-btg-empresas/5481752004\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n\n#### Nível\n- Pleno\n- Sênior\n- Especialista",
+      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
+      "issueState": "open",
+      "contentHash": "5002b5c960489d9cf99d723325fd0ace6fb91dac7eaa9efc608fa7c299beea8c",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "clt",
+        "são paulo",
+        "especialista",
+        "stale",
+        "híbrido"
+      ],
+      "author": {
+        "id": "ianzitow",
+        "name": "ianzitow",
+        "handle": "ianzitow",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2258901?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "BTG Pactual",
+      "createdAt": "2026-01-08T12:44:57Z",
+      "updatedAt": "2026-05-30T02:12:14Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8419",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_4ceaaa1806d1792dbb109bcb",
       "sourceId": "react-brasil/vagas#2994",
       "title": "[Remote] Full Stack Developer na Devvo Tecnologia",
@@ -629,113 +747,6 @@
       "createdAt": "2025-12-31T09:25:54Z",
       "updatedAt": "2025-12-31T09:28:08Z",
       "url": "https://github.com/didtheyghostme/Singapore-Summer2026-TechInternships/issues/1",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bf09c7d748b34bd02d2443a5",
-      "sourceId": "react-brasil/vagas#2993",
-      "title": "Vaga: Desenvolvedor(a) Frontend Júnior – React.js",
-      "description": "# 🚀 Vaga: Desenvolvedor(a) Frontend Júnior – React.js\n\n## Sobre a empresa\nA **contabilidade.com** é uma empresa de tecnologia focada em criar software contábil para simplificar a vida de empreendedores no Brasil. Somos um time pequeno, enxuto e altamente colaborativo, onde produto e engenharia trabalham juntos diariamente.\n\nAqui você vai ter contato com um **produto real em produção**, aprender como decisões técnicas impactam clientes de verdade e evoluir junto com o time.\n\n---\n\n## 🎯 O que você vai fazer\n- Desenvolver interfaces usando **React.js**\n- Trabalhar com componentes reutilizáveis, props e estado\n- Consumir **APIs REST**\n- Ajustar layouts e estilos seguindo design e UX\n- Participar de **code reviews** e aprender padrões do time\n- Versionar código usando **Git**\n\n> 💡 Esta é uma vaga **júnior**. Existe uma curva de aprendizado clara e você terá acompanhamento, mas também precisará estudar e evoluir com autonomia.\n\n---\n\n## ✅ Requisitos obrigatórios\n- Conhecimento básico em **HTML, CSS e JavaScript**\n- Noções iniciais de **React.js** (componentes, props, estado)\n- Vontade real de aprender e evoluir tecnicamente\n- Boa comunicação e abertura para feedback\n- Organização e responsabilidade com prazos\n\n---\n\n## ⭐ Diferenciais (não obrigatórios)\n- Projetos pessoais ou cursos em React\n- Noções de consumo de API (`fetch`, `axios`)\n- Conhecimento básico de **Git/GitHub**\n- Interesse em boas práticas e performance frontend\n\n---\n\n## 📚 O que você vai aprender aqui\n- React aplicado em **ambiente de produção**\n- Organização de projetos frontend reais\n- Integração frontend ↔ backend\n- Build, deploy e ambientes com **Cloudflare**\n- Como o frontend impacta métricas de negócio e experiência do usuário\n\n---\n\n## 💼 Modelo de trabalho\n- 💻 **Remoto**\n- 🕘 Horário comercial\n- 📄 Contrato PJ\n\n\n---\n\n## 📩 Como se candidatar\nEnvie seu **CV ou LinkedIn**, para **talentos@contabilidade.com** incluindo:\n- Um breve resumo da sua experiência\n- Links de projetos (GitHub, portfólio ou similares)\n\n---\n\nSe você quer sair do básico, aprender React de verdade e trabalhar em um produto real, essa vaga é para você 🚀",
-      "excerpt": "# 🚀 Vaga: Desenvolvedor(a) Frontend Júnior – React.js ## Sobre a empresa A **contabilidade.com** é uma empresa de tecnologia focada em criar software contábil para simplificar a vida de empreendedores no Brasil. Somo...",
-      "issueState": "open",
-      "contentHash": "960c3e75f18f5d29f0ba4ea0323007913152af03a2fa0662c00998fba2c44cbd",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto",
-        "⚖️ pj",
-        "👦 junior"
-      ],
-      "author": {
-        "id": "marcelosv",
-        "name": "marcelosv",
-        "handle": "marcelosv",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8119208?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2025-12-30T13:45:25Z",
-      "updatedAt": "2026-05-25T20:06:58Z",
-      "url": "https://github.com/react-brasil/vagas/issues/2993",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_90da04043225a0b75c5b63f5",
-      "sourceId": "f2etw/jobs#1163",
-      "title": "[徵才][台北] 期天資訊 React 前端工程師",
-      "description": "**職缺: 前端工程師**\n\n**能力經歷要求:**\n\n* 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js)\n* 基礎 UI / UX 設計規劃能力\n* 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整\n* 獨立自主學習能力，積極主動\n\n**工作內容：**\n\n開發與維護 React TypeScript 相關專案，包含但不限於：\n\n* 金融交易數據可視化界面 UI/UX\n* 程式交易管理系統\n* 上線金流串接與會員管理系統\n* 電子商務前後台管理系統\n\n**適合此職缺的人格特質：**\n\n* 對金融投資有興趣 (台股期權為主)\n* 喜歡理解新事物，能快速動手實做\n* 善於安排任務優先順序，能靈活應變各類狀況\n* 客戶導向思維，釐清並解決實際問題 (非單純以程式面向考量)\n\n**不適合此職缺的人格特質：**\n\n* 只喜歡獨自埋頭寫程式，排斥溝通討論\n* 不喜歡接觸客戶 ( email / 線上會議 / 實體拜訪)\n* 數字敏銳度低或邏輯推理較差\n\n**薪資(月薪):** 50,000 - 80,000\n\n\n**工作環境與該職缺團隊介紹:**\n\n團隊規模約10人，屬於年輕新創小公司風格，組織扁平，每個人都具有影響力。主要產品為證券期貨交易相關資訊系統，提供即時量化數據網站及自動化程式交易相關技術，客戶包含國內多家大型證券期貨商、顧問公司等。\n\n**工作福利:**\n\n* 職務上手熟悉後，可視情況每週1-2天遠端 WFH\n* 每週兩天免費午餐，另有不定時老闆請客聚餐\n* 各式零食咖啡飲料\n* 每週團體運動時間 (目前是2小時羽球)\n* 公司有兩隻貓會不定時跑來蹭你 (?)\n\n**公司分紅與獎金:** 依年度盈餘及個人考績分紅\n\n**聯絡方式:** Cory / service@futures-ai.com",
-      "excerpt": "**職缺: 前端工程師** **能力經歷要求:** * 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js) * 基礎 UI / UX 設計規劃能力 * 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整 * 獨立自主學習能力，積極主動 **工作內容：** 開發與維護 React TypeScript 相關專案，包含但不限於： * 金融交易數據可視化界面 UI/UX *...",
-      "issueState": "open",
-      "contentHash": "c6211660e67dd99ff6f3718043a8fb2cf05d0b43e925ff1940932d0338810b0f",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "缺休假資訊",
-        "求才",
-        "[b] nodejs",
-        "[f] react",
-        "缺特/彈休資訊",
-        "[f] typescript"
-      ],
-      "author": {
-        "id": "cory8249",
-        "name": "cory8249",
-        "handle": "cory8249",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7524724?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2025-12-20T08:51:33Z",
-      "updatedAt": "2025-12-20T10:19:07Z",
-      "url": "https://github.com/f2etw/jobs/issues/1163",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7895541ae68ea62e3538ba5f",
-      "sourceId": "datascience-br/vagas#155",
-      "title": "Cientista de Dados - Remoto",
-      "description": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto confiam suas necessidades de TI à Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na seguinte vaga: Cientista de Dados - Remoto.\n\n\n\nO que oferecemos a você:\n- Assistência médica sem desconto para titulares;\n- Assistência odontológica sem desconto para titulares;\n- Cartão flex tanto para alimentação quanto refeição;\n- Auxílio home office para vaga remota;\n- Vale transporte para posições presenciais ou híbridas;\n- Auxílio creche;\n- Seguro de vida;\n- Desconto em terapia: plataforma de apoio psicossocial;\n- Parceria com instituições de ensino;\n- Parceria com escolas de idiomas;\n- Programa de subsídio para aulas de inglês;\n- Programa de indicações: prêmio para indicações bem-sucedidas;\n- Licença maternidade estendida de 180 dias e a licença paternidade de 20 dias;\n- Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, LinkedIn Learning e Udemy, que possui mais de 80.000 cursos disponíveis;\n- GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, trabalhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics!\n\n\nO que esperar desta posição:\n\nProjeto de desenvolvimento e melhorias em sistemas bancários.\n\n\nO que esperamos de você:\n\nConhecimentos:\n\nProgramação;\nTratamento de Dados.\nLinguagens:\n\nPython;\nPySpark;\nSQL.\nFerramentas:\n\nBig Data:\n\nHUE;\nHive;\nSpark (SparkML);\nNIFI.\nBanco de Dados:\n\nDB2;\nMySQL;\nOracle;\nDbeaver (Ferramenta de Consulta).\nModelagem de Dados (Erwin)\nVersionamento de código (Git)\nDashboards:\n\nSpotfire;\nPower BI.\nCiência de Dados\n\nManipulação de Dados;\nVisualização de Dados;\nEstatística;\nModelagem Preditiva;\nInteligência Artificial\nIA Generativa\nMachine Learning.\n\n\nO que fazer em seguida:\n\nCaso você seja a pessoa que estamos procurando, aguarde nosso contato para te conhecermos melhor e siga as instruções durante o processo seletivo.Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail recrutamento@getronics.com.",
-      "excerpt": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendime...",
-      "issueState": "open",
-      "contentHash": "eee6e40f0735f41aad5928f7243598417b9571db1d87b3e93ac6d4bcdbadba00",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "bellaharashi",
-        "name": "bellaharashi",
-        "handle": "bellaharashi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/176301649?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-12-10T17:26:51Z",
-      "updatedAt": "2025-12-26T20:51:18Z",
-      "url": "https://github.com/datascience-br/vagas/issues/155",
       "sourceType": "github-issue"
     }
   ]
