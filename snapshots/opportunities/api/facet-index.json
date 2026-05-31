@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T02:43:50.028Z",
+  "generatedAt": "2026-05-31T16:01:42.265Z",
   "dimensions": {
     "repositories": {
       "tramcar/awesome-job-boards": [
@@ -2441,7 +2441,6 @@
         "gh_da896600aad0215e0d135ae8",
         "gh_1f61de8de06b483a9a82d5f4",
         "gh_96749c04b2a41cefede1f9cb",
-        "gh_262eabf57dbe027b02b3c2f8",
         "gh_427fe4c4ee690d96355b4367",
         "gh_c6373fbb2bb5e024c192d8af",
         "gh_e9b4a283834e5996e763f1fd",
@@ -3394,7 +3393,6 @@
       "frontend": [
         "gh_dd917afbcd6258ace2a2497e",
         "gh_da896600aad0215e0d135ae8",
-        "gh_262eabf57dbe027b02b3c2f8",
         "gh_af7c82b8f35c4d3f791a1a39",
         "gh_f5a0b73442c552104a3eaf13",
         "gh_18aeb84c7b8ace6d5be56e77",
@@ -3855,7 +3853,6 @@
       ],
       "typescript": [
         "gh_b03b3f7f6aecea6acd0cdc74",
-        "gh_262eabf57dbe027b02b3c2f8",
         "gh_e9b4a283834e5996e763f1fd",
         "gh_c6ea6f26ee3637c83a93d6bc",
         "gh_28db0fa4dd1c9d5a8a8953f3",
@@ -4073,6 +4070,7 @@
       ],
       "git": [
         "gh_96749c04b2a41cefede1f9cb",
+        "gh_262eabf57dbe027b02b3c2f8",
         "gh_2d9849eace549284f519bf16",
         "gh_0e939645dba1b1336b9aa8b7",
         "gh_b8c97ddfaf8d7d5e0b19956c",
@@ -4090,6 +4088,15 @@
         "gh_e040318067d6d162f0f9233e",
         "gh_afa84ea7b65268fc1ca33299",
         "gh_781ec4a1e281c13c2f1fc5c5"
+      ],
+      "f-typescript": [
+        "gh_262eabf57dbe027b02b3c2f8",
+        "gh_90da04043225a0b75c5b63f5",
+        "gh_560fa03e22a9d3d2cae9ae33"
+      ],
+      "f-vue-js": [
+        "gh_262eabf57dbe027b02b3c2f8",
+        "gh_c51cad7207f84d39bb00f426"
       ],
       "asp": [
         "gh_2d9849eace549284f519bf16"
@@ -4528,10 +4535,6 @@
         "gh_90da04043225a0b75c5b63f5",
         "gh_560fa03e22a9d3d2cae9ae33"
       ],
-      "f-typescript": [
-        "gh_90da04043225a0b75c5b63f5",
-        "gh_560fa03e22a9d3d2cae9ae33"
-      ],
       "documentation": [
         "gh_5f1c8b18033011026ee64886"
       ],
@@ -4552,9 +4555,6 @@
       "beginner": [
         "gh_d193c4164f738b737229e88e",
         "gh_73a9d95e468f9863bc02ef3e"
-      ],
-      "f-vue-js": [
-        "gh_c51cad7207f84d39bb00f426"
       ],
       "java-spring": [
         "gh_926f3c14cae6e82e67bdbdbf"
@@ -6478,6 +6478,8 @@
       "mongodb": "mongodb",
       "git": "git",
       "azure": "azure",
+      "f-typescript": "[f] typescript",
+      "f-vue-js": "[f] vue.js",
       "asp": "asp",
       "ci-cd": "ci/cd",
       "clt": "clt",
@@ -6526,14 +6528,12 @@
       "full": "full stack",
       "f-react": "[f] react",
       "b-nodejs": "[b] nodejs",
-      "f-typescript": "[f] typescript",
       "documentation": "documentation",
       "sap": "sap",
       "remotely": "work remotely",
       "b-java": "[b] java",
       "hibrido-av-paulista-sao-paulo-sp": "híbrido - av. paulista - são paulo/sp",
       "beginner": "beginner",
-      "f-vue-js": "[f] vue.js",
       "java-spring": "java (spring",
       "c#": "c#",
       "sao-paulo-barueri": "são paulo - barueri",
