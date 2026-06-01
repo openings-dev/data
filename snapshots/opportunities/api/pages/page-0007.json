@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-01T14:54:22.832Z",
+  "generatedAt": "2026-06-01T19:54:07.993Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_57ed728934c67b37c0bed798",
+    "gh_615cd5b5c01016e20e631b0c",
     "gh_4f87440cb18d7065ec28f61e",
     "gh_79546b5940192c13dad52334",
     "gh_8bbc2d1fbf260ff495b6debe",
@@ -21,11 +23,79 @@
     "gh_c19e786d010bd878cb453ffe",
     "gh_632e3cff225dd33d1da10628",
     "gh_cb460a994692de5cafcca4d8",
-    "gh_30f0a846c8602a68cd49db8d",
-    "gh_bebc4c633e728a987497ecda",
-    "gh_dcdf78cbd3dbfc81b414065f"
+    "gh_30f0a846c8602a68cd49db8d"
   ],
   "items": [
+    {
+      "id": "gh_57ed728934c67b37c0bed798",
+      "sourceId": "qa-brasil/vagas#1250",
+      "title": "[100% Remoto] QA Jr na Codeleap",
+      "description": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap.\n\nEssa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática trabalhando com produtos reais e clientes internacionais.\n\nNo dia a dia, você vai testar aplicações web e mobile, identificar bugs, garantir a qualidade das entregas e trabalhar próximo de desenvolvedores e produto.\n\n## Local de trabalho\n\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência inicial com testes manuais (projetos pessoais, acadêmicos ou profissionais)\n- Inglês intermediário (leitura e escrita para documentação e bug reports)\n- Noção básica de desenvolvimento web/mobile (especialmente React / React Native)\n- Boa comunicação e vontade de aprender\n\n**Desejáveis**\n- Conhecimento básico em testes automatizados\n- Experiência com organização de casos de teste e documentação\n- Interesse em produto e experiência do usuário\n\n**Diferenciais**\n- Experiência prévia em projetos reais (mesmo que pequenos)\n- Perfil detalhista e curioso\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Trabalho 100% remoto\n- Horário flexível\n- Ambiente colaborativo e informal\n\n**Diferenciais**\n- Projetos reais com clientes internacionais (UK/EU)\n- Crescimento rápido com possibilidade de assumir mais responsabilidades\n- Mentoria e feedback constante\n- Aulas semanais de conversação em inglês\n- Bônus por performance (possibilidade de 13º e 14º salário)\n\n## Range Salarial\n\nA vaga paga entre R$2.000,00 e R$3.000,00 reais.\n\n## Sobre a empresa\n\nA CodeLeap é uma software house com base em Londres, trabalhando com clientes internacionais. Somos um time pequeno, focado em qualidade, aprendizado constante e desenvolvimento rápido dos nossos membros.\n\n## Como se candidatar\n\n- Candidatar através do formulário:\nhttps://docs.google.com/forms/d/e/1FAIpQLScMTarmAMcuEt51vYXX_5RGS4AfsYQD_kqDWaqgRkMf5uRxyQ/viewform\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada etapa do processo.\n\nE-mail para contato em caso de dúvidas: vini.garcia@codeleap.co.uk\n\n## Labels\n\n- PJ\n- Júnior\n- Remoto\n- Exterior\n```",
+      "excerpt": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap. Essa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática tra...",
+      "issueState": "open",
+      "contentHash": "ffc66f263900c7bb2c29f235523a4a5951900b595da1d4d24073a35871374c71",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "remoto",
+        "estágio",
+        "exterior",
+        "júnior",
+        "inglês"
+      ],
+      "author": {
+        "id": "dudamassena",
+        "name": "dudamassena",
+        "handle": "dudamassena",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/278477713?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Trabalho 100% remoto",
+      "createdAt": "2026-04-22T17:49:17Z",
+      "updatedAt": "2026-04-24T19:07:27Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1250",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_615cd5b5c01016e20e631b0c",
+      "sourceId": "timqian/open-source-jobs#173",
+      "title": "Feature: Add Email Alert for Recent Update",
+      "description": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "excerpt": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "issueState": "open",
+      "contentHash": "a8ef46de2f893b78eb34cc3076865df60ce7da46346945d3f344be7848c5c7eb",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamkalio",
+        "name": "iamkalio",
+        "handle": "iamkalio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89003403?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-04-21T10:30:11Z",
+      "updatedAt": "2026-04-21T10:30:30Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/173",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_4f87440cb18d7065ec28f61e",
       "sourceId": "awesome-jobs/vietnam#4924",
@@ -677,79 +747,6 @@
       "createdAt": "2026-03-26T07:58:31Z",
       "updatedAt": "2026-05-05T07:46:19Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4917",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bebc4c633e728a987497ecda",
-      "sourceId": "programadores-br/geral#3062",
-      "title": "[Remoto] Full Cycle Developer (Júnior) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-junior-181053786?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos contratando: **Pessoa Desenvolvedora Full Cycle**\n\nQuer fazer parte de um time que está transformando a logística por meio da tecnologia? Se você é apaixonado(a) por desenvolvimento, gosta de desafios e quer participar da construção de soluções que geram impacto real no negócio, essa oportunidade pode ser para você!\n\n**O que você vai fazer no dia a dia:**\n\nAtuar em todas as etapas do ciclo de desenvolvimento, desde a modelagem da solução até o acompanhamento em produção; Desenvolver soluções de ponta a ponta, colaborando com equipes multidisciplinares; Contribuir ativamente para a transformação digital da logística, elevando o nível de qualidade e eficiência dos nossos processos; Participar da construção de produtos e soluções inovadoras com impacto direto na operação.\n\n**O que oferecemos:**\n\n*   Ambiente promissor para crescimento pessoal e profissional;\n    \n*   Contato direto com um time de tecnologia altamente qualificado;\n    \n*   Espaço para inovação, aprendizado contínuo e desenvolvimento de carreira.\n    \n\nSe você gosta de desafios, inovação e quer crescer junto com um time que está construindo o futuro da logística, queremos conhecer você!\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n## Benefícios: \n - É disponibilizado o Onhappy\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Júnior) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-junior-181053786?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "2db107fd7de29e405970e9c3ba23585059ebee6ae10b1dd8b67f862aee7feaed",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "júnior",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-25T18:12:49Z",
-      "updatedAt": "2026-03-25T18:13:20Z",
-      "url": "https://github.com/programadores-br/geral/issues/3062",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dcdf78cbd3dbfc81b414065f",
-      "sourceId": "programadores-br/geral#3061",
-      "title": "[Hibrido / São Paulo, Brasil] Coordenador de TI - OPS na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/coordenador-de-ti-ops-141323084?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nNa Namu, startup em crescimento, você será peça-chave na evolução dos nossos processos de OPS.\n\nBuscamos uma pessoa para **Coordenar nossos processos OPS**, para atuar em um ambiente colaborativo e com autonomia:\n\n*   Coordenar e supervisionar o desenvolvimento e a sustentação de aplicações;\n    \n*   Distribuir e acompanhar demandas da equipe técnica, garantindo prazos e qualidade;\n    \n*   Apoiar a implementação de sistemas com foco em disponibilidade e continuidade;\n## Namu: \n <p>Começamos nossa trajetória em 2013 com o Portal Namu e desde então nos tornamos uma referência na produção de conteúdo multimídia de bem-estar. Temos a yoga, o pilates e a gastronomia como as principais vertentes da empresa, e mais de 8 milhões de páginas visualizadas compartilhamos ensinamentos em aulas, entrevistas e palestras com as maiores referências nacionais e internacionais. O grande sucesso das aulas de yoga, pilates e gastronomia, com mais de 10 milhões de visualizações no YouTube nos inspirou a criar o Namu Cursos, a primeira plataforma brasileira de cursos online completamente focada em uma vida equilibrada.</p>\n<p>Em pouco mais de um ano construímos um portfólio que oferece a oportunidade e comodidade de praticar yoga onde e quando você quiser, com mais de 87 horas de aulas divididas entre 35 cursos. Os cursos são ministrados por professores de referência no Brasil que, em vários anos de estudos e experiência nas melhores escolas ou com os Gurus ao redor do mundo, se capacitaram para ensinar de forma didática e com preço acessível.</p>\n\n ## Habilidades: \n - API REST \n- CI/CD \n- Gestão \n- GIT \n- MySQL \n- Node \n- React \n- React Native\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Experiência em coordenação técnica e operações de TI; \n- Domínio de desenvolvimento web e mobile com backend (Node.js) e frontend (React Native/React); \n- Experiência com APIs REST, MySQL, Git e CI/CD; \n- Vivência com metodologias ágeis (Scrum/Kanban);\n## Diferenciais: \n - Experiência com SRE e ambientes de alta disponibilidade; \n- Certificações em ITIL (gestão de serviços de TI), Agile ou Cloud (AWS);\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Coordenador de TI - OPS na Namu](https://coodesh.com/jobs/coordenador-de-ti-ops-141323084?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nGestão",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "676bbb1ece2f961e849df4c6590a4406daa46c4d57c7a506c34bef39bdc1b3d2",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "pj",
-        "backend",
-        "frontend"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-25T14:49:07Z",
-      "updatedAt": "2026-03-25T14:49:41Z",
-      "url": "https://github.com/programadores-br/geral/issues/3061",
       "sourceType": "github-issue"
     }
   ]
