@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T02:50:05.523Z",
+  "generatedAt": "2026-06-02T07:20:00.390Z",
   "schemaVersion": 2,
-  "dataHash": "c9364930f4b89550f3fd58865f53b4ac7cb8534cfa2425dab963f20d3c619099",
+  "dataHash": "bb06e9c8f8b7ae7cfae36e2604cca64a364864e167f815a5d8f8045a64774a1e",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2027,
+    "opportunities": 2029,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -63,6 +63,7 @@
       "api/jobs/26.json",
       "api/jobs/27.json",
       "api/jobs/28.json",
+      "api/jobs/29.json",
       "api/jobs/2a.json",
       "api/jobs/2b.json",
       "api/jobs/2c.json",
@@ -230,8 +231,8 @@
       "api/jobs/d5.json",
       "api/jobs/d6.json",
       "api/jobs/d7.json",
+      "api/jobs/d8.json",
       "api/jobs/d9.json",
-      "api/jobs/da.json",
       "api/jobs/db.json",
       "api/jobs/dc.json",
       "api/jobs/dd.json",
@@ -306,6 +307,7 @@
       "api/pages/page-0033.json",
       "api/pages/page-0034.json",
       "api/pages/page-0035.json",
+      "api/pages/page-0036.json",
       "api/search-index.json"
     ]
   },
@@ -346,8 +348,8 @@
       "region": "South America",
       "opportunities": 1186,
       "repositories": 64,
-      "openIssues": 380,
-      "closedIssues": 806,
+      "openIssues": 383,
+      "closedIssues": 803,
       "indexFile": "countries/br/index.json"
     },
     {
@@ -434,9 +436,9 @@
       "country": "Global",
       "countryCode": "GLOBAL",
       "region": "Global",
-      "opportunities": 256,
+      "opportunities": 257,
       "repositories": 32,
-      "openIssues": 110,
+      "openIssues": 111,
       "closedIssues": 146,
       "indexFile": "countries/global/index.json"
     },
@@ -524,10 +526,10 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 116,
+      "opportunities": 117,
       "repositories": 22,
       "openIssues": 30,
-      "closedIssues": 86,
+      "closedIssues": 87,
       "indexFile": "countries/us/index.json"
     },
     {
@@ -536,8 +538,8 @@
       "region": "Asia",
       "opportunities": 34,
       "repositories": 2,
-      "openIssues": 27,
-      "closedIssues": 7,
+      "openIssues": 33,
+      "closedIssues": 1,
       "indexFile": "countries/vn/index.json"
     }
   ]
