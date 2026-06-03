@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-03T13:11:29.566Z",
+  "generatedAt": "2026-06-03T18:41:49.954Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_676667090fcd5276269492b4",
     "gh_b6ad9f2a9bbc5c9e930223d7",
     "gh_b89dd7ae7dbdb913cfe62232",
     "gh_0f0495da862b94749892e684",
@@ -22,10 +23,44 @@
     "gh_349305368c4768961f805995",
     "gh_cb018f064d1195686d333796",
     "gh_e643051c0833244abfc18c07",
-    "gh_bf70dc9f783bd9e91215da56",
-    "gh_72cc354e7d9c38f999fa902a"
+    "gh_bf70dc9f783bd9e91215da56"
   ],
   "items": [
+    {
+      "id": "gh_676667090fcd5276269492b4",
+      "sourceId": "zapplyjobs/New-Grad-Data-Science-Jobs-2026#1",
+      "title": "SentiLink - Data Scientist, New Grad",
+      "description": "### Job Posting Link\n\nhttps://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408\n\n### Company Name\n\nSentiLink\n\n### Job Title\n\nData Scientist, New Grad\n\n### Location\n\nSan Francisco, CA | Austin, TX | New York, NY | Remote (U.S. only)\n\n### Job Category\n\nData Science/Analytics\n\n### Sponsorship Status\n\nOffers Sponsorship\n\n### Application Status\n\nYes - Open\n\n### Contributor Email (Optional)\n\nliz.woodfield@sentilink.com\n\n### Extra Notes (Optional)\n\n_No response_\n\n### Contributor Checklist\n\n- [x] I have verified this job posting is legitimate and currently open\n- [x] I have checked that this job is not already listed in the repo\n- [x] I confirm this role is U.S.-based or offers U.S.-eligible Remote work\n- [x] I confirm this is an early-to-mid career opportunity (not senior/executive)\n- [x] I have provided accurate information to the best of my knowledge",
+      "excerpt": "### Job Posting Link https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408 ### Company Name SentiLink ### Job Title Data Scientist, New Grad ### Location San Francisco, CA | Austin, TX | New York, NY...",
+      "issueState": "open",
+      "contentHash": "42077f98bd4b35a7cd84150adb87a7bbb85fc2ead0f7095260a954e137c61c9e",
+      "repository": "zapplyjobs/New-Grad-Data-Science-Jobs-2026",
+      "repositoryUrl": "https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "lizwoodfield-del",
+        "name": "lizwoodfield-del",
+        "handle": "lizwoodfield-del",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/268056488?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/New-Grad-Data-Science-Jobs-2026",
+        "url": "https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"
+      },
+      "createdAt": "2026-03-13T23:01:17Z",
+      "updatedAt": "2026-03-13T23:01:17Z",
+      "url": "https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026/issues/1",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b6ad9f2a9bbc5c9e930223d7",
       "sourceId": "awesome-jobs/vietnam#4909",
@@ -735,37 +770,6 @@
       "createdAt": "2026-02-18T13:31:05Z",
       "updatedAt": "2026-02-19T04:01:13Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/162",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_72cc354e7d9c38f999fa902a",
-      "sourceId": "timqian/open-source-jobs#161",
-      "title": "Feature: Enhanced Search & Filtering",
-      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
-      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
-      "issueState": "open",
-      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "codeCraft-Ritik",
-        "name": "codeCraft-Ritik",
-        "handle": "codeCraft-Ritik",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2026-02-18T13:29:12Z",
-      "updatedAt": "2026-02-19T04:01:20Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/161",
       "sourceType": "github-issue"
     }
   ]

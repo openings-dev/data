@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-01T14:54:22.832Z",
+  "generatedAt": "2026-06-03T18:41:49.954Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 13,
+    "opportunities": 12,
     "openIssues": 3,
-    "closedIssues": 10
+    "closedIssues": 9
   },
-  "dataHash": "2d1b99d52d16441e97696cebf3cdecef30e9f8dea1122ec4263a621dd0962dc5",
+  "dataHash": "68bf2c830e72c3f2bea08b1363a21d4228846b9ccb91a316259d4d633e63a0f2",
   "items": [
     {
       "id": "gh_e178ee2363a4eb2ca10d3d06",
@@ -369,40 +369,6 @@
       "createdAt": "2026-03-10T21:16:15Z",
       "updatedAt": "2026-05-26T21:34:48Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/146",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1946d60c2578a736f7120ee6",
-      "sourceId": "ambicuity/New-Grad-Jobs#58",
-      "title": "[Beginner]: Add `timeout` as a parameter to fetch functions",
-      "description": "### Description\nCurrently, HTTP requests in `update_jobs.py` have hardcoded `timeout=5`. Change fetch functions to accept a `timeout` parameter, defaulting to a `DEFAULT_TIMEOUT = 5` constant.\n\n### Why it matters\nHardcoded timeouts make it difficult to adapt to temporary API slowdowns. Parameterizing it allows dynamic adjustment.\n\n### Acceptance Criteria\n- [ ] Create `DEFAULT_TIMEOUT` constant\n- [ ] Update function signatures and `HTTP_SESSION.get()` calls to use it\n- [ ] Passes `pre-commit run --all-files`",
-      "excerpt": "### Description Currently, HTTP requests in `update_jobs.py` have hardcoded `timeout=5`. Change fetch functions to accept a `timeout` parameter, defaulting to a `DEFAULT_TIMEOUT = 5` constant. ### Why it matters Hardc...",
-      "issueState": "closed",
-      "contentHash": "91564efe1c9997fa581e1a762a70ca3a3f5770c215ce1d59385ef4d0e1a40b02",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "good first issue"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T23:39:55Z",
-      "updatedAt": "2026-05-26T17:22:10Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/58",
       "sourceType": "github-issue"
     },
     {
