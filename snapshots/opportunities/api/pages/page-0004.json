@@ -1,14 +1,15 @@
 {
-  "generatedAt": "2026-06-03T02:59:11.211Z",
+  "generatedAt": "2026-06-03T08:17:21.692Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_6bd2ea87cfb4bbe49569241c",
+    "gh_1f61de8de06b483a9a82d5f4",
     "gh_96749c04b2a41cefede1f9cb",
     "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
     "gh_e9177ae252d1679b2e5d82c5",
-    "gh_262eabf57dbe027b02b3c2f8",
     "gh_5708c7b7c69bc276f6fb8941",
     "gh_5d54a463e13b23bbe38791ce",
     "gh_2d9849eace549284f519bf16",
@@ -22,10 +23,85 @@
     "gh_3ca6bfcccb91efa2b245a1f6",
     "gh_87ff6095a89da3f020be3eb8",
     "gh_cb3234a96bffc3e0b5521d34",
-    "gh_782159ca5f832eb0fb7f999e",
-    "gh_f528ed932103f94a64bcedb3"
+    "gh_782159ca5f832eb0fb7f999e"
   ],
   "items": [
+    {
+      "id": "gh_6bd2ea87cfb4bbe49569241c",
+      "sourceId": "ambicuity/New-Grad-Jobs#316",
+      "title": "[ROADMAP] Help us expand job data — all suggestions welcome!",
+      "description": "## TL;DR\n\nWe want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are welcome and I will reply to every comment.**\n\n---\n\n## Why this roadmap?\n\nNew-Grad-Jobs is most useful when it captures the widest possible surface of legitimate new-grad opportunities. Today we scrape and curate from a known set of sources, but there's a long tail of companies, regions, and job types we're missing.\n\nThis issue is the central place to brainstorm **how we add more jobs** — sources, regions, scrapers, partnerships, automation, data quality, anything.\n\n## What kind of suggestions are we looking for?\n\nPick whatever resonates — these are just prompts:\n\n### Sources\n- [ ] Specific ATS platforms we don't yet scrape (Workday tenants, Greenhouse boards, Lever, Ashby, SmartRecruiters, iCIMS, Taleo, Eightfold, Phenom, Jobvite, BrassRing, etc.)\n- [ ] Specific companies whose new-grad pipelines we should track\n- [ ] Regional job boards (EU, India, LATAM, MENA, APAC, Canada, UK, etc.)\n- [ ] University career portals worth aggregating\n- [ ] Government / public-sector hiring portals\n- [ ] Startup-focused aggregators (YC, Wellfound, etc.)\n- [ ] Diversity-focused or accessibility-focused boards\n\n### Job categories\n- [ ] Internship pipelines distinct from full-time\n- [ ] PhD / research / quant-specific listings\n- [ ] Hardware, semiconductor, robotics, aerospace\n- [ ] Game industry\n- [ ] Finance / trading / actuarial new-grad tracks\n- [ ] Bio / pharma / healthcare new-grad roles\n- [ ] Trades, ops, supply chain, manufacturing new-grad programs\n\n### Data quality\n- [ ] How should we detect & dedupe reposted listings?\n- [ ] How should we classify \\\"new grad\\\" vs \\\"junior\\\" vs \\\"intern\\\" more accurately?\n- [ ] Should we surface salary data when available? From which sources?\n- [ ] Should we flag visa sponsorship / remote / hybrid more explicitly?\n- [ ] How should we handle stale postings (last-seen vs first-seen)?\n- [ ] What metadata is most useful to filter on?\n\n### Infrastructure & automation\n- [ ] Scraper frameworks or libraries worth adopting\n- [ ] Anti-bot / rate-limit strategies that respect ToS\n- [ ] Workflow scheduling improvements (cron, GitHub Actions, queues)\n- [ ] LLM-assisted parsing for unstructured careers pages\n- [ ] Storage / dedup / canonicalization approaches\n- [ ] Notification channels (RSS, Discord, Slack, email digest)\n\n### Community & contribution\n- [ ] How can we make it easier for contributors to add a new company in one PR?\n- [ ] Should we publish a contribution template specifically for \\\"add a company\\\"?\n- [ ] Would a structured YAML/JSON registry of companies + ATS endpoints help?\n- [ ] Mentorship for first-time contributors who want to add a scraper\n\n## How to suggest\n\nJust comment below. Any format works:\n\n- **A single company:** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"\n- **A source idea:** \\\"There's an ATS called `<X>` used by these companies: …\\\"\n- **A feature idea:** \\\"It would be great if listings showed `<field>`\\\"\n- **A full proposal:** longer-form design ideas, link to a gist or doc\n- **A pain point:** \\\"As a job seeker, I wish this repo did `<X>`\\\"\n\nYou don't need to know how to scrape, write Python, or anything technical. **Ideas count just as much as code.**\n\n## Commitment\n\n- I'll **reply to every comment on this thread.**\n- Concrete, actionable suggestions will be moved into their own tracking issues and linked back here.\n- Larger themes will become milestones on the roadmap.\n- Credit will go to the suggester in the resulting PR / issue / changelog.\n\n## Ground rules\n\n- Be respectful — this is a community space.\n- Don't post anything that violates a source's Terms of Service or robots.txt; we want sustainable, ethical aggregation.\n- Don't post personal data, recruiter contacts, or anything that could harm a company or candidate.\n- Prefer one idea per comment when possible — it makes follow-up easier.\n\n---\n\n**Thanks in advance — every suggestion helps a new grad find their first job.**",
+      "excerpt": "## TL;DR We want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are ...",
+      "issueState": "open",
+      "contentHash": "9dbc30e311e1ce44614e0ce628edb4d89c70df9f08cacdec11198141b4fa7ba7",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "roadmap"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
+      "createdAt": "2026-05-26T23:52:14Z",
+      "updatedAt": "2026-05-27T00:03:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1f61de8de06b483a9a82d5f4",
+      "sourceId": "nerdzao/vagas#191",
+      "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
+      "description": "Nossa empresa\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\nRequisitos\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\nEvent Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nBenefícios\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\nContratação\nCooperativa\n\nComo se candidatar\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\nNível\nSênior\n\nRegime\nCooperado\n\nAlocação\nHíbrido",
+      "excerpt": "Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado...",
+      "issueState": "open",
+      "contentHash": "2fc01278c009d5c1f04db3ab1217bceecb1f162af09e7cadae08ac22860ffae9",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "java",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-05-26T18:22:15Z",
+      "updatedAt": "2026-05-26T18:22:15Z",
+      "url": "https://github.com/nerdzao/vagas/issues/191",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_96749c04b2a41cefede1f9cb",
       "sourceId": "backend-br/vagas#12246",
@@ -169,43 +245,6 @@
       "createdAt": "2026-05-26T12:26:29Z",
       "updatedAt": "2026-05-26T12:26:29Z",
       "url": "https://github.com/devfsa/vagas/issues/2827",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_262eabf57dbe027b02b3c2f8",
-      "sourceId": "f2etw/jobs#1167",
-      "title": "[徵才][新北/新店]技嘉科技GIGABYTE 前端工程師 (Frontend Engineer)",
-      "description": "嗨 大家好!\n我是GIGABYTE的前端工程師 Frank！\n部門正在尋找一位前端伙伴！\n歡迎有興趣的人加入我們!\nP.S. 我們也非常歡迎新鮮人!\n\n## 關於GIGABYTE\n技嘉科技GIGABYTE以主機板、顯示卡在業界締造無以撼動的地位，堅持「技術創新、品質穩定」的高標準專注於關鍵技術研發，經營範圍涵蓋家用、商用、電競、雲端等多元科技領域。\n\n## 我的部門介紹\n我的部門是個相對年輕活潑的部門，\n互相溝通碰撞隕石開發!\n主要產出各種大大小小內容，\nUSER範圍小至公司內部同仁，大至世界各地。\n開發與維護 內部系統 及 APP。\n\n## 在哪工作呢\n新北市 新店區\n\n## 您會來做什麼\n- 負責後台管理系統的功能開發、維護和架構設計\n- 熟練 Vue 2/3 框架，實踐前後端分離設計\n- 與 UI/UX 協作，並根據 Figma 設計稿，負責切版、開發和維護\n- 善用 AI 工具優化開發流程，提升團隊生產力與創新能量\n- 良好的溝通能力，能與團隊合作完成任務\n- 注重程式碼品質，能主動解決技術挑戰和問題\n\n## 您必須要會的能力\n- 熟練 HTML5 / CSS3 (SCSS) / JavaScript\n- 熟悉 Vue 框架 (Vue 2/3)\n- 熟悉 RESTful API 應用與非同步資料處理\n- 具備 Git 版本控制經驗\n- 具備善用 AI 工具增進生產力經驗\n- 能夠自我管理，積極主動的工作風格\n- 對學習新技術保持開放，並能自主學習\n- 具備除錯能力，懂得尋找資源或詢問解決問題\n- 具備抗壓能力，擁有良好的工作心態\n\n## 什麼能加分\n- CI/CD經驗\n- 具備模組化開發\n- 具備 TypeScript 物件導向程式設計經驗\n- 有 API Mock & Test 工具使用經驗\n- 有撰寫單元測試經驗\n- 具備良好 UI/UX 實務經驗與創新思維\n- 多國語網站開發經驗\n- 多人協同開發經驗\n- 有 Flutter APP 雙平台開發經驗\n\n## 薪資範圍\n面議\n\n## 有什麼福利\n- 彈性上下班 自由調配上下班時間\n(8:30 ~ 9:30上班 17:45 ~ 18:45下班 中間休息1小時15分鐘)\n- 生日+三節禮金 / 旅遊補助或購物金15000元（年資1年以上）\n- 各種補助\n- 員工年度健檢 / 團保\n- 其他福利可參考技嘉104 職缺\nhttps://www.104.com.tw/company/a4kvltk#benefits\n\n## 怎麼加入我們\nStep 1: 請先發信至 frank01.lin@gigabyte.com  (目前為部門獨立招募)\n標題 \"前端工程師-XXX的履歷\" ， 並請附上履歷/作品\n(如不符合需求 將不另外回覆 敬請見諒)\nStep 2: 一份簡易的前端程式能力測試 (一周內完成)\nStep 3: 現場面試 (約1~2小時)",
-      "excerpt": "嗨 大家好! 我是GIGABYTE的前端工程師 Frank！ 部門正在尋找一位前端伙伴！ 歡迎有興趣的人加入我們! P.S. 我們也非常歡迎新鮮人! ## 關於GIGABYTE 技嘉科技GIGABYTE以主機板、顯示卡在業界締造無以撼動的地位，堅持「技術創新、品質穩定」的高標準專注於關鍵技術研發，經營範圍涵蓋家用、商用、電競、雲端等多元科技領域。 ## 我的部門介紹 我的部門是個相對年輕活潑的部門， 互相溝通碰撞隕石開發! 主要產...",
-      "issueState": "open",
-      "contentHash": "294f74e1b64b9103dcd6bf3e7624acc5fbde6f2539f1f1277f7c89790cb9a04a",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "求才",
-        "缺香蕉資訊",
-        "git",
-        "[f] typescript",
-        "[f] vue.js"
-      ],
-      "author": {
-        "id": "GigabyteFrank",
-        "name": "GigabyteFrank",
-        "handle": "GigabyteFrank",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/168717198?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2026-05-26T01:55:43Z",
-      "updatedAt": "2026-05-31T14:01:20Z",
-      "url": "https://github.com/f2etw/jobs/issues/1167",
       "sourceType": "github-issue"
     },
     {
@@ -733,44 +772,6 @@
       "createdAt": "2026-05-20T01:15:29Z",
       "updatedAt": "2026-06-02T07:07:33Z",
       "url": "https://github.com/backend-br/vagas/issues/12242",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f528ed932103f94a64bcedb3",
-      "sourceId": "backend-br/vagas#12241",
-      "title": "[Remoto] Engenheiro de Software - Ferreri",
-      "description": "### **Quem somos**\nA [Ferreri](https://ferreri.co/) é uma software house especializada em **engenharia de software de alta qualidade**. Construímos produtos digitais que geram valor real e duradouro.\nAntes de escrever a primeira linha de código, identificamos o problema certo. Depois construímos de forma eficiente, resolvendo na raiz e equilibrando viabilidade técnica, usabilidade e viabilidade de negócio.\nAtuamos em times multidisciplinares alocados em grandes clientes, com o objetivo final de habilitar inovação contínua por meio de engenharia excelente.\n* * *\n### Princípios que nos guiam\n\n**Produto**\n*   **Validar primeiro**: Identificar o problema certo e a melhor solução é o que mais importa. Construir algo bonito com tecnologia avançada que não resolve nada tem valor zero.\n*   **Resolução na raiz**: Entendemos profundamente o problema de negócio antes de propor qualquer solução técnica.\n\n**Engenharia**\n*   **Princípios são universais e absolutos.** Ferramentas mudam, princípios não.\n*   **Especificação e planejamento primeiro**: É impossível construir algo excelente sem saber exatamente o que estamos fazendo. Definimos e validamos o escopo antes de codar — isso torna a implementação muito mais rápida, eficiente e robusta.\n*   **Qualidade acelera e reduz custo**: Acreditamos que o triângulo de ferro (prazo × custo × qualidade) é uma ilusão no software. Alta qualidade aumenta velocidade e reduz custos a longo prazo.\n*   **Construir para durar**: Evitamos dívida técnica e refatoramos quando necessário. O software deve habilitar o produto, nunca limitá-lo.\n*   **Manutenibilidade é crucial**: Um sistema bem projetado pode evoluir em performance, segurança e eficiência. Um sistema mal feito se torna o legado problemático do amanhã.\n\n**Trabalho**\n*   **Compromisso e comunicação**: Remoto desde 2015. Não microgerenciamos. Esperamos responsabilidade e ownership.\n*   **Autonomia a favor do projeto**: Os melhores resultados surgem quando cada pessoa usa sua autonomia para alcançar o objetivo comum.\n*   **Supremacia do argumento, com humildade**: A melhor ideia sempre vence, independentemente de cargo ou senioridade.\n* * *\n### O que esperamos de você\n*   Paixão por boa engenharia: você se importa profundamente com qualidade, arquitetura, testes, padrões e manutenibilidade — não só em “fazer funcionar”.\n*   Capacidade de entender problemas de negócio complexos e traduzi-los em soluções técnicas elegantes e sustentáveis.\n*   Humildade para aprender + confiança para argumentar com fatos.\n*   Alto comprometimento, proatividade e comunicação clara.\n### O que você vai fazer\n*   Participar de times verticais multidisciplinares com domínio completo (da infraestrutura até a experiência do usuário).\n*   Construir e evoluir features em sistemas complexos e de alta responsabilidade.\n*   Escrever código limpo, testado (TDD), bem documentado e aderente aos padrões da empresa.\n*   Participar ativamente de discovery de produto, especificação técnica e decisões de arquitetura.\n*   Refatorar e modernizar sistemas legados quando necessário.\n### Com o que trabalhamos\nNão exigimos experiência prévia em linguagens ou frameworks específicos. O que realmente importa é ter **sólida base em princípios de engenharia e arquitetura** e vontade genuína de resolver problemas reais de negócio.\nHoje usamos majoritariamente:\n*   **Backend**: Ruby on Rails\n*   **Frontend**: React (com Modern.js)\n*   Práticas: async-first, arquitetura forte, padronização, testes automatizados e CI/CD\n### O que oferecemos\n*   Ambiente técnico de alto nível, cercado por pessoas que realmente se importam com o que fazem.\n*   Liberdade com responsabilidade (sem microgerenciamento).\n*   Oportunidade de trabalhar em produtos que impactam a vida de milhares de pessoas de forma significativa.\n*   Cultura forte de crescimento contínuo, feedback honesto e foco obsessivo em produto + engenharia.\n*   Pacote PJ completo e competitivo: remuneração atrativa, 30 dias de férias remuneradas, VR/VA, Wellhub, auxílio bem-estar (academia, terapia etc.) e PLR anual.\n* * *\n### Como se candidatar\n1. Preencha o formulário: [https://forms.clickup.com/3025394/f/2wafj-23413/J0KY9AODPP6CGWG3D2](https://forms.clickup.com/3025394/f/2wafj-23413/J0KY9AODPP6CGWG3D2)\n2. Na primeira etapa iremos avaliar o projeto solicitado no formulário acima.\n3. Na segunda etapa, iremos fazer uma análise de perfil.\n4. Caso passe nas duas etapas iniciais, entraremos em contato para marcar uma conversa.\n5. Caso não passe em nenhuma dessas etapas iniciais, ainda sim mandaremos um email informando o motivo e agradecendo seu tempo.\n* * *\n**Se você valoriza engenharia séria, pensa em produto antes de código e quer construir software feito para durar, queremos conversar com você.**",
-      "excerpt": "### **Quem somos** A [Ferreri](https://ferreri.co/) é uma software house especializada em **engenharia de software de alta qualidade**. Construímos produtos digitais que geram valor real e duradouro. Antes de escrever...",
-      "issueState": "open",
-      "contentHash": "e68f21f9fa9d401851414cee7060eba8a1424b065bb697830511ef4ce5b6d068",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "tdd",
-        "ruby",
-        "remoto",
-        "testes automatizados",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "KalebPortillo",
-        "name": "KalebPortillo",
-        "handle": "KalebPortillo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/10066821?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-19T20:01:37Z",
-      "updatedAt": "2026-06-02T16:49:46Z",
-      "url": "https://github.com/backend-br/vagas/issues/12241",
       "sourceType": "github-issue"
     }
   ]
