@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-04T07:20:01.577Z",
+  "generatedAt": "2026-06-04T11:46:32.695Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_66eaeb59684b31b56e56dc58",
+    "gh_7bcd691815b883db937698fc",
     "gh_a2bf5d8b1ac2ec634b465f35",
     "gh_c1ac097a6489466dda237c12",
     "gh_83b66ce2daefa84016b71185",
@@ -21,11 +23,79 @@
     "gh_95a6292ad2f7921305be5706",
     "gh_2461eb20869e2ac1d13b917a",
     "gh_f943e614ba05a5dcddd0ac58",
-    "gh_8ee0cb70e2cf15d8124d3868",
-    "gh_9139264a96234572012d4a2f",
-    "gh_f26b28f76bab57af89ba6454"
+    "gh_8ee0cb70e2cf15d8124d3868"
   ],
   "items": [
+    {
+      "id": "gh_66eaeb59684b31b56e56dc58",
+      "sourceId": "jobright-ai/2026-Engineer-Internship#2",
+      "title": "Canada-specific engineering internship companion resource",
+      "description": "Hi Jobright team — I’m Hanzi, a recent McGill grad building Hanzilla Jobs.\n\nI noticed this tracker covers a broad set of engineering/development internships and includes some Canada-relevant roles. Would you be open to adding a small Canada-specific companion resource for students who want a daily-updated Canadian view?\n\nSuggested line:\n\n```md\n- [Hanzilla Jobs — Engineering internships and early-career roles in Canada](https://jobs.hanzilla.co/engineering/) — free daily-updated Canadian student/recent-grad job board covering engineering, software, data, environmental/energy, business-adjacent technical roles, internships/co-ops, new-grad, junior, and entry-level positions. Related: [internships/co-ops](https://jobs.hanzilla.co/internships/).\n```\n\nVerification/about page for link safety: https://jobs.hanzilla.co/about/\n\nNo pressure if external companion links are out of scope — I figured it may be useful for Canadian students using this repo alongside US-heavy internship lists.",
+      "excerpt": "Hi Jobright team — I’m Hanzi, a recent McGill grad building Hanzilla Jobs. I noticed this tracker covers a broad set of engineering/development internships and includes some Canada-relevant roles. Would you be open to...",
+      "issueState": "open",
+      "contentHash": "a23aaad91a034b33fff397c6c67408b7733e43cef74388401dce2074d8b3874f",
+      "repository": "jobright-ai/2026-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Engineer-Internship"
+      },
+      "createdAt": "2026-06-04T11:24:11Z",
+      "updatedAt": "2026-06-04T11:24:11Z",
+      "url": "https://github.com/jobright-ai/2026-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7bcd691815b883db937698fc",
+      "sourceId": "awesome-jobs/vietnam#4941",
+      "title": "Cartrack VN - Senior AI Engineer (Computer Vision) - HCM - FT",
+      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n\n* Open Salary\n\n## Requirements \n\n* Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing.\n* Proficient with Python, PyTorch, and a strong academic background in CS, Engineering, Mathematics, or Statistics.\n* A self-motivated engineer who prefers deep technical optimization over AI hype and enjoys collaborating in a fast-paced R&D hub.\n\n## Responsibilities \n\n* Conceptualize and develop computer vision models to model driver behavior, road detection, signal detection, in cabin characteristics, etc.\n* Provide signals based on video/image detection algorithms for other machine learning algorithms, such as road flow or traffic densities.\n* Develop signal processing models as to characterize the attributes to a time series matrix.\n* Test and put algorithms into a production ready state.\n* Constructing solution concepts from insights using familiar or unfamiliar data sources or complete or partial data.\n* Imputing the dependency between sensors and time series data.\n* Design and build machine/deep learning and optimization algorithms efficiently\n* Integrate, simulate, and test the impact of algorithms and features on the overall system\n* Develop and execute necessary analyses, simulations, etc. to validate models and identify improvement opportunities\n* Store, retrieve and visualize results in a manner that facilitates required analyses\n* Effectively conceptualize analyses to business/product stakeholders\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* We have worked on camera/ sensor related projects, but our Head has more interesting plans, I would prefer him to discuss further with you :P \n* Choose Cartrack VN if you prefer a fast-paced environment, love building robust, production-grade systems that handle massive real-world scale, and want to see your AI models directly impact global fleet safety and logistics efficiency.\n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
+      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing. *...",
+      "issueState": "open",
+      "contentHash": "6329f597e5ebb48686f736bc3b7b4f7b9084c9a9176d8e1dee3e1d0b90e045ac",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "python",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "giang-vu-2700",
+        "name": "giang-vu-2700",
+        "handle": "giang-vu-2700",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-04T10:55:16Z",
+      "updatedAt": "2026-06-04T10:57:58Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4941",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a2bf5d8b1ac2ec634b465f35",
       "sourceId": "jobright-ai/2026-Product-Management-Internship#2",
@@ -664,72 +734,6 @@
       "createdAt": "2026-05-30T09:26:55Z",
       "updatedAt": "2026-05-30T09:26:55Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4510",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9139264a96234572012d4a2f",
-      "sourceId": "vanshb03/Summer2027-Internships#4510",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://app.joinhandshake.com/jobs/11073521\n\n### Company Name\n\n Regala AI\n\n### Internship Title\n\nSWE Intern\n\n### Location\n\nSan Francisco, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://app.joinhandshake.com/jobs/11073521 ### Company Name Regala AI ### Internship Title SWE Intern ### Location San Francisco, CA ### What season is this internship for? Summer ### D...",
-      "issueState": "open",
-      "contentHash": "c2418fc5857da33f6f0d204873b25879850b91edb373dd424638ddd872fd71c3",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-05-30T09:26:55Z",
-      "updatedAt": "2026-05-30T09:26:55Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4510",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f26b28f76bab57af89ba6454",
-      "sourceId": "vanshb03/Summer2026-Internships#4509",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.careyaya.org/opportunities/Software_Engineering_Internship?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake&utm_source=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake\n\n### Company Name\n\nCareYaya \n\n### Internship Title\n\nSoftware Engineering Internship\n\n### Location\n\nRemote \n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.careyaya.org/opportunities/Software_Engineering_Internship?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&ref...",
-      "issueState": "open",
-      "contentHash": "a4d79a60d2f975e4113ba3f6a1bf5b294d3f90cfab5746a5df0f2692945cb765",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-30T09:26:21Z",
-      "updatedAt": "2026-05-30T09:26:21Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4509",
       "sourceType": "github-issue"
     }
   ]
