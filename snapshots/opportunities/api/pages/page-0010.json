@@ -1,15 +1,13 @@
 {
-  "generatedAt": "2026-06-03T18:41:49.954Z",
+  "generatedAt": "2026-06-04T02:53:52.301Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
-    "gh_8d3d4b455493191722317dda",
     "gh_777d6953c094c4c77cffa586",
     "gh_f4bcab5a06e0810d5c4425c0",
     "gh_8ac6e6406bab29dc70c10f65",
     "gh_03fa03119cda6972a7f24c60",
-    "gh_4dc20dbb42a8bde00d158c2a",
     "gh_4ceaaa1806d1792dbb109bcb",
     "gh_018090ae0b51c7fe869fe122",
     "gh_56647ce0f055e747d42f4222",
@@ -23,47 +21,11 @@
     "gh_9876f306f4afb6a041476c25",
     "gh_d9f31b40b046d9fb1c9512c3",
     "gh_72cfadae02e4f1d29faac8e9",
-    "gh_af5dcc20725a0af39ee790f9"
+    "gh_af5dcc20725a0af39ee790f9",
+    "gh_5f1c8b18033011026ee64886",
+    "gh_ba81b538383170559d6a81ae"
   ],
   "items": [
-    {
-      "id": "gh_8d3d4b455493191722317dda",
-      "sourceId": "pythonjobs/jobs#441",
-      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
-      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
-      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
-      "issueState": "open",
-      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
-      "repository": "pythonjobs/jobs",
-      "repositoryUrl": "https://github.com/pythonjobs/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "hybrid",
-        "frontend",
-        "react",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "sandra614",
-        "name": "sandra614",
-        "handle": "sandra614",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
-      },
-      "community": {
-        "id": "pythonjobs",
-        "name": "pythonjobs",
-        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
-        "repository": "pythonjobs/jobs",
-        "url": "https://github.com/pythonjobs/jobs"
-      },
-      "createdAt": "2026-01-19T17:25:09Z",
-      "updatedAt": "2026-01-19T17:25:09Z",
-      "url": "https://github.com/pythonjobs/jobs/issues/441",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_777d6953c094c4c77cffa586",
       "sourceId": "f2etw/jobs#1165",
@@ -221,46 +183,6 @@
       "createdAt": "2026-01-13T14:23:29Z",
       "updatedAt": "2026-02-04T09:22:00Z",
       "url": "https://github.com/phpdevbr/vagas/issues/1323",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4dc20dbb42a8bde00d158c2a",
-      "sourceId": "frontendbr/vagas#8419",
-      "title": "[Híbrido] Front-end Developer no BTG Pactual",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\n\nQue tal ter a chance de ser dono do seu próprio negócio dentro de uma empresa sólida e com mais de 40 anos de história? No BTG valorizamos espírito empreendedor, autonomia, agilidade, foco no cliente, excelência e visão de longo prazo. Agimos com integridade, responsabilidade, simplicidade, inconformismo e dedicação.\n\nMeritocracia está no centro do nosso dia a dia. Temos um escritório open space e uma estrutura horizontal onde você vai conversar com os melhores profissionais de mercado e ter desafios reais e diários.\n\n## Descrição da vaga\n\nNosso time é responsável pelos portais da plataforma de varejo digital do BTG Pactual Empresas. Desenvolvemos soluções inovadoras que oferecem um diferencial competitivo para nossos clientes e para o mercado. Trabalhamos em estreita colaboração com o time de negócios, promovendo agilidade e eficiência nas decisões. Somos uma equipe dinâmica e versátil, comprometida com entregas de alta qualidade e escalabilidade. Valorizamos o aprendizado contínuo, o esforço e o trabalho em equipe. \n\n## Local\n\nHíbrido em nosso escritório da Avenida Brigadeiro Faria Lima, São Paulo.\n\n## Requisitos\n\n**Obrigatórios:**\n- Graduação superior completa em Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou áreas relacionadas. \n- Mais de 3 anos de experiência em desenvolvimento de software com foco em frontend (HTML5, CSS3, TypeScript e React). \n- Familiaridade com ferramentas de construção modernas como Vite e Webpack. \n- Forte habilidade de comunicação escrita e verbal, capaz de se comunicar eficazmente com lideranças, clientes e áreas de negócio. \n- Compromisso com a melhoria contínua da experiência do usuário. \n- Habilidade de se destacar em um ambiente colaborativo e dinâmico. \n\n**Desejáveis:**\n- Experiência com design responsivo e otimização de performance. \n- Conhecimento em práticas de acessibilidade. \n- Conhecimento profundo das \"Rules of React\" e melhores práticas de desenvolvimento com React. \n- Experiência com práticas modernas de CI/CD e DevOps. \n- Apreciação pela importância de uma boa documentação e testes automatizados. \n\n**Diferenciais:**\n- Experiência com backend, especialmente em Elixir ou C#\n\n## Benefícios\n\n- Participação nos Lucros e Resultados (PLR);\n- Auxílio Alimentação e Refeição;\n- Plano Médico;\n- Plano Odontológico;\n- Auxílio Creche/Babá;\n- Vale Transporte;\n- WellHub;\n- TotalPass;\n- Programa de Apoio Pessoal (EAP);\n- Planos por adesão como Previdência Privada e Seguro de Vida;\n- Desconto em Farmácia;\n- Programa de Nutrição;\n- Programa de Gestantes;\n- Licença Maternidade e Paternidade Estendida – empresa Cidadã.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nhttps://carreiras.btgpactual.com/vagas/tech-development/engenheiro-a-de-software-frontend-pleno-a-senior-react-it-btg-empresas/5481752004\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n\n#### Nível\n- Pleno\n- Sênior\n- Especialista",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
-      "issueState": "open",
-      "contentHash": "5002b5c960489d9cf99d723325fd0ace6fb91dac7eaa9efc608fa7c299beea8c",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "sênior",
-        "clt",
-        "são paulo",
-        "especialista",
-        "stale",
-        "híbrido"
-      ],
-      "author": {
-        "id": "ianzitow",
-        "name": "ianzitow",
-        "handle": "ianzitow",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/2258901?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "BTG Pactual",
-      "createdAt": "2026-01-08T12:44:57Z",
-      "updatedAt": "2026-05-30T02:12:14Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8419",
       "sourceType": "github-issue"
     },
     {
@@ -759,6 +681,75 @@
       "createdAt": "2025-12-05T13:49:38Z",
       "updatedAt": "2025-12-05T13:49:38Z",
       "url": "https://github.com/datascience-br/vagas/issues/152",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5f1c8b18033011026ee64886",
+      "sourceId": "hanzili/canada_sde_junior_new_grad_position#3",
+      "title": "adding more canadian jobs",
+      "description": "",
+      "excerpt": "adding more canadian jobs",
+      "issueState": "open",
+      "contentHash": "7e628204e2df39791704da3ebbdca9b36865679231d4d338c47bf4d58456a04c",
+      "repository": "hanzili/canada_sde_junior_new_grad_position",
+      "repositoryUrl": "https://github.com/hanzili/canada_sde_junior_new_grad_position",
+      "region": "North America",
+      "country": "Canada",
+      "tags": [
+        "documentation",
+        "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "avatarUrl": "https://github.com/hanzili.png?size=80",
+        "repository": "hanzili/canada_sde_junior_new_grad_position",
+        "url": "https://github.com/hanzili/canada_sde_junior_new_grad_position"
+      },
+      "createdAt": "2025-12-04T19:38:50Z",
+      "updatedAt": "2025-12-04T19:38:50Z",
+      "url": "https://github.com/hanzili/canada_sde_junior_new_grad_position/issues/3",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ba81b538383170559d6a81ae",
+      "sourceId": "speedyapply/2026-SWE-College-Jobs#32",
+      "title": "Mechanize internship",
+      "description": "### Position Title\n\nSoftware Engineering Intern\n\n### Position Application Link\n\nhttps://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e\n\n### Company Name\n\nMechanize\n\n### Company Link\n\nhttps://www.mechanize.work/\n\n### Location\n\nSan Francisco, CA\n\n### Is this a new grad position or an internship?\n\nNew Grad\n\n### Is this position based in the USA?\n\nYes, it's based in the USA.\n\n### Your GitHub Email\n\nguive@mechanize.work",
+      "excerpt": "### Position Title Software Engineering Intern ### Position Application Link https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e ### Company Name Mechanize ### Company Link https://www.mechanize.wo...",
+      "issueState": "open",
+      "contentHash": "607a557a2929ac010897cbe17b8545b65f0c2f3c554f29b88f32d8ac0ab24d8f",
+      "repository": "speedyapply/2026-SWE-College-Jobs",
+      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "new"
+      ],
+      "author": {
+        "id": "guive583",
+        "name": "guive583",
+        "handle": "guive583",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/245621201?v=4"
+      },
+      "community": {
+        "id": "speedyapply",
+        "name": "speedyapply",
+        "avatarUrl": "https://github.com/speedyapply.png?size=80",
+        "repository": "speedyapply/2026-SWE-College-Jobs",
+        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
+      },
+      "createdAt": "2025-11-28T23:55:57Z",
+      "updatedAt": "2026-04-19T16:06:37Z",
+      "url": "https://github.com/speedyapply/2026-SWE-College-Jobs/issues/32",
       "sourceType": "github-issue"
     }
   ]
