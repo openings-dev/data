@@ -1,16 +1,47 @@
 {
-  "generatedAt": "2026-04-29T13:29:01.811Z",
+  "generatedAt": "2026-06-04T19:57:01.317Z",
   "country": "Spain",
   "countryCode": "ES",
   "region": "Europe",
   "repository": "remote-es/remotes",
   "totals": {
     "opportunities": 6,
-    "openIssues": 1,
-    "closedIssues": 5
+    "openIssues": 2,
+    "closedIssues": 4
   },
-  "dataHash": "2958d6eba6b175fd5c4e3ee8b34045add12189968a6ff6ba98e687a590c6ac7e",
+  "dataHash": "3c4746fcecca865d66f175548f4358dce0da2b2d698dd29b57f73ae2c74e5e36",
   "items": [
+    {
+      "id": "gh_eca179323abe1309b96e6c74",
+      "sourceId": "remote-es/remotes#192",
+      "title": "Consider including a link to the company website in addition to their jobs page",
+      "description": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "excerpt": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "issueState": "open",
+      "contentHash": "9f264e57917d81d57c461931d8d62d9b64219de514d1659a74aa586a03257e79",
+      "repository": "remote-es/remotes",
+      "repositoryUrl": "https://github.com/remote-es/remotes",
+      "region": "Europe",
+      "country": "Spain",
+      "tags": [],
+      "author": {
+        "id": "alexpdp7",
+        "name": "alexpdp7",
+        "handle": "alexpdp7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
+      },
+      "community": {
+        "id": "remote-es",
+        "name": "remote-es",
+        "avatarUrl": "https://github.com/remote-es.png?size=80",
+        "repository": "remote-es/remotes",
+        "url": "https://github.com/remote-es/remotes"
+      },
+      "createdAt": "2026-06-04T18:38:01Z",
+      "updatedAt": "2026-06-04T18:38:01Z",
+      "url": "https://github.com/remote-es/remotes/issues/192",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_7c2876067f23e428451a9b32",
       "sourceId": "remote-es/remotes#185",
@@ -175,37 +206,6 @@
       "createdAt": "2024-10-01T22:55:51Z",
       "updatedAt": "2024-10-01T22:55:51Z",
       "url": "https://github.com/remote-es/remotes/issues/167",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dd5394a44195399c8453926c",
-      "sourceId": "remote-es/remotes#138",
-      "title": "Consider adding issue/PR templates where people explicitly confirm new companies fulfill our conditions",
-      "description": "",
-      "excerpt": "Consider adding issue/PR templates where people explicitly confirm new companies fulfill our conditions",
-      "issueState": "closed",
-      "contentHash": "5252631f4fde6511bf83cc7fcb6dfc8e674e9721aa9a5f5f0a8bff9a89db8355",
-      "repository": "remote-es/remotes",
-      "repositoryUrl": "https://github.com/remote-es/remotes",
-      "region": "Europe",
-      "country": "Spain",
-      "tags": [],
-      "author": {
-        "id": "alexpdp7",
-        "name": "alexpdp7",
-        "handle": "alexpdp7",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
-      },
-      "community": {
-        "id": "remote-es",
-        "name": "remote-es",
-        "avatarUrl": "https://github.com/remote-es.png?size=80",
-        "repository": "remote-es/remotes",
-        "url": "https://github.com/remote-es/remotes"
-      },
-      "createdAt": "2023-08-10T11:24:44Z",
-      "updatedAt": "2024-01-05T12:23:00Z",
-      "url": "https://github.com/remote-es/remotes/issues/138",
       "sourceType": "github-issue"
     }
   ]

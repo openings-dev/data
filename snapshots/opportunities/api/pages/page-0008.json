@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-04T11:46:32.695Z",
+  "generatedAt": "2026-06-04T19:57:01.317Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_86cf7c4c726a6cec1163d1fb",
     "gh_90dc15cf0fb5560e4c0f0993",
     "gh_c01a0a3f6404a175991bbcce",
     "gh_3cb49aacda2ec7dd8e38be24",
@@ -22,10 +23,45 @@
     "gh_db7b29e6b9c9b5ad8788f6ac",
     "gh_eae48d87a90e3ffbeb60afaf",
     "gh_b8c75a4cb1cdaa5d5c4794e6",
-    "gh_349305368c4768961f805995",
-    "gh_cb018f064d1195686d333796"
+    "gh_349305368c4768961f805995"
   ],
   "items": [
+    {
+      "id": "gh_86cf7c4c726a6cec1163d1fb",
+      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#1",
+      "title": "Bug: Company logo thumbnails enter corrupted render state after job application, stale DOM / z-index collision across job card components",
+      "description": "# Company thumbnails overlap other job cards after applying to a posting\n\nHey team,\n\nI've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that job bleeds over into the other job cards in the feed. Sometimes it stacks on top of the adjacent card's logo, sometimes it straight up replaces it. It looks pretty broken.\n\nThe weird part is that it fixes itself the moment I do a hard refresh. So the data coming from the backend seems fine, this is purely a client-side rendering issue.\n\n## Repro\n\n1. Go to the job listings feed.\n2. Apply to any job.\n3. Come back to the listings (back nav or closing the apply modal).\n4. The thumbnails on nearby job cards are now messed up; wrong logos, overlapping, stacked, etc.\n5. Refresh the page → everything goes back to normal.\n\nThis happens every single time, not intermittent. I've tried it across a few different browsers (Chrome and Firefox) and it's the same behavior.\n\n## What I think is going on\n\nI'm a software engineer so I poked around in devtools a bit. A few things that might be worth looking at:\n\n**Key prop issue on the list**: If the job card list is keyed by array index instead of something stable like `job.id`, React's reconciler will reuse DOM nodes incorrectly when the list state changes after applying. This would explain why the thumbnails get \"shifted\" onto wrong cards. Classic React anti-pattern.\n\n**Stacking context / z-index leak**: When the apply flow triggers (modal, overlay, toast, whatever), it might be setting `position: absolute` or bumping `z-index` on the applied card's thumbnail. If that style isn't cleaned up properly (maybe an animation callback that doesn't fire?), the image escapes its container and sits on top of siblings. Throwing `overflow: hidden` and `position: relative` on the card container would contain this.\n\n**Race condition on refetch**: If applying fires off a POST and then the feed revalidates in parallel (SWR `mutate()`, React Query `invalidateQueries()`, etc.), there's a window where partial/stale data gets rendered before the fresh response lands. The thumbnails might be getting swapped around during that intermediate state.\n\n**Image caching**: Less likely, but if there's a custom image component or service worker caching thumbnails by position/index instead of URL, a re-render after apply could serve the wrong cached image to the wrong card.\n\n## Quick fix suggestions\n\n- Check that `key={job.id}` (or whatever unique identifier) is used on the card list, not `key={index}`.\n- Make sure each card's thumbnail container has its own stacking context (`position: relative; overflow: hidden;`).\n- If the apply action triggers a list refetch, batch the state update or wrap it in `startTransition` so you don't get an intermediate broken frame.\n- Audit `useEffect` cleanups around the apply modal/overlay, something might not be resetting styles on unmount.\n\n## Environment\n\n- Chrome 124  on macOS\n- Desktop, standard resolution\n- Happens on both fast and slow connections so it's not a network timing thing\n\nNot a blocker since refresh fixes it, but it makes the platform look buggy and I'd imagine it's hurting trust with less technical users who don't know to just reload. Happy to provide more details or screen recordings if that helps.",
+      "excerpt": "# Company thumbnails overlap other job cards after applying to a posting Hey team, I've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that ...",
+      "issueState": "open",
+      "contentHash": "1e4843c8fb9d905a53f168f5b02b0201043140e257eec09e5f353c378fe3c473",
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "backend",
+        "react",
+        "node",
+        "data"
+      ],
+      "author": {
+        "id": "JayDS22",
+        "name": "JayDS22",
+        "handle": "JayDS22",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91157708?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-Internship",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
+      },
+      "createdAt": "2026-03-22T16:47:15Z",
+      "updatedAt": "2026-03-22T16:51:05Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/1",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_90dc15cf0fb5560e4c0f0993",
       "sourceId": "react-brasil/vagas#3007",
@@ -735,39 +771,6 @@
       "createdAt": "2026-02-23T12:16:03Z",
       "updatedAt": "2026-02-23T12:16:03Z",
       "url": "https://github.com/datascience-br/vagas/issues/158",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cb018f064d1195686d333796",
-      "sourceId": "frontendbr/vagas#8444",
-      "title": "[Remoto] Oportunidades (Strider)",
-      "description": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO LATAM | USD 💻🌎\nSe você busca trabalhar para empresas dos EUA, ganhar em dólar e atuar 100% remoto na América Latina, essa é sua chance!\nEstou com múltiplas vagas abertas para profissionais do Brasil, Argentina, Colômbia, México, Paraguai, Chile, Peru e Costa Rica.\n📌 Empresas americanas (micro, média e grande porte)\n📌 Modelo Full Remote\n📌 Inglês B2 ou C1 (dependendo da vaga)\n📌 Pagamento em USD\n\n🔗 Conecte-se comigo no LinkedIn:\nhttps://www.linkedin.com/in/thisclaudia�\n\n\n💻 TECH ROLES\n🔹 Back-end Engineer (AI/ML | Web3)\n💰 28–48 USD/hour\n📍 Remoto LATAM\n🛠️ Rust | web3.js\n🔗 Candidate-se:\nhttps://app.onstrider.com/r/claudiaantunes?job=YmFjay1lbmQtZW5naW5lZXItOWQzZDgyYzE/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=�\n\n🔹 Systems Engineer (AI/Blockchain)\n💰 2.8k–4.8k USD/mês\n🛠️ Python | Rust | C++ | Distributed Systems | Blockchain\n🔗 Candidate-se:\nhttps://app.onstrider.com/r/claudiaantunes?job=c3lzdGVtcy1lbmdpbmVlci1kZGUwMDBjYj9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==�\n\n🔹 Senior DBA (SaaS)\n💰 3.5k–5.5k USD/mês\n🛠️ MSSQL | PostgreSQL | AWS | RDS | EC2\n🔗 Candidate-se:\nhttps://app.onstrider.com/r/claudiaantunes?job=c2VuaW9yLWRiYS0wOWRjNTU0YT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==�\n\n🔹 Back-end Engineer (SaaS | Python/Node)\n💰 2.5k–4.5k USD/mês\n🛠️ Python | Node.js | SQL | PostgreSQL | REST APIs\n🔗 Candidate-se:\nhttps://app.onstrider.com/r/claudiaantunes?job=YmFjay1lbmQtZW5naW5lZXItY2I5NGVjNDg/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=�\n\n🔹 Full-Stack Engineer (AI | LLM)\n💰 4k–4.8k USD/mês\n🛠️ TypeScript | React.js | Node.js | LLM | Swift\n🔗 Candidate-se:\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1lbmdpbmVlci03NmQ4OGI1NT9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==�\n\n🔹 Back-end Engineer (Ruby on Rails)\n💰 4.5k–6k USD/mês\n🛠️ Ruby on Rails | PostgreSQL | Elasticsearch | Redis\n🔗 Candidate-se:\nhttps://app.onstrider.com/r/claudiaantunes?job=anVuaW9yLW1pZC1iYWNrLWVuZC1lbmdpbmVlci0xNTNlMzgyOD9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==�\n\n📊 OUTRAS ÁREAS\n🔹 Wrike Administrator\n💰 0.5k–2k USD/mês\n🛠️ Wrike | Salesforce\n🔗 https://app.onstrider.com/r/claudiaantunes?job=d3Jpa2UtYWRtaW5pc3RyYXRvci1lMjIyY2FiYj9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==�\n\n🔹 AP/AR Associate (Finance)\n💰 até 2k USD/mês\n🛠️ Billing | Payments | Accounting\n🔗 https://app.onstrider.com/r/claudiaantunes?job=YXAtYXItYXNzb2NpYXRlLWMyMGI3NTRiP3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz�\n\n🔹 Paid Traffic Manager\n💰 2.5k–6k USD/mês\n🛠️ Google Ads | Meta Ads | GA4 | Search Console | Microsoft Ads\n🔗 https://app.onstrider.com/r/claudiaantunes?job=cGFpZC1hY3F1aXNpdGlvbi1tYW5hZ2VyLTNlNTc3MTUwP3JlZmVycmFsPWNsYXVkaWFhbnR1bmVz�\n\n🌎 Não encontrou nenhuma de acordo com o seu perfil, faça seu cadastro no link abaixo 👇🏻 \n👉 https://app.onstrider.com/r/claudiaantunes�",
-      "excerpt": "🚀 OPORTUNIDADES INTERNACIONAIS | REMOTO LATAM | USD 💻🌎 Se você busca trabalhar para empresas dos EUA, ganhar em dólar e atuar 100% remoto na América Latina, essa é sua chance! Estou com múltiplas vagas abertas para...",
-      "issueState": "open",
-      "contentHash": "432dcf48cc448e3cd218d296c2b304a6587786af732e280e331fd7aa748fb03f",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "createdAt": "2026-02-21T14:10:01Z",
-      "updatedAt": "2026-05-15T02:25:49Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8444",
       "sourceType": "github-issue"
     }
   ]
