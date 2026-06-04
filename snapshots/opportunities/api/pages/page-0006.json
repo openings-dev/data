@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-04T02:53:52.301Z",
+  "generatedAt": "2026-06-04T07:20:01.577Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_d8668644a6f0ebb1839f0122",
     "gh_cda7c0fc8d1bf1340237fd89",
     "gh_1efee2417f6bee01b5cd3f0a",
     "gh_270034965458fc3af3e97f7b",
@@ -22,10 +23,49 @@
     "gh_42aec3e02f4705505e208eb2",
     "gh_4ea4dd77b7082cd6a55c6a18",
     "gh_c69d8dad1dde7423a19d72b3",
-    "gh_97af14f3ec3ca62e7db4666f",
-    "gh_57ed728934c67b37c0bed798"
+    "gh_97af14f3ec3ca62e7db4666f"
   ],
   "items": [
+    {
+      "id": "gh_d8668644a6f0ebb1839f0122",
+      "sourceId": "backend-br/vagas#12234",
+      "title": "[Remoto] Tech Lead - Igma",
+      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n\n## Descrição da vaga\n\nEstamos em busca de uma pessoa Tech Lead para se juntar ao nosso Chapter de desenvolvimento e criar produtos digitais para as maiores empresas do Brasil.\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Responsabilidades**\n\nNa Igma, como Tech Lead, você é responsável por garantir que nossas entregas de tecnologias tenham uma arquitetura sólida e escalável, bem como acompanhar a qualidade de código de sua equipe. O desafio será desenhar e planejar arquiteturas, propostas de infraestrutura, bem como escolher as melhores tecnologias para o projeto. Levando em consideração performance, segurança e skills do time. É essencial ter aptidão para trabalhar em equipe com profissionais de diferentes áreas, saiba se comunicar com clareza e tenha adaptabilidade para lidar com mudanças constante.\n\nPara isso é necessário fazer parte de sua rotina:\n\n- Git\n- Docker\n- AWS/Azure/GCP\n- CI/CD\n- Testes (Unitários, interface, integração)\n- Code Review com boas práticas\n- Principais Tecnologias: Python e .NET\n- Curiosidade ativa por Inteligência Artificial e disposição para explorar como a IA pode potencializar seu trabalho\n\n## Local\n\nRegime: 100% remoto\n\n## Requisitos\n\n- Arquitetura / Infra-estrutura, incluindo a análise e escolha de tecnologias adequadas para cada projeto.\n- Micro-serviços\n- Cloud\n- Containerização\n- API\n- Versionamento\n- Testes automatizados\n- CI / CD\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n## Benefícios\n\n- Trabalho 100% remoto\n- Plano de Saúde e odontológico individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\n(https://jobs.quickin.io/igma/jobs/69fe477d6a49d70013459688)\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação",
+      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos — sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico ...",
+      "issueState": "open",
+      "contentHash": "fff1845ef3aa306792577dca15ae57c95533faae218384cfd9df3a661e6b8052",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "python",
+        "remoto",
+        "aws",
+        "testes automatizados",
+        "git",
+        "docker",
+        "ci/cd"
+      ],
+      "author": {
+        "id": "mcfo-contato",
+        "name": "mcfo-contato",
+        "handle": "mcfo-contato",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-08T20:43:06Z",
+      "updatedAt": "2026-06-02T07:07:35Z",
+      "url": "https://github.com/backend-br/vagas/issues/12234",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_cda7c0fc8d1bf1340237fd89",
       "sourceId": "frontendbr/vagas#8474",
@@ -716,45 +756,6 @@
       "createdAt": "2026-04-24T13:45:37Z",
       "updatedAt": "2026-05-25T12:50:14Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1251",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_57ed728934c67b37c0bed798",
-      "sourceId": "qa-brasil/vagas#1250",
-      "title": "[100% Remoto] QA Jr na Codeleap",
-      "description": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap.\n\nEssa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática trabalhando com produtos reais e clientes internacionais.\n\nNo dia a dia, você vai testar aplicações web e mobile, identificar bugs, garantir a qualidade das entregas e trabalhar próximo de desenvolvedores e produto.\n\n## Local de trabalho\n\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência inicial com testes manuais (projetos pessoais, acadêmicos ou profissionais)\n- Inglês intermediário (leitura e escrita para documentação e bug reports)\n- Noção básica de desenvolvimento web/mobile (especialmente React / React Native)\n- Boa comunicação e vontade de aprender\n\n**Desejáveis**\n- Conhecimento básico em testes automatizados\n- Experiência com organização de casos de teste e documentação\n- Interesse em produto e experiência do usuário\n\n**Diferenciais**\n- Experiência prévia em projetos reais (mesmo que pequenos)\n- Perfil detalhista e curioso\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Trabalho 100% remoto\n- Horário flexível\n- Ambiente colaborativo e informal\n\n**Diferenciais**\n- Projetos reais com clientes internacionais (UK/EU)\n- Crescimento rápido com possibilidade de assumir mais responsabilidades\n- Mentoria e feedback constante\n- Aulas semanais de conversação em inglês\n- Bônus por performance (possibilidade de 13º e 14º salário)\n\n## Range Salarial\n\nA vaga paga entre R$2.000,00 e R$3.000,00 reais.\n\n## Sobre a empresa\n\nA CodeLeap é uma software house com base em Londres, trabalhando com clientes internacionais. Somos um time pequeno, focado em qualidade, aprendizado constante e desenvolvimento rápido dos nossos membros.\n\n## Como se candidatar\n\n- Candidatar através do formulário:\nhttps://docs.google.com/forms/d/e/1FAIpQLScMTarmAMcuEt51vYXX_5RGS4AfsYQD_kqDWaqgRkMf5uRxyQ/viewform\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada etapa do processo.\n\nE-mail para contato em caso de dúvidas: vini.garcia@codeleap.co.uk\n\n## Labels\n\n- PJ\n- Júnior\n- Remoto\n- Exterior\n```",
-      "excerpt": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap. Essa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática tra...",
-      "issueState": "open",
-      "contentHash": "ffc66f263900c7bb2c29f235523a4a5951900b595da1d4d24073a35871374c71",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "estágio",
-        "exterior",
-        "júnior",
-        "inglês"
-      ],
-      "author": {
-        "id": "dudamassena",
-        "name": "dudamassena",
-        "handle": "dudamassena",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/278477713?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Trabalho 100% remoto",
-      "createdAt": "2026-04-22T17:49:17Z",
-      "updatedAt": "2026-04-24T19:07:27Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1250",
       "sourceType": "github-issue"
     }
   ]

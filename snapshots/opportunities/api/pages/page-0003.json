@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-04T02:53:52.301Z",
+  "generatedAt": "2026-06-04T07:20:01.577Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_3866cb7e4709713a12147526",
     "gh_373d378d56b4091fc4c7ea50",
     "gh_a48da312543297316a8e0a32",
     "gh_2c947c298113ffe3798dae20",
@@ -22,10 +23,42 @@
     "gh_2c6305b33aff78c3ef09ce99",
     "gh_ae241d65a08eb0b2c7258d0c",
     "gh_813788f80b209c371e0002ce",
-    "gh_e9830a46c598a30be9f44c7c",
-    "gh_b03b3f7f6aecea6acd0cdc74"
+    "gh_e9830a46c598a30be9f44c7c"
   ],
   "items": [
+    {
+      "id": "gh_3866cb7e4709713a12147526",
+      "sourceId": "vanshb03/Summer2027-Internships#4499",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762?source=JB-LinkedIn\n\n### Company Name\n\nDematic\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nGrand Rapids, MI | Wauwatosa, WI | Henrietta, NY | Atlanta, GA | Plano, TX\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762?source=JB-LinkedIn ### Company Name Dematic ### Internship...",
+      "issueState": "open",
+      "contentHash": "62dc50cb31ab5c8c694dabb7dc2c32e887c846c7fce07fc1ca32d07865010793",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-30T08:23:26Z",
+      "updatedAt": "2026-05-30T08:23:26Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4499",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_373d378d56b4091fc4c7ea50",
       "sourceId": "vanshb03/Summer2026-Internships#4498",
@@ -666,46 +699,6 @@
       "createdAt": "2026-05-29T07:33:36Z",
       "updatedAt": "2026-05-29T07:33:36Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4491",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b03b3f7f6aecea6acd0cdc74",
-      "sourceId": "backend-br/vagas#12248",
-      "title": "[Bolsa Inovação] Full-Stack / Backend Developer (React, IA LLM, RAG Multicamadas, n8n, Supabase) - SAPCON",
-      "description": "## SAPCON\n\nSistema de Automação de Planos de Contingência.\n\n## Descrição da vaga\n\nEstamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma Web e motores de automação.\nO que você vai fazer (Escopo das 40 semanas)\n*MVP 1 (Coração Orquestrador): Modelagem do banco de dados relacional, criação de arquitetura Multi-RAG com foco em Chunking Semântico e Reranking (evitando infoxicação da LLM), e tradução de regras determinísticas de organograma/escalas de funcionários.\n*MVP 2 (Automação e Campo): Integração com APIs externas de monitoramento (clima/alertas), robôs de webscrapping para busca ativa de recursos e homologação de canais de comunicação (WhatsApp API e Voz STT/TTS).\n*MVP 3 (Escala e IA): Desenvolvimento do fluxo \"Redator\" para geração automatizada de Planos de Contingência (Placon) baseados em modelos doutrinários e cruzamento seguro entre bases de conhecimento.\nObs: desejável conhecimento para desenvolver App que inicialmente será apenas para visualização das informações, e envio de mensagens.\n\n## Local\n\n100% remoto.\n\n## Requisitos\n\n* Forte domínio em *React / TypeScript** e consumo de APIs RESTful.\n* Experiência prática em modelagem de bancos de dados relacionais (PostgreSQL / Supabase).\n* Familiaridade com ferramentas de automação visual de fluxos (preferencialmente **n8n**).\n* Entendimento conceitual sobre arquiteturas de IA (RAG, busca vetorial, embeddings e manipulação de contexts).\n* Maturidade para trabalhar de forma autônoma, organizada e focada em marcos de entrega (*milestones*).\n\n## Benefícios\n\nTotalmente remoto.\nFlexibilidade de horário.\nLiberdade para propor modificações.\nPretendemos, após os 12 meses, continuar vínculo com o profissional.\n\n## Contratação\n\nModelo de Contratação: Bolsista de Desenvolvimento Tecnológico / Extensão Inovadora (fomento público).\nRemuneração: 'Aproximadamente' R$ 50.000,00 totais divididos ao longo do projeto de 12 meses.\nCronograma de desenvolvimento: estimamos 9 meses. Restante do tempo para suporte técnico e correções.\nCarga Horária: Estimado em 20h semanais, com horários flexíveis, e foco em entregas/sprints.\n\n## Como se candidatar\n\nEmail para: contato@sapcon.com.br\n\n## Labels\n\n### Nível\n- Pleno\n- Sênior\n- Especialista\n\n### Regime\n- Contrato\n- Freelance\n\n### Alocação\n- Remoto",
-      "excerpt": "## SAPCON Sistema de Automação de Planos de Contingência. ## Descrição da vaga Estamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma ...",
-      "issueState": "open",
-      "contentHash": "71ca66ab97f9cb499641d728481d8fcf4d743279cc5d34a56349ffdd57066ec9",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "sênior",
-        "remoto",
-        "especialista",
-        "typescript",
-        "postgresql",
-        "freelance",
-        "contrato"
-      ],
-      "author": {
-        "id": "fmcarpes",
-        "name": "fmcarpes",
-        "handle": "fmcarpes",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51268403?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-28T22:20:25Z",
-      "updatedAt": "2026-06-02T07:07:32Z",
-      "url": "https://github.com/backend-br/vagas/issues/12248",
       "sourceType": "github-issue"
     }
   ]
