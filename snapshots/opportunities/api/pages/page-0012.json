@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-04T19:57:01.317Z",
+  "generatedAt": "2026-06-05T07:02:27.112Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
   "ids": [
+    "gh_85e96ece37aa7c4072d4d09a",
     "gh_c6e5cde5cf70452b958787bd",
     "gh_7090b13757103ad4886dca79",
     "gh_bd4a4c8843316d3dfe154956",
@@ -22,10 +23,42 @@
     "gh_24d08e682f7eff699352407d",
     "gh_8e1d434e716c161b78d2141c",
     "gh_99150832107b847772cd7a87",
-    "gh_926f3c14cae6e82e67bdbdbf",
-    "gh_2dc776324a953905af46d2bf"
+    "gh_926f3c14cae6e82e67bdbdbf"
   ],
   "items": [
+    {
+      "id": "gh_85e96ece37aa7c4072d4d09a",
+      "sourceId": "datascience-br/vagas#150",
+      "title": "[REMOTO]  Analista de Dados (GCP)",
+      "description": "https://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff \nDescrição:\nBuscamos uma pessoa capaz de transformar dados em estratégia, com facilidade para transitar entre times técnicos e de negócio, conectando necessidades a soluções estruturadas e escaláveis. O foco da vaga é analisar e compreender produtos digitais, estruturando a ingestão e disponibilização desses dados no datalake para apoiar análises em um cliente do setor da saúde.\n\nValorizamos alguém com boa capacidade de organização, planejamento de escopo e execução das atividades de análise e especificação, garantindo entregas claras e consistentes para o time de engenharia realizar a implementação.\n\nRequisitos:\nObrigatório:\n\nExperiência com SQL e modelagem de dados (relacional e dimensional) em torno de 2 a 3 anos de experiência.\nConhecimento em arquiteturas de dados modernas e ambientes em nuvem (GCP - mínimo 1 ano).\nCapacidade analítica e visão de negócio para traduzir métricas em impacto.\nVivência com gestão de backlog, priorização de demandas e comunicação entre áreas.\nBoa comunicação e perfil colaborativo para atuar como ponte entre tecnologia e negócio.\nPró-atividade, capacidade de trabalhar em equipe, organização, e respeitar prazos\nCapacidade de planejar escopo e execução das atividades de análise e especificação para time de Engenharia de Dados\n\n\nDesejável:\n\nExperiência com integração de sistemas via API (XML, JSON, etc.).\nExperiência com DB NoSQL.\nExperiência com ferramentas de orquestração e integração (Airflow, Composer, BigQuery).\nConhecimento em outros ambientes clouds além de GCP, especialmente AWS e seus serviços\n\n\nAtribuições:\nAtuar na interface entre o negócio e o time de engenharia de dados, compreendendo as demandas estratégicas e traduzindo-as em requisitos técnicos.\nAvaliar necessidades de integração entre sistemas/ferramentas e o datalake, sejam via BD SQL e NoSQL, API, SFTP, entre outras.\nPlanejar e gerenciar o backlog de dados, garantindo priorização, clareza e alinhamento com as áreas envolvidas.\nCriar e otimizar modelos de dados e pipelines, assegurando qualidade, governança e consistência das informações.\nEscrever e revisar queries SQL complexas para análises, integrações e suporte à tomada de decisão.\nApoiar a construção de dashboards e indicadores que analisam questões sobre FINOPS.\nColaborar com engenheiros de dados e analistas de BI na criação de soluções em nuvem (GCP).\nRealizar a modelagem dimensional (fatos e dimensões) dos dados.\nInformações Adicionais:\nO que oferecemos para você crescer junto com a gente:\n\n🎓 Programa de Certificações para apoiar seu desenvolvimento técnico.\n\n🚀 Programa de Formação de Lideranças para quem busca evoluir na carreira como líder.\n\n📈 Plano de Desenvolvimento Individual estruturado, personalizado e contínuo.\n\n📚 Descontos em cursos de graduação e pós-graduação da PUCRS, ampliando suas oportunidades de aprendizado.\n\n💬 Encontros para troca de conhecimento com colegas da equipe.\n\n🤝 Rede interna com especialistas em dados, fortalecendo seu networking.\n\n🏆 Programa de incentivo à criação de conteúdos, premiando quem compartilha conhecimento nas redes da empresa.\n\n[Quero me candidatar] \n\nhttps://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff",
+      "excerpt": "https://datalakers.rhstorm.com.br/vagas/analista-de-dados-gcp/c30c9e33-d014-4568-9090-45f44d6959ff Descrição: Buscamos uma pessoa capaz de transformar dados em estratégia, com facilidade para transitar entre times téc...",
+      "issueState": "open",
+      "contentHash": "6f6b0c7d767defb5e6facec140d9b210c5ca111525c2166c18680a5f81ee3008",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "arthurdepauli",
+        "name": "arthurdepauli",
+        "handle": "arthurdepauli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95439507?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2025-10-20T20:18:25Z",
+      "updatedAt": "2025-10-20T20:18:25Z",
+      "url": "https://github.com/datascience-br/vagas/issues/150",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c6e5cde5cf70452b958787bd",
       "sourceId": "datascience-br/vagas#149",
@@ -724,46 +757,6 @@
       "createdAt": "2025-09-08T12:18:17Z",
       "updatedAt": "2025-09-08T12:18:17Z",
       "url": "https://github.com/Empregos-dev/Vagas-dev/issues/109",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2dc776324a953905af46d2bf",
-      "sourceId": "awesome-jobs/vietnam#4775",
-      "title": "[CoderPush - Fullstack JS Developer_ AI Native - Remote - FT]",
-      "description": "**Location**\nRemote-first (HN & HCM office optional)\n\n**Salary Expectation**\nCompetitive (up to 70M Gross/month depending on experience)\n\n**Requirements**\n\n- 5+ years Fullstack (VueJS/React + NodeJS/TypeScript)\n- Strong in software architecture (SOLID, Clean/Hexagonal)\n- Database: MongoDB/Supabase, REST/RPC\n- Experience with AI ecosystems (LangChain, LlamaIndex, RAG, prompt engineering)\n- Cloud & DevOps: AWS/GCP, Kubernetes, serverless/PaaS solutions\n- Good English communication (all rounds in English)\n\n**Must Have**\n\n- Solid coding fundamentals & clean architecture mindset\n- Experience deploying scalable AI-integrated apps\n- Ownership of code quality & system stability (high test coverage, CI/CD best practices)\n- Collaborative & open to feedback\n\n**Ideally**\n\n- Knowledge of MLOps, AI model lifecycle, Groq hardware curiosity\n- Experience with Supabase, ACID compliance & idempotency\n\n- Responsibilities Building scalable, AI-native fullstack solutions\n- Driving architecture decisions & system design\n- Leveraging AI tools effectively for productivity\n- Collaborating across product, UX, data science & engineering\n\n**You can bring**\n\n- Strong problem-solving & analytical mindset\n- Passion for AI + software excellence\n- Positive, collaborative attitude\n\n**Why it would be awesome to work with us** \n\n- Remote-first environment 🌏\n- Full insurance per VN Labor Laws\n- Annual & performance-based bonus\n- Equipment support + training/certification budget\n- 22 paid leaves from 5th year (1 month off encouraged)\n- Monthly coaching & career development\n- Competitive salary & benefits package\n- Innovative & collaborative team culture\n\n**Interesting Engineering Projects**\n\n- AI-powered back-office automation for SMEs\n- Zero-downtime deployment with CI/CD best practices\n- Scalable microservices architecture with AI integration\n- High-standard testing pipelines for production stability\n\n**Contact:**\nZalo: 0934440301 (Ms. Tram)",
-      "excerpt": "**Location** Remote-first (HN & HCM office optional) **Salary Expectation** Competitive (up to 70M Gross/month depending on experience) **Requirements** - 5+ years Fullstack (VueJS/React + NodeJS/TypeScript) - Strong ...",
-      "issueState": "open",
-      "contentHash": "d4953d1d7724872b0033bb3b32c76ea9d9b70f962ec2515d96c05db13ad31254",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "fullstack",
-        "react",
-        "typescript",
-        "node",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "trmm0501",
-        "name": "trmm0501",
-        "handle": "trmm0501",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/134702559?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-09-08T03:53:26Z",
-      "updatedAt": "2026-06-02T08:22:47Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4775",
       "sourceType": "github-issue"
     }
   ]
