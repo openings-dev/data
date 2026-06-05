@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-05T07:02:27.112Z",
+  "generatedAt": "2026-06-05T14:44:21.029Z",
   "page": 15,
   "pageSize": 20,
   "nextPage": "api/pages/page-0016.json",
   "ids": [
+    "gh_9f721eceb70186cf792352d6",
     "gh_4151e7f977a7129ddadb1f75",
     "gh_c28141e5184dc43757bc8cc2",
     "gh_2ea031555124df79c56fac00",
@@ -22,10 +23,47 @@
     "gh_3bf4a98545b8ef34b0e75c62",
     "gh_5a7a0fd4ee14b0cbfce120eb",
     "gh_5c6fa83157f78b5fb109953b",
-    "gh_18d1e672fe4959dd0f3f1147",
-    "gh_deaaa0504a8a36dc97375051"
+    "gh_18d1e672fe4959dd0f3f1147"
   ],
   "items": [
+    {
+      "id": "gh_9f721eceb70186cf792352d6",
+      "sourceId": "datascience-br/vagas#143",
+      "title": "[Remote] Data Platform Engineer na Alternative Payments",
+      "description": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud data warehouse to building the initial ETL pipelines that bring raw data into shape—laying the groundwork for self-service analytics and data-driven decision making.\n\n### What You’ll Bring\n#### Cloud & Infrastructure Expertise\n\n- 5+ years in software or data engineering, with hands-on experience provisioning and maintaining cloud data warehouses (e.g., Snowflake, Amazon Redshift, Google BigQuery)\n- Proficiency with Infrastructure-as-Code tools (Terraform, CloudFormation, Pulumi) to automate data platform deployments\n\n#### ETL & Data Modeling\n\n- Strong SQL skills and experience building ETL pipelines in Python or Java/Scala\n- Familiarity with orchestration frameworks (Airflow, Prefect, Dagster) or transformation tools (dbt)\n- Solid understanding of data modeling patterns (star, snowflake schemas) and best practices for partitioning, clustering and indexing\n\n#### Platform Reliability & Security\n\n- Experience implementing data quality checks, monitoring (Datadog, Prometheus, Monte Carlo) and alerting for pipelines\n- Knowledge of data governance and security—IAM, encryption at rest/in transit, PII redaction\n\n#### Collaboration & Documentation\n\n- Excellent communicator—able to partner with analytics, product and engineering teams to translate requirements into scalable solutions\n- Strong documentation skills to define data platform standards, runbooks and onboarding guides\n\n### What You’ll Own\n\n#### Data Warehouse Provisioning\n\n- Architect and spin up our production and sandbox data warehouse environments using IaC\n- Define resource sizing, scaling policies and cost-optimization strategies\n\n#### ETL Pipeline Development\n\n- Build and deploy the first wave of ETL pipelines to ingest transactional, event and third-party data\n- Implement transformations, schema migrations and incremental workflows\n\n#### Platform Operations & Monitoring\n\n- Embed data quality tests and SLA tracking into every pipeline\n- Set up dashboards and alerts to proactively detect failures, latency spikes or data drift\n\n#### Standards & Enablement\n\n- Establish coding conventions, pipeline templates and best practices for all future data projects\n- Mentor other engineers and analysts on using the data platform, from query optimization to CI/CD for analytics code\n\n#### Cross-Functional Partnership\n\n- Work closely with BI/analytics teams to understand reporting needs and iterate on data models\n- Collaborate with application engineers to identify new data sources and automate their onboarding\n\n### About Us:\n\nAlternative Payments is a leading payments platform for service-based companies. Our innovative platform enables businesses to automate the entire accounts receivable process and reduce the overall expense of payment processing. We are dedicated to fostering growth and providing exceptional value to our clients.\n\n### Our Values\n\nTransparency & Honesty: We operate with transparency to our customers, investors, and other partners, every step of the way. \n\nDependability: We are dependable. We do what we say we are going to do and we do not cut corners. \n\nPartnership: We are partners to our customers, investors, and each other, and work together to solve exciting massive problems. \n\nRevolutionary & Boldness: We are revolutionary & bold. We break down barriers and walls to build our own walls in a stronger, safer, and simpler manner. \n\nDiversity & Inclusion: We work together with people of all backgrounds and seek different viewpoints to generate stronger partnerships and create a stronger, more inclusive company and world. \n\n### Como se candidatar\n\nAplique no link: https://www.alternativepayments.io/careers/?ashby_jid=a5e32e9d-dce0-4b04-beba-ae43cf2aeb76\n\nAceitamos apenas candidatos no Brasil, com currículos em Inglês.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- PJ\n\n#### Nível\n- Sênior\n- Especialista",
+      "excerpt": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud...",
+      "issueState": "open",
+      "contentHash": "1b7165e58c49442fe79d17bf12a14a4a810a9ec146691ceb0d449592c744e0b2",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remote",
+        "python",
+        "java",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "fernandobandeira",
+        "name": "fernandobandeira",
+        "handle": "fernandobandeira",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8373980?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Alternative Payments",
+      "createdAt": "2025-06-03T14:57:52Z",
+      "updatedAt": "2025-06-03T14:57:52Z",
+      "url": "https://github.com/datascience-br/vagas/issues/143",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_4151e7f977a7129ddadb1f75",
       "sourceId": "devfsa/vagas#2808",
@@ -739,41 +777,6 @@
       "createdAt": "2025-04-22T18:53:54Z",
       "updatedAt": "2025-04-22T18:53:54Z",
       "url": "https://github.com/datascience-br/vagas/issues/142",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_deaaa0504a8a36dc97375051",
-      "sourceId": "awesome-jobs/vietnam#4677",
-      "title": "REMOTE FULLTIME - SENIOR CLOUD ENGINEER - ATTRACTIVE SALARY + BENEFITS",
-      "description": "**Work Arrangement:** Fully Remote\n**Compensation:** Negotiable + 13th-month fixed salary\n**Note:** This is a full-time role—no side jobs.\n\nAre you passionate about building robust, scalable, and secure cloud infrastructure?\nDo you enjoy solving tough challenges and working with cutting-edge technologies? Our client is seeking a Senior Cloud Engineer to join their team and play a key role in evolving their Platform-as-a-Service (PaaS) offering.\n\nIf you're a proactive engineer with deep cloud expertise and a love for mentoring and collaboration, this could be the perfect next step for you!\n\n****🔧 What You'll Be Doing****\n\n- Design, build, and monitor cloud infrastructure on AWS and Azure platforms.\n- Deploy and manage both open-source tools and proprietary cloud-based applications.\n- Handle troubleshooting for customer-facing systems, ensuring high availability and performance.\n- Architect and maintain secure and resilient systems across cloud environments.\n- Contribute to the overall design of the PaaS architecture.\n- Support knowledge-sharing and growth by mentoring fellow engineers.\n- Participate in a rotating on-call schedule to handle incidents and ensure minimal downtime.\n\n**✅ What You Bring**\n\n- Strong experience managing Kubernetes clusters with a focus on high availability and deep troubleshooting.\n- Hands-on with Helm, including chart creation and maintenance.\n- Proficiency in AWS or Azure, especially around secure and scalable infrastructure design.\n- Experience with CI/CD pipelines to automate deployments and streamline workflows.\n- Familiarity with monitoring tools like Prometheus and Grafana—you know how to set up meaningful dashboards and alerts.\n- Solid grasp of Infrastructure as Code (especially Terraform).\n\n_**🌟 Bonus Skills**_\n\n- Experience with both AWS and Azure environments.\n- Familiar with GitLab CI and building out pipelines.\n- Understanding of cloud and Kubernetes networking: Private Link, VPC/VNet Peering, CNI, Ingress, service mesh, etc.\n- Hands-on with ArgoCD and GitOps workflows.\n- Strong experience with PostgreSQL administration.\n\n**🎁 Benefits & Perks**\n\n- Full salary during probation\n- 13th-month guaranteed salary\n- 15 days of paid annual leave\n- Premium health insurance\n- Language course access\n- Conference tickets (top industry events)\n- Learning platforms like Udemy\n- Fun company events: themed New Year parties, summer gatherings, and more\n\n**🧩 Hiring Process**\nRound 1: Screening with Recruiter\nRound 2: Technical Interview with the EU team\nRound 3: (Optional) Final chat with EU team members\n_All interviews will be conducted online._\n\nContact: hanhunguyen1999@gmail.com / Zalo/Tele: 0941496526",
-      "excerpt": "**Work Arrangement:** Fully Remote **Compensation:** Negotiable + 13th-month fixed salary **Note:** This is a full-time role—no side jobs. Are you passionate about building robust, scalable, and secure cloud infrastru...",
-      "issueState": "open",
-      "contentHash": "6043ab1387b7552b2637608c1f01cab13813715a351ab56dd3de7537b4b39f19",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "nghanhu",
-        "name": "nghanhu",
-        "handle": "nghanhu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/132739911?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-04-17T06:13:31Z",
-      "updatedAt": "2026-06-02T08:22:43Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4677",
       "sourceType": "github-issue"
     }
   ]
