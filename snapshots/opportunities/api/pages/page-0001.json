@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-05T14:44:21.029Z",
+  "generatedAt": "2026-06-05T19:45:03.599Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_5f066bed10486c20bcb3fc70",
     "gh_84cd180e02db9815d917bcc4",
     "gh_3ef6e457c5ac8fbfa42301f1",
     "gh_eca179323abe1309b96e6c74",
@@ -22,10 +23,43 @@
     "gh_828a908398f893b1e0c6ca3d",
     "gh_e178ee2363a4eb2ca10d3d06",
     "gh_28a89509442cf0e8c335df8d",
-    "gh_a22f5e56e27f4a7ad381be20",
-    "gh_95a6292ad2f7921305be5706"
+    "gh_a22f5e56e27f4a7ad381be20"
   ],
   "items": [
+    {
+      "id": "gh_5f066bed10486c20bcb3fc70",
+      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
+      "title": "Add Canada data/new-grad jobs companion resource?",
+      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
+      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
+      "issueState": "open",
+      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
+      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
+      },
+      "createdAt": "2026-06-05T19:14:10Z",
+      "updatedAt": "2026-06-05T19:14:10Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_84cd180e02db9815d917bcc4",
       "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
@@ -697,39 +731,6 @@
         "avatarUrl": "https://github.com/vanshb03.png?size=80",
         "repository": "vanshb03/Summer2026-Internships",
         "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-30T09:27:54Z",
-      "updatedAt": "2026-05-30T09:27:54Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4512",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_95a6292ad2f7921305be5706",
-      "sourceId": "vanshb03/Summer2027-Internships#4512",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://careers.centre.edu/jobs/rubbl-software-engineering-intern/\n\n### Company Name\n\nRubbl\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nRemote\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://careers.centre.edu/jobs/rubbl-software-engineering-intern/ ### Company Name Rubbl ### Internship Title Software Engineering Intern ### Location Remote ### What season is this int...",
-      "issueState": "open",
-      "contentHash": "d982639cadfe3303fbbb7416c6b54f154033ab188aed0f2c152b908387204594",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
       },
       "createdAt": "2026-05-30T09:27:54Z",
       "updatedAt": "2026-05-30T09:27:54Z",
