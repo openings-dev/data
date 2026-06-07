@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-07T07:01:58.127Z",
+  "generatedAt": "2026-06-07T19:09:48.942Z",
   "page": 19,
   "pageSize": 20,
   "nextPage": "api/pages/page-0020.json",
   "ids": [
+    "gh_a2e4d9bb2f7ed9fc4102fd7e",
     "gh_08f3bd4c20c7fe00b27026b4",
     "gh_765c52689426865cf1b7436b",
     "gh_4ecec9e0e6780f8e377fd4a3",
@@ -22,10 +23,45 @@
     "gh_f4305d4b64288182bb517174",
     "gh_4880d50611121076a0917e09",
     "gh_8824ab70e851187497bd2824",
-    "gh_adc1f2c5a58895031d685962",
-    "gh_44c03279d6ff5cc8e80e1514"
+    "gh_adc1f2c5a58895031d685962"
   ],
   "items": [
+    {
+      "id": "gh_a2e4d9bb2f7ed9fc4102fd7e",
+      "sourceId": "devmatogrosso/vagas#25",
+      "title": "[CUIABÁ] Fullstack/Mobile Flutter/Backend Python - R10 Score",
+      "description": "## Descrição da vaga\n\nDesenvolvedor Fullstack e/ou Mobile e/ou Backend.\nPrincipais stacks: Flutter, Python, Go, Node, React.\n\nR10 Score é um aplicativo voltado para análises e estatísticas de Futebol, idealizado pelo Bruxo Ronaldinho Gaúcho e o maior tipster do Brasil Lucas Tylty. A Empresa é sediada em Cuiabá, com escritório em São Paulo, pertencente ao Grupo OTG.\n\n## Local\n\nCuiabá - MT \nHíbrido\n\n## Requisitos\n\n**Obrigatórios:**\n- 3 anos de experiência com Flutter\n- 3 anos de experiência com Python/Node/Go\n\n**Desejáveis:**\n- React\n\n## Contratação\n\nPJ a combinar\n\nPor favor envie um email para juniorabranches@r10score.com com seu CV anexado - enviar no assunto: Vaga R10 Score [Mobile/Back/Fullstack]",
+      "excerpt": "## Descrição da vaga Desenvolvedor Fullstack e/ou Mobile e/ou Backend. Principais stacks: Flutter, Python, Go, Node, React. R10 Score é um aplicativo voltado para análises e estatísticas de Futebol, idealizado pelo Br...",
+      "issueState": "open",
+      "contentHash": "976c3b5e7304a1374d9649a367df152c521694422109060d57f15b499737c01a",
+      "repository": "devmatogrosso/vagas",
+      "repositoryUrl": "https://github.com/devmatogrosso/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "pj",
+        "home office"
+      ],
+      "author": {
+        "id": "juniorabranches",
+        "name": "juniorabranches",
+        "handle": "juniorabranches",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9979222?v=4"
+      },
+      "community": {
+        "id": "devmatogrosso",
+        "name": "devmatogrosso",
+        "avatarUrl": "https://github.com/devmatogrosso.png?size=80",
+        "repository": "devmatogrosso/vagas",
+        "url": "https://github.com/devmatogrosso/vagas"
+      },
+      "createdAt": "2024-11-25T19:52:25Z",
+      "updatedAt": "2024-11-25T19:52:26Z",
+      "url": "https://github.com/devmatogrosso/vagas/issues/25",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_08f3bd4c20c7fe00b27026b4",
       "sourceId": "Empregos-dev/Vagas-dev#85",
@@ -704,39 +740,6 @@
       "createdAt": "2024-10-10T17:50:50Z",
       "updatedAt": "2024-10-10T17:50:50Z",
       "url": "https://github.com/datascience-br/vagas/issues/136",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_44c03279d6ff5cc8e80e1514",
-      "sourceId": "remote-es/remotes#167",
-      "title": "Allow tracking links?",
-      "description": "https://github.com/remote-es/remotes/commit/c75a6f98d58036fce9ecd3351d560df4ca8e71e4 uses a tracking link to identify visits from this site. I think this is nothing very problematic (HTTP referrer more or less provides the same information), but opening a public issue to see if anyone has reasons to adopt a policy to disallow this.\n\nI'll consider that the person submitting that link votes in favor.\n\nI'll keep this open for at least a month.",
-      "excerpt": "https://github.com/remote-es/remotes/commit/c75a6f98d58036fce9ecd3351d560df4ca8e71e4 uses a tracking link to identify visits from this site. I think this is nothing very problematic (HTTP referrer more or less provide...",
-      "issueState": "open",
-      "contentHash": "1d5f55843788b869105b892c43a9255b863f4359171b7e5458bec13e525c3464",
-      "repository": "remote-es/remotes",
-      "repositoryUrl": "https://github.com/remote-es/remotes",
-      "region": "Europe",
-      "country": "Spain",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "alexpdp7",
-        "name": "alexpdp7",
-        "handle": "alexpdp7",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
-      },
-      "community": {
-        "id": "remote-es",
-        "name": "remote-es",
-        "avatarUrl": "https://github.com/remote-es.png?size=80",
-        "repository": "remote-es/remotes",
-        "url": "https://github.com/remote-es/remotes"
-      },
-      "createdAt": "2024-10-01T22:55:51Z",
-      "updatedAt": "2024-10-01T22:55:51Z",
-      "url": "https://github.com/remote-es/remotes/issues/167",
       "sourceType": "github-issue"
     }
   ]
