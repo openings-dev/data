@@ -1,16 +1,53 @@
 {
-  "generatedAt": "2026-06-04T02:53:52.301Z",
+  "generatedAt": "2026-06-09T14:32:10.628Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "frontendbr/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 11,
-    "closedIssues": 19
+    "openIssues": 12,
+    "closedIssues": 18
   },
-  "dataHash": "faa6516941fb7f80153dc3bcfd3dd260c313c4d6dce82a01de4a34d4d2cae3a7",
+  "dataHash": "2b387b2435d7d369a69f286548d7e0231ed784bb05170de1075cc066855828af",
   "items": [
+    {
+      "id": "gh_aee09e92fadf8366a70512db",
+      "sourceId": "frontendbr/vagas#8479",
+      "title": "[Florianópolis] Fullstack Developer na Tributo Devido",
+      "description": "**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n**Requisitos obrigatórios**\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n## Informações gerais da oportunidade:\n\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\nEstamos localizados no bairro Estreito — Florianópolis.\n\n\n## Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno\n- Sênior",
+      "excerpt": "**DESENVOLVEDOR FULL-STACK** Presencial | Florianópolis Buscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. V...",
+      "issueState": "open",
+      "contentHash": "9d077a8a780f3b575bb94709525aa52ca2ba9196c89a5efad708134a7ed6e344",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "pj",
+        "alocado"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Tributo Devido",
+      "createdAt": "2026-06-09T14:07:02Z",
+      "updatedAt": "2026-06-09T14:07:32Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8479",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c33f944f0198dd7fdf21feba",
       "sourceId": "frontendbr/vagas#8478",
@@ -847,45 +884,6 @@
       "createdAt": "2026-02-14T08:08:49Z",
       "updatedAt": "2026-06-02T17:23:50Z",
       "url": "https://github.com/frontendbr/vagas/issues/8442",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c1d5da0d4b117bbd0f440dc7",
-      "sourceId": "frontendbr/vagas#8441",
-      "title": "[Híbrido] Front-end Developer Senior na Kolab",
-      "description": "**🚨 ALERTA! Vaga feita por devs, para devs. ⚠️** \n\nHíbrido, porém quase remoto. encontro até 1x por mês para alinhamentos.\n\n## Nossa empresa\n\nSomos uma startup de RH com foco na criação e desenvolvimento de produtos interativos. Criamos experiências únicas e engajadoras para empresa e candidato, buscando sempre a melhor tecnologia e o que há de mais novo!\nEstamos em expansão e em busca de pessoas que queiram crescer e construir nossos produtos junto a uma equipe criativa e inovadora.\n\n## 🧩 O que você vai fazer por aqui\n\n- Desenvolver e manter interfaces que te deixem com orgulho, usando React e TypeScript.\n- Escrever código limpo, legível e testável (aquele que o seu “eu do futuro” vai agradecer).\n- Otimizar performance até o Lighthouse ficar verde.\n- Participar do ciclo completo de desenvolvimento, da ideia ao deploy.\n- Trabalhar lado a lado com outros times — sem fronteiras entre frontend, backend e produto.\n- Ajudar a definir e evoluir a arquitetura dos nossos projetos (sim, sua opinião conta).\n- Mentorar os menos experientes.\n\n## Local\n\nHomeoffice com encontro mensal no cowork para alinhamentos. Região de Pinheiros - SP Capital.\nNo dia-a-dia, nosso escritório é o Discord.\n\n## Requisitos\n\n**TLDR;**\n\n- Senior/especialista de verdade.\n- 5 anos ou mais resolvendo desafios;\n- Domínio **REAL** de React, TypeScript, TanStack Query;\n- Tem capacidade de abstrair arquiteturas modernas, com micro-frontends/module federation; \n- Saúde mental pro papo reto de dev sem rivalidades (o clima aqui não será afetado por ego);\n\n**Completo, do anúncio:**\n🧠 Habilidades Necessárias 🧠 \n\n- Experiência sólida em desenvolvimento web e no ciclo de vida completo de produtos.\n- Domínio avançado em TypeScript e proficiência real em React e TanStack Query e NextJs.\n- Experiência com bibliotecas, frameworks e ferramentas como Chakra UI, Storybook, NX etc.\n- Conhecimento em arquiteturas modernas, incluindo micro-frontends e Module Federation.\n- Familiaridade com ferramentas de build e task runners (Webpack, Rollup, Nx).\n- Capacidade de escrever código limpo, eficiente e reutilizável (seu código não “reacta” à toa, certo? Certo?! 😄).\n- Conhecimento sólido em integração e consumo de APIs RESTful.\n- Experiência em ambientes ágeis (Scrum/Kanban).\n- Domínio de testes, depuração e boas práticas de segurança em aplicações web.\n- Entendimento de design responsivo e desenvolvimento para dispositivos móveis.\n- Atualização constante sobre tendências e boas práticas de Front-End.\n- Excelentes habilidades de comunicação e colaboração em equipe.\n- Curiosidade, autonomia e vontade de aprender continuamente.\n- Inglês avançado para leitura e comunicação técnica.\n\n## Benefícios\n\n- Horário Flexível\n- DayOff aniversário\n- Possibilidade de Programa de Ações mediante desempenho\n- Programa de pontos interno - Kolabits!\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nO processo é feito todo na nossa plataforma de ATS, que você poderá um dia nos ajudar a desenvolver.\nAcesse a vaga e faça sua inscrição em: [https://nossas.vagas.kolab.ee/portal](https://nossas.vagas.kolab.ee/portal)\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 3 dias, a depender dos cards do Jira. \n\n#### Alocação\n- Híbrido (encontro até 1x por mês para alinhamentos)\n- Disponibilidade para reuniões de alinhamento diárias (seus horarios devem estar alinhados os o do restante da equipe)\n\n#### Regime\n- PJ\n\n#### Nível\n- Sênior\n- Especialista\n\n## Labels\nHíbrido, PJ, São Paulo, Senior, Especialista",
-      "excerpt": "**🚨 ALERTA! Vaga feita por devs, para devs. ⚠️** Híbrido, porém quase remoto. encontro até 1x por mês para alinhamentos. ## Nossa empresa Somos uma startup de RH com foco na criação e desenvolvimento de produtos inte...",
-      "issueState": "closed",
-      "contentHash": "b3aec0468279c3ecfc0452c6faa67418e7e4c2fa96d61a39feac9877a74887ab",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "pj",
-        "remoto",
-        "são paulo",
-        "especialista",
-        "híbrido"
-      ],
-      "author": {
-        "id": "murilolr",
-        "name": "murilolr",
-        "handle": "murilolr",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/17301238?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Kolab",
-      "createdAt": "2026-02-12T21:21:38Z",
-      "updatedAt": "2026-04-13T11:27:35Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8441",
       "sourceType": "github-issue"
     },
     {
