@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-06-08T22:21:24.924Z",
+  "generatedAt": "2026-06-09T11:55:24.429Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
-    "gh_5791db11bff49b64cbc3e58f",
-    "gh_e03ec064cb4cee84535719c4",
     "gh_d58a3cc5950813a3f2f5690f",
     "gh_951802ace03a89fab8398ab1",
     "gh_c51cad7207f84d39bb00f426",
@@ -23,91 +21,11 @@
     "gh_29e5a819609426e7fb30ddaf",
     "gh_a0f4bab7589fd4825951c6df",
     "gh_5e7c0ed3e21fb1a527ca77ca",
-    "gh_962eeb5d07c4cee43120e80f"
+    "gh_962eeb5d07c4cee43120e80f",
+    "gh_4e61569a5d7ecd89c151cb8a",
+    "gh_4fe43a3256a6d731ae826236"
   ],
   "items": [
-    {
-      "id": "gh_5791db11bff49b64cbc3e58f",
-      "sourceId": "marmelo/tech-companies-in-portugal#442",
-      "title": "New column for popular tag to help search",
-      "description": "given the recent changes in tech related to AI I'd suggest to have a way to figure out AI focused companies.\n\nand in retrospective maybe it would be nice to have a column for popular tags\n\ni give you a list of some possible tags based on chat gpt although i think this list could be improved \n\nthis could be added to the top of the document so people could use it\n\n`ai` `machine_learning` `data_science` `cloud` `devops` `cybersecurity` `frontend` `backend` `fullstack` `mobile` `ui_ux` `product_management` `qa_testing` `blockchain` `iot` `automation` `sustainability`",
-      "excerpt": "given the recent changes in tech related to AI I'd suggest to have a way to figure out AI focused companies. and in retrospective maybe it would be nice to have a column for popular tags i give you a list of some poss...",
-      "issueState": "open",
-      "contentHash": "55cd317b4e21ac63ab8a145c34fc51580c5bf84e1681062abcea93e23a979060",
-      "repository": "marmelo/tech-companies-in-portugal",
-      "repositoryUrl": "https://github.com/marmelo/tech-companies-in-portugal",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "frontend",
-        "backend",
-        "fullstack",
-        "devops",
-        "data"
-      ],
-      "author": {
-        "id": "navyseai",
-        "name": "navyseai",
-        "handle": "navyseai",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/3933250?v=4"
-      },
-      "community": {
-        "id": "marmelo",
-        "name": "marmelo",
-        "avatarUrl": "https://github.com/marmelo.png?size=80",
-        "repository": "marmelo/tech-companies-in-portugal",
-        "url": "https://github.com/marmelo/tech-companies-in-portugal"
-      },
-      "createdAt": "2025-10-02T17:00:34Z",
-      "updatedAt": "2025-10-02T17:01:27Z",
-      "url": "https://github.com/marmelo/tech-companies-in-portugal/issues/442",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e03ec064cb4cee84535719c4",
-      "sourceId": "awesome-jobs/china#4",
-      "title": "[Remote] Senior Web3/React.js Developer – Token Presale dApp",
-      "description": "🚨 We’re hiring a **Senior Web3/React.js Developer** to help us scale token sale app — a real-world token presale and staking platform that connects crypto with actual services like food preorders and loyalty rewards.\n\nYou’ll be joining a lean, focused team building the next phase of our dApp — including staking mechanics, on-chain rewards, and seamless user dashboards.\n\n**Role Details:**\n- **Position:** Senior Software Developer (Solidity / Frontend / Full Stack)\n- **Tech Stack:** ethers.js, Solidity, React, TypeScript, Node.js, Vite\n- **Work Type:** Fully Remote, async-friendly\n- **Schedule:** Full-Time/Part-Time (Up to 40 hrs/week)\n- **Compensation:** $120k–$250k/year USD equivalent (based on experience & specialization)\n\n**What We’re Looking For:**\n- Experienced blockchain devs with Solidity and smart contract expertise\n- Engineers comfortable working across the stack — React.js/TypeScript + backend APIs\n- Frontend developers with deep React.js/Next.js experience and Web3 integration exposure\n- Clean, well-structured code habits and Git proficiency\n- A team-first, async-friendly, product-focused mindset\n- Experience working with existing codebases and iterating fast\n\nNDA is required prior to codebase access and technical call.\n\nIf this sounds like something you’d enjoy working on, let’s connect. Apply here: https://www.metabytelabs.com/careers/web3-developer, and feel free to send any questions to 📩careers@metabytelabs.com.\nKnow someone who’s a fit? Referrals welcome at 📩referrals@metabytelabs.com.",
-      "excerpt": "🚨 We’re hiring a **Senior Web3/React.js Developer** to help us scale token sale app — a real-world token presale and staking platform that connects crypto with actual services like food preorders and loyalty rewards....",
-      "issueState": "open",
-      "contentHash": "66a8c29bad593344c579e183fc480ace92705ee554b5d9fcca187778bce67119",
-      "repository": "awesome-jobs/china",
-      "repositoryUrl": "https://github.com/awesome-jobs/china",
-      "region": "Asia",
-      "country": "China",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "react",
-        "typescript",
-        "node",
-        "senior"
-      ],
-      "author": {
-        "id": "mejdanny",
-        "name": "mejdanny",
-        "handle": "mejdanny",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12447589?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/china",
-        "url": "https://github.com/awesome-jobs/china"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 120000,
-        "max": 250000,
-        "period": "hour"
-      },
-      "createdAt": "2025-09-24T02:14:06Z",
-      "updatedAt": "2025-09-24T02:14:06Z",
-      "url": "https://github.com/awesome-jobs/china/issues/4",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_d58a3cc5950813a3f2f5690f",
       "sourceId": "awesome-jobs/vietnam#4787",
@@ -789,6 +707,77 @@
       "createdAt": "2025-08-01T20:50:49Z",
       "updatedAt": "2025-08-01T20:50:49Z",
       "url": "https://github.com/TechnologyMasters/jobs/issues/718",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4e61569a5d7ecd89c151cb8a",
+      "sourceId": "TechnologyMasters/jobs#717",
+      "title": "AI Solution Architect",
+      "description": "Apply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com)\n\n\n**Role - AI Solution Architect \nLocation - Remote, USA - PST time zone\nContract role** \n\nThe AI Solution Architect will be responsible for translating complex business challenges into viable, scalable, and secure AI/ML solutions. This role requires a deep understanding of AI/ML methodologies, data architectures, cloud platforms, and software engineering best practices. The successful candidate will work closely with business stakeholders, data scientists, ML engineers, software developers, and IT operations teams to architect, guide, and ensure the successful delivery of AI-powered products and services.\n\nyears of experience in solution architecture, with at least [Y+] years specifically focused on designing and implementing AI/ML solutions in an enterprise environment. Proven expertise in designing and deploying end-to-end machine learning pipelines. Strong understanding of various AI/ML techniques and algorithms (e.g., supervised, unsupervised, reinforcement learning, deep learning, NLP, computer vision). Hands-on experience with at least one major cloud platform's AI/ML services (AWS, Azure, GCP). Proficiency in programming languages commonly used in AI/ML (e.g., Python, R, Java). Familiarity with MLOps principles and tools for continuous integration, deployment, and monitoring of ML models. Solid understanding of data governance, data quality, and data security principles. Excellent problem-solving, analytical, and critical thinking skills. Strong communication, presentation, and interpersonal skills, with the ability to influence and collaborate effectively across diverse teams. Preferred Qualifications: Experience with Generative AI models (LLMs, diffusion models) and related frameworks (e.g., LangChain, LlamaIndex). Experience with big data technologies (e.g., Spark, Hadoop, Kafka). Certifications in relevant cloud AI/ML platforms (e.g., AWS Certified Machine Learning Specialty, Google Cloud Professional Machine Learning Engineer). Experience with agile development methodologies\n\n\nApply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com)",
+      "excerpt": "Apply to [rahul.g@laibatechnology.com](mailto:rahul.g@laibatechnology.com) **Role - AI Solution Architect Location - Remote, USA - PST time zone Contract role** The AI Solution Architect will be responsible for transl...",
+      "issueState": "open",
+      "contentHash": "baf5392df4bf8a9e16e3986d5a43cf4080521d540bdc385d7c0a1ae2f2c9983b",
+      "repository": "TechnologyMasters/jobs",
+      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "python",
+        "java",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "Rahul-garg60",
+        "name": "Rahul-garg60",
+        "handle": "Rahul-garg60",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
+      },
+      "community": {
+        "id": "TechnologyMasters",
+        "name": "TechnologyMasters",
+        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
+        "repository": "TechnologyMasters/jobs",
+        "url": "https://github.com/TechnologyMasters/jobs"
+      },
+      "createdAt": "2025-08-01T15:52:12Z",
+      "updatedAt": "2025-08-01T15:52:12Z",
+      "url": "https://github.com/TechnologyMasters/jobs/issues/717",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4fe43a3256a6d731ae826236",
+      "sourceId": "TechnologyMasters/jobs#716",
+      "title": "Electrical Equipment Test Engineer",
+      "description": "APPLY on :    Email: **rahul.g@laibatechnology.com**\n\n\n****Position: Heavy Equipment Test Engineer\nLocation: Erie, PA (Onsite role)\nFull time / Permanent / Annual Salary**** \n\n\nRoles & Responsibilities:\n\nPerform all tests with minimum supervision, involving knowledge of power and control electronics, difficult circuits, electrical measurements, electrical theory and calculations, testing operations and data acquisition. \nDevelop, setup, and execute assigned tests\nAttend and contribute to reviews with leads, engineering, EHS, and others when necessary to review, update, approve and perform proposed functionality tests or similar changes \nAttend necessary safety and qualification training for working on electrical and mechanical test stands.\nWork on and communicate effectively with a cross functional team of technicians, engineers and Safety personnel\nProvide technical expertise as needed to ensure test needs are met\nEnsure all assigned tests are performed and documented properly\nAttend test review/planning meetings as needed\n\nWork Experience\n\nRequired Skills:\n\nAssociates degree in Electrical or Electronics Technology or a related technical discipline from an accredited university or college (Or a High School Diploma / GED with a minimum of 2 years of Military Technical Training or Electrical/Test experiences)\nHands on electrical troubleshooting capability and experience\nUnderstanding and ability to work with complicated electrical schematics, verbal instructions, and / or drawings \nTest Documentation writing/development capability and experience \nStrong computer skills (Word, Excel, Office, PowerPoint)\nAbility to meet physical / safety standards for heavy equipment test operations\nAbility to work weekends and/or on a rotating shift\n\n\nDesired Skills:\n\nA minimum of 1 year of work experience in a heavy equipment test related field\nKnowledge of AC / DC theory, Digital Electronics, 3 phase power, electric motor mechanics, electric motor theory (AC/DC), rotating machinery testing, electrical and mechanical test instrumentation, and troubleshooting electrical, mechanical, and hydraulic systems\nKnowledge and/or training on Pneumatic Systems\nAbility to properly use and care for assigned tools and equipment\nAbility to adhere to standards and do a quality job in a safe and timely manner\nAbility to promote climate of cooperation, such as; leading by example mentoring others in Quality, Safety, Environmental, and Lean philosophies\nAbility to rotate through all or most of the processes, rather than being assigned to a specific task\nAbility to work as part of a team and perform all related duties\n \n\nPhysical Requirements & Work Environment:\n\nMostly heavy industrial test environment with work on high HP (1000 KVA), medium voltage (2 KV) and high current (10 KA) systems and heavy mechanical machinery.\nFrequent requirement to lift up to 50 lbs., frequently required to walk, climb, bend, reach outward, and handle materials and tools. Occasionally required to sit, squat and/or kneel.\nWhile performing duties on this job, the employee is exposed to wet or hot, humid conditions (non-weather); work near moving mechanical parts and vibration. The noise level is usually loud. The vision requirements include: close vision, distance vision, peripheral vision, depth perception and ability to adjust focus.\nSubstantial amounts of telephone and computer work.\nHeavily Regulated Industries with strict adherence to procedures.\nFlexibility to meet business deadlines by staying late or arriving early.\nVaried Work Schedule to meet equipment delivery schedules. Weekend and rotating shift work.\nAbility to use personal transportation to visit customer locations.\n\n\nEmail: rahul.g@laibatechnology.com",
+      "excerpt": "APPLY on : Email: **rahul.g@laibatechnology.com** ****Position: Heavy Equipment Test Engineer Location: Erie, PA (Onsite role) Full time / Permanent / Annual Salary**** Roles & Responsibilities: Perform all tests with...",
+      "issueState": "open",
+      "contentHash": "d3b03192b89c3b5bbb51872f2dc2f4d131dae1833b236a1ef85592e6f19bbdb4",
+      "repository": "TechnologyMasters/jobs",
+      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "onsite",
+        "data"
+      ],
+      "author": {
+        "id": "Rahul-garg60",
+        "name": "Rahul-garg60",
+        "handle": "Rahul-garg60",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
+      },
+      "community": {
+        "id": "TechnologyMasters",
+        "name": "TechnologyMasters",
+        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
+        "repository": "TechnologyMasters/jobs",
+        "url": "https://github.com/TechnologyMasters/jobs"
+      },
+      "createdAt": "2025-08-01T15:04:02Z",
+      "updatedAt": "2025-08-01T15:05:24Z",
+      "url": "https://github.com/TechnologyMasters/jobs/issues/716",
       "sourceType": "github-issue"
     }
   ]
