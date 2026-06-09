@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-09T14:32:10.628Z",
+  "generatedAt": "2026-06-09T17:20:51.051Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_7ec4f81919903459594c39ae",
+    "gh_1c0afba85af9b58d3bdb9fae",
     "gh_aee09e92fadf8366a70512db",
     "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
@@ -21,11 +23,95 @@
     "gh_c1ac097a6489466dda237c12",
     "gh_83b66ce2daefa84016b71185",
     "gh_8ee64993911f93d90ce95023",
-    "gh_c4236f2f682f1448af33b055",
-    "gh_00f43877d5ad16b13816919e",
-    "gh_5bbf90a5dd403bda6fdd6036"
+    "gh_c4236f2f682f1448af33b055"
   ],
   "items": [
+    {
+      "id": "gh_7ec4f81919903459594c39ae",
+      "sourceId": "backend-br/vagas#12250",
+      "title": "[Alocação/Florianópolis] Fullstack developer (Python)- Tributo Devido",
+      "description": "**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n**Requisitos obrigatórios**\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n**INFORMAÇÕES GERAIS DA OPORTUNIDADE**\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\nEstamos localizados no bairro Estreito — Florianópolis.",
+      "excerpt": "**DESENVOLVEDOR FULL-STACK** Presencial | Florianópolis Buscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. V...",
+      "issueState": "open",
+      "contentHash": "9d5b082d516f05937148ea40d33372e560f831477d142e0258d0d86583546ff4",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "javascript",
+        "python",
+        "django",
+        "presencial",
+        "aws",
+        "mongodb",
+        "postgresql"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-06-09T14:42:46Z",
+      "updatedAt": "2026-06-09T14:43:02Z",
+      "url": "https://github.com/backend-br/vagas/issues/12250",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1c0afba85af9b58d3bdb9fae",
+      "sourceId": "pydevbr/vagas#45",
+      "title": "[Florianópolis] Fullstack Developer (Python) na @Tributodevido",
+      "description": "### Nossa empresa\n\nSomos uma taxtech que já robotizou mais de R$2 bilhões em créditos tributários. Usamos IA e automação para transformar um processo que o mercado faz em 60 dias em apenas 48 horas. Valorizamos quem entrega o 1% a mais, questiona o que não funciona e entende que disciplina é liberdade. Somos um time de alta performance, unido por amor, honra e propósito. A Tributo está crescendo — e quem está aqui cresce junto.\n\n### Descrição da vaga\n\n**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n### Local\n\nEscritório - Florianópolis (Estreito)\n\n### Requisitos\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n### Benefícios\n\n**INFORMAÇÕES GERAIS DA OPORTUNIDADE**\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\n\n\n### Contratação\n\nPJ\n\n### Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n### Tempo médio de feedbacks\n\n_No response_\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [x] Alocado\n- [ ] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [ ] CLT\n- [ ] Estágio\n- [ ] Freela\n- [x] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [x] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nR$ 5k - R$ 10k",
+      "excerpt": "### Nossa empresa Somos uma taxtech que já robotizou mais de R$2 bilhões em créditos tributários. Usamos IA e automação para transformar um processo que o mercado faz em 60 dias em apenas 48 horas. Valorizamos quem en...",
+      "issueState": "open",
+      "contentHash": "f4e9999a0fe688ad96d3eac47f7e2b410e6041216cb7b0f0a8d751cbc9f036bb",
+      "repository": "pydevbr/vagas",
+      "repositoryUrl": "https://github.com/pydevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "alocado",
+        "freela",
+        "part time",
+        "pj",
+        "remoto",
+        "full time",
+        "clt",
+        "especialista"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "pydevbr",
+        "name": "pydevbr",
+        "avatarUrl": "https://github.com/pydevbr.png?size=80",
+        "repository": "pydevbr/vagas",
+        "url": "https://github.com/pydevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 5000,
+        "max": 10000,
+        "period": "hour"
+      },
+      "createdAt": "2026-06-09T14:32:47Z",
+      "updatedAt": "2026-06-09T14:33:20Z",
+      "url": "https://github.com/pydevbr/vagas/issues/45",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_aee09e92fadf8366a70512db",
       "sourceId": "frontendbr/vagas#8479",
@@ -657,80 +743,6 @@
       "createdAt": "2026-06-03T07:37:33Z",
       "updatedAt": "2026-06-04T01:28:49Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4939",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_00f43877d5ad16b13816919e",
-      "sourceId": "awesome-jobs/vietnam#4938",
-      "title": "[Remote] Web3 Security Lead / Senior - Salary: $2500 - $3000",
-      "description": "💰 Salary: $2500 - $3000 \n📍 Location: **Remote & Hybrid work model with an office based in Ho Chi Minh City**\n\n🛠 Key Responsibilities:\n- Coordinate smart contract audits, remediation, and Web3 regulatory readiness.\n- Perform security reviews for vendors, custodians, exchanges, and protocols.\nSupport cloud infrastructure, applications, IAM, and internal systems security.\n\n🎯 What We Are Looking For:\n- Experience: 5+ years in cybersecurity, with 2+ years specifically in blockchain, smart contracts, or Web3 infrastructure.\n- Core Tech: Strong understanding of Ethereum/EVM ecosystems, wallets, multisigs, and common Web3 attack vectors.\n- Tools & Cloud: Familiarity with Web3 monitoring tools (e.g., Hypernative, Blockaid, Fireblocks, SAFE) and AWS/SaaS environments.\n- Skills: Strong communication, stakeholder management, and ability to thrive in a fast-moving environment.\n\nContact me via Zalo 0834424446 - Lâm",
-      "excerpt": "💰 Salary: $2500 - $3000 📍 Location: **Remote & Hybrid work model with an office based in Ho Chi Minh City** 🛠 Key Responsibilities: - Coordinate smart contract audits, remediation, and Web3 regulatory readiness. - ...",
-      "issueState": "open",
-      "contentHash": "b96082ef1c5272bd4399a1adde0ef97231106bb075d8384ce81e866f06c61c6c",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "senior"
-      ],
-      "author": {
-        "id": "thanhlam1405",
-        "name": "thanhlam1405",
-        "handle": "thanhlam1405",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/130440297?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 2500,
-        "max": 3000,
-        "period": "hour"
-      },
-      "createdAt": "2026-06-03T04:56:39Z",
-      "updatedAt": "2026-06-03T04:56:39Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4938",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5bbf90a5dd403bda6fdd6036",
-      "sourceId": "lukasz-madon/awesome-remote-job#1067",
-      "title": "远程AI工程师",
-      "description": "AI 效能官                                    📩 简历投递：@foya991\nAgent 架构师\n高级 AI 开发工程师\nAI 应用开发工程师\n\"高级/专家 AI 流程开发工程师\n（ Agent/自动化方向）\"\n高级/专家 AI 应用工程师（ Agent Ops ）\n高级产品经理\n高级后端工程师\nFlutter 高级开发工程师\n运维工程师\n高级 UI 设计师\n测试工程师\nAI 研发工程师\nai 产品经理\nAgent 架构师\nai 产品经理\nAI 增效前端工程师\nAI 应用工程师\nAI 设计师/ AI designer\nAI 效能工程师\nai 产品研发工程师\nAI 应用工程师\nAI 应用工程师\nAI 架构师\niOS 开发工程师\nAndroid 开发工程师\nAI 应用工程师\nAI 产品经理（ Agent / Skill 方向）",
-      "excerpt": "AI 效能官 📩 简历投递：@foya991 Agent 架构师 高级 AI 开发工程师 AI 应用开发工程师 \"高级/专家 AI 流程开发工程师 （ Agent/自动化方向）\" 高级/专家 AI 应用工程师（ Agent Ops ） 高级产品经理 高级后端工程师 Flutter 高级开发工程师 运维工程师 高级 UI 设计师 测试工程师 AI 研发工程师 ai 产品经理 Agent 架构师 ai 产品经理 AI 增效前端工程师...",
-      "issueState": "open",
-      "contentHash": "93d71b86268b23982a4ba18c0026c9011b9d60f42e27c5c4e1834092253bf27b",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "design"
-      ],
-      "author": {
-        "id": "DaphneWhit",
-        "name": "DaphneWhit",
-        "handle": "DaphneWhit",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/229247587?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-06-03T02:55:54Z",
-      "updatedAt": "2026-06-03T02:55:54Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1067",
       "sourceType": "github-issue"
     }
   ]

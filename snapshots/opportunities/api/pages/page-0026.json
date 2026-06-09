@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-09T11:55:24.429Z",
+  "generatedAt": "2026-06-09T17:20:51.051Z",
   "page": 26,
   "pageSize": 20,
   "nextPage": "api/pages/page-0027.json",
   "ids": [
+    "gh_9f2c52d5334b5cfe27646aca",
     "gh_d093b936f12b8b7228e48a69",
     "gh_7fbd32ca1dc5a22323f0a6e0",
     "gh_ad54015a0c17ab9060f43a90",
@@ -22,10 +23,43 @@
     "gh_52f74cb5b8a0bcd30d728510",
     "gh_3a92264005538d87067d4af3",
     "gh_59ebba4f6529d0b47e4e25da",
-    "gh_269529978ec76a57ddf1c6b3",
-    "gh_e6335359c657525c793ca670"
+    "gh_269529978ec76a57ddf1c6b3"
   ],
   "items": [
+    {
+      "id": "gh_9f2c52d5334b5cfe27646aca",
+      "sourceId": "italiaremote/awesome-italia-remote#346",
+      "title": "Typo: talens",
+      "description": "On the website it says **_italian talens_**... it obviously should be **_Italian talents_**.",
+      "excerpt": "On the website it says **_italian talens_**... it obviously should be **_Italian talents_**.",
+      "issueState": "open",
+      "contentHash": "e9bda19000a4ca1c312762969e84d748d7584aec7ff60fef292081dcff661268",
+      "repository": "italiaremote/awesome-italia-remote",
+      "repositoryUrl": "https://github.com/italiaremote/awesome-italia-remote",
+      "region": "Europe",
+      "country": "Italy",
+      "tags": [
+        "bug",
+        "todo"
+      ],
+      "author": {
+        "id": "mfirry",
+        "name": "mfirry",
+        "handle": "mfirry",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1107071?v=4"
+      },
+      "community": {
+        "id": "italiaremote",
+        "name": "italiaremote",
+        "avatarUrl": "https://github.com/italiaremote.png?size=80",
+        "repository": "italiaremote/awesome-italia-remote",
+        "url": "https://github.com/italiaremote/awesome-italia-remote"
+      },
+      "createdAt": "2023-09-07T07:20:09Z",
+      "updatedAt": "2025-06-12T13:40:15Z",
+      "url": "https://github.com/italiaremote/awesome-italia-remote/issues/346",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d093b936f12b8b7228e48a69",
       "sourceId": "seujobtech/vagas#411",
@@ -712,40 +746,6 @@
       "createdAt": "2023-05-12T09:45:12Z",
       "updatedAt": "2023-05-12T09:45:12Z",
       "url": "https://github.com/twjug/jobs/issues/109",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e6335359c657525c793ca670",
-      "sourceId": "IonicBrazil/vagas#6",
-      "title": "[ITAPERUNA] Desenvolvedor IONIC - Remoto",
-      "description": "**Descrição da Vaga**\n\n**Qualificação**\n\nExperiência em desenvolvimento de aplicativos com IONIC iOS e Android\nExperiência em projetos Mobile\nConhecimentos avançados em front-end: HTML, CSS e Javascript\nLayout responsivo\nHabilidade para continuar códigos de outros desenvolvedores\n\n**Job**\n\nFinalização/melhorias em aplicativo IONIC\nTrabalho por demanda\n\n**Como se  candidatar**\n\nEnviando currículo para anderson@friweb.com.br",
-      "excerpt": "**Descrição da Vaga** **Qualificação** Experiência em desenvolvimento de aplicativos com IONIC iOS e Android Experiência em projetos Mobile Conhecimentos avançados em front-end: HTML, CSS e Javascript Layout responsiv...",
-      "issueState": "open",
-      "contentHash": "93401dc968960e7c42592d8693073d507e5db4e179572fe9608bcf137365c223",
-      "repository": "IonicBrazil/vagas",
-      "repositoryUrl": "https://github.com/IonicBrazil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "friweb",
-        "name": "friweb",
-        "handle": "friweb",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5216412?v=4"
-      },
-      "community": {
-        "id": "IonicBrazil",
-        "name": "IonicBrazil",
-        "avatarUrl": "https://github.com/IonicBrazil.png?size=80",
-        "repository": "IonicBrazil/vagas",
-        "url": "https://github.com/IonicBrazil/vagas"
-      },
-      "createdAt": "2023-04-19T17:03:11Z",
-      "updatedAt": "2023-04-19T17:16:31Z",
-      "url": "https://github.com/IonicBrazil/vagas/issues/6",
       "sourceType": "github-issue"
     }
   ]
