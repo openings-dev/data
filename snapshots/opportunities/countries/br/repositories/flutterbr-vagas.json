@@ -1,16 +1,55 @@
 {
-  "generatedAt": "2026-04-29T13:29:01.811Z",
+  "generatedAt": "2026-06-10T07:03:11.231Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "flutterbr/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 1,
-    "closedIssues": 29
+    "openIssues": 2,
+    "closedIssues": 28
   },
-  "dataHash": "59ab1f40c211222b33693950001f1d4eb21a360f02323f27f823da7bc3add141",
+  "dataHash": "150740d27dace5c3019cfeef1292ac4eac74f8d03e7ea80b0968ae7b2b725bad",
   "items": [
+    {
+      "id": "gh_2c4e94906ddf392c93f4f396",
+      "sourceId": "flutterbr/vagas#345",
+      "title": "Revisão e Validação Técnica para Modelos de IA (Dev Mid/Senior)",
+      "description": "Revisão técnica e validação de desafios de codificação gerados automaticamente para o treinamento de modelos de IA.\n\nTecnologias Envolvidas:\nAs tarefas envolvem código em múltiplos ecossistemas. Você deve ser capaz de revisar e avaliar projetos escritos em:\n\nPython\n\nJavaScript / TypeScript\n\nGo\n\nRust\n\nJava\n\nResponsabilidades:\nAvaliar se os desafios de código foram definidos de forma clara, lógica e correta.\n\nGarantir que os testes automatizados reflitam com precisão o sucesso da solução.\n\nIdentificar falsos positivos: determinar se uma solução que \"passa nos testes\" realmente resolve o problema raiz.\n\nAplicar critérios técnicos rigorosos e padrões de qualidade consistentes em todas as avaliações.\n\nPerfil Desejado:\nEsta é uma função exclusiva para Engenheiros de Software Plenos e Seniores com experiência real em ambientes de produção.\n\nRequisitos Técnicos:\nExperiência profissional comprovada em desenvolvimento e arquitetura de software.\n\nFamiliaridade sólida com revisão de código (Code Review) de outros engenheiros.\n\nDomínio avançado de testes automatizados e entendimento de suas falhas e limitações.\n\nHistórico de contribuição ou trabalho com projetos Open Source.\n\nExatidão, atenção extrema aos detalhes e forte julgamento técnico.\n\nInglês fluente (leitura e escrita): toda a comunicação do projeto é em inglês.\n\nDiferenciais:\nExperiência prática com TDD (Desenvolvimento Orientado a Testes) ou design de testes.\n\nVivência em arquiteturas e bases de código grandes ou complexas.\n\nNota sobre a função: Este é um trabalho técnico especializado, analítico e baseado em tarefas. O foco é validação, auditoria e julgamento técnico — não a produção de novas linhas de código.\n\nProcesso de Seleção (100% Assíncrono)\nO processo é direto, respeita o seu tempo e não envolve entrevistas em vídeo.\n\nFase 1 — Inscrição: Envie seu perfil através do formulário. Será avaliado seu histórico profissional, contribuições no GitHub/Open Source e respostas de triagem.\n\nFase 2 — Exercício Técnico: Os pré-selecionados receberão um teste prático que simula o dia a dia do projeto. Você revisará códigos reais e avaliará a validade dos testes. O desempenho nesta etapa é o nosso principal critério de contratação.\n\nOs aprovados serão integrados e iniciarão diretamente no projeto.\n\nInscrição:\nhttps://bit.ly/recrutamentodevs",
+      "excerpt": "Revisão técnica e validação de desafios de codificação gerados automaticamente para o treinamento de modelos de IA. Tecnologias Envolvidas: As tarefas envolvem código em múltiplos ecossistemas. Você deve ser capaz de ...",
+      "issueState": "open",
+      "contentHash": "86d6c54ce153222d5e29879104c97625fd2cde4c82df553637c3009f829830d6",
+      "repository": "flutterbr/vagas",
+      "repositoryUrl": "https://github.com/flutterbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "typescript",
+        "python",
+        "java",
+        "senior",
+        "pleno",
+        "principal",
+        "design"
+      ],
+      "author": {
+        "id": "cassiarecruta",
+        "name": "cassiarecruta",
+        "handle": "cassiarecruta",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/292327505?v=4"
+      },
+      "community": {
+        "id": "flutterbr",
+        "name": "flutterbr",
+        "avatarUrl": "https://github.com/flutterbr.png?size=80",
+        "repository": "flutterbr/vagas",
+        "url": "https://github.com/flutterbr/vagas"
+      },
+      "createdAt": "2026-06-10T06:37:52Z",
+      "updatedAt": "2026-06-10T06:37:52Z",
+      "url": "https://github.com/flutterbr/vagas/issues/345",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c68291eef5db5e9cb0e89fc3",
       "sourceId": "flutterbr/vagas#344",
@@ -971,40 +1010,6 @@
       "createdAt": "2024-02-06T19:28:19Z",
       "updatedAt": "2024-05-29T12:23:01Z",
       "url": "https://github.com/flutterbr/vagas/issues/317",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_437c5a6dfeb57d5cd620a68b",
-      "sourceId": "flutterbr/vagas#313",
-      "title": "[100% remoto] Flutter Developer na nexmuv",
-      "description": "## Descrição da vaga\n\nAtuar no desenvolvimento, sustentação, manutenção, monitoria e documentação dos sistemas;\n· Participar dos desenhos de padrões de arquitetura e soluções de melhoria para os projetos.\n\n## Local\n\n100% remoto\n\n## Requisitos\nNecessário:\n· Desenvolvimento em Flutter como linguagem principal e Nativo (Android ou IOS);\n· Git;\n· Design Patterns: MVVM e Clean Architecture;\n· Guidelines (Material Design);\n· Json;\n· Rest;\n· Kanban.\n\n**Desejáveis:**\nFluência com Git Flow\n· Retrofit\n· Scrum\n· Programação Reativa\n· Java e Kotlin (ou) Swift\n· .Net\n\n## Contratação\n\nPJ a combinar\n\n## Como se candidatar\n\nPor favor envie um email para helen.matos@nexmuv.com.br  com seu CV anexado - enviar no assunto: Vaga Flutter\n\n## Labels\n\n- PJ\n- Pleno\n- Remoto\n- Sênior",
-      "excerpt": "## Descrição da vaga Atuar no desenvolvimento, sustentação, manutenção, monitoria e documentação dos sistemas; · Participar dos desenhos de padrões de arquitetura e soluções de melhoria para os projetos. ## Local 100%...",
-      "issueState": "closed",
-      "contentHash": "7684bc31dbb4886f2ffe93bc81b0410d20088efb5d613296a1ba2b00e96f6ff9",
-      "repository": "flutterbr/vagas",
-      "repositoryUrl": "https://github.com/flutterbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "stale"
-      ],
-      "author": {
-        "id": "HelenNexmuv",
-        "name": "HelenNexmuv",
-        "handle": "HelenNexmuv",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/98895776?v=4"
-      },
-      "community": {
-        "id": "flutterbr",
-        "name": "flutterbr",
-        "avatarUrl": "https://github.com/flutterbr.png?size=80",
-        "repository": "flutterbr/vagas",
-        "url": "https://github.com/flutterbr/vagas"
-      },
-      "companyName": "nexmuv",
-      "createdAt": "2024-01-03T12:37:35Z",
-      "updatedAt": "2024-05-03T12:20:22Z",
-      "url": "https://github.com/flutterbr/vagas/issues/313",
       "sourceType": "github-issue"
     },
     {
