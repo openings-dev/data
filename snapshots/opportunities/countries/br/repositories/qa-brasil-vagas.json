@@ -1,16 +1,51 @@
 {
-  "generatedAt": "2026-06-08T20:04:50.486Z",
+  "generatedAt": "2026-06-10T22:50:02.193Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 11,
-    "closedIssues": 19
+    "openIssues": 12,
+    "closedIssues": 18
   },
-  "dataHash": "43b1db31366852ccc58a79bb22dcc7f87fd8981b48b49638b04b57c1169f5956",
+  "dataHash": "d1ca657e819597da0fdc6ac25e00ab0e8e4072813c7a2ba738519d46189024c3",
   "items": [
+    {
+      "id": "gh_ba512639d2f4a5780119340e",
+      "sourceId": "qa-brasil/vagas#1258",
+      "title": "Engenheiro de Software Senior [Revisor]",
+      "description": "Ajude a moldar o futuro dos modelos de IA voltados para desenvolvimento de software. Nesta função, você será responsável por revisar e validar desafios de código em Python, JavaScript e outras linguagens, garantindo precisão técnica, aplicabilidade real e o mais alto padrão de qualidade de dados para sistemas de treinamento de IA.\n\nSobre o Projeto:\nO foco aqui é a revisão técnica e a validação de tarefas de programação geradas automaticamente por IA. Como esses desafios servem de base para o aprendizado dos modelos, os testes automatizados são a nossa \"única fonte da verdade\".\nErros cometidos nesta etapa propagam-se em larga escala — por isso, o nível de criticidade e a exigência de precisão são altíssimos.\nEm cada tarefa, você responderá a três perguntas fundamentais:\nOs requisitos estão claros e bem definidos?Os testes associados validam corretamente esses requisitos?\nUma solução que passa nos testes realmente resolve o problema proposto?\n\nLinguagens do Projeto:\nVocê precisará avaliar e revisar tarefas escritas nas seguintes linguagens:\nPython / JavaScript / TypeScript (Principais)Go / Rust / Java (Secundárias)\n\nPerfil Desejado:\nEsta vaga é destinada a engenheiros de software de nível Pleno/Sênior com experiência real em ambientes de produção.\n\nRequisitos Técnicos:\nExperiência profissional comprovada no desenvolvimento de software em ambientes de produção.\nVivência prática em revisão de código (code review) de outros desenvolvedores.\nDomínio sólido de testes automatizados — sabendo exatamente como os testes validam (ou falham em validar) o comportamento do código.\nExperiência com contribuições ou projetos open source.\nPossuir um perfil ativo no GitHub e um perfil atualizado no LinkedIn (Obrigatório para a candidatura).\nFluência/conforto para trabalhar integralmente em inglês (leitura e escrita).\n\nDiferenciais:\nExperiência com Desenvolvimento Orientado a Testes (TDD) ou design de testes.\nFamiliaridade com bases de código grandes ou complexas.\n\nProcesso Seletivo:\nO processo é 100% assíncrono, ágil e sem entrevistas presenciais/síncronas, respeitando o seu tempo.\nFase 1:\nInscrição – Envie seu perfil pelo formulário. Avaliaremos seu histórico profissional, seu GitHub e suas respostas de triagem.\nFase 2:\nExercício Técnico – Os candidatos selecionados receberão um teste prático curto que simula o dia a dia do projeto: revisar um código gerado e avaliar a validade dos testes.\nO desempenho nesta etapa é o nosso principal critério de escolha.\nAprovado em ambas as fases, você entra direto para o projeto!\n\nInscreva-se diretamente: https://bit.ly/recrutamentodevs",
+      "excerpt": "Ajude a moldar o futuro dos modelos de IA voltados para desenvolvimento de software. Nesta função, você será responsável por revisar e validar desafios de código em Python, JavaScript e outras linguagens, garantindo p...",
+      "issueState": "open",
+      "contentHash": "7ead19c436596495eb726836b397c608419529c77ae7e1c27e9454f86626e0db",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "inglês"
+      ],
+      "author": {
+        "id": "cassiarecruta",
+        "name": "cassiarecruta",
+        "handle": "cassiarecruta",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/292327505?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "createdAt": "2026-06-10T21:57:13Z",
+      "updatedAt": "2026-06-10T21:57:56Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1258",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_294a6653c881356dfec479bd",
       "sourceId": "qa-brasil/vagas#1257",
@@ -1095,47 +1130,6 @@
       "createdAt": "2025-07-08T14:11:59Z",
       "updatedAt": "2026-04-11T02:41:47Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1224",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_01cd8c5d6a5f3dec6247ebb5",
-      "sourceId": "qa-brasil/vagas#1223",
-      "title": "[SÃO PAULO] QA Senior na ATOMIC SOLUTIONS",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n**Test Lead / Analista de Automação de Testes Sênior**\n\nBuscamos 2 profissionais para atuar em um projeto estratégico, com foco na construção de um TCoE (Test Center of Excellence). São excelentes oportunidades para quem tem perfil consultivo, gosta de criar padrões e quer deixar uma base sólida para outros times QA.\nOs profissionais serão responsáveis por definir padrões, boas práticas e diretrizes técnicas para garantir a escalabilidade, manutenção e eficiência na automação de testes em diversas squads.\n\n📍 Local: São Paulo/SP\n\n**Requisitos da vaga**\n• Mapeamento do ambiente tecnológico e definição de tecnologias/metodologias aplicáveis;\n • Criação de fluxograma (BPMN) para desenvolvimento de testes automatizados;\n • Definição de padrões de documentação e boas práticas de scripting;\n • Elaboração de relatório-padrão para testes-piloto;\n • Criação de casos e scripts modelo;\n • Integração dos testes às esteiras de desenvolvimento (Azure DevOps / GitHub Actions);\n • Estabelecer a cultura e boas práticas de QA para o time técnico e cliente.\n\n\n**Desejáveis**\n • Experiência comprovada em automação de testes;\n • Conhecimento avançado em JavaScript ou C#;\n • Domínio de ferramentas de automação como Selenium e Playwright;\n • Domínio em versionamento de código via Git\n • Experiência com Azure DevOps (CI/CD).\n\n\n**Diferenciais**\n• Vivência anterior em projetos de implementação de TCoE;\n• Experiência com integração de testes em pipelines complexas (DevOps/GitHub Actions);\n• Perfil consultivo, com boa comunicação e capacidade de padronização de processos.\n\n\n## Forma de contratação\n\nPJ | Projeto com tempo determinado\n\n## Range Salarial\n\nA vaga paga entre 10.000,00 e 14.000,00 reais.\n\n## Sobre a empresa\n\nA Atomic Solutions é uma consultoria especializada em automação de testes (QA), automação de processos (RPA) e soluções em plataformas como ServiceNow. Atua desde o mapeamento de processos até a implementação e treinamento, sempre com foco em qualidade, agilidade e eficiência.\nCom sede em São Paulo e operação também em Goiania, a empresa se destaca pelo uso de tecnologias avançadas, como seu framework proprietário Proton, além de parcerias com líderes do setor como UiPath e Automation Anywhere. É reconhecida pela equipe qualificada e pelo atendimento próximo e eficiente.\n\n## Como se candidatar\n\n- Por favor envie um email para giovana.silva@atomicsolutions.com.br com seu CV anexado - Enviar no assunto: Analista de Automação de Testes Sênior – SP\n- Candidatar através do site: https://www.linkedin.com/posts/giovana-ferreira-b59a7a209_vaga-automacaodetestes-qa-activity-7346620932691521536-X68K?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUEiPUBVdC4L1iIDJrBZA--NTXOwB2jQ8E \n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: giovana.silva@atomicsolutions.com.br\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- PJ\n- Freela\n- Sênior\n- Especialista\n<!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->\n- Presencial\n- Remoto\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n- São Paulo\n\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "closed",
-      "contentHash": "a4434439ac4a44c169c7f224a0eaf82a1fafefd06f2939bff68cf4745819a83a",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "são paulo",
-        "sênior",
-        "presencial",
-        "especialista",
-        "freela",
-        "stale"
-      ],
-      "author": {
-        "id": "techgiovanaferreira",
-        "name": "techgiovanaferreira",
-        "handle": "techgiovanaferreira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/111767859?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "ATOMIC SOLUTIONS",
-      "createdAt": "2025-07-03T20:11:27Z",
-      "updatedAt": "2026-04-11T02:41:46Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1223",
       "sourceType": "github-issue"
     }
   ]

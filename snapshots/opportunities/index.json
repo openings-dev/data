@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-10T12:16:42.583Z",
+  "generatedAt": "2026-06-10T22:50:02.193Z",
   "schemaVersion": 2,
-  "dataHash": "c3e69a3b4f30308bbf66a292e73eda8db4d0be3ae770996866b14e52e463d04a",
+  "dataHash": "fe2fb732ad340cdcbdb82de372336f3907b07b0b1d11cac91cb0da378f8db735",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2037,
+    "opportunities": 2042,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -42,6 +42,7 @@
       "api/jobs/0e.json",
       "api/jobs/0f.json",
       "api/jobs/10.json",
+      "api/jobs/11.json",
       "api/jobs/12.json",
       "api/jobs/13.json",
       "api/jobs/14.json",
@@ -235,6 +236,7 @@
       "api/jobs/d7.json",
       "api/jobs/d8.json",
       "api/jobs/d9.json",
+      "api/jobs/da.json",
       "api/jobs/db.json",
       "api/jobs/dc.json",
       "api/jobs/dd.json",
@@ -311,6 +313,7 @@
       "api/pages/page-0035.json",
       "api/pages/page-0036.json",
       "api/pages/page-0037.json",
+      "api/pages/page-0038.json",
       "api/search-index.json"
     ]
   },
@@ -349,10 +352,10 @@
       "country": "Brazil",
       "countryCode": "BR",
       "region": "South America",
-      "opportunities": 1188,
+      "opportunities": 1189,
       "repositories": 64,
-      "openIssues": 395,
-      "closedIssues": 793,
+      "openIssues": 403,
+      "closedIssues": 786,
       "indexFile": "countries/br/index.json"
     },
     {
@@ -439,10 +442,10 @@
       "country": "Global",
       "countryCode": "GLOBAL",
       "region": "Global",
-      "opportunities": 258,
+      "opportunities": 261,
       "repositories": 32,
-      "openIssues": 112,
-      "closedIssues": 146,
+      "openIssues": 116,
+      "closedIssues": 145,
       "indexFile": "countries/global/index.json"
     },
     {
@@ -529,9 +532,9 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 125,
+      "opportunities": 126,
       "repositories": 22,
-      "openIssues": 39,
+      "openIssues": 40,
       "closedIssues": 86,
       "indexFile": "countries/us/index.json"
     },
