@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T07:03:11.231Z",
+  "generatedAt": "2026-06-10T12:16:42.583Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
@@ -16,14 +16,14 @@
     "gh_2d997884eb05070aaad627c5",
     "gh_7cb2deb3bfc258051a803597",
     "gh_ef138f55ba7dc1cecd301b2b",
-    "gh_5fce119546346dd36c46aada",
     "gh_68e2c3c83cd7d1a47d1687d9",
     "gh_9daee0fbc36672de1d01592d",
-    "gh_76d093412547fec00da1cc51",
-    "gh_e0dd73ad1839becabb13652a",
     "gh_e5317e216c8839898f0bcfed",
     "gh_511c7cab9c259a36becef3dc",
-    "gh_7ec4f81919903459594c39ae"
+    "gh_7ec4f81919903459594c39ae",
+    "gh_1c0afba85af9b58d3bdb9fae",
+    "gh_aee09e92fadf8366a70512db",
+    "gh_ee71ad4e68f00372f334fae1"
   ],
   "items": [
     {
@@ -475,43 +475,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_5fce119546346dd36c46aada",
-      "sourceId": "frontendbr/vagas#8482",
-      "title": "Free-lancer (Home Office)",
-      "description": "The tasks involve code across multiple ecosystems. Candidates should be capable of reviewing and evaluating projects written in:\n\n\nPython\n\nJavaScript / TypeScript\n\nGo\n\nRust\n\nJava\n\n\nResponsibilities\nEvaluate whether coding challenges are clearly defined, logically structured, and technically correct.\n\nEnsure that automated tests accurately reflect the correctness and success of a solution.\n\nIdentify false positives by determining whether a solution that passes all tests genuinely solves the underlying problem.\n\nApply rigorous technical standards and consistent quality criteria across all evaluations.\n\n\n\nIdeal Candidate Profile\nThis role is exclusively intended for Mid-Level and Senior Software Engineers with proven experience working in production environments.\n\n\n\nTechnical Requirements\nDemonstrated professional experience in software development and software architecture.\n\nStrong familiarity with reviewing code written by other engineers (Code Reviews).\n\nAdvanced knowledge of automated testing, including an understanding of common testing limitations and failure modes.\n\nPrevious contributions to or experience working with Open Source projects.\n\nExceptional accuracy, attention to detail, and sound technical judgment.\n\nFluent English (reading and writing), as all project communication is conducted in English.\n\n\nPreferred Qualifications\nHands-on experience with Test-Driven Development (TDD) and/or test design.\n\nExperience working with large-scale or complex codebases and architectures.\n\n\n\nAbout the Role\nThis is a specialized technical role focused on analysis and task-based work. The primary responsibilities involve validation, auditing, and technical assessment—not the production of new code.\n\nSelection Process (100% Asynchronous)\n\nThe hiring process is straightforward, respects your time, and does not involve video interviews.\n\n\n\nApplication\nSubmit your profile through the application form. We will evaluate your professional background, GitHub/Open Source contributions, and screening responses.\n\n\n\nTechnical Exercise\nShortlisted candidates will receive a practical assessment that closely reflects the day-to-day work of the project. You will review real code submissions and evaluate the validity of automated tests. Performance in this stage is the primary hiring criterion.\n\nSuccessful candidates will be onboarded and begin working directly on the project.\n\n\n\nApply Here\nhttps://bit.ly/recrutamentodevs",
-      "excerpt": "The tasks involve code across multiple ecosystems. Candidates should be capable of reviewing and evaluating projects written in: Python JavaScript / TypeScript Go Rust Java Responsibilities Evaluate whether coding cha...",
-      "issueState": "open",
-      "contentHash": "18ed3a1f4ac03503ba5b6f84fcf498d4e3eae2ffec9bae4ca90296188067daee",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "typescript",
-        "python",
-        "java",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "cassiarecruta",
-        "name": "cassiarecruta",
-        "handle": "cassiarecruta",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/292327505?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "createdAt": "2026-06-10T06:03:39Z",
-      "updatedAt": "2026-06-10T06:03:39Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8482",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_68e2c3c83cd7d1a47d1687d9",
       "sourceId": "backend-br/vagas#12251",
       "title": "Technical Review and Validation of AI-Generated Coding Challenges for Training AI Models",
@@ -580,80 +543,6 @@
       "createdAt": "2026-06-10T05:56:21Z",
       "updatedAt": "2026-06-10T05:57:17Z",
       "url": "https://github.com/nodejsdevbr/vagas/issues/65",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_76d093412547fec00da1cc51",
-      "sourceId": "frontendbr/vagas#8481",
-      "title": "Software Engineers",
-      "description": "The tasks involve code across multiple ecosystems. Candidates should be capable of reviewing and evaluating projects written in:\n\n* Python\n* JavaScript / TypeScript\n* Go\n* Rust\n* Java\n\nResponsibilities\n\n* Evaluate whether coding challenges are clearly defined, logically structured, and technically correct.\n* Ensure that automated tests accurately reflect the correctness and success of a solution.\n* Identify false positives by determining whether a solution that passes all tests genuinely solves the underlying problem.\n* Apply rigorous technical standards and consistent quality criteria across all evaluations.\n\nIdeal Candidate Profile\n\nThis role is exclusively intended for Mid-Level and Senior Software Engineers with proven experience working in production environments.\n\nTechnical Requirements\n\n* Demonstrated professional experience in software development and software architecture.\n* Strong familiarity with reviewing code written by other engineers (Code Reviews).\n* Advanced knowledge of automated testing, including an understanding of common testing limitations and failure modes.\n* Previous contributions to or experience working with Open Source projects.\n* Exceptional accuracy, attention to detail, and sound technical judgment.\n* Fluent English (reading and writing), as all project communication is conducted in English.\n\nPreferred Qualifications\n\n* Hands-on experience with Test-Driven Development (TDD) and/or test design.\n* Experience working with large-scale or complex codebases and architectures.\n\nAbout the Role\n\nThis is a specialized technical role focused on analysis and task-based work. The primary responsibilities involve validation, auditing, and technical assessment—not the production of new code.\n\nSelection Process (100% Asynchronous)\n\nThe hiring process is straightforward, respects your time, and does not involve video interviews.\n\nApplication\n\nSubmit your profile through the application form. We will evaluate your professional background, GitHub/Open Source contributions, and screening responses.\n\nTechnical Exercise\n\nShortlisted candidates will receive a practical assessment that closely reflects the day-to-day work of the project. You will review real code submissions and evaluate the validity of automated tests. Performance in this stage is the primary hiring criterion.\n\nSuccessful candidates will be onboarded and begin working directly on the project.\n\nApply Here\nhttps://bit.ly/recrutamentodevs",
-      "excerpt": "The tasks involve code across multiple ecosystems. Candidates should be capable of reviewing and evaluating projects written in: * Python * JavaScript / TypeScript * Go * Rust * Java Responsibilities * Evaluate whethe...",
-      "issueState": "open",
-      "contentHash": "660012b0d3c2cc49213b5dfef83574c478869955b4374a52f067a0d0873a52a9",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "typescript",
-        "python",
-        "java",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "cassiarecruta",
-        "name": "cassiarecruta",
-        "handle": "cassiarecruta",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/292327505?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "createdAt": "2026-06-10T05:49:25Z",
-      "updatedAt": "2026-06-10T05:49:25Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8481",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e0dd73ad1839becabb13652a",
-      "sourceId": "frontendbr/vagas#8480",
-      "title": "Technical Review and Validation of AI-Generated Coding Challenges for Training AI Models",
-      "description": "The tasks involve code across multiple ecosystems. Candidates should be capable of reviewing and evaluating projects written in:\n\n* Python\n* JavaScript / TypeScript\n* Go\n* Rust\n* Java\n\nResponsibilities\n\n* Evaluate whether coding challenges are clearly defined, logically structured, and technically correct.\n* Ensure that automated tests accurately reflect the correctness and success of a solution.\n* Identify false positives by determining whether a solution that passes all tests genuinely solves the underlying problem.\n* Apply rigorous technical standards and consistent quality criteria across all evaluations.\n\nIdeal Candidate Profile\n\nThis role is exclusively intended for Mid-Level and Senior Software Engineers with proven experience working in production environments.\n\nTechnical Requirements\n\n* Demonstrated professional experience in software development and software architecture.\n* Strong familiarity with reviewing code written by other engineers (Code Reviews).\n* Advanced knowledge of automated testing, including an understanding of common testing limitations and failure modes.\n* Previous contributions to or experience working with Open Source projects.\n* Exceptional accuracy, attention to detail, and sound technical judgment.\n* Fluent English (reading and writing), as all project communication is conducted in English.\n\nPreferred Qualifications\n\n* Hands-on experience with Test-Driven Development (TDD) and/or test design.\n* Experience working with large-scale or complex codebases and architectures.\n\nAbout the Role\n\nThis is a specialized technical role focused on analysis and task-based work. The primary responsibilities involve validation, auditing, and technical assessment—not the production of new code.\n\nSelection Process (100% Asynchronous)\n\nThe hiring process is straightforward, respects your time, and does not involve video interviews.\n\nApplication\n\nSubmit your profile through the application form. We will evaluate your professional background, GitHub/Open Source contributions, and screening responses.\n\nTechnical Exercise\n\nShortlisted candidates will receive a practical assessment that closely reflects the day-to-day work of the project. You will review real code submissions and evaluate the validity of automated tests. Performance in this stage is the primary hiring criterion.\n\nSuccessful candidates will be onboarded and begin working directly on the project.\n\nApply Here\nhttps://bit.ly/recrutamentodevs",
-      "excerpt": "The tasks involve code across multiple ecosystems. Candidates should be capable of reviewing and evaluating projects written in: * Python * JavaScript / TypeScript * Go * Rust * Java Responsibilities * Evaluate whethe...",
-      "issueState": "open",
-      "contentHash": "89fb4d269ce341549ca5472a5cd4a8be3ea1c49cb4b299b8d478cdc0406d43b6",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "typescript",
-        "python",
-        "java",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "cassiarecruta",
-        "name": "cassiarecruta",
-        "handle": "cassiarecruta",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/292327505?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "createdAt": "2026-06-10T05:44:03Z",
-      "updatedAt": "2026-06-10T05:44:03Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8480",
       "sourceType": "github-issue"
     },
     {
@@ -771,8 +660,125 @@
         "url": "https://github.com/backend-br/vagas"
       },
       "createdAt": "2026-06-09T14:42:46Z",
-      "updatedAt": "2026-06-09T19:46:43Z",
+      "updatedAt": "2026-06-10T11:59:55Z",
       "url": "https://github.com/backend-br/vagas/issues/12250",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1c0afba85af9b58d3bdb9fae",
+      "sourceId": "pydevbr/vagas#45",
+      "title": "[Florianópolis] Fullstack Developer (Python) na @Tributodevido",
+      "description": "### Nossa empresa\n\nSomos uma taxtech que já robotizou mais de R$2 bilhões em créditos tributários. Usamos IA e automação para transformar um processo que o mercado faz em 60 dias em apenas 48 horas. Valorizamos quem entrega o 1% a mais, questiona o que não funciona e entende que disciplina é liberdade. Somos um time de alta performance, unido por amor, honra e propósito. A Tributo está crescendo — e quem está aqui cresce junto.\n\n### Descrição da vaga\n\n**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n### Local\n\nEscritório - Florianópolis (Estreito)\n\n### Requisitos\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n### Benefícios\n\n**INFORMAÇÕES GERAIS DA OPORTUNIDADE**\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\n\n\n### Contratação\n\nPJ\n\n### Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n### Tempo médio de feedbacks\n\n_No response_\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [x] Alocado\n- [ ] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [ ] CLT\n- [ ] Estágio\n- [ ] Freela\n- [x] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [x] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nR$ 5k - R$ 10k",
+      "excerpt": "### Nossa empresa Somos uma taxtech que já robotizou mais de R$2 bilhões em créditos tributários. Usamos IA e automação para transformar um processo que o mercado faz em 60 dias em apenas 48 horas. Valorizamos quem en...",
+      "issueState": "open",
+      "contentHash": "f4e9999a0fe688ad96d3eac47f7e2b410e6041216cb7b0f0a8d751cbc9f036bb",
+      "repository": "pydevbr/vagas",
+      "repositoryUrl": "https://github.com/pydevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "alocado",
+        "freela",
+        "part time",
+        "pj",
+        "remoto",
+        "full time",
+        "clt",
+        "especialista"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "pydevbr",
+        "name": "pydevbr",
+        "avatarUrl": "https://github.com/pydevbr.png?size=80",
+        "repository": "pydevbr/vagas",
+        "url": "https://github.com/pydevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 5000,
+        "max": 10000,
+        "period": "hour"
+      },
+      "createdAt": "2026-06-09T14:32:47Z",
+      "updatedAt": "2026-06-09T14:33:20Z",
+      "url": "https://github.com/pydevbr/vagas/issues/45",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_aee09e92fadf8366a70512db",
+      "sourceId": "frontendbr/vagas#8479",
+      "title": "[Florianópolis] Fullstack Developer na Tributo Devido",
+      "description": "**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n**Requisitos obrigatórios**\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n## Informações gerais da oportunidade:\n\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\nEstamos localizados no bairro Estreito — Florianópolis.\n\n\n## Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno\n- Sênior",
+      "excerpt": "**DESENVOLVEDOR FULL-STACK** Presencial | Florianópolis Buscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. V...",
+      "issueState": "open",
+      "contentHash": "9d077a8a780f3b575bb94709525aa52ca2ba9196c89a5efad708134a7ed6e344",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "pj",
+        "alocado"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Tributo Devido",
+      "createdAt": "2026-06-09T14:07:02Z",
+      "updatedAt": "2026-06-09T14:07:32Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8479",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ee71ad4e68f00372f334fae1",
+      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#3",
+      "title": "Add Canada-specific data/analytics internship companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker.\n\nI noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Modelling roles in Montréal/Ottawa/Toronto, Seaspan in North Vancouver, Stripe in Toronto, Bombardier in Dorval, Hitachi Rail in Toronto, and ProCogia in Vancouver.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students using this tracker?\n\nSuggested links:\n\n```md\n- [Hanzilla Jobs — Data, analytics, AI/ML student jobs in Canada](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad board for data, analytics, AI/ML, software, finance, engineering, business, sciences, internships/co-ops, new-grad, junior, and entry-level roles.\n- [Hanzilla Jobs — Canadian internships and co-ops](https://jobs.hanzilla.co/internships/) — broader internship/co-op view across fields and Canadian cities.\n```\n\nDisclosure: I help operate Hanzilla Jobs. It is a free board and the about/verification page is here if useful: https://jobs.hanzilla.co/about/\n\nTotally fine if this is outside the repo's resource policy — sharing because it may help Canadian students who find this list but want a Canada-specific daily-updated companion source.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker. I noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Model...",
+      "issueState": "open",
+      "contentHash": "03413c2ee1b041eeedfb2371ef07072efcfcc6c0f78c5425a4ed01fee8ca32fb",
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-Internship",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
+      },
+      "createdAt": "2026-06-08T21:49:18Z",
+      "updatedAt": "2026-06-08T21:49:18Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/3",
       "sourceType": "github-issue"
     }
   ]
