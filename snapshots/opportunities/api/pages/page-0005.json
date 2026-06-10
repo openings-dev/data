@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-09T17:20:51.051Z",
+  "generatedAt": "2026-06-10T02:41:39.882Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_96749c04b2a41cefede1f9cb",
     "gh_9dbea54460036bccbb80c963",
@@ -22,10 +23,48 @@
     "gh_3ca6bfcccb91efa2b245a1f6",
     "gh_87ff6095a89da3f020be3eb8",
     "gh_cb3234a96bffc3e0b5521d34",
-    "gh_782159ca5f832eb0fb7f999e",
-    "gh_73e0c5d98159d349f10f4fa9"
+    "gh_782159ca5f832eb0fb7f999e"
   ],
   "items": [
+    {
+      "id": "gh_6bd2ea87cfb4bbe49569241c",
+      "sourceId": "ambicuity/New-Grad-Jobs#316",
+      "title": "[ROADMAP] Help us expand job data — all suggestions welcome!",
+      "description": "## TL;DR\n\nWe want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are welcome and I will reply to every comment.**\n\n---\n\n## Why this roadmap?\n\nNew-Grad-Jobs is most useful when it captures the widest possible surface of legitimate new-grad opportunities. Today we scrape and curate from a known set of sources, but there's a long tail of companies, regions, and job types we're missing.\n\nThis issue is the central place to brainstorm **how we add more jobs** — sources, regions, scrapers, partnerships, automation, data quality, anything.\n\n## What kind of suggestions are we looking for?\n\nPick whatever resonates — these are just prompts:\n\n### Sources\n- [ ] Specific ATS platforms we don't yet scrape (Workday tenants, Greenhouse boards, Lever, Ashby, SmartRecruiters, iCIMS, Taleo, Eightfold, Phenom, Jobvite, BrassRing, etc.)\n- [ ] Specific companies whose new-grad pipelines we should track\n- [ ] Regional job boards (EU, India, LATAM, MENA, APAC, Canada, UK, etc.)\n- [ ] University career portals worth aggregating\n- [ ] Government / public-sector hiring portals\n- [ ] Startup-focused aggregators (YC, Wellfound, etc.)\n- [ ] Diversity-focused or accessibility-focused boards\n\n### Job categories\n- [ ] Internship pipelines distinct from full-time\n- [ ] PhD / research / quant-specific listings\n- [ ] Hardware, semiconductor, robotics, aerospace\n- [ ] Game industry\n- [ ] Finance / trading / actuarial new-grad tracks\n- [ ] Bio / pharma / healthcare new-grad roles\n- [ ] Trades, ops, supply chain, manufacturing new-grad programs\n\n### Data quality\n- [ ] How should we detect & dedupe reposted listings?\n- [ ] How should we classify \\\"new grad\\\" vs \\\"junior\\\" vs \\\"intern\\\" more accurately?\n- [ ] Should we surface salary data when available? From which sources?\n- [ ] Should we flag visa sponsorship / remote / hybrid more explicitly?\n- [ ] How should we handle stale postings (last-seen vs first-seen)?\n- [ ] What metadata is most useful to filter on?\n\n### Infrastructure & automation\n- [ ] Scraper frameworks or libraries worth adopting\n- [ ] Anti-bot / rate-limit strategies that respect ToS\n- [ ] Workflow scheduling improvements (cron, GitHub Actions, queues)\n- [ ] LLM-assisted parsing for unstructured careers pages\n- [ ] Storage / dedup / canonicalization approaches\n- [ ] Notification channels (RSS, Discord, Slack, email digest)\n\n### Community & contribution\n- [ ] How can we make it easier for contributors to add a new company in one PR?\n- [ ] Should we publish a contribution template specifically for \\\"add a company\\\"?\n- [ ] Would a structured YAML/JSON registry of companies + ATS endpoints help?\n- [ ] Mentorship for first-time contributors who want to add a scraper\n\n## How to suggest\n\nJust comment below. Any format works:\n\n- **A single company:** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"\n- **A source idea:** \\\"There's an ATS called `<X>` used by these companies: …\\\"\n- **A feature idea:** \\\"It would be great if listings showed `<field>`\\\"\n- **A full proposal:** longer-form design ideas, link to a gist or doc\n- **A pain point:** \\\"As a job seeker, I wish this repo did `<X>`\\\"\n\nYou don't need to know how to scrape, write Python, or anything technical. **Ideas count just as much as code.**\n\n## Commitment\n\n- I'll **reply to every comment on this thread.**\n- Concrete, actionable suggestions will be moved into their own tracking issues and linked back here.\n- Larger themes will become milestones on the roadmap.\n- Credit will go to the suggester in the resulting PR / issue / changelog.\n\n## Ground rules\n\n- Be respectful — this is a community space.\n- Don't post anything that violates a source's Terms of Service or robots.txt; we want sustainable, ethical aggregation.\n- Don't post personal data, recruiter contacts, or anything that could harm a company or candidate.\n- Prefer one idea per comment when possible — it makes follow-up easier.\n\n---\n\n**Thanks in advance — every suggestion helps a new grad find their first job.**",
+      "excerpt": "## TL;DR We want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are ...",
+      "issueState": "open",
+      "contentHash": "9dbc30e311e1ce44614e0ce628edb4d89c70df9f08cacdec11198141b4fa7ba7",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "roadmap"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
+      "createdAt": "2026-05-26T23:52:14Z",
+      "updatedAt": "2026-05-27T00:03:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1f61de8de06b483a9a82d5f4",
       "sourceId": "nerdzao/vagas#191",
@@ -733,41 +772,6 @@
       "createdAt": "2026-05-20T01:15:29Z",
       "updatedAt": "2026-06-02T07:07:33Z",
       "url": "https://github.com/backend-br/vagas/issues/12242",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_73e0c5d98159d349f10f4fa9",
-      "sourceId": "programadores-br/geral#3070",
-      "title": "[Remoto] Product Designer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/product-designer-133541639?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar na interseção entre pesquisa, design e produto — transformando problemas reais de usuários em experiências claras, funcionais e bem acabadas. Esta pessoa deve cobrir todo o ciclo de design: entender o problema, explorar soluções, validar hipóteses e entregar interfaces prontas para implementação.\n\nBuscamos uma pessoa com visão de produto, rigor de pesquisa e domínio de UI — que não espere o problema chegar pronto e entenda que design bem feito é design que resolve.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Conduzir pesquisas com usuários — entrevistas, testes de usabilidade, análise de comportamento — e transformar achados em decisões de produto\n    \n*   Participar ativamente de sessões de discovery junto com Produto e Engenharia, trazendo perspectiva de usuário e viabilidade de experiência\n    \n*   Criar e iterar wireframes, protótipos e fluxos de navegação com clareza de escopo e hipótese a testar\n    \n*   Validar soluções com usuários antes e depois da entrega, documentando aprendizados de forma reutilizável\n    \n*   Desenvolver e manter componentes no Design System da Arbitralis, garantindo consistência visual e coerência de padrões\n    \n*   Produzir telas em alta fidelidade prontas para handoff — com especificações claras, estados mapeados e edge cases cobertos\n    \n*   Colaborar com o time de Desenvolvimento no handoff e acompanhar a implementação para garantir fidelidade à intenção de design\n    \n*   Contribuir para a evolução dos processos de design do time, incluindo critérios de qualidade, templates e documentação\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - Figma \n- Prototipação \n- UX/UI \n-  Design de Interface (UI Design & Design System)\n## Local: \n Remota\n## Requisitos: \n - Experiência como Product Designer ou UX/UI Designer em produto digital \n- Portfólio com casos que demonstrem processo — do problema à entrega — não apenas telas finais \n- Domínio de Figma: componentes, Auto Layout, prototipação e organização de arquivos \n- Experiência com pesquisa com usuários: entrevistas, testes de usabilidade e síntese de insights \n- Familiaridade com Design Systems: uso, manutenção e evolução de componentes \n- Experiência de colaboração com times de Engenharia em handoff e acompanhamento de implementação \n- Visão de produto: Entende o problema antes de abrir o Figma — conecta decisão de design a impacto real \n- Autonomia: Conduz seu próprio ciclo de trabalho sem depender de briefing detalhado para avançar \n- Rigor sem perfeccionismo: Sabe quando iterar e quando entregar — não trava na busca pela tela perfeita \n- Colaboração: Trabalha bem com Produto, Engenharia e CS; comunica decisões de design com clareza \n- Organização: Mantém arquivos, componentes e documentação organizados e acessíveis para o time \n- Curiosidade: Busca entender o usuário de verdade — não assume, pesquisa\n## Diferenciais: \n - Experiência prévia em design de produtos com IA, agentes conversacionais ou interfaces de chat \n- Uso fluente de Figma AI, v0, Galileo ou ferramentas similares para acelerar exploração e prototipação \n- Familiaridade com legaltech, fintechs ou produtos B2B voltados a fluxos complexos e usuários não técnicos \n- Experiência com métricas de UX e análise de dados de comportamento (Hotjar, Mixpanel ou similares) \n- Histórico de contribuição para evolução de Design Systems em times de produto\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Product Designer na Arbitralis](https://coodesh.com/jobs/product-designer-133541639?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UX",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "53a8960cec32cf9c334263854505d3dccdd0a33bb94b319c4b9c24b2598e3019",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-19T17:34:15Z",
-      "updatedAt": "2026-05-19T17:34:38Z",
-      "url": "https://github.com/programadores-br/geral/issues/3070",
       "sourceType": "github-issue"
     }
   ]
