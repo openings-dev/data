@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-11T12:39:06.907Z",
+  "generatedAt": "2026-06-11T18:09:26.737Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_31d3c208b2b39f35424db09f",
     "gh_7ba652a44a8de9edef28588e",
     "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
@@ -22,10 +23,43 @@
     "gh_f10d628b73c6638f2b5fc004",
     "gh_c6373fbb2bb5e024c192d8af",
     "gh_3ca6bfcccb91efa2b245a1f6",
-    "gh_87ff6095a89da3f020be3eb8",
-    "gh_cb3234a96bffc3e0b5521d34"
+    "gh_87ff6095a89da3f020be3eb8"
   ],
   "items": [
+    {
+      "id": "gh_31d3c208b2b39f35424db09f",
+      "sourceId": "react-brasil/vagas#3011",
+      "title": "Desenvolvedor(a) Mobile iOS/Android (React Native/Expo) no Instituto Conhecimento Liberta",
+      "description": "## Descrição da vaga\n\nO Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, estabilidade e experiência do usuário.\n\nBuscamos perfis com boa autonomia, pensamento analítico e capacidade de construir soluções robustas, atuando de forma integrada com backend, produto e design.\n\n## Responsabilidades\n\n**Desenvolvimento e manutenção**\n\n- Desenvolver e manter aplicativos mobile utilizando React Native e Expo\n- Implementar experiências híbridas com WebView, criando pontes entre camadas nativa e web\n- Garantir compatibilidade e performance em iOS e Android\n- Evoluir a arquitetura dos aplicativos com foco em escalabilidade\n\n**Integrações e funcionalidades**\n\n- Integrar APIs externas e serviços de backend\n- Implementar notificações push e estratégias de engajamento\n- Desenvolver funcionalidades nativas quando necessário (câmera, geolocalização, biometria, armazenamento local)\n\n**Qualidade e publicação**\n\n- Gerenciar builds, testes e processos de publicação nas lojas\n- Monitorar crashes, performance e métricas de uso\n- Atuar em conjunto com backend e produto na definição de soluções técnicas\n\n## Requisitos\n\n**Desenvolvimento mobile**\n\n- Experiência sólida com React Native e Expo\n- Conhecimento do ciclo completo de publicação em App Store e Google Play\n- Experiência com implementação de push notifications\n- Domínio de navegação, gerenciamento de estado e consumo de APIs REST\n\n**Dados e armazenamento**\n\n- Experiência com armazenamento local e bancos de dados embarcados\n- Conhecimento em estratégias de cache e funcionamento offline\n\n**Autenticação e segurança**\n\n- Experiência com OAuth, JWT e login social (Google/Apple)\n- Boas práticas de armazenamento seguro de tokens e credenciais\n\n**Tecnologias base**\n\n- Proficiência em JavaScript e/ou TypeScript moderno\n- Familiaridade com Git e fluxos de CI/CD\n- Conhecimento em deep linking e universal links\n\n## Competências comportamentais\n\n- Autodidatismo e aprendizado contínuo\n- Proatividade na resolução de problemas\n- Boa comunicação com equipes multidisciplinares\n- Organização e autonomia para trabalho remoto\n- Adaptabilidade a novas tecnologias\n- Compromisso com prazos e entregas\n\n## Como se candidatar\n\nAcesse o link da vaga: https://editoraelivrariaconhecimentolibertaltda.pandape.infojobs.com.br/Detail?id=3155110\n\n## Labels\n\n- 🏢 Remoto",
+      "excerpt": "## Descrição da vaga O Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, e...",
+      "issueState": "open",
+      "contentHash": "955ee11ccbb1bcb5273cd87ccdeb2b01b66784d1d40ac93cd6a26753ef49a407",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "🏢 remoto"
+      ],
+      "author": {
+        "id": "luismda",
+        "name": "luismda",
+        "handle": "luismda",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88680118?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "companyName": "Instituto Conhecimento Liberta",
+      "createdAt": "2026-05-28T15:21:46Z",
+      "updatedAt": "2026-05-29T18:23:53Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3011",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_7ba652a44a8de9edef28588e",
       "sourceId": "tramcar/awesome-job-boards#278",
@@ -727,39 +761,6 @@
       "createdAt": "2026-05-21T11:12:53Z",
       "updatedAt": "2026-05-21T11:13:18Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1255",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cb3234a96bffc3e0b5521d34",
-      "sourceId": "react-brasil/vagas#3010",
-      "title": "[ ZUP- 100% remoto]  Pessoa Desenvolvedora Fullstack (React, GenAI e .NET) Sênior ou Especialista",
-      "description": "Nosso propósito é criar tecnologias que desafiam as melhores do mundo e mudam o jogo para nossos clientes. Por isso, buscamos profissionais que desejam fazer parte de uma cultura pautada pela excelência e inovação. Se você se identifica com um ambiente de trabalho colaborativo e movido por curiosidade, venha construir o futuro da tecnologia conosco.\n\n\nO que você fará por aqui\n\n• Participar ativamente de toda a jornada de concepção e desenvolvimento das soluções, desde o processo de Discovery, ajudando a identificar o problema correto a ser resolvido\n• Contribuir em refinamentos técnicos para estruturar o desenho das soluções.\n• Interagir com squads interdependentes para garantir alinhamento e integração das soluções.\n• Desenvolver camadas Frontend (React) e backend (.NET Core) conforme demanda, incluindo testes unitários para garantir qualidade e segurança.\n• Garantir configurações adequadas para processos DevOps, planejamento e acompanhamento das implantações em produção.\n• Monitorar o ambiente pós-release para assegurar estabilidade e performance.\n• Aplicar técnicas avançadas de AI, utilizando ferramentas como Python (Langchain, Langgraph), RAG, engenharia de prompt e avaliação de agentes (EVALs).\n• Trabalhar com infraestrutura AWS (DocumentDB, Lambda, ECS, S3, Redis) e ferramentas de CI/CD (Github Actions, Terraform, Docker).\n• Colaborar no desenvolvimento e integração de agentes inteligentes, com conhecimento em MCP e Go Language sendo um diferencial.\n\n\n\nO que esperamos que você saiba\n\n•  Next com React 18+\n• Conhecimento em acessibilidade (normas WCAG).\n• Design responsivo.\n• .NET Core.\n• Versionamento de código (Gitlab/Github).\n• Orientação a objetos, padrões de projeto, SOLID e Clean Code.\n• Desenvolvimento e consumo de APIs REST.\n• Qualidade de código (SonarQube, Fortify, cobertura de testes unitários).\n• Técnicas avançadas de code review.\n• Conhecimento avançado do ecossistema AWS (CodePipeline, esteiras).\n• Arquitetura em Microfront-end (Web Components, Module Federation, Single SPA).\n• Conhecimentos avançados em AWS (domínio do ecossistema, esteiras, CodePipeline).\n• Conhecimento avançado em padrões de projeto.\n• Domínio em técnicas de observability (Splunk, Grafana, Prometheus).\n• Certificações Microsoft/.NET são um diferencial importante.\n• React 18+ com TypeScript — incluindo hooks nativos e patterns de composição (useCallback, useMemo, useReducer).\n• Experiência com Next.js (App Router, SSR/SSG/ISR, bundle otimization).\n• Conhecimento de Web Components e integração com React.\n• Criação e manutenção de custom hooks com responsabilidades bem definidas.\n• Context API / gerenciamento de estado sem libs externas.\n• Testes unitários com Testing Library e E2E com Cypress (cobertura de código).\n• Conventional Commits e boas práticas de Git.\n\n Se inscreva na vaga aqui: https://job-boards.greenhouse.io/zupinnovation/jobs/7661893003\n\nO que te oferecemos\n\nAtuamos em um modelo remoto por padrão, priorizando a sua liberdade e responsabilidade. Além disso, proporcionamos:\n\nCarreira\n\nLiberdade para trabalhar de onde quiser\nHorários flexíveis\nAuxílio Educação\nFerramenta própria de desenvolvimento de carreira\nGuildas internas e grupos de estudo e interesse\nSaúde e bem-estar\n\nPlano de saúde\nPlano odontológico\nParceria na compra de medicamentos\nTelemedicina disponível 24x7\nTerapia online gratuita\nWellhub\nLicença maternidade estendida\nLicença paternidade estendida\nCAZ – Central de Atendimento a zuppers\nConforto financeiro\n\nVale-refeição e alimentação\nSeguro de vida\nVale-transporte\nAuxílio home office\nAuxílio Creche\nAuxílio plano telefônico\nParticipação em Lucros e Resultados",
-      "excerpt": "Nosso propósito é criar tecnologias que desafiam as melhores do mundo e mudam o jogo para nossos clientes. Por isso, buscamos profissionais que desejam fazer parte de uma cultura pautada pela excelência e inovação. Se...",
-      "issueState": "open",
-      "contentHash": "2fdf3eae1d5a3a3bf29850fe055ff1b33d63b0894c11ec4b120a83cc31b2e3c1",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto"
-      ],
-      "author": {
-        "id": "KauanyFD",
-        "name": "KauanyFD",
-        "handle": "KauanyFD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-05-20T20:56:13Z",
-      "updatedAt": "2026-05-20T20:57:42Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3010",
       "sourceType": "github-issue"
     }
   ]
