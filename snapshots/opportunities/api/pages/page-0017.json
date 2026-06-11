@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-11T02:51:02.005Z",
+  "generatedAt": "2026-06-11T07:25:34.639Z",
   "page": 17,
   "pageSize": 20,
   "nextPage": "api/pages/page-0018.json",
   "ids": [
+    "gh_2a32dd8a394da27f5c118299",
     "gh_a9a13895e91ca4fce17ab7f6",
     "gh_b3a6d5cf12f8ebd173aa2a83",
     "gh_f8969634376fbdd12a01e274",
@@ -22,10 +23,40 @@
     "gh_f811ea11eb896201b2a8dc82",
     "gh_bdee7881981e1da0fe35751b",
     "gh_0c8142500ab7244ecd91bc45",
-    "gh_2b6924730b518607cddea69a",
-    "gh_0942ed9736ea13305338edbc"
+    "gh_2b6924730b518607cddea69a"
   ],
   "items": [
+    {
+      "id": "gh_2a32dd8a394da27f5c118299",
+      "sourceId": "jobright-ai/2026-Engineering-New-Grad#1",
+      "title": "2025 Positions",
+      "description": "",
+      "excerpt": "2025 Positions",
+      "issueState": "open",
+      "contentHash": "07947a4f1cd012f4e2af72d5ddc5277472fdfbb76770bcb1398d13e7093afb93",
+      "repository": "jobright-ai/2026-Engineering-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Engineering-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "mrtayyo237",
+        "name": "mrtayyo237",
+        "handle": "mrtayyo237",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/103975625?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Engineering-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Engineering-New-Grad"
+      },
+      "createdAt": "2025-03-13T14:23:13Z",
+      "updatedAt": "2025-03-13T14:23:13Z",
+      "url": "https://github.com/jobright-ai/2026-Engineering-New-Grad/issues/1",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a9a13895e91ca4fce17ab7f6",
       "sourceId": "phpdevbr/vagas#1306",
@@ -678,41 +709,6 @@
       "createdAt": "2025-02-04T23:13:20Z",
       "updatedAt": "2025-02-04T23:13:20Z",
       "url": "https://github.com/datascience-br/vagas/issues/140",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0942ed9736ea13305338edbc",
-      "sourceId": "phpdevbr/vagas#1301",
-      "title": "São Paulo - Desenvolvedor(a) Backend Júnior (PHP e o framework Laravel e banco de dados relacionais)",
-      "description": "Desenvolvedor(a) Backend Júnior (PHP e o framework Laravel e banco de dados relacionais)\n\n\n\n100% Presencial na Casa Verde Alta, São Paulo.\n\n\n\nO valor/hora é de R$ 24 (média de 180 horas/mês).\n\n\n\nRequisitos obrigatórios:\n\n● Mais de 1 ano e meio de experiência.\n\n● Experiência sólida com PHP e o framework Laravel.\n\n● Habilidade para criar e otimizar queries em SQL puro.\n\n● Experiência com bancos de dados relacionais, como MySQL, PostgreSQL e/ou SQL Server.\n\n● Docker.\n\n\n\nDiferenciais não obrigatórios:\n\n● Conhecimento em arquitetura back-end e lógica de programação para resolver problemas complexos.\n\n● Experiência prática com PHP puro para criação de scripts ou funcionalidades específicas.\n\n● Conhecimento em configuração e gerenciamento de servidores Linux, incluindo instalação e monitoramento de serviços.\n\n● Experiência básica com Java para integrações ou funcionalidades complementares.\n\n● Capacidade de implementar e consumir APIs RESTful.\n\n● Familiaridade com ferramentas de versionamento, como Git, e práticas de branching.\n\n● Experiência em criar e manter scripts automatizados para tarefas recorrentes (ex.: envio de e-mails, relatórios, processamento de dados).\n\n● Conhecimento básico em crawlers para coleta de dados e automação.\n\n● Habilidade em configurar ambientes de desenvolvimento e produção com Docker e Docker Compose.\n\n● Experiência com metodologias ágeis, como Scrum ou Kanban.\n\n● Noções básicas de CI/CD e ferramentas como GitHub Actions ou Jenkins.\n\n● Experiência em criar e manter scripts automatizados para tarefas recorrentes (ex.: envio de e-mails, relatórios, processamento de dados).\n\n● Experiência média em HTML e CSS para o desenvolvimento de e-mails e PDFs no Blade.\n\n\n\n● Conhecimento em infraestrutura AWS além do EC2 (RDS, S3, Lambda, etc.).\n\n● Familiaridade com padrões de design de software, como DDD ou Clean Architecture.\n\n● Experiência com filas de mensagem (RabbitMQ, Kafka, etc.).\n\n● Participação ativa em comunidades de desenvolvimento ou contribuição para projetos open source.\n\n\n\nResponsabilidades:\n\n● Desenvolver e manter aplicações back-end utilizando Laravel, garantindo uma arquitetura robusta e escalável.\n\n● Criar e otimizar APIs RESTful, com foco em desempenho e segurança.\n\n● Implementar queries complexas utilizando SQL puro para manipulação e análise de dados.\n\n● Desenvolver funcionalidades específicas em PHP puro, quando o uso de frameworks não for necessário. Entre outros.",
-      "excerpt": "Desenvolvedor(a) Backend Júnior (PHP e o framework Laravel e banco de dados relacionais) 100% Presencial na Casa Verde Alta, São Paulo. O valor/hora é de R$ 24 (média de 180 horas/mês). Requisitos obrigatórios: ● Mais...",
-      "issueState": "open",
-      "contentHash": "cfd2c74a31e8d97236a439acd56b4a5fdb14004c9fcc96e2f2afab4499b5642f",
-      "repository": "phpdevbr/vagas",
-      "repositoryUrl": "https://github.com/phpdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "java",
-        "design"
-      ],
-      "author": {
-        "id": "ErickaMB",
-        "name": "ErickaMB",
-        "handle": "ErickaMB",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
-      },
-      "community": {
-        "id": "phpdevbr",
-        "name": "phpdevbr",
-        "avatarUrl": "https://github.com/phpdevbr.png?size=80",
-        "repository": "phpdevbr/vagas",
-        "url": "https://github.com/phpdevbr/vagas"
-      },
-      "createdAt": "2025-02-03T21:57:51Z",
-      "updatedAt": "2026-05-15T12:25:02Z",
-      "url": "https://github.com/phpdevbr/vagas/issues/1301",
       "sourceType": "github-issue"
     }
   ]
