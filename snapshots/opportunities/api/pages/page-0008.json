@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-06-11T18:09:26.737Z",
+  "generatedAt": "2026-06-12T17:37:50.109Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_57ed728934c67b37c0bed798",
+    "gh_615cd5b5c01016e20e631b0c",
+    "gh_79546b5940192c13dad52334",
+    "gh_8bbc2d1fbf260ff495b6debe",
     "gh_a5d2446fe102d2b8b34f94c2",
     "gh_4e35e3ee4a19594e8247db30",
     "gh_c55c0ec98d8be9c01ebe7432",
@@ -19,13 +23,148 @@
     "gh_86cf7c4c726a6cec1163d1fb",
     "gh_90dc15cf0fb5560e4c0f0993",
     "gh_c01a0a3f6404a175991bbcce",
-    "gh_3cb49aacda2ec7dd8e38be24",
-    "gh_676667090fcd5276269492b4",
-    "gh_b6ad9f2a9bbc5c9e930223d7",
-    "gh_b89dd7ae7dbdb913cfe62232",
-    "gh_0f0495da862b94749892e684"
+    "gh_3cb49aacda2ec7dd8e38be24"
   ],
   "items": [
+    {
+      "id": "gh_57ed728934c67b37c0bed798",
+      "sourceId": "qa-brasil/vagas#1250",
+      "title": "[100% Remoto] QA Jr na Codeleap",
+      "description": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap.\n\nEssa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática trabalhando com produtos reais e clientes internacionais.\n\nNo dia a dia, você vai testar aplicações web e mobile, identificar bugs, garantir a qualidade das entregas e trabalhar próximo de desenvolvedores e produto.\n\n## Local de trabalho\n\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência inicial com testes manuais (projetos pessoais, acadêmicos ou profissionais)\n- Inglês intermediário (leitura e escrita para documentação e bug reports)\n- Noção básica de desenvolvimento web/mobile (especialmente React / React Native)\n- Boa comunicação e vontade de aprender\n\n**Desejáveis**\n- Conhecimento básico em testes automatizados\n- Experiência com organização de casos de teste e documentação\n- Interesse em produto e experiência do usuário\n\n**Diferenciais**\n- Experiência prévia em projetos reais (mesmo que pequenos)\n- Perfil detalhista e curioso\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Trabalho 100% remoto\n- Horário flexível\n- Ambiente colaborativo e informal\n\n**Diferenciais**\n- Projetos reais com clientes internacionais (UK/EU)\n- Crescimento rápido com possibilidade de assumir mais responsabilidades\n- Mentoria e feedback constante\n- Aulas semanais de conversação em inglês\n- Bônus por performance (possibilidade de 13º e 14º salário)\n\n## Range Salarial\n\nA vaga paga entre R$2.000,00 e R$3.000,00 reais.\n\n## Sobre a empresa\n\nA CodeLeap é uma software house com base em Londres, trabalhando com clientes internacionais. Somos um time pequeno, focado em qualidade, aprendizado constante e desenvolvimento rápido dos nossos membros.\n\n## Como se candidatar\n\n- Candidatar através do formulário:\nhttps://docs.google.com/forms/d/e/1FAIpQLScMTarmAMcuEt51vYXX_5RGS4AfsYQD_kqDWaqgRkMf5uRxyQ/viewform\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada etapa do processo.\n\nE-mail para contato em caso de dúvidas: vini.garcia@codeleap.co.uk\n\n## Labels\n\n- PJ\n- Júnior\n- Remoto\n- Exterior\n```",
+      "excerpt": "Estamos procurando um(a) QA Júnior para se juntar ao time da CodeLeap. Essa é uma vaga voltada para quem já teve algum contato com QA (projetos pessoais, faculdade, estágio, etc.) e quer ganhar experiência prática tra...",
+      "issueState": "open",
+      "contentHash": "ffc66f263900c7bb2c29f235523a4a5951900b595da1d4d24073a35871374c71",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "remoto",
+        "estágio",
+        "exterior",
+        "júnior",
+        "inglês"
+      ],
+      "author": {
+        "id": "dudamassena",
+        "name": "dudamassena",
+        "handle": "dudamassena",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/278477713?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "companyName": "Trabalho 100% remoto",
+      "createdAt": "2026-04-22T17:49:17Z",
+      "updatedAt": "2026-04-24T19:07:27Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1250",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_615cd5b5c01016e20e631b0c",
+      "sourceId": "timqian/open-source-jobs#173",
+      "title": "Feature: Add Email Alert for Recent Update",
+      "description": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "excerpt": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "issueState": "open",
+      "contentHash": "a8ef46de2f893b78eb34cc3076865df60ce7da46346945d3f344be7848c5c7eb",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamkalio",
+        "name": "iamkalio",
+        "handle": "iamkalio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89003403?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-04-21T10:30:11Z",
+      "updatedAt": "2026-04-21T10:30:30Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/173",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_79546b5940192c13dad52334",
+      "sourceId": "datascience-br/vagas#160",
+      "title": "Curitiba/PR - Analista de Dados PL",
+      "description": "Oportunidade para Analista de Dados Pleno\n\nBuscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto.\n\nAtribuições:\nAtuar de forma consultiva junto às áreas de negócio, traduzindo dados em ações práticas;\nRealizar análises exploratórias e diagnósticas para apoiar a tomada de decisão;\nGerar insights estratégicos e construir storytelling;\nDesenvolver, manter e aprimorar dashboards e relatórios gerenciais;\nAssegurar a qualidade, integridade e confiabilidade das bases de dados;\nIdentificar padrões, tendências e oportunidades de melhoria a partir da análise de dados;\nDefinir, monitorar e analisar indicadores de desempenho (KPIs);\nEntre outros pertinentes a área.\n\nRequisitos técnicos:\nFormação superior pertinente a área;\nDomínio de SQL para extração e manipulação de dados;\nFerramentas de BI (Power BI, Tableau ou similares);\nExcel Avançado;\nCapacidade analítica e visão crítica na interpretação de dados;\nBoa comunicação para traduzir dados em insights para públicos não técnicos.\n\nDesejável:\nConhecimento em Python ou R para análise de dados;\nVivência com bancos de dados relacionais e modelagem de dados;\nExperiência com dados de marketing, CRM, CX ou financeiro;\nAtuação prévia em empresas do setor financeiro ou de serviços;\nConhecimento em governança, qualidade de dados e LGPD.\n\nContrato CLT + Benefícios!\nAtuação 4x Presencial e 1x HO\nAtuação no modelo híbrido em Curitiba/PR.\n\nEnvie seu CV com pretensão salarial para: daiane.fw3@gmail.com",
+      "excerpt": "Oportunidade para Analista de Dados Pleno Buscamos um(a) Analista de Dados que vá além dos números, transformando informações em insights estratégicos e apoiando decisões de negócio com clareza e impacto. Atribuições:...",
+      "issueState": "open",
+      "contentHash": "72b31c20ce6ddda3fe4d30f16a902beaabccc4f718c82f79cd5860c3291acc8d",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno"
+      ],
+      "author": {
+        "id": "DaianeMF",
+        "name": "DaianeMF",
+        "handle": "DaianeMF",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/277110536?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-04-17T19:53:07Z",
+      "updatedAt": "2026-04-17T19:53:07Z",
+      "url": "https://github.com/datascience-br/vagas/issues/160",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8bbc2d1fbf260ff495b6debe",
+      "sourceId": "programadores-br/geral#3066",
+      "title": "[Hibrido / São Paulo, Brasil] UX/UI Designer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/uxui-designer-165755670?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\n**Objetivo da função:**  \nPlanejar e desenvolver interfaces digitais e fluxos de navegação que  proporcionem experiências intuitivas, acessíveis e funcionais para os usuários, alinhando design e usabilidade aos objetivos estratégicos da empresa.\n\n  \n**Responsabilidades:**  \n● Colaborar diretamente com os times de tecnologia e produto para garantir a viabilidade técnica dos  \nprojetos e uma boa experiência para o usuário;  \n● Desenvolver wireframes, protótipos e layouts para plataformas digitais, incluindo web, aplicativos mobile e websites;  \n● Conduzir pesquisas e estudos sobre experiência do usuário para embasar decisões de design;  \n● Mapear e aprimorar a jornada do usuário, garantindo a melhoria contínua das ferramentas e produtos;  \n● Manter a biblioteca de componentes (Design System) e especificações de design atualizadas;  \n● Elaborar especificações de design para o time de desenvolvimento;  \n● Analisar dados de uso e métricas de experiência (Google Analytics, Hotjar, etc.) para identificar oportunidades e validar hipóteses de design.\n\n  \n**Perfil desejado:**  \n● Olhar crítico para estética e funcionalidade;  \n● Capacidade de transformar insights de pesquisa em soluções de design;  \n● Boa comunicação para apresentar ideias e defender soluções de forma clara e embasada;  \n● Colaboração e flexibilidade para trabalhar em equipe multidisciplinar;  \n● Organização, atenção a detalhes;  \n● Curiosidade, criatividade e orientação para resultados.\n## Namu: \n <p>Começamos nossa trajetória em 2013 com o Portal Namu e desde então nos tornamos uma referência na produção de conteúdo multimídia de bem-estar. Temos a yoga, o pilates e a gastronomia como as principais vertentes da empresa, e mais de 8 milhões de páginas visualizadas compartilhamos ensinamentos em aulas, entrevistas e palestras com as maiores referências nacionais e internacionais. O grande sucesso das aulas de yoga, pilates e gastronomia, com mais de 10 milhões de visualizações no YouTube nos inspirou a criar o Namu Cursos, a primeira plataforma brasileira de cursos online completamente focada em uma vida equilibrada.</p>\n<p>Em pouco mais de um ano construímos um portfólio que oferece a oportunidade e comodidade de praticar yoga onde e quando você quiser, com mais de 87 horas de aulas divididas entre 35 cursos. Os cursos são ministrados por professores de referência no Brasil que, em vários anos de estudos e experiência nas melhores escolas ou com os Gurus ao redor do mundo, se capacitaram para ensinar de forma didática e com preço acessível.</p>\n\n ## Habilidades: \n - Design Thinking \n- Discovery \n- Figma \n- pacote adobe \n- Research \n- UI/UX \n- Teste A/B\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Graduação em Design, Design de Interação ou áreas correlatas; \n-  Experiência na concepção de produtos digitais com base em requisitos de negócio, discovery e research; \n- Aplicação de metodologias e ferramentas de design para direcionamento de soluções; \n- Experiência em Product Discovery e UX Research; \n-  Habilidade em design de interfaces web e mobile (UI) e prototipação; \n- Domínio da ferramenta Figma e pacote Adobe; \n-  Conhecimento em Design Thinking e Métodos Ágeis; \n- Experiência com Responsive Design e Direção de Arte; \n- Desenvolvimento de personas e condução de testes A/B; \n- Conhecimento dos guides visuais Android e iOS;\n\n## Benefícios: \n - VT;️ VR R$28/dia \n- Day off dentro do seu mês de aniversário \n- Namu saúde e bem-estar \n- Plano médico e odontológico da Amil \n- Descontos em graduação, pós-graduação, cursos de extensão e idiomas \n-  Programa TEM Saúde (benefício com inclusão de dependentes) \n- Teleorientações \n- descontos em farmácias e exames.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [UX/UI Designer na Namu](https://coodesh.com/jobs/uxui-designer-165755670?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nDesign/UI",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "1b5cafff4f83e446acf74249300c2ac4bd4748f4ed7bdb9df573e76e6e448cfd",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "alocado",
+        "clt"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-04-16T17:09:29Z",
+      "updatedAt": "2026-04-16T17:09:56Z",
+      "url": "https://github.com/programadores-br/geral/issues/3066",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a5d2446fe102d2b8b34f94c2",
       "sourceId": "frontendbr/vagas#8469",
@@ -615,158 +754,6 @@
       "createdAt": "2026-03-18T20:37:25Z",
       "updatedAt": "2026-03-18T20:37:53Z",
       "url": "https://github.com/programadores-br/geral/issues/3060",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_676667090fcd5276269492b4",
-      "sourceId": "zapplyjobs/New-Grad-Data-Science-Jobs-2026#1",
-      "title": "SentiLink - Data Scientist, New Grad",
-      "description": "### Job Posting Link\n\nhttps://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408\n\n### Company Name\n\nSentiLink\n\n### Job Title\n\nData Scientist, New Grad\n\n### Location\n\nSan Francisco, CA | Austin, TX | New York, NY | Remote (U.S. only)\n\n### Job Category\n\nData Science/Analytics\n\n### Sponsorship Status\n\nOffers Sponsorship\n\n### Application Status\n\nYes - Open\n\n### Contributor Email (Optional)\n\nliz.woodfield@sentilink.com\n\n### Extra Notes (Optional)\n\n_No response_\n\n### Contributor Checklist\n\n- [x] I have verified this job posting is legitimate and currently open\n- [x] I have checked that this job is not already listed in the repo\n- [x] I confirm this role is U.S.-based or offers U.S.-eligible Remote work\n- [x] I confirm this is an early-to-mid career opportunity (not senior/executive)\n- [x] I have provided accurate information to the best of my knowledge",
-      "excerpt": "### Job Posting Link https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408 ### Company Name SentiLink ### Job Title Data Scientist, New Grad ### Location San Francisco, CA | Austin, TX | New York, NY...",
-      "issueState": "open",
-      "contentHash": "42077f98bd4b35a7cd84150adb87a7bbb85fc2ead0f7095260a954e137c61c9e",
-      "repository": "zapplyjobs/New-Grad-Data-Science-Jobs-2026",
-      "repositoryUrl": "https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "remote",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "lizwoodfield-del",
-        "name": "lizwoodfield-del",
-        "handle": "lizwoodfield-del",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/268056488?v=4"
-      },
-      "community": {
-        "id": "zapplyjobs",
-        "name": "zapplyjobs",
-        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
-        "repository": "zapplyjobs/New-Grad-Data-Science-Jobs-2026",
-        "url": "https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"
-      },
-      "createdAt": "2026-03-13T23:01:17Z",
-      "updatedAt": "2026-03-13T23:01:17Z",
-      "url": "https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026/issues/1",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b6ad9f2a9bbc5c9e930223d7",
-      "sourceId": "awesome-jobs/vietnam#4909",
-      "title": "CoverGo - Senior Full Stack Engineer (.Net, Vue/React) - Remote/Hybrid (HCMC) - FT",
-      "description": "## Location\n\n* HCMC, Vietnam (Hybrid)\n* Remote\n\n## Salary Expectation\n\n* Negotiable\n\n## Requirements\n* 6+ years of Software Engineering experience (focus on complex SaaS applications)\n* Proficiency in .NET Core and C#\n* Expertise in Vue.js or React\n* Experience with GraphQL and MongoDB/PostgreSQL\n* Strong knowledge of Docker and Cloud platforms (AWS/Azure/GCP)\n* Mastery of Test-Driven Development (TDD) and Domain-Driven Design (DDD)\n\n## Skills\n\n### Must Have\n\n* Ability to architect scalable and efficient software solutions\n* Experience on complex SAAS applications\n* Excellent problem-solving and proactive troubleshooting skills\n* English proficiency (to work in an international environment)\n\n### Ideally\n\n* Experience in the Insurtech or Fintech industry\n\n### Responsibilities\n\n* Design and implement scalable SaaS features based on insurance business requirements.\n* Work across the full stack to build cohesive and efficient software solutions.\n* Collaborate with cross-functional teams to translate technical concepts into seamless user experiences.\n* Optimize performance to handle large datasets and high user traffic.\n* Review code and write tests to ensure high quality and platform reliability.\n* Investigate and fix bugs promptly to maintain system stability.\n* Ensure security and compliance when handling sensitive customer data.\n* Stay updated with new tech to keep the platform innovative and competitive.\n* Architect for scalability to accommodate a growing number of clients and users.\n* Mentor junior developers to support their technical growth and team contributions.\n\n### Why it would be awesome to work with us\n\n* Competitive renumeration package\n* International Environment\n* 13th month salary\n* 15 days annual leave, 10 sick leave\n* Annual Performance Bonus\n* Company activities and events\n* Learning and development plan\n\n\n### Contact\n\nWebsite: https://covergo.com/\n\nEmail: giang.builam@covergo.com\n\nLinkedIn: https://www.linkedin.com/company/covergo/posts/?feedView=all\n\nCareers: https://apply.workable.com/covergo/?lng=en\n\nApply directy here: \n* Senior Full Stack Engineer (.Net, Vue/React) - Hybrid (HCMC): https://apply.workable.com/covergo/j/323F31C86E/\n* Senior Full Stack Engineer (.Net, Vue/React) - Fully Remote: https://apply.workable.com/covergo/j/CA6C355073/",
-      "excerpt": "## Location * HCMC, Vietnam (Hybrid) * Remote ## Salary Expectation * Negotiable ## Requirements * 6+ years of Software Engineering experience (focus on complex SaaS applications) * Proficiency in .NET Core and C# * E...",
-      "issueState": "open",
-      "contentHash": "f0ad48ba13ee2f805c78ddd9e3db97a8daa79af39e1c0ec3ff63f93b9d4c3220",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "react",
-        "senior",
-        "junior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "giangbui-hazel",
-        "name": "giangbui-hazel",
-        "handle": "giangbui-hazel",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/267902749?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-13T10:48:48Z",
-      "updatedAt": "2026-06-02T08:22:42Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4909",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b89dd7ae7dbdb913cfe62232",
-      "sourceId": "awesome-jobs/vietnam#4902",
-      "title": "Senior Fullstack Engineer (AI Tools, Java/TypeScript), Full Remote in HCMC",
-      "description": "Công ty phần mềm trụ sở Berlin, Đức đang mở rộng team nhân sự tại Việt Nam và đang cần tìm ứng viên cho vị trí Senior Fullstack Engineer có kinh nghiệm tích hợp các công cụ AI như Claude Code và Cursor vào quy trình phát triển phần mềm hằng ngày. 🚀\n## 👉 𝗢𝗳𝗳𝗲𝗿:\n- Location: HCMC (full remote)\n- 𝗦𝗮𝗹𝗮𝗿𝘆 𝘂𝗽 𝘁𝗼 $𝟰,𝟬𝟬𝟬 𝗚𝗿𝗼𝘀𝘀 \n## 👉 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:\n- 5+ years of software engineering experience \n- Fluent English\n- Proven daily use of Claude Code in real development projects \n- Experience shipping real product features using Cursor \n- Strong understanding of clean architecture and software design principles\n- Experience building systems with TypeScript or Java \n- Ability to critically review and improve AI-generated code \n- Strong problem-solving skills and engineering mindset\n## 📩 Interested or know someone who might be a fit? Let’s connect!\n💬 LinkedIn DM or Zalo / Telegram / WhatsApp: 0915 500 810",
-      "excerpt": "Công ty phần mềm trụ sở Berlin, Đức đang mở rộng team nhân sự tại Việt Nam và đang cần tìm ứng viên cho vị trí Senior Fullstack Engineer có kinh nghiệm tích hợp các công cụ AI như Claude Code và Cursor vào quy trình p...",
-      "issueState": "open",
-      "contentHash": "f71072ce4287b72cd5e0aa49d6baf9a0d63798266ca066d20f2ab07f74f13f19",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "fullstack",
-        "typescript",
-        "java",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "tieuvu9x",
-        "name": "tieuvu9x",
-        "handle": "tieuvu9x",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/71082074?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-03-11T08:28:44Z",
-      "updatedAt": "2026-06-02T08:22:34Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4902",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0f0495da862b94749892e684",
-      "sourceId": "react-native-drops/vagas#148",
-      "title": "[Curitiba] Senior React Native Developer para um cliente da Visionnaire",
-      "description": "## Nossa empresa\n\nFábrica de Software, desenvolvimento com IA.\n\n## Descrição da vaga\n\nBuscamos uma pessoa com experiência sólida em React Native, Expo, visão de produto e cuidado com qualidade técnica. Mais do que executar tarefas, queremos alguém que contribua com melhorias, decisões técnicas e evolução contínua da nossa stack mobile. Trabalho 100% presencial em Curitiba.\n\nAtividades\nVocê vai trabalhar na evolução de aplicativos digitais usados por milhares de pessoas, ajudando a construir experiências mobile mais estáveis, rápidas e relevantes para o nosso público;\nEvoluir aplicativos em produção com foco em performance, estabilidade e experiência do usuário;\nDesenvolver novas funcionalidades e integrações com APIs e serviços de back-end;\nAtuar em problemas reais de compatibilidade entre plataformas, qualidade de entrega e manutenção sustentável;\nTrabalhar com React Native, Expo e EAS no fluxo de configuração, build e publicação dos aplicativos;\nColaborar com designers, desenvolvedores e áreas de negócio na construção de produtos digitais relevantes;\nContribuir com decisões técnicas, melhoria contínua da arquitetura e boas práticas de engenharia.\n\n## Local\n\nPresencial em Curitiba/PR\n\n## Requisitos\n\n**Obrigatórios:**\n\nGraduação em Ciência da Computação, Engenharia de Software ou área relacionada;\nExperiência sólida com React Native;\nBoa base em TypeScript/JavaScript;\nExperiência prática com Expo/EAS, incluindo configuração de projeto, build e publicação;\nVivência com iOS e Android no contexto React Native;\nExperiência em desenvolvimento de Backend e APIs REST;\nConhecimento em autenticação JWT e oAuth2\nFamiliaridade com Git, code review e boas práticas de engenharia;\nCapacidade de investigar problemas, propor melhorias e atuar de forma colaborativa com o time.\nConhecimento em Banco de Dados SQL e No-SQL;\nDisponibilidade para residir em Curitiba/PR ou região metropolitana e atuar no sistema 100% presencial.\n\n**Diferenciais:**\n\nExperiência com CI/CD para apps mobile;\nConhecimento em AWS ou GCP;\nVivência com Node.js / NestJS;\nInteresse em arquitetura, observabilidade e evolução contínua de produto digital.\n\n## Benefícios\n\n- Assistência médica\n- Assistência odontológica\n- Seguro de vida\n- PLR\n- Vale transporte\n- Gympass\n- Auxílio creche\n- Vale Alimentação ou Refeição\n\n## Contratação\n\nCLT \n\n## Como se candidatar\n\nAtravés do link da vaga https://ats.abler.com.br/jobs/visionnaire?slug=desenvolvedor-a-react-native-senior-158167 ou por e-mail recrutamento_selecao@visionnaire.com.br com seu CV anexado - enviar no assunto: Vaga Senior React Native Developer\n\n## Labels\n\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Regime\n\n- CLT\n\n#### Nível\n\n- Sênior",
-      "excerpt": "## Nossa empresa Fábrica de Software, desenvolvimento com IA. ## Descrição da vaga Buscamos uma pessoa com experiência sólida em React Native, Expo, visão de produto e cuidado com qualidade técnica. Mais do que execut...",
-      "issueState": "open",
-      "contentHash": "47d394e3a68076103443aba008b607cd7256098851d3d533511920a0bf84d7b5",
-      "repository": "react-native-drops/vagas",
-      "repositoryUrl": "https://github.com/react-native-drops/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "react",
-        "typescript",
-        "node",
-        "java",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Vilcilaine",
-        "name": "Vilcilaine",
-        "handle": "Vilcilaine",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/62064964?v=4"
-      },
-      "community": {
-        "id": "react-native-drops",
-        "name": "react-native-drops",
-        "avatarUrl": "https://github.com/react-native-drops.png?size=80",
-        "repository": "react-native-drops/vagas",
-        "url": "https://github.com/react-native-drops/vagas"
-      },
-      "createdAt": "2026-03-10T13:05:56Z",
-      "updatedAt": "2026-03-10T13:05:56Z",
-      "url": "https://github.com/react-native-drops/vagas/issues/148",
       "sourceType": "github-issue"
     }
   ]
