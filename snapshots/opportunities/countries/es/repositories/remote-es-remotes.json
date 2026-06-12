@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-04T19:57:01.317Z",
+  "generatedAt": "2026-06-12T02:48:04.795Z",
   "country": "Spain",
   "countryCode": "ES",
   "region": "Europe",
   "repository": "remote-es/remotes",
   "totals": {
-    "opportunities": 6,
-    "openIssues": 2,
-    "closedIssues": 4
+    "opportunities": 7,
+    "openIssues": 1,
+    "closedIssues": 6
   },
-  "dataHash": "3c4746fcecca865d66f175548f4358dce0da2b2d698dd29b57f73ae2c74e5e36",
+  "dataHash": "a50a359763e3cd862a6b9ab76fa98897b0eb3848a4f34b8e0e94bac4f94b2f96",
   "items": [
     {
       "id": "gh_eca179323abe1309b96e6c74",
@@ -181,7 +181,7 @@
       "title": "Allow tracking links?",
       "description": "https://github.com/remote-es/remotes/commit/c75a6f98d58036fce9ecd3351d560df4ca8e71e4 uses a tracking link to identify visits from this site. I think this is nothing very problematic (HTTP referrer more or less provides the same information), but opening a public issue to see if anyone has reasons to adopt a policy to disallow this.\n\nI'll consider that the person submitting that link votes in favor.\n\nI'll keep this open for at least a month.",
       "excerpt": "https://github.com/remote-es/remotes/commit/c75a6f98d58036fce9ecd3351d560df4ca8e71e4 uses a tracking link to identify visits from this site. I think this is nothing very problematic (HTTP referrer more or less provide...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "1d5f55843788b869105b892c43a9255b863f4359171b7e5458bec13e525c3464",
       "repository": "remote-es/remotes",
       "repositoryUrl": "https://github.com/remote-es/remotes",
@@ -204,8 +204,41 @@
         "url": "https://github.com/remote-es/remotes"
       },
       "createdAt": "2024-10-01T22:55:51Z",
-      "updatedAt": "2024-10-01T22:55:51Z",
+      "updatedAt": "2026-06-11T22:50:04Z",
       "url": "https://github.com/remote-es/remotes/issues/167",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5abf0755406fb3d0bd2cb9ef",
+      "sourceId": "remote-es/remotes#132",
+      "title": "Research RemoteES",
+      "description": "* https://remote-es.com/\n* https://www.linkedin.com/posts/albertlazarolara_remotees-trabajos-en-remoto-para-hispano-hablantes-activity-7088953746549841920-RY6x/\n* https://bcneng.slack.com/archives/C46K8J00L/p1690315237979089?thread_ts=1690298234.652379&cid=C46K8J00L",
+      "excerpt": "* https://remote-es.com/ * https://www.linkedin.com/posts/albertlazarolara_remotees-trabajos-en-remoto-para-hispano-hablantes-activity-7088953746549841920-RY6x/ * https://bcneng.slack.com/archives/C46K8J00L/p169031523...",
+      "issueState": "closed",
+      "contentHash": "35ef9c35b1a6598ad2cf8bb15a8be8675e8dd762722b1c07ab37237b45b72a93",
+      "repository": "remote-es/remotes",
+      "repositoryUrl": "https://github.com/remote-es/remotes",
+      "region": "Europe",
+      "country": "Spain",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "alexpdp7",
+        "name": "alexpdp7",
+        "handle": "alexpdp7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
+      },
+      "community": {
+        "id": "remote-es",
+        "name": "remote-es",
+        "avatarUrl": "https://github.com/remote-es.png?size=80",
+        "repository": "remote-es/remotes",
+        "url": "https://github.com/remote-es/remotes"
+      },
+      "createdAt": "2023-07-26T09:05:55Z",
+      "updatedAt": "2026-06-11T22:48:58Z",
+      "url": "https://github.com/remote-es/remotes/issues/132",
       "sourceType": "github-issue"
     }
   ]
