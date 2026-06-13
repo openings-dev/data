@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-12T17:37:50.109Z",
+  "generatedAt": "2026-06-13T02:40:16.029Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
     "gh_7bcd691815b883db937698fc",
     "gh_a2bf5d8b1ac2ec634b465f35",
@@ -22,10 +23,40 @@
     "gh_a22f5e56e27f4a7ad381be20",
     "gh_95a6292ad2f7921305be5706",
     "gh_2461eb20869e2ac1d13b917a",
-    "gh_f943e614ba05a5dcddd0ac58",
-    "gh_8ee0cb70e2cf15d8124d3868"
+    "gh_f943e614ba05a5dcddd0ac58"
   ],
   "items": [
+    {
+      "id": "gh_eca179323abe1309b96e6c74",
+      "sourceId": "remote-es/remotes#192",
+      "title": "Consider including a link to the company website in addition to their jobs page",
+      "description": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "excerpt": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "issueState": "open",
+      "contentHash": "9f264e57917d81d57c461931d8d62d9b64219de514d1659a74aa586a03257e79",
+      "repository": "remote-es/remotes",
+      "repositoryUrl": "https://github.com/remote-es/remotes",
+      "region": "Europe",
+      "country": "Spain",
+      "tags": [],
+      "author": {
+        "id": "alexpdp7",
+        "name": "alexpdp7",
+        "handle": "alexpdp7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
+      },
+      "community": {
+        "id": "remote-es",
+        "name": "remote-es",
+        "avatarUrl": "https://github.com/remote-es.png?size=80",
+        "repository": "remote-es/remotes",
+        "url": "https://github.com/remote-es/remotes"
+      },
+      "createdAt": "2026-06-04T18:38:01Z",
+      "updatedAt": "2026-06-04T18:38:01Z",
+      "url": "https://github.com/remote-es/remotes/issues/192",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_66eaeb59684b31b56e56dc58",
       "sourceId": "jobright-ai/2026-Engineer-Internship#2",
@@ -701,39 +732,6 @@
       "createdAt": "2026-05-30T09:27:27Z",
       "updatedAt": "2026-05-30T09:27:27Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4511",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8ee0cb70e2cf15d8124d3868",
-      "sourceId": "vanshb03/Summer2026-Internships#4510",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://app.joinhandshake.com/jobs/11073521\n\n### Company Name\n\n Regala AI\n\n### Internship Title\n\nSWE Intern\n\n### Location\n\nSan Francisco, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://app.joinhandshake.com/jobs/11073521 ### Company Name Regala AI ### Internship Title SWE Intern ### Location San Francisco, CA ### What season is this internship for? Summer ### D...",
-      "issueState": "open",
-      "contentHash": "c2418fc5857da33f6f0d204873b25879850b91edb373dd424638ddd872fd71c3",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-30T09:26:55Z",
-      "updatedAt": "2026-05-30T09:26:55Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4510",
       "sourceType": "github-issue"
     }
   ]
