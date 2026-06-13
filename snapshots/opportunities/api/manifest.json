@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-13T06:53:48.172Z",
+  "generatedAt": "2026-06-13T21:58:23.206Z",
   "schemaVersion": 3,
   "pageSize": 20,
-  "dataHash": "ec56f1c7ca619583ab4529c59313b551a45e6c3f3a72a916d4a2254b7018ed54",
+  "dataHash": "12646d8808829bc5f655d033a3f826c66ae15c921b8a47dbcf21f76fe7f0762d",
   "totals": {
-    "openOpportunities": 720,
-    "pages": 36,
-    "repositories": 108,
+    "openOpportunities": 729,
+    "pages": 37,
+    "repositories": 110,
     "countries": 16,
     "regions": 5
   },
@@ -48,6 +48,7 @@
       "didtheyghostme/Singapore-Summer2026-TechInternships": 1,
       "dotnetdevbr/vagas": 2,
       "Empregos-dev/Vagas-dev": 30,
+      "engineerapart/TheRemoteFreelancer": 2,
       "EtherTW/jobs": 14,
       "f2etw/jobs": 13,
       "FidelisClayton/elm-jobs": 2,
@@ -75,7 +76,7 @@
       "js-hcm/job-board": 3,
       "kotlin-br/vagas": 2,
       "LinuxSuRen/remote-jobs-in-china": 3,
-      "lukasz-madon/awesome-remote-job": 3,
+      "lukasz-madon/awesome-remote-job": 9,
       "MacaeTech/vagas": 2,
       "marmelo/tech-companies-in-portugal": 1,
       "matildaexp/remote-latam": 2,
@@ -101,6 +102,7 @@
       "reactrio/vagas": 1,
       "remote-es/remotes": 1,
       "remote-job-boards/software-engineering": 19,
+      "remoteintech/remote-jobs": 1,
       "remotejobsbr/design-ux-vagas": 14,
       "seujobtech/vagas": 10,
       "SimplifyJobs/New-Grad-Positions": 1,
@@ -131,7 +133,7 @@
     "regions": {
       "Asia": 141,
       "Europe": 9,
-      "Global": 66,
+      "Global": 75,
       "North America": 92,
       "South America": 412
     },
@@ -142,7 +144,7 @@
       "China": 10,
       "Colombia": 1,
       "Germany": 5,
-      "Global": 112,
+      "Global": 121,
       "Hong Kong": 4,
       "Italy": 2,
       "Mexico": 2,
@@ -262,7 +264,7 @@
       "react": 106,
       "react-native": 1,
       "recruited": 1,
-      "remote": 200,
+      "remote": 208,
       "remotely": 3,
       "remoteok-io": 15,
       "rest": 2,
@@ -427,6 +429,7 @@
       "iamweswilson": 1,
       "iasthc": 1,
       "ilarionaaa": 1,
+      "impacterai": 9,
       "incredibleHR": 1,
       "incubadoradetalentos": 1,
       "IndependentRecruiter": 3,
@@ -639,6 +642,7 @@
     },
     "authorLabels": {
       "180465": "180465",
+      "impacterai": "impacterai",
       "rahmanMian": "rahmanMian",
       "FrancieleGhizzoni": "FrancieleGhizzoni",
       "MattB543": "MattB543",
@@ -1160,6 +1164,11 @@
       "page": 36,
       "file": "api/pages/page-0036.json",
       "count": 20
+    },
+    {
+      "page": 37,
+      "file": "api/pages/page-0037.json",
+      "count": 9
     }
   ]
 }
