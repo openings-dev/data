@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-13T02:40:16.029Z",
+  "generatedAt": "2026-06-13T06:53:48.172Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_72cc354e7d9c38f999fa902a",
     "gh_dd237a978dba300d92eb4d35",
     "gh_37de83a7709ed2c12e150734",
     "gh_7c9badcd511583c16a591a99",
@@ -22,10 +23,40 @@
     "gh_4d641b50245b8d41ceff0703",
     "gh_7b4f6457d040ea0a23c1c43b",
     "gh_b0b25f9f51d0e7f1c185dc60",
-    "gh_8d3d4b455493191722317dda",
-    "gh_9b5d9fbb31d726e63b2d6852"
+    "gh_8d3d4b455493191722317dda"
   ],
   "items": [
+    {
+      "id": "gh_72cc354e7d9c38f999fa902a",
+      "sourceId": "timqian/open-source-jobs#161",
+      "title": "Feature: Enhanced Search & Filtering",
+      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
+      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
+      "issueState": "open",
+      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:29:12Z",
+      "updatedAt": "2026-02-19T04:01:20Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/161",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_dd237a978dba300d92eb4d35",
       "sourceId": "timqian/open-source-jobs#160",
@@ -706,43 +737,6 @@
       "createdAt": "2026-01-19T17:25:09Z",
       "updatedAt": "2026-01-19T17:25:09Z",
       "url": "https://github.com/pythonjobs/jobs/issues/441",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9b5d9fbb31d726e63b2d6852",
-      "sourceId": "qa-brasil/vagas#1241",
-      "title": "[Remote] QA Jr. na Devvo Tecnologia",
-      "description": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de oportunidades de crescimento, sua busca termina aqui! Sediados em Brasília, nossa missão é impulsionar a sociedade por meio de soluções de ponta, conduzindo a transformação digital de empresas de todos os portes.**\n\n\n**Descrição da Vaga:**\nJunte-se a nós e colabore ativamente no fortalecimento e aprimoramento da nossa equipe de tecnologia. Você terá a oportunidade de participar do desenvolvimento e manutenção de soluções de software de alto desempenho, trabalhando lado a lado com equipes multidisciplinares que garantem a excelência na execução e entrega de projetos ambiciosos.\n\n\n**Responsabilidades:**\nAuxílio na realização de testes de qualidade para assegurar a boa performance dos sistemas;\nHabilidade em identificar e reportar bugs de forma clara e precisa;\nContribuição no desenvolvimento de projetos web e mobile;\nColaboração na melhoria contínua dos processos internos de gestão e desenvolvimento de projetos.\n\n\n**Requisitos:**\nProficiência em metodologias ágeis;\nBoas habilidades de comunicação e trabalho em equipe;\nConhecimento básico de Javascript / Typescript;\nExperiência prévia como Analista de Qualidade em meio corporativo.\n\n\n**Diferenciais:**\nConhecimento básico de Javascript / Typescript;\nConhecimento em ferramentas de automação de testes, como Selenium, Cypress ou Playwright.\n\n**Junte-se a Nós:**\n\nSe você está pronto(a) para um desafio estimulante em um ambiente colaborativo e inovador, este é o momento! Venha fazer parte da nossa equipe dedicada e impulsione sua carreira conosco na Devvo Tecnologia.\n\n\n**Como se candidatar:**\n\nEnvie seu Currículo e LinkedIn atualizado para o e-mail contato@devvo.com.br \nPor favor, inclua no assunto do e-mail \"[Nome] - Analista de qualidade Jr.\". Aguardamos ansiosamente para conhecer você e discutir mais sobre essa oportunidade de trabalho.\n\n\nRegime do trabalho: 100% remoto.\nModelo de Contratação: PJ.",
-      "excerpt": "**Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de...",
-      "issueState": "open",
-      "contentHash": "1f413c7e2291f3bd9c484274a1850e8f239e2714f0eb32385a81ed543216dc8a",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "brasília",
-        "pj",
-        "remoto",
-        "stale"
-      ],
-      "author": {
-        "id": "LucasCamposDevvo",
-        "name": "LucasCamposDevvo",
-        "handle": "LucasCamposDevvo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/191256669?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Devvo Tecnologia",
-      "createdAt": "2026-01-19T15:28:41Z",
-      "updatedAt": "2026-06-06T03:55:10Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1241",
       "sourceType": "github-issue"
     }
   ]

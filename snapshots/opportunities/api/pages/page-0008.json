@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T02:40:16.029Z",
+  "generatedAt": "2026-06-13T06:53:48.172Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
@@ -12,6 +12,7 @@
     "gh_a5d2446fe102d2b8b34f94c2",
     "gh_4e35e3ee4a19594e8247db30",
     "gh_c55c0ec98d8be9c01ebe7432",
+    "gh_5497a5e458f49acc5e1cf37d",
     "gh_b5220ce704e9136f8724e349",
     "gh_67b23c0d9144abe08757c78f",
     "gh_e040318067d6d162f0f9233e",
@@ -22,8 +23,7 @@
     "gh_dcdf78cbd3dbfc81b414065f",
     "gh_5b39f4b0acc4adfc7a0328f7",
     "gh_86cf7c4c726a6cec1163d1fb",
-    "gh_90dc15cf0fb5560e4c0f0993",
-    "gh_c01a0a3f6404a175991bbcce"
+    "gh_90dc15cf0fb5560e4c0f0993"
   ],
   "items": [
     {
@@ -305,6 +305,46 @@
       "createdAt": "2026-04-08T12:58:36Z",
       "updatedAt": "2026-04-22T13:11:13Z",
       "url": "https://github.com/frontendbr/vagas/issues/8468",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5497a5e458f49acc5e1cf37d",
+      "sourceId": "qa-brasil/vagas#1249",
+      "title": "[Florianópolis] QA na Fundação CERTI",
+      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nVocê atuará com as seguintes responsabilidades:\n\n- Colaborar para o estabelecimento e estruturação de processos e ferramentas para a garantia da qualidade;\n- Atuar diretamente em projetos de softwares por meio do planejamento, desenvolvimento e execução de testes manuais e automatizados;\n- Compreender as necessidades de testes de diferentes projetos e clientes e tratá-las no contexto da área de qualidade de SW;\n- Execuar testes para liberação de releases;\n- Identificar, reportar, classificar e acompanhar bugs e suas soluções;\n- Reproduzir bugs reportados por clientes;\n- Elaborar relatórios de testes e resultados.\n\n## Local de trabalho\n<!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->\n- Híbrido. 3 dias remoto e 2 dias presencial no escritório em Florianópolis - SC, bairro Pantanal \n\n## Requisitos da vaga\n\n**Obrigatórios**\n\n- Conhecimentos em processos de desenvolvimento de SW integrando atividades necessárias para garantia da qualidade;\n- Conhecimento e experiência prática com sistemas de gestão de casos de teste;\n- Domínio das diferentes técnicas de teste de SW;\n- Concepção, elaboração e execução de casos de teste para sistemas Web, aplicativos móveis e APIs;\n- Experiência com a análise de atendimento de requisitos e complementação dos testes com \"corner cases\", interdependências e riscos de falhas;\n- Conhecimento e experiência prática com planejamento e acompanhamento de métricas de qualidade de SW;\n- Destacado relacionamento interpessoal para alinhamento de práticas com os demais colaboradores, discussão de defeitos com clientes e apresentação de resultados;\n- Proatvidade.\n\n**Diferenciais**\n\n- Sólida experiência em automação estruturada de testes Web, de aplicativos móveis e de APIs;\n- Experiência com a aplicação de testes automatizados em sistemas em produção e em pipelines de CI/CD;\n- Experiência de testes em projetos de pesquisa e desenvolvimento de softwares e de sistemas compostos também por IA, Hardware e Firmware;\n- Conhecimento de testes focados em segurança de SW;\n- Conhecimento de testes de desempenho, carga e volume;\n- Conhecimento e experiência com aplicação de técnicas de BDD.\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- Vale alimentação ou vale refeição (você escolhe), no valor de R$31,56 por dia útil de trabalho;\n- Plano de saúde e odontológico (sem coparticipação, carência ou mensalidade);\n- Seguro de vida em grupo;\n- Plano de previdência privada com aporte de 1% da empresa;\n- Wellhub;\n- Guapeco;\n- Auxílio-creche para filhos(as) de até 6 anos;\n- Convênio com o SESC (lazer, cultura e esportes);\n- Day Off (Folga no dia do aniversário);- \n- Desconto em folha nas farmácias da rede SESI.\n\n**Diferenciais**\n\n- 2 horas de almoço\n- Frutas frescas e café à vontade;\n- Bicicletário e vestiário com chuveiro;\n- \n\n## Sobre a empresa\n\nSomos uma Fundação de pesquisa, desenvolvimento e serviços tecnológicos especializados que proporciona soluções inovadoras para a iniciativa privada, governo e terceiro setor. Somos um time que acredita que o trabalho em equipe é essencial, que trabalha de forma dinâmica e que está sempre em busca de novos desafios!\n\n## Como se candidatar\n\n- Candidatar através do site (https://enliztjob.app.link/rvx0Tp2Lq0b)\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 7 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: lmd@certi.org.br\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- CLT\n- Pleno\n- Sênior\n- Especialista\n-\n<!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->\n- Presencial\n- Remoto\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n- Santa Catarina\n<!--- Se sua vaga não for do Brasil, apague a linha de estado acima e deixe a de baixo --->\n\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
+      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
+      "issueState": "open",
+      "contentHash": "5af483f30a25a71040372cd561615b4cbedef74cf6697e4ad730cded69a66aed",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "remoto",
+        "santa catarina",
+        "sênior",
+        "presencial",
+        "especialista",
+        "stale"
+      ],
+      "author": {
+        "id": "lmd-recruiter",
+        "name": "lmd-recruiter",
+        "handle": "lmd-recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/274318545?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "createdAt": "2026-04-07T20:03:44Z",
+      "updatedAt": "2026-06-13T04:13:24Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1249",
       "sourceType": "github-issue"
     },
     {
@@ -716,47 +756,6 @@
       "createdAt": "2026-03-20T22:05:39Z",
       "updatedAt": "2026-04-28T10:46:01Z",
       "url": "https://github.com/react-brasil/vagas/issues/3007",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c01a0a3f6404a175991bbcce",
-      "sourceId": "qa-brasil/vagas#1247",
-      "title": "[VAGA FECHADA] QA na <db>",
-      "description": "## Descrição da vaga\n\n**Responsabilities**\n\n- Design and develop robust test automation framework architectures for RFID system validation, with a focus on scalability, maintainability, and performance.\n- Implement Python-based interfaces for controlling and communicating with RFID readers to enable test execution, diagnostics, and data collection.\n- Integrate test hardware (e.g., signal generators, spectrum analyzers, emulated tags) into the automation framework for fully automated test execution and data acquisition.\n- Develop and optimize system performance test scripts based on engineering specifications, enabling data logging, system validation, and post-test analytics.\n- Implement and manage relational database systems (e.g., SQL) for organizing and storing test results; implement automated data pipelines for ingestion, parsing, and aggregation of large-scale datasets.\n- Troubleshoot and debug complex system-level issues involving interactions between RFID hardware, automation software, and test environments, ensuring alignment with product requirements.\n- This position requires onsite presence three times a week.\n\n**Requirements added by the job poster**\n\n• Working in a hybrid setting\n• Authorized to work in the United States\n\n## Local de trabalho\n\n- Hybrid twice or three times in San Diego - CA;\n\n## Requisitos da vaga\n\n**Requirements and qualifications\n\nSoftware Development**\n\n- Strong proficiency in Python, including test framework and automation script development\n- Experience with embedded software stacks and hardware-software integration\n- Familiarity with REST APIs and backend service automation\n- Proficiency with Linux tools, shell scripting, and development best practices\n- Experience with data parsing, processing, and visualization for test analysis\n- Understanding of test-driven development (TDD), continuous integration (CI), and deployment practices\n\n**Automation System Development**\n\n- Deep experience with Linux terminal operations, including BASH scripting, process management, and system diagnostics.\n- Familiarity with virtual environments using Docker and virtual machines.\n- Experience with Linux package management (e.g., apt, yum, dnf for installation, updates, and dependency handling).\n- Familiarity with remote debugging and access tools (SSH, Telnet, Remote Desktop).\n- Strong log analysis and troubleshooting skills in complex automation environments.\n- Software Version Control & Repository Management:\n- Proficiency with Git command-line operations and version control best practices.\n- Understanding of trunk-based development, monorepo structures, and multi-distribution paradigms.\n- Experience with code review workflows, pull requests (PRs), and branching strategies.\n- Familiarity with software packaging tools (e.g., pip, npm, cargo, Linux distro packages).\n\n**RF System Testing:**\n\n- Experience using RF test equipment, including High-speed oscilloscopes, Signal generators, RF power meters, Spectrum analyzers, Vector network analyzers (VNA), etc.\n- Knowledge on RF principles and measurement techniques, including Signal-to-noise ratio (SNR), Sensitivity analysis, RF power and emission analysis, Interference detection and spectrum analysis\n- Experience with WiFi, LTE, RFID or other System Testing is a plus\n\n## Forma de contratação\n\n- PJ\n\n## Benefícios da empresa\n\n- Pension plan, Medical insurance.\n\n## Sobre a empresa\n\n- We are a consulting firm based in Rio Grande do Sul that works on national and international projects, serving clients in the financial and retail sectors.\n- We have an opening for a System Validation Engineer in the United States, working in a hybrid model in San Diego 🇺🇸.\n- We are looking for professionals who want to be part of an environment that values people, encourages continuous development, and prioritizes quality and excellence in code.\n- If you want to take your career global and work on challenging projects, this could be the perfect opportunity 🚀\n\n## Como se candidatar\n\n- Por favor envie um email para pessoas_terra@db.tec.br com seu CV anexado - Enviar no assunto: Vaga do QA-Brasil\n- Candidatar através do site (https://www.linkedin.com/jobs/view/4388111738/?trk=mcm)\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 3 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: luana.leal@db.tec.br\n\n- PJ\n- Pleno\n- Sênior\n- Especialista\n- 3 dias Presencial\n- Remoto\n- Exterior\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "## Descrição da vaga **Responsabilities** - Design and develop robust test automation framework architectures for RFID system validation, with a focus on scalability, maintainability, and performance. - Implement Pyth...",
-      "issueState": "open",
-      "contentHash": "e7be4bb8b5da357d15704cc7a8d831fa4f7179fac76b0d3d992273629f897c4d",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "remoto",
-        "rio grande do sul",
-        "sênior",
-        "presencial",
-        "especialista",
-        "exterior"
-      ],
-      "author": {
-        "id": "Luavagas",
-        "name": "Luavagas",
-        "handle": "Luavagas",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/185206839?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Pension plan, Medical insurance.",
-      "createdAt": "2026-03-20T12:35:51Z",
-      "updatedAt": "2026-05-30T03:51:55Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1247",
       "sourceType": "github-issue"
     }
   ]
