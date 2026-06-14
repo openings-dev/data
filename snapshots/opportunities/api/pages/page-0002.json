@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-14T02:51:53.925Z",
+  "generatedAt": "2026-06-14T11:26:30.169Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_84cd180e02db9815d917bcc4",
+    "gh_3ef6e457c5ac8fbfa42301f1",
     "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
     "gh_7bcd691815b883db937698fc",
@@ -21,11 +23,77 @@
     "gh_e178ee2363a4eb2ca10d3d06",
     "gh_28a89509442cf0e8c335df8d",
     "gh_a22f5e56e27f4a7ad381be20",
-    "gh_95a6292ad2f7921305be5706",
-    "gh_2461eb20869e2ac1d13b917a",
-    "gh_f943e614ba05a5dcddd0ac58"
+    "gh_95a6292ad2f7921305be5706"
   ],
   "items": [
+    {
+      "id": "gh_84cd180e02db9815d917bcc4",
+      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
+      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
+      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
+      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
+      "issueState": "open",
+      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
+      },
+      "createdAt": "2026-06-05T14:28:49Z",
+      "updatedAt": "2026-06-05T14:28:49Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3ef6e457c5ac8fbfa42301f1",
+      "sourceId": "zapplyjobs/Internships-2026#15",
+      "title": "Suggestion: add Canada-specific Hanzilla Jobs internship resource",
+      "description": "Hi Zapply team — thanks for maintaining this broad internships tracker.\n\nI noticed the list is primarily U.S.-focused, but it does surface some Canada-relevant internship/co-op roles too (for example Magna roles in Ontario). Would you be open to adding a small Canada-specific companion resource for students who land here while searching from Canadian universities?\n\nSuggested Markdown:\n\n```md\n- [Hanzilla Jobs — Canadian student internships/co-ops](https://jobs.hanzilla.co/internships/) — free daily-updated board for Canadian university students and recent grads, covering internships, co-ops, new-grad, junior, and entry-level roles across tech, data/AI, finance, engineering, business, sciences, and more. See also the [about/verification page](https://jobs.hanzilla.co/about/).\n```\n\nWhy it might fit:\n- Canada-specific coverage for students who need Canadian locations / remote-Canada roles, not only U.S. listings.\n- Direct links go to company career pages; no paywall.\n- It is broader than SWE only, so it can complement your tech/software internship list without trying to replace it.\n\nDisclosure: I’m building Hanzilla Jobs. Totally okay if this is not the right fit for this repo — sharing because it may help Canadian students using the tracker.",
+      "excerpt": "Hi Zapply team — thanks for maintaining this broad internships tracker. I noticed the list is primarily U.S.-focused, but it does surface some Canada-relevant internship/co-op roles too (for example Magna roles in Ont...",
+      "issueState": "open",
+      "contentHash": "33cc7f8ef9a5b00908b71e1eb1caf4c0368031a5f4d84b004ef322b5cfd9435a",
+      "repository": "zapplyjobs/Internships-2026",
+      "repositoryUrl": "https://github.com/zapplyjobs/Internships-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/Internships-2026",
+        "url": "https://github.com/zapplyjobs/Internships-2026"
+      },
+      "createdAt": "2026-06-05T03:26:05Z",
+      "updatedAt": "2026-06-05T03:26:05Z",
+      "url": "https://github.com/zapplyjobs/Internships-2026/issues/15",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_eca179323abe1309b96e6c74",
       "sourceId": "remote-es/remotes#192",
@@ -666,72 +734,6 @@
       "createdAt": "2026-05-30T09:27:54Z",
       "updatedAt": "2026-05-30T09:27:54Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4512",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2461eb20869e2ac1d13b917a",
-      "sourceId": "vanshb03/Summer2026-Internships#4511",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://app.joinhandshake.com/jobs/11020267\n\n### Company Name\n\nApparent Inc.\n\n### Internship Title\n\nSoftware Engineering Intern (Web Development)\n\n### Location\n\nNovato, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://app.joinhandshake.com/jobs/11020267 ### Company Name Apparent Inc. ### Internship Title Software Engineering Intern (Web Development) ### Location Novato, CA ### What season is t...",
-      "issueState": "open",
-      "contentHash": "30be0a6686187f491dbfa105bf248cb748d7d4f40c35b1cb4c6da4d685a3cf56",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-30T09:27:27Z",
-      "updatedAt": "2026-05-30T09:27:27Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4511",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f943e614ba05a5dcddd0ac58",
-      "sourceId": "vanshb03/Summer2027-Internships#4511",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://app.joinhandshake.com/jobs/11020267\n\n### Company Name\n\nApparent Inc.\n\n### Internship Title\n\nSoftware Engineering Intern (Web Development)\n\n### Location\n\nNovato, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://app.joinhandshake.com/jobs/11020267 ### Company Name Apparent Inc. ### Internship Title Software Engineering Intern (Web Development) ### Location Novato, CA ### What season is t...",
-      "issueState": "open",
-      "contentHash": "30be0a6686187f491dbfa105bf248cb748d7d4f40c35b1cb4c6da4d685a3cf56",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-05-30T09:27:27Z",
-      "updatedAt": "2026-05-30T09:27:27Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4511",
       "sourceType": "github-issue"
     }
   ]
