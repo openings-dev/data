@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-06-15T08:54:52.902Z",
+  "generatedAt": "2026-06-15T14:59:45.911Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
-    "gh_cb460a994692de5cafcca4d8",
     "gh_bebc4c633e728a987497ecda",
     "gh_dcdf78cbd3dbfc81b414065f",
     "gh_5b39f4b0acc4adfc7a0328f7",
@@ -23,50 +22,10 @@
     "gh_15fb9ec0047c0e7cc80ada55",
     "gh_85486f31f6bca38c2dd8836a",
     "gh_5903d3232c2f99d9ae568fe8",
-    "gh_5e3fc1e256e628bfb7f7bdcc"
+    "gh_5e3fc1e256e628bfb7f7bdcc",
+    "gh_db7b29e6b9c9b5ad8788f6ac"
   ],
   "items": [
-    {
-      "id": "gh_cb460a994692de5cafcca4d8",
-      "sourceId": "DevOps-Brasil/Vagas#458",
-      "title": "Líder Estudantil Builder Amazon Web Services (AWS) - 200 Vagas no Brasil todo",
-      "description": "### 🎯 Cargo\n\nLíder Estudantil Builder Amazon Web Services (AWS)\n\n### 🏢 Empresa\n\nAWS\n\n### 📊 Nível de Experiência\n\nEstágio\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil Inteiro\n\n### 📝 Tipo de Contratação\n\nPJ\n\n### 💰 Faixa Salarial\n\nR$1000,00/semana\n\n### 📋 Descrição da Vaga\n\nA Effect Sport está recrutando estudantes universitários apaixonados por tecnologia em todo o Brasil para representar a AWS em seus campi no programa de 2026.\n\n* Dedicação: 8 a 10 horas semanais (part-time)\n* Atuação: dentro da sua própria universidade\n* Perfil: estudantes de tecnologia (CC, SI, ADS, Eng. Software, etc.)\n\nPara quem quiser verificar a autenticidade da vaga, você pode conferir aqui:\n\n🔗 Post oficial no LinkedIn da Effect\nhttps://www.linkedin.com/posts/effect-sport_torne-se-um-l%C3%ADder-estudantil-builder-amazon-activity-7437897935478091776-QFFQ\n\n📸 Instagram da Effect\nhttps://www.instagram.com/effectsport/\n\n📄 Inscrição\nhttps://bit.ly/4uojNf1\n\n### ✅ Requisitos Técnicos\n\n```markdown\nDesejável conhecimento básico de computação na Nuvem AWS\n```\n\n### 🎁 Benefícios\n\n_No response_\n\n### 🛠️ Stack/Tecnologias\n\n_No response_\n\n### 📧 Como se Candidatar\n\n📄 Inscrição\nhttps://bit.ly/4uojNf1\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://bit.ly/4uojNf1\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
-      "excerpt": "### 🎯 Cargo Líder Estudantil Builder Amazon Web Services (AWS) ### 🏢 Empresa AWS ### 📊 Nível de Experiência Estágio ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil Inteiro ### 📝 Tipo de Contratação ...",
-      "issueState": "open",
-      "contentHash": "05f4cd68dcdad421b509572d9d530b7b1735df67b278dc382989e1eeb6973827",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "devops",
-        "stale",
-        "sre",
-        "infra",
-        "aws",
-        "pa",
-        "se"
-      ],
-      "author": {
-        "id": "andredelort-afk",
-        "name": "andredelort-afk",
-        "handle": "andredelort-afk",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/271340694?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "companyName": "Brasil todo",
-      "createdAt": "2026-03-26T19:06:13Z",
-      "updatedAt": "2026-05-28T04:20:13Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/458",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_bebc4c633e728a987497ecda",
       "sourceId": "programadores-br/geral#3062",
@@ -778,6 +737,40 @@
       "createdAt": "2026-03-03T14:44:39Z",
       "updatedAt": "2026-03-03T14:45:31Z",
       "url": "https://github.com/programadores-br/geral/issues/3056",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_db7b29e6b9c9b5ad8788f6ac",
+      "sourceId": "ambicuity/New-Grad-Jobs#30",
+      "title": "[Beginner]: Add argparse to generate_companies.py for command-line options",
+      "description": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g., --greenhouse-count 4000).",
+      "excerpt": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g.,...",
+      "issueState": "open",
+      "contentHash": "d1f46ab8cd3b1a54ef12f738b807609949effc1a8525d70664d7a11948d3c57b",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "good first issue"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-02T20:47:18Z",
+      "updatedAt": "2026-05-26T19:59:13Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/30",
       "sourceType": "github-issue"
     }
   ]

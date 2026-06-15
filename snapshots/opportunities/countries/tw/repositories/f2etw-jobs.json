@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T13:11:29.566Z",
+  "generatedAt": "2026-06-15T14:59:45.911Z",
   "country": "Taiwan",
   "countryCode": "TW",
   "region": "Asia",
@@ -9,7 +9,7 @@
     "openIssues": 13,
     "closedIssues": 17
   },
-  "dataHash": "fa9f9adb5244c4c5d01ebbfd18d91814d03df6c673b6f195dc7cb31464a4ea36",
+  "dataHash": "91d545b9c94c3d30a895d0b4f2e7809a76721bcfe1bc32c34ad123ff20c7bd54",
   "items": [
     {
       "id": "gh_262eabf57dbe027b02b3c2f8",
@@ -795,44 +795,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_08920f90824451030c93aaa1",
-      "sourceId": "f2etw/jobs#1105",
-      "title": "[新竹/竹科] [月薪 10 萬起] [年薪 200 萬] 聯發科技前端工程師 (Senior and Junior)",
-      "description": "## 工作地點\n\n新竹科學工業園區篤行一路 2 號 (聯發科總部 V 棟)\n\n## 團隊簡介\n\n* 聯發科技專注於使用 AI, BigData, Process Automation 技術提升公司各部門團隊生產力，及改善 IC Design Flow\n* 擁抱產品及數據思維，以數據驅動產品功能之開發決策\n* 以使用者故事 (user story) 作為開發依據，採用敏捷式開發 (Agile development) 快速迭代產品\n* 重視團隊成員能力成長及團隊向心力，每月由不同成員定期做軟硬技術分享 (AI / BigData / Process Automation)，進而達成組織目標\n* 自動化測試部署確保軟體品質及提升工作效率減少時間浪費\n\n## 基本條件\n\n- 熟悉 React / Angular / Vue 任一框架 (我們用 React)\n- 熟悉 HTML5 / CSS3 / ES6+\n- 熟悉 Git 版控\n- 能獨立作業完成專案\n- 編寫乾淨、可擴展和可維護的代碼\n- 能夠指導團隊合作整體設計和程式碼架構，並不斷努力改進它，能夠為團隊編寫風格指南以供遵循。\n- 三年以上相關軟體開發經驗，資工/電機相關科系畢業\n\n很多會問，什麼條件才能成為資深軟體工程師，請直接參考這篇文章『[如何才有資格稱為資深工程師](https://jaceju.net/be-a-senior-engineer/)』\n\n## 工作內容\n\n- 負責 Web 前端元件開發並完成交付\n- 與 UI/UX designer 合作，制定使用者介面\n- 與 PM 確認系統需求與操作流程，以實作商業邏輯\n- 與 Backend engineer 合作，進行 API 整合與開發\n- 構建可重用的組件和前端 library 以供未來使用\n- Agile 開發方式，每週定期更新、回報實作進度\n\n## 加分項目\n\n- React hooks\n- GraphQL (Apollo)\n- Typescript\n- Material UI / Tailwind\n- Jest 單元測試\n- Cypress E2E testing\n- Next.js\n- RWD\n- 熟悉瀏覽器行為\n- 有網站效能優化經驗\n- 善於溝通與團隊合作\n- 熟悉 CI/CD 工具\n\n## 團隊技術\n\n1. 使用 [Gitea][10] 進行版本控制及審核\n2. 使用 Jira 及 Confluence 控管專案進度及文件\n3. 使用 [Gitea Action][11] 打造自動化部署系統\n4. 使用 Go, Python, Node.JS 語言開發微服務架構\n5. 使用 Restful API, GraphQL 或 gRPC 進行服務溝通\n6. 資料庫使用 SQLite, Postgres 或 MySQL\n7. 雲平台使用 Azure, AWS 或 GCP\n8. 透過 [Terraform][12], [Pulumi][13] 管理 Infrastructure\n9. 使用 Grafana + Prometheus + Loki 監控各種服務狀態\n10. 使用 Kubernetes 部署服務\n \n[10]: https://about.gitea.com/\n[11]: https://docs.gitea.com/usage/actions/overview\n[12]: https://www.terraform.io/\n[13]: https://www.pulumi.com/\n\n## 薪資福利\n\n年薪百萬起跳 100k/month（依據資歷能力給薪）\n\n* 年終兩個月(依照到職比例)\n* 健康檢查 (6500 元)、聚餐補助\n* 旅遊補助 16000 (每年) 可以買任何產品\n* 午餐跟晚餐補助 65 元 (分開補助)\n* 每個月 200 元餐點補助 (7-11, 星巴克購物)\n\n## 工時/特休\n\n比照勞基法\n\n## 聯絡方式\n\n請將履歷夾帶於附件 (PDF)，寄信至 Bo-Yi.Wu@mediatek.com，標題註明『`應徵聯發科技前端工程師 - XXX`』(其中 XXX 為姓名)， 我們將會與您聯絡",
-      "excerpt": "## 工作地點 新竹科學工業園區篤行一路 2 號 (聯發科總部 V 棟) ## 團隊簡介 * 聯發科技專注於使用 AI, BigData, Process Automation 技術提升公司各部門團隊生產力，及改善 IC Design Flow * 擁抱產品及數據思維，以數據驅動產品功能之開發決策 * 以使用者故事 (user story) 作為開發依據，採用敏捷式開發 (Agile development) 快速迭代產品 * 重...",
-      "issueState": "closed",
-      "contentHash": "3b535b075bb0088ea142ab57705c237d0f6927578e503645ea875bc5c7b4ac2d",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "求才",
-        "年薪百萬",
-        "[f] react",
-        "unit test",
-        "[f] typescript",
-        "[b] graphql"
-      ],
-      "author": {
-        "id": "appleboy",
-        "name": "appleboy",
-        "handle": "appleboy",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/21979?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2024-03-30T05:12:05Z",
-      "updatedAt": "2025-05-08T01:58:35Z",
-      "url": "https://github.com/f2etw/jobs/issues/1105",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_a891717369de4b30d230a03d",
       "sourceId": "f2etw/jobs#1049",
       "title": "(刪除)",
@@ -1121,6 +1083,42 @@
       "createdAt": "2018-02-28T15:00:48Z",
       "updatedAt": "2026-01-12T03:31:50Z",
       "url": "https://github.com/f2etw/jobs/issues/303",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5bb1548d97f804a30013f1d2",
+      "sourceId": "f2etw/jobs#52",
+      "title": "[徵前端工程師] 世紀快網科技股份有限公司(籌備處)",
+      "description": "# Cepave.com\n## 世紀快網科技股份有限公司(籌備處)\n\nCepave 於 2015 年成立，是一家新型態網路科技公司，專注於開發大規模的網路應用系統。以直覺、人性化的操作介面來管理網路設備，提供智慧平台分析網路趨勢。母集團是 NASDAQ 上市公司，代號：[VNET](http://finance.yahoo.com/q?s=VNET)。\n我們要找的是有野心、有膽識、有創業想法、勇於自我挑戰、喜歡 Hackathon、熱愛學習新技術的人才。學歷不拘，只要有能力、態度良好、肯學，學歷不是問題。\n對於 Cloud Computing / Big Data / Open Source 有興趣的您，Cepave 每日要處理的的資料量是好幾十 TB，是能讓您大展身手的極佳平台，歡迎加入我們！\n跟我們抱著同樣想法的您，歡迎加入我們！\n## 公司文化\n\n我們崇尚 [F.L.A.G.](http://www.raychase.net/1107) 的工程師文化，鼓勵獨到的見解、激發創意。透過[最有效率的溝通、以及最少的管理](http://www.inside.com.tw/2015/05/24/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it)來完成團隊任務。所以期待來挑戰的您與我們一樣，對於技術充滿熱情，能自動自發，持續在能力上精進，和我們一起挑戰技術上的難題。\n我們沒有規定上下班時間，不用打卡，可以依照個人狀況[自由地調整上下班時間與地點](http://mmdays.com/2013/02/18/work-from-home/)以得到最高的產出。\n我們的組織非常扁平，每個人可以依據公司目標、工作優先順序、個人專長和興趣，主動參與討論並自行決定工作內容。期許每位人對自己的工作負責，在工作進行中充分和同伴進行討論。在專案上注重敏捷式開發 [(Scrum + Kanban)](http://en.wikipedia.org/wiki/Scrum_ban)，迅速並確實地完成工作。\n## 薪酬與福利\n\n在 Cepave 中，即便是剛畢業的工程師，全年底薪也會至少新台幣 70 萬以上（以 14 個月計算）；資深工程師全年底薪至少百萬。我們的團隊文化新創、工作效率新創，但是待遇不新創。我們用盡可能高的待遇爭取人才，因為我們相信：在新創公司打拚，薪水不必委屈！\n具體薪資依據能力以及各種條件而定，等您來挑戰上限！\n- 免費的零食及飲料\n- 公司買了無限量的儲存空間給喜歡使用 Google 服務的您\n- 鼓勵 BYOD，還有公司高額的補助\n- 每週一次的 TGIF 下午茶大會，鼓勵大家暢所欲言，盡情表達自己的創意和想法\n- 不定期的聚餐與電影欣賞\n- 公司鼓勵您利用上班時間參與技術聚會/黑客松/研討會\n- 為了提高運動風氣，公司還提供每人每月定额運動津貼，可用於健身房、馬拉松、單車比賽...等等\n- 用餐補助、員工分紅、三節獎金、績效獎金\n- 提供優於勞基法規定的特休天數，並依社會年資給予7日以上特休。\n- 不定期文康活動\n- 年度員工健康檢查\n- 勞、健保及退休金提撥：凡新進人員報到後即辦理勞、健保投保及退休金提撥\n## 軟體工程師 - Front End\n### Responsibilities\n- Implement the features and user interfaces of monitoring system.\n- Architect efficient and reusable front-end systems that drive complex web applications.\n- Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products.\n- Identify and resolve performance and scalability issues.\n- Data visualization.\n### Requirements\n- Experience with HTML/CSS, including concepts like layout, specificity, cross browser compatibility.\n- Proficient in Javascript, including concepts like asynchronous programming, closures, types. Experience with ES6 would be a great plus.\n- Experienced with at least one JS framework (React, Angular, etc.) combined with the capability to write beautiful code independently of these.\n- Can easily pick up new front end libraries and frameworks.\n- Familiarity with interactive data visualization using tools such as D3.js, Flot, Highcharts, or Echarts.\n- Familiarity with Git.\n### Extra\n- Experience with scripting languages (Node.js, Python, etc.)\n- Familiar with pre-processors languages (SASS & Compass, or LESS...)\n- Familiar with Task Runner (Grunt or Gulp)\n- Experience with module loader (Webpack, Browserify, or RequireJS)\n- Experience with web toolkit (Bootstrap, Foundation, or semantic-UI)\n- Experience with client-side graphics, animation and data visualization (SVG, HTML Canvas, CSS transitions/animations)\n- Experience with SPA (Single Page Application).\n- Understanding of UI/UX principles.\n- Has participated in open source projects.\n## 聯絡我們\n\n請準備以下資料，並且附上 Hangout 聯絡方式發信至： hr@cepave.com 。 \n我們會儘快與您聯繫並約定第一輪 Hangout 視訊面試時間。\n- 履歷，格式不限、中英文皆可\n  若能提供以下資料會有很大的加分：\n- 個人網站或部落格\n- Stackoverflow 帳號\n- Github 帳號\n- LinkedIn 帳號",
+      "excerpt": "# Cepave.com ## 世紀快網科技股份有限公司(籌備處) Cepave 於 2015 年成立，是一家新型態網路科技公司，專注於開發大規模的網路應用系統。以直覺、人性化的操作介面來管理網路設備，提供智慧平台分析網路趨勢。母集團是 NASDAQ 上市公司，代號：[VNET](http://finance.yahoo.com/q?s=VNET)。 我們要找的是有野心、有膽識、有創業想法、勇於自我挑戰、喜歡 Hackathon、...",
+      "issueState": "closed",
+      "contentHash": "a5b019202ab9f7472a3a636b6f897681778d187c236a7b47406514264a5dbdb3",
+      "repository": "f2etw/jobs",
+      "repositoryUrl": "https://github.com/f2etw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "求才",
+        "[f] angular",
+        "[f] d3.js",
+        "[f] react"
+      ],
+      "author": {
+        "id": "jerrysdesign",
+        "name": "jerrysdesign",
+        "handle": "jerrysdesign",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2060669?v=4"
+      },
+      "community": {
+        "id": "f2etw",
+        "name": "f2etw",
+        "avatarUrl": "https://github.com/f2etw.png?size=80",
+        "repository": "f2etw/jobs",
+        "url": "https://github.com/f2etw/jobs"
+      },
+      "createdAt": "2015-08-26T09:45:53Z",
+      "updatedAt": "2026-06-15T08:55:56Z",
+      "url": "https://github.com/f2etw/jobs/issues/52",
       "sourceType": "github-issue"
     }
   ]
