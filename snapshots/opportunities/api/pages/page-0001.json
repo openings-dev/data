@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-14T19:14:00.415Z",
+  "generatedAt": "2026-06-15T02:56:31.076Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_2c16ab189f078f7506cc819d",
     "gh_dce46803095a014612cecff3",
     "gh_ef40ca478f5bc341b68c32a6",
     "gh_a8c6d54f34f9496fe4dcd6c0",
@@ -22,10 +23,40 @@
     "gh_aee09e92fadf8366a70512db",
     "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
-    "gh_294a6653c881356dfec479bd",
-    "gh_0e98dad659c3df11a1cb1cc8"
+    "gh_294a6653c881356dfec479bd"
   ],
   "items": [
+    {
+      "id": "gh_2c16ab189f078f7506cc819d",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9548",
+      "title": "Resource suggestion: free total compensation offer calculator",
+      "description": "Hi! I built a free no-login Total Compensation Offer Calculator that may fit job-search / career resource lists:\n\nhttps://cleo-ai-ops.github.io/client-intake-autopilot-pack/total-comp-offer-calculator/\n\nIt helps job seekers compare base salary, bonus, equity estimate, sign-on, benefits, commute cost, and target salary before negotiating an offer. Companion paid kit: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/salary-negotiation-prep-kit/\n\nHappy to adjust category/wording if useful.",
+      "excerpt": "Hi! I built a free no-login Total Compensation Offer Calculator that may fit job-search / career resource lists: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/total-comp-offer-calculator/ It helps job see...",
+      "issueState": "open",
+      "contentHash": "d703655f0522dea6da04b34f6190c1e529f4b3fcb0ac316378e0fa5262c0b6cf",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "cleo-ai-ops",
+        "name": "cleo-ai-ops",
+        "handle": "cleo-ai-ops",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/277931248?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-15T01:40:40Z",
+      "updatedAt": "2026-06-15T01:40:40Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9548",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_dce46803095a014612cecff3",
       "sourceId": "lukasz-madon/awesome-remote-job#1084",
@@ -720,43 +751,6 @@
       "createdAt": "2026-06-08T18:05:45Z",
       "updatedAt": "2026-06-08T18:06:14Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1257",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0e98dad659c3df11a1cb1cc8",
-      "sourceId": "nerdzao/vagas#193",
-      "title": "[São Paulo] Pessoa Engenheira de Cloud Sênior (Gestão de APIS) - Viaflow",
-      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado.\n\n\nEstamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de conexão estratégico entre serviços de backend e aplicações consumidoras, garantindo segurança, escalabilidade e performance no ciclo de vida de APIs.\n\n\nSe você tem domínio profundo na plataforma Apigee (Google Cloud), gestão de API Marketplace e arquitetura de microsserviços, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nDesenho e Implementação de APIs: Projetar e configurar proxies de API, políticas de segurança e regras de tráfego utilizando Apigee (Edge ou X).\nGestão de API Marketplace: Gerenciar plataformas de marketplace para facilitar a descoberta, documentação e autoatendimento de desenvolvedores.\nAutomação e CI/CD: Automatizar pipelines de implantação de APIs utilizando ferramentas como Terraform, GitHub Actions ou Jenkins, garantindo agilidade e confiabilidade.\nSegurança e Compliance: Implementar uma postura rigorosa de segurança (proteção contra ameaças, rate limiting) e padrões de criptografia (OAuth2, OIDC, JWT).\nExcelência Operacional: Monitorar performance, latência e taxas de erro, implementando alertas proativos e estratégias avançadas de troubleshooting.\nColaboração Técnica: Trabalhar em conjunto com times de aplicação para definir contratos de API (OpenAPI/Swagger) e práticas de transformação.\nDocumentação Técnica: Desenvolver e manter documentação de alta qualidade, incluindo especificações de API e conteúdos para portais de desenvolvedores.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\n\nExperiência Especializada: em Cloud Engineering, com foco em API Gateway ou plataformas de gestão de APIs.\nEspecialista em Apigee: Conhecimento avançado em configuração de políticas Apigee, Shared Flows e extensões customizadas (Javascript/Java callouts).\nExpertise em Cloud (GCP): Experiência prática comprovada com Google Cloud Platform.\nArquitetura Moderna: Conhecimento em conteinerização (Docker, Kubernetes) e design de microsserviços.\nPadrões de API: Domínio de RESTful API design e OpenAPI Specification (OAS).\nSegurança: Domínio de OAuth 2.0, OpenID Connect e protocolos TLS.\nInfraestrutura como Código (IaC): Proficiência em Terraform, Crossplane ou Pulumi.\nProgramação: Capacidade de escrever scripts de automação em Python, [Node.js](http://node.js/) ou Go.\n🏆 Diferenciais (O que valorizamos)\n\nExperiência em configurar Portais de Desenvolvedor e ecossistemas de API Marketplace.\nSólido conhecimento de redes (DNS, Load Balancing, VPCs e Firewalls).\nCapacidade analítica para diagnosticar problemas em ambientes complexos e multi-tier.\n🤝 Soft Skills\n\nExcelente capacidade de resolução de problemas e diagnóstico técnico.\nHabilidade de comunicação para conectar requisitos técnicos complexos aos objetivos de negócio.\nPerfil analítico e proativo na melhoria de processos de integração.\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nInformações adicionais\nContratação via modelo cooperativa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e DASA\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nFaz sentido para você? Se inscreva através do link: https://viaflow.gupy.io/jobs/11442319?jobBoardSource=gupy_public_page",
-      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de co...",
-      "issueState": "open",
-      "contentHash": "a222a178c6a199bf4350640ba8a635482b267922be3238e1bc4087350444a6ba",
-      "repository": "nerdzao/vagas",
-      "repositoryUrl": "https://github.com/nerdzao/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "node",
-        "python",
-        "java",
-        "design"
-      ],
-      "author": {
-        "id": "jesspinheiro93",
-        "name": "jesspinheiro93",
-        "handle": "jesspinheiro93",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
-      },
-      "community": {
-        "id": "nerdzao",
-        "name": "nerdzao",
-        "avatarUrl": "https://github.com/nerdzao.png?size=80",
-        "repository": "nerdzao/vagas",
-        "url": "https://github.com/nerdzao/vagas"
-      },
-      "createdAt": "2026-06-08T16:58:12Z",
-      "updatedAt": "2026-06-08T16:58:12Z",
-      "url": "https://github.com/nerdzao/vagas/issues/193",
       "sourceType": "github-issue"
     }
   ]

@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-14T19:14:00.415Z",
+  "generatedAt": "2026-06-15T02:56:31.076Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_e178ee2363a4eb2ca10d3d06",
     "gh_28a89509442cf0e8c335df8d",
     "gh_a22f5e56e27f4a7ad381be20",
     "gh_95a6292ad2f7921305be5706",
@@ -22,10 +23,44 @@
     "gh_53e66dfc83c369ad7f912661",
     "gh_dbfbb20a479c3a245e206b2d",
     "gh_9ce451ea6696d8b47efeb62d",
-    "gh_e37fd8bc1999bbe352abdaba",
-    "gh_adba7cc3118ba444e97b4d60"
+    "gh_e37fd8bc1999bbe352abdaba"
   ],
   "items": [
+    {
+      "id": "gh_e178ee2363a4eb2ca10d3d06",
+      "sourceId": "ambicuity/New-Grad-Jobs#318",
+      "title": "Consider Hanzilla Jobs as a Canada-specific new-grad companion resource",
+      "description": "Hi — thanks for maintaining this automated new-grad list.\n\nI’m building Hanzilla Jobs, a free daily-updated Canadian student/recent-grad jobs board: https://jobs.hanzilla.co/new-grad/\n\nIt is not meant to replace this repo, but it may be a useful Canada-specific companion resource for students who land here while looking for early-career roles. Hanzilla focuses on Canadian internships, co-ops, new grad, junior, and entry-level roles across software, data/ML, engineering, business, finance, sciences, and other student-relevant fields.\n\nA couple relevant deep links:\n\n- New grad / junior roles: https://jobs.hanzilla.co/new-grad/\n- Canada internships / co-ops: https://jobs.hanzilla.co/internships/\n- About / verification page: https://jobs.hanzilla.co/about/\n\nIf you think it fits, would you consider adding a small “Canada-specific companion resources” or “Related resources” note somewhere in the README/docs? No worries if that is outside the scope of this repo.\n\nDisclosure: I’m the builder of Hanzilla Jobs.",
+      "excerpt": "Hi — thanks for maintaining this automated new-grad list. I’m building Hanzilla Jobs, a free daily-updated Canadian student/recent-grad jobs board: https://jobs.hanzilla.co/new-grad/ It is not meant to replace this re...",
+      "issueState": "open",
+      "contentHash": "f1fe25908c8fa71c42fa8d42a5ac87a09f78feead80f465f809b2eb863678808",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "needs-triage",
+        "enhancement"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-06-01T12:56:16Z",
+      "updatedAt": "2026-06-01T12:56:32Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/318",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_28a89509442cf0e8c335df8d",
       "sourceId": "tramcar/awesome-job-boards#280",
@@ -649,39 +684,6 @@
       "createdAt": "2026-05-30T08:37:04Z",
       "updatedAt": "2026-05-30T08:37:04Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4504",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_adba7cc3118ba444e97b4d60",
-      "sourceId": "vanshb03/Summer2026-Internships#4503",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.tesla.com/careers/search/job/259221?source=LinkedIn&source=LinkedIn\n\n### Company Name\n\nTesla \n\n### Internship Title\n\nInternship, Software Engineer, Service Engineering\n\n### Location\n\nPALO ALTO, CA\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.tesla.com/careers/search/job/259221?source=LinkedIn&source=LinkedIn ### Company Name Tesla ### Internship Title Internship, Software Engineer, Service Engineering ### Locatio...",
-      "issueState": "open",
-      "contentHash": "3197dc7adb65be174970aaa888619dde049f22a1b3fac69d85fbad219929c0cf",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-30T08:33:55Z",
-      "updatedAt": "2026-05-30T08:33:55Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4503",
       "sourceType": "github-issue"
     }
   ]
