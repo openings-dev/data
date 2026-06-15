@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-15T02:56:31.076Z",
+  "generatedAt": "2026-06-15T08:54:52.902Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_aa3b02bbb2e7346c15f98203",
+    "gh_2d2ef5bab74af7dc4058bc60",
     "gh_2c16ab189f078f7506cc819d",
     "gh_dce46803095a014612cecff3",
     "gh_ef40ca478f5bc341b68c32a6",
@@ -21,11 +23,71 @@
     "gh_7ec4f81919903459594c39ae",
     "gh_1c0afba85af9b58d3bdb9fae",
     "gh_aee09e92fadf8366a70512db",
-    "gh_ee71ad4e68f00372f334fae1",
-    "gh_d2c11c8fc2357a8b0eef0f15",
-    "gh_294a6653c881356dfec479bd"
+    "gh_ee71ad4e68f00372f334fae1"
   ],
   "items": [
+    {
+      "id": "gh_aa3b02bbb2e7346c15f98203",
+      "sourceId": "remoteintech/remote-jobs#2210",
+      "title": "Resource suggestion: free Layoff Recovery Action Plan Generator",
+      "description": "Hi! I built a free no-login Layoff Recovery Action Plan Generator that may fit job-search/career transition resources:\n\nhttps://cleo-ai-ops.github.io/client-intake-autopilot-pack/layoff-recovery-action-plan-generator/\n\nIt helps recently laid-off job seekers turn the first week into a calm plan: proof inventory, warm outreach, recruiter brief, and focused applications. Companion paid kit: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/layoff-recovery-sprint-kit/\n\nHappy to adjust wording/category if useful.",
+      "excerpt": "Hi! I built a free no-login Layoff Recovery Action Plan Generator that may fit job-search/career transition resources: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/layoff-recovery-action-plan-generator/ ...",
+      "issueState": "open",
+      "contentHash": "40e7e487a901164a50ef7a993309d559205f23497ea617e58c3bd01eb00fb0a1",
+      "repository": "remoteintech/remote-jobs",
+      "repositoryUrl": "https://github.com/remoteintech/remote-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "cleo-ai-ops",
+        "name": "cleo-ai-ops",
+        "handle": "cleo-ai-ops",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/277931248?v=4"
+      },
+      "community": {
+        "id": "remoteintech",
+        "name": "remoteintech",
+        "avatarUrl": "https://github.com/remoteintech.png?size=80",
+        "repository": "remoteintech/remote-jobs",
+        "url": "https://github.com/remoteintech/remote-jobs"
+      },
+      "createdAt": "2026-06-15T07:42:16Z",
+      "updatedAt": "2026-06-15T07:42:16Z",
+      "url": "https://github.com/remoteintech/remote-jobs/issues/2210",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2d2ef5bab74af7dc4058bc60",
+      "sourceId": "lukasz-madon/awesome-remote-job#1085",
+      "title": "Resource suggestion: free Layoff Recovery Action Plan Generator",
+      "description": "Hi! I built a free no-login Layoff Recovery Action Plan Generator that may fit job-search/career transition resources:\n\nhttps://cleo-ai-ops.github.io/client-intake-autopilot-pack/layoff-recovery-action-plan-generator/\n\nIt helps recently laid-off job seekers turn the first week into a calm plan: proof inventory, warm outreach, recruiter brief, and focused applications. Companion paid kit: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/layoff-recovery-sprint-kit/\n\nHappy to adjust wording/category if useful.",
+      "excerpt": "Hi! I built a free no-login Layoff Recovery Action Plan Generator that may fit job-search/career transition resources: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/layoff-recovery-action-plan-generator/ ...",
+      "issueState": "open",
+      "contentHash": "40e7e487a901164a50ef7a993309d559205f23497ea617e58c3bd01eb00fb0a1",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "cleo-ai-ops",
+        "name": "cleo-ai-ops",
+        "handle": "cleo-ai-ops",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/277931248?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-06-15T07:42:15Z",
+      "updatedAt": "2026-06-15T07:42:15Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1085",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_2c16ab189f078f7506cc819d",
       "sourceId": "SimplifyJobs/Summer2026-Internships#9548",
@@ -682,75 +744,6 @@
       "createdAt": "2026-06-08T21:49:18Z",
       "updatedAt": "2026-06-08T21:49:18Z",
       "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/3",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d2c11c8fc2357a8b0eef0f15",
-      "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
-      "title": "Add Canada-specific product/new-grad companion resource?",
-      "description": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker.\n\nI noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifesciences in Mississauga, Uplifter in Toronto, Evertz in Burlington, and AlphaSense remote Canada product/data roles.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this tracker?\n\nSuggested resource links:\n\n- Product/business/student roles in Canada: https://jobs.hanzilla.co/business/\n- New-grad/junior/entry-level Canadian roles: https://jobs.hanzilla.co/new-grad/\n- About/verification: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m Hanzi, the builder of Hanzilla Jobs. It’s a free, daily-updated Canadian student/recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across business/product, tech, finance, engineering, sciences, and related fields. If external companion links do not fit this repo’s policy, totally fine to close.",
-      "excerpt": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker. I noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifescience...",
-      "issueState": "open",
-      "contentHash": "88a93cc3f7673785e659bbfb5654110119a14a332a69f3cc39f849aba03032c2",
-      "repository": "jobright-ai/2026-Product-Management-New-Grad",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-New-Grad",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "remote",
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Product-Management-New-Grad",
-        "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad"
-      },
-      "createdAt": "2026-06-08T18:33:33Z",
-      "updatedAt": "2026-06-08T18:33:33Z",
-      "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad/issues/1",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_294a6653c881356dfec479bd",
-      "sourceId": "qa-brasil/vagas#1257",
-      "title": "[FULLY REMOTE] 𝗔𝗜 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 at Jobsity",
-      "description": "## About [Jobsity](https://www.jobsity.com/)💡\nJobsity is a New York–based staffing company with 10+ years of experience, working with clients across the US, Canada, and Europe. We connect top-tier LATAM talent—only the top 3%—with long-term international opportunities and have successfully placed over 400 professionals across 15+ countries. As part of our recruitment process, we focus on finding the right role based on what matters most to you.\n\n## Requirements\nAt [Jobsity](https://www.linkedin.com/company/jobsity-llc/), we’re looking for an 𝗔𝗜 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝘁  to ensure the performance, safety, and reliability of our cutting-edge AI/ML models🤖\n\n𝗪̳𝗵̳𝗮̳𝘁̳ ̳𝗱̳𝗼̳ ̳𝘆̳𝗼̳𝘂̳ ̳𝗻̳𝗲̳𝗲̳𝗱̳ ̳𝘁̳𝗼̳ ̳𝗮̳𝗽̳𝗽̳𝗹̳𝘆̳ ̳𝘀̳𝘂̳𝗰̳𝗰̳𝗲̳𝘀̳𝘀̳𝗳̳𝘂̳𝗹̳𝗹̳𝘆̳?🥇\n🌟 Conversational English level (+B2 level)\n🌟 Must reside in LATAM🌎\n🌟 Proven experience in a quality assurance, testing, or data analysis role within the AI/ML domain.\n🌟 Deep understanding of the machine learning lifecycle and common AI model failure modes.\n🌟 Hands-on experience with data annotation, data validation, and managing large datasets.\n🌟 Experience with bug tracking systems (e.g., Jira) and test case management tools.\n🌟 (Preferred) Basic scripting skills (e.g., Python) for test automation and data manipulation.\n\n𝗧𝗮𝘀𝗸𝘀:\n⚙️ Evaluation & Benchmarking – Develop test cases and benchmarks to assess model performance and identify failures.\n⚙️ Error Analysis & Defect Triage – Investigate model issues, identify root causes, and prioritize fixes.\n⚙️ Adversarial Testing (Red Teaming) – Test models with challenging scenarios to uncover unexpected behaviors and vulnerabilities.\n\n## Modality\n👨‍💻 Fully remote\n\n## Perks that Jobsity offers!💎\n\n🔹Yearly paid vacation.\n🔹Paid local holidays.\n🔹Learning budget.\n🔹Financing program for equipment and home office supplies.\n🔹Bonuses for referrals and more!\n\n## Type of contract📜\n\nThis role is full-time!🕘\n...working remotely🏡, with USD payment💰, long-term relationship🤝, within an international team👩‍💻 👨‍💻, and working on international client projects!🌎\n\n## How to apply🤔\nSend an email to [angela.barboza@jobsity.com](mailto:angela.barboza@jobsity.com) with your CV/LinkedIn attached, and please send it in the subject: \"𝘼𝙄 𝙌𝙪𝙖𝙡𝙞𝙩𝙮 𝘼𝙣𝙖𝙡𝙮𝙨𝙩 - 𝗚𝗶𝘁𝗛𝘂𝗯📧\"\n\n## How to refer a friend🤔\nRefer a friend👥 sending an email with your friend's CV/LinkedIn attached with the subject: \"**Referral for** 𝘼𝙄 𝙌𝙪𝙖𝙡𝙞𝙩𝙮 𝘼𝙣𝙖𝙡𝙮𝙨𝙩- 𝗚𝗶𝘁𝗛𝘂𝗯📧\"\nOr you can use this link👉 https://careers.jobsity.com/referral-program\n\n## Any questions or additional details needed?\nFeel free to send me a message on [LinkedIn](https://www.linkedin.com/in/angela-barboza/)💬",
-      "excerpt": "## About [Jobsity](https://www.jobsity.com/)💡 Jobsity is a New York–based staffing company with 10+ years of experience, working with clients across the US, Canada, and Europe. We connect top-tier LATAM talent—only t...",
-      "issueState": "open",
-      "contentHash": "03c3e969179f4545c26cec262dfa14321bdc6be6afff4287812a2cbea8830406",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "inglês"
-      ],
-      "author": {
-        "id": "AngelaBarboza",
-        "name": "AngelaBarboza",
-        "handle": "AngelaBarboza",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112015240?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Jobsity",
-      "createdAt": "2026-06-08T18:05:45Z",
-      "updatedAt": "2026-06-08T18:06:14Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1257",
       "sourceType": "github-issue"
     }
   ]
