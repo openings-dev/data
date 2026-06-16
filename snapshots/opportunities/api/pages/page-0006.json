@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-16T18:54:00.429Z",
+  "generatedAt": "2026-06-16T22:50:38.804Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_96749c04b2a41cefede1f9cb",
     "gh_9dbea54460036bccbb80c963",
@@ -22,10 +23,48 @@
     "gh_87ff6095a89da3f020be3eb8",
     "gh_cb3234a96bffc3e0b5521d34",
     "gh_782159ca5f832eb0fb7f999e",
-    "gh_73e0c5d98159d349f10f4fa9",
-    "gh_3537ba57897dbc655d648955"
+    "gh_73e0c5d98159d349f10f4fa9"
   ],
   "items": [
+    {
+      "id": "gh_6bd2ea87cfb4bbe49569241c",
+      "sourceId": "ambicuity/New-Grad-Jobs#316",
+      "title": "[ROADMAP] Help us expand job data — all suggestions welcome!",
+      "description": "## TL;DR\n\nWe want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are welcome and I will reply to every comment.**\n\n---\n\n## Why this roadmap?\n\nNew-Grad-Jobs is most useful when it captures the widest possible surface of legitimate new-grad opportunities. Today we scrape and curate from a known set of sources, but there's a long tail of companies, regions, and job types we're missing.\n\nThis issue is the central place to brainstorm **how we add more jobs** — sources, regions, scrapers, partnerships, automation, data quality, anything.\n\n## What kind of suggestions are we looking for?\n\nPick whatever resonates — these are just prompts:\n\n### Sources\n- [ ] Specific ATS platforms we don't yet scrape (Workday tenants, Greenhouse boards, Lever, Ashby, SmartRecruiters, iCIMS, Taleo, Eightfold, Phenom, Jobvite, BrassRing, etc.)\n- [ ] Specific companies whose new-grad pipelines we should track\n- [ ] Regional job boards (EU, India, LATAM, MENA, APAC, Canada, UK, etc.)\n- [ ] University career portals worth aggregating\n- [ ] Government / public-sector hiring portals\n- [ ] Startup-focused aggregators (YC, Wellfound, etc.)\n- [ ] Diversity-focused or accessibility-focused boards\n\n### Job categories\n- [ ] Internship pipelines distinct from full-time\n- [ ] PhD / research / quant-specific listings\n- [ ] Hardware, semiconductor, robotics, aerospace\n- [ ] Game industry\n- [ ] Finance / trading / actuarial new-grad tracks\n- [ ] Bio / pharma / healthcare new-grad roles\n- [ ] Trades, ops, supply chain, manufacturing new-grad programs\n\n### Data quality\n- [ ] How should we detect & dedupe reposted listings?\n- [ ] How should we classify \\\"new grad\\\" vs \\\"junior\\\" vs \\\"intern\\\" more accurately?\n- [ ] Should we surface salary data when available? From which sources?\n- [ ] Should we flag visa sponsorship / remote / hybrid more explicitly?\n- [ ] How should we handle stale postings (last-seen vs first-seen)?\n- [ ] What metadata is most useful to filter on?\n\n### Infrastructure & automation\n- [ ] Scraper frameworks or libraries worth adopting\n- [ ] Anti-bot / rate-limit strategies that respect ToS\n- [ ] Workflow scheduling improvements (cron, GitHub Actions, queues)\n- [ ] LLM-assisted parsing for unstructured careers pages\n- [ ] Storage / dedup / canonicalization approaches\n- [ ] Notification channels (RSS, Discord, Slack, email digest)\n\n### Community & contribution\n- [ ] How can we make it easier for contributors to add a new company in one PR?\n- [ ] Should we publish a contribution template specifically for \\\"add a company\\\"?\n- [ ] Would a structured YAML/JSON registry of companies + ATS endpoints help?\n- [ ] Mentorship for first-time contributors who want to add a scraper\n\n## How to suggest\n\nJust comment below. Any format works:\n\n- **A single company:** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"\n- **A source idea:** \\\"There's an ATS called `<X>` used by these companies: …\\\"\n- **A feature idea:** \\\"It would be great if listings showed `<field>`\\\"\n- **A full proposal:** longer-form design ideas, link to a gist or doc\n- **A pain point:** \\\"As a job seeker, I wish this repo did `<X>`\\\"\n\nYou don't need to know how to scrape, write Python, or anything technical. **Ideas count just as much as code.**\n\n## Commitment\n\n- I'll **reply to every comment on this thread.**\n- Concrete, actionable suggestions will be moved into their own tracking issues and linked back here.\n- Larger themes will become milestones on the roadmap.\n- Credit will go to the suggester in the resulting PR / issue / changelog.\n\n## Ground rules\n\n- Be respectful — this is a community space.\n- Don't post anything that violates a source's Terms of Service or robots.txt; we want sustainable, ethical aggregation.\n- Don't post personal data, recruiter contacts, or anything that could harm a company or candidate.\n- Prefer one idea per comment when possible — it makes follow-up easier.\n\n---\n\n**Thanks in advance — every suggestion helps a new grad find their first job.**",
+      "excerpt": "## TL;DR We want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are ...",
+      "issueState": "open",
+      "contentHash": "9dbc30e311e1ce44614e0ce628edb4d89c70df9f08cacdec11198141b4fa7ba7",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "roadmap"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
+      "createdAt": "2026-05-26T23:52:14Z",
+      "updatedAt": "2026-05-27T00:03:10Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1f61de8de06b483a9a82d5f4",
       "sourceId": "nerdzao/vagas#191",
@@ -732,43 +771,6 @@
       "createdAt": "2026-05-19T17:34:15Z",
       "updatedAt": "2026-05-19T17:34:38Z",
       "url": "https://github.com/programadores-br/geral/issues/3070",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3537ba57897dbc655d648955",
-      "sourceId": "programadores-br/geral#3069",
-      "title": "[Remoto] Software Engineer Sênior na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/software-engineer-senior-165419895?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar como referência técnica na evolução da arquitetura, das práticas de engenharia e da capacidade da Arbitralis de entregar software com velocidade, confiabilidade e qualidade. Esta pessoa deve navegar problemas ambíguos, quebrar complexidade em entregas incrementais e influenciar decisões técnicas com boa comunicação, critério e contexto — conectando decisões técnicas a impacto real de negócio.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Atuar como referência técnica em iniciativas de plataforma, backend e integrações\n    \n*   Trabalhar em parceria com liderança e Produto na definição de roadmap, escopo técnico e priorização trimestral\n    \n*   Transformar problemas ambíguos em soluções técnicas claras, sustentáveis e incrementais\n    \n*   Projetar, desenvolver, testar e evoluir sistemas com foco em confiabilidade, manutenção e impacto para o negócio\n    \n*   Tomar decisões de arquitetura considerando trade-offs entre velocidade de entrega, custo operacional, complexidade e dívida técnica\n    \n*   Elevar a qualidade técnica do time por meio de boas práticas, revisões de código, documentação objetiva e mentoria\n    \n*   Melhorar continuamente processos de engenharia, incluindo CI/CD, testes, observabilidade e padrões de desenvolvimento\n    \n*   Usar ferramentas de AI coding com critério para acelerar o trabalho, mantendo revisão técnica, verificação e responsabilidade sobre o resultado\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - CI/CD \n- Javascript \n- Python \n- SOLID \n- TDD \n- Typescript \n- AI Coding\n## Local: \n Remota\n## Requisitos: \n - Experiência sólida em engenharia de software \n- Profundidade em desenvolvimento backend com JavaScript, TypeScript ou Python \n- Bons conhecimentos de arquitetura de software, design de sistemas, SOLID, Clean Code e Clean Architecture \n- Experiência com testes automatizados, TDD quando fizer sentido, e pipelines de CI/CD \n- Capacidade de diagnosticar problemas, propor caminhos e executar com autonomia \n- Boa comunicação para influenciar decisões técnicas e alinhar trade-offs com Produto, Engenharia e liderança \n- Pragmatismo para equilibrar qualidade, velocidade e contexto de negócio \n- Uso fluente de ferramentas de AI coding no workflow diário, com julgamento crítico sobre quando confiar, revisar e validar outputs\n## Diferenciais: \n - Experiência construindo ou evoluindo plataformas internas, ferramentas para desenvolvedores ou sistemas de alta criticidade \n- Vivência com arquitetura orientada a eventos, filas, mensageria, APIs e sistemas distribuídos \n- Experiência com observabilidade, métricas, tracing, logs estruturados e resposta a incidentes \n- Histórico de mentoria técnica, definição de padrões de engenharia ou liderança técnica informal \n- Capacidade de atuar bem em contextos de alta ambiguidade, com autonomia e foco em resultado\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Software Engineer Sênior na Arbitralis](https://coodesh.com/jobs/software-engineer-senior-165419895?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "3ee524925d6156b2e5fbede932d8974888a992b7138d3368062de6261552b5d3",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "pj",
-        "sênior",
-        "backend"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-19T17:33:45Z",
-      "updatedAt": "2026-05-19T17:34:14Z",
-      "url": "https://github.com/programadores-br/geral/issues/3069",
       "sourceType": "github-issue"
     }
   ]
