@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-17T02:54:25.761Z",
+  "generatedAt": "2026-06-17T08:24:55.634Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_08c2b289f0b0fbaf5bd9f142",
     "gh_23e88f37c8cdd99dec55a249",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_c2842e7382b7b6bf1db541df",
@@ -22,10 +23,40 @@
     "gh_a5d2446fe102d2b8b34f94c2",
     "gh_4e35e3ee4a19594e8247db30",
     "gh_c55c0ec98d8be9c01ebe7432",
-    "gh_5497a5e458f49acc5e1cf37d",
-    "gh_b5220ce704e9136f8724e349"
+    "gh_5497a5e458f49acc5e1cf37d"
   ],
   "items": [
+    {
+      "id": "gh_08c2b289f0b0fbaf5bd9f142",
+      "sourceId": "cncf/gitjobs#383",
+      "title": "Ability to manually assign jobs to a foundation/project after submission",
+      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
+      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
+      "issueState": "open",
+      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamweswilson",
+        "name": "iamweswilson",
+        "handle": "iamweswilson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2026-05-05T18:56:03Z",
+      "updatedAt": "2026-05-06T15:39:22Z",
+      "url": "https://github.com/cncf/gitjobs/issues/383",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_23e88f37c8cdd99dec55a249",
       "sourceId": "datascience-br/vagas#161",
@@ -714,37 +745,6 @@
       "createdAt": "2026-04-07T20:03:44Z",
       "updatedAt": "2026-06-13T04:13:24Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1249",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b5220ce704e9136f8724e349",
-      "sourceId": "timqian/open-source-jobs#169",
-      "title": "[FOR HIRE] Freelance Developer – Open to Small Tasks & Gigs",
-      "description": "🚀 Available for Freelance Work!\n\nI'm looking for small-to-medium coding tasks and gigs.\nWhat I can help with:\n- Bug fixes & code reviews\n- Script writing & automation\n- Small feature builds\n- Debugging & refactoring\n\nFlexible on stack. Fast turnaround. Open to one-time or recurring work.\nFeel free to reach out — let's build something! 💻",
-      "excerpt": "🚀 Available for Freelance Work! I'm looking for small-to-medium coding tasks and gigs. What I can help with: - Bug fixes & code reviews - Script writing & automation - Small feature builds - Debugging & refactoring F...",
-      "issueState": "open",
-      "contentHash": "a830765badcd83ba6179cbbcb920fee14048a897fbe01fc76415352cafad8745",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "BMG042",
-        "name": "BMG042",
-        "handle": "BMG042",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/217911374?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2026-04-06T22:58:07Z",
-      "updatedAt": "2026-04-26T12:52:37Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/169",
       "sourceType": "github-issue"
     }
   ]
