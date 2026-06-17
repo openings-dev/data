@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-03T18:41:49.954Z",
+  "generatedAt": "2026-06-17T12:47:50.128Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 12,
+    "opportunities": 10,
     "openIssues": 3,
-    "closedIssues": 9
+    "closedIssues": 7
   },
-  "dataHash": "68bf2c830e72c3f2bea08b1363a21d4228846b9ccb91a316259d4d633e63a0f2",
+  "dataHash": "f33a92bdca4ba1ae8296c4c5854242d338d45234fc23758a252e4d4ccbd45a4d",
   "items": [
     {
       "id": "gh_e178ee2363a4eb2ca10d3d06",
@@ -223,78 +223,6 @@
       "createdAt": "2026-05-26T21:22:45Z",
       "updatedAt": "2026-05-26T21:30:05Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/305",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1f5a98f47e42c00c1630a12f",
-      "sourceId": "ambicuity/New-Grad-Jobs#242",
-      "title": "[Bug]: Operator Manual is out of sync with current config and workflow behavior",
-      "description": "### Bug Type\nOther\n\n### Description\n`docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior.\n\nExamples:\n- It references `filters.exclude_keywords`, but current config uses `filtering.exclusion_signals`.\n- It suggests tuning thread pools directly in `scripts/update_jobs.py`, while worker-pool behavior is now configurable via `config.yml` (`worker_pools`).\n- It references JobSpy location/config patterns that no longer match current configuration shape.\n- Several workflow guidance notes are stale relative to `.github/workflows/update-jobs.yml`.\n\nThis creates contributor confusion and increases maintenance error risk.\n\n### Steps to Reproduce\n1. Open `docs/wiki/Operator-Manual.md`.\n2. Compare recipe/config field names against `config.yml`.\n3. Compare workflow instructions against `.github/workflows/update-jobs.yml`.\n4. Observe mismatches between documented and actual behavior.\n\n### Additional Context\nCandidate source-of-truth files for alignment:\n- `docs/wiki/Operator-Manual.md`\n- `config.yml`\n- `.github/workflows/update-jobs.yml`\n- `scripts/update_jobs.py`",
-      "excerpt": "### Bug Type Other ### Description `docs/wiki/Operator-Manual.md` contains stale instructions that no longer match repository behavior. Examples: - It references `filters.exclude_keywords`, but current config uses `fi...",
-      "issueState": "closed",
-      "contentHash": "ca13b8bf4b9f4a12dba0d54fcb9f3bb7773dafb036c0bd97185bcc6ea340ed1a",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "needs-triage",
-        "status: in-progress",
-        "bug",
-        "awaiting-response"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-08T14:59:35Z",
-      "updatedAt": "2026-05-26T17:37:20Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/242",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f314624bc74f2bb4ac0db285",
-      "sourceId": "ambicuity/New-Grad-Jobs#228",
-      "title": "[Bug]: market-history category breakdown is always empty despite non-empty jobs",
-      "description": "### Bug Type\nOther\n\n### Description\n`docs/market-history.json` snapshots are being generated with an empty `categories` object, even when `docs/jobs.json` has populated category counts.\n\nThis makes trend analytics incomplete and causes the Insights pipeline to lose category-level historical signal.\n\n### Steps to Reproduce\n1. Run the scraper (`python scripts/update_jobs.py`).\n2. Open `docs/jobs.json` and verify `meta.categories` contains category counts.\n3. Open `docs/market-history.json`.\n4. Observe latest snapshot has `\"categories\": {}`.\n\n### Additional Context\nLikely root cause in `save_market_history()` (`scripts/update_jobs.py`):\n- code iterates `job.get('categories', [])`\n- enriched jobs store a singular `job['category']` object, not `categories`\n\nSuggested fix direction:\n- aggregate from `job.get('category', {}).get('id')`\n- add regression tests for snapshot category population",
-      "excerpt": "### Bug Type Other ### Description `docs/market-history.json` snapshots are being generated with an empty `categories` object, even when `docs/jobs.json` has populated category counts. This makes trend analytics incom...",
-      "issueState": "closed",
-      "contentHash": "4658eaa36eaa266431a1751b5266104fb499a6fd65ac1ab6f52f1d69359fdea3",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "needs-triage",
-        "priority: medium",
-        "bug"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-04-03T17:07:22Z",
-      "updatedAt": "2026-05-26T18:42:59Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/228",
       "sourceType": "github-issue"
     },
     {
