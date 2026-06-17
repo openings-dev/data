@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-17T12:47:50.128Z",
+  "generatedAt": "2026-06-17T20:04:23.788Z",
   "page": 16,
   "pageSize": 20,
   "nextPage": "api/pages/page-0017.json",
   "ids": [
+    "gh_9f721eceb70186cf792352d6",
     "gh_4151e7f977a7129ddadb1f75",
     "gh_c28141e5184dc43757bc8cc2",
     "gh_2ea031555124df79c56fac00",
@@ -22,10 +23,47 @@
     "gh_5a7a0fd4ee14b0cbfce120eb",
     "gh_5c6fa83157f78b5fb109953b",
     "gh_18d1e672fe4959dd0f3f1147",
-    "gh_deaaa0504a8a36dc97375051",
-    "gh_9c5bd6b162406e4aaf41ea5c"
+    "gh_deaaa0504a8a36dc97375051"
   ],
   "items": [
+    {
+      "id": "gh_9f721eceb70186cf792352d6",
+      "sourceId": "datascience-br/vagas#143",
+      "title": "[Remote] Data Platform Engineer na Alternative Payments",
+      "description": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud data warehouse to building the initial ETL pipelines that bring raw data into shape—laying the groundwork for self-service analytics and data-driven decision making.\n\n### What You’ll Bring\n#### Cloud & Infrastructure Expertise\n\n- 5+ years in software or data engineering, with hands-on experience provisioning and maintaining cloud data warehouses (e.g., Snowflake, Amazon Redshift, Google BigQuery)\n- Proficiency with Infrastructure-as-Code tools (Terraform, CloudFormation, Pulumi) to automate data platform deployments\n\n#### ETL & Data Modeling\n\n- Strong SQL skills and experience building ETL pipelines in Python or Java/Scala\n- Familiarity with orchestration frameworks (Airflow, Prefect, Dagster) or transformation tools (dbt)\n- Solid understanding of data modeling patterns (star, snowflake schemas) and best practices for partitioning, clustering and indexing\n\n#### Platform Reliability & Security\n\n- Experience implementing data quality checks, monitoring (Datadog, Prometheus, Monte Carlo) and alerting for pipelines\n- Knowledge of data governance and security—IAM, encryption at rest/in transit, PII redaction\n\n#### Collaboration & Documentation\n\n- Excellent communicator—able to partner with analytics, product and engineering teams to translate requirements into scalable solutions\n- Strong documentation skills to define data platform standards, runbooks and onboarding guides\n\n### What You’ll Own\n\n#### Data Warehouse Provisioning\n\n- Architect and spin up our production and sandbox data warehouse environments using IaC\n- Define resource sizing, scaling policies and cost-optimization strategies\n\n#### ETL Pipeline Development\n\n- Build and deploy the first wave of ETL pipelines to ingest transactional, event and third-party data\n- Implement transformations, schema migrations and incremental workflows\n\n#### Platform Operations & Monitoring\n\n- Embed data quality tests and SLA tracking into every pipeline\n- Set up dashboards and alerts to proactively detect failures, latency spikes or data drift\n\n#### Standards & Enablement\n\n- Establish coding conventions, pipeline templates and best practices for all future data projects\n- Mentor other engineers and analysts on using the data platform, from query optimization to CI/CD for analytics code\n\n#### Cross-Functional Partnership\n\n- Work closely with BI/analytics teams to understand reporting needs and iterate on data models\n- Collaborate with application engineers to identify new data sources and automate their onboarding\n\n### About Us:\n\nAlternative Payments is a leading payments platform for service-based companies. Our innovative platform enables businesses to automate the entire accounts receivable process and reduce the overall expense of payment processing. We are dedicated to fostering growth and providing exceptional value to our clients.\n\n### Our Values\n\nTransparency & Honesty: We operate with transparency to our customers, investors, and other partners, every step of the way. \n\nDependability: We are dependable. We do what we say we are going to do and we do not cut corners. \n\nPartnership: We are partners to our customers, investors, and each other, and work together to solve exciting massive problems. \n\nRevolutionary & Boldness: We are revolutionary & bold. We break down barriers and walls to build our own walls in a stronger, safer, and simpler manner. \n\nDiversity & Inclusion: We work together with people of all backgrounds and seek different viewpoints to generate stronger partnerships and create a stronger, more inclusive company and world. \n\n### Como se candidatar\n\nAplique no link: https://www.alternativepayments.io/careers/?ashby_jid=a5e32e9d-dce0-4b04-beba-ae43cf2aeb76\n\nAceitamos apenas candidatos no Brasil, com currículos em Inglês.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- PJ\n\n#### Nível\n- Sênior\n- Especialista",
+      "excerpt": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud...",
+      "issueState": "open",
+      "contentHash": "1b7165e58c49442fe79d17bf12a14a4a810a9ec146691ceb0d449592c744e0b2",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remote",
+        "python",
+        "java",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "fernandobandeira",
+        "name": "fernandobandeira",
+        "handle": "fernandobandeira",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8373980?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Alternative Payments",
+      "createdAt": "2025-06-03T14:57:52Z",
+      "updatedAt": "2025-06-03T14:57:52Z",
+      "url": "https://github.com/datascience-br/vagas/issues/143",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_4151e7f977a7129ddadb1f75",
       "sourceId": "devfsa/vagas#2808",
@@ -736,46 +774,6 @@
       "createdAt": "2025-04-17T06:13:31Z",
       "updatedAt": "2026-06-02T08:22:43Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4677",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9c5bd6b162406e4aaf41ea5c",
-      "sourceId": "awesome-jobs/vietnam#4676",
-      "title": "[Remote Fulltime] Frontend Software Engineer - $3000 Gross - Basic English communication",
-      "description": "**You’ll:**\n• Developing web applications with ReactJS.\n• Joining in project that uses PowerBI for data processing\n• Participate in the documentation process, requirements analysis, design, \ndeploying, code reviewing, unit testing, and operating the product.\n• Discuss, propose solutions for the team, and manage the progress of members.\nLead the team to accomplish the company’s goal and mission.\n• Training, supporting, and motivating team members.\n• Problems solving (technical and human).\n\n**What You Bring**\n**Must-haves:**\n• From 3+ years of experience as a Web Developer, using modern frameworks \n(Angular, React, Vue)\n• Experienced in PowerBI\n• Solid understanding and experience in React Typescript\n• Experience with APS is a plus\n• In-depth knowledge of JavaScript, CSS, HTML, and front-end languages\n• Ability to read and refactor existing code\n• Experience with user interface design\n• Knowledge of performance testing frameworks\n• Experience with browser-based debugging and performance-testing software\n• Excellent troubleshooting skills\n• Management experience needed\n• Experienced in frontend design\n• In-depth knowledge of the structure system\n**Nice-to-haves:**\nKnowledge of Revit and Forge is a plus\n• Experienced in Three.js\n• Experienced in using Cloud (Amazon...)\n• How to proceed with work: Ask questions immediately if you don't understand \nsomething about the specifications. Actively read the existing code and ask \nmoderate questions to ensure complete understanding.\n\n**What We Offer**\n• 100% social insurance submitted based on full salary\n• Bonus twice a year\n• 13.5 months' salary per year\n• Excellent working environment. Flexible working time that supports work-life \nbalance (Core time: 9:00 -15:00; 5 days/week from Monday - Friday).\n• Just focus on work output, no micromanagement, and no staff control\n• Participate in insurance and annual health check-up program\n• Large, modern office with open workspace\n----------------------\nPlease send your CV via: Quynh.Thuy.Tran@navigossearch.com\nOr contact zalo: 0868272947",
-      "excerpt": "**You’ll:** • Developing web applications with ReactJS. • Joining in project that uses PowerBI for data processing • Participate in the documentation process, requirements analysis, design, deploying, code reviewing, ...",
-      "issueState": "open",
-      "contentHash": "a8da43cd0d8aced02a21171b839639eac339295967225b1182d7b65057b37c85",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "react",
-        "typescript",
-        "java",
-        "staff",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Queenietrann",
-        "name": "Queenietrann",
-        "handle": "Queenietrann",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112934563?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-04-16T08:48:11Z",
-      "updatedAt": "2026-06-02T08:22:44Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4676",
       "sourceType": "github-issue"
     }
   ]

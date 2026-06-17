@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-17T12:47:50.128Z",
+  "generatedAt": "2026-06-17T20:04:23.788Z",
   "page": 18,
   "pageSize": 20,
   "nextPage": "api/pages/page-0019.json",
   "ids": [
+    "gh_3daf6c20d4edf1f0f9f34327",
     "gh_a8804e9c31dabfe160161277",
     "gh_529af6046ca6a2af0d52eeca",
     "gh_a0d0697e0611db05ad0efa22",
@@ -22,10 +23,40 @@
     "gh_4123e3d9c2213e5a201898ce",
     "gh_e51f320ccc04057f58acdee4",
     "gh_ac0c2bf05a2a9f15633a7fe2",
-    "gh_e3cea4edfbc7f630c99d150f",
-    "gh_fbcd0549308f93fa2ecbe812"
+    "gh_e3cea4edfbc7f630c99d150f"
   ],
   "items": [
+    {
+      "id": "gh_3daf6c20d4edf1f0f9f34327",
+      "sourceId": "zapplyjobs/underclassmen-internships#88",
+      "title": "Netflix x Formation fellowship program",
+      "description": "https://formation.dev/partners/netflix",
+      "excerpt": "https://formation.dev/partners/netflix",
+      "issueState": "open",
+      "contentHash": "fb00ee1da33a346ea3cee0348fe48d2eeda2787e713b7ba8075879f7e801e2fb",
+      "repository": "zapplyjobs/underclassmen-internships",
+      "repositoryUrl": "https://github.com/zapplyjobs/underclassmen-internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "codicate",
+        "name": "codicate",
+        "handle": "codicate",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63321455?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/underclassmen-internships",
+        "url": "https://github.com/zapplyjobs/underclassmen-internships"
+      },
+      "createdAt": "2025-02-22T03:54:33Z",
+      "updatedAt": "2025-02-22T03:54:33Z",
+      "url": "https://github.com/zapplyjobs/underclassmen-internships/issues/88",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a8804e9c31dabfe160161277",
       "sourceId": "ad-si/awesome-fp-jobs#10",
@@ -707,46 +738,6 @@
       "createdAt": "2025-01-02T09:15:34Z",
       "updatedAt": "2025-01-02T09:15:34Z",
       "url": "https://github.com/nodejs-tw/jobs/issues/268",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fbcd0549308f93fa2ecbe812",
-      "sourceId": "Empregos-dev/Vagas-dev#90",
-      "title": "[REMOTE] Full-stack Developer Grader at Shaw and Partners",
-      "description": "**Who we are and what we do**\nShaw and Partners is a software development provider for high-profile startups with approximately 25 remote staff. We are also incubating two startups. [Christopher Shaw](https://chrisshaw.me/), the founder and CEO, would be your manager.\n\nWe are seeking a highly skilled **Full Stack Developer to join our team as a Grader**, responsible for evaluating, reviewing, and assessing coding assignments and projects submitted by candidates. In this role, you will utilize your expertise in full-stack development to ensure submissions meet technical and quality.\n\n**Required:**\n\n- English (Fluency in reading and writing, speaking can be intermediate)\n- Proficiency in front-end technologies: HTML, CSS, JavaScript (and frameworks like React)\n- Strong knowledge of back-end development with languages like Node.js, Python\n- Solid Computer Science fundamentals knowledge (algorithms, data structures, concurrency, etc.) \n\n**Differentials:**\n\n- Previous experience in teaching, mentoring, or grading is a plus\n\n**Responsibilities (Assessment and Grading)**\n\n- Conduct technical interviews\n- Review technical tests\n- Send feedback on the candidate's technical skills to the hiring manager\n- Ensure submitted work aligns with modern frameworks, tools, and industry trends\n- Validate the functionality, scalability, and maintainability of code submissions\n\nApply here: https://shawandpartners.com/opt/?jobId=116\n\n![FS grader](https://github.com/user-attachments/assets/1a961d5f-c573-4b5c-a6ba-61968f313be7)",
-      "excerpt": "**Who we are and what we do** Shaw and Partners is a software development provider for high-profile startups with approximately 25 remote staff. We are also incubating two startups. [Christopher Shaw](https://chrissha...",
-      "issueState": "open",
-      "contentHash": "260f9ee7a7dc8039f279fa65d1eafd8f7c53624915529a61f17accf3329a5960",
-      "repository": "Empregos-dev/Vagas-dev",
-      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "react",
-        "node",
-        "python",
-        "java",
-        "staff",
-        "data"
-      ],
-      "author": {
-        "id": "Thuanysb",
-        "name": "Thuanysb",
-        "handle": "Thuanysb",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/186589723?v=4"
-      },
-      "community": {
-        "id": "Empregos-dev",
-        "name": "Empregos-dev",
-        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
-        "repository": "Empregos-dev/Vagas-dev",
-        "url": "https://github.com/Empregos-dev/Vagas-dev"
-      },
-      "companyName": "Shaw and Partners",
-      "createdAt": "2024-12-27T00:59:41Z",
-      "updatedAt": "2024-12-27T00:59:44Z",
-      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/90",
       "sourceType": "github-issue"
     }
   ]
