@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-18T12:19:27.543Z",
+  "generatedAt": "2026-06-18T17:57:28.195Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
   "ids": [
+    "gh_dd237a978dba300d92eb4d35",
     "gh_37de83a7709ed2c12e150734",
     "gh_7c9badcd511583c16a591a99",
     "gh_8c8c85a13c859b4e47c45e03",
@@ -22,10 +23,40 @@
     "gh_7b4f6457d040ea0a23c1c43b",
     "gh_b0b25f9f51d0e7f1c185dc60",
     "gh_8d3d4b455493191722317dda",
-    "gh_777d6953c094c4c77cffa586",
-    "gh_f4bcab5a06e0810d5c4425c0"
+    "gh_777d6953c094c4c77cffa586"
   ],
   "items": [
+    {
+      "id": "gh_dd237a978dba300d92eb4d35",
+      "sourceId": "timqian/open-source-jobs#160",
+      "title": "chaos-genius repo is archived",
+      "description": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table ,\nfix : might remove it or add another new one which is alternative to it ig?",
+      "excerpt": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table , fix : might remove it or add another new one which is alternative to it ig?",
+      "issueState": "open",
+      "contentHash": "8fa49b441c78bded9b3b3f265b273b1c1cbcac0e78160ac409226673fadcb2d0",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "wasup-yash",
+        "name": "wasup-yash",
+        "handle": "wasup-yash",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112958086?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-17T18:15:36Z",
+      "updatedAt": "2026-02-17T18:15:36Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/160",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_37de83a7709ed2c12e150734",
       "sourceId": "react-brasil/vagas#3000",
@@ -713,52 +744,6 @@
       "createdAt": "2026-01-15T06:48:02Z",
       "updatedAt": "2026-01-15T12:54:45Z",
       "url": "https://github.com/f2etw/jobs/issues/1165",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f4bcab5a06e0810d5c4425c0",
-      "sourceId": "awesome-jobs/vietnam#4875",
-      "title": "Swork - Senior or experimented fullstack developper - Remote - FT or PT",
-      "description": "## Location (MUST)\n\n* Paris, France - Full Remote\n\n## Salary Expectation (MUST)\n\n* $1,500 - $2000/month (per senior profile)\n\n## Requirements (MUST)\n\n* **MedusaJS** & **Node.js** (Expert level for core stabilization)\n* **PostgreSQL** (Advanced schema refactoring & optimization)\n* **AWS Products** (Lambda/Serverless, S3, API Gateway)\n* 5+ years experience in **Software Engineering** with a focus on **TypeScript**\n\n## Skills\n\n### Must Have (MUST)\n\n* Mastery of **Next.js** and **TypeScript** (Strict mode)\n* Ability to refactor a \"cluttered\" production database without data loss\n* Experience with headless\n\n### Ideally\n\n* Experience with **Retail/Logistics** software or **ERP** development\n* Prior experience with **MedusaJS** in a production environment\n\n### Responsibilities (REQUIRED)\n\nGreat power comes with great responsibilities!\n\n### You’ll be responsible for\n\n* Building a new **ERP** for the professional clothing industry\n* Refactoring the existing **Swork** database and backend core\n* Refactoring and stabilize **Swork** frontend\n\n### You can bring\n\n* A good eye for design (SaaS dashboards & Storefront UX)\n* A good analysis skill (Understanding equipment fleet management logic)\n\n### Why it would be awesome to work with us (REQUIRED)\n\n* Impact: Disrupting the **PPE** (Personal Protective Equipment) market\n* Technology: Full ownership of the **AWS Serverless** transition\n* Partnership: Long-term collaboration with a fast-growing startup\n\n### Interesting Engineering Projects (REQUIRED)\n\n* **Zero-downtime deployment** for long-running background jobs and data sync between Medusa and our ERP\n* **Writing a database abstraction layer** to interface with different technologies: migrating from a messy PostgreSQL to a clean, scalable architecture\n*  **Coding a headless e-commerce website \n\n### Contact (MUST)\n\nHomepage: swork.co\nSwork Team: contact@swork.co",
-      "excerpt": "## Location (MUST) * Paris, France - Full Remote ## Salary Expectation (MUST) * $1,500 - $2000/month (per senior profile) ## Requirements (MUST) * **MedusaJS** & **Node.js** (Expert level for core stabilization) * **P...",
-      "issueState": "open",
-      "contentHash": "78380572abc1ce3ca60e446bcdbfd99b6a7b62e1e0d0b9791bf7e1ea866f6af7",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "fullstack",
-        "typescript",
-        "node",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "maxnce",
-        "name": "maxnce",
-        "handle": "maxnce",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/138494276?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 1500,
-        "max": 2000,
-        "period": "month"
-      },
-      "createdAt": "2026-01-14T09:35:25Z",
-      "updatedAt": "2026-06-02T08:22:41Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4875",
       "sourceType": "github-issue"
     }
   ]
