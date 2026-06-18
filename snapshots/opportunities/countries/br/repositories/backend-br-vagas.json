@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-06-17T22:42:25.642Z",
+  "generatedAt": "2026-06-18T07:30:29.225Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "backend-br/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 21,
-    "closedIssues": 9
+    "openIssues": 22,
+    "closedIssues": 8
   },
-  "dataHash": "49ffe5679f68bfda3895c27cc66865602a7ae68e35d40e955c9efd4c9e8de44b",
+  "dataHash": "163062087c345364b22a77ac6ba517e67cb2647a9ea28fc19879a30bcad5d00a",
   "items": [
+    {
+      "id": "gh_c396744a66b9b12760764d63",
+      "sourceId": "backend-br/vagas#12287",
+      "title": "[Presencial em Rio Claro - São Paulo] Developer Pleno/Sênior — Backend & Integrações no Grupo MNGT",
+      "description": "## Descrição da vaga\n\nBuscamos dois desenvolvedores com sólida experiência em backend Python e integração entre sistemas corporativos para reforçar nosso time de TI. Você será responsável por conectar plataformas de gestão, construir automações financeiras e operacionais, evoluir agentes de IA em produção e garantir a estabilidade e qualidade das entregas. Trabalhará de forma autônoma dentro de um time enxuto, colaborando diretamente com o gestor de TI e com as áreas de negócio para traduzir requisitos em soluções concretas.\n\n## Local\n\nPreferencialmente presencial em Rio Claro - SP, com possibilidade de ser híbrido para quem mora em São Paulo, com idas a Rio Claro.\n\n## Requisitos\n\n### Responsabilidades\n- Desenvolver e manter integrações entre sistemas corporativos via API REST e webhooks.\n- Criar e evoluir rotinas de automação financeira e operacional (leitura, transformação e carga de dados entre ERPs).\n- Construir e melhorar agentes e pipelines de IA utilizando LLMs, com foco em automação de processos internos.\n- Participar das cerimônias ágeis (dailies, plannings, retrospectivas) e colaborar ao longo de todo o ciclo de entrega.\n- Contribuir para documentação técnica, code review e boas práticas de desenvolvimento.\n- Apoiar deploy, monitoramento e manutenção dos ambientes e serviços em produção.\n- Interagir com áreas não técnicas para levantamento e refinamento de requisitos.\n\n### O que você precisa ter\n- Python: domínio sólido; experiência com FastAPI ou Flask para construção de APIs e serviços.\n- Integrações: consumo e desenho de APIs REST, autenticação OAuth2/JWT, manipulação de JSON/XML.\n- Banco de dados: SQL e modelagem relacional (PostgreSQL / Supabase); noção de performance e índices.\n- Git / GitHub: fluxo diário com branches, PRs e code review.\n- Autonomia: capacidade de resolver problemas com autogerenciamento e comunicação clara.\n- IA / LLMs: experiência prática utilizando modelos de linguagem em automações ou produtos.\n\n### Diferenciais\n- Experiência com orquestração de agentes (multi-agent, human-in-the-loop).\n- Conhecimento de conteinerização (Docker) e práticas básicas de DevOps/CI-CD.\n- Familiaridade com ERPs do mercado de construção civil ou logística.\n- Testes automatizados com pytest.\n- Leitura técnica em inglês.\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nCandidate-se aqui: https://oportunidades.mindsight.com.br/grupomngt/16\n\n### Nível\n\n- Pleno\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Presencial",
+      "excerpt": "## Descrição da vaga Buscamos dois desenvolvedores com sólida experiência em backend Python e integração entre sistemas corporativos para reforçar nosso time de TI. Você será responsável por conectar plataformas de ge...",
+      "issueState": "open",
+      "contentHash": "18f770e2f8b0441845f41c9f5c9014a272b58fd9b1c22b345d831a14987c6106",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "sênior",
+        "python",
+        "flask",
+        "presencial",
+        "testes automatizados",
+        "postgresql"
+      ],
+      "author": {
+        "id": "JuscelinoJunior",
+        "name": "JuscelinoJunior",
+        "handle": "JuscelinoJunior",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23690136?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "companyName": "Grupo MNGT",
+      "createdAt": "2026-06-18T04:37:16Z",
+      "updatedAt": "2026-06-18T04:41:44Z",
+      "url": "https://github.com/backend-br/vagas/issues/12287",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1f294cfb9e69442e629eac84",
       "sourceId": "backend-br/vagas#12286",
@@ -689,67 +730,32 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_b8c97ddfaf8d7d5e0b19956c",
-      "sourceId": "backend-br/vagas#12238",
-      "title": "[Alocação] Back-end developer - Node j.s Pleno / Sênior - ITEAM",
-      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Nossa empresa\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas.\nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado.\nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\nInforme a descrição da vaga.\n\nDesenvolvedor(a) Node.js – Pleno / Sênior \nExperiência em Node.js. Desenvolvimento de APIs REST e integrações e soluções distribuídas. \nExperiência em AWS, CI/CD e práticas ágeis. \nExperiência com Git e ambientes Cloud.\n\n\n## Local\nAtendimento híbrido – 2x por semana em Santo Amaro/SP\n\n\n## Requisitos\n\nExperiência em Node.js. Desenvolvimento de APIs REST e integrações e soluções distribuídas. \nExperiência em AWS, CI/CD e práticas ágeis. \nExperiência com Git e ambientes Cloud.\n\n\n## Contratação\n\nContratação PJ\n\n## Como se candidatar\n\nEnviar o currículo para o e-mail: erika.santos@iteam.inf.br / whatsapp: (11) 99328-6431\n\n## Labels\n\nNode.js, APIs REST, AWS, CI/CD, Git,  Cloud\n\n### Nível\nPleno / Sênior\n\n### Regime\n\nPJ\n\n### Alocação\n\nPrazo: entre 6 a 12 meses",
-      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços ...",
+      "id": "gh_333c5838c2f9f7ce47f1bcd0",
+      "sourceId": "backend-br/vagas#12239",
+      "title": "[Alocação] Back-end + AI Engineer - Mission Brasil",
+      "description": "## Mission Brasil\n\nA Mission Brasil é uma plataforma que conecta empresas a uma rede ativa de usuários em todo o país para execução de missões em campo, pesquisas, auditorias, cliente oculto, vistorias e ações de trade marketing. Ao mesmo tempo, oferece oportunidades de renda extra para pessoas que desejam ganhar dinheiro pelo celular realizando missões simples e remuneradas. Com mais de 1 milhão de usuários e presença em mais de 5.000 municípios, a Mission Brasil atende tanto marcas que buscam escala e capilaridade quanto usuários em busca de novas formas de gerar renda.\n\n## Descrição da vaga\n\nEstamos em busca de um(a) Back-end + AI Engineer para atuar no desenvolvimento de soluções escaláveis com foco em APIs, automações inteligentes e aplicações baseadas em Inteligência Artificial.\nA pessoa será responsável por construir e evoluir serviços backend, integrar modelos de IA/LLMs e participar da arquitetura de produtos digitais com alto impacto no negócio.\n\nBuscamos alguém com perfil analítico, hands-on, que goste de resolver problemas complexos e tenha interesse em trabalhar na interseção entre engenharia de software e IA aplicada.\n\n## Obrigatórios\n\n- Experiência sólida com desenvolvimento backend\n- Domínio de Node.js, Python ou Go\n- Experiência com APIs REST\n- Conhecimento em bancos relacionais e NoSQL\n- Experiência com serviços cloud (AWS, GCP ou Azure)\n- Conhecimento em Docker e ambientes containerizados\n- Experiência com integração de APIs de IA/LLMs\n- Familiaridade com Git, CI/CD e boas práticas de engenharia\n- Capacidade de trabalhar de forma autônoma e colaborativa\n\n## Diferenciais\n- Experiência com LangChain, CrewAI, LlamaIndex ou frameworks similares\n- Conhecimento em RAG (Retrieval-Augmented Generation)\n- Experiência com vector databases (Pinecone, Weaviate, Chroma, pgvector)\n- Vivência com Kubernetes\n- Experiência com sistemas de mensageria (RabbitMQ, Kafka, SQS)\n- Conhecimento em observabilidade e monitoramento\n- Experiência com fine-tuning ou avaliação de modelos de IA\n\n## Local\n\nSão Paulo, SP\n\n## Requisitos\n\n- Desenvolver e manter APIs e serviços backend escaláveis\n- Criar integrações com modelos de IA (OpenAI, Anthropic, Gemini, etc.)\n- Estruturar pipelines de processamento de dados e automações\n- Trabalhar com arquiteturas orientadas a microsserviços e cloud\n- Implementar boas práticas de segurança, observabilidade e performance\n- Participar da definição técnica e evolução da arquitetura dos produtos\n- Desenvolver sistemas com foco em AI Agents, RAG e workflows inteligentes\n- Colaborar com times de produto, design e operações\n\n## Benefícios\n\n- Salário competitivo\n- Ambiente inovador\n- Liberdade para propor soluções e testar novas tecnologias\n- Contato direto com projetos de IA aplicada\n- Oportunidade de crescimento acelerado\n- Cultura colaborativa e orientada a resultados\n\n## Contratação\n\n- PJ\n\n## Como se candidatar\n\nEnvie curriculo e/ou github para eduardo.parucker@missionbrasil.com.br\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n- Especialista\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Presencial",
+      "excerpt": "## Mission Brasil A Mission Brasil é uma plataforma que conecta empresas a uma rede ativa de usuários em todo o país para execução de missões em campo, pesquisas, auditorias, cliente oculto, vistorias e ações de trade...",
       "issueState": "open",
-      "contentHash": "811c6c0401e248dbb92207defa0bd52f82d9d42b6b3a58b2a5095128eabcf7c7",
+      "contentHash": "78564630abe482e4b8bb428f73cdf0199d5b8bf8bdeca6b622de5a18dbf4d40d",
       "repository": "backend-br/vagas",
       "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
         "pj",
-        "pleno",
         "sênior",
+        "python",
         "node.js",
-        "aws",
-        "git",
-        "híbrido",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-15T20:42:49Z",
-      "updatedAt": "2026-05-25T19:38:32Z",
-      "url": "https://github.com/backend-br/vagas/issues/12238",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3ec4969788e4c5dffee69c5f",
-      "sourceId": "backend-br/vagas#12236",
-      "title": "Ninho da Águia: Deploy Academy 2026 - Carneiro Tecnologia",
-      "description": "🚀 O Próximo Commit da sua Carreira começa aqui! 🦅\nA Carneiro Tecnologia abre as portas do Ninho da Águia 2026: Deploy Academy. Mais do que um estágio, esta é uma imersão real projetada para tirar o seu conhecimento da faculdade e colocá-lo direto em produção.\nSe você é da área de Exatas e quer ver a teoria ganhar vida na prática da carreira de desenvolvedor, este é o seu lugar.\n\n🎯 **Quem buscamos?**\nEstudantes de TI, Engenharias, Física e Matemática.\nAlunos cursando os últimos 2 anos da graduação.\nDiferencial: Já ter \"codado\" algo ou possuir conhecimento em linguagens de programação.\nMentes lógicas, proativas e com sede de aprender.\n\n⚙️ **A Jornada (Modelo Híbrido):**\nDuração: 06 meses de imersão acelerada.\nCarga Horária: 06 horas diárias (Turnos: Manhã ou Tarde).\nOnde: Remoto (Segunda e Sexta) | Presencial (Terça a Quinta).\n\n💎 **O que oferecemos:**\nBolsa-auxílio e Vale-Transporte compatíveis com o mercado.\nMentoria direta com nossos \"Mestres Águia\".\nAtividades Hands-on em squads de engenharia reais.\nProcesso intermediado pela SuperEstágios.\n\n📝 **Processo Seletivo:**\nAvaliação curricular.\nAvaliação de perfil comportamental (Exame DISC).\nDinâmica prática de Lógica de Programação.\nPronto para o deploy? 🚀",
-      "excerpt": "🚀 O Próximo Commit da sua Carreira começa aqui! 🦅 A Carneiro Tecnologia abre as portas do Ninho da Águia 2026: Deploy Academy. Mais do que um estágio, esta é uma imersão real projetada para tirar o seu conhecimento ...",
-      "issueState": "closed",
-      "contentHash": "db30571fcbcbc951138e9b1ade26e909d96f948c8ebab84b0ea20d2df7a2eb01",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
+        "go",
+        "especialista",
         "presencial",
-        "híbrido"
+        "aws"
       ],
       "author": {
-        "id": "camila715",
-        "name": "camila715",
-        "handle": "camila715",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/284726425?v=4"
+        "id": "paruckerr",
+        "name": "paruckerr",
+        "handle": "paruckerr",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1139650?v=4"
       },
       "community": {
         "id": "backend-br",
@@ -758,9 +764,9 @@
         "repository": "backend-br/vagas",
         "url": "https://github.com/backend-br/vagas"
       },
-      "createdAt": "2026-05-14T17:07:46Z",
-      "updatedAt": "2026-05-26T06:43:48Z",
-      "url": "https://github.com/backend-br/vagas/issues/12236",
+      "createdAt": "2026-05-18T19:43:20Z",
+      "updatedAt": "2026-06-18T03:37:33Z",
+      "url": "https://github.com/backend-br/vagas/issues/12239",
       "sourceType": "github-issue"
     },
     {
