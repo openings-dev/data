@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-17T22:42:25.642Z",
+  "generatedAt": "2026-06-18T02:49:46.962Z",
   "schemaVersion": 2,
-  "dataHash": "710939049439bfa74353bafe94d6c6bb6e6e868b02b9d609e9f4031bb8491e0a",
+  "dataHash": "4d928256544d6fb3420f35fe9ac5063f838bfd8dd55d17f6c03f289006886f66",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2032,
+    "opportunities": 2033,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -42,6 +42,7 @@
       "api/jobs/0e.json",
       "api/jobs/0f.json",
       "api/jobs/10.json",
+      "api/jobs/11.json",
       "api/jobs/12.json",
       "api/jobs/13.json",
       "api/jobs/14.json",
@@ -235,6 +236,7 @@
       "api/jobs/d7.json",
       "api/jobs/d8.json",
       "api/jobs/d9.json",
+      "api/jobs/da.json",
       "api/jobs/db.json",
       "api/jobs/dc.json",
       "api/jobs/dd.json",
@@ -311,6 +313,7 @@
       "api/pages/page-0035.json",
       "api/pages/page-0036.json",
       "api/pages/page-0037.json",
+      "api/pages/page-0038.json",
       "api/search-index.json"
     ]
   },
@@ -529,10 +532,10 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 122,
+      "opportunities": 123,
       "repositories": 22,
-      "openIssues": 53,
-      "closedIssues": 69,
+      "openIssues": 67,
+      "closedIssues": 56,
       "indexFile": "countries/us/index.json"
     },
     {
