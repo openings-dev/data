@@ -1,15 +1,20 @@
 {
-  "generatedAt": "2026-06-19T03:35:00.703Z",
+  "generatedAt": "2026-06-19T22:00:08.148Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "totals": {
-    "opportunities": 124,
-    "repositories": 22,
-    "openIssues": 69,
-    "closedIssues": 55
+    "opportunities": 111,
+    "repositories": 21,
+    "openIssues": 67,
+    "closedIssues": 44
   },
-  "failedRepositories": [],
+  "failedRepositories": [
+    {
+      "repository": "zapplyjobs/Internships-2026",
+      "error": "Unexpected response 401 while fetching zapplyjobs/Internships-2026."
+    }
+  ],
   "byRepository": [
     {
       "repository": "ambicuity/New-Grad-Jobs",
@@ -138,14 +143,6 @@
       "closedIssues": 2,
       "file": "countries/us/repositories/summer2026internships-summer2026-internships.json",
       "hash": "4bf1dec96f4717c8b2497a725fc2e874bf4d18cb0e62a00617895ba1b0b510cb"
-    },
-    {
-      "repository": "zapplyjobs/Internships-2026",
-      "issues": 13,
-      "openIssues": 2,
-      "closedIssues": 11,
-      "file": "countries/us/repositories/zapplyjobs-internships-2026.json",
-      "hash": "84f359c3413dfb6484c85c350df3500afea270023991d0bc896126d780b18dff"
     },
     {
       "repository": "zapplyjobs/New-Grad-Data-Science-Jobs-2026",

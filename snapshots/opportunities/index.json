@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T17:13:39.017Z",
+  "generatedAt": "2026-06-19T22:00:08.148Z",
   "schemaVersion": 2,
-  "dataHash": "714a50d6e14947a5add5357866d2369007bb4e49e2c232b841125205b623eafc",
+  "dataHash": "5bd8545f9017786a54d040d91e9548ee79c2609936f74d3272d6071aed977930",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -11,15 +11,20 @@
     "countryCodes": []
   },
   "repositoriesRequested": 173,
-  "repositoriesScanned": 173,
+  "repositoriesScanned": 172,
   "totals": {
-    "opportunities": 2033,
-    "uniqueRepositories": 173,
+    "opportunities": 2020,
+    "uniqueRepositories": 172,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
-    "failedRepositories": 0
+    "failedRepositories": 1
   },
-  "failedRepositories": [],
+  "failedRepositories": [
+    {
+      "repository": "zapplyjobs/Internships-2026",
+      "error": "Unexpected response 401 while fetching zapplyjobs/Internships-2026."
+    }
+  ],
   "staticApi": {
     "manifestFile": "api/manifest.json",
     "files": [
@@ -532,10 +537,10 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 124,
-      "repositories": 22,
-      "openIssues": 69,
-      "closedIssues": 55,
+      "opportunities": 111,
+      "repositories": 21,
+      "openIssues": 67,
+      "closedIssues": 44,
       "indexFile": "countries/us/index.json"
     },
     {
