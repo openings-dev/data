@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T22:00:08.148Z",
+  "generatedAt": "2026-06-20T02:39:12.482Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
@@ -15,6 +15,7 @@
     "gh_0031a8b45c2001c83b07118d",
     "gh_5f066bed10486c20bcb3fc70",
     "gh_84cd180e02db9815d917bcc4",
+    "gh_3ef6e457c5ac8fbfa42301f1",
     "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
     "gh_7bcd691815b883db937698fc",
@@ -22,8 +23,7 @@
     "gh_83b66ce2daefa84016b71185",
     "gh_8ee64993911f93d90ce95023",
     "gh_00f43877d5ad16b13816919e",
-    "gh_5bbf90a5dd403bda6fdd6036",
-    "gh_e6191f480fd2acaf1f330d6b"
+    "gh_5bbf90a5dd403bda6fdd6036"
   ],
   "items": [
     {
@@ -429,6 +429,41 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_3ef6e457c5ac8fbfa42301f1",
+      "sourceId": "zapplyjobs/Internships-2026#15",
+      "title": "Suggestion: add Canada-specific Hanzilla Jobs internship resource",
+      "description": "Hi Zapply team — thanks for maintaining this broad internships tracker.\n\nI noticed the list is primarily U.S.-focused, but it does surface some Canada-relevant internship/co-op roles too (for example Magna roles in Ontario). Would you be open to adding a small Canada-specific companion resource for students who land here while searching from Canadian universities?\n\nSuggested Markdown:\n\n```md\n- [Hanzilla Jobs — Canadian student internships/co-ops](https://jobs.hanzilla.co/internships/) — free daily-updated board for Canadian university students and recent grads, covering internships, co-ops, new-grad, junior, and entry-level roles across tech, data/AI, finance, engineering, business, sciences, and more. See also the [about/verification page](https://jobs.hanzilla.co/about/).\n```\n\nWhy it might fit:\n- Canada-specific coverage for students who need Canadian locations / remote-Canada roles, not only U.S. listings.\n- Direct links go to company career pages; no paywall.\n- It is broader than SWE only, so it can complement your tech/software internship list without trying to replace it.\n\nDisclosure: I’m building Hanzilla Jobs. Totally okay if this is not the right fit for this repo — sharing because it may help Canadian students using the tracker.",
+      "excerpt": "Hi Zapply team — thanks for maintaining this broad internships tracker. I noticed the list is primarily U.S.-focused, but it does surface some Canada-relevant internship/co-op roles too (for example Magna roles in Ont...",
+      "issueState": "open",
+      "contentHash": "33cc7f8ef9a5b00908b71e1eb1caf4c0368031a5f4d84b004ef322b5cfd9435a",
+      "repository": "zapplyjobs/Internships-2026",
+      "repositoryUrl": "https://github.com/zapplyjobs/Internships-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/Internships-2026",
+        "url": "https://github.com/zapplyjobs/Internships-2026"
+      },
+      "createdAt": "2026-06-05T03:26:05Z",
+      "updatedAt": "2026-06-05T03:26:05Z",
+      "url": "https://github.com/zapplyjobs/Internships-2027/issues/15",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_eca179323abe1309b96e6c74",
       "sourceId": "remote-es/remotes#192",
       "title": "Consider including a link to the company website in addition to their jobs page",
@@ -710,51 +745,6 @@
       "createdAt": "2026-06-03T02:55:54Z",
       "updatedAt": "2026-06-03T02:55:54Z",
       "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1067",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e6191f480fd2acaf1f330d6b",
-      "sourceId": "backend-br/vagas#12249",
-      "title": "[Remoto/Híbrido São Paulo, Rio de Janeiro e Curitiba] Back-end  Engineer Python - Jcal Consultoria",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | BACK-END ENGINEER (PYTHON) | HEALTHCARE | 🌎💻(Mínimo 8 anos de experiências, Inglês avançado) \n\n🔗 Conecte-se comigo no LinkedIn:\nhttps://www.linkedin.com/in/thisclaudia\n\n\nSe você é Engenheiro de Software Sênior e busca atuar em um ambiente global, com autonomia real e impacto direto no produto, essa oportunidade pode ser para você.\nEstamos em busca de talentos para integrar uma empresa internacional do setor de Healthcare, trabalhando em projetos relevantes e com forte foco em qualidade, escalabilidade e inovação.\n💡 Experiência com regulamentações como HIPAA/PHI é um diferencial, mas não obrigatória.\n📍 Localização\nProfissionais localizados em São Paulo ou Rio de Janeiro são bem-vindos a se candidatar.\n🏡 A posição inicia 100% remota para profissionais residentes nestas localidades e posteriormente terá modelo híbrido em Curitiba (PR).\n\n💰 Remuneração: USD $3.000k – $4.750k / mês\n\n🔎 Requisitos Gerais\n✔ Inglês avançado (colaboração com times dos Estados Unidos)\n✔ +8 anos de experiência em desenvolvimento de software\n✔ Ensino Superior Completo em Ciência da Computação, Engenharia de Software ou áreas correlatas\n✔ Forte senso de ownership — da ideia à produção\n✔ Perfil proativo, independente e orientado a resultados\n\n\n💻 SENIOR BACK-END ENGINEER (PYTHON)\n\n🎯 Missão da posição:\nConstruir serviços escaláveis, seguros e confiáveis, contribuindo diretamente para a evolução da plataforma.\nResponsabilidades:\n• Desenvolver APIs e serviços backend escaláveis\n• Trabalhar com bancos de dados SQL e NoSQL\n• Implementar testes automatizados (unitários, integração e e2e)\n• Desenvolver e manter pipelines de CI/CD\n• Atuar com monitoramento, métricas, logs e suporte em produção\n• Contribuir com decisões técnicas e arquiteturais\n\n⭐ Diferenciais\n✔ Experiência com decisões arquiteturais pragmáticas\n✔ Automação de processos e melhoria contínua\n✔ Capacidade de identificar gargalos e propor soluções escaláveis\n✔ Mentalidade forte de qualidade (sem time separado de QA)\n\n💡 O mais importante: buscamos profissionais com autonomia, responsabilidade e mentalidade de produto.\n\nSe essa oportunidade faz sentido para você ou para alguém da sua rede, compartilhe ou entre em contato neste link abaixo 👇🏻 \nhttps://wa.me/5519978164262?text=Ol%C3%A1%0ASeja%20muito%20bem%20vindo(a)%0AVoc%C3%AA%20entrou%20em%20contato%20para%20conversarmos%20sobre%20oportunidades,%20logo%20mais%20irei%20te%20atender\n\n#TechJobs #PythonDeveloper #BackendEngineer #SoftwareEngineer #RemoteJobs #InternationalJobs #HiringTech #HealthcareTech #PythonJobs #TechCareers #LATAMTech #TechOpportunities #SeniorDeveloper #TechRecruiter #HiringNow",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | BACK-END ENGINEER (PYTHON) | HEALTHCARE | 🌎💻(Mínimo 8 anos de experiências, Inglês avançado) 🔗 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/thisclaudia Se você é Engenh...",
-      "issueState": "open",
-      "contentHash": "d3bcddb20fdf544780a885693f7c6c904d10ad7b15b3e08ecf8235e3a538fa3a",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "python",
-        "remoto",
-        "testes automatizados",
-        "sql",
-        "híbrido",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 3000000,
-        "max": 4750000,
-        "period": "hour"
-      },
-      "createdAt": "2026-06-02T21:36:51Z",
-      "updatedAt": "2026-06-04T12:52:06Z",
-      "url": "https://github.com/backend-br/vagas/issues/12249",
       "sourceType": "github-issue"
     }
   ]
