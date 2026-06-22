@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-22T14:31:02.535Z",
+  "generatedAt": "2026-06-22T18:43:23.492Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_1c6aef386cd5bc99c7445734",
     "gh_0a9e82303a18539e69873c80",
     "gh_e6f0376a5a9af058b67ed1d8",
     "gh_7ec4f81919903459594c39ae",
@@ -22,10 +23,45 @@
     "gh_7bcd691815b883db937698fc",
     "gh_a2bf5d8b1ac2ec634b465f35",
     "gh_c1ac097a6489466dda237c12",
-    "gh_83b66ce2daefa84016b71185",
-    "gh_8ee64993911f93d90ce95023"
+    "gh_83b66ce2daefa84016b71185"
   ],
   "items": [
+    {
+      "id": "gh_1c6aef386cd5bc99c7445734",
+      "sourceId": "backend-br/vagas#12277",
+      "title": "[Remoto] Customer Success Manager (AI-first) - Wrenly",
+      "description": "> 🇧🇷 Vaga 100% remota para profissionais baseados no Brasil. A função exige **inglês fluente**, então o anúncio está em inglês de propósito — já serve como um primeiro filtro. / This role requires fluent English, so the listing is in English by design.\n\n## Nossa empresa\n\nWrenly is a bootstrapped, profitable HR / people-analytics SaaS. We regularly go up against companies like Lattice and Culture Amp — companies that raised hundreds of millions of dollars — and we're winning. We meet teams where they already work: a performance review that arrives as a Slack message, a survey that's a ping in MS Teams. We're profitable, growing every month, and deliberately lean — we use AI to punch far above our headcount.\n\n## Descrição da vaga\n\n**Founding Customer Success Manager (AI-first).**\n\nOne catch: you'll do this job with **AI as your primary tool** — not as a nice-to-have, but as the way you work. Claude will be how you triage tickets, investigate our codebase, build workflows, write docs, and automate anything that can be automated. If you've put serious time into AI agents and automations (**100+ hours**), this might be the most interesting job you've seen. If you haven't, it isn't for you.\n\nWhat you'll own:\n\n- **Build a scalable AI support engine** — answer customer questions, then use AI to turn each answer into knowledge-base material so the next customer gets it instantly and the question never reaches your queue again.\n- **Turn founder-led onboarding into a repeatable system** — capture what makes our founder-led onboarding great in repeatable playbooks, so every customer gets that same launch whether they're the 4th this month or the 40th.\n- **Nurture and grow accounts** — become the expert customers trust and own their quarterly business reviews (QBRs), turning trust into renewals and expansion.\n\nAs the function scales, there's an opportunity to build and lead a team, with the founders backing you as you grow into it.\n\n> 💡 **Developers, this is for you too.** A developer with real AI experience who also has customer-facing experience is a *perfect* candidate for this role. If you love building automations in Claude and talking to users, you're exactly who we want.\n\n## Local\n\nRemoto — **baseado no Brasil**, confortável com sobreposição ao fuso horário US Eastern (ET).\n\n## Requisitos\n\n**Obrigatórios:**\n- **100+ hours hands-on with AI agents / automations** (Claude as your primary working tool). This is the real bar — if you haven't put serious time into AI, this role isn't for you.\n- **Fluent English**, written and spoken.\n- **Based in Brazil**, comfortable with US time-zone overlap.\n- Hungry, organized, a strong writer, and comfortable building from scratch.\n\n**Desejáveis:**\n- 1–4 years in B2B SaaS customer success, account management, or a similar customer-facing role (ideal, not required — we care more about how you work than how long you've done it).\n- A developer background counts: if you have real AI experience **and** customer-facing experience, you're a perfect fit even without a formal CS title.\n\n## Benefícios\n\n- Competitive base compensation in **USD**, plus generous commission on the expansion revenue you generate\n- Fully remote — work from wherever you're most productive\n- 40-hour work week with flexible hours built around US Eastern Time overlap\n- 11 days of paid time off + 9 Brazilian public holidays (**20 days off total**)\n- All tools and subscriptions covered, including generous AI plans\n- A real voice in product decisions and company direction from day one\n\n## Contratação\n\n**PJ** — hired and managed through **Deel** (simple, clean contracting).\n\n## Como se candidatar\n\nWatch a short video from our co-founder and find application details here:\n👉 **https://www.wrenly.ai/hiring/csm**\n\n**Soft screen (please include):** since this is an AI-first role, send one lightweight artifact — e.g. a 2–3 min Loom walking through one AI agent/automation you built and what it saved you.\n\n## Labels\n\n### Nível\n- Pleno\n\n### Regime\n- PJ\n\n### Alocação\n- Remoto",
+      "excerpt": "> 🇧🇷 Vaga 100% remota para profissionais baseados no Brasil. A função exige **inglês fluente**, então o anúncio está em inglês de propósito — já serve como um primeiro filtro. / This role requires fluent English, so...",
+      "issueState": "open",
+      "contentHash": "d05b376998e575114e9ae619e8ff2b0d6b1db3f33a8c605b2d4cc56cac67cd80",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "go",
+        "remoto"
+      ],
+      "author": {
+        "id": "MattB543",
+        "name": "MattB543",
+        "handle": "MattB543",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45475210?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-06-12T15:57:21Z",
+      "updatedAt": "2026-06-15T23:53:00Z",
+      "url": "https://github.com/backend-br/vagas/issues/12277",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_0a9e82303a18539e69873c80",
       "sourceId": "frontendbr/vagas#8505",
@@ -700,46 +736,6 @@
       "createdAt": "2026-06-03T17:57:21Z",
       "updatedAt": "2026-06-03T17:57:51Z",
       "url": "https://github.com/programadores-br/geral/issues/3077",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8ee64993911f93d90ce95023",
-      "sourceId": "awesome-jobs/vietnam#4940",
-      "title": "WAOHire - Senior Fullstack Developer (Golang) - Hybrid HCMC - FT",
-      "description": "**Responsibilities:**\n- Build and scale product experiences across backend and frontend systems.\n- Develop high-performance services using Go while collaborating across Java-based environments.\n- Deliver responsive and scalable user experiences using Angular and/or ReactJS.\n- Design and operate cloud-native infrastructure on AWS.\n- Collaborate closely with Product, Design, and Engineering teams globally.\n- Contribute to architecture decisions and improve engineering standards.\n- Work in a fast experimentation environment driven by customer and business feedback.\n- Use AI-enhanced engineering workflows to improve delivery velocity and quality.\n- Participate in improving reliability, observability, and operational excellence.\n\n**Requirements:**\n- 5+ years of software engineering experience in product environments.\n- Strong backend development experience with Go (preferred) and exposure to Java (nice-to-have).\n- Strong frontend experience with Angular and/or ReactJS.\n- Hands-on experience building and operating workloads on AWS.\n- Experience delivering end-to-end applications across backend and frontend layers.\n- Experience working with APIs, distributed systems, and modern engineering practices.\n- Exposure to Web3 ecosystems, blockchain products, or digital ownership platforms.\n- AI-first mentality and comfort using AI tools to improve productivity.\n- Be extremely active experimenting with AI-driven art pipelines. Heavily integrating AI into your work.\n- Strong communication skills in English, both written and verbal.\n\n**Benefits:**\n- Competitive salary upto $2500 (100% paid during probation).\n- Work on products used globally with talented international team.\n- 13th-month salary, annual performance review.\n- Annual health check-ups.\n- Full insurance (Social, Health, and Unemployment Insurance) in compliance with Vietnam Labor Law.\n- Location: District 1, HCMC\n\nPlease contact **+84 834033300 (Zalo/Whatsapp)** for more details",
-      "excerpt": "**Responsibilities:** - Build and scale product experiences across backend and frontend systems. - Develop high-performance services using Go while collaborating across Java-based environments. - Deliver responsive an...",
-      "issueState": "open",
-      "contentHash": "67f89e0c9a502efd35b09f737088bea94fc7814915f864d14e82333a1bd0b09c",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "frontend",
-        "backend",
-        "fullstack",
-        "react",
-        "golang",
-        "java",
-        "senior"
-      ],
-      "author": {
-        "id": "nhatruchr",
-        "name": "nhatruchr",
-        "handle": "nhatruchr",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/231218520?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-06-03T08:46:19Z",
-      "updatedAt": "2026-06-03T08:49:20Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4940",
       "sourceType": "github-issue"
     }
   ]
