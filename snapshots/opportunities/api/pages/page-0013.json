@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-21T07:29:04.958Z",
+  "generatedAt": "2026-06-22T02:58:20.160Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
+    "gh_8d3d4b455493191722317dda",
     "gh_777d6953c094c4c77cffa586",
     "gh_f4bcab5a06e0810d5c4425c0",
     "gh_8ac6e6406bab29dc70c10f65",
@@ -17,7 +18,6 @@
     "gh_90da04043225a0b75c5b63f5",
     "gh_7895541ae68ea62e3538ba5f",
     "gh_4a966f0411391356b026c1e4",
-    "gh_8db85587dee791f9b3c4b60d",
     "gh_9876f306f4afb6a041476c25",
     "gh_d9f31b40b046d9fb1c9512c3",
     "gh_72cfadae02e4f1d29faac8e9",
@@ -26,6 +26,44 @@
     "gh_ba81b538383170559d6a81ae"
   ],
   "items": [
+    {
+      "id": "gh_8d3d4b455493191722317dda",
+      "sourceId": "pythonjobs/jobs#441",
+      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
+      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
+      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
+      "issueState": "open",
+      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "frontend",
+        "react",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:25:09Z",
+      "updatedAt": "2026-01-19T17:25:09Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/441",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_777d6953c094c4c77cffa586",
       "sourceId": "f2etw/jobs#1165",
@@ -506,42 +544,6 @@
       "createdAt": "2025-12-10T17:25:40Z",
       "updatedAt": "2025-12-10T17:25:40Z",
       "url": "https://github.com/datascience-br/vagas/issues/154",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8db85587dee791f9b3c4b60d",
-      "sourceId": "frontendbr/vagas#8410",
-      "title": "[Remote] Full  Stack  AI Engineer | React/Node.js | AWS Serverless & AI Focus@ beyond AI",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Nossa empresa\nBeyond AI\n “Exciting opportunity to work remotely with a Brazilian company on an international project, startup, impactful AI solutions.”  \n\n\n## Descrição da vaga\n**Full Stack Engineer | React/Node.js | AWS Serverless & AI Focus**\n\nWe are a fast-growing, AI-driven tech startup dedicated to building innovative solutions that impact millions of users. We are seeking a highly skilled and motivated Full Stack Engineer to join our remote, international team. You will be responsible for designing, developing, and deploying scalable, high-performance applications using modern JavaScript stacks and cutting-edge AWS Serverless architecture.\n\n## Local\n\nRemote\n\n## Requisitos\n\n**Obrigatórios:**\n\n- Experience: Minimum 3+ years of professional experience in Full Stack  Development.\n\n- AWS & Serverless: Mandatory hands-on experience with AWS (e.g., S3, DynamoDB, CloudFront) and significant, proven experience deploying and managing production applications using AWS Lambda.\n\n- AI Development Experience: Mandatory practical experience in the development cycle of AI/ML features. This includes integrating and consuming Machine Learning models or AI services (e.g., LLMs, Computer Vision) into production applications, and handling related data pipelines.\n\n**- Stack: Strong proficiency in Node.js (Backend) and React (Frontend).** \n\n- Language: Advanced/Fluent English (written and verbal) is required for daily collaboration with international teams.\n- \n- Methodology: Solid understanding of software architecture principles, testing (Jest/Cypress), and CI/CD pipelines.\n- \n- Startup environment\n\n\n**Desejáveis:**\nExperience with Next.js is a plus.\n\n\n\n\n## Benefícios\n\n_Remote\n-Earn in USD \nRange - 3k - 5k USD $\n\n\n\n## Contratação\n\nFull Contract \n\n## Como se candidatar\n\nReady to build the future with Serverless and AI in a fast-paced environment?\n\nemail to : adri@reachbeyond.ai\n\n\n## Labels\n\n#### Alocação\n\n- Remote\n\n\n#### Regime\n\n- Contractor\n\n#### Nível\n\n- Mid level\n- Senior level",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
-      "issueState": "open",
-      "contentHash": "07a900980533afcc28beaab98ff7cadce014607cbcfb6e6c9da55765cc3d26e6",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "sênior",
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "Adrianabeyond",
-        "name": "Adrianabeyond",
-        "handle": "Adrianabeyond",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/231765253?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "createdAt": "2025-12-08T18:16:19Z",
-      "updatedAt": "2026-05-04T15:05:49Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8410",
       "sourceType": "github-issue"
     },
     {
