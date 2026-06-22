@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-06-22T02:58:20.160Z",
+  "generatedAt": "2026-06-22T08:56:45.808Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
-    "gh_90dc15cf0fb5560e4c0f0993",
-    "gh_c01a0a3f6404a175991bbcce",
     "gh_3cb49aacda2ec7dd8e38be24",
     "gh_676667090fcd5276269492b4",
     "gh_b6ad9f2a9bbc5c9e930223d7",
@@ -23,83 +21,11 @@
     "gh_eae48d87a90e3ffbeb60afaf",
     "gh_349305368c4768961f805995",
     "gh_cb018f064d1195686d333796",
-    "gh_bf70dc9f783bd9e91215da56"
+    "gh_bf70dc9f783bd9e91215da56",
+    "gh_72cc354e7d9c38f999fa902a",
+    "gh_dd237a978dba300d92eb4d35"
   ],
   "items": [
-    {
-      "id": "gh_90dc15cf0fb5560e4c0f0993",
-      "sourceId": "react-brasil/vagas#3007",
-      "title": "desenvolvedor react native senior",
-      "description": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona como memória externa com captura de voz, separação automática por IA, organização inteligente e lembretes discretos. Stack: React Native + TypeScript + Node.js + PostgreSQL + IA (Whisper/GPT). Prazo 4 meses. Preciso de dev com 3+ anos React Native e pelo menos 1 app publicado nas stores.",
-      "excerpt": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona c...",
-      "issueState": "open",
-      "contentHash": "07e76fc850ef066f91e92332475c8524069654d7bffe5998cc0da68835b9c1c9",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "👴 senior"
-      ],
-      "author": {
-        "id": "mclaudiaferreira",
-        "name": "mclaudiaferreira",
-        "handle": "mclaudiaferreira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/269824166?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-03-20T22:05:39Z",
-      "updatedAt": "2026-04-28T10:46:01Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3007",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c01a0a3f6404a175991bbcce",
-      "sourceId": "qa-brasil/vagas#1247",
-      "title": "[VAGA FECHADA] QA na <db>",
-      "description": "## Descrição da vaga\n\n**Responsabilities**\n\n- Design and develop robust test automation framework architectures for RFID system validation, with a focus on scalability, maintainability, and performance.\n- Implement Python-based interfaces for controlling and communicating with RFID readers to enable test execution, diagnostics, and data collection.\n- Integrate test hardware (e.g., signal generators, spectrum analyzers, emulated tags) into the automation framework for fully automated test execution and data acquisition.\n- Develop and optimize system performance test scripts based on engineering specifications, enabling data logging, system validation, and post-test analytics.\n- Implement and manage relational database systems (e.g., SQL) for organizing and storing test results; implement automated data pipelines for ingestion, parsing, and aggregation of large-scale datasets.\n- Troubleshoot and debug complex system-level issues involving interactions between RFID hardware, automation software, and test environments, ensuring alignment with product requirements.\n- This position requires onsite presence three times a week.\n\n**Requirements added by the job poster**\n\n• Working in a hybrid setting\n• Authorized to work in the United States\n\n## Local de trabalho\n\n- Hybrid twice or three times in San Diego - CA;\n\n## Requisitos da vaga\n\n**Requirements and qualifications\n\nSoftware Development**\n\n- Strong proficiency in Python, including test framework and automation script development\n- Experience with embedded software stacks and hardware-software integration\n- Familiarity with REST APIs and backend service automation\n- Proficiency with Linux tools, shell scripting, and development best practices\n- Experience with data parsing, processing, and visualization for test analysis\n- Understanding of test-driven development (TDD), continuous integration (CI), and deployment practices\n\n**Automation System Development**\n\n- Deep experience with Linux terminal operations, including BASH scripting, process management, and system diagnostics.\n- Familiarity with virtual environments using Docker and virtual machines.\n- Experience with Linux package management (e.g., apt, yum, dnf for installation, updates, and dependency handling).\n- Familiarity with remote debugging and access tools (SSH, Telnet, Remote Desktop).\n- Strong log analysis and troubleshooting skills in complex automation environments.\n- Software Version Control & Repository Management:\n- Proficiency with Git command-line operations and version control best practices.\n- Understanding of trunk-based development, monorepo structures, and multi-distribution paradigms.\n- Experience with code review workflows, pull requests (PRs), and branching strategies.\n- Familiarity with software packaging tools (e.g., pip, npm, cargo, Linux distro packages).\n\n**RF System Testing:**\n\n- Experience using RF test equipment, including High-speed oscilloscopes, Signal generators, RF power meters, Spectrum analyzers, Vector network analyzers (VNA), etc.\n- Knowledge on RF principles and measurement techniques, including Signal-to-noise ratio (SNR), Sensitivity analysis, RF power and emission analysis, Interference detection and spectrum analysis\n- Experience with WiFi, LTE, RFID or other System Testing is a plus\n\n## Forma de contratação\n\n- PJ\n\n## Benefícios da empresa\n\n- Pension plan, Medical insurance.\n\n## Sobre a empresa\n\n- We are a consulting firm based in Rio Grande do Sul that works on national and international projects, serving clients in the financial and retail sectors.\n- We have an opening for a System Validation Engineer in the United States, working in a hybrid model in San Diego 🇺🇸.\n- We are looking for professionals who want to be part of an environment that values people, encourages continuous development, and prioritizes quality and excellence in code.\n- If you want to take your career global and work on challenging projects, this could be the perfect opportunity 🚀\n\n## Como se candidatar\n\n- Por favor envie um email para pessoas_terra@db.tec.br com seu CV anexado - Enviar no assunto: Vaga do QA-Brasil\n- Candidatar através do site (https://www.linkedin.com/jobs/view/4388111738/?trk=mcm)\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 3 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: luana.leal@db.tec.br\n\n- PJ\n- Pleno\n- Sênior\n- Especialista\n- 3 dias Presencial\n- Remoto\n- Exterior\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "## Descrição da vaga **Responsabilities** - Design and develop robust test automation framework architectures for RFID system validation, with a focus on scalability, maintainability, and performance. - Implement Pyth...",
-      "issueState": "open",
-      "contentHash": "e7be4bb8b5da357d15704cc7a8d831fa4f7179fac76b0d3d992273629f897c4d",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "remoto",
-        "rio grande do sul",
-        "sênior",
-        "presencial",
-        "especialista",
-        "exterior"
-      ],
-      "author": {
-        "id": "Luavagas",
-        "name": "Luavagas",
-        "handle": "Luavagas",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/185206839?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Pension plan, Medical insurance.",
-      "createdAt": "2026-03-20T12:35:51Z",
-      "updatedAt": "2026-05-30T03:51:55Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1247",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_3cb49aacda2ec7dd8e38be24",
       "sourceId": "programadores-br/geral#3060",
@@ -762,6 +688,68 @@
       "createdAt": "2026-02-18T13:31:05Z",
       "updatedAt": "2026-02-19T04:01:13Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/162",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_72cc354e7d9c38f999fa902a",
+      "sourceId": "timqian/open-source-jobs#161",
+      "title": "Feature: Enhanced Search & Filtering",
+      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
+      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
+      "issueState": "open",
+      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "codeCraft-Ritik",
+        "name": "codeCraft-Ritik",
+        "handle": "codeCraft-Ritik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-18T13:29:12Z",
+      "updatedAt": "2026-02-19T04:01:20Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/161",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_dd237a978dba300d92eb4d35",
+      "sourceId": "timqian/open-source-jobs#160",
+      "title": "chaos-genius repo is archived",
+      "description": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table ,\nfix : might remove it or add another new one which is alternative to it ig?",
+      "excerpt": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table , fix : might remove it or add another new one which is alternative to it ig?",
+      "issueState": "open",
+      "contentHash": "8fa49b441c78bded9b3b3f265b273b1c1cbcac0e78160ac409226673fadcb2d0",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "wasup-yash",
+        "name": "wasup-yash",
+        "handle": "wasup-yash",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112958086?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-02-17T18:15:36Z",
+      "updatedAt": "2026-02-17T18:15:36Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/160",
       "sourceType": "github-issue"
     }
   ]
