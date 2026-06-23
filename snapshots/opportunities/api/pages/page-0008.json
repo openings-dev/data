@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-06-23T02:33:22.680Z",
+  "generatedAt": "2026-06-23T06:43:10.332Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
-    "gh_31d3c208b2b39f35424db09f",
     "gh_7ba652a44a8de9edef28588e",
     "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
@@ -15,6 +14,7 @@
     "gh_5d54a463e13b23bbe38791ce",
     "gh_2d9849eace549284f519bf16",
     "gh_24b11f8f8ff090708a67e44c",
+    "gh_62151951ecdf9123e13032f3",
     "gh_2d895bac96564681581385bb",
     "gh_bacefe5602e4e742e8cdf5f9",
     "gh_f10d628b73c6638f2b5fc004",
@@ -26,40 +26,6 @@
     "gh_73e0c5d98159d349f10f4fa9"
   ],
   "items": [
-    {
-      "id": "gh_31d3c208b2b39f35424db09f",
-      "sourceId": "react-brasil/vagas#3011",
-      "title": "Desenvolvedor(a) Mobile iOS/Android (React Native/Expo) no Instituto Conhecimento Liberta",
-      "description": "## Descrição da vaga\n\nO Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, estabilidade e experiência do usuário.\n\nBuscamos perfis com boa autonomia, pensamento analítico e capacidade de construir soluções robustas, atuando de forma integrada com backend, produto e design.\n\n## Responsabilidades\n\n**Desenvolvimento e manutenção**\n\n- Desenvolver e manter aplicativos mobile utilizando React Native e Expo\n- Implementar experiências híbridas com WebView, criando pontes entre camadas nativa e web\n- Garantir compatibilidade e performance em iOS e Android\n- Evoluir a arquitetura dos aplicativos com foco em escalabilidade\n\n**Integrações e funcionalidades**\n\n- Integrar APIs externas e serviços de backend\n- Implementar notificações push e estratégias de engajamento\n- Desenvolver funcionalidades nativas quando necessário (câmera, geolocalização, biometria, armazenamento local)\n\n**Qualidade e publicação**\n\n- Gerenciar builds, testes e processos de publicação nas lojas\n- Monitorar crashes, performance e métricas de uso\n- Atuar em conjunto com backend e produto na definição de soluções técnicas\n\n## Requisitos\n\n**Desenvolvimento mobile**\n\n- Experiência sólida com React Native e Expo\n- Conhecimento do ciclo completo de publicação em App Store e Google Play\n- Experiência com implementação de push notifications\n- Domínio de navegação, gerenciamento de estado e consumo de APIs REST\n\n**Dados e armazenamento**\n\n- Experiência com armazenamento local e bancos de dados embarcados\n- Conhecimento em estratégias de cache e funcionamento offline\n\n**Autenticação e segurança**\n\n- Experiência com OAuth, JWT e login social (Google/Apple)\n- Boas práticas de armazenamento seguro de tokens e credenciais\n\n**Tecnologias base**\n\n- Proficiência em JavaScript e/ou TypeScript moderno\n- Familiaridade com Git e fluxos de CI/CD\n- Conhecimento em deep linking e universal links\n\n## Competências comportamentais\n\n- Autodidatismo e aprendizado contínuo\n- Proatividade na resolução de problemas\n- Boa comunicação com equipes multidisciplinares\n- Organização e autonomia para trabalho remoto\n- Adaptabilidade a novas tecnologias\n- Compromisso com prazos e entregas\n\n## Como se candidatar\n\nAcesse o link da vaga: https://editoraelivrariaconhecimentolibertaltda.pandape.infojobs.com.br/Detail?id=3155110\n\n## Labels\n\n- 🏢 Remoto",
-      "excerpt": "## Descrição da vaga O Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, e...",
-      "issueState": "open",
-      "contentHash": "955ee11ccbb1bcb5273cd87ccdeb2b01b66784d1d40ac93cd6a26753ef49a407",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto"
-      ],
-      "author": {
-        "id": "luismda",
-        "name": "luismda",
-        "handle": "luismda",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88680118?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Instituto Conhecimento Liberta",
-      "createdAt": "2026-05-28T15:21:46Z",
-      "updatedAt": "2026-05-29T18:23:53Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3011",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_7ba652a44a8de9edef28588e",
       "sourceId": "tramcar/awesome-job-boards#278",
@@ -422,6 +388,43 @@
       "createdAt": "2026-05-22T17:31:55Z",
       "updatedAt": "2026-05-22T17:32:17Z",
       "url": "https://github.com/programadores-br/geral/issues/3071",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_62151951ecdf9123e13032f3",
+      "sourceId": "backend-br/vagas#12244",
+      "title": "[REMOTO] Desenvolvedor .NET/Angular Sênior na DB1",
+      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Descrição da vaga\n\nO que você vai fazer por aqui: \n\nDesenvolver e implementar funcionalidades novas e existentes em aplicativos .NET e Angular;\nColaborar com equipes multidisciplinares para entender requisitos e transformá-los em soluções técnicas;\nEscrever código limpo, eficiente e reutilizável;\nRealizar testes e depuração de aplicativos para garantir a qualidade e o desempenho;\n\n## Local\n\nRemoto\n\n## Requisitos\n\nBuscamos profissionais que tenham:\n✅ Experiência sólida com .NET\n✅ Experiência sólida com Angular.\n✅ Inglês fluente para comunicação no dia a dia.\n✅ Perfil colaborativo, que gosta de autonomia e vontade de construir soluções de alto impacto.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nhttps://db1.inhire.app/vagas/d94ce7cf-3ef3-4954-90f2-697dff98dc09/desenvolvedor-netangular-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n\n\n### Regime\n\n\n- CLT\n\n\n### Alocação\n\n- Remoto",
+      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar prob...",
+      "issueState": "open",
+      "contentHash": "55f252857885c3e70572faa475f5eb52803361c135748bd39e7ca4a1d2ecbe3e",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "sênior",
+        "remoto",
+        "stale"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "companyName": "DB1",
+      "createdAt": "2026-05-22T17:28:48Z",
+      "updatedAt": "2026-06-23T02:54:27Z",
+      "url": "https://github.com/backend-br/vagas/issues/12244",
       "sourceType": "github-issue"
     },
     {

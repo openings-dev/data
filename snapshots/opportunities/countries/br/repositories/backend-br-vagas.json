@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T14:31:02.535Z",
+  "generatedAt": "2026-06-23T06:43:10.332Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,7 +9,7 @@
     "openIssues": 23,
     "closedIssues": 7
   },
-  "dataHash": "d3199e576839225da34dfd57db8c4e416407946f54276ed6c99f4e3845d29e50",
+  "dataHash": "ece007293917188edb2fcfe96b9eb68644cc2a1b70f908d941cd3701e143fa7e",
   "items": [
     {
       "id": "gh_4ddecaa127bf972ec715444c",
@@ -600,46 +600,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_b03b3f7f6aecea6acd0cdc74",
-      "sourceId": "backend-br/vagas#12248",
-      "title": "[Bolsa Inovação] Full-Stack / Backend Developer (React, IA LLM, RAG Multicamadas, n8n, Supabase) - SAPCON",
-      "description": "## SAPCON\n\nSistema de Automação de Planos de Contingência.\n\n## Descrição da vaga\n\nEstamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma Web e motores de automação.\nO que você vai fazer (Escopo das 40 semanas)\n*MVP 1 (Coração Orquestrador): Modelagem do banco de dados relacional, criação de arquitetura Multi-RAG com foco em Chunking Semântico e Reranking (evitando infoxicação da LLM), e tradução de regras determinísticas de organograma/escalas de funcionários.\n*MVP 2 (Automação e Campo): Integração com APIs externas de monitoramento (clima/alertas), robôs de webscrapping para busca ativa de recursos e homologação de canais de comunicação (WhatsApp API e Voz STT/TTS).\n*MVP 3 (Escala e IA): Desenvolvimento do fluxo \"Redator\" para geração automatizada de Planos de Contingência (Placon) baseados em modelos doutrinários e cruzamento seguro entre bases de conhecimento.\nObs: desejável conhecimento para desenvolver App que inicialmente será apenas para visualização das informações, e envio de mensagens.\n\n## Local\n\n100% remoto.\n\n## Requisitos\n\n* Forte domínio em *React / TypeScript** e consumo de APIs RESTful.\n* Experiência prática em modelagem de bancos de dados relacionais (PostgreSQL / Supabase).\n* Familiaridade com ferramentas de automação visual de fluxos (preferencialmente **n8n**).\n* Entendimento conceitual sobre arquiteturas de IA (RAG, busca vetorial, embeddings e manipulação de contexts).\n* Maturidade para trabalhar de forma autônoma, organizada e focada em marcos de entrega (*milestones*).\n\n## Benefícios\n\nTotalmente remoto.\nFlexibilidade de horário.\nLiberdade para propor modificações.\nPretendemos, após os 12 meses, continuar vínculo com o profissional.\n\n## Contratação\n\nModelo de Contratação: Bolsista de Desenvolvimento Tecnológico / Extensão Inovadora (fomento público).\nRemuneração: 'Aproximadamente' R$ 50.000,00 totais divididos ao longo do projeto de 12 meses.\nCronograma de desenvolvimento: estimamos 9 meses. Restante do tempo para suporte técnico e correções.\nCarga Horária: Estimado em 20h semanais, com horários flexíveis, e foco em entregas/sprints.\n\n## Como se candidatar\n\nEmail para: contato@sapcon.com.br\n\n## Labels\n\n### Nível\n- Pleno\n- Sênior\n- Especialista\n\n### Regime\n- Contrato\n- Freelance\n\n### Alocação\n- Remoto",
-      "excerpt": "## SAPCON Sistema de Automação de Planos de Contingência. ## Descrição da vaga Estamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma ...",
-      "issueState": "open",
-      "contentHash": "71ca66ab97f9cb499641d728481d8fcf4d743279cc5d34a56349ffdd57066ec9",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "sênior",
-        "remoto",
-        "especialista",
-        "typescript",
-        "postgresql",
-        "freelance",
-        "contrato"
-      ],
-      "author": {
-        "id": "fmcarpes",
-        "name": "fmcarpes",
-        "handle": "fmcarpes",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51268403?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-28T22:20:25Z",
-      "updatedAt": "2026-06-02T07:07:32Z",
-      "url": "https://github.com/backend-br/vagas/issues/12248",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_78bd5ed6303a4f36ae15da78",
       "sourceId": "backend-br/vagas#12247",
       "title": "[Remoto] Desenvolvedor(a) Back-end .NET — Junior/Pleno - PJ",
@@ -722,6 +682,43 @@
       "createdAt": "2026-05-25T16:54:47Z",
       "updatedAt": "2026-06-02T07:07:41Z",
       "url": "https://github.com/backend-br/vagas/issues/12245",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_62151951ecdf9123e13032f3",
+      "sourceId": "backend-br/vagas#12244",
+      "title": "[REMOTO] Desenvolvedor .NET/Angular Sênior na DB1",
+      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Descrição da vaga\n\nO que você vai fazer por aqui: \n\nDesenvolver e implementar funcionalidades novas e existentes em aplicativos .NET e Angular;\nColaborar com equipes multidisciplinares para entender requisitos e transformá-los em soluções técnicas;\nEscrever código limpo, eficiente e reutilizável;\nRealizar testes e depuração de aplicativos para garantir a qualidade e o desempenho;\n\n## Local\n\nRemoto\n\n## Requisitos\n\nBuscamos profissionais que tenham:\n✅ Experiência sólida com .NET\n✅ Experiência sólida com Angular.\n✅ Inglês fluente para comunicação no dia a dia.\n✅ Perfil colaborativo, que gosta de autonomia e vontade de construir soluções de alto impacto.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nhttps://db1.inhire.app/vagas/d94ce7cf-3ef3-4954-90f2-697dff98dc09/desenvolvedor-netangular-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n\n\n### Regime\n\n\n- CLT\n\n\n### Alocação\n\n- Remoto",
+      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar prob...",
+      "issueState": "open",
+      "contentHash": "55f252857885c3e70572faa475f5eb52803361c135748bd39e7ca4a1d2ecbe3e",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "sênior",
+        "remoto",
+        "stale"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "companyName": "DB1",
+      "createdAt": "2026-05-22T17:28:48Z",
+      "updatedAt": "2026-06-23T02:54:27Z",
+      "url": "https://github.com/backend-br/vagas/issues/12244",
       "sourceType": "github-issue"
     },
     {
