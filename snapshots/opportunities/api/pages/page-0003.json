@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-24T17:02:28.966Z",
+  "generatedAt": "2026-06-24T19:28:49.291Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
     "gh_0e98dad659c3df11a1cb1cc8",
     "gh_d1d889fb5adb2e35b114a1e7",
@@ -22,10 +23,43 @@
     "gh_e6191f480fd2acaf1f330d6b",
     "gh_dd5e844f99cf07717091f156",
     "gh_70eda67c2285a24c2f32ca41",
-    "gh_828a908398f893b1e0c6ca3d",
-    "gh_e178ee2363a4eb2ca10d3d06"
+    "gh_828a908398f893b1e0c6ca3d"
   ],
   "items": [
+    {
+      "id": "gh_ee71ad4e68f00372f334fae1",
+      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#3",
+      "title": "Add Canada-specific data/analytics internship companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker.\n\nI noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Modelling roles in Montréal/Ottawa/Toronto, Seaspan in North Vancouver, Stripe in Toronto, Bombardier in Dorval, Hitachi Rail in Toronto, and ProCogia in Vancouver.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students using this tracker?\n\nSuggested links:\n\n```md\n- [Hanzilla Jobs — Data, analytics, AI/ML student jobs in Canada](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad board for data, analytics, AI/ML, software, finance, engineering, business, sciences, internships/co-ops, new-grad, junior, and entry-level roles.\n- [Hanzilla Jobs — Canadian internships and co-ops](https://jobs.hanzilla.co/internships/) — broader internship/co-op view across fields and Canadian cities.\n```\n\nDisclosure: I help operate Hanzilla Jobs. It is a free board and the about/verification page is here if useful: https://jobs.hanzilla.co/about/\n\nTotally fine if this is outside the repo's resource policy — sharing because it may help Canadian students who find this list but want a Canada-specific daily-updated companion source.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker. I noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Model...",
+      "issueState": "open",
+      "contentHash": "03413c2ee1b041eeedfb2371ef07072efcfcc6c0f78c5425a4ed01fee8ca32fb",
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-Internship",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
+      },
+      "createdAt": "2026-06-08T21:49:18Z",
+      "updatedAt": "2026-06-08T21:49:18Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/3",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d2c11c8fc2357a8b0eef0f15",
       "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
@@ -698,41 +732,6 @@
       "createdAt": "2026-06-01T16:59:58Z",
       "updatedAt": "2026-06-01T17:00:27Z",
       "url": "https://github.com/programadores-br/geral/issues/3075",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e178ee2363a4eb2ca10d3d06",
-      "sourceId": "ambicuity/New-Grad-Jobs#318",
-      "title": "Consider Hanzilla Jobs as a Canada-specific new-grad companion resource",
-      "description": "Hi — thanks for maintaining this automated new-grad list.\n\nI’m building Hanzilla Jobs, a free daily-updated Canadian student/recent-grad jobs board: https://jobs.hanzilla.co/new-grad/\n\nIt is not meant to replace this repo, but it may be a useful Canada-specific companion resource for students who land here while looking for early-career roles. Hanzilla focuses on Canadian internships, co-ops, new grad, junior, and entry-level roles across software, data/ML, engineering, business, finance, sciences, and other student-relevant fields.\n\nA couple relevant deep links:\n\n- New grad / junior roles: https://jobs.hanzilla.co/new-grad/\n- Canada internships / co-ops: https://jobs.hanzilla.co/internships/\n- About / verification page: https://jobs.hanzilla.co/about/\n\nIf you think it fits, would you consider adding a small “Canada-specific companion resources” or “Related resources” note somewhere in the README/docs? No worries if that is outside the scope of this repo.\n\nDisclosure: I’m the builder of Hanzilla Jobs.",
-      "excerpt": "Hi — thanks for maintaining this automated new-grad list. I’m building Hanzilla Jobs, a free daily-updated Canadian student/recent-grad jobs board: https://jobs.hanzilla.co/new-grad/ It is not meant to replace this re...",
-      "issueState": "open",
-      "contentHash": "f1fe25908c8fa71c42fa8d42a5ac87a09f78feead80f465f809b2eb863678808",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "needs-triage",
-        "enhancement"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-06-01T12:56:16Z",
-      "updatedAt": "2026-06-01T12:56:32Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/318",
       "sourceType": "github-issue"
     }
   ]
