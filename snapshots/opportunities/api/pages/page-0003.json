@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-24T11:41:17.325Z",
+  "generatedAt": "2026-06-24T17:02:28.966Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_d2c11c8fc2357a8b0eef0f15",
     "gh_0e98dad659c3df11a1cb1cc8",
     "gh_d1d889fb5adb2e35b114a1e7",
     "gh_0031a8b45c2001c83b07118d",
@@ -22,10 +23,44 @@
     "gh_dd5e844f99cf07717091f156",
     "gh_70eda67c2285a24c2f32ca41",
     "gh_828a908398f893b1e0c6ca3d",
-    "gh_e178ee2363a4eb2ca10d3d06",
-    "gh_28a89509442cf0e8c335df8d"
+    "gh_e178ee2363a4eb2ca10d3d06"
   ],
   "items": [
+    {
+      "id": "gh_d2c11c8fc2357a8b0eef0f15",
+      "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
+      "title": "Add Canada-specific product/new-grad companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker.\n\nI noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifesciences in Mississauga, Uplifter in Toronto, Evertz in Burlington, and AlphaSense remote Canada product/data roles.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this tracker?\n\nSuggested resource links:\n\n- Product/business/student roles in Canada: https://jobs.hanzilla.co/business/\n- New-grad/junior/entry-level Canadian roles: https://jobs.hanzilla.co/new-grad/\n- About/verification: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m Hanzi, the builder of Hanzilla Jobs. It’s a free, daily-updated Canadian student/recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across business/product, tech, finance, engineering, sciences, and related fields. If external companion links do not fit this repo’s policy, totally fine to close.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker. I noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifescience...",
+      "issueState": "open",
+      "contentHash": "88a93cc3f7673785e659bbfb5654110119a14a332a69f3cc39f849aba03032c2",
+      "repository": "jobright-ai/2026-Product-Management-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad"
+      },
+      "createdAt": "2026-06-08T18:33:33Z",
+      "updatedAt": "2026-06-08T18:33:33Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad/issues/1",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_0e98dad659c3df11a1cb1cc8",
       "sourceId": "nerdzao/vagas#193",
@@ -698,37 +733,6 @@
       "createdAt": "2026-06-01T12:56:16Z",
       "updatedAt": "2026-06-01T12:56:32Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/318",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_28a89509442cf0e8c335df8d",
-      "sourceId": "tramcar/awesome-job-boards#280",
-      "title": "salam mitonam azton kam\nak begiram\n۲۸\nسلام میتونم ازتون کمک بگیرم\nsalam mitonam azton kamak begiram\n",
-      "description": "",
-      "excerpt": "salam mitonam azton kam ak begiram ۲۸ سلام میتونم ازتون کمک بگیرم salam mitonam azton kamak begiram",
-      "issueState": "open",
-      "contentHash": "fd0b625046bb44b30431a17caf5b462731a398cff922c0a76fc46cce0f324be4",
-      "repository": "tramcar/awesome-job-boards",
-      "repositoryUrl": "https://github.com/tramcar/awesome-job-boards",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "arafanm385-cpu",
-        "name": "arafanm385-cpu",
-        "handle": "arafanm385-cpu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/289154919?v=4"
-      },
-      "community": {
-        "id": "tramcar",
-        "name": "tramcar",
-        "avatarUrl": "https://github.com/tramcar.png?size=80",
-        "repository": "tramcar/awesome-job-boards",
-        "url": "https://github.com/tramcar/awesome-job-boards"
-      },
-      "createdAt": "2026-05-30T09:42:36Z",
-      "updatedAt": "2026-06-13T11:23:55Z",
-      "url": "https://github.com/tramcar/awesome-job-boards/issues/280",
       "sourceType": "github-issue"
     }
   ]
