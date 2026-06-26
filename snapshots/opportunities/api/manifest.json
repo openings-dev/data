@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-26T06:47:48.752Z",
+  "generatedAt": "2026-06-26T11:41:09.422Z",
   "schemaVersion": 3,
   "pageSize": 20,
-  "dataHash": "f2a7f0090226d203ded1dd029e123c223f70b78526dd415f874dec4c3104fd1c",
+  "dataHash": "03ecedfe357a0bebed9c4b300428347cb63352ad58a76914d88482e9bcf3e0cb",
   "totals": {
-    "openOpportunities": 727,
-    "pages": 37,
+    "openOpportunities": 751,
+    "pages": 38,
     "repositories": 108,
     "countries": 16,
     "regions": 5
@@ -105,12 +105,12 @@
       "remotejobsbr/design-ux-vagas": 14,
       "seujobtech/vagas": 10,
       "SimplifyJobs/New-Grad-Positions": 1,
-      "SimplifyJobs/Summer2026-Internships": 1,
+      "SimplifyJobs/Summer2026-Internships": 26,
       "soujava/vagas-java": 6,
       "speedyapply/2026-AI-College-Jobs": 1,
       "speedyapply/2026-SWE-College-Jobs": 5,
       "suarezafelipe/awesome-jobs-colombia": 1,
-      "summer2026internships/Summer2026-Internships": 2,
+      "summer2026internships/Summer2026-Internships": 1,
       "TADSG/jobs": 2,
       "taiwan-kotlin-user-group/jobs": 2,
       "TechnologyMasters/jobs": 19,
@@ -132,7 +132,7 @@
       "Asia": 142,
       "Europe": 9,
       "Global": 66,
-      "North America": 93,
+      "North America": 117,
       "South America": 417
     },
     "countries": {
@@ -150,7 +150,7 @@
       "Singapore": 1,
       "Spain": 1,
       "Taiwan": 94,
-      "United States": 41,
+      "United States": 65,
       "Vietnam": 33
     },
     "tags": {
@@ -241,7 +241,7 @@
       "net": 7,
       "net-core": 1,
       "new": 5,
-      "new-internship": 42,
+      "new-internship": 67,
       "new-job": 1,
       "nextjs": 3,
       "nodejs": 90,
@@ -371,7 +371,7 @@
       "DaphneWhit": 1,
       "dayanaramirez601": 1,
       "debuggingfuture": 1,
-      "DereC4": 42,
+      "DereC4": 67,
       "dg3feiko": 1,
       "didtheyghostme": 1,
       "DinamiqJobs": 1,
@@ -463,7 +463,7 @@
       "Karolinenarciso": 1,
       "kategrenadier": 2,
       "katiavidal": 1,
-      "katty2704": 2,
+      "katty2704": 1,
       "KauanyFD": 2,
       "kedoadsc": 6,
       "kerol-barros": 4,
@@ -641,6 +641,7 @@
       "ZachPlotkin": 1
     },
     "authorLabels": {
+      "DereC4": "DereC4",
       "Claudia-S-O-M": "Claudia-S-O-M",
       "pfariaoz": "pfariaoz",
       "miamare": "miamare",
@@ -669,7 +670,6 @@
       "thanhlam1405": "thanhlam1405",
       "DaphneWhit": "DaphneWhit",
       "arafanm385-cpu": "arafanm385-cpu",
-      "DereC4": "DereC4",
       "AnhQT-hitech": "AnhQT-hitech",
       "RaulFerreiraSilva": "RaulFerreiraSilva",
       "luismda": "luismda",
@@ -1169,7 +1169,12 @@
     {
       "page": 37,
       "file": "api/pages/page-0037.json",
-      "count": 7
+      "count": 20
+    },
+    {
+      "page": 38,
+      "file": "api/pages/page-0038.json",
+      "count": 11
     }
   ]
 }

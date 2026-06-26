@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-26T06:47:48.752Z",
+  "generatedAt": "2026-06-26T11:41:09.422Z",
   "schemaVersion": 2,
-  "dataHash": "1366b159a7665e05c34ccbb85f30bd3b889f85c6df4c237c4fdbf6c255549ae4",
+  "dataHash": "bafb1d0b1a7603197c5216b902d3d52d57dea539b3517a79b3d35fef8a3ff976",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2030,
+    "opportunities": 2029,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -311,6 +311,7 @@
       "api/pages/page-0035.json",
       "api/pages/page-0036.json",
       "api/pages/page-0037.json",
+      "api/pages/page-0038.json",
       "api/search-index.json"
     ]
   },
@@ -529,10 +530,10 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 124,
+      "opportunities": 123,
       "repositories": 22,
-      "openIssues": 41,
-      "closedIssues": 83,
+      "openIssues": 65,
+      "closedIssues": 58,
       "indexFile": "countries/us/index.json"
     },
     {
