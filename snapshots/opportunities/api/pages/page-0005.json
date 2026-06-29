@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-28T19:06:35.595Z",
+  "generatedAt": "2026-06-29T17:31:16.933Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_7bcd691815b883db937698fc",
+    "gh_a2bf5d8b1ac2ec634b465f35",
     "gh_83b66ce2daefa84016b71185",
     "gh_8ee64993911f93d90ce95023",
     "gh_00f43877d5ad16b13816919e",
@@ -21,11 +23,78 @@
     "gh_8ee0cb70e2cf15d8124d3868",
     "gh_9139264a96234572012d4a2f",
     "gh_f26b28f76bab57af89ba6454",
-    "gh_6fc81745cd87329e8b932bc6",
-    "gh_7b43e293d5c5ad9c4d75737e",
-    "gh_69b261f8ef52eed56e6e73ef"
+    "gh_6fc81745cd87329e8b932bc6"
   ],
   "items": [
+    {
+      "id": "gh_7bcd691815b883db937698fc",
+      "sourceId": "awesome-jobs/vietnam#4941",
+      "title": "Cartrack VN - Senior AI Engineer (Computer Vision) - HCM - FT",
+      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n\n* Open Salary\n\n## Requirements \n\n* Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing.\n* Proficient with Python, PyTorch, and a strong academic background in CS, Engineering, Mathematics, or Statistics.\n* A self-motivated engineer who prefers deep technical optimization over AI hype and enjoys collaborating in a fast-paced R&D hub.\n\n## Responsibilities \n\n* Conceptualize and develop computer vision models to model driver behavior, road detection, signal detection, in cabin characteristics, etc.\n* Provide signals based on video/image detection algorithms for other machine learning algorithms, such as road flow or traffic densities.\n* Develop signal processing models as to characterize the attributes to a time series matrix.\n* Test and put algorithms into a production ready state.\n* Constructing solution concepts from insights using familiar or unfamiliar data sources or complete or partial data.\n* Imputing the dependency between sensors and time series data.\n* Design and build machine/deep learning and optimization algorithms efficiently\n* Integrate, simulate, and test the impact of algorithms and features on the overall system\n* Develop and execute necessary analyses, simulations, etc. to validate models and identify improvement opportunities\n* Store, retrieve and visualize results in a manner that facilitates required analyses\n* Effectively conceptualize analyses to business/product stakeholders\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* We have worked on camera/ sensor related projects, but our Head has more interesting plans, I would prefer him to discuss further with you :P \n* Choose Cartrack VN if you prefer a fast-paced environment, love building robust, production-grade systems that handle massive real-world scale, and want to see your AI models directly impact global fleet safety and logistics efficiency.\n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
+      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing. *...",
+      "issueState": "open",
+      "contentHash": "6329f597e5ebb48686f736bc3b7b4f7b9084c9a9176d8e1dee3e1d0b90e045ac",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "python",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "giang-vu-2700",
+        "name": "giang-vu-2700",
+        "handle": "giang-vu-2700",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-04T10:55:16Z",
+      "updatedAt": "2026-06-04T10:57:58Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4941",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_a2bf5d8b1ac2ec634b465f35",
+      "sourceId": "jobright-ai/2026-Product-Management-Internship#2",
+      "title": "Consider adding a Canada-specific student/product jobs companion resource",
+      "description": "Hi Jobright team — thanks for maintaining this Product Management internship tracker.\n\nWould you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian student/new-grad coverage?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs – Canadian business, product-adjacent, and student jobs](https://jobs.hanzilla.co/business/) — free daily-updated Canadian student/recent-grad board covering business, product-adjacent, analyst, finance, engineering, tech, internships/co-ops, new-grad, junior, and entry-level roles. Internship-focused page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it seems relevant here:\n\n- this repo already surfaces Canada-relevant product/product-strategy roles such as Toronto/Oakville listings;\n- Hanzilla is Canada-specific and aimed at university students/recent grads, so it complements a broader global/Product Management tracker rather than replacing it;\n- the board is not CS-only: it includes business, finance, engineering, sciences, tech, internships/co-ops, new-grad, junior, and entry-level roles.\n\nFor trust/context, the project about/verification page is here: https://jobs.hanzilla.co/about/\n\nNo worries if external companion links are out of scope — just wanted to suggest it for Canadian students landing here from search.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this Product Management internship tracker. Would you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian stu...",
+      "issueState": "open",
+      "contentHash": "81aff8b9fb08757ba3e58bad9c9cf3f887bd1f39bdf761b80af334256a676134",
+      "repository": "jobright-ai/2026-Product-Management-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-Internship",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-Internship"
+      },
+      "createdAt": "2026-06-04T06:39:41Z",
+      "updatedAt": "2026-06-04T06:39:41Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_83b66ce2daefa84016b71185",
       "sourceId": "programadores-br/geral#3077",
@@ -653,72 +722,6 @@
       "createdAt": "2026-05-30T09:26:21Z",
       "updatedAt": "2026-05-30T09:26:21Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4509",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7b43e293d5c5ad9c4d75737e",
-      "sourceId": "vanshb03/Summer2026-Internships#4508",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://cpc.tsu.edu/jobs/intellilake-inc-software-engineering-intern/\n\n### Company Name\n\nIntellilake, Inc.\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nLocust Valley, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://cpc.tsu.edu/jobs/intellilake-inc-software-engineering-intern/ ### Company Name Intellilake, Inc. ### Internship Title Software Engineering Intern ### Location Locust Valley, NY #...",
-      "issueState": "open",
-      "contentHash": "d08b53dc7e8180c2445a514e7650c6cc536543dbf0c47e268f44c1acf38683e4",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-30T09:25:22Z",
-      "updatedAt": "2026-05-30T09:25:22Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4508",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_69b261f8ef52eed56e6e73ef",
-      "sourceId": "vanshb03/Summer2027-Internships#4508",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://cpc.tsu.edu/jobs/intellilake-inc-software-engineering-intern/\n\n### Company Name\n\nIntellilake, Inc.\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nLocust Valley, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://cpc.tsu.edu/jobs/intellilake-inc-software-engineering-intern/ ### Company Name Intellilake, Inc. ### Internship Title Software Engineering Intern ### Location Locust Valley, NY #...",
-      "issueState": "open",
-      "contentHash": "d08b53dc7e8180c2445a514e7650c6cc536543dbf0c47e268f44c1acf38683e4",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-05-30T09:25:22Z",
-      "updatedAt": "2026-05-30T09:25:22Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4508",
       "sourceType": "github-issue"
     }
   ]
