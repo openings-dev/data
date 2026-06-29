@@ -1,15 +1,20 @@
 {
-  "generatedAt": "2026-06-29T07:24:16.033Z",
+  "generatedAt": "2026-06-29T19:47:01.050Z",
   "country": "Taiwan",
   "countryCode": "TW",
   "region": "Asia",
   "totals": {
-    "opportunities": 159,
-    "repositories": 8,
-    "openIssues": 94,
-    "closedIssues": 65
+    "opportunities": 129,
+    "repositories": 7,
+    "openIssues": 71,
+    "closedIssues": 58
   },
-  "failedRepositories": [],
+  "failedRepositories": [
+    {
+      "repository": "nodejs-tw/jobs",
+      "error": "Unexpected response 401 while fetching nodejs-tw/jobs."
+    }
+  ],
   "byRepository": [
     {
       "repository": "EtherTW/jobs",
@@ -42,14 +47,6 @@
       "closedIssues": 0,
       "file": "countries/tw/repositories/ios-taipei-mobilejobs.json",
       "hash": "8c6217c60013dd48385c144af301dd91e5427afe684287c571f4548c1d540a4c"
-    },
-    {
-      "repository": "nodejs-tw/jobs",
-      "issues": 30,
-      "openIssues": 23,
-      "closedIssues": 7,
-      "file": "countries/tw/repositories/nodejs-tw-jobs.json",
-      "hash": "d3ce0d7957f9de1eafa33d55432969603184b50834cd15d5e00ff192d2b5db8b"
     },
     {
       "repository": "TADSG/jobs",

@@ -1,15 +1,20 @@
 {
-  "generatedAt": "2026-06-29T17:31:16.933Z",
+  "generatedAt": "2026-06-29T19:47:01.050Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "totals": {
-    "opportunities": 1183,
-    "repositories": 64,
-    "openIssues": 386,
-    "closedIssues": 797
+    "opportunities": 1153,
+    "repositories": 63,
+    "openIssues": 365,
+    "closedIssues": 788
   },
-  "failedRepositories": [],
+  "failedRepositories": [
+    {
+      "repository": "backend-br/vagas",
+      "error": "Unexpected response 401 while fetching backend-br/vagas."
+    }
+  ],
   "byRepository": [
     {
       "repository": "3Tecnos-Development/vagas",
@@ -50,14 +55,6 @@
       "closedIssues": 4,
       "file": "countries/br/repositories/azurebrasil-cloud-vagas.json",
       "hash": "0c47052f5177874fe727a2a442f61a071412b0926326f3f93c0845e3af6e07b8"
-    },
-    {
-      "repository": "backend-br/vagas",
-      "issues": 30,
-      "openIssues": 21,
-      "closedIssues": 9,
-      "file": "countries/br/repositories/backend-br-vagas.json",
-      "hash": "9baf1d88ea390ef08bf94706afcaee541887ecdd36d0727f57094d6691b1cdc2"
     },
     {
       "repository": "baixada/Vagas",
