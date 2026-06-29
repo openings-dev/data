@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T19:47:01.050Z",
+  "generatedAt": "2026-06-29T22:05:52.923Z",
   "schemaVersion": 2,
-  "dataHash": "1a11ef17fca17681c91a7944e891c5f0c80d8d0bbbc8748ee0bf9cdf9db10c54",
+  "dataHash": "a34203fc47d0324e6a3095c0353ddbc9f9a464da8d16e3aef2068dbb091e1e5d",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -11,24 +11,15 @@
     "countryCodes": []
   },
   "repositoriesRequested": 173,
-  "repositoriesScanned": 171,
+  "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 1966,
-    "uniqueRepositories": 171,
+    "opportunities": 2026,
+    "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
-    "failedRepositories": 2
+    "failedRepositories": 0
   },
-  "failedRepositories": [
-    {
-      "repository": "backend-br/vagas",
-      "error": "Unexpected response 401 while fetching backend-br/vagas."
-    },
-    {
-      "repository": "nodejs-tw/jobs",
-      "error": "Unexpected response 401 while fetching nodejs-tw/jobs."
-    }
-  ],
+  "failedRepositories": [],
   "staticApi": {
     "manifestFile": "api/manifest.json",
     "files": [
@@ -89,6 +80,7 @@
       "api/jobs/36.json",
       "api/jobs/37.json",
       "api/jobs/38.json",
+      "api/jobs/39.json",
       "api/jobs/3a.json",
       "api/jobs/3b.json",
       "api/jobs/3c.json",
@@ -318,6 +310,8 @@
       "api/pages/page-0034.json",
       "api/pages/page-0035.json",
       "api/pages/page-0036.json",
+      "api/pages/page-0037.json",
+      "api/pages/page-0038.json",
       "api/search-index.json"
     ]
   },
@@ -356,10 +350,10 @@
       "country": "Brazil",
       "countryCode": "BR",
       "region": "South America",
-      "opportunities": 1153,
-      "repositories": 63,
-      "openIssues": 365,
-      "closedIssues": 788,
+      "opportunities": 1183,
+      "repositories": 64,
+      "openIssues": 386,
+      "closedIssues": 797,
       "indexFile": "countries/br/index.json"
     },
     {
@@ -526,10 +520,10 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "region": "Asia",
-      "opportunities": 129,
-      "repositories": 7,
-      "openIssues": 71,
-      "closedIssues": 58,
+      "opportunities": 159,
+      "repositories": 8,
+      "openIssues": 94,
+      "closedIssues": 65,
       "indexFile": "countries/tw/index.json"
     },
     {
