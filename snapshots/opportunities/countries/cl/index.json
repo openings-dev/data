@@ -1,19 +1,23 @@
 {
-  "generatedAt": "2026-06-30T17:05:21.893Z",
+  "generatedAt": "2026-06-30T19:45:44.048Z",
   "country": "Chile",
   "countryCode": "CL",
   "region": "South America",
   "totals": {
-    "opportunities": 0,
-    "repositories": 0,
+    "opportunities": 1,
+    "repositories": 1,
     "openIssues": 0,
-    "closedIssues": 0
+    "closedIssues": 1
   },
-  "failedRepositories": [
+  "failedRepositories": [],
+  "byRepository": [
     {
       "repository": "cspuc/jobs",
-      "error": "Unexpected response 401 while fetching cspuc/jobs."
+      "issues": 1,
+      "openIssues": 0,
+      "closedIssues": 1,
+      "file": "countries/cl/repositories/cspuc-jobs.json",
+      "hash": "e7b046de7db25ce5a8e983492e246cdd8a88fba216b997dbcf2223aa4ebba8c4"
     }
-  ],
-  "byRepository": []
+  ]
 }

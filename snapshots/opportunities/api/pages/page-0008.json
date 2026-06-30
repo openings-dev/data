@@ -1,14 +1,9 @@
 {
-  "generatedAt": "2026-06-30T17:05:21.893Z",
+  "generatedAt": "2026-06-30T19:45:44.048Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
-    "gh_dd917afbcd6258ace2a2497e",
-    "gh_813788f80b209c371e0002ce",
-    "gh_e9830a46c598a30be9f44c7c",
-    "gh_78bd5ed6303a4f36ae15da78",
-    "gh_31d3c208b2b39f35424db09f",
     "gh_7ba652a44a8de9edef28588e",
     "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
@@ -23,192 +18,14 @@
     "gh_bacefe5602e4e742e8cdf5f9",
     "gh_f10d628b73c6638f2b5fc004",
     "gh_c6373fbb2bb5e024c192d8af",
-    "gh_3ca6bfcccb91efa2b245a1f6"
+    "gh_3ca6bfcccb91efa2b245a1f6",
+    "gh_87ff6095a89da3f020be3eb8",
+    "gh_cb3234a96bffc3e0b5521d34",
+    "gh_73e0c5d98159d349f10f4fa9",
+    "gh_3537ba57897dbc655d648955",
+    "gh_3074e9f6173315eedc1a54e6"
   ],
   "items": [
-    {
-      "id": "gh_dd917afbcd6258ace2a2497e",
-      "sourceId": "awesome-jobs/vietnam#4937",
-      "title": "[Part-time / Async] Senior Code Reviewer — Supply Chain ERP (React + Python + Postgres) · Hanoi preferred · ~5–8 hrs/week",
-      "description": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand forecasting, multi-currency P&L, FX exposure tracking, working capital, cost-per-batch, customer profitability, segregation of duties, and more.\n\nWe are developing the system in-house using AI-assisted coding and are looking for a **senior developer to serve as our ongoing technical reviewer** — not to write code, but to be our second set of eyes and catch issues before they reach production.\n\n**What you would do:**\n- Review pull requests (PRs) or code drops asynchronously (written feedback, no mandatory calls)\n- Flag security vulnerabilities, authentication gaps, and business logic errors\n- Identify AI-generated code failure patterns: missing edge cases, transaction boundary issues, weak input validation\n- Provide structured written feedback categorised by severity: Security / Correctness / Architecture / Performance\n- Occasional architecture discussion at the start of new modules\n\n**Tech stack:**\n- Frontend: React (or Vue TBD)\n- Backend: Python (FastAPI or Django) + PostgreSQL\n- Domain: ERP / supply chain / manufacturing — complex business logic, financial data, multi-currency\n\n**What we are looking for:**\n- 6+ years of hands-on commercial software development experience, ideally with enterprise or ERP-class systems\n- Comfortable reviewing AI-assisted code — knows what patterns to distrust\n- Strong written communication — can prioritise findings clearly, not just leave inline comments\n- Bonus: prior experience in manufacturing, supply chain, or fintech domains\n- Hanoi-based preferred (for occasional in-person sync if needed); fully remote also considered\n\n**Commitment:** ~5–8 hrs/week, async and flexible schedule. Ongoing retainer engagement. Starting date is from mid-June 2026\n\n**Salary:** **400,000–700,000 VND/hour** depending on experience and domain fit.\n\n**To apply:** Send a brief intro + GitHub profile or relevant past work to: **anhluong@qt-hitech.com**. We will then review them and if short-listed send a 200–300 line code sample. If the depth of feedback is right, we proceed to a retainer.",
-      "excerpt": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand fo...",
-      "issueState": "open",
-      "contentHash": "9b9b24a403c090d80340d9c05948fe504f1d3735472d75aae543cb0af3f69499",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "react",
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "AnhQT-hitech",
-        "name": "AnhQT-hitech",
-        "handle": "AnhQT-hitech",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/288850728?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-29T08:24:55Z",
-      "updatedAt": "2026-06-14T10:07:49Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_813788f80b209c371e0002ce",
-      "sourceId": "vanshb03/Summer2026-Internships#4491",
-      "title": "Suggestion: Canada-specific student jobs companion resource",
-      "description": "Hi! Small disclosure: I'm helping maintain Hanzilla Jobs.\n\nWould you be open to a small \"Canada-specific companion resource\" link near the top of the README, alongside the off-season/new-grad pointers?\n\nHanzilla Jobs is a free, daily-updated Canadian student/recent-grad job board:\n\n- Internship/co-op deep link: https://jobs.hanzilla.co/internships/\n- New-grad/junior deep link: https://jobs.hanzilla.co/new-grad/\n- About/verification page: https://jobs.hanzilla.co/about/\n\nWhy I think it may be useful for your readers: this repo is intentionally US/Canada/remote and tech-focused; Hanzilla can be a Canada-specific supplement for students who want internships/co-ops plus new-grad/junior/entry-level roles across software/data, finance, engineering, business, sciences, and other early-career fields.\n\nNo worries if you prefer to keep the README only to direct postings. If useful, I can open a one-line README PR and keep it clearly marked as a supplemental Canada resource rather than a job row.",
-      "excerpt": "Hi! Small disclosure: I'm helping maintain Hanzilla Jobs. Would you be open to a small \"Canada-specific companion resource\" link near the top of the README, alongside the off-season/new-grad pointers? Hanzilla Jobs is...",
-      "issueState": "open",
-      "contentHash": "eb49158053dc1dd67c0821d008f6848467450a828704fbf527e6532692ee3315",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "remote",
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-29T07:33:36Z",
-      "updatedAt": "2026-05-29T07:33:36Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4491",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e9830a46c598a30be9f44c7c",
-      "sourceId": "vanshb03/Summer2027-Internships#4491",
-      "title": "Suggestion: Canada-specific student jobs companion resource",
-      "description": "Hi! Small disclosure: I'm helping maintain Hanzilla Jobs.\n\nWould you be open to a small \"Canada-specific companion resource\" link near the top of the README, alongside the off-season/new-grad pointers?\n\nHanzilla Jobs is a free, daily-updated Canadian student/recent-grad job board:\n\n- Internship/co-op deep link: https://jobs.hanzilla.co/internships/\n- New-grad/junior deep link: https://jobs.hanzilla.co/new-grad/\n- About/verification page: https://jobs.hanzilla.co/about/\n\nWhy I think it may be useful for your readers: this repo is intentionally US/Canada/remote and tech-focused; Hanzilla can be a Canada-specific supplement for students who want internships/co-ops plus new-grad/junior/entry-level roles across software/data, finance, engineering, business, sciences, and other early-career fields.\n\nNo worries if you prefer to keep the README only to direct postings. If useful, I can open a one-line README PR and keep it clearly marked as a supplemental Canada resource rather than a job row.",
-      "excerpt": "Hi! Small disclosure: I'm helping maintain Hanzilla Jobs. Would you be open to a small \"Canada-specific companion resource\" link near the top of the README, alongside the off-season/new-grad pointers? Hanzilla Jobs is...",
-      "issueState": "open",
-      "contentHash": "eb49158053dc1dd67c0821d008f6848467450a828704fbf527e6532692ee3315",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "remote",
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-05-29T07:33:36Z",
-      "updatedAt": "2026-05-29T07:33:36Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4491",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_78bd5ed6303a4f36ae15da78",
-      "sourceId": "backend-br/vagas#12247",
-      "title": "[Remoto] Desenvolvedor(a) Back-end .NET — Junior/Pleno - PJ",
-      "description": "## Nossa empresa\nA StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como um centro tecnológico dos nossos parceiros — com foco total em resultados e comprometimento com os objetivos de cada cliente.\n\nNossa stack é primordialmente Microsoft, e temos expertise consolidada na integração de intranets e extranets com sistemas de ERP, CRM e outros legados. Contamos com equipes multidisciplinares que cobrem desde arquitetura de informação e design até desenvolvimento front-end (Angular, HTML5, CSS, SEO) e back-end (MVC, .NET, C#).\n\nUma carteira sólida de projetos de sucesso e muito retorno para nossos clientes é o que resume nossa trajetória: construída com trabalho, dedicação e entrega de verdade.\n\n## Descrição da vaga\nBuscamos um(a) **Desenvolvedor(a) Back-end .NET Junior/Pleno** para integrar nosso time de engenharia. Você será responsável pelo desenvolvimento e manutenção de APIs REST, modelagem de dados e evolução de sistemas — incluindo produtos modernos e legados em .NET Framework.\n\nJúnior: Esperamos uma base conceitual firme em C# e SQL, proatividade para investigar bugs, fazer perguntas essenciais e, principalmente, dedicação para acelerar a curva de aprendizado nas ferramentas que ainda não domina.\n\n## Local\n🌐 Remoto\n\n## Requisitos\n**Obrigatórios**\n- .NET Core / .NET 6 ou superior\n- Desenvolvimento de APIs REST com ASP.NET Core\n- Bancos de dados relacionais (SQL Server ou PostgreSQL)\n- Modelagem de dados e escrita de queries SQL\n- Versionamento com Git\n\n**Diferenciais**\n- .NET Framework (manutenção de sistemas legados)\n- ASP.NET MVC ou Web Forms\n- Noções de arquitetura em camadas ou Clean Architecture\n\n## Benefícios\n- Horário flexível\n\n## Contratação\n- PJ\n\n## Como se candidatar\nEnvie seu currículo com pretensão salarial para: **recrutamento@starcorp.com.br**",
-      "excerpt": "## Nossa empresa A StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como...",
-      "issueState": "open",
-      "contentHash": "98bc7bfbe97f0c7525dbc8f4a767ad31541443bf1fad73ddf9982a5e167994d4",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "sênior",
-        "júnior",
-        ".net",
-        "remoto",
-        "postgresql",
-        "sql"
-      ],
-      "author": {
-        "id": "RaulFerreiraSilva",
-        "name": "RaulFerreiraSilva",
-        "handle": "RaulFerreiraSilva",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/105366476?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-28T18:32:38Z",
-      "updatedAt": "2026-06-29T12:58:26Z",
-      "url": "https://github.com/backend-br/vagas/issues/12247",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_31d3c208b2b39f35424db09f",
-      "sourceId": "react-brasil/vagas#3011",
-      "title": "Desenvolvedor(a) Mobile iOS/Android (React Native/Expo) no Instituto Conhecimento Liberta",
-      "description": "## Descrição da vaga\n\nO Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, estabilidade e experiência do usuário.\n\nBuscamos perfis com boa autonomia, pensamento analítico e capacidade de construir soluções robustas, atuando de forma integrada com backend, produto e design.\n\n## Responsabilidades\n\n**Desenvolvimento e manutenção**\n\n- Desenvolver e manter aplicativos mobile utilizando React Native e Expo\n- Implementar experiências híbridas com WebView, criando pontes entre camadas nativa e web\n- Garantir compatibilidade e performance em iOS e Android\n- Evoluir a arquitetura dos aplicativos com foco em escalabilidade\n\n**Integrações e funcionalidades**\n\n- Integrar APIs externas e serviços de backend\n- Implementar notificações push e estratégias de engajamento\n- Desenvolver funcionalidades nativas quando necessário (câmera, geolocalização, biometria, armazenamento local)\n\n**Qualidade e publicação**\n\n- Gerenciar builds, testes e processos de publicação nas lojas\n- Monitorar crashes, performance e métricas de uso\n- Atuar em conjunto com backend e produto na definição de soluções técnicas\n\n## Requisitos\n\n**Desenvolvimento mobile**\n\n- Experiência sólida com React Native e Expo\n- Conhecimento do ciclo completo de publicação em App Store e Google Play\n- Experiência com implementação de push notifications\n- Domínio de navegação, gerenciamento de estado e consumo de APIs REST\n\n**Dados e armazenamento**\n\n- Experiência com armazenamento local e bancos de dados embarcados\n- Conhecimento em estratégias de cache e funcionamento offline\n\n**Autenticação e segurança**\n\n- Experiência com OAuth, JWT e login social (Google/Apple)\n- Boas práticas de armazenamento seguro de tokens e credenciais\n\n**Tecnologias base**\n\n- Proficiência em JavaScript e/ou TypeScript moderno\n- Familiaridade com Git e fluxos de CI/CD\n- Conhecimento em deep linking e universal links\n\n## Competências comportamentais\n\n- Autodidatismo e aprendizado contínuo\n- Proatividade na resolução de problemas\n- Boa comunicação com equipes multidisciplinares\n- Organização e autonomia para trabalho remoto\n- Adaptabilidade a novas tecnologias\n- Compromisso com prazos e entregas\n\n## Como se candidatar\n\nAcesse o link da vaga: https://editoraelivrariaconhecimentolibertaltda.pandape.infojobs.com.br/Detail?id=3155110\n\n## Labels\n\n- 🏢 Remoto",
-      "excerpt": "## Descrição da vaga O Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, e...",
-      "issueState": "open",
-      "contentHash": "955ee11ccbb1bcb5273cd87ccdeb2b01b66784d1d40ac93cd6a26753ef49a407",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto"
-      ],
-      "author": {
-        "id": "luismda",
-        "name": "luismda",
-        "handle": "luismda",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88680118?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Instituto Conhecimento Liberta",
-      "createdAt": "2026-05-28T15:21:46Z",
-      "updatedAt": "2026-05-29T18:23:53Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3011",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_7ba652a44a8de9edef28588e",
       "sourceId": "tramcar/awesome-job-boards#278",
@@ -754,6 +571,186 @@
       "createdAt": "2026-05-22T01:54:40Z",
       "updatedAt": "2026-05-22T01:54:40Z",
       "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_87ff6095a89da3f020be3eb8",
+      "sourceId": "qa-brasil/vagas#1255",
+      "title": "São Paulo QA na Act Digital| BMW",
+      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nBuscamos um profissional com forte experiência em QA e liderança técnica de testes, atuando diretamente com o Test Manager, times de desenvolvimento ETL, Reporting e Scrum Master, garantindo a qualidade das entregas e o alinhamento entre áreas globais.\n\n📝 Responsabilidades\n• Liderar e coordenar atividades de testes do projeto ARPN\n• Atuar em conjunto com Test Manager, Development Leads e Scrum Master\n• Executar testes manuais e automat\n• Apoiar processos de UAT e gerenciamento de defeitos\n• Validar fluxos de dados, ETL e reporting\n• Garantir qualidade das entregas em ambientes de Data Warehouse\n• Participar de alinhamentos com times globais e stakeholders internacionais\n\n✅ Requisitos\n• Experiência como QA\n• Experiência com testes automatizado\n• Forte conhecimento em SQL Server\n• Experiência com ETL e Reporti\n• Vivência em projetos de Data Warehousing\n• Inglês avançado para conversação (nível B2/C1 obrigatório e validado em entrevista)\n• Boa comunicação e experiência atuando com times globais\n\n Local de trabalho\n- Híbrido. 3 dias remoto e 2 dias presencial no escritório no Morumbi - SP, chacará Santo Antonio\n\nRequisitos da vaga\n\n✅ Requisitos\n• Experiência como QA\n• Experiência com testes automatizado\n• Forte conhecimento em SQL Server\n• Experiência com ETL e Reporti\n• Vivência em projetos de Data Warehousing\n• Inglês avançado para conversação (nível B2/C1 obrigatório e validado em entrevista)\n• Boa comunicação e experiência atuando com times globais\n\n**Diferenciais**\nExperiência com Snowflake\n\nForma de contratação\n\nCLT\n\nBenefícios da empresa\n\n✔️Benefícios:\n🍔Vale Refeição\n🚗Vale Mobilidade\n🏥Convênio médico\n🦷Convênio Odontológico\n🗣️Parceria com idiomas\n🏋‍♀️Total Pass\n❤️Seguro de vida\n🫵🏻Indica e ganhe\n📚Programa de estudos\n🍼Auxílio Creche\n\n## Sobre a empresa\n\nA Act Digital, em parceria com a BMW, atua em projetos globais de transformação digital e inovação tecnológica no setor automotivo.\nA oportunidade oferece atuação em um ambiente internacional, com interação constante com times globais e tecnologias modernas.\nBuscamos profissionais com perfil colaborativo, visão analítica e foco em qualidade e entrega.\nO projeto possui metodologia ágil e forte integração entre áreas técnicas e de negócio.\nÉ uma excelente oportunidade para atuar em iniciativas estratégicas dentro de uma das maiores montadoras do mundo.\n\n## Como se candidatar\nMe chama aqui no WhatsApp: 21 98294-1257\nEnviar:\n[Vaga de interesse] – Nome – E-mail – Pretensão – LinkedIn – Nível de inglês\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 4 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: nathalyn.santos@actdigital.com\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- CLT\n- Especialista\n- Presencial\n- Remoto\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n- São Paulo\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
+      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
+      "issueState": "open",
+      "contentHash": "ce9250829ab0b75a655b2fd7139e10b667d74c60eb1045ee828fc2535ffd7c98",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto",
+        "são paulo",
+        "presencial",
+        "especialista",
+        "inglês"
+      ],
+      "author": {
+        "id": "Nathalyn1811",
+        "name": "Nathalyn1811",
+        "handle": "Nathalyn1811",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/219899727?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "createdAt": "2026-05-21T11:12:53Z",
+      "updatedAt": "2026-05-21T11:13:18Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1255",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_cb3234a96bffc3e0b5521d34",
+      "sourceId": "react-brasil/vagas#3010",
+      "title": "[ ZUP- 100% remoto]  Pessoa Desenvolvedora Fullstack (React, GenAI e .NET) Sênior ou Especialista",
+      "description": "Nosso propósito é criar tecnologias que desafiam as melhores do mundo e mudam o jogo para nossos clientes. Por isso, buscamos profissionais que desejam fazer parte de uma cultura pautada pela excelência e inovação. Se você se identifica com um ambiente de trabalho colaborativo e movido por curiosidade, venha construir o futuro da tecnologia conosco.\n\n\nO que você fará por aqui\n\n• Participar ativamente de toda a jornada de concepção e desenvolvimento das soluções, desde o processo de Discovery, ajudando a identificar o problema correto a ser resolvido\n• Contribuir em refinamentos técnicos para estruturar o desenho das soluções.\n• Interagir com squads interdependentes para garantir alinhamento e integração das soluções.\n• Desenvolver camadas Frontend (React) e backend (.NET Core) conforme demanda, incluindo testes unitários para garantir qualidade e segurança.\n• Garantir configurações adequadas para processos DevOps, planejamento e acompanhamento das implantações em produção.\n• Monitorar o ambiente pós-release para assegurar estabilidade e performance.\n• Aplicar técnicas avançadas de AI, utilizando ferramentas como Python (Langchain, Langgraph), RAG, engenharia de prompt e avaliação de agentes (EVALs).\n• Trabalhar com infraestrutura AWS (DocumentDB, Lambda, ECS, S3, Redis) e ferramentas de CI/CD (Github Actions, Terraform, Docker).\n• Colaborar no desenvolvimento e integração de agentes inteligentes, com conhecimento em MCP e Go Language sendo um diferencial.\n\n\n\nO que esperamos que você saiba\n\n•  Next com React 18+\n• Conhecimento em acessibilidade (normas WCAG).\n• Design responsivo.\n• .NET Core.\n• Versionamento de código (Gitlab/Github).\n• Orientação a objetos, padrões de projeto, SOLID e Clean Code.\n• Desenvolvimento e consumo de APIs REST.\n• Qualidade de código (SonarQube, Fortify, cobertura de testes unitários).\n• Técnicas avançadas de code review.\n• Conhecimento avançado do ecossistema AWS (CodePipeline, esteiras).\n• Arquitetura em Microfront-end (Web Components, Module Federation, Single SPA).\n• Conhecimentos avançados em AWS (domínio do ecossistema, esteiras, CodePipeline).\n• Conhecimento avançado em padrões de projeto.\n• Domínio em técnicas de observability (Splunk, Grafana, Prometheus).\n• Certificações Microsoft/.NET são um diferencial importante.\n• React 18+ com TypeScript — incluindo hooks nativos e patterns de composição (useCallback, useMemo, useReducer).\n• Experiência com Next.js (App Router, SSR/SSG/ISR, bundle otimization).\n• Conhecimento de Web Components e integração com React.\n• Criação e manutenção de custom hooks com responsabilidades bem definidas.\n• Context API / gerenciamento de estado sem libs externas.\n• Testes unitários com Testing Library e E2E com Cypress (cobertura de código).\n• Conventional Commits e boas práticas de Git.\n\n Se inscreva na vaga aqui: https://job-boards.greenhouse.io/zupinnovation/jobs/7661893003\n\nO que te oferecemos\n\nAtuamos em um modelo remoto por padrão, priorizando a sua liberdade e responsabilidade. Além disso, proporcionamos:\n\nCarreira\n\nLiberdade para trabalhar de onde quiser\nHorários flexíveis\nAuxílio Educação\nFerramenta própria de desenvolvimento de carreira\nGuildas internas e grupos de estudo e interesse\nSaúde e bem-estar\n\nPlano de saúde\nPlano odontológico\nParceria na compra de medicamentos\nTelemedicina disponível 24x7\nTerapia online gratuita\nWellhub\nLicença maternidade estendida\nLicença paternidade estendida\nCAZ – Central de Atendimento a zuppers\nConforto financeiro\n\nVale-refeição e alimentação\nSeguro de vida\nVale-transporte\nAuxílio home office\nAuxílio Creche\nAuxílio plano telefônico\nParticipação em Lucros e Resultados",
+      "excerpt": "Nosso propósito é criar tecnologias que desafiam as melhores do mundo e mudam o jogo para nossos clientes. Por isso, buscamos profissionais que desejam fazer parte de uma cultura pautada pela excelência e inovação. Se...",
+      "issueState": "open",
+      "contentHash": "2fdf3eae1d5a3a3bf29850fe055ff1b33d63b0894c11ec4b120a83cc31b2e3c1",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "🏢 remoto"
+      ],
+      "author": {
+        "id": "KauanyFD",
+        "name": "KauanyFD",
+        "handle": "KauanyFD",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "createdAt": "2026-05-20T20:56:13Z",
+      "updatedAt": "2026-05-20T20:57:42Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3010",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_73e0c5d98159d349f10f4fa9",
+      "sourceId": "programadores-br/geral#3070",
+      "title": "[Remoto] Product Designer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/product-designer-133541639?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar na interseção entre pesquisa, design e produto — transformando problemas reais de usuários em experiências claras, funcionais e bem acabadas. Esta pessoa deve cobrir todo o ciclo de design: entender o problema, explorar soluções, validar hipóteses e entregar interfaces prontas para implementação.\n\nBuscamos uma pessoa com visão de produto, rigor de pesquisa e domínio de UI — que não espere o problema chegar pronto e entenda que design bem feito é design que resolve.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Conduzir pesquisas com usuários — entrevistas, testes de usabilidade, análise de comportamento — e transformar achados em decisões de produto\n    \n*   Participar ativamente de sessões de discovery junto com Produto e Engenharia, trazendo perspectiva de usuário e viabilidade de experiência\n    \n*   Criar e iterar wireframes, protótipos e fluxos de navegação com clareza de escopo e hipótese a testar\n    \n*   Validar soluções com usuários antes e depois da entrega, documentando aprendizados de forma reutilizável\n    \n*   Desenvolver e manter componentes no Design System da Arbitralis, garantindo consistência visual e coerência de padrões\n    \n*   Produzir telas em alta fidelidade prontas para handoff — com especificações claras, estados mapeados e edge cases cobertos\n    \n*   Colaborar com o time de Desenvolvimento no handoff e acompanhar a implementação para garantir fidelidade à intenção de design\n    \n*   Contribuir para a evolução dos processos de design do time, incluindo critérios de qualidade, templates e documentação\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - Figma \n- Prototipação \n- UX/UI \n-  Design de Interface (UI Design & Design System)\n## Local: \n Remota\n## Requisitos: \n - Experiência como Product Designer ou UX/UI Designer em produto digital \n- Portfólio com casos que demonstrem processo — do problema à entrega — não apenas telas finais \n- Domínio de Figma: componentes, Auto Layout, prototipação e organização de arquivos \n- Experiência com pesquisa com usuários: entrevistas, testes de usabilidade e síntese de insights \n- Familiaridade com Design Systems: uso, manutenção e evolução de componentes \n- Experiência de colaboração com times de Engenharia em handoff e acompanhamento de implementação \n- Visão de produto: Entende o problema antes de abrir o Figma — conecta decisão de design a impacto real \n- Autonomia: Conduz seu próprio ciclo de trabalho sem depender de briefing detalhado para avançar \n- Rigor sem perfeccionismo: Sabe quando iterar e quando entregar — não trava na busca pela tela perfeita \n- Colaboração: Trabalha bem com Produto, Engenharia e CS; comunica decisões de design com clareza \n- Organização: Mantém arquivos, componentes e documentação organizados e acessíveis para o time \n- Curiosidade: Busca entender o usuário de verdade — não assume, pesquisa\n## Diferenciais: \n - Experiência prévia em design de produtos com IA, agentes conversacionais ou interfaces de chat \n- Uso fluente de Figma AI, v0, Galileo ou ferramentas similares para acelerar exploração e prototipação \n- Familiaridade com legaltech, fintechs ou produtos B2B voltados a fluxos complexos e usuários não técnicos \n- Experiência com métricas de UX e análise de dados de comportamento (Hotjar, Mixpanel ou similares) \n- Histórico de contribuição para evolução de Design Systems em times de produto\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Product Designer na Arbitralis](https://coodesh.com/jobs/product-designer-133541639?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UX",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "53a8960cec32cf9c334263854505d3dccdd0a33bb94b319c4b9c24b2598e3019",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "pj"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-19T17:34:15Z",
+      "updatedAt": "2026-05-19T17:34:38Z",
+      "url": "https://github.com/programadores-br/geral/issues/3070",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3537ba57897dbc655d648955",
+      "sourceId": "programadores-br/geral#3069",
+      "title": "[Remoto] Software Engineer Sênior na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/software-engineer-senior-165419895?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar como referência técnica na evolução da arquitetura, das práticas de engenharia e da capacidade da Arbitralis de entregar software com velocidade, confiabilidade e qualidade. Esta pessoa deve navegar problemas ambíguos, quebrar complexidade em entregas incrementais e influenciar decisões técnicas com boa comunicação, critério e contexto — conectando decisões técnicas a impacto real de negócio.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Atuar como referência técnica em iniciativas de plataforma, backend e integrações\n    \n*   Trabalhar em parceria com liderança e Produto na definição de roadmap, escopo técnico e priorização trimestral\n    \n*   Transformar problemas ambíguos em soluções técnicas claras, sustentáveis e incrementais\n    \n*   Projetar, desenvolver, testar e evoluir sistemas com foco em confiabilidade, manutenção e impacto para o negócio\n    \n*   Tomar decisões de arquitetura considerando trade-offs entre velocidade de entrega, custo operacional, complexidade e dívida técnica\n    \n*   Elevar a qualidade técnica do time por meio de boas práticas, revisões de código, documentação objetiva e mentoria\n    \n*   Melhorar continuamente processos de engenharia, incluindo CI/CD, testes, observabilidade e padrões de desenvolvimento\n    \n*   Usar ferramentas de AI coding com critério para acelerar o trabalho, mantendo revisão técnica, verificação e responsabilidade sobre o resultado\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - CI/CD \n- Javascript \n- Python \n- SOLID \n- TDD \n- Typescript \n- AI Coding\n## Local: \n Remota\n## Requisitos: \n - Experiência sólida em engenharia de software \n- Profundidade em desenvolvimento backend com JavaScript, TypeScript ou Python \n- Bons conhecimentos de arquitetura de software, design de sistemas, SOLID, Clean Code e Clean Architecture \n- Experiência com testes automatizados, TDD quando fizer sentido, e pipelines de CI/CD \n- Capacidade de diagnosticar problemas, propor caminhos e executar com autonomia \n- Boa comunicação para influenciar decisões técnicas e alinhar trade-offs com Produto, Engenharia e liderança \n- Pragmatismo para equilibrar qualidade, velocidade e contexto de negócio \n- Uso fluente de ferramentas de AI coding no workflow diário, com julgamento crítico sobre quando confiar, revisar e validar outputs\n## Diferenciais: \n - Experiência construindo ou evoluindo plataformas internas, ferramentas para desenvolvedores ou sistemas de alta criticidade \n- Vivência com arquitetura orientada a eventos, filas, mensageria, APIs e sistemas distribuídos \n- Experiência com observabilidade, métricas, tracing, logs estruturados e resposta a incidentes \n- Histórico de mentoria técnica, definição de padrões de engenharia ou liderança técnica informal \n- Capacidade de atuar bem em contextos de alta ambiguidade, com autonomia e foco em resultado\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Software Engineer Sênior na Arbitralis](https://coodesh.com/jobs/software-engineer-senior-165419895?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "3ee524925d6156b2e5fbede932d8974888a992b7138d3368062de6261552b5d3",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "pj",
+        "sênior",
+        "backend"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-19T17:33:45Z",
+      "updatedAt": "2026-05-19T17:34:14Z",
+      "url": "https://github.com/programadores-br/geral/issues/3069",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3074e9f6173315eedc1a54e6",
+      "sourceId": "programadores-br/geral#3068",
+      "title": "[Remoto] Software Engineer Pleno na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/software-engineer-pleno-170727036?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar na construção e evolução de sistemas internos, APIs, integrações e componentes de plataforma com boa base técnica, energia para executar e senso de ownership. Transformar problemas bem definidos em soluções simples, testáveis e sustentáveis, participando ativamente das discussões técnicas do time.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Desenvolver, testar e manter sistemas backend, APIs, integrações e componentes de plataforma\n    \n*   Participar do refinamento técnico de iniciativas junto com Engenharia, Produto e liderança técnica\n    \n*   Quebrar problemas em entregas incrementais, com clareza sobre escopo, riscos e dependências\n    \n*   Contribuir para a qualidade do código por meio de boas práticas, testes automatizados e revisões de código\n    \n*   Apoiar a evolução de processos de engenharia, incluindo CI/CD, observabilidade, documentação e padrões de desenvolvimento\n    \n*   Diagnosticar problemas em produção ou ambientes internos, propondo correções e melhorias\n    \n*   Colaborar com pessoas mais seniores em decisões de arquitetura, entendendo trade-offs entre velocidade, dívida técnica e manutenção\n    \n*   Usar ferramentas de AI coding com critério para acelerar o trabalho, revisando, testando e validando o que for gerado\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - GIT \n- Javascript \n- Python \n- Typescript \n- CI/CD\n## Local: \n Remota\n## Requisitos: \n - Experiência em engenharia de software \n- Boa experiência em desenvolvimento backend com JavaScript, TypeScript ou Python \n- Conhecimento prático de APIs, bancos de dados, testes automatizados e boas práticas de desenvolvimento \n- Familiaridade com Git, pull requests e colaboração em times de engenharia \n- Noções de CI/CD e operação de sistemas em produção \n- Boa comunicação para alinhar escopo e antecipar riscos com Produto e liderança técnica \n- Conforto com ambiguidade e ritmo acelerado — sabe priorizar mesmo quando tudo parece urgente \n- Uso de ferramentas de AI coding no dia a dia, com julgamento crítico sobre quando revisar e validar \n- Velocidade é justiça: Entrega de forma consistente e sem depender de microgestão \n- Linguagem de gente: Comunica decisões técnicas de forma clara para Produto e liderança \n- Decisões guiadas por dados: Usa contexto e evidências para propor soluções, não achismos \n- Confiança é produto final: Entrega o que compromete, com qualidade e sem surpresas \n- Simplicidade como excelência: Evita complexidade desnecessária — o código mais simples que resolve o problema \n- Construir para durar: Escreve código testável, documentado e que o time consegue manter\n## Diferenciais: \n - Experiência com plataformas internas, ferramentas para desenvolvedores ou sistemas usados por outros times técnicos \n- Vivência com filas, mensageria, arquitetura orientada a eventos ou sistemas distribuídos \n- Experiência com Docker, cloud, infraestrutura como código ou ambientes de deploy automatizado \n- Interesse em design de sistemas, arquitetura de software e evolução de bases de código \n- Histórico de contribuição para melhoria de processos, documentação técnica ou padrões do time\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Software Engineer Pleno na Arbitralis](https://coodesh.com/jobs/software-engineer-pleno-170727036?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "2fcb51018aed76fa4a6e98b6d7f83530ef3227e4e1cdcf447bb095bb59034782",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "remoto",
+        "pj",
+        "backend"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-19T17:33:19Z",
+      "updatedAt": "2026-05-19T17:33:52Z",
+      "url": "https://github.com/programadores-br/geral/issues/3068",
       "sourceType": "github-issue"
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T17:05:21.893Z",
+  "generatedAt": "2026-06-30T19:45:44.048Z",
   "schemaVersion": 2,
-  "dataHash": "458279bc6a908b02634f2fb7e33a5ae7c23ae58173a23c85788fdb371383e708",
+  "dataHash": "ed921b91c2a9a65daa4740e72db3475aec975c716145305673299a56d9b9b0b9",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -11,20 +11,15 @@
     "countryCodes": []
   },
   "repositoriesRequested": 173,
-  "repositoriesScanned": 172,
+  "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2025,
-    "uniqueRepositories": 172,
+    "opportunities": 2027,
+    "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
-    "failedRepositories": 1
+    "failedRepositories": 0
   },
-  "failedRepositories": [
-    {
-      "repository": "cspuc/jobs",
-      "error": "Unexpected response 401 while fetching cspuc/jobs."
-    }
-  ],
+  "failedRepositories": [],
   "staticApi": {
     "manifestFile": "api/manifest.json",
     "files": [
@@ -130,7 +125,6 @@
       "api/jobs/64.json",
       "api/jobs/65.json",
       "api/jobs/66.json",
-      "api/jobs/67.json",
       "api/jobs/68.json",
       "api/jobs/69.json",
       "api/jobs/6a.json",
@@ -316,7 +310,6 @@
       "api/pages/page-0035.json",
       "api/pages/page-0036.json",
       "api/pages/page-0037.json",
-      "api/pages/page-0038.json",
       "api/search-index.json"
     ]
   },
@@ -357,8 +350,8 @@
       "region": "South America",
       "opportunities": 1183,
       "repositories": 64,
-      "openIssues": 386,
-      "closedIssues": 797,
+      "openIssues": 385,
+      "closedIssues": 798,
       "indexFile": "countries/br/index.json"
     },
     {
@@ -375,10 +368,10 @@
       "country": "Chile",
       "countryCode": "CL",
       "region": "South America",
-      "opportunities": 0,
-      "repositories": 0,
+      "opportunities": 1,
+      "repositories": 1,
       "openIssues": 0,
-      "closedIssues": 0,
+      "closedIssues": 1,
       "indexFile": "countries/cl/index.json"
     },
     {
@@ -535,10 +528,10 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 122,
+      "opportunities": 123,
       "repositories": 22,
-      "openIssues": 66,
-      "closedIssues": 56,
+      "openIssues": 55,
+      "closedIssues": 68,
       "indexFile": "countries/us/index.json"
     },
     {
