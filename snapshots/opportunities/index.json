@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T06:51:30.750Z",
+  "generatedAt": "2026-06-30T14:02:18.548Z",
   "schemaVersion": 2,
-  "dataHash": "6bf78afe9bc0845917f4deaf84609b4c820342fa2c52432028ff6e9d0ab08ad6",
+  "dataHash": "492e994a419bb9a81cbd427c5483d4a65731edbf7d24cc7aec56658913e73c8d",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -11,15 +11,20 @@
     "countryCodes": []
   },
   "repositoriesRequested": 173,
-  "repositoriesScanned": 173,
+  "repositoriesScanned": 172,
   "totals": {
-    "opportunities": 2026,
-    "uniqueRepositories": 173,
+    "opportunities": 2025,
+    "uniqueRepositories": 172,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
-    "failedRepositories": 0
+    "failedRepositories": 1
   },
-  "failedRepositories": [],
+  "failedRepositories": [
+    {
+      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
+      "error": "Unexpected response 401 while fetching zapplyjobs/New-Grad-Software-Engineering-Jobs-2026."
+    }
+  ],
   "staticApi": {
     "manifestFile": "api/manifest.json",
     "files": [
@@ -530,9 +535,9 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 122,
-      "repositories": 22,
-      "openIssues": 66,
+      "opportunities": 121,
+      "repositories": 21,
+      "openIssues": 65,
       "closedIssues": 56,
       "indexFile": "countries/us/index.json"
     },
