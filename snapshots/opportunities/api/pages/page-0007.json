@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-30T11:41:20.784Z",
+  "generatedAt": "2026-06-30T17:05:21.893Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_ffefd2d08d617a28428ae395",
     "gh_3de699040d776ac58a277bc6",
     "gh_3866cb7e4709713a12147526",
     "gh_373d378d56b4091fc4c7ea50",
@@ -22,10 +23,42 @@
     "gh_073a56429c050e1431faf846",
     "gh_711783b1e589482d26973823",
     "gh_2c6305b33aff78c3ef09ce99",
-    "gh_ae241d65a08eb0b2c7258d0c",
-    "gh_dd917afbcd6258ace2a2497e"
+    "gh_ae241d65a08eb0b2c7258d0c"
   ],
   "items": [
+    {
+      "id": "gh_ffefd2d08d617a28428ae395",
+      "sourceId": "vanshb03/Summer2027-Internships#4500",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.netapp.com/job/Morrisville-Software-Engineer-Intern-NC-27560/1394541900/?feedId=386800&tcsource=apply&p_sid=JAUJmlb&p_uid=M9YpIqcagZ&ss=paid&utm_campaign=catch_all&utm_content=pj_board&utm_medium=jobad&utm_source=RD_Programmatic&utm_campaign=catch_all&utm_content=pj_board&utm_medium=jobad&utm_source=RD_Programmatic\n\n### Company Name\n\nNetApp \n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nMorrisville, NC\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.netapp.com/job/Morrisville-Software-Engineer-Intern-NC-27560/1394541900/?feedId=386800&tcsource=apply&p_sid=JAUJmlb&p_uid=M9YpIqcagZ&ss=paid&utm_campaign=catch_all&utm_conte...",
+      "issueState": "open",
+      "contentHash": "e6d5e4c8755569912d46135354661015b88bcc021b1867b7e3a7541ca1ceb62e",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-05-30T08:23:55Z",
+      "updatedAt": "2026-05-30T08:23:55Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4500",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_3de699040d776ac58a277bc6",
       "sourceId": "vanshb03/Summer2026-Internships#4499",
@@ -662,45 +695,6 @@
       "createdAt": "2026-05-29T18:24:37Z",
       "updatedAt": "2026-05-29T18:25:11Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1256",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dd917afbcd6258ace2a2497e",
-      "sourceId": "awesome-jobs/vietnam#4937",
-      "title": "[Part-time / Async] Senior Code Reviewer — Supply Chain ERP (React + Python + Postgres) · Hanoi preferred · ~5–8 hrs/week",
-      "description": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand forecasting, multi-currency P&L, FX exposure tracking, working capital, cost-per-batch, customer profitability, segregation of duties, and more.\n\nWe are developing the system in-house using AI-assisted coding and are looking for a **senior developer to serve as our ongoing technical reviewer** — not to write code, but to be our second set of eyes and catch issues before they reach production.\n\n**What you would do:**\n- Review pull requests (PRs) or code drops asynchronously (written feedback, no mandatory calls)\n- Flag security vulnerabilities, authentication gaps, and business logic errors\n- Identify AI-generated code failure patterns: missing edge cases, transaction boundary issues, weak input validation\n- Provide structured written feedback categorised by severity: Security / Correctness / Architecture / Performance\n- Occasional architecture discussion at the start of new modules\n\n**Tech stack:**\n- Frontend: React (or Vue TBD)\n- Backend: Python (FastAPI or Django) + PostgreSQL\n- Domain: ERP / supply chain / manufacturing — complex business logic, financial data, multi-currency\n\n**What we are looking for:**\n- 6+ years of hands-on commercial software development experience, ideally with enterprise or ERP-class systems\n- Comfortable reviewing AI-assisted code — knows what patterns to distrust\n- Strong written communication — can prioritise findings clearly, not just leave inline comments\n- Bonus: prior experience in manufacturing, supply chain, or fintech domains\n- Hanoi-based preferred (for occasional in-person sync if needed); fully remote also considered\n\n**Commitment:** ~5–8 hrs/week, async and flexible schedule. Ongoing retainer engagement. Starting date is from mid-June 2026\n\n**Salary:** **400,000–700,000 VND/hour** depending on experience and domain fit.\n\n**To apply:** Send a brief intro + GitHub profile or relevant past work to: **anhluong@qt-hitech.com**. We will then review them and if short-listed send a 200–300 line code sample. If the depth of feedback is right, we proceed to a retainer.",
-      "excerpt": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand fo...",
-      "issueState": "open",
-      "contentHash": "9b9b24a403c090d80340d9c05948fe504f1d3735472d75aae543cb0af3f69499",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "react",
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "AnhQT-hitech",
-        "name": "AnhQT-hitech",
-        "handle": "AnhQT-hitech",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/288850728?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-29T08:24:55Z",
-      "updatedAt": "2026-06-14T10:07:49Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
       "sourceType": "github-issue"
     }
   ]

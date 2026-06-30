@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-30T11:41:20.784Z",
+  "generatedAt": "2026-06-30T17:05:21.893Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_dd917afbcd6258ace2a2497e",
     "gh_813788f80b209c371e0002ce",
     "gh_e9830a46c598a30be9f44c7c",
     "gh_78bd5ed6303a4f36ae15da78",
@@ -22,10 +23,48 @@
     "gh_bacefe5602e4e742e8cdf5f9",
     "gh_f10d628b73c6638f2b5fc004",
     "gh_c6373fbb2bb5e024c192d8af",
-    "gh_3ca6bfcccb91efa2b245a1f6",
-    "gh_87ff6095a89da3f020be3eb8"
+    "gh_3ca6bfcccb91efa2b245a1f6"
   ],
   "items": [
+    {
+      "id": "gh_dd917afbcd6258ace2a2497e",
+      "sourceId": "awesome-jobs/vietnam#4937",
+      "title": "[Part-time / Async] Senior Code Reviewer — Supply Chain ERP (React + Python + Postgres) · Hanoi preferred · ~5–8 hrs/week",
+      "description": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand forecasting, multi-currency P&L, FX exposure tracking, working capital, cost-per-batch, customer profitability, segregation of duties, and more.\n\nWe are developing the system in-house using AI-assisted coding and are looking for a **senior developer to serve as our ongoing technical reviewer** — not to write code, but to be our second set of eyes and catch issues before they reach production.\n\n**What you would do:**\n- Review pull requests (PRs) or code drops asynchronously (written feedback, no mandatory calls)\n- Flag security vulnerabilities, authentication gaps, and business logic errors\n- Identify AI-generated code failure patterns: missing edge cases, transaction boundary issues, weak input validation\n- Provide structured written feedback categorised by severity: Security / Correctness / Architecture / Performance\n- Occasional architecture discussion at the start of new modules\n\n**Tech stack:**\n- Frontend: React (or Vue TBD)\n- Backend: Python (FastAPI or Django) + PostgreSQL\n- Domain: ERP / supply chain / manufacturing — complex business logic, financial data, multi-currency\n\n**What we are looking for:**\n- 6+ years of hands-on commercial software development experience, ideally with enterprise or ERP-class systems\n- Comfortable reviewing AI-assisted code — knows what patterns to distrust\n- Strong written communication — can prioritise findings clearly, not just leave inline comments\n- Bonus: prior experience in manufacturing, supply chain, or fintech domains\n- Hanoi-based preferred (for occasional in-person sync if needed); fully remote also considered\n\n**Commitment:** ~5–8 hrs/week, async and flexible schedule. Ongoing retainer engagement. Starting date is from mid-June 2026\n\n**Salary:** **400,000–700,000 VND/hour** depending on experience and domain fit.\n\n**To apply:** Send a brief intro + GitHub profile or relevant past work to: **anhluong@qt-hitech.com**. We will then review them and if short-listed send a 200–300 line code sample. If the depth of feedback is right, we proceed to a retainer.",
+      "excerpt": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand fo...",
+      "issueState": "open",
+      "contentHash": "9b9b24a403c090d80340d9c05948fe504f1d3735472d75aae543cb0af3f69499",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "frontend",
+        "backend",
+        "react",
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "AnhQT-hitech",
+        "name": "AnhQT-hitech",
+        "handle": "AnhQT-hitech",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/288850728?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-05-29T08:24:55Z",
+      "updatedAt": "2026-06-14T10:07:49Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_813788f80b209c371e0002ce",
       "sourceId": "vanshb03/Summer2026-Internships#4491",
@@ -715,44 +754,6 @@
       "createdAt": "2026-05-22T01:54:40Z",
       "updatedAt": "2026-05-22T01:54:40Z",
       "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_87ff6095a89da3f020be3eb8",
-      "sourceId": "qa-brasil/vagas#1255",
-      "title": "São Paulo QA na Act Digital| BMW",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nBuscamos um profissional com forte experiência em QA e liderança técnica de testes, atuando diretamente com o Test Manager, times de desenvolvimento ETL, Reporting e Scrum Master, garantindo a qualidade das entregas e o alinhamento entre áreas globais.\n\n📝 Responsabilidades\n• Liderar e coordenar atividades de testes do projeto ARPN\n• Atuar em conjunto com Test Manager, Development Leads e Scrum Master\n• Executar testes manuais e automat\n• Apoiar processos de UAT e gerenciamento de defeitos\n• Validar fluxos de dados, ETL e reporting\n• Garantir qualidade das entregas em ambientes de Data Warehouse\n• Participar de alinhamentos com times globais e stakeholders internacionais\n\n✅ Requisitos\n• Experiência como QA\n• Experiência com testes automatizado\n• Forte conhecimento em SQL Server\n• Experiência com ETL e Reporti\n• Vivência em projetos de Data Warehousing\n• Inglês avançado para conversação (nível B2/C1 obrigatório e validado em entrevista)\n• Boa comunicação e experiência atuando com times globais\n\n Local de trabalho\n- Híbrido. 3 dias remoto e 2 dias presencial no escritório no Morumbi - SP, chacará Santo Antonio\n\nRequisitos da vaga\n\n✅ Requisitos\n• Experiência como QA\n• Experiência com testes automatizado\n• Forte conhecimento em SQL Server\n• Experiência com ETL e Reporti\n• Vivência em projetos de Data Warehousing\n• Inglês avançado para conversação (nível B2/C1 obrigatório e validado em entrevista)\n• Boa comunicação e experiência atuando com times globais\n\n**Diferenciais**\nExperiência com Snowflake\n\nForma de contratação\n\nCLT\n\nBenefícios da empresa\n\n✔️Benefícios:\n🍔Vale Refeição\n🚗Vale Mobilidade\n🏥Convênio médico\n🦷Convênio Odontológico\n🗣️Parceria com idiomas\n🏋‍♀️Total Pass\n❤️Seguro de vida\n🫵🏻Indica e ganhe\n📚Programa de estudos\n🍼Auxílio Creche\n\n## Sobre a empresa\n\nA Act Digital, em parceria com a BMW, atua em projetos globais de transformação digital e inovação tecnológica no setor automotivo.\nA oportunidade oferece atuação em um ambiente internacional, com interação constante com times globais e tecnologias modernas.\nBuscamos profissionais com perfil colaborativo, visão analítica e foco em qualidade e entrega.\nO projeto possui metodologia ágil e forte integração entre áreas técnicas e de negócio.\nÉ uma excelente oportunidade para atuar em iniciativas estratégicas dentro de uma das maiores montadoras do mundo.\n\n## Como se candidatar\nMe chama aqui no WhatsApp: 21 98294-1257\nEnviar:\n[Vaga de interesse] – Nome – E-mail – Pretensão – LinkedIn – Nível de inglês\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 4 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: nathalyn.santos@actdigital.com\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- CLT\n- Especialista\n- Presencial\n- Remoto\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n- São Paulo\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "open",
-      "contentHash": "ce9250829ab0b75a655b2fd7139e10b667d74c60eb1045ee828fc2535ffd7c98",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "são paulo",
-        "presencial",
-        "especialista",
-        "inglês"
-      ],
-      "author": {
-        "id": "Nathalyn1811",
-        "name": "Nathalyn1811",
-        "handle": "Nathalyn1811",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/219899727?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "createdAt": "2026-05-21T11:12:53Z",
-      "updatedAt": "2026-05-21T11:13:18Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1255",
       "sourceType": "github-issue"
     }
   ]

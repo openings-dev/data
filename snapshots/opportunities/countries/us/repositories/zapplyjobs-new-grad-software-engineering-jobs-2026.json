@@ -1,7 +1,17 @@
 {
   "generatedAt": "2026-06-30T17:05:21.893Z",
-  "items": {
-    "gh_d1d889fb5adb2e35b114a1e7": {
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
+  "totals": {
+    "opportunities": 1,
+    "openIssues": 1,
+    "closedIssues": 0
+  },
+  "dataHash": "c3dc198415da30b03c396788b290e0c1213102d6b51dbb304fd1fdc724062843",
+  "items": [
+    {
       "id": "gh_d1d889fb5adb2e35b114a1e7",
       "sourceId": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026#3",
       "title": "Suggestion: add Canada-specific Hanzilla Jobs resource",
@@ -33,42 +43,6 @@
       "updatedAt": "2026-06-08T08:52:45Z",
       "url": "https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/issues/3",
       "sourceType": "github-issue"
-    },
-    "gh_d193c4164f738b737229e88e": {
-      "id": "gh_d193c4164f738b737229e88e",
-      "sourceId": "MubeenMohammed/canada-2026-internships#46",
-      "title": "Issue: Feature: linkedin/JobBoard scrapper",
-      "description": "### Select a category\n\nSuggestion\n\n### Issue/Question/Closed Internship\n\nI need a Python/NodeJS script that does the following things:\n1. Scrapes LinkedIn Jobs or any other job boards for recently posted Canadian internships in that particular date.\n2. Check if that job already exists in the listings.json file\n3. Updates the listing.json file accordingly\n4. If possible, add a GitHub workflow that runs this script every day\n\nI am already in the process of writing the script. I need someone to help me. \n\nThank you in advance.",
-      "excerpt": "### Select a category Suggestion ### Issue/Question/Closed Internship I need a Python/NodeJS script that does the following things: 1. Scrapes LinkedIn Jobs or any other job boards for recently posted Canadian interns...",
-      "issueState": "open",
-      "contentHash": "0bfb4d37c0f25a6cb5a0e9adc3fa565e2402cc08501d1e2d24e04c4e0c1e00ad",
-      "repository": "MubeenMohammed/canada-2026-internships",
-      "repositoryUrl": "https://github.com/MubeenMohammed/canada-2026-internships",
-      "region": "North America",
-      "country": "Canada",
-      "tags": [
-        "enhancement",
-        "good first issue",
-        "beginner",
-        "help-wanted"
-      ],
-      "author": {
-        "id": "MubeenMohammed",
-        "name": "MubeenMohammed",
-        "handle": "MubeenMohammed",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/146858479?v=4"
-      },
-      "community": {
-        "id": "MubeenMohammed",
-        "name": "MubeenMohammed",
-        "avatarUrl": "https://github.com/MubeenMohammed.png?size=80",
-        "repository": "MubeenMohammed/canada-2026-internships",
-        "url": "https://github.com/MubeenMohammed/canada-2026-internships"
-      },
-      "createdAt": "2025-10-05T05:36:59Z",
-      "updatedAt": "2025-10-05T05:37:44Z",
-      "url": "https://github.com/MubeenMohammed/canada-2026-internships/issues/46",
-      "sourceType": "github-issue"
     }
-  }
+  ]
 }

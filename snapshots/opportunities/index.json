@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T14:02:18.548Z",
+  "generatedAt": "2026-06-30T17:05:21.893Z",
   "schemaVersion": 2,
-  "dataHash": "492e994a419bb9a81cbd427c5483d4a65731edbf7d24cc7aec56658913e73c8d",
+  "dataHash": "458279bc6a908b02634f2fb7e33a5ae7c23ae58173a23c85788fdb371383e708",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -21,8 +21,8 @@
   },
   "failedRepositories": [
     {
-      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
-      "error": "Unexpected response 401 while fetching zapplyjobs/New-Grad-Software-Engineering-Jobs-2026."
+      "repository": "cspuc/jobs",
+      "error": "Unexpected response 401 while fetching cspuc/jobs."
     }
   ],
   "staticApi": {
@@ -375,10 +375,10 @@
       "country": "Chile",
       "countryCode": "CL",
       "region": "South America",
-      "opportunities": 1,
-      "repositories": 1,
+      "opportunities": 0,
+      "repositories": 0,
       "openIssues": 0,
-      "closedIssues": 1,
+      "closedIssues": 0,
       "indexFile": "countries/cl/index.json"
     },
     {
@@ -535,9 +535,9 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 121,
-      "repositories": 21,
-      "openIssues": 65,
+      "opportunities": 122,
+      "repositories": 22,
+      "openIssues": 66,
       "closedIssues": 56,
       "indexFile": "countries/us/index.json"
     },

@@ -1,20 +1,15 @@
 {
-  "generatedAt": "2026-06-30T14:02:18.548Z",
+  "generatedAt": "2026-06-30T17:05:21.893Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "totals": {
-    "opportunities": 121,
-    "repositories": 21,
-    "openIssues": 65,
+    "opportunities": 122,
+    "repositories": 22,
+    "openIssues": 66,
     "closedIssues": 56
   },
-  "failedRepositories": [
-    {
-      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
-      "error": "Unexpected response 401 while fetching zapplyjobs/New-Grad-Software-Engineering-Jobs-2026."
-    }
-  ],
+  "failedRepositories": [],
   "byRepository": [
     {
       "repository": "ambicuity/New-Grad-Jobs",
@@ -175,6 +170,14 @@
       "closedIssues": 4,
       "file": "countries/us/repositories/zapplyjobs-new-grad-jobs-2026.json",
       "hash": "b719dcae6f2bcde27359298bf465dd62adf872e92c899f3a58e062405b58c1d8"
+    },
+    {
+      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
+      "issues": 1,
+      "openIssues": 1,
+      "closedIssues": 0,
+      "file": "countries/us/repositories/zapplyjobs-new-grad-software-engineering-jobs-2026.json",
+      "hash": "c3dc198415da30b03c396788b290e0c1213102d6b51dbb304fd1fdc724062843"
     },
     {
       "repository": "zapplyjobs/underclassmen-internships",

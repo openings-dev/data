@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T14:02:18.548Z",
+  "generatedAt": "2026-06-30T17:05:21.893Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
@@ -20,10 +20,10 @@
     "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
     "gh_0e98dad659c3df11a1cb1cc8",
+    "gh_d1d889fb5adb2e35b114a1e7",
     "gh_0031a8b45c2001c83b07118d",
     "gh_5f066bed10486c20bcb3fc70",
-    "gh_84cd180e02db9815d917bcc4",
-    "gh_3ef6e457c5ac8fbfa42301f1"
+    "gh_84cd180e02db9815d917bcc4"
   ],
   "items": [
     {
@@ -624,6 +624,39 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_d1d889fb5adb2e35b114a1e7",
+      "sourceId": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026#3",
+      "title": "Suggestion: add Canada-specific Hanzilla Jobs resource",
+      "description": "Hi! I noticed this repo is focused on 2026 entry-level software engineering roles and is primarily US-oriented.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads who are using this list but also need Canadian new-grad/junior software roles?\n\nSuggested wording if useful:\n\n```md\n- [Hanzilla Jobs — Canadian software engineering new grad/junior roles](https://jobs.hanzilla.co/categories/software-engineering/) — free daily-updated Canadian student/recent-grad jobs board covering software engineering internships, co-ops, new-grad, junior, and entry-level roles. Broader new-grad page: https://jobs.hanzilla.co/new-grad/\n```\n\nWhy it might fit:\n- Canada-specific, while this tracker is mostly US roles.\n- Student/recent-grad oriented, including new-grad, junior, internship, and co-op roles.\n- Broadly useful for Canadian students who still follow US-heavy SWE lists but need a local companion source.\n\nDisclosure: I’m Hanzi, the builder of Hanzilla Jobs. Verification/about page: https://jobs.hanzilla.co/about/ . Totally fine to close if this does not match the repo’s resource policy.",
+      "excerpt": "Hi! I noticed this repo is focused on 2026 entry-level software engineering roles and is primarily US-oriented. Would you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads...",
+      "issueState": "open",
+      "contentHash": "263c25eef5f81a2740f3edda79cd61bc2adc97ccfd4a32a8fe20bc54aafa1556",
+      "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
+      "repositoryUrl": "https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2026",
+        "url": "https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"
+      },
+      "createdAt": "2026-06-08T08:52:45Z",
+      "updatedAt": "2026-06-08T08:52:45Z",
+      "url": "https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/issues/3",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_0031a8b45c2001c83b07118d",
       "sourceId": "zapplyjobs/New-Grad-Data-Science-Jobs-2026#4",
       "title": "Suggestion: add Canada-specific data/ML new-grad jobs resource",
@@ -722,41 +755,6 @@
       "createdAt": "2026-06-05T14:28:49Z",
       "updatedAt": "2026-06-05T14:28:49Z",
       "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3ef6e457c5ac8fbfa42301f1",
-      "sourceId": "zapplyjobs/Internships-2026#15",
-      "title": "Suggestion: add Canada-specific Hanzilla Jobs internship resource",
-      "description": "Hi Zapply team — thanks for maintaining this broad internships tracker.\n\nI noticed the list is primarily U.S.-focused, but it does surface some Canada-relevant internship/co-op roles too (for example Magna roles in Ontario). Would you be open to adding a small Canada-specific companion resource for students who land here while searching from Canadian universities?\n\nSuggested Markdown:\n\n```md\n- [Hanzilla Jobs — Canadian student internships/co-ops](https://jobs.hanzilla.co/internships/) — free daily-updated board for Canadian university students and recent grads, covering internships, co-ops, new-grad, junior, and entry-level roles across tech, data/AI, finance, engineering, business, sciences, and more. See also the [about/verification page](https://jobs.hanzilla.co/about/).\n```\n\nWhy it might fit:\n- Canada-specific coverage for students who need Canadian locations / remote-Canada roles, not only U.S. listings.\n- Direct links go to company career pages; no paywall.\n- It is broader than SWE only, so it can complement your tech/software internship list without trying to replace it.\n\nDisclosure: I’m building Hanzilla Jobs. Totally okay if this is not the right fit for this repo — sharing because it may help Canadian students using the tracker.",
-      "excerpt": "Hi Zapply team — thanks for maintaining this broad internships tracker. I noticed the list is primarily U.S.-focused, but it does surface some Canada-relevant internship/co-op roles too (for example Magna roles in Ont...",
-      "issueState": "open",
-      "contentHash": "33cc7f8ef9a5b00908b71e1eb1caf4c0368031a5f4d84b004ef322b5cfd9435a",
-      "repository": "zapplyjobs/Internships-2026",
-      "repositoryUrl": "https://github.com/zapplyjobs/Internships-2026",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "remote",
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "zapplyjobs",
-        "name": "zapplyjobs",
-        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
-        "repository": "zapplyjobs/Internships-2026",
-        "url": "https://github.com/zapplyjobs/Internships-2026"
-      },
-      "createdAt": "2026-06-05T03:26:05Z",
-      "updatedAt": "2026-06-05T03:26:05Z",
-      "url": "https://github.com/zapplyjobs/Internships-2027/issues/15",
       "sourceType": "github-issue"
     }
   ]
