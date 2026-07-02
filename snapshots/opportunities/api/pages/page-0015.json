@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-01T19:42:58.114Z",
+  "generatedAt": "2026-07-02T11:28:47.645Z",
   "page": 15,
   "pageSize": 20,
   "nextPage": "api/pages/page-0016.json",
   "ids": [
+    "gh_926f3c14cae6e82e67bdbdbf",
     "gh_2dc776324a953905af46d2bf",
     "gh_26085b80562d970f087f85db",
     "gh_c1cea2402373fd5357a46ba9",
@@ -22,10 +23,51 @@
     "gh_f15763c67c8035ee167088c2",
     "gh_7f94c93b0bdd4341a646243b",
     "gh_062069a56cc5aacbb906df50",
-    "gh_b0284b782444c808bec42051",
-    "gh_b2b9a759aaef0f032f1dfbd7"
+    "gh_b0284b782444c808bec42051"
   ],
   "items": [
+    {
+      "id": "gh_926f3c14cae6e82e67bdbdbf",
+      "sourceId": "Empregos-dev/Vagas-dev#109",
+      "title": "🚀 Vaga Desenvolvedor Java 👩🏻‍💻 📍 Remoto 🚀",
+      "description": "# Desenvolvedor Java 👩🏻‍💻\n\n- 📍 Localização: Remoto\n- 📈 Nível: pleno\n- 📃 Contrato: clt\n- 💰 Salário: R$ 12.400,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\n📣 Vaga para Desenvolvedor Java em home office!\n\nCliente: Empresa Brasileira de Serviços Hospitalares.\n\n\n## Atividades e responsabilidade:\n🔧 Desenvolvimento em Java (Spring, JPA, Hibernate) e JavaScript (React, Node.js, Angular).\n📊 Trabalho com Banco de Dados (PostgreSQL, MySQL, Oracle).\n🚀 DevOps utilizando CI/CD (Jenkins, GitLab, GitHub Actions), Docker, Kubernetes, Infraestrutura como Código (Terraform, Ansible).\n🔗 Integrações com APIs REST e SOAP.\n✅ Execução de testes com JUnit, Selenium, Postman/Newman.\n📈 Controle de versão com Git, GitFlow, GitHub, GitLab.\n📋 Gestão de projetos com Redmine, Azure DevOps, metodologias ágeis (Scrum/Kanban).\n\n\n## Requisitos:\n🎓 Formação completa em TI.\n📚 Pós-graduação em TI.\n\n\n## Benefícios:\n🍴 Vale alimentação (ou refeição);\n🚗 Vale transporte;\n🚑 Plano de Saúde;\n🦷 Plano Odontológico;\n🏛 Parcerias com Instituições Educacionais e Academia.\n\n\n\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/desenvolvedor-java-4148)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
+      "excerpt": "# Desenvolvedor Java 👩🏻‍💻 - 📍 Localização: Remoto - 📈 Nível: pleno - 📃 Contrato: clt - 💰 Salário: R$ 12.400,00 - 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗 ## Descrição da vaga: 📣 Vaga para Desenvolved...",
+      "issueState": "open",
+      "contentHash": "e890e420b4754b2ce2161a83a931226722b3140ff9036bbdb03197e6e61be900",
+      "repository": "Empregos-dev/Vagas-dev",
+      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "clt",
+        "pleno",
+        "java (spring"
+      ],
+      "author": {
+        "id": "ecossistemadev",
+        "name": "ecossistemadev",
+        "handle": "ecossistemadev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
+      },
+      "community": {
+        "id": "Empregos-dev",
+        "name": "Empregos-dev",
+        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
+        "repository": "Empregos-dev/Vagas-dev",
+        "url": "https://github.com/Empregos-dev/Vagas-dev"
+      },
+      "companyName": "Empresa Brasileira de Serviços Hospitalares.",
+      "salary": {
+        "currency": "BRL",
+        "min": 12400,
+        "period": "year"
+      },
+      "createdAt": "2025-09-08T12:18:17Z",
+      "updatedAt": "2025-09-08T12:18:17Z",
+      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/109",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_2dc776324a953905af46d2bf",
       "sourceId": "awesome-jobs/vietnam#4775",
@@ -713,43 +755,6 @@
       "createdAt": "2025-07-25T17:32:58Z",
       "updatedAt": "2025-07-25T17:32:58Z",
       "url": "https://github.com/phpdevbr/vagas/issues/1314",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b2b9a759aaef0f032f1dfbd7",
-      "sourceId": "awesome-jobs/vietnam#4750",
-      "title": "Remote/Hybrid - Senior AI Engineer - Up to $4000 Gross",
-      "description": "**About the Role**\n\nWe’re looking for a Senior AI Engineer to lead the development and optimization of generative AI features across both research and production. You’ll work closely with our Head of AI to improve model quality, streamline pipelines, and launch features that reach real users. This is a high-impact role with significant ownership and autonomy.\n\n**What You’ll Do**\n\n●\tLead the development of new AI-powered features from concept to production\n●\tBuild and optimize training pipelines and inference systems\n●\tDesign and implement benchmarks to measure and improve model performance\n●\tCollaborate with researchers to bring cutting-edge models into production\n●\tMentor junior engineers and guide architectural decisions\n●\tDrive speed, scalability, and reliability across our AI systems\n\n**Requirements**\n\n●\t5+ years of experience in production ML, with a focus on computer vision or image generation\n●\tExpert-level proficiency in PyTorch and large-scale ML infrastructure\n●\tExperience with diffusion models, GANs, or modern generative architectures\n●\tProven track record optimizing models for quality, speed, and cost\n●\tStrong quantitative and benchmarking skills\n●\tBachelor’s or Master’s in CS, AI, or related field\n●\tMust be based in Vietnam + Fluent in English\n\n**Bonus Points**\n\n●\tExperience shipping AI features in creative or design tools\n●\tPublished research in top conferences (e.g., CVPR, ICCV, NeurIPS)\n●\tProven ability to translate academic research into production systems\n●\tStrong systems design and architecture experience\n\n**Contact point:**\nZalo/Whatsapp: +84 868272947\nEmail: Quynh.Thuy.Tran@navigossearch.com",
-      "excerpt": "**About the Role** We’re looking for a Senior AI Engineer to lead the development and optimization of generative AI features across both research and production. You’ll work closely with our Head of AI to improve mode...",
-      "issueState": "open",
-      "contentHash": "a2fbb6ae79fffa3a874b430e84e29ac2b312eaac10a6f977e4486b54aca1d297",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "senior",
-        "junior",
-        "design"
-      ],
-      "author": {
-        "id": "Queenietrann",
-        "name": "Queenietrann",
-        "handle": "Queenietrann",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112934563?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-07-25T11:14:00Z",
-      "updatedAt": "2026-06-02T08:22:53Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4750",
       "sourceType": "github-issue"
     }
   ]
