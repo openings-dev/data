@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-07-02T11:28:47.645Z",
+  "generatedAt": "2026-07-02T13:42:56.136Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_90494ab470094f1d5461b7d3",
+    "gh_09a7cf1a2d6ee9b6e28afa5f",
+    "gh_d3608d5cc4286d85a78d9585",
+    "gh_cb2ee2711308cdd4a5a45c69",
+    "gh_d745286de58b9dcf439338bc",
     "gh_8efe119dc847f2d5d97185b1",
     "gh_9e4baa9ba521c0732719893f",
     "gh_4ddecaa127bf972ec715444c",
@@ -18,14 +23,195 @@
     "gh_1f294cfb9e69442e629eac84",
     "gh_4859432b26bfe029fe6875e2",
     "gh_013fc51e27303cd4f39e79f4",
-    "gh_be50acb92fd1e6f15d691634",
-    "gh_0fb332b7b49d0e94685e7767",
-    "gh_d81794e5ab97bdb98979d656",
-    "gh_469899e05e436a7c83bdffae",
-    "gh_7151b2ccbb7fa087b2289ae3",
-    "gh_37768170b475463e873a3026"
+    "gh_be50acb92fd1e6f15d691634"
   ],
   "items": [
+    {
+      "id": "gh_90494ab470094f1d5461b7d3",
+      "sourceId": "DevOps-Brasil/Vagas#465",
+      "title": "[Platform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma] DevOZ OZmap - Remto",
+      "description": "### 🎯 Cargo\n\nPlatform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma\n\n### 🏢 Empresa\n\nOZmap \n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nFlorianópolis (SC)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n18.000 - 20.000 (negociável)\n\n### 📋 Descrição da Vaga\n\nSe você constrói a base da plataforma e não apenas opera a que já existe, gosta de entender o que acontece por baixo da abstração e é a pessoa que assume os problemas que ninguém mais resolve em produção, essa vaga é para você.\n\nPara você entender nosso contexto: nossa stack roda em AWS EC2 com componentes autogerenciados: não é uma operação Kubernetes gerenciada. O dia a dia é operar a primitiva: Linux, redes, proxy reverso, observabilidade open-source. Se a sua experiência é mais na camada de configuração de serviços gerenciados, sem ter operado o que está por baixo, talvez não seja o encaixe mais aderente neste momento e isso não diz nada sobre o seu valor como profissional.\n\nSobre a Ozmap 💚\n\nSomos uma empresa de tecnologia especializada em planejamento, gestão e documentação de redes de telecomunicações. Nossa plataforma ajuda provedores de internet e operadores de telecom a projetar, expandir e operar suas redes, o que significa que confiabilidade não é abstrata aqui: quando algo cai, redes reais de clientes reais sentem. Estamos em crescimento, com atuação internacional e desafios constantes de escala, criticidade e evolução de produto.\n\nProblemas, aqui, não são ignorados nem empurrados para frente: são discutidos, investigados e transformados em melhoria concreta. Nossa cultura é autonomia, senso de dono, comunicação transparente e aprendizado contínuo.\n\n🚀 O Que Você Vai Encontrar Por Aqui\n\nEspaço para atuar de forma estratégica e prática: construir observabilidade do zero, evoluir a entrega contínua, conduzir as investigações complexas de produção e influenciar tecnicamente os times de desenvolvimento. Mais do que manter ambientes, queremos quem ajude a definir os próximos passos da nossa engenharia.\n\n🚩 O que você vai fazer\n\nProjetar, operar e evoluir ambientes AWS (EC2) e on-premises com containers (Docker), garantindo disponibilidade, segurança e escalabilidade;\nOperar e administrar ambientes Linux em produção (systemd, tuning de kernel/rede, I/O, troubleshooting de processo);\nConstruir e evoluir pipelines de CI/CD do zero, com gates de qualidade e segurança;\nDesenvolver observabilidade ponta a ponta (instrumentação, exporters, PromQL, SLI/SLO, alertas);\nConduzir troubleshooting avançado, RCA e post-mortem blameless — com mudança estrutural depois, não só o relatório;\nImplementar automação via Infraestrutura como Código;\nAnalisar e otimizar custos em cloud: rightsizing, análise de uso e proposta de alternativas com dados.\nSer referência técnica para devs e engenheiros, influenciando arquitetura sem depender de autoridade formal.\n\n### ✅ Requisitos Técnicos\n\n```markdown\n🔍 O que esperamos de você:\n\nO que define o nível desta vaga é profundidade + protagonismo. Buscamos quem construiu do zero, definiu a arquitetura, liderou tecnicamente, foi responsável por, resolveu o incidente que ninguém resolvia. Menos sobre ter feito parte de times que fizeram isso, e mais sobre o que você conduziu na linha de frente. A senioridade será avaliada pela complexidade do que você resolveu e pela responsabilidade que assumiu, comprovada por história concreta de mão na massa, mais do que por uma lista de ferramentas.\n\nObrigatório: experiência operando a primitiva em produção:\n\n AWS (~4+ anos): EC2, VPC/redes, IAM e segurança: EC2, VPC/redes, IAM e segurança — operação e decisão técnica em produção; certificação é bem-vinda, mas, sozinha, não substitui essa vivência;\nLinux e redes (~4+ anos): administração de servidores, troubleshooting em produção — disco cheio, OOM killer, diagnóstico de rede. Processos, memória e I/O;\nCI/CD construído do zero (~3+ anos): pipelines criados e evoluídos por você (GitHub Actions, Jenkins, runners self-hosted, secrets, cache, gates) ;\nObservabilidade open-source ponta a ponta (~2+ anos): Prometheus, Grafana, Loki, VictoriaMetrics ou equivalentes — configurados e mantidos por você, não só utilizados.\nOpenTelemetry — com instrumentação, exporters, PromQL e definição de SLI/SLO;\nOperação sob a camada gerenciada: histórico concreto com nginx/HAProxy/Envoy, Linux por baixo, e resolução de incidentes críticos que você conduziu.\nDocker: Docker em produção (~3+ anos): operação real de containers em ambientes críticos — volumes, redes, recursos, encerramento controlado de serviços.\n\nPerfil\n\nAutonomia alta: recebe um problema ambíguo (\"nossa observabilidade está fraca\") e entrega ponta a ponta;\nOwnership e proatividade : enxerga o problema antes de virar incidente;\nComunicação clara e influência técnica, conectando times de desenvolvimento, infraestrutura e negócio. Conduz post-mortems orientados à causa raiz, aprendizado organizacional e melhoria contínua, sem cultura de culpabilização.;\nMaturidade para se autogerir em remoto.\n\nNosso processo\n\nCandidatura → Entrevista técnica assistida por IA (~35 min) → Conversa com o time de People → Entrevista com o Diretor da área → Bar Raiser → Carta oferta\n```\n\n### 🎁 Benefícios\n\n🎁 O Que Oferecemos Para Você\n\n💻 Auxílio Equipamento - pra garantir uma estrutura de trabalho confortável;\n💚 Incentivo à saúde - porque seu bem-estar importa;\n📚 Incentivo aos estudos - apoiamos sua jornada de desenvolvimento contínuo;\n🎂 Presente de aniversário - porque gostamos de comemorar juntos;\n🏅 Reconhecimento por tempo de casa - sua história aqui é valorizada;\n🗣️ Incentivo a idiomas - para você ir além das fronteiras;\n🏋️ TotalPass (uso exclusivo do colaborador);\n🌴 Recesso remunerado após 12 meses de contrato;\n🎉 Eventos online de integração e confraternizações.\n\n### 🛠️ Stack/Tecnologias\n\nCloud: AWS — EC2, VPC/redes, IAM e segurança (camada de primitiva, não só serviço gerenciado).\nSistema e redes: Linux + redes — administração de servidor, troubleshooting real (disco, OOM, I/O, diagnóstico de rede).\nContainers: Docker em produção — volumes, redes, recursos, encerramento controlado.\nCI/CD: GitHub Actions, Jenkins, runners self-hosted (secrets, cache, gates).\nObservabilidade: Prometheus, Grafana, Loki, VictoriaMetrics + OpenTelemetry, PromQL, SLI/SLO.\nProxy / load balancing: nginx, HAProxy, Envoy (operação sob a camada gerenciada).\n\n### 📧 Como se Candidatar\n\nCandidate se pelo link: https://jobs.quickin.io/ozmap/jobs/6a30025db5ba9a0013b3f162?src=LinkedIn%20Limited%20Listings\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://jobs.quickin.io/ozmap/jobs/6a30025db5ba9a0013b3f162?src=LinkedIn%20Limited%20Listings\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Platform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma ### 🏢 Empresa OZmap ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Florianópoli...",
+      "issueState": "open",
+      "contentHash": "62862d3c90cf0b6d473f10e75ee448127237729cd9b5a137478af9b070e0dcb0",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "devops",
+        "sre",
+        "platform",
+        "infra",
+        "security",
+        "aws"
+      ],
+      "author": {
+        "id": "pfariaoz",
+        "name": "pfariaoz",
+        "handle": "pfariaoz",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/296626513?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "createdAt": "2026-06-24T19:14:32Z",
+      "updatedAt": "2026-06-24T19:15:32Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/465",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_09a7cf1a2d6ee9b6e28afa5f",
+      "sourceId": "backend-br/vagas#12293",
+      "title": "[Remoto] Full-Stack Sênior - Igma",
+      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n## Descrição da vaga\n\n**O que buscamos?**\n\nEstamos em busca de uma Pessoa Desenvolvedora Full-Stack para se juntar ao nosso Chapter de desenvolvimento, fortalecer o time de projetos e criar produtos digitais para as maiores empresas do Brasil.\n\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Na Igma, você será responsável por:**\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\n## Local\n\n100% remoto\n\n## Requisitos\n- Experiência comprovada de ao menos 4 anos com desenvolvimento full-stack.\n- Experiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\n- Experiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\n- Conhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\n- Experiência com integração de APIs REST e/ou GraphQL.\n- Conhecimento em bancos de dados relacionais e não relacionais.\n- Controle de versão com Git.\n- Boas práticas de testes automatizados (unitários e integração).\n- Familiaridade com pipelines de CI/CD.\n- Conhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n## Benefícios\n\n- Trabalho 100% remoto\n- Plano de Saúde e Odontológica\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos \n- PJ - 30 dias de férias remuneradas\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/igma/jobs/69fdf8136a49d7001314045c?src=LinkedIn%20Limited%20Listings\n\n\n### Nível\n- Sênior\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto\n- Híbrido\n- Presencial",
+      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico d...",
+      "issueState": "open",
+      "contentHash": "1e33f6d36d3fd49ee765e22d6ce2c3cf76f81b33306ff1c86b20a370c566bc2b",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "node.js",
+        "remoto",
+        "presencial",
+        "testes automatizados",
+        "git",
+        "híbrido"
+      ],
+      "author": {
+        "id": "miamare",
+        "name": "miamare",
+        "handle": "miamare",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/250178410?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-06-24T15:17:24Z",
+      "updatedAt": "2026-06-24T15:17:41Z",
+      "url": "https://github.com/backend-br/vagas/issues/12293",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d3608d5cc4286d85a78d9585",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9581",
+      "title": "New Feature Request: Internship Filter By Region",
+      "description": "### Improvement\n\nAs an international student i want to see internship roles available in different regions of the world. In the current state i have to scroll all the us internships to see if there is internship from Europe.",
+      "excerpt": "### Improvement As an international student i want to see internship roles available in different regions of the world. In the current state i have to scroll all the us internships to see if there is internship from E...",
+      "issueState": "open",
+      "contentHash": "3b362e1b9b830d2f309cf8a01835acab9b3ffd33c9a667912a6bccb334f8932b",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "AbrhamYishak",
+        "name": "AbrhamYishak",
+        "handle": "AbrhamYishak",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/136889996?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-24T08:17:43Z",
+      "updatedAt": "2026-06-24T08:17:43Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9581",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_cb2ee2711308cdd4a5a45c69",
+      "sourceId": "backend-br/vagas#12292",
+      "title": "[Remoto] Developer ASP.NET/C# Junior/Pleno - Dimensa",
+      "description": "## Nossa empresa\nA Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.\n\nTodas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟\n\n## Descrição da vaga\n**DESAFIO**\nParticipar do desenvolvimento e manutenção de aplicações web utilizando ASP.NET, C#, JavaScript, e outras tecnologias relacionadas.\nImplementar e otimizar soluções utilizando HTML, CSS, Bootstrap, e JSon, garantindo alta performance e usabilidade.\nDesenvolver e manter banco de dados SQL Server, incluindo a criação e otimização de triggers, stored procedures e aplicação de regras de normalização.\nIntegrar e consumir WebServices (SOAP e REST) nas aplicações desenvolvidas.\nControlar as mudanças no desenvolvimento de software para assegurar a estabilidade e evolução contínua dos projetos.\nIdentificar e corrigir problemas no código, bem como propor melhorias e oportunidades de refatoração para manter a qualidade do software.\nColaborar com equipes multifuncionais para garantir que as soluções atendam aos requisitos de negócios e qualidade.\n\n## Local\nRemoto.\n\n## Requisitos\n\n**O que você precisa ter:**\n\n- Ensino superior completo ou em andamento em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas. \n- Entendimento de processos de desenvolvimento, qualidade e maturidade de software.\n- Experiência e conhecimento em Linguagem de programação: domínio de aplicação e entendimento de sintaxe e desempenho de linguagens como ASP.NET C#, Java script, Json, Bootstrap \n- Experiência com WEB JS/Jquery/Ajax, Webforms, Bootstrap, HTML, JSon e CSS, SQL Server, incluindo normalização, triggers, e stored procedures. \n- Conhecimento em SOAP e REST. \n- Habilidade analítica para detectar problemas e propor soluções eficazes. \n- Proatividade e boa comunicação para colaborar com diferentes equipes.\n\n## Benefícios\n🍽️ Auxílio Alimentação: para você escolher suas refeições com liberdade.\n👶Auxílio Creche: Para ajudar nas despesas dos pequenos.\n👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.\n🏥 Assistência Médica SulAmérica: Cuidado completo para você e sua família.\n🛡️ Seguro de Vida e Funeral: Proteção garantida.\n🏡 Auxílio Home Office: Apoio financeiro para montar e manter seu espaço de trabalho em casa, com conforto e eficiência.\n💊 Descontos em Farmácias: Economize com o Univers.\n🎉 Day Off: Dia de folga no mês do seu aniversário para celebrar em grande estilo!\n\n## Contratação\nCLT.\n\n## Como se candidatar\nCurtiu o desafio e quer fazer parte do nosso time?\n\nPara se candidatar, basta enviar o seu currículo atualizado para o e-mail:\n📧 kerolayne.fbarros@dimensa.com.br\n\nDica: Coloque no assunto do e-mail: **Vaga ASP .NET** para localizarmos sua mensagem mais rápido!\n\n### Nível\n- Junior/Pleno\n\n### Regime\n- CLT\n\n### Alocação\n- Remoto",
+      "excerpt": "## Nossa empresa A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para ...",
+      "issueState": "open",
+      "contentHash": "7c73bd2f6856ab904523ac70af517ad5f81b668a26b398910a866c84b265ead5",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "javascript",
+        ".net",
+        "java",
+        "remoto",
+        "sql",
+        "asp"
+      ],
+      "author": {
+        "id": "kerol-barros",
+        "name": "kerol-barros",
+        "handle": "kerol-barros",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110194786?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-06-23T19:07:13Z",
+      "updatedAt": "2026-07-01T12:30:20Z",
+      "url": "https://github.com/backend-br/vagas/issues/12292",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d745286de58b9dcf439338bc",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2930",
+      "title": "Project vNext Software Engineer I",
+      "description": "### Link to Job Posting\n\nhttps://www.projectvnext.com/software-engineer\n\n### Company Name\n\nProject vNext\n\n### Job Title\n\nSoftware Engineer\n\n### Location\n\nRemote (USA)\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nderek.rushing@projectvnext.com\n\n### Extra Notes (Optional)\n\nProject vNext builds software for both internal products and external clients, with a primary focus on financial technology.\n\nWe're a small team that values ownership, pragmatism, discipline, and execution. We care more about an engineer's ability to learn, solve problems, and consistently deliver quality work than whether they've worked with a specific framework or technology before.",
+      "excerpt": "### Link to Job Posting https://www.projectvnext.com/software-engineer ### Company Name Project vNext ### Job Title Software Engineer ### Location Remote (USA) ### What category does this job belong to? Software Engin...",
+      "issueState": "open",
+      "contentHash": "bf93b3d2f9accd21f8078ff08b5a344d3802954b063078100e70e8558c4ec371",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "drush211",
+        "name": "drush211",
+        "handle": "drush211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20804720?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-06-22T17:14:23Z",
+      "updatedAt": "2026-06-22T17:14:23Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2930",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8efe119dc847f2d5d97185b1",
       "sourceId": "programadores-br/geral#3083",
@@ -591,197 +777,6 @@
       "createdAt": "2026-06-17T04:03:45Z",
       "updatedAt": "2026-06-17T04:05:07Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4947",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0fb332b7b49d0e94685e7767",
-      "sourceId": "Gommunity/vagas#268",
-      "title": "[Full Remoto] Desenvolvedor(a) Go Pleno/Sênior | Kubernetes, GCP e Microserviços no @atados",
-      "description": "# Desenvolvedor(a) Backend Go Pleno/Sênior | Kubernetes, GCP e Microserviços\n\nEstamos em busca de uma pessoa **Desenvolvedora Backend Go Pleno/Sênior** para atuar em nossa ONG, contribuindo com soluções tecnológicas que apoiam projetos de **impacto social**.\n\nProcuramos alguém com boa experiência em **Go**, **arquitetura de microsserviços**, **Kubernetes**, **cloud**, **CI/CD** e construção de aplicações escaláveis, seguras e bem testadas.\n\nAqui, você terá a oportunidade de trabalhar em uma plataforma real, com desafios técnicos relevantes, impacto direto na sociedade e espaço para contribuir com decisões de arquitetura, boas práticas e evolução da nossa infraestrutura.\n\n---\n\n## Sobre a atuação\n\nVocê fará parte do time de tecnologia responsável por evoluir a plataforma da organização, trabalhando principalmente no backend e em serviços distribuídos.\n\nA pessoa ideal para essa vaga gosta de escrever código bem estruturado, entende a importância de testes, se preocupa com observabilidade, segurança e performance, e tem interesse em atuar também em discussões de arquitetura e infraestrutura.\n\n---\n\n## Responsabilidades\n\n* Desenvolver, manter e evoluir serviços backend utilizando **Go**;\n* Atuar na construção e melhoria de arquiteturas baseadas em **microsserviços**;\n* Criar soluções escaláveis, performáticas, seguras e de fácil manutenção;\n* Trabalhar com aplicações conteinerizadas utilizando **Docker** e **Kubernetes**;\n* Apoiar a evolução dos ambientes em **cloud**, especialmente **GCP**;\n* Contribuir com pipelines de **CI/CD** e boas práticas de deploy;\n* Escrever e manter **testes unitários** para garantir qualidade e confiabilidade;\n* Participar de discussões técnicas, revisão de código e definição de padrões;\n* Apoiar o time na tomada de decisões técnicas e na melhoria contínua da arquitetura;\n* Colaborar com outras áreas para transformar necessidades do negócio em soluções técnicas.\n\n---\n\n## Requisitos\n\n* Experiência sólida com desenvolvimento backend utilizando **Go / Golang**;\n* Experiência com arquitetura de **microsserviços**;\n* Experiência com **Kubernetes**;\n* Experiência com **Docker**;\n* Conhecimento em **cloud**, preferencialmente **Google Cloud Platform — GCP**;\n* Experiência com **Git**;\n* Experiência com pipelines de **CI/CD**;\n* Prática com **testes unitários**;\n* Boa capacidade de análise e resolução de problemas;\n* Boa comunicação e colaboração em equipe;\n* Interesse em construir soluções com qualidade, segurança e impacto real.\n\n---\n\n## Diferenciais\n\n* Experiência com filas, mensageria ou arquitetura orientada a eventos;\n* Conhecimento em observabilidade: logs, métricas, tracing e alertas;\n* Experiência com ambientes ágeis;\n* Experiência com revisão de código e definição de boas práticas;\n* Interesse em uso de **IA como apoio ao desenvolvimento**;\n* Experiência em liderança técnica ou mentoria de outros devs;\n* Interesse em trabalhar com tecnologia aplicada a impacto social.\n\n---\n\n## Stack e tecnologias\n\nAlgumas das tecnologias que fazem parte do nosso dia a dia:\n\n* **Go / Golang**\n* **Kubernetes**\n* **Docker**\n* **GCP**\n* **GitHub Actions**\n* **Microsserviços**\n* **CI/CD**\n* **Testes automatizados**\n* **Observabilidade**\n* **Arquitetura distribuída**\n\n---\n\n## O que você vai encontrar\n\n* Um ambiente com desafios reais de backend, infraestrutura e arquitetura;\n* Espaço para propor melhorias técnicas;\n* Uma plataforma com impacto social direto;\n* Um time colaborativo e aberto a boas práticas;\n* Oportunidade de trabalhar com microsserviços, cloud e Kubernetes;\n* Autonomia para contribuir com decisões técnicas importantes.\n\n---\n\n## Por que essa vaga pode ser interessante para você?\n\nEssa é uma oportunidade para quem quer atuar além do código.\n\nBuscamos uma pessoa que queira contribuir com arquitetura, qualidade, infraestrutura, segurança e evolução técnica de uma plataforma usada para conectar pessoas, organizações e iniciativas de impacto social.\n\nSe você gosta de **Go**, **Kubernetes**, **cloud**, **microsserviços** e quer aplicar tecnologia em um contexto com propósito, essa vaga pode fazer sentido para você.\n\n---\n\n## Como se candidatar\n\nEnvie seu [cv aqui.](https://forms.clickup.com/8401889/f/80cz1-113113/GLMM4VIBA916S0FRIZ)\nObs: Modelo de contratação PJ\n\nTambém será muito bem-vindo compartilhar projetos, repositórios, artigos, contribuições open source ou exemplos de desafios técnicos nos quais você atuou.",
-      "excerpt": "# Desenvolvedor(a) Backend Go Pleno/Sênior | Kubernetes, GCP e Microserviços Estamos em busca de uma pessoa **Desenvolvedora Backend Go Pleno/Sênior** para atuar em nossa ONG, contribuindo com soluções tecnológicas qu...",
-      "issueState": "open",
-      "contentHash": "adb659573c138b3572b28028fd565c79457abd735781489caf1c98537f3d91a1",
-      "repository": "Gommunity/vagas",
-      "repositoryUrl": "https://github.com/Gommunity/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "golang",
-        "pleno",
-        "principal",
-        "data"
-      ],
-      "author": {
-        "id": "JosiasFurtado",
-        "name": "JosiasFurtado",
-        "handle": "JosiasFurtado",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53015921?v=4"
-      },
-      "community": {
-        "id": "Gommunity",
-        "name": "Gommunity",
-        "avatarUrl": "https://github.com/Gommunity.png?size=80",
-        "repository": "Gommunity/vagas",
-        "url": "https://github.com/Gommunity/vagas"
-      },
-      "createdAt": "2026-06-16T19:52:40Z",
-      "updatedAt": "2026-06-16T19:53:37Z",
-      "url": "https://github.com/Gommunity/vagas/issues/268",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d81794e5ab97bdb98979d656",
-      "sourceId": "backend-br/vagas#12285",
-      "title": "[Predominante Remoto] Arquiteto(a) .NET - Dimensa",
-      "description": "## Nossa empresa\nA Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.\n\nTodas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟\n\n## Descrição da vaga\n\nGarantir a evolução contínua da arquitetura de TI da Dimensa, atuando de forma transversal nas BUs para padronizar tecnologias, impulsionar inovação e assegurar que os produtos atendam a requisitos de escalabilidade, elasticidade, segurança, performance e time-to-market. O arquiteto será responsável por criar frameworks, acelerar a produtividade, viabilizar novos produtos voltados a Dados e IA, apoiar os times de desenvolvimento e infraestrutura, promover a evolução tecnológica, apoiar a operação de sistemas críticos e representar a arquitetura nas frentes corporativas e junto aos clientes, alinhados à estratégia da arquitetura corporativa.\n\n## Local\n\nPredominante Remoto (idas ao escritório 1x a 2x por mês).\n\n## Requisitos\n\n**O que você precisa ter:**\nArquitetura de Software moderna (microservices, event-driven, hexagonal, Domain-Driven Design, Dados e IA).\nTer capacidade de aprender qualquer tecnologia de Frameworks e linguagens diversas. Ex: .NET, Java, Node.js, Python, PHP, etc\nTer capacidade de aprender Cloud & DevOps. Ex: AWS, Azure ou GCP; Docker, Kubernetes, Terraform, CI/CD (GitLab/GitHub Actions).\nTer capacidade de aprender qualquer tipo de banco de dados. Ex: SQL Server, PostgreSQL, Oracle, além de NoSQL (MongoDB, Redis), etc.\nTer capacidade de aprender Observabilidade & Resiliência: Prometheus/Grafana, Elastic Stack, OpenTelemetry, Circuit Breakers.\nTer capacidade de avaliar Segurança. Ex: OWASP Top 10, OAuth2/OIDC, mTLS, gestão de secrets, compliance (LGPD/PCI-DSS).\nTer capacidade de utilizar as Metodologias: SCRUM/Kanban, Lean, ITIL, SRE, FinOps básico.\nFerramentas de documentação: ADR tools, C4 Model, ArchiMate, Confluence, [draw.io](http://draw.io/).\n\n## Benefícios\n🍽️ Vale Refeição/Vale Alimentação (flexível)\n🏥 Assistência Médica\n🦷 Assistência Odontológica\n⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.\n🛡️Seguro de Vida: Segurança para você e quem você ama.\n👧 👦Auxílio Creche: Para ajudar nas despesas dos pequenos\n👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.\n💹 Previdência Privada: Planeje o futuro com segurança.\n💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.\n🏡 Fretado das estações Barra Funda e Santana\n💪 Gympass: Acesso a academias e atividades físicas para manter a saúde em dia.\n😊 Reset Day: 1 dia OFF por ano para aproveitar da melhor forma.\n\n## Contratação\nCLT.\n\n## Como se candidatar\nCurtiu o desafio e quer fazer parte do nosso time?\n\nPara se candidatar, basta enviar o seu currículo atualizado para o e-mail:\n📧 kerolayne.fbarros@dimensa.com.br\n\nDica: Coloque no assunto do e-mail: **Vaga Arquiteto(a) .NET** para localizarmos sua mensagem mais rápido!\n\n### Nível\n- Especialista\n\n### Regime\n- CLT\n\n### Alocação\n- Predominante Remoto",
-      "excerpt": "## Nossa empresa A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para ...",
-      "issueState": "open",
-      "contentHash": "b841e06e43d67838934d34109396eaa38bf88cae76690896d01f9044478bee86",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "php",
-        "python",
-        "node.js",
-        "java",
-        "remoto",
-        "especialista",
-        "aws"
-      ],
-      "author": {
-        "id": "kerol-barros",
-        "name": "kerol-barros",
-        "handle": "kerol-barros",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110194786?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-06-16T18:42:27Z",
-      "updatedAt": "2026-06-16T18:42:55Z",
-      "url": "https://github.com/backend-br/vagas/issues/12285",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_469899e05e436a7c83bdffae",
-      "sourceId": "backend-br/vagas#12284",
-      "title": "[Predominante Remoto] Especialista Java & AI - Dimensa",
-      "description": "## Nossa empresa\nA Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.\n\nTodas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟\n\n## Descrição da vaga\n\nAtuar como referência técnica no desenvolvimento de sistemas corporativos, projetando e implementando soluções de software robustas, escaláveis e de alta qualidade. Este profissional será responsável por liderar tecnicamente o ciclo de vida do desenvolvimento, aplicando boas práticas de engenharia de software, princípios de design orientado a objetos e técnicas modernas de system design, além de incorporar ferramentas e práticas de Inteligência Artificial no processo de desenvolvimento para acelerar entregas, elevar a qualidade do código e potencializar a produtividade da squad.\n\n## Local\nPredominante Remoto (idas ao escritório 1x a 2x por mês).\n\n## Requisitos\n\n**O que você precisa ter:**\n· Mínimo de 5 anos de experiência em desenvolvimento de sistemas, atuando em posições de especialista, sênior ou similares.\n· Domínio de Java 17 ou superior, com sólido conhecimento das features modernas da linguagem.\n· Experiência avançada com o ecossistema Spring, especialmente Spring Boot, Spring MVC, Spring Data JPA e Spring Security, incluindo construção de APIs REST.\n· Experiência com desenvolvimento front-end em Angular, TypeScript e noções de HTML5, CSS3 e responsividade.\n· Aplicação consistente dos princípios SOLID, Clean Code, Clean Architecture e padrões de projeto (GoF) em projetos reais.\n· Experiência prática com system design: modelagem de soluções escaláveis, definição de arquiteturas (monolíticas, distribuídas, orientadas a eventos), trade-offs de performance, consistência e disponibilidade.\n· Conhecimento de bancos de dados relacionais (PostgreSQL, Oracle, SQL Server ou MySQL) e familiaridade com bancos NoSQL (MongoDB, Redis).\n· Vivência com ferramentas de versionamento (Git, GitLab), CI/CD (Jenkins) e contêineres (Docker), além de conceitos de DevOps.\n· Experiência hands-on com desenvolvimento assistido por IA, utilizando ferramentas como GitHub Copilot, Claude Code, Cursor ou similares como parte do fluxo de trabalho diário, com discernimento crítico sobre as sugestões geradas.\n\n## Benefícios\n🍽️ Vale Refeição/Vale Alimentação (flexível)\n🏥 Assistência Médica\n🦷 Assistência Odontológica\n⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.\n🛡️Seguro de Vida: Segurança para você e quem você ama.\n👧 👦Auxílio Creche: Para ajudar nas despesas dos pequenos\n👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.\n💹 Previdência Privada: Planeje o futuro com segurança.\n💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.\n🏡 Fretado das estações Barra Funda e Santana\n💪 Gympass: Acesso a academias e atividades físicas para manter a saúde em dia.\n😊 Reset Day: 1 dia OFF por ano para aproveitar da melhor forma.\n\n## Contratação\nCLT.\n\n## Como se candidatar\nCurtiu o desafio e quer fazer parte do nosso time?\n\nPara se candidatar, basta enviar o seu currículo atualizado para o e-mail:\n📧 kerolayne.fbarros@dimensa.com.br\n\nDica: Coloque no assunto do e-mail: **Vaga Java Especialista** para localizarmos sua mensagem mais rápido!\n\n### Nível\n- Especialista\n\n### Regime\n- CLT\n\n### Alocação\n- Predominante Remoto",
-      "excerpt": "## Nossa empresa A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para ...",
-      "issueState": "open",
-      "contentHash": "24d5fc56aef467d6969607016dd82d19568e6bef6294ebce7dce5c1d3e274052",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "sênior",
-        "java",
-        "remoto",
-        "especialista",
-        "mysql",
-        "mongodb",
-        "typescript"
-      ],
-      "author": {
-        "id": "kerol-barros",
-        "name": "kerol-barros",
-        "handle": "kerol-barros",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110194786?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-06-16T18:38:01Z",
-      "updatedAt": "2026-06-16T18:38:27Z",
-      "url": "https://github.com/backend-br/vagas/issues/12284",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7151b2ccbb7fa087b2289ae3",
-      "sourceId": "backend-br/vagas#12283",
-      "title": "[Híbrido em São Paulo/SP] Backend Developer Java - Dimensa",
-      "description": "## Nossa empresa\nA Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.\n\nTodas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟\n\n## Descrição da vaga\n\nBuscamos uma pessoa Desenvolvedora Backend Java para se juntar ao nosso time!\n\n**O DESAFIO:**\n- Atuação com Análise e Desenvolvimento de Sistemas.\n- Foco em Sustentação de Sistemas.\n\n## Local\nHíbrido em São Paulo/SP (zona norte) - de 2x a 3x por semana\n\n## Requisitos\n\n**O que você precisa ter:**\nExperiência e expertise na linguagem Java 8 e 17.\nExperiência com análise, design, codificação e implementação de aplicações corporativas.\nConhecimento no desenvolvimento de WebServices – SOAP e API REST.\nConhecimento nas configurações de Apache Server.\nVisão sistêmica (entender o que faz, por que faz e qual o impacto do trabalho no negócio).\nCapacidade de trabalhar em equipe, em um ambiente colaborativo.\n\n**Você vai brilhar ainda mais se tiver:**\nExperiência com Desenvolvimento de Aplicações para o mercado Financeiro.\nConhecimentos em configuração e instalação de Tomcat / WebSphere.\nExperiência com Testes de Integração e Aceitação.\nConhecimentos com os Frameworks React, JasperReports e Spring.\nConhecimentos em Linux.\nBons conhecimentos nos bancos de dados Oracle e SQL Server.\nBons conhecimentos em estrutura de dados (Arrays, Lists, Trees, Hashes) e Design Patterns.\n\n## Benefícios\n🍽️ Vale Refeição/Vale Alimentação (flexível)\n🏥 Assistência Médica\n🦷 Assistência Odontológica\n⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.\n🛡️Seguro de Vida: Segurança para você e quem você ama.\n👧 👦Auxílio Creche: Para ajudar nas despesas dos pequenos\n👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.\n💹 Previdência Privada: Planeje o futuro com segurança.\n💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.\n🏡 Fretado das estações Barra Funda e Santana\n💪 Gympass: Acesso a academias e atividades físicas para manter a saúde em dia.\n😊 Reset Day: 1 dia OFF por ano para aproveitar da melhor forma.\n\n## Contratação\nCLT.\n\n## Como se candidatar\nCurtiu o desafio e quer fazer parte do nosso time?\n\nPara se candidatar, basta enviar o seu currículo atualizado para o e-mail:\n📧 kerolayne.fbarros@dimensa.com.br\n\nDica: Coloque no assunto do e-mail: **Vaga Java Senior** para localizarmos sua mensagem mais rápido!\n\n### Nível\n- Sênior\n\n### Regime\n- CLT\n\n### Alocação\n- Híbrido",
-      "excerpt": "## Nossa empresa A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para ...",
-      "issueState": "open",
-      "contentHash": "61b59916d645f4798ea69936313736d1ebb058fbc16969681b742f1d78f4e216",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "sênior",
-        "java",
-        "sql",
-        "linux",
-        "híbrido",
-        "oracle"
-      ],
-      "author": {
-        "id": "kerol-barros",
-        "name": "kerol-barros",
-        "handle": "kerol-barros",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110194786?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-06-16T17:54:52Z",
-      "updatedAt": "2026-06-16T17:55:35Z",
-      "url": "https://github.com/backend-br/vagas/issues/12283",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_37768170b475463e873a3026",
-      "sourceId": "backend-br/vagas#12282",
-      "title": "[FULLY REMOTE] Full Stack Engineer (Go / Angular) at Jobsity",
-      "description": "## About [Jobsity](https://www.jobsity.com/)💡\nJobsity is a New York–based staffing company with 10+ years of experience, working with clients across the US, Canada, and Europe. We connect top-tier LATAM talent—only the top 3%—with long-term international opportunities and have successfully placed over 400 professionals across 15+ countries. As part of our recruitment process, we focus on finding the right role based on what matters most to you.\n\n## Requirements\nWe’re seeking a **Full Stack Engineer (Go / Angular)** to help build and scale modern web applications in a collaborative, product-focused environment. This role combines backend service development in Go with frontend engineering in Angular, requiring the ability to contribute across multiple layers of the application stack.\n\n𝗪̳𝗵̳𝗮̳𝘁̳ ̳𝗱̳𝗼̳ ̳𝘆̳𝗼̳𝘂̳ ̳𝗻̳𝗲̳𝗲̳𝗱̳ ̳𝘁̳𝗼̳ ̳𝗮̳𝗽̳𝗽̳𝗹̳𝘆̳ ̳𝘀̳𝘂̳𝗰̳𝗰̳𝗲̳𝘀̳𝘀̳𝗳̳𝘂̳𝗹̳𝗹̳𝘆̳?🥇\n🌟 Conversational English level (+B2 level)\n🌟 Must reside in LATAM🌎\n🌟 Strong backend development experience with Go (Golang), including REST API and service design\n🌟 Solid frontend engineering experience with Angular and modern web application development\n🌟 Experience working across the full application stack with an understanding of scalable architectures and AI-assisted development workflows\n\n## Modality\n👨‍💻 Fully remote\n\n## Perks that Jobsity offers!💎\n\n🔹Yearly paid vacation.\n🔹Paid local holidays.\n🔹Learning budget.\n🔹Financing program for equipment and home office supplies.\n🔹Bonuses for referrals and more!\n\n## Type of contract📜\n\nThis role is full-time!🕘\n...working remotely🏡, with USD payment💰, long-term relationship🤝, within an international team👩‍💻 👨‍💻, and working on international client projects!🌎\n\n## How to apply🤔\nSend an email to [angela.barboza@jobsity.com](mailto:angela.barboza@jobsity.com) with your CV/LinkedIn attached, and please send it in the subject: \"***Full Stack Engineer (Go / Angular)** - 𝗚𝗶𝘁𝗛𝘂𝗯📧\"\n\n## How to refer a friend🤔\nRefer a friend👥 sending an email with your friend's CV/LinkedIn attached with the subject: **\"**Referral for** *Full Stack Engineer (Go / Angular)**- 𝗚𝗶𝘁𝗛𝘂𝗯📧\"\nOr you can use this link👉 https://careers.jobsity.com/referral-program\n\n## Any questions or additional details needed?\nFeel free to send me a message on [LinkedIn](https://www.linkedin.com/in/angela-barboza/)💬",
-      "excerpt": "## About [Jobsity](https://www.jobsity.com/)💡 Jobsity is a New York–based staffing company with 10+ years of experience, working with clients across the US, Canada, and Europe. We connect top-tier LATAM talent—only t...",
-      "issueState": "open",
-      "contentHash": "c1ef2361bfa6e400113ad2a4eef88b482b7356f53958c1f2d52deea7ef69ecb0",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "go",
-        "solid"
-      ],
-      "author": {
-        "id": "AngelaBarboza",
-        "name": "AngelaBarboza",
-        "handle": "AngelaBarboza",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112015240?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "companyName": "Jobsity",
-      "createdAt": "2026-06-16T17:40:07Z",
-      "updatedAt": "2026-06-16T17:40:35Z",
-      "url": "https://github.com/backend-br/vagas/issues/12282",
       "sourceType": "github-issue"
     }
   ]
