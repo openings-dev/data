@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-02T13:42:56.136Z",
+  "generatedAt": "2026-07-02T16:46:30.636Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_90dc15cf0fb5560e4c0f0993",
     "gh_c01a0a3f6404a175991bbcce",
     "gh_3cb49aacda2ec7dd8e38be24",
     "gh_b6ad9f2a9bbc5c9e930223d7",
@@ -22,10 +23,43 @@
     "gh_72cc354e7d9c38f999fa902a",
     "gh_dd237a978dba300d92eb4d35",
     "gh_37de83a7709ed2c12e150734",
-    "gh_7c9badcd511583c16a591a99",
-    "gh_8c8c85a13c859b4e47c45e03"
+    "gh_7c9badcd511583c16a591a99"
   ],
   "items": [
+    {
+      "id": "gh_90dc15cf0fb5560e4c0f0993",
+      "sourceId": "react-brasil/vagas#3007",
+      "title": "desenvolvedor react native senior",
+      "description": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona como memória externa com captura de voz, separação automática por IA, organização inteligente e lembretes discretos. Stack: React Native + TypeScript + Node.js + PostgreSQL + IA (Whisper/GPT). Prazo 4 meses. Preciso de dev com 3+ anos React Native e pelo menos 1 app publicado nas stores.",
+      "excerpt": "Busco desenvolvedor React Native sênior para construir MVP de app healthtech chamado SafeKeep. O app é voltado para profissionais sobrecarregados que precisam de apoio à função executiva e alívio cognitivo. Funciona c...",
+      "issueState": "open",
+      "contentHash": "07e76fc850ef066f91e92332475c8524069654d7bffe5998cc0da68835b9c1c9",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "👴 senior",
+        "stale"
+      ],
+      "author": {
+        "id": "mclaudiaferreira",
+        "name": "mclaudiaferreira",
+        "handle": "mclaudiaferreira",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/269824166?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "createdAt": "2026-03-20T22:05:39Z",
+      "updatedAt": "2026-06-28T04:02:47Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3007",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c01a0a3f6404a175991bbcce",
       "sourceId": "qa-brasil/vagas#1247",
@@ -711,46 +745,6 @@
       "createdAt": "2026-02-14T08:08:49Z",
       "updatedAt": "2026-06-10T14:51:39Z",
       "url": "https://github.com/frontendbr/vagas/issues/8442",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8c8c85a13c859b4e47c45e03",
-      "sourceId": "awesome-jobs/vietnam#4891",
-      "title": "REMOTE - Principle Engineer/Solution Architect - Negotiable - Product Company in Aviation",
-      "description": "## Location \n\n* Remote from Vietnam \n\n## Salary Expectation\n\n* Skill based, negotiate with company CEO in 1st interview\n\n## Requirements \n\n- Academic Foundation: University degree in Computer Science, Engineering, or a relevant technical field.\n\n- Proven Track Record: 6+ years in senior engineering, technical lead, or architecture roles delivering full-lifecycle production systems (requirements through to operations).\n\n- Architectural Expertise: Strong experience designing scalable backend systems using microservices, event-driven patterns, and schedulers.\n\n- Integration Skills: Expert knowledge of APIs, web services, and message queues.\n\n- Data Strategy: Deep understanding of data modeling (PostgreSQL, MongoDB) with a focus on pragmatic reliability and access patterns.\n\n- Modern Stack Familiarity: Experience with Python frameworks and React/TypeScript to produce designs that are ready for rapid engineering implementation.\n\n- Cloud & DevOps: Experience with cloud platforms (AWS/Huawei), CI/CD pipelines, and containerization (Docker/Kubernetes).\n\n- Communication: Ability to write clear design specs, lead design reviews, and explain technical trade-offs in clear English.\n\n- Stakeholder Mastery: Proven ability to drive decisions and align business, IT, and vendor teams—even in ambiguous situations.\n\n- Agile Methodology: Solid understanding of standard SDLC and Agile development practices.\n\n- Industry Advantage: Prior experience in Technology Consulting, Aviation, or Logistics is a plus. (not a must)\n\n- Culture Fit: A passion for the startup environment and the ability to thrive in a fast-paced, diverse, and team-oriented setting.\n\n### Responsibilities \n\n- Lead end-to-end solution design, including technology selection (build vs. buy), cloud services, and integration patterns.\n\n- Translate business requirements into solution architecture and a clear delivery plan.\n\n- Define and own functional and non-functional requirements (performance, scalability, security, reliability, maintainability).\n\n- Produce key architecture artefacts (HLDs, diagrams, API and data designs, ADRs) to guide engineering teams.\n\n- Facilitate architecture design reviews and secure alignment before development starts.\n\n- Partner with engineers throughout delivery to ensure solutions are implemented as designed and risks are addressed early.\n\n- Manage architecture-level risks and guide teams through trade-offs and design decisions.\n\n- Promote engineering best practices and mentor team members on architectural thinking.\n\n### You’ll be responsible for\n\n* Building aviation product for global airports.\n\n### Why it would be awesome to work with us \n\n- High-impact work with real-world systems and meaningful scale.\n\n- Work alongside and learn from leading experts in technology and aviation sector from different countries.\n\n- Merit-based, startup-style culture with flexibility and autonomy.\n\n- Remote-first environment with strong learning and growth opportunities.\n\n### Contact \n\nZalo/Whatsapp: 0905328693 (Ms Nora Nguyen)\nEmail: nora.careertalk@gmail.com",
-      "excerpt": "## Location * Remote from Vietnam ## Salary Expectation * Skill based, negotiate with company CEO in 1st interview ## Requirements - Academic Foundation: University degree in Computer Science, Engineering, or a releva...",
-      "issueState": "open",
-      "contentHash": "ebc66217744dcc3812c552a7b84932f01a826eb96b2878dcb98dd5bd933dd03a",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "backend",
-        "react",
-        "typescript",
-        "python",
-        "senior",
-        "devops",
-        "data"
-      ],
-      "author": {
-        "id": "nora-recruit",
-        "name": "nora-recruit",
-        "handle": "nora-recruit",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/260599472?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-02-10T07:25:59Z",
-      "updatedAt": "2026-06-02T08:22:38Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4891",
       "sourceType": "github-issue"
     }
   ]
