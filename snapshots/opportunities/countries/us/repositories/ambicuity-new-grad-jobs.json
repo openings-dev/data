@@ -1,16 +1,120 @@
 {
-  "generatedAt": "2026-06-17T12:47:50.128Z",
+  "generatedAt": "2026-07-02T19:13:44.954Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
     "opportunities": 10,
-    "openIssues": 3,
-    "closedIssues": 7
+    "openIssues": 2,
+    "closedIssues": 8
   },
-  "dataHash": "f33a92bdca4ba1ae8296c4c5854242d338d45234fc23758a252e4d4ccbd45a4d",
+  "dataHash": "fbe8cb1d574c73380f24954d4f7e6ef063563b326f885a069120b751e33ffb24",
   "items": [
+    {
+      "id": "gh_18dbb0e0245b7131ca809a62",
+      "sourceId": "ambicuity/New-Grad-Jobs#327",
+      "title": "Add verified companies from data/analyst candidate batch (Greenhouse-probed)",
+      "description": "## Summary\n\nA candidate batch of 23 data / research / analyst job rows was submitted for evaluation. Per the \"only add if working\" rule (see #316), each distinct company was probed against the ATS platforms the pipeline supports — Greenhouse, Lever, Ashby, and Workday — and only companies with a **live, verified endpoint returning active jobs** should be added to `config.yml`.\n\n## Candidate companies (23 rows → 22 distinct)\n\nCivic Nation, CharterUP, Tata Consultancy Services, Third Bridge Group, Adelphi Research, MRM (×2), Instawork, Life Chiropractic College West, Ensemble Health Partners, UST, Precision Medicine Group, Langan Engineering & Environmental Services, C2Q Health Solutions, CoStar Group, New York University, Liberty University, Senior Helpers, Workday, Amrit Ocean Resort & Residences, DaVita Kidney Care, XiFin Inc., YAMMII LLC.\n\n## Probe results\n\n### ✅ Verified working — to be added (Greenhouse, live jobs)\n\n| Company | Slug | Jobs |\n|---------|------|-----:|\n| CharterUP | `charterup` | 13 |\n| Civic Nation | `civicnation` | 7 |\n| Instawork | `instawork` | 54 |\n| Precision Medicine Group | `precisionmedicinegroup` | 167 |\n| Third Bridge (Group) | `thirdbridge` | 115 |\n\n### Already present (skipped)\n\n- **Workday** — the software company is already tracked under `apis.workday.companies`. (Row 19 \"Sr Cloud Engineer / Workday\" is a role *at* Workday.)\n\n### Probed but rejected\n\n- **Adelphi Research** — valid Greenhouse board (`adelphiresearch`) but **0 active postings**; nothing to surface, so left out until it has live jobs.\n- **False-positive slugs** (belong to a *different* company): `costar` → Co–Star (astrology app, not CoStar Group real-estate), `ensemble` → a travel/tourism firm (not Ensemble Health Partners), `life` on Lever → LifeChurch, `new` → Sonja Inc., `tcs` → Thornbury Community Services (not Tata Consultancy Services).\n- **No endpoint on a supported ATS**: Tata Consultancy Services, MRM, Life Chiropractic College West, Ensemble Health Partners, UST, Langan Engineering, C2Q Health Solutions, CoStar Group, New York University, Liberty University, Senior Helpers, Amrit Ocean Resort & Residences, DaVita Kidney Care, XiFin Inc., YAMMII LLC. (Most use iCIMS/Taleo/Workday tenants not currently wired, or are JS-rendered career portals.)\n\n## Acceptance criteria\n\n- [ ] Add the 5 verified Greenhouse companies to `config.yml` (alphabetically placed)\n- [ ] `scripts/validate_config.py` passes\n- [ ] Duplicate-URL guard passes\n- [ ] `pytest tests/` passes\n- [ ] CI green on the PR\n\nRelates to #316.",
+      "excerpt": "## Summary A candidate batch of 23 data / research / analyst job rows was submitted for evaluation. Per the \"only add if working\" rule (see #316), each distinct company was probed against the ATS platforms the pipelin...",
+      "issueState": "closed",
+      "contentHash": "e9d5ed5b32f2c42e3a905a1f934e7d3a3b6b70996c3e4ae0ff88ad4b68200168",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "enhancement"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "Slug",
+      "createdAt": "2026-07-02T17:44:24Z",
+      "updatedAt": "2026-07-02T17:50:01Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/327",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_56e4ff4a92ac2ee532f49851",
+      "sourceId": "ambicuity/New-Grad-Jobs#325",
+      "title": "Add hiring companies from 2268–2290 batch: Scout AI, SIXGEN, Booz Allen Hamilton",
+      "description": "## Summary\n\nSecond batch review of a 23-row job list (positions 2268–2290). Deduplicated to 20 unique companies, filtered out entries already tracked and those without a supported ATS endpoint. Added the 3 companies with confirmed live endpoints.\n\n## Verified & adding\n\n| Company | ATS | Endpoint | Live jobs* |\n|---------|-----|----------|-----------:|\n| Scout AI | Greenhouse | `boards-api.greenhouse.io/v1/boards/scoutai/jobs` | 23 |\n| SIXGEN | Greenhouse | `boards-api.greenhouse.io/v1/boards/sixgeninc/jobs` | 23 |\n| Booz Allen Hamilton | Workday | `bah.wd1.myworkdayjobs.com/BAH_Jobs` | 1957 |\n\n*Probed 2026-07-02.\n\n## Already configured (no-op)\n\n- CACI International — already in Workday section\n- Leidos (incl. Leidos Australia) — already in Workday section\n- Amazon (incl. AWS) — already in Workday section\n- x.ai / xAI — already in Greenhouse section\n\n## Intentionally not added\n\nEach of the following was probed against the ATSs the pipeline currently supports (Greenhouse, Lever, Ashby, Workday). None returned a working slug with real job data:\n\n- **ISI** — no ATS slug resolves; ambiguous name (multiple companies).\n- **Capital Insurance Group** — no matching Greenhouse/Ashby/Lever board; `ciginsurance.com/careers` returns a placeholder.\n- **City of Plano** — municipal government portal, no supported ATS.\n- **Akima** — uses iCIMS (`careers-akima.icims.com`), not wired into the fetcher.\n- **Mayo Clinic Healthcare London** — hospital research fellowship, not a corporate ATS.\n- **SchoolSpring** — a job-board marketplace, not an employer with a company board.\n- **Authentic (Authentic Brands Group)** — no matching Greenhouse/Ashby/Lever slug; careers page has no discoverable ATS API.\n- **Mutual of Omaha** — careers site is a JS-rendered SPA proxied via `careers.mutualofomaha.com`; no supported ATS endpoint.\n- **Notability / Ginger Labs** — no ATS API found; careers page returns 404.\n- **Quest Global** — no matching Workday tenant resolves; iCIMS/other providers not wired in.\n- **Cecil College / New York University** — university, not a corporate ATS.\n- **The Vermont Country Store** — no supported ATS endpoint discovered.\n\nPer the \"only add if working\" rule, these are omitted until a supported endpoint is identified.\n\n## Verification\n\n- `python scripts/validate_config.py` — TOTAL: 281 companies, all sections load\n- Duplicate-URL guard — 281 unique URLs, no duplicates\n- `pytest tests/` — 733 passed\n\n## Test plan\n\n- [x] Config validates\n- [x] No duplicate API URLs\n- [x] Unit tests pass locally\n- [ ] CI green on PR",
+      "excerpt": "## Summary Second batch review of a 23-row job list (positions 2268–2290). Deduplicated to 20 unique companies, filtered out entries already tracked and those without a supported ATS endpoint. Added the 3 companies wi...",
+      "issueState": "closed",
+      "contentHash": "3945f85505fbc28f4802bb839b4a6ca580b569745c597e6f188c2fea8d0fb9b8",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "ATS",
+      "createdAt": "2026-07-02T17:19:53Z",
+      "updatedAt": "2026-07-02T17:26:12Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/325",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_19f0f2329f9e6d6b893d68b2",
+      "sourceId": "ambicuity/New-Grad-Jobs#323",
+      "title": "Add 5 new-grad hiring companies: AppLovin, SeatGeek, StubHub, Authorium, SentiLink",
+      "description": "## Summary\n\nExpand company coverage by adding 5 companies that currently have open New Grad postings and expose a live ATS API endpoint that the aggregator already supports (Greenhouse or Ashby).\n\n## Companies\n\nRequested list (deduplicated across duplicate rows):\n\n| # | Company | ATS | Endpoint | Live jobs* | Status |\n|---|---------|-----|----------|------------|--------|\n| 1 | AppLovin | Greenhouse | `boards-api.greenhouse.io/v1/boards/applovin/jobs` | 28 | Adding |\n| 2 | SeatGeek | Greenhouse | `boards-api.greenhouse.io/v1/boards/seatgeek/jobs` | 31 | Adding |\n| 3 | StubHub  | Greenhouse | `boards-api.greenhouse.io/v1/boards/stubhubinc/jobs` | 22 | Adding |\n| 4 | Authorium | Ashby | `api.ashbyhq.com/posting-api/job-board/authorium` | 7 | Adding |\n| 5 | SentiLink | Ashby | `api.ashbyhq.com/posting-api/job-board/sentilink` | 39 | Adding |\n| 6 | Notion   | Ashby | `api.ashbyhq.com/posting-api/job-board/notion` | — | Already present |\n| 7 | Nuro     | Greenhouse | `boards-api.greenhouse.io/v1/boards/nuro/jobs` | — | Already present |\n| 8 | SpaceX   | Greenhouse | `boards-api.greenhouse.io/v1/boards/spacex/jobs` | — | Already present |\n| 9 | Symbotic | — | — | 0 | Skipped — no working ATS endpoint |\n\n*Live counts probed 2026-07-02.\n\n## Why skip Symbotic\n\nSymbotic's careers site is behind Cloudflare and it does not expose a matching slug on any ATS the pipeline currently supports: Greenhouse, Lever, and Ashby all return 404; the tenant that responds under `symbotic.wdN.myworkdayjobs.com` returns 422 across `wd1`, `wd5`, and `wd12` for the CXS jobs endpoint; and its SmartRecruiters board reports `totalFound=0` (and SmartRecruiters is not wired into the fetcher). Per the \"only add if working\" rule, it is intentionally excluded here.\n\n## Verification\n\nLocal run against the clean branch:\n\n- `python scripts/validate_config.py` — TOTAL: 278 companies, all sections load\n- CI duplicate-URL guard — 216 unique URLs, no duplicates\n- `pytest tests/` — 733 passed\n\n## Test plan\n\n- [x] Config validates\n- [x] No duplicate API URLs\n- [x] Unit tests pass locally\n- [ ] CI green on PR",
+      "excerpt": "## Summary Expand company coverage by adding 5 companies that currently have open New Grad postings and expose a live ATS API endpoint that the aggregator already supports (Greenhouse or Ashby). ## Companies Requested...",
+      "issueState": "closed",
+      "contentHash": "6f23abbaef381956933cd47421520831a715b3d5e82cbe4058e3d8eb408ebfc2",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "enhancement"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "ATS",
+      "createdAt": "2026-07-02T16:58:29Z",
+      "updatedAt": "2026-07-02T17:04:55Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/323",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e178ee2363a4eb2ca10d3d06",
       "sourceId": "ambicuity/New-Grad-Jobs#318",
@@ -42,7 +146,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-06-01T12:56:16Z",
-      "updatedAt": "2026-06-01T12:56:32Z",
+      "updatedAt": "2026-07-02T17:34:14Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/318",
       "sourceType": "github-issue"
     },
@@ -81,7 +185,7 @@
       },
       "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
       "createdAt": "2026-05-26T23:52:14Z",
-      "updatedAt": "2026-05-27T00:03:10Z",
+      "updatedAt": "2026-07-02T17:33:02Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
       "sourceType": "github-issue"
     },
@@ -191,41 +295,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_2c92bac1085f46589d6afd6a",
-      "sourceId": "ambicuity/New-Grad-Jobs#305",
-      "title": "[Bug]: /favicon.ico returns 404 (no favicon configured)",
-      "description": "### Bug Type\nOther (frontend)\n\n### Description\n\nBrowsers auto-request \\`/favicon.ico\\` and the deployed site at https://jobs.riteshrana.engineer/ responds with **404**:\n\n\\`\\`\\`\nGET https://jobs.riteshrana.engineer/favicon.ico → 404\n\\`\\`\\`\n\n\\`docs/\\` does not contain a \\`favicon.ico\\` (or \\`favicon.svg\\`), and \\`docs/index.html\\` has no \\`<link rel=\\\"icon\\\">\\` tag. Cosmetic only — the browser tab shows a blank icon and the console shows a 404 entry on every page load.\n\n### Steps to Reproduce\n\n1. Open https://jobs.riteshrana.engineer/ in any browser.\n2. Open DevTools → Network or Console.\n3. Observe the \\`/favicon.ico\\` request returns 404.\n4. Note the tab icon is blank.\n\n### Additional Context\n\nDiscovered while auditing the live site after #299–#304. Predates this work; not a regression.\n\nSuggested fix:\n- Add a small brand-aligned SVG favicon to \\`docs/favicon.svg\\` (amber accent + dark terminal aesthetic, consistent with the LIVE-chip dot and the rest of the UI).\n- Add \\`<link rel=\\\"icon\\\" type=\\\"image/svg+xml\\\" href=\\\"favicon.svg\\\">\\` to \\`docs/index.html\\`.\n- Optionally include a \\`favicon.ico\\` PNG fallback for legacy browsers, but modern browsers all support SVG favicons.",
-      "excerpt": "### Bug Type Other (frontend) ### Description Browsers auto-request \\`/favicon.ico\\` and the deployed site at https://jobs.riteshrana.engineer/ responds with **404**: \\`\\`\\` GET https://jobs.riteshrana.engineer/favico...",
-      "issueState": "closed",
-      "contentHash": "9b01046895339367c8dbb1e49007de0e47ab6b02f0a2c018acd1e642a9443ace",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "good first issue",
-        "ui/ux"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-05-26T21:22:45Z",
-      "updatedAt": "2026-05-26T21:30:05Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/305",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_19d9edf7d6ba67157e1e98b0",
       "sourceId": "ambicuity/New-Grad-Jobs#206",
       "title": "🚨 Board is stale — scraper may have stopped",
@@ -297,74 +366,6 @@
       "createdAt": "2026-03-10T21:16:15Z",
       "updatedAt": "2026-05-26T21:34:48Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/146",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_db7b29e6b9c9b5ad8788f6ac",
-      "sourceId": "ambicuity/New-Grad-Jobs#30",
-      "title": "[Beginner]: Add argparse to generate_companies.py for command-line options",
-      "description": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g., --greenhouse-count 4000).",
-      "excerpt": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g.,...",
-      "issueState": "open",
-      "contentHash": "d1f46ab8cd3b1a54ef12f738b807609949effc1a8525d70664d7a11948d3c57b",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "good first issue"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T20:47:18Z",
-      "updatedAt": "2026-05-26T19:59:13Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/30",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9884ea0e58eaed339de72098",
-      "sourceId": "ambicuity/New-Grad-Jobs#29",
-      "title": "[Beginner]: Add type hints to generate_companies.py",
-      "description": "The functions generate_greenhouse_companies, generate_lever_companies, generate_workday_companies, and format_yaml_companies currently lack Python type hints. This issue involves adding valid type hints (e.g., count: int, start_id: int, returning list[dict[str, str]]) to improve code readability and static analysis.",
-      "excerpt": "The functions generate_greenhouse_companies, generate_lever_companies, generate_workday_companies, and format_yaml_companies currently lack Python type hints. This issue involves adding valid type hints (e.g., count: ...",
-      "issueState": "closed",
-      "contentHash": "d4b1b93f912435c81dd0c8771d4ececfddeb18957555262ba92489756eb9e0ef",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "good first issue"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T20:47:16Z",
-      "updatedAt": "2026-05-26T21:34:46Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/29",
       "sourceType": "github-issue"
     }
   ]

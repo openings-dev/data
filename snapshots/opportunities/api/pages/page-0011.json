@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T16:46:30.636Z",
+  "generatedAt": "2026-07-02T19:13:44.954Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
@@ -15,7 +15,6 @@
     "gh_15fb9ec0047c0e7cc80ada55",
     "gh_85486f31f6bca38c2dd8836a",
     "gh_5903d3232c2f99d9ae568fe8",
-    "gh_db7b29e6b9c9b5ad8788f6ac",
     "gh_eae48d87a90e3ffbeb60afaf",
     "gh_349305368c4768961f805995",
     "gh_cb018f064d1195686d333796",
@@ -23,7 +22,8 @@
     "gh_72cc354e7d9c38f999fa902a",
     "gh_dd237a978dba300d92eb4d35",
     "gh_37de83a7709ed2c12e150734",
-    "gh_7c9badcd511583c16a591a99"
+    "gh_7c9badcd511583c16a591a99",
+    "gh_8c8c85a13c859b4e47c45e03"
   ],
   "items": [
     {
@@ -444,40 +444,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_db7b29e6b9c9b5ad8788f6ac",
-      "sourceId": "ambicuity/New-Grad-Jobs#30",
-      "title": "[Beginner]: Add argparse to generate_companies.py for command-line options",
-      "description": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g., --greenhouse-count 4000).",
-      "excerpt": "Currently, generate_companies.py hardcodes the number of companies to generate (e.g., 4000, 1900, 1300) in the __main__ block. This issue is to use argparse to allow these to be passed as command-line arguments (e.g.,...",
-      "issueState": "open",
-      "contentHash": "d1f46ab8cd3b1a54ef12f738b807609949effc1a8525d70664d7a11948d3c57b",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "good first issue"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T20:47:18Z",
-      "updatedAt": "2026-05-26T19:59:13Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/30",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_eae48d87a90e3ffbeb60afaf",
       "sourceId": "qa-brasil/vagas#1243",
       "title": "[Remoto] QA Pleno na BLIS",
@@ -745,6 +711,46 @@
       "createdAt": "2026-02-14T08:08:49Z",
       "updatedAt": "2026-06-10T14:51:39Z",
       "url": "https://github.com/frontendbr/vagas/issues/8442",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8c8c85a13c859b4e47c45e03",
+      "sourceId": "awesome-jobs/vietnam#4891",
+      "title": "REMOTE - Principle Engineer/Solution Architect - Negotiable - Product Company in Aviation",
+      "description": "## Location \n\n* Remote from Vietnam \n\n## Salary Expectation\n\n* Skill based, negotiate with company CEO in 1st interview\n\n## Requirements \n\n- Academic Foundation: University degree in Computer Science, Engineering, or a relevant technical field.\n\n- Proven Track Record: 6+ years in senior engineering, technical lead, or architecture roles delivering full-lifecycle production systems (requirements through to operations).\n\n- Architectural Expertise: Strong experience designing scalable backend systems using microservices, event-driven patterns, and schedulers.\n\n- Integration Skills: Expert knowledge of APIs, web services, and message queues.\n\n- Data Strategy: Deep understanding of data modeling (PostgreSQL, MongoDB) with a focus on pragmatic reliability and access patterns.\n\n- Modern Stack Familiarity: Experience with Python frameworks and React/TypeScript to produce designs that are ready for rapid engineering implementation.\n\n- Cloud & DevOps: Experience with cloud platforms (AWS/Huawei), CI/CD pipelines, and containerization (Docker/Kubernetes).\n\n- Communication: Ability to write clear design specs, lead design reviews, and explain technical trade-offs in clear English.\n\n- Stakeholder Mastery: Proven ability to drive decisions and align business, IT, and vendor teams—even in ambiguous situations.\n\n- Agile Methodology: Solid understanding of standard SDLC and Agile development practices.\n\n- Industry Advantage: Prior experience in Technology Consulting, Aviation, or Logistics is a plus. (not a must)\n\n- Culture Fit: A passion for the startup environment and the ability to thrive in a fast-paced, diverse, and team-oriented setting.\n\n### Responsibilities \n\n- Lead end-to-end solution design, including technology selection (build vs. buy), cloud services, and integration patterns.\n\n- Translate business requirements into solution architecture and a clear delivery plan.\n\n- Define and own functional and non-functional requirements (performance, scalability, security, reliability, maintainability).\n\n- Produce key architecture artefacts (HLDs, diagrams, API and data designs, ADRs) to guide engineering teams.\n\n- Facilitate architecture design reviews and secure alignment before development starts.\n\n- Partner with engineers throughout delivery to ensure solutions are implemented as designed and risks are addressed early.\n\n- Manage architecture-level risks and guide teams through trade-offs and design decisions.\n\n- Promote engineering best practices and mentor team members on architectural thinking.\n\n### You’ll be responsible for\n\n* Building aviation product for global airports.\n\n### Why it would be awesome to work with us \n\n- High-impact work with real-world systems and meaningful scale.\n\n- Work alongside and learn from leading experts in technology and aviation sector from different countries.\n\n- Merit-based, startup-style culture with flexibility and autonomy.\n\n- Remote-first environment with strong learning and growth opportunities.\n\n### Contact \n\nZalo/Whatsapp: 0905328693 (Ms Nora Nguyen)\nEmail: nora.careertalk@gmail.com",
+      "excerpt": "## Location * Remote from Vietnam ## Salary Expectation * Skill based, negotiate with company CEO in 1st interview ## Requirements - Academic Foundation: University degree in Computer Science, Engineering, or a releva...",
+      "issueState": "open",
+      "contentHash": "ebc66217744dcc3812c552a7b84932f01a826eb96b2878dcb98dd5bd933dd03a",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "backend",
+        "react",
+        "typescript",
+        "python",
+        "senior",
+        "devops",
+        "data"
+      ],
+      "author": {
+        "id": "nora-recruit",
+        "name": "nora-recruit",
+        "handle": "nora-recruit",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/260599472?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-02-10T07:25:59Z",
+      "updatedAt": "2026-06-02T08:22:38Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4891",
       "sourceType": "github-issue"
     }
   ]
