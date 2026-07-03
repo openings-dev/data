@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-03T06:25:26.021Z",
+  "generatedAt": "2026-07-03T19:06:40.579Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_08c2b289f0b0fbaf5bd9f142",
     "gh_23e88f37c8cdd99dec55a249",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_c2842e7382b7b6bf1db541df",
@@ -22,10 +23,40 @@
     "gh_a5d2446fe102d2b8b34f94c2",
     "gh_4e35e3ee4a19594e8247db30",
     "gh_b5220ce704e9136f8724e349",
-    "gh_c19e786d010bd878cb453ffe",
-    "gh_bebc4c633e728a987497ecda"
+    "gh_c19e786d010bd878cb453ffe"
   ],
   "items": [
+    {
+      "id": "gh_08c2b289f0b0fbaf5bd9f142",
+      "sourceId": "cncf/gitjobs#383",
+      "title": "Ability to manually assign jobs to a foundation/project after submission",
+      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
+      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
+      "issueState": "open",
+      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamweswilson",
+        "name": "iamweswilson",
+        "handle": "iamweswilson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2026-05-05T18:56:03Z",
+      "updatedAt": "2026-05-06T15:39:22Z",
+      "url": "https://github.com/cncf/gitjobs/issues/383",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_23e88f37c8cdd99dec55a249",
       "sourceId": "datascience-br/vagas#161",
@@ -708,42 +739,6 @@
       "createdAt": "2026-03-29T20:14:52Z",
       "updatedAt": "2026-06-06T03:55:12Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1248",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bebc4c633e728a987497ecda",
-      "sourceId": "programadores-br/geral#3062",
-      "title": "[Remoto] Full Cycle Developer (Júnior) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-junior-181053786?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos contratando: **Pessoa Desenvolvedora Full Cycle**\n\nQuer fazer parte de um time que está transformando a logística por meio da tecnologia? Se você é apaixonado(a) por desenvolvimento, gosta de desafios e quer participar da construção de soluções que geram impacto real no negócio, essa oportunidade pode ser para você!\n\n**O que você vai fazer no dia a dia:**\n\nAtuar em todas as etapas do ciclo de desenvolvimento, desde a modelagem da solução até o acompanhamento em produção; Desenvolver soluções de ponta a ponta, colaborando com equipes multidisciplinares; Contribuir ativamente para a transformação digital da logística, elevando o nível de qualidade e eficiência dos nossos processos; Participar da construção de produtos e soluções inovadoras com impacto direto na operação.\n\n**O que oferecemos:**\n\n*   Ambiente promissor para crescimento pessoal e profissional;\n    \n*   Contato direto com um time de tecnologia altamente qualificado;\n    \n*   Espaço para inovação, aprendizado contínuo e desenvolvimento de carreira.\n    \n\nSe você gosta de desafios, inovação e quer crescer junto com um time que está construindo o futuro da logística, queremos conhecer você!\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n## Benefícios: \n - É disponibilizado o Onhappy\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Júnior) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-junior-181053786?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "2db107fd7de29e405970e9c3ba23585059ebee6ae10b1dd8b67f862aee7feaed",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "júnior",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-25T18:12:49Z",
-      "updatedAt": "2026-03-25T18:13:20Z",
-      "url": "https://github.com/programadores-br/geral/issues/3062",
       "sourceType": "github-issue"
     }
   ]

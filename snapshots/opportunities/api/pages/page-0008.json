@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-03T06:25:26.021Z",
+  "generatedAt": "2026-07-03T19:06:40.579Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_813788f80b209c371e0002ce",
     "gh_e9830a46c598a30be9f44c7c",
     "gh_78bd5ed6303a4f36ae15da78",
     "gh_31d3c208b2b39f35424db09f",
@@ -22,10 +23,44 @@
     "gh_2d895bac96564681581385bb",
     "gh_bacefe5602e4e742e8cdf5f9",
     "gh_f10d628b73c6638f2b5fc004",
-    "gh_c6373fbb2bb5e024c192d8af",
-    "gh_3ca6bfcccb91efa2b245a1f6"
+    "gh_c6373fbb2bb5e024c192d8af"
   ],
   "items": [
+    {
+      "id": "gh_813788f80b209c371e0002ce",
+      "sourceId": "vanshb03/Summer2026-Internships#4491",
+      "title": "Suggestion: Canada-specific student jobs companion resource",
+      "description": "Hi! Small disclosure: I'm helping maintain Hanzilla Jobs.\n\nWould you be open to a small \"Canada-specific companion resource\" link near the top of the README, alongside the off-season/new-grad pointers?\n\nHanzilla Jobs is a free, daily-updated Canadian student/recent-grad job board:\n\n- Internship/co-op deep link: https://jobs.hanzilla.co/internships/\n- New-grad/junior deep link: https://jobs.hanzilla.co/new-grad/\n- About/verification page: https://jobs.hanzilla.co/about/\n\nWhy I think it may be useful for your readers: this repo is intentionally US/Canada/remote and tech-focused; Hanzilla can be a Canada-specific supplement for students who want internships/co-ops plus new-grad/junior/entry-level roles across software/data, finance, engineering, business, sciences, and other early-career fields.\n\nNo worries if you prefer to keep the README only to direct postings. If useful, I can open a one-line README PR and keep it clearly marked as a supplemental Canada resource rather than a job row.",
+      "excerpt": "Hi! Small disclosure: I'm helping maintain Hanzilla Jobs. Would you be open to a small \"Canada-specific companion resource\" link near the top of the README, alongside the off-season/new-grad pointers? Hanzilla Jobs is...",
+      "issueState": "open",
+      "contentHash": "eb49158053dc1dd67c0821d008f6848467450a828704fbf527e6532692ee3315",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-05-29T07:33:36Z",
+      "updatedAt": "2026-05-29T07:33:36Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4491",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e9830a46c598a30be9f44c7c",
       "sourceId": "vanshb03/Summer2027-Internships#4491",
@@ -731,39 +766,6 @@
       "createdAt": "2026-05-22T17:14:45Z",
       "updatedAt": "2026-05-22T17:15:04Z",
       "url": "https://github.com/soujava/vagas-java/issues/1887",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3ca6bfcccb91efa2b245a1f6",
-      "sourceId": "lukasz-madon/awesome-remote-job#1053",
-      "title": "Add claudio: productivity tool for remote workers with voice dictation",
-      "description": "Repository: https://github.com/ayushkumar1808/claudio\n\nclaudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, terminal) to dictate text. Useful productivity tool for remote workers.",
-      "excerpt": "Repository: https://github.com/ayushkumar1808/claudio claudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, te...",
-      "issueState": "open",
-      "contentHash": "34f0812e9748512ef7767de54d589637ded444e3e146dc3f0b5d287767494cca",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "ayushkumar1808",
-        "name": "ayushkumar1808",
-        "handle": "ayushkumar1808",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/145252811?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-05-22T01:54:40Z",
-      "updatedAt": "2026-07-02T18:16:34Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
       "sourceType": "github-issue"
     }
   ]

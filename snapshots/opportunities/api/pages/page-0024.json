@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-03T06:25:26.021Z",
+  "generatedAt": "2026-07-03T19:06:40.579Z",
   "page": 24,
   "pageSize": 20,
   "nextPage": "api/pages/page-0025.json",
   "ids": [
+    "gh_3a6053dcf8e9dd11eac3ab64",
     "gh_762c4b7f4e264d735815ff6e",
     "gh_19804053379c1103d9556d8f",
     "gh_2c89471bf386d483a8abb393",
@@ -22,10 +23,43 @@
     "gh_c01dc6814f05729a2a35cd60",
     "gh_a179e2d835c745927900656e",
     "gh_54f13b2669ed890dc97c5bdc",
-    "gh_bee6bfa2c8e12bb59f137acc",
-    "gh_e75b4715ed195c7babe01f51"
+    "gh_bee6bfa2c8e12bb59f137acc"
   ],
   "items": [
+    {
+      "id": "gh_3a6053dcf8e9dd11eac3ab64",
+      "sourceId": "nerdzao/vagas#166",
+      "title": "[São Paulo - SP] Dev .NET Sênior - 200DEV",
+      "description": "**Nossa empresa**\nA 200DEV é uma consultoria de TI especializada em Inovação e Transformação Digital\nimpulsionada pelos maiores fabricantes de tecnologia e desenvolvida por profissionais com\nfoco no sucesso!\n\n**Descrição da vaga**\nDesenvolvimento de aplicações web utilizando .NET framework e Angular.\nAtuação diversa com relação aos desenvolvimentos: criando/desenvolvendo novas features,\nmelhorias, aplicação de bug fix e participação em projetos\nAtendimento de requisições das áreas de negócio para desenvolvimento e manutenção de sistemas\n\n**Local**\nSão Paulo - SP.\n\n**Requisitos**\nExperiência em linguagens de programação: .NET Core, C# / Asp.Net\nBanco de dados SQL (Transact-SQL)\nAPI REST\nPrincipios S.O.L.I.D\nFila/Mensageria (Kafka/RabiitMQ)\nMicroserviços\nConhecimento metodologias ágeis\nTestes Unitários\nRepositórios de versionamento (Jenkins)\nFrontend Angular\n\n**Como se candidatar**\nEnviar Cv para [bruno.sander@200dev.com](mailto:bruno.sander@200dev.com)",
+      "excerpt": "**Nossa empresa** A 200DEV é uma consultoria de TI especializada em Inovação e Transformação Digital impulsionada pelos maiores fabricantes de tecnologia e desenvolvida por profissionais com foco no sucesso! **Descriç...",
+      "issueState": "open",
+      "contentHash": "67560dc9126f4f5068a5f7221568fef90be2024be9a61292436271b52a71ff71",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "frontend",
+        "data"
+      ],
+      "author": {
+        "id": "bssander97",
+        "name": "bssander97",
+        "handle": "bssander97",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/167450685?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2024-05-20T17:56:54Z",
+      "updatedAt": "2024-05-20T17:56:54Z",
+      "url": "https://github.com/nerdzao/vagas/issues/166",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_762c4b7f4e264d735815ff6e",
       "sourceId": "DevComputaria/CangaceiroDevVagas#198",
@@ -679,41 +713,6 @@
       "createdAt": "2024-04-27T16:46:51Z",
       "updatedAt": "2024-04-27T16:46:51Z",
       "url": "https://github.com/TechnologyMasters/jobs/issues/705",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e75b4715ed195c7babe01f51",
-      "sourceId": "TechnologyMasters/jobs#704",
-      "title": "Coordinadora Mercantil SAS - Líder Técnico - Colombia - COP11.2M - 12M/mes",
-      "description": "<!--\n\nPLEASE REVIEW RULES BEFORE POSTING:\nhttps://github.com/TechnologyMasters/jobs/blob/master/README.md#employers\n\n# Issue title format: [Company Name] - [Job Title] - [Location] - [Salary] [Currency]/[Frequency]\n\n-->\n\n## Lo que obtendrás\n\n### Remuneración\n\n<!--\n  - COP11.2M - 12M/mes\n-->\n\n- COP11.2M - 12M/mes\n- Full-Time\n\n### Beneficios\n\n- Seguro de salud\n\n### Ubicación\n\n<!--\n  Please specify your job's policy on remote work (see README for details)\n-->\n\n- Colombia\n- Remoto\n\n## Responsabilidades\n\nDirigir los equipos de desarrollo hacia la excelencia en la implementación de soluciones tecnológicas.\n\n## Habilidades\n\n- Competente en metodologías ágiles, GCP (Google Cloud Platform), TypeScript, React.js, y Microsoft Azure.\n\n\n## Sobre la compañía\n\nEn Coordinadora estamos a la vanguardia para ofrecerle un portafolio de servicios, diseñado de acuerdo a las necesidades de transporte de su negocio:\n\n- Envío de mercancía, mensajería y paquetería nacional e internacional.\n- Radicación y Firma de documentos\n- Casillero Internacional\n- Carga masiva\n- Carga aérea\n- Desconsolidación de contenedores\n- Operaciones logísticas e-commerce\n- Transporte de Mercancías químicas\n- Transporte de Mercancías Pharma\n- Empaques a la medida de tus envíos\n\n## Cómo aplicar\n\nEnviar un email a [arturomontalva@torre.ai] con tu CV, usa 'Líder Técnico' como asunto.\n\n---\n\n## Meta\n\n<!--\n  These meta tickboxes automatically apply labels to your post\n  Learn more in the README https://github.com/TechnologyMasters/jobs/blob/master/README.md#label-definitions\n\n  Note, you must fill in the checkboxes correctly in order for them to appear as checked in Markdown\n\n  Unfilled examples:\n  - [ ] Full Time\n  - [ x] Full Time\n  - [x ] Full Time\n\n  Filled example:\n  - [x] Full Time\n-->\n\n- [x] Full Time\n- [ ] Part Time\n- [ ] Contract\n- [ ] Internship\n- [ ] Remote Worldwide\n- [ ] Remote Regional\n- [ ] Remote OK",
-      "excerpt": "<!-- PLEASE REVIEW RULES BEFORE POSTING: https://github.com/TechnologyMasters/jobs/blob/master/README.md#employers # Issue title format: [Company Name] - [Job Title] - [Location] - [Salary] [Currency]/[Frequency] --> ...",
-      "issueState": "open",
-      "contentHash": "5f09584a69c5670cd26fda78280aef4dcc61b41a0a7bdc60cc898775ebd04c37",
-      "repository": "TechnologyMasters/jobs",
-      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote",
-        "react",
-        "typescript"
-      ],
-      "author": {
-        "id": "IndependentRecruiter",
-        "name": "IndependentRecruiter",
-        "handle": "IndependentRecruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/168021662?v=4"
-      },
-      "community": {
-        "id": "TechnologyMasters",
-        "name": "TechnologyMasters",
-        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
-        "repository": "TechnologyMasters/jobs",
-        "url": "https://github.com/TechnologyMasters/jobs"
-      },
-      "createdAt": "2024-04-26T14:40:27Z",
-      "updatedAt": "2024-04-26T14:41:42Z",
-      "url": "https://github.com/TechnologyMasters/jobs/issues/704",
       "sourceType": "github-issue"
     }
   ]
