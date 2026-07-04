@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-03T19:06:40.579Z",
+  "generatedAt": "2026-07-04T06:13:32.397Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "backend-br/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 28,
-    "closedIssues": 2
+    "openIssues": 27,
+    "closedIssues": 3
   },
-  "dataHash": "caf433ed01631c743104c3fca8734e6087d5b954eea74593f7292b4fec03ee91",
+  "dataHash": "fbef4c3bd1b55e763fe21dd95036b7180e3460788b9b6de7b2b042dd3e69dc72",
   "items": [
     {
       "id": "gh_c16a9b067fa99b03ac968205",
@@ -710,32 +710,32 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_c396744a66b9b12760764d63",
-      "sourceId": "backend-br/vagas#12287",
-      "title": "[Rio Claro - São Paulo] Developer Pleno/Sênior — Backend & Integrações no Grupo MNGT",
-      "description": "## Descrição da vaga\n\nBuscamos dois desenvolvedores com sólida experiência em backend Python e integração entre sistemas corporativos para reforçar nosso time de TI. Você será responsável por conectar plataformas de gestão, construir automações financeiras e operacionais, evoluir agentes de IA em produção e garantir a estabilidade e qualidade das entregas. Trabalhará de forma autônoma dentro de um time enxuto, colaborando diretamente com o gestor de TI e com as áreas de negócio para traduzir requisitos em soluções concretas.\n\n## Local\n\nPreferencialmente presencial em Rio Claro - SP, com possibilidade de ser híbrido para quem mora em São Paulo, com idas a Rio Claro.\n\n## Requisitos\n\n### Responsabilidades\n- Desenvolver e manter integrações entre sistemas corporativos via API REST e webhooks.\n- Criar e evoluir rotinas de automação financeira e operacional (leitura, transformação e carga de dados entre ERPs).\n- Construir e melhorar agentes e pipelines de IA utilizando LLMs, com foco em automação de processos internos.\n- Participar das cerimônias ágeis (dailies, plannings, retrospectivas) e colaborar ao longo de todo o ciclo de entrega.\n- Contribuir para documentação técnica, code review e boas práticas de desenvolvimento.\n- Apoiar deploy, monitoramento e manutenção dos ambientes e serviços em produção.\n- Interagir com áreas não técnicas para levantamento e refinamento de requisitos.\n\n### O que você precisa ter\n- Python: domínio sólido; experiência com FastAPI ou Flask para construção de APIs e serviços.\n- Integrações: consumo e desenho de APIs REST, autenticação OAuth2/JWT, manipulação de JSON/XML.\n- Banco de dados: SQL e modelagem relacional (PostgreSQL / Supabase); noção de performance e índices.\n- Git / GitHub: fluxo diário com branches, PRs e code review.\n- Autonomia: capacidade de resolver problemas com autogerenciamento e comunicação clara.\n- IA / LLMs: experiência prática utilizando modelos de linguagem em automações ou produtos.\n\n### Diferenciais\n- Experiência com orquestração de agentes (multi-agent, human-in-the-loop).\n- Conhecimento de conteinerização (Docker) e práticas básicas de DevOps/CI-CD.\n- Familiaridade com ERPs do mercado de construção civil ou logística.\n- Testes automatizados com pytest.\n- Leitura técnica em inglês.\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nCandidate-se aqui: https://oportunidades.mindsight.com.br/grupomngt/16\n\n### Nível\n\n- Pleno\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Presencial",
-      "excerpt": "## Descrição da vaga Buscamos dois desenvolvedores com sólida experiência em backend Python e integração entre sistemas corporativos para reforçar nosso time de TI. Você será responsável por conectar plataformas de ge...",
+      "id": "gh_b03b3f7f6aecea6acd0cdc74",
+      "sourceId": "backend-br/vagas#12248",
+      "title": "[Bolsa Inovação] Full-Stack / Backend Developer (React, IA LLM, RAG Multicamadas, n8n, Supabase) - SAPCON",
+      "description": "## SAPCON\n\nSistema de Automação de Planos de Contingência.\n\n## Descrição da vaga\n\nEstamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma Web e motores de automação.\nO que você vai fazer (Escopo das 40 semanas)\n*MVP 1 (Coração Orquestrador): Modelagem do banco de dados relacional, criação de arquitetura Multi-RAG com foco em Chunking Semântico e Reranking (evitando infoxicação da LLM), e tradução de regras determinísticas de organograma/escalas de funcionários.\n*MVP 2 (Automação e Campo): Integração com APIs externas de monitoramento (clima/alertas), robôs de webscrapping para busca ativa de recursos e homologação de canais de comunicação (WhatsApp API e Voz STT/TTS).\n*MVP 3 (Escala e IA): Desenvolvimento do fluxo \"Redator\" para geração automatizada de Planos de Contingência (Placon) baseados em modelos doutrinários e cruzamento seguro entre bases de conhecimento.\nObs: desejável conhecimento para desenvolver App que inicialmente será apenas para visualização das informações, e envio de mensagens.\n\n## Local\n\n100% remoto.\n\n## Requisitos\n\n* Forte domínio em *React / TypeScript** e consumo de APIs RESTful.\n* Experiência prática em modelagem de bancos de dados relacionais (PostgreSQL / Supabase).\n* Familiaridade com ferramentas de automação visual de fluxos (preferencialmente **n8n**).\n* Entendimento conceitual sobre arquiteturas de IA (RAG, busca vetorial, embeddings e manipulação de contexts).\n* Maturidade para trabalhar de forma autônoma, organizada e focada em marcos de entrega (*milestones*).\n\n## Benefícios\n\nTotalmente remoto.\nFlexibilidade de horário.\nLiberdade para propor modificações.\nPretendemos, após os 12 meses, continuar vínculo com o profissional.\n\n## Contratação\n\nModelo de Contratação: Bolsista de Desenvolvimento Tecnológico / Extensão Inovadora (fomento público).\nRemuneração: 'Aproximadamente' R$ 50.000,00 totais divididos ao longo do projeto de 12 meses.\nCronograma de desenvolvimento: estimamos 9 meses. Restante do tempo para suporte técnico e correções.\nCarga Horária: Estimado em 20h semanais, com horários flexíveis, e foco em entregas/sprints.\n\n## Como se candidatar\n\nEmail para: contato@sapcon.com.br\n\n## Labels\n\n### Nível\n- Pleno\n- Sênior\n- Especialista\n\n### Regime\n- Contrato\n- Freelance\n\n### Alocação\n- Remoto",
+      "excerpt": "## SAPCON Sistema de Automação de Planos de Contingência. ## Descrição da vaga Estamos buscando desenvolvedor focado em arquitetura backend, integrações e engenharia de IA para apoiar a construção da nossa plataforma ...",
       "issueState": "open",
-      "contentHash": "05510e1e01345e20923a7105bbc30be06954a2d1cf955877c04569efdcb953e2",
+      "contentHash": "71ca66ab97f9cb499641d728481d8fcf4d743279cc5d34a56349ffdd57066ec9",
       "repository": "backend-br/vagas",
       "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "pj",
         "pleno",
         "sênior",
-        "python",
-        "flask",
-        "presencial",
-        "testes automatizados",
-        "postgresql"
+        "remoto",
+        "especialista",
+        "typescript",
+        "postgresql",
+        "freelance",
+        "stale"
       ],
       "author": {
-        "id": "JuscelinoJunior",
-        "name": "JuscelinoJunior",
-        "handle": "JuscelinoJunior",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23690136?v=4"
+        "id": "fmcarpes",
+        "name": "fmcarpes",
+        "handle": "fmcarpes",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51268403?v=4"
       },
       "community": {
         "id": "backend-br",
@@ -744,10 +744,9 @@
         "repository": "backend-br/vagas",
         "url": "https://github.com/backend-br/vagas"
       },
-      "companyName": "Grupo MNGT",
-      "createdAt": "2026-06-18T04:37:16Z",
-      "updatedAt": "2026-06-23T20:16:09Z",
-      "url": "https://github.com/backend-br/vagas/issues/12287",
+      "createdAt": "2026-05-28T22:20:25Z",
+      "updatedAt": "2026-07-04T02:36:12Z",
+      "url": "https://github.com/backend-br/vagas/issues/12248",
       "sourceType": "github-issue"
     },
     {
@@ -796,7 +795,7 @@
       "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
       "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Nossa empresa\n\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\n## Local\n\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\n## Requisitos\n\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\n Event Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\n## Benefícios\n\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\n## Contratação\n\nCooperativa\n\n## Como se candidatar\n\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- Cooperado\n\n### Alocação\n\n- Híbrido",
       "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "94665ef779ad0efc96ff6f3844a18ffedcf7e54c971fe6d90ff43a7a57922ef5",
       "repository": "backend-br/vagas",
       "repositoryUrl": "https://github.com/backend-br/vagas",
@@ -826,7 +825,7 @@
         "url": "https://github.com/backend-br/vagas"
       },
       "createdAt": "2026-05-26T18:14:14Z",
-      "updatedAt": "2026-06-30T03:23:03Z",
+      "updatedAt": "2026-07-04T02:36:11Z",
       "url": "https://github.com/backend-br/vagas/issues/12246",
       "sourceType": "github-issue"
     },
