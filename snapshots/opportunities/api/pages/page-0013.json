@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-05T16:02:13.285Z",
+  "generatedAt": "2026-07-05T21:55:01.729Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
+    "gh_62f08a2ae2deba541d87e195",
     "gh_8e17475ccce44e680c92068f",
     "gh_d774a41259f652c1ea370252",
     "gh_26b7c402e14a59e43ad9828b",
@@ -22,10 +23,44 @@
     "gh_c813b7e2c69adf3cd24e2666",
     "gh_f1495b68fe7d4f8349ceb1b6",
     "gh_bf09c7d748b34bd02d2443a5",
-    "gh_90da04043225a0b75c5b63f5",
-    "gh_7895541ae68ea62e3538ba5f"
+    "gh_90da04043225a0b75c5b63f5"
   ],
   "items": [
+    {
+      "id": "gh_62f08a2ae2deba541d87e195",
+      "sourceId": "datascience-br/vagas#156",
+      "title": "Cientista de Dados - Remoto - KarHub",
+      "description": "## Descrição da vaga\n\nComo Data Science na KarHub, você fará parte da construção e evolução de sistemas inteligentes que combinam GenAI e modelos de Machine Learning tradicional para resolver problemas reais e de alto impacto em três pilares estratégicos: vendas, experiência do cliente e eficiência operacional.\n\nResponsabilidades:\n\nCriar, desenvolver e evoluir modelos de Machine Learning e GenAI que suportem áreas como vendas, marketing, catálogo, pricing e experiência do cliente.\n\nRealizar análises exploratórias, preparar dados, construir features e desenvolver pipelines de ML que gerem recomendações e insights acionáveis.\n\nProjetar e otimizar prompts, criar classificadores e agentes baseados em LLMs para acelerar operações internas e melhorar a jornada do cliente.\n\nParticipar da evolução de modelos já existentes, garantindo robustez, monitoração, escalabilidade e performance em produção.\n\nConstruir análises de impacto e identificar oportunidades para otimização de campanhas, precificação dinâmica, cross-selling, priorização de estoque próprio e estratégias de logística (como envio para Full).\n\nColaborar com Engenharia de Dados e áreas de negócio para transformar problemas estratégicos em soluções inteligentes e escaláveis, sempre com responsabilidade e foco no impacto.\n\n## Local\n\nRemoto \n\n## Benefícios\n\n- Plano de saúde\n\n...\n\n## Requisitos\n\nFormação em Ciência de Dados, Estatística, Matemática, Computação, Engenharia ou áreas correlatas.\n\nProficiência em Python e SQL para manipulação, análise e modelagem de dados em larga escala.\n\nConhecimentos práticos em Machine Learning (regressão, classificação, árvores, clustering, séries temporais, etc.) e familiaridade com Scikit-learn.\n\nConhecimentos de RAG, embeddings e prompt engineering.\n\nExperiência com banco de dados vetoriais (Pinecone ou similares)\n\nCapacidade de comunicar resultados de forma clara, visual e orientada a impacto.\n\n\n#### Desejáveis:\n\nExperiência prática com modelos em produção, pipelines, monitoração ou ferramentas como Airflow/DBT.\n\nVivência com GCP e ambientes distribuídos (Spark/Pyspark).\n\nFamiliaridade com TensorFlow, PyTorch ou modelos mais avançados de NLP/LLMs.\n\n\n\n\n## Contratação\n\n- PJ a combinar\n\n\n## Como se candidatar\n\nPor favor envie um email para recrutamento@karhub.com.br com seu CV anexado - enviar no assunto: Vaga Cientista de Dados\n\n\n\n#### Nível\n- Pleno",
+      "excerpt": "## Descrição da vaga Como Data Science na KarHub, você fará parte da construção e evolução de sistemas inteligentes que combinam GenAI e modelos de Machine Learning tradicional para resolver problemas reais e de alto ...",
+      "issueState": "open",
+      "contentHash": "57b779c470c7e4e60d4852ec56be8b16c2519a4eed92a641997b20cc481a46e0",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "laramodenese-eng",
+        "name": "laramodenese-eng",
+        "handle": "laramodenese-eng",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255415031?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-02-04T15:14:46Z",
+      "updatedAt": "2026-02-04T15:14:46Z",
+      "url": "https://github.com/datascience-br/vagas/issues/156",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8e17475ccce44e680c92068f",
       "sourceId": "soujava/vagas-java#1858",
@@ -721,40 +756,6 @@
       "createdAt": "2025-12-20T08:51:33Z",
       "updatedAt": "2025-12-20T10:19:07Z",
       "url": "https://github.com/f2etw/jobs/issues/1163",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7895541ae68ea62e3538ba5f",
-      "sourceId": "datascience-br/vagas#155",
-      "title": "Cientista de Dados - Remoto",
-      "description": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto confiam suas necessidades de TI à Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na seguinte vaga: Cientista de Dados - Remoto.\n\n\n\nO que oferecemos a você:\n- Assistência médica sem desconto para titulares;\n- Assistência odontológica sem desconto para titulares;\n- Cartão flex tanto para alimentação quanto refeição;\n- Auxílio home office para vaga remota;\n- Vale transporte para posições presenciais ou híbridas;\n- Auxílio creche;\n- Seguro de vida;\n- Desconto em terapia: plataforma de apoio psicossocial;\n- Parceria com instituições de ensino;\n- Parceria com escolas de idiomas;\n- Programa de subsídio para aulas de inglês;\n- Programa de indicações: prêmio para indicações bem-sucedidas;\n- Licença maternidade estendida de 180 dias e a licença paternidade de 20 dias;\n- Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, LinkedIn Learning e Udemy, que possui mais de 80.000 cursos disponíveis;\n- GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, trabalhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics!\n\n\nO que esperar desta posição:\n\nProjeto de desenvolvimento e melhorias em sistemas bancários.\n\n\nO que esperamos de você:\n\nConhecimentos:\n\nProgramação;\nTratamento de Dados.\nLinguagens:\n\nPython;\nPySpark;\nSQL.\nFerramentas:\n\nBig Data:\n\nHUE;\nHive;\nSpark (SparkML);\nNIFI.\nBanco de Dados:\n\nDB2;\nMySQL;\nOracle;\nDbeaver (Ferramenta de Consulta).\nModelagem de Dados (Erwin)\nVersionamento de código (Git)\nDashboards:\n\nSpotfire;\nPower BI.\nCiência de Dados\n\nManipulação de Dados;\nVisualização de Dados;\nEstatística;\nModelagem Preditiva;\nInteligência Artificial\nIA Generativa\nMachine Learning.\n\n\nO que fazer em seguida:\n\nCaso você seja a pessoa que estamos procurando, aguarde nosso contato para te conhecermos melhor e siga as instruções durante o processo seletivo.Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail recrutamento@getronics.com.",
-      "excerpt": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendime...",
-      "issueState": "open",
-      "contentHash": "eee6e40f0735f41aad5928f7243598417b9571db1d87b3e93ac6d4bcdbadba00",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "bellaharashi",
-        "name": "bellaharashi",
-        "handle": "bellaharashi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/176301649?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-12-10T17:26:51Z",
-      "updatedAt": "2025-12-26T20:51:18Z",
-      "url": "https://github.com/datascience-br/vagas/issues/155",
       "sourceType": "github-issue"
     }
   ]

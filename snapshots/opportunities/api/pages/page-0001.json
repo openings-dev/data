@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-05T16:02:13.285Z",
+  "generatedAt": "2026-07-05T21:55:01.729Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_cfd654d78091a572cbf02096",
     "gh_6ed380c2551224258c7cf545",
     "gh_1c13a5f81bce6dc5dea5cd0a",
     "gh_1cfcca258b5454d98df31fb8",
@@ -22,10 +23,42 @@
     "gh_c16a9b067fa99b03ac968205",
     "gh_185ce8a92c7177c930ddff97",
     "gh_3a051455a1b7fb0ddf54438e",
-    "gh_22e6d5137186ccfccf43d7fb",
-    "gh_52f8df6bc3aa36f9356654fb"
+    "gh_22e6d5137186ccfccf43d7fb"
   ],
   "items": [
+    {
+      "id": "gh_cfd654d78091a572cbf02096",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9609",
+      "title": "Don't we want to call these \"Summer 2027 Internships\" now?",
+      "description": "### Issue/Question\n\nThe recruiting cycle for Summer 2026 internships is basically over...",
+      "excerpt": "### Issue/Question The recruiting cycle for Summer 2026 internships is basically over...",
+      "issueState": "open",
+      "contentHash": "e697e84db4e05a57d2cf0c2e5eee49de83e8e97313853be1f817342827956d1e",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "misc"
+      ],
+      "author": {
+        "id": "Aarreks",
+        "name": "Aarreks",
+        "handle": "Aarreks",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/140989233?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-05T20:36:09Z",
+      "updatedAt": "2026-07-05T20:36:09Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9609",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_6ed380c2551224258c7cf545",
       "sourceId": "backend-br/vagas#12310",
@@ -697,49 +730,6 @@
       "createdAt": "2026-07-03T13:06:47Z",
       "updatedAt": "2026-07-03T13:07:03Z",
       "url": "https://github.com/backend-br/vagas/issues/12306",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_52f8df6bc3aa36f9356654fb",
-      "sourceId": "backend-br/vagas#12305",
-      "title": "[Remoto] Desenvolvedor(a) Node.js Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Node.js Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Node.js compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-node-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "d5002e1948566da2f800980e5ed09b67158fd514de2fa663d1be4be866328728",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "node.js",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-03T13:05:14Z",
-      "updatedAt": "2026-07-03T13:05:32Z",
-      "url": "https://github.com/backend-br/vagas/issues/12305",
       "sourceType": "github-issue"
     }
   ]
