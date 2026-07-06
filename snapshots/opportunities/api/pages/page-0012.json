@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-06T17:37:23.352Z",
+  "generatedAt": "2026-07-06T19:45:55.918Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
   "ids": [
+    "gh_86cf7c4c726a6cec1163d1fb",
     "gh_c01a0a3f6404a175991bbcce",
     "gh_3cb49aacda2ec7dd8e38be24",
     "gh_b6ad9f2a9bbc5c9e930223d7",
@@ -12,7 +13,6 @@
     "gh_1cb7700b20f4fcdce63c6f02",
     "gh_e5a048bc61d56ec20e336489",
     "gh_15fb9ec0047c0e7cc80ada55",
-    "gh_85486f31f6bca38c2dd8836a",
     "gh_5903d3232c2f99d9ae568fe8",
     "gh_eae48d87a90e3ffbeb60afaf",
     "gh_349305368c4768961f805995",
@@ -26,6 +26,42 @@
     "gh_337dcc0369d8226aab4c836f"
   ],
   "items": [
+    {
+      "id": "gh_86cf7c4c726a6cec1163d1fb",
+      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#1",
+      "title": "Bug: Company logo thumbnails enter corrupted render state after job application, stale DOM / z-index collision across job card components",
+      "description": "# Company thumbnails overlap other job cards after applying to a posting\n\nHey team,\n\nI've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that job bleeds over into the other job cards in the feed. Sometimes it stacks on top of the adjacent card's logo, sometimes it straight up replaces it. It looks pretty broken.\n\nThe weird part is that it fixes itself the moment I do a hard refresh. So the data coming from the backend seems fine, this is purely a client-side rendering issue.\n\n## Repro\n\n1. Go to the job listings feed.\n2. Apply to any job.\n3. Come back to the listings (back nav or closing the apply modal).\n4. The thumbnails on nearby job cards are now messed up; wrong logos, overlapping, stacked, etc.\n5. Refresh the page → everything goes back to normal.\n\nThis happens every single time, not intermittent. I've tried it across a few different browsers (Chrome and Firefox) and it's the same behavior.\n\n## What I think is going on\n\nI'm a software engineer so I poked around in devtools a bit. A few things that might be worth looking at:\n\n**Key prop issue on the list**: If the job card list is keyed by array index instead of something stable like `job.id`, React's reconciler will reuse DOM nodes incorrectly when the list state changes after applying. This would explain why the thumbnails get \"shifted\" onto wrong cards. Classic React anti-pattern.\n\n**Stacking context / z-index leak**: When the apply flow triggers (modal, overlay, toast, whatever), it might be setting `position: absolute` or bumping `z-index` on the applied card's thumbnail. If that style isn't cleaned up properly (maybe an animation callback that doesn't fire?), the image escapes its container and sits on top of siblings. Throwing `overflow: hidden` and `position: relative` on the card container would contain this.\n\n**Race condition on refetch**: If applying fires off a POST and then the feed revalidates in parallel (SWR `mutate()`, React Query `invalidateQueries()`, etc.), there's a window where partial/stale data gets rendered before the fresh response lands. The thumbnails might be getting swapped around during that intermediate state.\n\n**Image caching**: Less likely, but if there's a custom image component or service worker caching thumbnails by position/index instead of URL, a re-render after apply could serve the wrong cached image to the wrong card.\n\n## Quick fix suggestions\n\n- Check that `key={job.id}` (or whatever unique identifier) is used on the card list, not `key={index}`.\n- Make sure each card's thumbnail container has its own stacking context (`position: relative; overflow: hidden;`).\n- If the apply action triggers a list refetch, batch the state update or wrap it in `startTransition` so you don't get an intermediate broken frame.\n- Audit `useEffect` cleanups around the apply modal/overlay, something might not be resetting styles on unmount.\n\n## Environment\n\n- Chrome 124  on macOS\n- Desktop, standard resolution\n- Happens on both fast and slow connections so it's not a network timing thing\n\nNot a blocker since refresh fixes it, but it makes the platform look buggy and I'd imagine it's hurting trust with less technical users who don't know to just reload. Happy to provide more details or screen recordings if that helps.",
+      "excerpt": "# Company thumbnails overlap other job cards after applying to a posting Hey team, I've been noticing a consistent visual bug on the platform. Every time I apply to a job posting, the company logo/thumbnail from that ...",
+      "issueState": "open",
+      "contentHash": "1e4843c8fb9d905a53f168f5b02b0201043140e257eec09e5f353c378fe3c473",
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "backend",
+        "react",
+        "node",
+        "data"
+      ],
+      "author": {
+        "id": "JayDS22",
+        "name": "JayDS22",
+        "handle": "JayDS22",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91157708?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-Internship",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
+      },
+      "createdAt": "2026-03-22T16:47:15Z",
+      "updatedAt": "2026-03-22T16:51:05Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/1",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c01a0a3f6404a175991bbcce",
       "sourceId": "qa-brasil/vagas#1247",
@@ -331,41 +367,6 @@
       "createdAt": "2026-03-06T12:54:58Z",
       "updatedAt": "2026-03-06T12:55:21Z",
       "url": "https://github.com/programadores-br/geral/issues/3058",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_85486f31f6bca38c2dd8836a",
-      "sourceId": "programadores-br/geral#3057",
-      "title": "[Hibrido / São Paulo, Brasil] Analista de Dados - Afirmativa para PCD na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-negocios-afirmativa-para-pcd-122422707?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando **Analista de Dados** para uma empresa parceira.\n\n**IMPORTANTE:** Vaga Afirmativa para PCD\n\n**Responsábilidades:**\n\n*   Entender os requisitos de negócios e desenvolver dashboards e relatórios utilizando plataformas de visualização de BI, com especial foco em Power BI.\n    \n*   Realizar a manutenção de relatórios existentes e propor melhorias contínuas para otimizar a visualização e a entrega de informações.\n    \n*   Utilizar aplicações analíticas para identificar tendências e relacionamentos entre diferentes conjuntos de dados, traduzindo-os em descobertas analíticas claras e impactantes.\n    \n*   Conduzir auditorias e monitoramento da qualidade dos dados para garantir a integridade e confiabilidade das informações.\n    \n*   Colaborar ativamente com diversos stakeholders, incluindo equipes de tecnologia e de negócio, para criar e aprimorar produtos de dados, garantindo o alinhamento com os objetivos estratégicos.\n    \n*   Atuar como P.O. (Product Owner) em projetos específicos, priorizando e gerenciando as demandas com base nos objetivos e impactos de negócio.\n    \n*   Avaliar novas ferramentas e tecnologias para continuamente melhorar os processos analíticos e a eficiência da área.\n## Coodesh Carreiras: \n <p>Nós somos a Coodesh, uma plataforma que conecta pessoas da área de tecnologia em oportunidades 100% remotas de nossas empresas parceiras.</p>\n<p>Em nossa plataforma você encontra posições de diversos níveis, tecnologias e modelos de contratação, de variadas empresas com diversas culturas e que oferecem diversos desafios, pensando sempre em atender as expectativas e objetivos de nossas pessoas candidatas.</p><a href='https://coodesh.com/companies/coodesh-selected'>Veja mais no site</a>\n\n ## Habilidades: \n - Inglês \n- Power BI \n- Python \n- SQL/PostgreSQL \n- Tableau \n- Looker Studio\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Graduação em Administração, Engenharias, Economia, Estatística, Ciência da Computação ou áreas correlatas. \n- Experiência profissional comprovada trabalhando com dados e análises. \n- Português fluente e Inglês avançado (capacidade de participar de reuniões, redigir e-mails e fazer apresentações). \n- Forte domínio em SQL. \n- Proficiência em Python para análise e manipulação de dados. \n- Experiência sólida no desenvolvimento de dashboards utilizando Power BI, Tableau, Looker Studio ou ferramentas similares. \n- Experiência na manipulação de grandes conjuntos de dados e utilização de bancos de dados (preferencialmente Google Big Query). \n- Conhecimento em ferramentas para cruzamento de dados, como Alteryx. \n- Capacidade comprovada de interpretar grandes volumes de dados, realizar atividades analíticas e processuais complexas, e apresentar dados de forma clara e eficaz, atendendo às necessidades específicas dos diversos stakeholders.\n## Diferenciais: \n - Espanhol intermediário \n- Experiência de trabalho em start-ups e empresas de tecnologia. \n- Pós-graduação ou especialização em dados. \n- Conhecimento e aplicação de práticas ágeis. \n- Conhecimentos em CRM (especialmente Salesforce). \n- Familiaridade com modelos preditivos, Inteligência Artificial (IA) e Aprendizado de Máquina (ML).\n## Benefícios: \n - Serão detalhados no decorrer do processo.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Analista de Dados - Afirmativa para PCD na Coodesh Carreiras](https://coodesh.com/jobs/analista-de-negocios-afirmativa-para-pcd-122422707?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nBanco de Dados",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "7425889b55defb42db2d8b626c1d6e7462401fa5b0cbf4990beee69501b47633",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "clt"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:33:58Z",
-      "updatedAt": "2026-03-06T12:34:20Z",
-      "url": "https://github.com/programadores-br/geral/issues/3057",
       "sourceType": "github-issue"
     },
     {

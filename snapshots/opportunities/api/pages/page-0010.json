@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-06T17:37:23.352Z",
+  "generatedAt": "2026-07-06T19:45:55.918Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_3ca6bfcccb91efa2b245a1f6",
     "gh_87ff6095a89da3f020be3eb8",
     "gh_cb3234a96bffc3e0b5521d34",
     "gh_782159ca5f832eb0fb7f999e",
@@ -22,10 +23,42 @@
     "gh_1efee2417f6bee01b5cd3f0a",
     "gh_270034965458fc3af3e97f7b",
     "gh_046e40a5a4aaffa9b0373703",
-    "gh_005e9d2bba01454364d45942",
-    "gh_08c2b289f0b0fbaf5bd9f142"
+    "gh_005e9d2bba01454364d45942"
   ],
   "items": [
+    {
+      "id": "gh_3ca6bfcccb91efa2b245a1f6",
+      "sourceId": "lukasz-madon/awesome-remote-job#1053",
+      "title": "Add claudio: productivity tool for remote workers with voice dictation",
+      "description": "Repository: https://github.com/ayushkumar1808/claudio\n\nclaudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, terminal) to dictate text. Useful productivity tool for remote workers.",
+      "excerpt": "Repository: https://github.com/ayushkumar1808/claudio claudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, te...",
+      "issueState": "open",
+      "contentHash": "34f0812e9748512ef7767de54d589637ded444e3e146dc3f0b5d287767494cca",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "ayushkumar1808",
+        "name": "ayushkumar1808",
+        "handle": "ayushkumar1808",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145252811?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-05-22T01:54:40Z",
+      "updatedAt": "2026-07-02T18:16:34Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_87ff6095a89da3f020be3eb8",
       "sourceId": "qa-brasil/vagas#1255",
@@ -735,37 +768,6 @@
       "createdAt": "2026-05-07T13:13:59Z",
       "updatedAt": "2026-05-07T13:13:59Z",
       "url": "https://github.com/speedyapply/2027-SWE-College-Jobs/issues/39",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_08c2b289f0b0fbaf5bd9f142",
-      "sourceId": "cncf/gitjobs#383",
-      "title": "Ability to manually assign jobs to a foundation/project after submission",
-      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
-      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
-      "issueState": "open",
-      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
-      "repository": "cncf/gitjobs",
-      "repositoryUrl": "https://github.com/cncf/gitjobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "iamweswilson",
-        "name": "iamweswilson",
-        "handle": "iamweswilson",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
-      },
-      "community": {
-        "id": "cncf",
-        "name": "cncf",
-        "avatarUrl": "https://github.com/cncf.png?size=80",
-        "repository": "cncf/gitjobs",
-        "url": "https://github.com/cncf/gitjobs"
-      },
-      "createdAt": "2026-05-05T18:56:03Z",
-      "updatedAt": "2026-05-06T15:39:22Z",
-      "url": "https://github.com/cncf/gitjobs/issues/383",
       "sourceType": "github-issue"
     }
   ]
