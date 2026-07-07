@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T19:45:55.918Z",
+  "generatedAt": "2026-07-07T02:16:10.680Z",
   "schemaVersion": 3,
   "pageSize": 20,
-  "dataHash": "b51a0063f1fe60c257bae583a8a39305c228d51b209b8a919de26103704771d7",
+  "dataHash": "79129faaa3de7087b16152742c80848391704b1b5eff79caa4859ab95a7a4aae",
   "totals": {
-    "openOpportunities": 760,
-    "pages": 38,
+    "openOpportunities": 761,
+    "pages": 39,
     "repositories": 103,
     "countries": 16,
     "regions": 5
@@ -76,7 +76,7 @@
       "js-hcm/job-board": 3,
       "kotlin-br/vagas": 2,
       "LinuxSuRen/remote-jobs-in-china": 3,
-      "lukasz-madon/awesome-remote-job": 3,
+      "lukasz-madon/awesome-remote-job": 4,
       "MacaeTech/vagas": 2,
       "marmelo/tech-companies-in-portugal": 1,
       "matildaexp/remote-latam": 2,
@@ -126,7 +126,7 @@
     "regions": {
       "Asia": 141,
       "Europe": 9,
-      "Global": 66,
+      "Global": 67,
       "North America": 124,
       "South America": 420
     },
@@ -137,7 +137,7 @@
       "China": 10,
       "Colombia": 1,
       "Germany": 5,
-      "Global": 128,
+      "Global": 129,
       "Hong Kong": 4,
       "Italy": 2,
       "Mexico": 2,
@@ -256,7 +256,7 @@
       "react": 102,
       "react-native": 1,
       "recruited": 1,
-      "remote": 205,
+      "remote": 206,
       "remotely": 3,
       "remoteok-io": 15,
       "rest": 2,
@@ -276,7 +276,7 @@
       "sql": 6,
       "sre": 2,
       "staff": 10,
-      "stale": 17,
+      "stale": 16,
       "swift": 2,
       "takuma": 1,
       "testes-automatizados": 7,
@@ -546,6 +546,7 @@
       "Rahul-garg60": 3,
       "raquelallegretti": 1,
       "Rchristiani": 1,
+      "reckoning89": 1,
       "remote-job-board": 15,
       "renatoalencar": 2,
       "RHMontreal": 1,
@@ -622,6 +623,7 @@
       "ZachPlotkin": 1
     },
     "authorLabels": {
+      "reckoning89": "reckoning89",
       "FrancieleGhizzoni": "FrancieleGhizzoni",
       "aprameyak": "aprameyak",
       "GiovaniPole0": "GiovaniPole0",
@@ -1147,6 +1149,11 @@
       "page": 38,
       "file": "api/pages/page-0038.json",
       "count": 20
+    },
+    {
+      "page": 39,
+      "file": "api/pages/page-0039.json",
+      "count": 1
     }
   ]
 }

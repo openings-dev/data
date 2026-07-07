@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-06T22:09:31.688Z",
+  "generatedAt": "2026-07-07T02:16:10.680Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_dc9be57bac65e04edbf010e2",
     "gh_31771006fb197da7d3ea896f",
     "gh_3bdd4e8d4d2f63022f53d26c",
     "gh_54df0701f000c978f7e2fc78",
@@ -22,10 +23,42 @@
     "gh_4256788abef9b3a4b3b50c74",
     "gh_ce4e8d30eebff5434179fcdb",
     "gh_49aacd7ebb713a3ee77bafeb",
-    "gh_62636600992f18f83b456bfa",
-    "gh_cfd654d78091a572cbf02096"
+    "gh_62636600992f18f83b456bfa"
   ],
   "items": [
+    {
+      "id": "gh_dc9be57bac65e04edbf010e2",
+      "sourceId": "lukasz-madon/awesome-remote-job#1103",
+      "title": "Review PR #1102 — Remote Signal API (JSON jobs + Show HN feed)",
+      "description": "**Merge request — Remote Signal API listing**\n\nPR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache).\n\n- Live: https://intellectual-close-wages-west.trycloudflare.com/pricing\n- Free: 10 req/day | Pro: $5 USDC/mo | Agents: x402 $0.02/req on Base\n- Docs: https://gist.github.com/reckoning89/d87818b2020bbc27590df1fa0c42f175\n- Verified: 138+ API calls from 40+ external IPs this week\n\nHappy to adjust copy/format. Ready to merge when convenient — thanks for maintaining this list!",
+      "excerpt": "**Merge request — Remote Signal API listing** PR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache). - Live: https://intellectual-close-wages-west.trycloudflare.com/pri...",
+      "issueState": "open",
+      "contentHash": "ab62bc1a66b1fce40ffd39e5e06a8ceb9316d5822243f9fe455228ef73a967f2",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "reckoning89",
+        "name": "reckoning89",
+        "handle": "reckoning89",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/216601217?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-07-07T00:03:28Z",
+      "updatedAt": "2026-07-07T01:21:00Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1103",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_31771006fb197da7d3ea896f",
       "sourceId": "programadores-br/geral#3084",
@@ -362,7 +395,7 @@
         "period": "month"
       },
       "createdAt": "2026-07-06T13:11:55Z",
-      "updatedAt": "2026-07-06T20:38:15Z",
+      "updatedAt": "2026-07-07T00:07:06Z",
       "url": "https://github.com/vuejs-br/vagas/issues/606",
       "sourceType": "github-issue"
     },
@@ -757,39 +790,6 @@
       "createdAt": "2026-07-06T13:00:30Z",
       "updatedAt": "2026-07-06T13:00:48Z",
       "url": "https://github.com/backend-br/vagas/issues/12311",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cfd654d78091a572cbf02096",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9609",
-      "title": "Don't we want to call these \"Summer 2027 Internships\" now?",
-      "description": "### Issue/Question\n\nThe recruiting cycle for Summer 2026 internships is basically over...",
-      "excerpt": "### Issue/Question The recruiting cycle for Summer 2026 internships is basically over...",
-      "issueState": "open",
-      "contentHash": "e697e84db4e05a57d2cf0c2e5eee49de83e8e97313853be1f817342827956d1e",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "misc"
-      ],
-      "author": {
-        "id": "Aarreks",
-        "name": "Aarreks",
-        "handle": "Aarreks",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/140989233?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-05T20:36:09Z",
-      "updatedAt": "2026-07-05T20:36:09Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9609",
       "sourceType": "github-issue"
     }
   ]
