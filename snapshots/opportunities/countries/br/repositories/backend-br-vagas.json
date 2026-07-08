@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:26:52.892Z",
+  "generatedAt": "2026-07-08T19:11:47.835Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,8 +9,54 @@
     "openIssues": 27,
     "closedIssues": 3
   },
-  "dataHash": "52049439a2cbf7d2fe4193f815ae6eb664cc10a11ea00e6cfc5aedfff6e72200",
+  "dataHash": "4cdefa22ce693078c704d949577d264e8630e913a8528dd18a397e2c453ee1d5",
   "items": [
+    {
+      "id": "gh_7557e8348cc3ee95670cabc5",
+      "sourceId": "backend-br/vagas#12323",
+      "title": "[Remoto] Desenvolvedor(a) Full-Stack Sênior (TypeScript/React/Node) - Grupo Apex (EUA)",
+      "description": "## Sobre nós\n\nGrupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros\ncom DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de\nserviços de construção (riseconstruction.us). Os três produtos estão em produção, com clientes\nreais e receita real.\n\n## A vaga\n\nOs três produtos foram construídos majoritariamente com agentes de IA (Claude Code). Você vai\ntrabalhar COM esses agentes — eles revisam seus PRs, você revisa os deles. Procuramos alguém\nque use IA como alavanca e traga o que ela não traz: julgamento sênior sobre edge cases,\nintegridade de dados, migração segura e deploy sem susto. Os produtos estão ~80% prontos; o\ntrabalho é levá-los a 100% — a parte que separa produto de demo.\n\n## O que você vai fazer\n\n- Cutover de redesigns de staging para produção, incluindo migrações de schema manuais (MySQL)\n- Features de dashboard: fluxos de financiamento, pipeline de ofertas com SLA, portais por\n  papel (comprador/colaborador), chat interno, motores de orçamento e comissão\n- Integrações: Stripe (go-live), QuickBooks two-way, telefonia (Twilio), APIs de terceiros\n- Hardening: checagens multi-tenant, bugs de cálculo de folha (nível centavo), schema drift\n\n## Stack (igual nos 3 produtos)\n\nTypeScript, React, Vite, tRPC, Drizzle ORM, MySQL, Tailwind/Radix, Node.js em VPS Linux\n(nginx), Cloudflare R2. Integrações: Stripe, Twilio, QuickBooks, APIs Meta/Google.\n\n## Local\n\nRemoto (Brasil) — PJ\n\n## Requisitos\n\n- **Experiência:** 5+ anos levando TypeScript full-stack a produção; React + Node + SQL\n  profundos (o peso maior é backend)\n- **Produção de verdade:** já operou app em Linux puro (nginx, systemd, SSH, backup) — sem\n  rede de segurança de PaaS\n- **Cicatriz de integração:** Stripe, OAuth, webhooks (inclusive entrega duplicada)\n- **Inglês:** técnico de leitura/escrita (código e docs em inglês; dia a dia em português)\n- **Perfil:** autonomia, conforto genuíno em revisar código escrito por IA e ser revisado\n  por agentes\n- **Diferencial forte:** React Native/Expo — temos 3 apps mobile (Expo Router) na fila\n  depois da web, incluindo publicação nas lojas\n\n## Contratação\n\nPJ — **R$ 12.000 a R$ 18.000/mês**, conforme senioridade · full-time ou 30h+/semana\n- Cliente americano direto (sem agência no meio), pagamento em dia via Deel, longo prazo\n- Demo semanal · começa com **trial pago de 1 semana** (tarefa real do backlog, no seu rate)\n\n## Como se candidatar\n\nEmail para **alex@theapexauto.com** com assunto **[FULLSTACK] Seu Nome** contendo:\n1. A integração de produção mais cabeluda que você já entregou — o que quebrou e como descobriu\n2. Links de código seu com histórico real de commits\n3. Pretensão (R$/mês PJ) e disponibilidade\n\nPropostas genéricas são descartadas. Sem agências, por favor.",
+      "excerpt": "## Sobre nós Grupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros com DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de serviços de construç...",
+      "issueState": "open",
+      "contentHash": "25265dcfbb891324ce5612e04a8a67a004b8a049eb352bd1a880003ec771d542",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "node.js",
+        "go",
+        "remoto",
+        "mysql",
+        "typescript",
+        "sql"
+      ],
+      "author": {
+        "id": "matheu555",
+        "name": "matheu555",
+        "handle": "matheu555",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/221351562?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 18000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-08T18:36:05Z",
+      "updatedAt": "2026-07-08T18:36:23Z",
+      "url": "https://github.com/backend-br/vagas/issues/12323",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ccd963e6f5cd2bc7022668de",
       "sourceId": "backend-br/vagas#12322",
@@ -1190,52 +1236,6 @@
       "createdAt": "2026-05-25T16:54:47Z",
       "updatedAt": "2026-07-03T02:40:12Z",
       "url": "https://github.com/backend-br/vagas/issues/12245",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_782159ca5f832eb0fb7f999e",
-      "sourceId": "backend-br/vagas#12242",
-      "title": "[Remoto/Híbrido] Back-end Engineer Python - JCAL",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | BACK-END ENGINEER (PYTHON) | HEALTHCARE | 🌎💻(Mínimo 8 anos de experiências, Inglês avançado) \n\n🔗 Conecte-se comigo no LinkedIn:\nhttps://www.linkedin.com/in/thisclaudia\n\n\nSe você é Engenheiro de Software Sênior e busca atuar em um ambiente global, com autonomia real e impacto direto no produto, essa oportunidade pode ser para você.\nEstamos em busca de talentos para integrar uma empresa internacional do setor de Healthcare, trabalhando em projetos relevantes e com forte foco em qualidade, escalabilidade e inovação.\n💡 Experiência com regulamentações como HIPAA/PHI é um diferencial, mas não obrigatória.\n📍 Localização\nProfissionais localizados em São Paulo ou Rio de Janeiro são bem-vindos a se candidatar.\n🏡 A posição inicia 100% remota para profissionais residentes nestas localidades e posteriormente terá modelo híbrido em Curitiba (PR).\n\n💰 Remuneração: USD $3.000k – $4.750k / mês\n\n🔎 Requisitos Gerais\n✔ Inglês avançado (colaboração com times dos Estados Unidos)\n✔ +8 anos de experiência em desenvolvimento de software\n✔ Ensino Superior Completo em Ciência da Computação, Engenharia de Software ou áreas correlatas\n✔ Forte senso de ownership — da ideia à produção\n✔ Perfil proativo, independente e orientado a resultados\n\n\n💻 SENIOR BACK-END ENGINEER (PYTHON)\n\n🎯 Missão da posição:\nConstruir serviços escaláveis, seguros e confiáveis, contribuindo diretamente para a evolução da plataforma.\nResponsabilidades:\n• Desenvolver APIs e serviços backend escaláveis\n• Trabalhar com bancos de dados SQL e NoSQL\n• Implementar testes automatizados (unitários, integração e e2e)\n• Desenvolver e manter pipelines de CI/CD\n• Atuar com monitoramento, métricas, logs e suporte em produção\n• Contribuir com decisões técnicas e arquiteturais\n\n⭐ Diferenciais\n✔ Experiência com decisões arquiteturais pragmáticas\n✔ Automação de processos e melhoria contínua\n✔ Capacidade de identificar gargalos e propor soluções escaláveis\n✔ Mentalidade forte de qualidade (sem time separado de QA)\n\n💡 O mais importante: buscamos profissionais com autonomia, responsabilidade e mentalidade de produto.\n\nSe essa oportunidade faz sentido para você ou para alguém da sua rede, compartilhe ou entre em contato neste link abaixo 👇🏻 \nhttps://wa.me/5519978164262?text=Ol%C3%A1%0ASeja%20muito%20bem%20vindo(a)%0AVoc%C3%AA%20entrou%20em%20contato%20para%20conversarmos%20sobre%20oportunidades,%20logo%20mais%20irei%20te%20atender",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | BACK-END ENGINEER (PYTHON) | HEALTHCARE | 🌎💻(Mínimo 8 anos de experiências, Inglês avançado) 🔗 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/thisclaudia Se você é Engenh...",
-      "issueState": "open",
-      "contentHash": "3785bc51776e73270165e61bc25b19df52b254981f2dba4081f985be2acb0755",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "python",
-        "remoto",
-        "testes automatizados",
-        "sql",
-        "stale",
-        "híbrido",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 3000000,
-        "max": 4750000,
-        "period": "hour"
-      },
-      "createdAt": "2026-05-20T01:15:29Z",
-      "updatedAt": "2026-07-03T02:40:10Z",
-      "url": "https://github.com/backend-br/vagas/issues/12242",
       "sourceType": "github-issue"
     },
     {

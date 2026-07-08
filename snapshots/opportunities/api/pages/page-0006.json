@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-08T16:26:52.892Z",
+  "generatedAt": "2026-07-08T19:11:47.835Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_aee09e92fadf8366a70512db",
+    "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
     "gh_0e98dad659c3df11a1cb1cc8",
     "gh_5f066bed10486c20bcb3fc70",
@@ -21,11 +23,80 @@
     "gh_e178ee2363a4eb2ca10d3d06",
     "gh_28a89509442cf0e8c335df8d",
     "gh_711783b1e589482d26973823",
-    "gh_2c6305b33aff78c3ef09ce99",
-    "gh_ae241d65a08eb0b2c7258d0c",
-    "gh_dd917afbcd6258ace2a2497e"
+    "gh_2c6305b33aff78c3ef09ce99"
   ],
   "items": [
+    {
+      "id": "gh_aee09e92fadf8366a70512db",
+      "sourceId": "frontendbr/vagas#8479",
+      "title": "[Florianópolis] Fullstack Developer na Tributo Devido",
+      "description": "**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n**Requisitos obrigatórios**\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n## Informações gerais da oportunidade:\n\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\nEstamos localizados no bairro Estreito — Florianópolis.\n\n\n## Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno\n- Sênior",
+      "excerpt": "**DESENVOLVEDOR FULL-STACK** Presencial | Florianópolis Buscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. V...",
+      "issueState": "open",
+      "contentHash": "9d077a8a780f3b575bb94709525aa52ca2ba9196c89a5efad708134a7ed6e344",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "pj",
+        "alocado"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Tributo Devido",
+      "createdAt": "2026-06-09T14:07:02Z",
+      "updatedAt": "2026-06-10T20:56:59Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8479",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ee71ad4e68f00372f334fae1",
+      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#3",
+      "title": "Add Canada-specific data/analytics internship companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker.\n\nI noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Modelling roles in Montréal/Ottawa/Toronto, Seaspan in North Vancouver, Stripe in Toronto, Bombardier in Dorval, Hitachi Rail in Toronto, and ProCogia in Vancouver.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students using this tracker?\n\nSuggested links:\n\n```md\n- [Hanzilla Jobs — Data, analytics, AI/ML student jobs in Canada](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad board for data, analytics, AI/ML, software, finance, engineering, business, sciences, internships/co-ops, new-grad, junior, and entry-level roles.\n- [Hanzilla Jobs — Canadian internships and co-ops](https://jobs.hanzilla.co/internships/) — broader internship/co-op view across fields and Canadian cities.\n```\n\nDisclosure: I help operate Hanzilla Jobs. It is a free board and the about/verification page is here if useful: https://jobs.hanzilla.co/about/\n\nTotally fine if this is outside the repo's resource policy — sharing because it may help Canadian students who find this list but want a Canada-specific daily-updated companion source.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker. I noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Model...",
+      "issueState": "open",
+      "contentHash": "03413c2ee1b041eeedfb2371ef07072efcfcc6c0f78c5425a4ed01fee8ca32fb",
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-Internship",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
+      },
+      "createdAt": "2026-06-08T21:49:18Z",
+      "updatedAt": "2026-06-08T21:49:18Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/3",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d2c11c8fc2357a8b0eef0f15",
       "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
@@ -655,84 +726,6 @@
       "createdAt": "2026-05-29T18:25:37Z",
       "updatedAt": "2026-05-29T18:25:37Z",
       "url": "https://github.com/nerdzao/vagas/issues/192",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ae241d65a08eb0b2c7258d0c",
-      "sourceId": "qa-brasil/vagas#1256",
-      "title": "[São Paulo] QA na Viaflow",
-      "description": "## Descrição da vaga\n\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\" para atuar em um cliente global. Você não irá apenas \"testar\" código; você projetará e manterá frameworks de automação sofisticados para validar microsserviços complexos, orientados a eventos, em uma stack moderna de Java 21 e Google Cloud Platform (GCP).\n\n\nSe você possui experiência sólida em engenharia de qualidade e quer atuar em ambientes de alta escala, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\n## Local de trabalho\n\n- Híbrido. 2 dias remoto e 3 dias presencial no escritório em São Paulo-SP, bairro Jardins (região da Av. Paulista)\n\n## Requisitos da vaga\n\n**Obrigatórios**\nExperiência Sólida: 10+ anos em Engenharia de Qualidade de Software com foco principal em frameworks de automação baseados em Java.\nDomínio de Java: Expertise em Java 21 (Streams, Threads Virtuais) para scripts de alta performance.\nFerramentas de Automação: Proficiência em Selenium e/ou Playwright, JUnit ou TestNG.\nArquitetura Moderna: Conhecimento profundo em microsserviços e sistemas event-driven.\nFrameworks: Experiência com Quarkus ou Spring Boot para aplicações cloud-native.\nInfraestrutura: Conhecimento em CI/CD (Azure DevOps), GCP e gerenciamento de infraestrutura como código.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\n**Diferenciais**\nExperiência com testes de Performance e Carga em microsserviços Java.\nConhecimento em conteinerização (Docker/Kubernetes).\nFamiliaridade com ferramentas nativas de monitoramento e logging do Google Cloud.\n\n**Soft Skill**\nCapacidade de se adaptar a desafios únicos, entregando soluções de nível \"Enterprise\".\nExcelentes habilidades de comunicação e apresentação para conduzir sessões de desenho técnico e arquitetural.\nPerfil mentor com disposição para treinar e guiar membros de times remotos ou offshore.\n\n## Forma de contratação\n\nCooperado\n\n## Benefícios da empresa\n\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e Dasa\n\n## Sobre a empresa\n\nA VIAFLOW é uma consultoria de tecnologia com foco em acelerar a transformação de negócios na América Latina. A empresa utiliza design, produtos digitais e hiperautomação para entregar soluções completas e personalizadas. Seus valores, resumidos no acrônimo MAP (Mindset de Inovação, Atitude Colaborativa e Pensamento de Dono), guiam a sua atuação. O propósito da VIAFLOW é melhorar os resultados das empresas e, ao mesmo tempo, otimizar o tempo das pessoas.\n\nA ViaFlow tem algumas frentes e dentre elas está a frente de Cosourcing onde se encontram os projetos por alocação que é o caso dessa vaga.\n\n## Como se candidatar\n\n- Candidatar através da nossa [Página de Carreiras](https://viaflow.gupy.io/jobs/11390220?jobBoardSource=gupy_public_page)\n\nE-mail para contato em caso de não haver resposta: jessica.pinheiro@viaflow.com.br\n\n## Labels\n\n- Sênior\n- Especialista\n\n- Presencial\n- Remoto\n\n- São Paulo",
-      "excerpt": "## Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\"...",
-      "issueState": "open",
-      "contentHash": "fb92b12412106c3e64d59b53c12ade216544a3499756cf147878c954f9c01032",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "são paulo",
-        "sênior",
-        "presencial",
-        "especialista",
-        "inglês"
-      ],
-      "author": {
-        "id": "jesspinheiro93",
-        "name": "jesspinheiro93",
-        "handle": "jesspinheiro93",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Viaflow",
-      "createdAt": "2026-05-29T18:24:37Z",
-      "updatedAt": "2026-05-29T18:25:11Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1256",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dd917afbcd6258ace2a2497e",
-      "sourceId": "awesome-jobs/vietnam#4937",
-      "title": "[Part-time / Async] Senior Code Reviewer — Supply Chain ERP (React + Python + Postgres) · Hanoi preferred · ~5–8 hrs/week",
-      "description": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand forecasting, multi-currency P&L, FX exposure tracking, working capital, cost-per-batch, customer profitability, segregation of duties, and more.\n\nWe are developing the system in-house using AI-assisted coding and are looking for a **senior developer to serve as our ongoing technical reviewer** — not to write code, but to be our second set of eyes and catch issues before they reach production.\n\n**What you would do:**\n- Review pull requests (PRs) or code drops asynchronously (written feedback, no mandatory calls)\n- Flag security vulnerabilities, authentication gaps, and business logic errors\n- Identify AI-generated code failure patterns: missing edge cases, transaction boundary issues, weak input validation\n- Provide structured written feedback categorised by severity: Security / Correctness / Architecture / Performance\n- Occasional architecture discussion at the start of new modules\n\n**Tech stack:**\n- Frontend: React (or Vue TBD)\n- Backend: Python (FastAPI or Django) + PostgreSQL\n- Domain: ERP / supply chain / manufacturing — complex business logic, financial data, multi-currency\n\n**What we are looking for:**\n- 6+ years of hands-on commercial software development experience, ideally with enterprise or ERP-class systems\n- Comfortable reviewing AI-assisted code — knows what patterns to distrust\n- Strong written communication — can prioritise findings clearly, not just leave inline comments\n- Bonus: prior experience in manufacturing, supply chain, or fintech domains\n- Hanoi-based preferred (for occasional in-person sync if needed); fully remote also considered\n\n**Commitment:** ~5–8 hrs/week, async and flexible schedule. Ongoing retainer engagement. Starting date is from mid-June 2026\n\n**Salary:** **400,000–700,000 VND/hour** depending on experience and domain fit.\n\n**To apply:** Send a brief intro + GitHub profile or relevant past work to: **anhluong@qt-hitech.com**. We will then review them and if short-listed send a 200–300 line code sample. If the depth of feedback is right, we proceed to a retainer.",
-      "excerpt": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand fo...",
-      "issueState": "open",
-      "contentHash": "9b9b24a403c090d80340d9c05948fe504f1d3735472d75aae543cb0af3f69499",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "react",
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "AnhQT-hitech",
-        "name": "AnhQT-hitech",
-        "handle": "AnhQT-hitech",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/288850728?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-29T08:24:55Z",
-      "updatedAt": "2026-06-14T10:07:49Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
       "sourceType": "github-issue"
     }
   ]

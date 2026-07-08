@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-08T16:26:52.892Z",
+  "generatedAt": "2026-07-08T19:11:47.835Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_ea38c1270a4018a146a15872",
+    "gh_7557e8348cc3ee95670cabc5",
     "gh_19b5fdf75df6ae77bffa86f6",
     "gh_82183a356dac778bb9e2a7b7",
     "gh_980f930f8c67a482677fce68",
@@ -21,11 +23,96 @@
     "gh_e0d5e14e5488f522f29cad42",
     "gh_485c615be8bf72d1b1f8e841",
     "gh_13dc6bb887923bd5bff52324",
-    "gh_a818c1b922fcf8c363962e59",
-    "gh_dc9be57bac65e04edbf010e2",
-    "gh_31771006fb197da7d3ea896f"
+    "gh_a818c1b922fcf8c363962e59"
   ],
   "items": [
+    {
+      "id": "gh_ea38c1270a4018a146a15872",
+      "sourceId": "frontendbr/vagas#8518",
+      "title": "[Remoto] Desenvolvedor(a) Full-Stack Sênior (TypeScript/React/Node) - Grupo Apex (EUA)",
+      "description": "## Sobre nós\n\nGrupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros\ncom DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de\nserviços de construção (riseconstruction.us). Os três produtos estão em produção, com clientes\nreais e receita real.\n\n## A vaga\n\nOs três produtos foram construídos majoritariamente com agentes de IA (Claude Code). Você vai\ntrabalhar COM esses agentes — eles revisam seus PRs, você revisa os deles. Procuramos alguém\nque use IA como alavanca e traga o que ela não traz: julgamento sênior sobre edge cases,\nintegridade de dados, migração segura e deploy sem susto. Os produtos estão ~80% prontos; o\ntrabalho é levá-los a 100% — a parte que separa produto de demo.\n\n## O que você vai fazer\n\n- Cutover de redesigns de staging para produção, incluindo migrações de schema manuais (MySQL)\n- Features de dashboard: fluxos de financiamento, pipeline de ofertas com SLA, portais por\n  papel (comprador/colaborador), chat interno, motores de orçamento e comissão\n- Integrações: Stripe (go-live), QuickBooks two-way, telefonia (Twilio), APIs de terceiros\n- Hardening: checagens multi-tenant, bugs de cálculo de folha (nível centavo), schema drift\n\n## Stack (igual nos 3 produtos)\n\nTypeScript, React, Vite, tRPC, Drizzle ORM, MySQL, Tailwind/Radix, Node.js em VPS Linux\n(nginx), Cloudflare R2. Integrações: Stripe, Twilio, QuickBooks, APIs Meta/Google.\n\n## Local\n\nRemoto (Brasil) — PJ\n\n## Requisitos\n\n- **Experiência:** 5+ anos levando TypeScript full-stack a produção; React + Node + SQL\n  profundos (o peso maior é backend)\n- **Produção de verdade:** já operou app em Linux puro (nginx, systemd, SSH, backup) — sem\n  rede de segurança de PaaS\n- **Cicatriz de integração:** Stripe, OAuth, webhooks (inclusive entrega duplicada)\n- **Inglês:** técnico de leitura/escrita (código e docs em inglês; dia a dia em português)\n- **Perfil:** autonomia, conforto genuíno em revisar código escrito por IA e ser revisado\n  por agentes\n- **Diferencial forte:** React Native/Expo — temos 3 apps mobile (Expo Router) na fila\n  depois da web, incluindo publicação nas lojas\n\n## Contratação\n\nPJ — **R$ 12.000 a R$ 18.000/mês**, conforme senioridade · full-time ou 30h+/semana\n- Cliente americano direto (sem agência no meio), pagamento em dia via Deel, longo prazo\n- Demo semanal · começa com **trial pago de 1 semana** (tarefa real do backlog, no seu rate)\n\n## Como se candidatar\n\nEmail para **alex@theapexauto.com** com assunto **[FULLSTACK] Seu Nome** contendo:\n1. A integração de produção mais cabeluda que você já entregou — o que quebrou e como descobriu\n2. Links de código seu com histórico real de commits\n3. Pretensão (R$/mês PJ) e disponibilidade\n\nPropostas genéricas são descartadas. Sem agências, por favor.",
+      "excerpt": "## Sobre nós Grupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros com DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de serviços de construç...",
+      "issueState": "open",
+      "contentHash": "25265dcfbb891324ce5612e04a8a67a004b8a049eb352bd1a880003ec771d542",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "matheu555",
+        "name": "matheu555",
+        "handle": "matheu555",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/221351562?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 18000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-08T18:36:12Z",
+      "updatedAt": "2026-07-08T18:36:42Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8518",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7557e8348cc3ee95670cabc5",
+      "sourceId": "backend-br/vagas#12323",
+      "title": "[Remoto] Desenvolvedor(a) Full-Stack Sênior (TypeScript/React/Node) - Grupo Apex (EUA)",
+      "description": "## Sobre nós\n\nGrupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros\ncom DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de\nserviços de construção (riseconstruction.us). Os três produtos estão em produção, com clientes\nreais e receita real.\n\n## A vaga\n\nOs três produtos foram construídos majoritariamente com agentes de IA (Claude Code). Você vai\ntrabalhar COM esses agentes — eles revisam seus PRs, você revisa os deles. Procuramos alguém\nque use IA como alavanca e traga o que ela não traz: julgamento sênior sobre edge cases,\nintegridade de dados, migração segura e deploy sem susto. Os produtos estão ~80% prontos; o\ntrabalho é levá-los a 100% — a parte que separa produto de demo.\n\n## O que você vai fazer\n\n- Cutover de redesigns de staging para produção, incluindo migrações de schema manuais (MySQL)\n- Features de dashboard: fluxos de financiamento, pipeline de ofertas com SLA, portais por\n  papel (comprador/colaborador), chat interno, motores de orçamento e comissão\n- Integrações: Stripe (go-live), QuickBooks two-way, telefonia (Twilio), APIs de terceiros\n- Hardening: checagens multi-tenant, bugs de cálculo de folha (nível centavo), schema drift\n\n## Stack (igual nos 3 produtos)\n\nTypeScript, React, Vite, tRPC, Drizzle ORM, MySQL, Tailwind/Radix, Node.js em VPS Linux\n(nginx), Cloudflare R2. Integrações: Stripe, Twilio, QuickBooks, APIs Meta/Google.\n\n## Local\n\nRemoto (Brasil) — PJ\n\n## Requisitos\n\n- **Experiência:** 5+ anos levando TypeScript full-stack a produção; React + Node + SQL\n  profundos (o peso maior é backend)\n- **Produção de verdade:** já operou app em Linux puro (nginx, systemd, SSH, backup) — sem\n  rede de segurança de PaaS\n- **Cicatriz de integração:** Stripe, OAuth, webhooks (inclusive entrega duplicada)\n- **Inglês:** técnico de leitura/escrita (código e docs em inglês; dia a dia em português)\n- **Perfil:** autonomia, conforto genuíno em revisar código escrito por IA e ser revisado\n  por agentes\n- **Diferencial forte:** React Native/Expo — temos 3 apps mobile (Expo Router) na fila\n  depois da web, incluindo publicação nas lojas\n\n## Contratação\n\nPJ — **R$ 12.000 a R$ 18.000/mês**, conforme senioridade · full-time ou 30h+/semana\n- Cliente americano direto (sem agência no meio), pagamento em dia via Deel, longo prazo\n- Demo semanal · começa com **trial pago de 1 semana** (tarefa real do backlog, no seu rate)\n\n## Como se candidatar\n\nEmail para **alex@theapexauto.com** com assunto **[FULLSTACK] Seu Nome** contendo:\n1. A integração de produção mais cabeluda que você já entregou — o que quebrou e como descobriu\n2. Links de código seu com histórico real de commits\n3. Pretensão (R$/mês PJ) e disponibilidade\n\nPropostas genéricas são descartadas. Sem agências, por favor.",
+      "excerpt": "## Sobre nós Grupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros com DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de serviços de construç...",
+      "issueState": "open",
+      "contentHash": "25265dcfbb891324ce5612e04a8a67a004b8a049eb352bd1a880003ec771d542",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "node.js",
+        "go",
+        "remoto",
+        "mysql",
+        "typescript",
+        "sql"
+      ],
+      "author": {
+        "id": "matheu555",
+        "name": "matheu555",
+        "handle": "matheu555",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/221351562?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 18000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-08T18:36:05Z",
+      "updatedAt": "2026-07-08T18:36:23Z",
+      "url": "https://github.com/backend-br/vagas/issues/12323",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_19b5fdf75df6ae77bffa86f6",
       "sourceId": "DevOps-Brasil/Vagas#468",
@@ -737,75 +824,6 @@
       "createdAt": "2026-07-07T06:59:52Z",
       "updatedAt": "2026-07-07T06:59:52Z",
       "url": "https://github.com/speedyapply/2027-SWE-College-Jobs/issues/43",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dc9be57bac65e04edbf010e2",
-      "sourceId": "lukasz-madon/awesome-remote-job#1103",
-      "title": "Review PR #1102 — Remote Signal API (JSON jobs + Show HN feed)",
-      "description": "**Merge request — Remote Signal API listing**\n\nPR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache).\n\n- Live: https://intellectual-close-wages-west.trycloudflare.com/pricing\n- Free: 10 req/day | Pro: $5 USDC/mo | Agents: x402 $0.02/req on Base\n- Docs: https://gist.github.com/reckoning89/d87818b2020bbc27590df1fa0c42f175\n- Verified: 138+ API calls from 40+ external IPs this week\n\nHappy to adjust copy/format. Ready to merge when convenient — thanks for maintaining this list!",
-      "excerpt": "**Merge request — Remote Signal API listing** PR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache). - Live: https://intellectual-close-wages-west.trycloudflare.com/pri...",
-      "issueState": "open",
-      "contentHash": "ab62bc1a66b1fce40ffd39e5e06a8ceb9316d5822243f9fe455228ef73a967f2",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "reckoning89",
-        "name": "reckoning89",
-        "handle": "reckoning89",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216601217?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-07-07T00:03:28Z",
-      "updatedAt": "2026-07-07T13:57:26Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1103",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_31771006fb197da7d3ea896f",
-      "sourceId": "programadores-br/geral#3084",
-      "title": "[Nova Lima, Brasil] Suporte de TI N2 (Turno Noturno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/suporte-de-ti-n2-turno-noturno-184856214?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando Suporte de TI N2 para atuar noturno.\n\n**Jornada de trabalho:** Escala 12x36\n\n**Horário:** das 19h00 às 07h00\n\nAtuação presencial Vila da Serra/Nova Lima\n\n**Treinamento:** Nos dois primeiros meses será necessário disponibilidade para treinamento e capacitação, de segunda a sexta-feira, das 08h00 às 17h00.\n\n**Responsabilidades:**\n\n*   Analisar, diagnosticar e solucionar incidentes relacionados à plataforma da Betruck;\n    \n*   Atender chamados escalados pelo Suporte N1;\n    \n*   Investigar falhas operacionais, erros sistêmicos e problemas de funcionamento da plataforma;\n    \n*   Analisar integrações entre sistemas e identificar inconsistências;\n    \n*   Realizar consultas em banco de dados para validação de informações e apoio na resolução de incidentes;\n    \n*   Orientar clientes quanto à utilização da plataforma e às melhores práticas de operação;\n    \n*   Registrar, documentar e acompanhar os chamados até sua conclusão;\n    \n*   Executar testes e validar correções disponibilizadas pela equipe de Desenvolvimento;\n    \n*   Atuar em conjunto com as equipes de Suporte N1, Desenvolvimento e demais áreas envolvidas na resolução de incidentes;\n    \n*   Identificar oportunidades de melhoria nos processos e na experiência dos clientes.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Comunicação \n- Documentação \n- Foco no resultado \n- Solução de problemas técnicos \n- Trabalho em equipe\n## Local: \n Nova Lima, Brasil\n## Requisitos: \n - Desejável ensino superior completo ou em andamento em cursos como: Sitemas de Informações ou demais área correlatas. \n- Perfil analítico e investigativo; \n- Facilidade para identificar e solucionar problemas; \n- Boa comunicação, organização e foco em resultados; \n- Capacidade de documentar atendimentos de forma clara e estruturada; \n- Facilidade para trabalhar em equipe; \n- Interesse por tecnologia aplicada à logística.\n\n## Benefícios: \n - Vale-alimentação/Refeição; \n- Vale-transporte ou mobilidade; \n- Plano de saúde (sem cobrança de mensalidade); \n- OnHappy; \n- Wellhub.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Suporte de TI N2 (Turno Noturno) na BeTruck](https://coodesh.com/jobs/suporte-de-ti-n2-turno-noturno-184856214?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nSuporte Técnico",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "07ed1071ffae2ff80d306f920ba35b489784c91d22bfc622cdbe13a2bc56778c",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "presencial",
-        "clt"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-07-06T18:56:46Z",
-      "updatedAt": "2026-07-06T18:57:28Z",
-      "url": "https://github.com/programadores-br/geral/issues/3084",
       "sourceType": "github-issue"
     }
   ]
