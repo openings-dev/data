@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-07T17:07:51.883Z",
+  "generatedAt": "2026-07-08T13:45:48.401Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_013fc51e27303cd4f39e79f4",
+    "gh_be50acb92fd1e6f15d691634",
     "gh_459e1e7f417453bb6ae517e5",
     "gh_0fe275533f5da07f8d0c9026",
     "gh_9bab610327418a0955bd2b33",
@@ -21,11 +23,82 @@
     "gh_5f066bed10486c20bcb3fc70",
     "gh_84cd180e02db9815d917bcc4",
     "gh_eca179323abe1309b96e6c74",
-    "gh_66eaeb59684b31b56e56dc58",
-    "gh_7bcd691815b883db937698fc",
-    "gh_a2bf5d8b1ac2ec634b465f35"
+    "gh_66eaeb59684b31b56e56dc58"
   ],
   "items": [
+    {
+      "id": "gh_013fc51e27303cd4f39e79f4",
+      "sourceId": "awesome-jobs/vietnam#4948",
+      "title": "Cartrack VN - Data Platform Engineer (ClickHouse, AI agents) - HCM - FT",
+      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n \n* Open Salary\n\n## Requirements \n\n* Strong proficiency in one or more of the following: C, C++, C#, Go, or Rust.\n* Proficiency in Python for scripting and automation.\n* Experience with Airflow and complex ETL processes involving large datasets.\n* Solid understanding of data architecture, database optimization, and monitoring best practices.\n* Hands-on experience with Docker, Linux environments, and version control systems.\n\n## Responsibilities \n\n* Design, build, and maintain data pipelines and ETL workflows using tools like Airflow.\n* Develop monitoring systems to detect upstream data changes and maintain data freshness.\n* Optimize relational and analytical databases for performance, including partitioning, indexing, and table design.\n* Implement data quality, data lineage, and source documentation standards.\n* Manage and tune analytics databases such as ClickHouse, Druid, StarRocks, or Doris.\n* Work with relational databases such as PostgreSQL, MySQL, SQL Server, or Oracle.\n* Leverage distributed query tools (e.g., Spark, Trino) to support scalable data analysis.\n* Build, deploy, and monitor services in Linux environments, including shell scripting and debugging.\n* Create and maintain Docker images, ensuring consistent environments for development and deployment.\n* Integrate data workflows with CI/CD pipelines using tools such as GitLab, GitHub, or Bitbucket.\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* Managing terabyte-scale data lake to ClickHouse on Kubernetes\n* Opportunities involving LLM Agents (LlamaIndex, LangChain, Qdrant, …)\n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
+      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Strong proficiency in one or more of the following: C, C++, C#, Go, or Rust. * Proficiency in Python for scripting an...",
+      "issueState": "open",
+      "contentHash": "f9354bbcb51e56cf70147812a4beb71175230fa204bbc98aad319c5d036259b4",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "python",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "giang-vu-2700",
+        "name": "giang-vu-2700",
+        "handle": "giang-vu-2700",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-17T07:01:34Z",
+      "updatedAt": "2026-06-17T07:01:34Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4948",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_be50acb92fd1e6f15d691634",
+      "sourceId": "awesome-jobs/vietnam#4947",
+      "title": "NAB Vietnam - Senior/Lead Java Developer - Hybrid/HCMC - FT",
+      "description": "## Location\n\n* HCMC, Vietnam\n* Hybrid (2 office days/week)\n\n## Salary Expectation \n\n* To be negotiated based on the interview performance\n\n## Skills\n\n### Must Have \n* Java 8+, Spring, Springboot\n* Designing & developing RESTful APIs and microservices-based system\n* Cloud computing and AWS and Container\n* DevOps and CI/CD pipelines\n* Strong English communication\n\n### Ideally\n\n* Experience in Javascript\n* Experience in the Banking or Financial Services industry\n\n## Responsibilities\n\n* Design, develop, review, implement, and manage Java applications and services for the production and pre-release environments; \n* Design, develop, review, implement, and manage continuous integration, build management and deployment scripts, systems, and any code as required; \n* Participate in Agile software development, prototyping, and code review with international development teams to build scalable microservices-based products and APIs using Java technologies on AWS Cloud architecture; \n* Fully understand the requirements of the customer or business and utilize this knowledge to develop applications that are consistent with this; \n* Work with delivery teams to achieve success through development using CI/CD and DevOps practices, processes, and tooling; \n* Provide robust coding practices, solid unit/component test coverage, and debugging code. \n\n\n## Contact\n* Mail: thao.vo3@nab.com.au\n* Zalo: 0939 236 757",
+      "excerpt": "## Location * HCMC, Vietnam * Hybrid (2 office days/week) ## Salary Expectation * To be negotiated based on the interview performance ## Skills ### Must Have * Java 8+, Spring, Springboot * Designing & developing REST...",
+      "issueState": "open",
+      "contentHash": "10a7d5d491212ae01de79e3cf3a783db466aa7e04a3206d7737876940c55b01e",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "hybrid",
+        "java",
+        "senior",
+        "devops",
+        "design"
+      ],
+      "author": {
+        "id": "thaovo1012",
+        "name": "thaovo1012",
+        "handle": "thaovo1012",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71322736?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-17T04:03:45Z",
+      "updatedAt": "2026-06-17T04:05:07Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4947",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_459e1e7f417453bb6ae517e5",
       "sourceId": "Gommunity/vagas#267",
@@ -676,75 +749,6 @@
       "createdAt": "2026-06-04T11:24:11Z",
       "updatedAt": "2026-06-04T11:24:11Z",
       "url": "https://github.com/jobright-ai/2026-Engineer-Internship/issues/2",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7bcd691815b883db937698fc",
-      "sourceId": "awesome-jobs/vietnam#4941",
-      "title": "Cartrack VN - Senior AI Engineer (Computer Vision) - HCM - FT",
-      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n\n* Open Salary\n\n## Requirements \n\n* Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing.\n* Proficient with Python, PyTorch, and a strong academic background in CS, Engineering, Mathematics, or Statistics.\n* A self-motivated engineer who prefers deep technical optimization over AI hype and enjoys collaborating in a fast-paced R&D hub.\n\n## Responsibilities \n\n* Conceptualize and develop computer vision models to model driver behavior, road detection, signal detection, in cabin characteristics, etc.\n* Provide signals based on video/image detection algorithms for other machine learning algorithms, such as road flow or traffic densities.\n* Develop signal processing models as to characterize the attributes to a time series matrix.\n* Test and put algorithms into a production ready state.\n* Constructing solution concepts from insights using familiar or unfamiliar data sources or complete or partial data.\n* Imputing the dependency between sensors and time series data.\n* Design and build machine/deep learning and optimization algorithms efficiently\n* Integrate, simulate, and test the impact of algorithms and features on the overall system\n* Develop and execute necessary analyses, simulations, etc. to validate models and identify improvement opportunities\n* Store, retrieve and visualize results in a manner that facilitates required analyses\n* Effectively conceptualize analyses to business/product stakeholders\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* We have worked on camera/ sensor related projects, but our Head has more interesting plans, I would prefer him to discuss further with you :P \n* Choose Cartrack VN if you prefer a fast-paced environment, love building robust, production-grade systems that handle massive real-world scale, and want to see your AI models directly impact global fleet safety and logistics efficiency.\n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
-      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing. *...",
-      "issueState": "open",
-      "contentHash": "6329f597e5ebb48686f736bc3b7b4f7b9084c9a9176d8e1dee3e1d0b90e045ac",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "python",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "giang-vu-2700",
-        "name": "giang-vu-2700",
-        "handle": "giang-vu-2700",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-06-04T10:55:16Z",
-      "updatedAt": "2026-06-04T10:57:58Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4941",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a2bf5d8b1ac2ec634b465f35",
-      "sourceId": "jobright-ai/2026-Product-Management-Internship#2",
-      "title": "Consider adding a Canada-specific student/product jobs companion resource",
-      "description": "Hi Jobright team — thanks for maintaining this Product Management internship tracker.\n\nWould you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian student/new-grad coverage?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs – Canadian business, product-adjacent, and student jobs](https://jobs.hanzilla.co/business/) — free daily-updated Canadian student/recent-grad board covering business, product-adjacent, analyst, finance, engineering, tech, internships/co-ops, new-grad, junior, and entry-level roles. Internship-focused page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it seems relevant here:\n\n- this repo already surfaces Canada-relevant product/product-strategy roles such as Toronto/Oakville listings;\n- Hanzilla is Canada-specific and aimed at university students/recent grads, so it complements a broader global/Product Management tracker rather than replacing it;\n- the board is not CS-only: it includes business, finance, engineering, sciences, tech, internships/co-ops, new-grad, junior, and entry-level roles.\n\nFor trust/context, the project about/verification page is here: https://jobs.hanzilla.co/about/\n\nNo worries if external companion links are out of scope — just wanted to suggest it for Canadian students landing here from search.",
-      "excerpt": "Hi Jobright team — thanks for maintaining this Product Management internship tracker. Would you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian stu...",
-      "issueState": "open",
-      "contentHash": "81aff8b9fb08757ba3e58bad9c9cf3f887bd1f39bdf761b80af334256a676134",
-      "repository": "jobright-ai/2026-Product-Management-Internship",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-Internship",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Product-Management-Internship",
-        "url": "https://github.com/jobright-ai/2026-Product-Management-Internship"
-      },
-      "createdAt": "2026-06-04T06:39:41Z",
-      "updatedAt": "2026-06-04T06:39:41Z",
-      "url": "https://github.com/jobright-ai/2026-Product-Management-Internship/issues/2",
       "sourceType": "github-issue"
     }
   ]
