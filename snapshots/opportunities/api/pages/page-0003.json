@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-07-08T19:11:47.835Z",
+  "generatedAt": "2026-07-09T02:10:14.230Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_c16a9b067fa99b03ac968205",
+    "gh_185ce8a92c7177c930ddff97",
+    "gh_3a051455a1b7fb0ddf54438e",
+    "gh_22e6d5137186ccfccf43d7fb",
+    "gh_52f8df6bc3aa36f9356654fb",
+    "gh_0553ad2ac08479b5ea16c6f1",
     "gh_1186d3e482f83ac5c65f6cd5",
     "gh_f983972beea84bdd88ea0308",
     "gh_aad2c1e3902948a2e9552b55",
@@ -17,15 +23,264 @@
     "gh_45aece0e457d44d9135946e7",
     "gh_7e0bbe167dafba943e077f78",
     "gh_7f17e8c9d9df8aa157a6dce5",
-    "gh_500d6b7ba64e6211969670e0",
-    "gh_be874e73d5522ddaf47e1034",
-    "gh_72a9a9990b66985c9fba52c6",
-    "gh_dc1070912f4d210a95c4e2cd",
-    "gh_329ff605df48e5c52ee62c53",
-    "gh_f14a446e90ab56b56def551e",
-    "gh_cfd46fb8adae10f388d22cb5"
+    "gh_500d6b7ba64e6211969670e0"
   ],
   "items": [
+    {
+      "id": "gh_c16a9b067fa99b03ac968205",
+      "sourceId": "backend-br/vagas#12309",
+      "title": "[Remoto] PHP/Python Software Engineer - F2AI",
+      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Sobre a F2AI\n\nSomos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permitir que organizações rodem LLMs em seus próprios ambientes, com controle total sobre dados e recursos.\n\nInfos sobre o produto: https://f2ai.com.br/\n\n## Descrição da vaga\n\nDesenvolver e manter aplicações full-stack com Laravel e Python/FastAPI\nIntegrar o control plane da plataforma com clusters Kubernetes via API\nConstruir interfaces para gerenciamento de deployments de modelos de IA\nTrabalhar com containerização, APIs REST e arquiteturas de microsserviços\nColaborar na evolução de features como fine-tuning, RAG e bibliotecas de prompts\n\n## Local\n\nTrabalho remoto, escritório em São Paulo, capital.\n\n## Requisitos\n\nFundamentos sólidos:\n\n    Estruturas de dados e algoritmos\n    Sistemas operacionais e redes\n    Bancos de dados relacionais e modelagem de dados\n\nExperiência prática:\n\n    PHP (Laravel) ou Python (FastAPI/Flask)\n    Desenvolvimento full-stack\n    Docker e containerização\n    APIs REST e integrações entre sistemas\n    Git e práticas de versionamento\n\nPerfil:\n\n    Autonomia e capacidade de resolver problemas com pouca orientação\n    Comunicação clara em português\n\nDiferenciais:\n\n    Kubernetes\n    Projetos envolvendo IA/ML\n    Bancos vetoriais ou arquiteturas RAG\n    Infraestrutura on-premises\n\n## Benefícios\n\n* Trabalho 100% remoto\n* Atuação direta com tecnologias de IA generativa em ambiente enterprise\n* Ambiente de startup com autonomia e impacto\n* Crescimento técnico em um domínio em expansão\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar currículo para emanuel.huber@f2ai.com.br\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
+      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Sobre a F2AI Somos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permiti...",
+      "issueState": "open",
+      "contentHash": "596dff5d722d9685cff607dc83ba1b9310dc763c638e52ffdbb0cae9152b4c48",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "php",
+        "python",
+        "flask",
+        "remoto",
+        "git",
+        "docker"
+      ],
+      "author": {
+        "id": "huberemanuel",
+        "name": "huberemanuel",
+        "handle": "huberemanuel",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6238718?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-07-03T19:01:50Z",
+      "updatedAt": "2026-07-03T19:02:06Z",
+      "url": "https://github.com/backend-br/vagas/issues/12309",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_185ce8a92c7177c930ddff97",
+      "sourceId": "backend-br/vagas#12308",
+      "title": "[Remoto] Desenvolvedor(a) Ruby on Rails Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Ruby on Rails Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Ruby on Rails compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-ruby-on-rails-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "b6a0d3d10155e7a3cd0314afb484233a9719084df3063e4469d432ff6d17566f",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "ruby",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-03T13:10:02Z",
+      "updatedAt": "2026-07-03T13:10:19Z",
+      "url": "https://github.com/backend-br/vagas/issues/12308",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3a051455a1b7fb0ddf54438e",
+      "sourceId": "backend-br/vagas#12307",
+      "title": "[Remoto] Desenvolvedor(a) Python Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Python Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Python compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-python-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "2c39c0f0cf5f9f45625e07410152efea0d3fd0d4e9e5e18ee0c0b4de5438d7ad",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "python",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-03T13:08:51Z",
+      "updatedAt": "2026-07-03T13:09:05Z",
+      "url": "https://github.com/backend-br/vagas/issues/12307",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_22e6d5137186ccfccf43d7fb",
+      "sourceId": "backend-br/vagas#12306",
+      "title": "[Remoto] Desenvolvedor(a) PHP/Laravel Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) PHP/Laravel Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com PHP/Laravel compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-php-laravel-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "5ae97a5413656a45d0d96b55a1da34072f6e9eef217b8bcf236fe2ae3502cd0f",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "php",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-03T13:06:47Z",
+      "updatedAt": "2026-07-03T13:07:03Z",
+      "url": "https://github.com/backend-br/vagas/issues/12306",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_52f8df6bc3aa36f9356654fb",
+      "sourceId": "backend-br/vagas#12305",
+      "title": "[Remoto] Desenvolvedor(a) Node.js Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Node.js Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Node.js compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-node-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "d5002e1948566da2f800980e5ed09b67158fd514de2fa663d1be4be866328728",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "node.js",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-03T13:05:14Z",
+      "updatedAt": "2026-07-03T13:05:32Z",
+      "url": "https://github.com/backend-br/vagas/issues/12305",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0553ad2ac08479b5ea16c6f1",
+      "sourceId": "backend-br/vagas#12304",
+      "title": "[Remoto] Desenvolvedor(a) Kotlin Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Kotlin Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Kotlin compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-kotlin-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "3e1eafbb2051982a773cff9a4a0e9a4e5b30a0b39ae125ee9ea595c6ef16fe33",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "remoto",
+        "kotlin"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-03T13:03:29Z",
+      "updatedAt": "2026-07-03T13:03:53Z",
+      "url": "https://github.com/backend-br/vagas/issues/12304",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1186d3e482f83ac5c65f6cd5",
       "sourceId": "backend-br/vagas#12303",
@@ -516,204 +771,6 @@
       "createdAt": "2026-06-26T09:17:14Z",
       "updatedAt": "2026-06-26T09:17:14Z",
       "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9603",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_be874e73d5522ddaf47e1034",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9602",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/astranis/jobs/4691163006\n\n### Company Name\n\nAstranis \n\n### Internship Title\n\nHardware Design Intern\n\n### Location\n\nSan Francisco, CA\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nHardware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/astranis/jobs/4691163006 ### Company Name Astranis ### Internship Title Hardware Design Intern ### Location San Francisco, CA ### What term(s) is this in...",
-      "issueState": "open",
-      "contentHash": "c021cf403f4ef3ec9b3e927d8554c252bd9ba868ba26e1f5960ef0ed8081912b",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-06-26T09:16:53Z",
-      "updatedAt": "2026-06-26T09:16:53Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9602",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_72a9a9990b66985c9fba52c6",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9601",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.governmentjobs.com/careers/piercecountywa/jobs/5386606-0/it-software-engineer-intern\n\n### Company Name\n\nPierce County\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nTacoma, WA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.governmentjobs.com/careers/piercecountywa/jobs/5386606-0/it-software-engineer-intern ### Company Name Pierce County ### Internship Title Software Engineer Intern ### Location...",
-      "issueState": "open",
-      "contentHash": "6fef4cedab62746454f9ba5842525c7636c7641ca76d0d61edb1d08c6767aeb9",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-06-26T09:16:28Z",
-      "updatedAt": "2026-06-26T09:16:28Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9601",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dc1070912f4d210a95c4e2cd",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9600",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://nvidia.eightfold.ai/careers/job/893395763339\n\n### Company Name\n\nNVIDIA \n\n### Internship Title\n\nPhD Research Intern, System Software and I/O Architecture - Fall 2026\n\n### Location\n\nSanta Clara, CA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [x] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://nvidia.eightfold.ai/careers/job/893395763339 ### Company Name NVIDIA ### Internship Title PhD Research Intern, System Software and I/O Architecture - Fall 2026 ### Location Santa...",
-      "issueState": "open",
-      "contentHash": "46d50fbd7646a95790f4a3f6d4bb0e04b8254a4a2c826b5cc04abdf62cfc9b14",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-06-26T09:11:15Z",
-      "updatedAt": "2026-06-26T09:11:15Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9600",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_329ff605df48e5c52ee62c53",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9599",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://altasciences.wd1.myworkdayjobs.com/careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750\n\n### Company Name\n\nAltasciences \n\n### Internship Title\n\nProcess Innovation - Software Engineering Intern\n\n### Location\n\nOverland Park, KS\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://altasciences.wd1.myworkdayjobs.com/careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750 ### Company Name Altasciences ### Internship Title Pr...",
-      "issueState": "open",
-      "contentHash": "67f37379727a99ab51734a8d4222c6c4608620b5113277cd993e33a3cca4dcb9",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-06-26T09:10:51Z",
-      "updatedAt": "2026-06-26T09:10:51Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9599",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f14a446e90ab56b56def551e",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9598",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9749\n\n### Company Name\n\nStandardAero \n\n### Internship Title\n\nComputer Data Engineer Intern/Co-op\n\n### Location\n\nDallas, TX\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9749 ### Company Name StandardAero ### Internship Title Computer Data Engineer Intern/Co-op ### Location Da...",
-      "issueState": "open",
-      "contentHash": "8ec771075ec8df7a32c3409f541dd4b0096eb456fc094a8c4dab55b9ea001139",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-06-26T08:54:55Z",
-      "updatedAt": "2026-06-26T08:54:55Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9598",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cfd46fb8adae10f388d22cb5",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9597",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ec42ffd7-b36c-4527-bab4-bde673f99c49&ccId=19000101_000001&jobId=16462&source=IN&lang=en_US\n\n### Company Name\n\nLayton Sports Cards\n\n### Internship Title\n\nSoftware Development Intern\n\n### Location\n\nApopka, FL\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ec42ffd7-b36c-4527-bab4-bde673f99c49&ccId=19000101_000001&jobId=16462&source=IN&lang=en_US ### Comp...",
-      "issueState": "open",
-      "contentHash": "fdb3393b75778914b1231dd488c71949041f5eadccd0954b92e7141fec5abd4e",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-06-26T08:53:36Z",
-      "updatedAt": "2026-06-26T08:53:36Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9597",
       "sourceType": "github-issue"
     }
   ]

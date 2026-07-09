@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-07-08T19:11:47.835Z",
+  "generatedAt": "2026-07-09T02:10:14.230Z",
   "page": 19,
   "pageSize": 20,
   "nextPage": "api/pages/page-0020.json",
   "ids": [
-    "gh_9c15cae27222a645f5de5a7c",
     "gh_603e1da2e4063c78405746b5",
     "gh_973c31a18c65d62e0c263bcb",
     "gh_40fdf6f56a3c3ae8f9cb428a",
@@ -23,40 +22,10 @@
     "gh_f4305d4b64288182bb517174",
     "gh_4880d50611121076a0917e09",
     "gh_adc1f2c5a58895031d685962",
-    "gh_d2651b95b225f4fe309789d9"
+    "gh_d2651b95b225f4fe309789d9",
+    "gh_e8786de4831962baa72de297"
   ],
   "items": [
-    {
-      "id": "gh_9c15cae27222a645f5de5a7c",
-      "sourceId": "ad-si/awesome-fp-jobs#9",
-      "title": "Add Ada Beat",
-      "description": "https://adabeat.com",
-      "excerpt": "https://adabeat.com",
-      "issueState": "open",
-      "contentHash": "323ca5f9d0f875b60a65c03ba49d695b4714585fed6a145c944b714277e9ddd7",
-      "repository": "ad-si/awesome-fp-jobs",
-      "repositoryUrl": "https://github.com/ad-si/awesome-fp-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "ad-si",
-        "name": "ad-si",
-        "handle": "ad-si",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36796532?v=4"
-      },
-      "community": {
-        "id": "ad-si",
-        "name": "ad-si",
-        "avatarUrl": "https://github.com/ad-si.png?size=80",
-        "repository": "ad-si/awesome-fp-jobs",
-        "url": "https://github.com/ad-si/awesome-fp-jobs"
-      },
-      "createdAt": "2024-11-28T16:39:50Z",
-      "updatedAt": "2024-11-28T16:39:50Z",
-      "url": "https://github.com/ad-si/awesome-fp-jobs/issues/9",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_603e1da2e4063c78405746b5",
       "sourceId": "datascience-br/vagas#139",
@@ -754,6 +723,39 @@
       "createdAt": "2024-09-19T04:11:43Z",
       "updatedAt": "2024-09-19T04:12:02Z",
       "url": "https://github.com/nodejs-tw/jobs/issues/267",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e8786de4831962baa72de297",
+      "sourceId": "jobright-ai/Daily-H1B-Jobs-In-Tech#2",
+      "title": "Please put data engineering jobs as well ",
+      "description": "Please include the jobs related to data engineering .",
+      "excerpt": "Please include the jobs related to data engineering .",
+      "issueState": "open",
+      "contentHash": "dbd162ef604c4616af6a2973156ebe6aa7d02ff4560148890e9ef537a8ed64d6",
+      "repository": "jobright-ai/Daily-H1B-Jobs-In-Tech",
+      "repositoryUrl": "https://github.com/jobright-ai/Daily-H1B-Jobs-In-Tech",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "parveenmittal1",
+        "name": "parveenmittal1",
+        "handle": "parveenmittal1",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49730713?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/Daily-H1B-Jobs-In-Tech",
+        "url": "https://github.com/jobright-ai/Daily-H1B-Jobs-In-Tech"
+      },
+      "createdAt": "2024-09-17T12:01:35Z",
+      "updatedAt": "2024-09-17T12:01:35Z",
+      "url": "https://github.com/jobright-ai/Daily-H1B-Jobs-In-Tech/issues/2",
       "sourceType": "github-issue"
     }
   ]
