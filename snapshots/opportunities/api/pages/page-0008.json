@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-09T11:48:54.070Z",
+  "generatedAt": "2026-07-09T19:26:15.060Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
     "gh_e9177ae252d1679b2e5d82c5",
     "gh_5708c7b7c69bc276f6fb8941",
     "gh_5d54a463e13b23bbe38791ce",
-    "gh_2d9849eace549284f519bf16",
     "gh_24b11f8f8ff090708a67e44c",
     "gh_2d895bac96564681581385bb",
     "gh_bacefe5602e4e742e8cdf5f9",
@@ -26,6 +26,45 @@
     "gh_200f3045b6c290bb361c8b57"
   ],
   "items": [
+    {
+      "id": "gh_6bd2ea87cfb4bbe49569241c",
+      "sourceId": "ambicuity/New-Grad-Jobs#316",
+      "title": "[ROADMAP] Help us expand job data — all suggestions welcome!",
+      "description": "## TL;DR\n\nWe want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are welcome and I will reply to every comment.**\n\n---\n\n## Why this roadmap?\n\nNew-Grad-Jobs is most useful when it captures the widest possible surface of legitimate new-grad opportunities. Today we scrape and curate from a known set of sources, but there's a long tail of companies, regions, and job types we're missing.\n\nThis issue is the central place to brainstorm **how we add more jobs** — sources, regions, scrapers, partnerships, automation, data quality, anything.\n\n## What kind of suggestions are we looking for?\n\nPick whatever resonates — these are just prompts:\n\n### Sources\n- [ ] Specific ATS platforms we don't yet scrape (Workday tenants, Greenhouse boards, Lever, Ashby, SmartRecruiters, iCIMS, Taleo, Eightfold, Phenom, Jobvite, BrassRing, etc.)\n- [ ] Specific companies whose new-grad pipelines we should track\n- [ ] Regional job boards (EU, India, LATAM, MENA, APAC, Canada, UK, etc.)\n- [ ] University career portals worth aggregating\n- [ ] Government / public-sector hiring portals\n- [ ] Startup-focused aggregators (YC, Wellfound, etc.)\n- [ ] Diversity-focused or accessibility-focused boards\n\n### Job categories\n- [ ] Internship pipelines distinct from full-time\n- [ ] PhD / research / quant-specific listings\n- [ ] Hardware, semiconductor, robotics, aerospace\n- [ ] Game industry\n- [ ] Finance / trading / actuarial new-grad tracks\n- [ ] Bio / pharma / healthcare new-grad roles\n- [ ] Trades, ops, supply chain, manufacturing new-grad programs\n\n### Data quality\n- [ ] How should we detect & dedupe reposted listings?\n- [ ] How should we classify \\\"new grad\\\" vs \\\"junior\\\" vs \\\"intern\\\" more accurately?\n- [ ] Should we surface salary data when available? From which sources?\n- [ ] Should we flag visa sponsorship / remote / hybrid more explicitly?\n- [ ] How should we handle stale postings (last-seen vs first-seen)?\n- [ ] What metadata is most useful to filter on?\n\n### Infrastructure & automation\n- [ ] Scraper frameworks or libraries worth adopting\n- [ ] Anti-bot / rate-limit strategies that respect ToS\n- [ ] Workflow scheduling improvements (cron, GitHub Actions, queues)\n- [ ] LLM-assisted parsing for unstructured careers pages\n- [ ] Storage / dedup / canonicalization approaches\n- [ ] Notification channels (RSS, Discord, Slack, email digest)\n\n### Community & contribution\n- [ ] How can we make it easier for contributors to add a new company in one PR?\n- [ ] Should we publish a contribution template specifically for \\\"add a company\\\"?\n- [ ] Would a structured YAML/JSON registry of companies + ATS endpoints help?\n- [ ] Mentorship for first-time contributors who want to add a scraper\n\n## How to suggest\n\nJust comment below. Any format works:\n\n- **A single company:** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"\n- **A source idea:** \\\"There's an ATS called `<X>` used by these companies: …\\\"\n- **A feature idea:** \\\"It would be great if listings showed `<field>`\\\"\n- **A full proposal:** longer-form design ideas, link to a gist or doc\n- **A pain point:** \\\"As a job seeker, I wish this repo did `<X>`\\\"\n\nYou don't need to know how to scrape, write Python, or anything technical. **Ideas count just as much as code.**\n\n## Commitment\n\n- I'll **reply to every comment on this thread.**\n- Concrete, actionable suggestions will be moved into their own tracking issues and linked back here.\n- Larger themes will become milestones on the roadmap.\n- Credit will go to the suggester in the resulting PR / issue / changelog.\n\n## Ground rules\n\n- Be respectful — this is a community space.\n- Don't post anything that violates a source's Terms of Service or robots.txt; we want sustainable, ethical aggregation.\n- Don't post personal data, recruiter contacts, or anything that could harm a company or candidate.\n- Prefer one idea per comment when possible — it makes follow-up easier.\n\n---\n\n**Thanks in advance — every suggestion helps a new grad find their first job.**",
+      "excerpt": "## TL;DR We want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are ...",
+      "issueState": "open",
+      "contentHash": "9dbc30e311e1ce44614e0ce628edb4d89c70df9f08cacdec11198141b4fa7ba7",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "roadmap"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
+      "createdAt": "2026-05-26T23:52:14Z",
+      "updatedAt": "2026-07-02T17:33:02Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1f61de8de06b483a9a82d5f4",
       "sourceId": "nerdzao/vagas#191",
@@ -236,52 +275,6 @@
       "createdAt": "2026-05-25T18:56:39Z",
       "updatedAt": "2026-05-25T18:57:04Z",
       "url": "https://github.com/programadores-br/geral/issues/3072",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2d9849eace549284f519bf16",
-      "sourceId": "backend-br/vagas#12245",
-      "title": "[Remoto] Full-stack Engineer (Net+React)",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET + React)\n🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai\n\nVocê é apaixonado(a) por desenvolvimento Full-stack e busca uma oportunidade internacional recebendo em dólar? 💻🌍\n\nUma empresa americana do segmento Pet Health está buscando um(a) Full-stack Engineer com forte experiência em .NET e React para atuar em projetos globais de alta escala e impacto.\n\n💰 Salário: USD 5K–6.5K/mês\n🏢 Empresa dos EUA | 51-250 colaboradores\n📍 100% Remoto\n🗣 Inglês B2+\n\n🔥 Stack Principal:\n✔ .NET Framework\n✔ .NET Core / .NET 6+\n✔ ASP.NET\n✔ React.js\n✔ Entity Framework & EF Core\n✔ SQL & Relational Databases\n✔ APIs Back-end\n✔ Front-end Development\n✔ UI Styling\n✔ NoSQL\n\n🎯 Requisitos:\n✅ +5 anos de experiência Full-stack\n✅ Forte experiência com APIs, bancos de dados e interfaces front-end\n✅ Domínio em React (components, state, lifecycle)\n✅ Conhecimento profundo em SQL e modelagem relacional\n✅ Experiência com padrões de projeto e boas práticas de desenvolvimento\n✅ Inglês avançado para comunicação internacional\n\nDiferenciais:\n Startup Experience\n Git & CI/CD Workflows\nAWS Cloud\nExperiência com bancos NoSQL\n Vivência em ambientes escaláveis e modernos\n\nEssa oportunidade é perfeita para profissionais que desejam crescimento internacional, projetos desafiadores e atuação em um ambiente inovador e global. 🚀\n\n📩 Cadastre-se agora e faça parte de um time internacional de tecnologia!\nhttps://app.onstrider.com/r/claudiaantunes?job=bWlkLWZ1bGwtc3RhY2stZW5naW5lZXItLm5ldC1yZWFjdC5qcy0wZTQ3N2FmYz9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET + React) 🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai Você é apaixonado(a) por desenvolvimento Full-...",
-      "issueState": "open",
-      "contentHash": "c55474b45116f4814e98970eee59fa3a56f57d2417e543c6348bd9d25283d6c1",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        ".net",
-        "remoto",
-        "aws",
-        "sql",
-        "git",
-        "asp",
-        "stale",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 5000,
-        "max": 6500,
-        "period": "month"
-      },
-      "createdAt": "2026-05-25T16:54:47Z",
-      "updatedAt": "2026-07-03T02:40:12Z",
-      "url": "https://github.com/backend-br/vagas/issues/12245",
       "sourceType": "github-issue"
     },
     {
