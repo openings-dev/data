@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-09T19:26:15.060Z",
+  "generatedAt": "2026-07-09T22:16:16.872Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_d2c11c8fc2357a8b0eef0f15",
+    "gh_0e98dad659c3df11a1cb1cc8",
     "gh_5f066bed10486c20bcb3fc70",
     "gh_84cd180e02db9815d917bcc4",
     "gh_eca179323abe1309b96e6c74",
@@ -21,11 +23,81 @@
     "gh_711783b1e589482d26973823",
     "gh_2c6305b33aff78c3ef09ce99",
     "gh_ae241d65a08eb0b2c7258d0c",
-    "gh_dd917afbcd6258ace2a2497e",
-    "gh_31d3c208b2b39f35424db09f",
-    "gh_7ba652a44a8de9edef28588e"
+    "gh_dd917afbcd6258ace2a2497e"
   ],
   "items": [
+    {
+      "id": "gh_d2c11c8fc2357a8b0eef0f15",
+      "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
+      "title": "Add Canada-specific product/new-grad companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker.\n\nI noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifesciences in Mississauga, Uplifter in Toronto, Evertz in Burlington, and AlphaSense remote Canada product/data roles.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this tracker?\n\nSuggested resource links:\n\n- Product/business/student roles in Canada: https://jobs.hanzilla.co/business/\n- New-grad/junior/entry-level Canadian roles: https://jobs.hanzilla.co/new-grad/\n- About/verification: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m Hanzi, the builder of Hanzilla Jobs. It’s a free, daily-updated Canadian student/recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across business/product, tech, finance, engineering, sciences, and related fields. If external companion links do not fit this repo’s policy, totally fine to close.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker. I noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifescience...",
+      "issueState": "open",
+      "contentHash": "88a93cc3f7673785e659bbfb5654110119a14a332a69f3cc39f849aba03032c2",
+      "repository": "jobright-ai/2026-Product-Management-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad"
+      },
+      "createdAt": "2026-06-08T18:33:33Z",
+      "updatedAt": "2026-06-08T18:33:33Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad/issues/1",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0e98dad659c3df11a1cb1cc8",
+      "sourceId": "nerdzao/vagas#193",
+      "title": "[São Paulo] Pessoa Engenheira de Cloud Sênior (Gestão de APIS) - Viaflow",
+      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado.\n\n\nEstamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de conexão estratégico entre serviços de backend e aplicações consumidoras, garantindo segurança, escalabilidade e performance no ciclo de vida de APIs.\n\n\nSe você tem domínio profundo na plataforma Apigee (Google Cloud), gestão de API Marketplace e arquitetura de microsserviços, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nDesenho e Implementação de APIs: Projetar e configurar proxies de API, políticas de segurança e regras de tráfego utilizando Apigee (Edge ou X).\nGestão de API Marketplace: Gerenciar plataformas de marketplace para facilitar a descoberta, documentação e autoatendimento de desenvolvedores.\nAutomação e CI/CD: Automatizar pipelines de implantação de APIs utilizando ferramentas como Terraform, GitHub Actions ou Jenkins, garantindo agilidade e confiabilidade.\nSegurança e Compliance: Implementar uma postura rigorosa de segurança (proteção contra ameaças, rate limiting) e padrões de criptografia (OAuth2, OIDC, JWT).\nExcelência Operacional: Monitorar performance, latência e taxas de erro, implementando alertas proativos e estratégias avançadas de troubleshooting.\nColaboração Técnica: Trabalhar em conjunto com times de aplicação para definir contratos de API (OpenAPI/Swagger) e práticas de transformação.\nDocumentação Técnica: Desenvolver e manter documentação de alta qualidade, incluindo especificações de API e conteúdos para portais de desenvolvedores.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\n\nExperiência Especializada: em Cloud Engineering, com foco em API Gateway ou plataformas de gestão de APIs.\nEspecialista em Apigee: Conhecimento avançado em configuração de políticas Apigee, Shared Flows e extensões customizadas (Javascript/Java callouts).\nExpertise em Cloud (GCP): Experiência prática comprovada com Google Cloud Platform.\nArquitetura Moderna: Conhecimento em conteinerização (Docker, Kubernetes) e design de microsserviços.\nPadrões de API: Domínio de RESTful API design e OpenAPI Specification (OAS).\nSegurança: Domínio de OAuth 2.0, OpenID Connect e protocolos TLS.\nInfraestrutura como Código (IaC): Proficiência em Terraform, Crossplane ou Pulumi.\nProgramação: Capacidade de escrever scripts de automação em Python, [Node.js](http://node.js/) ou Go.\n🏆 Diferenciais (O que valorizamos)\n\nExperiência em configurar Portais de Desenvolvedor e ecossistemas de API Marketplace.\nSólido conhecimento de redes (DNS, Load Balancing, VPCs e Firewalls).\nCapacidade analítica para diagnosticar problemas em ambientes complexos e multi-tier.\n🤝 Soft Skills\n\nExcelente capacidade de resolução de problemas e diagnóstico técnico.\nHabilidade de comunicação para conectar requisitos técnicos complexos aos objetivos de negócio.\nPerfil analítico e proativo na melhoria de processos de integração.\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nInformações adicionais\nContratação via modelo cooperativa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e DASA\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nFaz sentido para você? Se inscreva através do link: https://viaflow.gupy.io/jobs/11442319?jobBoardSource=gupy_public_page",
+      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de co...",
+      "issueState": "open",
+      "contentHash": "a222a178c6a199bf4350640ba8a635482b267922be3238e1bc4087350444a6ba",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "node",
+        "python",
+        "java",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-06-08T16:58:12Z",
+      "updatedAt": "2026-06-08T16:58:12Z",
+      "url": "https://github.com/nerdzao/vagas/issues/193",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_5f066bed10486c20bcb3fc70",
       "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
@@ -661,73 +733,6 @@
       "createdAt": "2026-05-29T08:24:55Z",
       "updatedAt": "2026-06-14T10:07:49Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_31d3c208b2b39f35424db09f",
-      "sourceId": "react-brasil/vagas#3011",
-      "title": "Desenvolvedor(a) Mobile iOS/Android (React Native/Expo) no Instituto Conhecimento Liberta",
-      "description": "## Descrição da vaga\n\nO Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, estabilidade e experiência do usuário.\n\nBuscamos perfis com boa autonomia, pensamento analítico e capacidade de construir soluções robustas, atuando de forma integrada com backend, produto e design.\n\n## Responsabilidades\n\n**Desenvolvimento e manutenção**\n\n- Desenvolver e manter aplicativos mobile utilizando React Native e Expo\n- Implementar experiências híbridas com WebView, criando pontes entre camadas nativa e web\n- Garantir compatibilidade e performance em iOS e Android\n- Evoluir a arquitetura dos aplicativos com foco em escalabilidade\n\n**Integrações e funcionalidades**\n\n- Integrar APIs externas e serviços de backend\n- Implementar notificações push e estratégias de engajamento\n- Desenvolver funcionalidades nativas quando necessário (câmera, geolocalização, biometria, armazenamento local)\n\n**Qualidade e publicação**\n\n- Gerenciar builds, testes e processos de publicação nas lojas\n- Monitorar crashes, performance e métricas de uso\n- Atuar em conjunto com backend e produto na definição de soluções técnicas\n\n## Requisitos\n\n**Desenvolvimento mobile**\n\n- Experiência sólida com React Native e Expo\n- Conhecimento do ciclo completo de publicação em App Store e Google Play\n- Experiência com implementação de push notifications\n- Domínio de navegação, gerenciamento de estado e consumo de APIs REST\n\n**Dados e armazenamento**\n\n- Experiência com armazenamento local e bancos de dados embarcados\n- Conhecimento em estratégias de cache e funcionamento offline\n\n**Autenticação e segurança**\n\n- Experiência com OAuth, JWT e login social (Google/Apple)\n- Boas práticas de armazenamento seguro de tokens e credenciais\n\n**Tecnologias base**\n\n- Proficiência em JavaScript e/ou TypeScript moderno\n- Familiaridade com Git e fluxos de CI/CD\n- Conhecimento em deep linking e universal links\n\n## Competências comportamentais\n\n- Autodidatismo e aprendizado contínuo\n- Proatividade na resolução de problemas\n- Boa comunicação com equipes multidisciplinares\n- Organização e autonomia para trabalho remoto\n- Adaptabilidade a novas tecnologias\n- Compromisso com prazos e entregas\n\n## Como se candidatar\n\nAcesse o link da vaga: https://editoraelivrariaconhecimentolibertaltda.pandape.infojobs.com.br/Detail?id=3155110\n\n## Labels\n\n- 🏢 Remoto",
-      "excerpt": "## Descrição da vaga O Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, e...",
-      "issueState": "open",
-      "contentHash": "955ee11ccbb1bcb5273cd87ccdeb2b01b66784d1d40ac93cd6a26753ef49a407",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto"
-      ],
-      "author": {
-        "id": "luismda",
-        "name": "luismda",
-        "handle": "luismda",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88680118?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Instituto Conhecimento Liberta",
-      "createdAt": "2026-05-28T15:21:46Z",
-      "updatedAt": "2026-05-29T18:23:53Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3011",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7ba652a44a8de9edef28588e",
-      "sourceId": "tramcar/awesome-job-boards#278",
-      "title": "Suggestion: add Hanzilla Jobs to Canada job boards",
-      "description": "Hi — thanks for maintaining this list.\n\nCould you consider adding Hanzilla Jobs to the Canada section?\n\nSuggested entry:\n\n```md\n* [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.\n```\n\nWhy I think it fits:\n\n- It is Canada-specific.\n- It is a job board, free to browse.\n- It focuses on university students and recent grads across multiple early-career fields, not only software.\n\nDisclosure: I help build/operate Hanzilla Jobs, so please only include it if it fits your curation standards.",
-      "excerpt": "Hi — thanks for maintaining this list. Could you consider adding Hanzilla Jobs to the Canada section? Suggested entry: ```md * [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-gra...",
-      "issueState": "open",
-      "contentHash": "07f39f6c4e835d45acdc77481e0c72112564db61ec9c73ee9e7d93e506c791e5",
-      "repository": "tramcar/awesome-job-boards",
-      "repositoryUrl": "https://github.com/tramcar/awesome-job-boards",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "tramcar",
-        "name": "tramcar",
-        "avatarUrl": "https://github.com/tramcar.png?size=80",
-        "repository": "tramcar/awesome-job-boards",
-        "url": "https://github.com/tramcar/awesome-job-boards"
-      },
-      "createdAt": "2026-05-28T10:47:17Z",
-      "updatedAt": "2026-05-28T10:47:17Z",
-      "url": "https://github.com/tramcar/awesome-job-boards/issues/278",
       "sourceType": "github-issue"
     }
   ]

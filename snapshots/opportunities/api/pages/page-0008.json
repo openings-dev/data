@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-09T19:26:15.060Z",
+  "generatedAt": "2026-07-09T22:16:16.872Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_31d3c208b2b39f35424db09f",
+    "gh_7ba652a44a8de9edef28588e",
     "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
@@ -21,11 +23,76 @@
     "gh_cb3234a96bffc3e0b5521d34",
     "gh_73e0c5d98159d349f10f4fa9",
     "gh_3537ba57897dbc655d648955",
-    "gh_3074e9f6173315eedc1a54e6",
-    "gh_1064af9b7fc9aca6eda2af2d",
-    "gh_200f3045b6c290bb361c8b57"
+    "gh_3074e9f6173315eedc1a54e6"
   ],
   "items": [
+    {
+      "id": "gh_31d3c208b2b39f35424db09f",
+      "sourceId": "react-brasil/vagas#3011",
+      "title": "Desenvolvedor(a) Mobile iOS/Android (React Native/Expo) no Instituto Conhecimento Liberta",
+      "description": "## Descrição da vaga\n\nO Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, estabilidade e experiência do usuário.\n\nBuscamos perfis com boa autonomia, pensamento analítico e capacidade de construir soluções robustas, atuando de forma integrada com backend, produto e design.\n\n## Responsabilidades\n\n**Desenvolvimento e manutenção**\n\n- Desenvolver e manter aplicativos mobile utilizando React Native e Expo\n- Implementar experiências híbridas com WebView, criando pontes entre camadas nativa e web\n- Garantir compatibilidade e performance em iOS e Android\n- Evoluir a arquitetura dos aplicativos com foco em escalabilidade\n\n**Integrações e funcionalidades**\n\n- Integrar APIs externas e serviços de backend\n- Implementar notificações push e estratégias de engajamento\n- Desenvolver funcionalidades nativas quando necessário (câmera, geolocalização, biometria, armazenamento local)\n\n**Qualidade e publicação**\n\n- Gerenciar builds, testes e processos de publicação nas lojas\n- Monitorar crashes, performance e métricas de uso\n- Atuar em conjunto com backend e produto na definição de soluções técnicas\n\n## Requisitos\n\n**Desenvolvimento mobile**\n\n- Experiência sólida com React Native e Expo\n- Conhecimento do ciclo completo de publicação em App Store e Google Play\n- Experiência com implementação de push notifications\n- Domínio de navegação, gerenciamento de estado e consumo de APIs REST\n\n**Dados e armazenamento**\n\n- Experiência com armazenamento local e bancos de dados embarcados\n- Conhecimento em estratégias de cache e funcionamento offline\n\n**Autenticação e segurança**\n\n- Experiência com OAuth, JWT e login social (Google/Apple)\n- Boas práticas de armazenamento seguro de tokens e credenciais\n\n**Tecnologias base**\n\n- Proficiência em JavaScript e/ou TypeScript moderno\n- Familiaridade com Git e fluxos de CI/CD\n- Conhecimento em deep linking e universal links\n\n## Competências comportamentais\n\n- Autodidatismo e aprendizado contínuo\n- Proatividade na resolução de problemas\n- Boa comunicação com equipes multidisciplinares\n- Organização e autonomia para trabalho remoto\n- Adaptabilidade a novas tecnologias\n- Compromisso com prazos e entregas\n\n## Como se candidatar\n\nAcesse o link da vaga: https://editoraelivrariaconhecimentolibertaltda.pandape.infojobs.com.br/Detail?id=3155110\n\n## Labels\n\n- 🏢 Remoto",
+      "excerpt": "## Descrição da vaga O Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, e...",
+      "issueState": "open",
+      "contentHash": "955ee11ccbb1bcb5273cd87ccdeb2b01b66784d1d40ac93cd6a26753ef49a407",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "🏢 remoto"
+      ],
+      "author": {
+        "id": "luismda",
+        "name": "luismda",
+        "handle": "luismda",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88680118?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "companyName": "Instituto Conhecimento Liberta",
+      "createdAt": "2026-05-28T15:21:46Z",
+      "updatedAt": "2026-05-29T18:23:53Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3011",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7ba652a44a8de9edef28588e",
+      "sourceId": "tramcar/awesome-job-boards#278",
+      "title": "Suggestion: add Hanzilla Jobs to Canada job boards",
+      "description": "Hi — thanks for maintaining this list.\n\nCould you consider adding Hanzilla Jobs to the Canada section?\n\nSuggested entry:\n\n```md\n* [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.\n```\n\nWhy I think it fits:\n\n- It is Canada-specific.\n- It is a job board, free to browse.\n- It focuses on university students and recent grads across multiple early-career fields, not only software.\n\nDisclosure: I help build/operate Hanzilla Jobs, so please only include it if it fits your curation standards.",
+      "excerpt": "Hi — thanks for maintaining this list. Could you consider adding Hanzilla Jobs to the Canada section? Suggested entry: ```md * [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-gra...",
+      "issueState": "open",
+      "contentHash": "07f39f6c4e835d45acdc77481e0c72112564db61ec9c73ee9e7d93e506c791e5",
+      "repository": "tramcar/awesome-job-boards",
+      "repositoryUrl": "https://github.com/tramcar/awesome-job-boards",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "tramcar",
+        "name": "tramcar",
+        "avatarUrl": "https://github.com/tramcar.png?size=80",
+        "repository": "tramcar/awesome-job-boards",
+        "url": "https://github.com/tramcar/awesome-job-boards"
+      },
+      "createdAt": "2026-05-28T10:47:17Z",
+      "updatedAt": "2026-05-28T10:47:17Z",
+      "url": "https://github.com/tramcar/awesome-job-boards/issues/278",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_6bd2ea87cfb4bbe49569241c",
       "sourceId": "ambicuity/New-Grad-Jobs#316",
@@ -678,92 +745,6 @@
       "createdAt": "2026-05-19T17:33:19Z",
       "updatedAt": "2026-05-19T17:33:52Z",
       "url": "https://github.com/programadores-br/geral/issues/3068",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1064af9b7fc9aca6eda2af2d",
-      "sourceId": "DevOps-Brasil/Vagas#461",
-      "title": "[Senior DevOps Engineer] DWS Brazil - Remoto",
-      "description": "### 🎯 Cargo\n\nSenior DevOps Engineer\n\n### 🏢 Empresa\n\ndentsu world services brazil [DWS Brazil]\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nSede em Porto Alegre - RS [vaga remota para residentes no Brasil]\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\nR$11.000-12.000 - podemos conversar melhor :)\n\n### 📋 Descrição da Vaga\n\nEstamos em busca de uma pessoa Engenheira de DevOps para participar de iniciativas de infraestrutura e automação em ambientes em núvem. Essa pessoa atuará de forma prática no desenvolvimento de soluções escaláveis, além de garantir a qualidade das entregas em ambientes distribuídos e altamente dinâmicos.\n\n**Responsabilidades e atribuições\n\nVocê será responsável por:**\n• Projetar e construir pipelines de CI/CD seguros para múltiplos sistemas de destino.\n• Desenvolver e gerenciar pipelines usando principalmente GitHub Actions, além de outras ferramentas como Jenkins, Bamboo e Travis.\n• Automatizar processos manuais e desenvolver ferramentas que aumentem a eficiência operacional.\n• Colaborar com os times de desenvolvimento para apoiar a adoção de ferramentas e práticas DevOps.\n• Garantir o uso de padrões seguros e boas práticas em pipelines e infraestrutura.\n• Escrever e manter infraestrutura como código (IaC), preferencialmente com Terraform (conhecimento em Ansible será considerado um diferencial).\n• Trabalhar em parceria com as equipes de infraestrutura para entregar soluções robustas e confiáveis.\n• Solucionar problemas e otimizar os ambientes de desenvolvimento, homologação e produção.\n• Contribuir para estratégias técnicas e apoiar a evolução da plataforma.\n• Compartilhar conhecimento e atuar como referência técnica para outros membros do time.\n\n### ✅ Requisitos Técnicos\n\n```markdown\nRequisitos e qualificações\nPara essa posição, é importante que você tenha:\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com azure, preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\nSerá legal se você tiver:\n\n• Experiência com Helm e criação de charts.\n• Familiaridade com Kubernetes (não é obrigatório — oferecemos treinamento).\n• Conhecimentos em segurança de aplicações e infraestrutura, redes (TCP/IP) e PKI.\n• Experiência com ferramentas de qualidade de código, como SonarQube.\n• Experiência com repositórios privados de pacotes (npm, PyPI, NuGet).\n• Habilidade para troubleshooting em ambientes com [Node.js](http://node.js/) e Python.\n• Conhecimento em scripts (bash/sh/ksh).\n```\n\n### 🎁 Benefícios\n\n**Aqui você vai encontrar (Nossos benefícios):**\n\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n-  Aulas de inglês com professor particular;\n-  Awesomeness - envio de mimos temáticos e exclusivos;\n-  Gympass;\n-  Horário flexível (40h semanais);\n-  Day off de aniversário;\n-  Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n-  Atuação 100% remota ou híbrida (a sua escolha).\n\n### 🛠️ Stack/Tecnologias\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com **azure,** preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\n### 📧 Como se Candidatar\n\nInscreva-se na vaga: https://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\nou envie um email com seu CV atualizado em inglês, pretensão salarial e nível de inglês para: debora.dalbem@dentsu.com\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
-      "excerpt": "### 🎯 Cargo Senior DevOps Engineer ### 🏢 Empresa dentsu world services brazil [DWS Brazil] ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Sede em Porto Alegre - RS [vaga r...",
-      "issueState": "open",
-      "contentHash": "1eb2d8c742d0703939ec8387ca516c7afb00dc8890ae2d4203f3078f488e4cf2",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "devops",
-        "sre",
-        "platform",
-        "infra",
-        "security",
-        "azure",
-        "kubernetes"
-      ],
-      "author": {
-        "id": "dwsbrazil",
-        "name": "dwsbrazil",
-        "handle": "dwsbrazil",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 11000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-05-18T13:44:20Z",
-      "updatedAt": "2026-05-18T13:45:26Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/461",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_200f3045b6c290bb361c8b57",
-      "sourceId": "soujava/vagas-java#1884",
-      "title": "[REMOTO] Back-end developer Java - DWS Brazil",
-      "description": "## Descrição da vaga\nEstamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções\n\n## Local\nRemoto - mas temos um office em Porto Alegre - RS para receber a galera para encontros, festa da firma e ta liberado para quem quiser frequentar!\nPS: Não voltaremos a atuar presencialmente.\n\n## Benefícios\n\n**Aqui você vai encontrar:**\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n- Aulas de inglês com professor particular;\n- Awesomeness Committee - envio de mimos temáticos e exclusivos;\n- Gympass;\n- Horário flexível (40h semanais);\n- Day off no dia do aniversário;\n- Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n- Atuação 100% remota ou híbrida (a sua escolha).\n- Contratação\n- CLT, 100% remoto e com carga horária flexível\n\n## Diferenciais\n\n- Programa de mentoria para desenvolvimento de carreira\n- Cultura de valorização, desenvolvimento e descontração\n- No office em porto alegre temos um frigobar sempre cheio :P (e tudo de graça)\n- Sala Fun com PS5, VR, Nintendo Switch, Karaokê\n\n## Requisitos\n**Como será sua rotina? Você será responsável por:**\n- Desenvolver soluções utilizando JavaEE e spring boot;\n- Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;\n- Desenvolver, integrar manter APIs para integração de Sistemas;\n- Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio\n- Documentar todo o processo de desenvolvimento do código;\n- Criar relatórios de status e possíveis problemas para o Project Manager;\n- Participar de reuniões técnicas e cerimônias do projeto.\n\n#### Obrigatórios:\n**Para essa posição é importante que você tenha:**\n- Experiência com programação em Java (JDK);\n- Domínio de conceitos para programação orientado a objetos;\n- Experiência com conceito de padrões de arquitetura;Conhecimento em GIt ou Subeversion;\n- Habilidades com frameworks open source (Hibertnate, Velocity, etc);\n- Conhecimento em aplicações Web e protocolos HTTP;\n- Experiência com banco de dados relacionais (Oracle, MySQL, etc);\n- Experiência com pelo menos um IDE (Eclipse, Intellij IEDA, etc);\n- Experiência com Gradle, Mavel ou ANT e integração contínua;\n- Conhecimento em conceitos ORM ou experiência com implementação (Hibernate ou outra JPA);\n- Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.\n\n#### Diferenciais:\n\n- Projeto internacional\n- Utilização diária do inglês para comunicação com os times multiculturais \n\n## Contratação\n\n- CLT \n\n## Nossa empresa\n\nA Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atuamos como centro de tecnologia, inovação e design do grupo. Possuímos parceria com diversas agências do grupo e estamos empenhados em entregar soluções criativas e inovadoras aos nossos clientes, atendendo a projetos de desenvolvimento web e mobile. Embora tenhamos nosso escritório físico, por acreditarmos numa conexão sem fronteiras, temos pessoas espalhadas por todo o país que compões os times da DWS Brazil.\n\nOs DWSianes se integram a times multiculturais e que contam com pessoas de diversos países, levando o trabalho em grupo a um nível mais elevado e significativo. Assim, a diversidade de ideias contribui para a construção de tecnologias que revolucionam o mercado.\n\nMuitos desafios, aprendizado e crescimento esperam você na DWS Brazil!\n\n## Como se candidatar\nInscreva-se na nossa página de carreiras: https://dwsbrazil.gupy.io/jobs/11083207?jobBoardSource=gupy_public_page\n\n## Tempo médio de feedbacks\n\nNosso processo costuma ter em torno de 15 dias ao todo\nE-mail para contato em caso de não haver resposta: debora.dalbem@dentsu.com \n\n## Labels\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n#### Nível\n- Pleno\n- Sênior",
-      "excerpt": "## Descrição da vaga Estamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções ## Local Remoto - mas temos um office em Porto Alegre - RS para receber a galera pa...",
-      "issueState": "open",
-      "contentHash": "636adf5ecad5d26b0e4d9d4a247bd0715b211c2d47d9aa314bc12d7b0e965e2c",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "internacional",
-        "pleno",
-        "remoto",
-        "spring",
-        "hibernate",
-        "eclipse"
-      ],
-      "author": {
-        "id": "dwsbrazil",
-        "name": "dwsbrazil",
-        "handle": "dwsbrazil",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "createdAt": "2026-05-18T13:35:33Z",
-      "updatedAt": "2026-05-18T13:35:56Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1884",
       "sourceType": "github-issue"
     }
   ]
