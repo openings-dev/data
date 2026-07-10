@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-10T06:36:54.282Z",
+  "generatedAt": "2026-07-10T11:44:58.794Z",
   "schemaVersion": 3,
   "pageSize": 20,
-  "dataHash": "fb8616c0a2be867c924e9e7594baf14d0ea6a325c5865a8671ab48417fba8142",
+  "dataHash": "64ef99f0b309fb2b74a37ab19cc2c2c6f27de6925d20f4b47f965f47f25be58e",
   "totals": {
-    "openOpportunities": 699,
-    "pages": 35,
-    "repositories": 100,
+    "openOpportunities": 722,
+    "pages": 37,
+    "repositories": 102,
     "countries": 16,
     "regions": 5
   },
@@ -76,7 +76,7 @@
       "js-hcm/job-board": 3,
       "kotlin-br/vagas": 2,
       "LinuxSuRen/remote-jobs-in-china": 3,
-      "lukasz-madon/awesome-remote-job": 4,
+      "lukasz-madon/awesome-remote-job": 5,
       "MacaeTech/vagas": 2,
       "marmelo/tech-companies-in-portugal": 1,
       "matildaexp/remote-latam": 2,
@@ -117,14 +117,16 @@
       "twjug/jobs": 25,
       "uxbrasil/vagas": 2,
       "VagasBR/desenvolvedores": 9,
+      "vanshb03/Summer2026-Internships": 11,
+      "vanshb03/Summer2027-Internships": 11,
       "vuejs-br/vagas": 2,
       "web3br/vagas": 3
     },
     "regions": {
       "Asia": 140,
       "Europe": 9,
-      "Global": 64,
-      "North America": 63,
+      "Global": 65,
+      "North America": 85,
       "South America": 423
     },
     "countries": {
@@ -134,7 +136,7 @@
       "China": 10,
       "Colombia": 1,
       "Germany": 5,
-      "Global": 66,
+      "Global": 89,
       "Hong Kong": 4,
       "Italy": 2,
       "Mexico": 2,
@@ -233,7 +235,7 @@
       "net": 6,
       "net-core": 1,
       "new": 1,
-      "new-internship": 28,
+      "new-internship": 50,
       "new-job": 1,
       "nextjs": 3,
       "nodejs": 92,
@@ -254,7 +256,7 @@
       "react": 100,
       "react-native": 1,
       "recruited": 1,
-      "remote": 204,
+      "remote": 205,
       "remotely": 3,
       "remoteok-io": 15,
       "rest": 2,
@@ -304,6 +306,7 @@
       "alexpdp7": 1,
       "aliriojsp": 1,
       "alissongusmao": 16,
+      "allenshi16": 1,
       "Allenz5": 1,
       "alvaropsc": 2,
       "alvarowolfx": 2,
@@ -318,6 +321,7 @@
       "Anna8954": 1,
       "annesiaf": 1,
       "apapangelapeng": 1,
+      "aprameyak": 12,
       "arafanm385-cpu": 1,
       "ArjunPanickssery": 3,
       "arthurdepauli": 2,
@@ -356,7 +360,7 @@
       "DaphneWhit": 1,
       "dayanaramirez601": 1,
       "debuggingfuture": 1,
-      "DereC4": 28,
+      "DereC4": 38,
       "dg3feiko": 1,
       "didtheyghostme": 1,
       "DinamiqJobs": 1,
@@ -609,10 +613,12 @@
       "ZachPlotkin": 1
     },
     "authorLabels": {
+      "DereC4": "DereC4",
+      "allenshi16": "allenshi16",
+      "aprameyak": "aprameyak",
       "PhuongVu-HR": "PhuongVu-HR",
       "jazoomi": "jazoomi",
       "thothismybro": "thothismybro",
-      "DereC4": "DereC4",
       "viphan28": "viphan28",
       "matheu555": "matheu555",
       "amandavviana": "amandavviana",
@@ -1107,7 +1113,17 @@
     {
       "page": 35,
       "file": "api/pages/page-0035.json",
-      "count": 19
+      "count": 20
+    },
+    {
+      "page": 36,
+      "file": "api/pages/page-0036.json",
+      "count": 20
+    },
+    {
+      "page": 37,
+      "file": "api/pages/page-0037.json",
+      "count": 2
     }
   ]
 }

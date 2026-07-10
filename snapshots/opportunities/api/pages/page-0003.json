@@ -1,114 +1,578 @@
 {
-  "generatedAt": "2026-07-10T02:09:07.797Z",
+  "generatedAt": "2026-07-10T11:44:58.794Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
-    "gh_dc9be57bac65e04edbf010e2",
-    "gh_31771006fb197da7d3ea896f",
-    "gh_03e1ed1f70d913dbf9112931",
-    "gh_c21fe4f8cf97111ea9a277bf",
-    "gh_ffe16aeba48ee05bf8013d15",
-    "gh_50557775750b90b91b2f6863",
-    "gh_c0671970e9661218f7affa0d",
-    "gh_cad4b1e58a804d80ae55088b",
-    "gh_4256788abef9b3a4b3b50c74",
-    "gh_ce4e8d30eebff5434179fcdb",
-    "gh_49aacd7ebb713a3ee77bafeb",
-    "gh_62636600992f18f83b456bfa",
-    "gh_cfd654d78091a572cbf02096",
-    "gh_6ed380c2551224258c7cf545",
-    "gh_c16a9b067fa99b03ac968205",
-    "gh_185ce8a92c7177c930ddff97",
-    "gh_3a051455a1b7fb0ddf54438e",
-    "gh_22e6d5137186ccfccf43d7fb",
-    "gh_52f8df6bc3aa36f9356654fb",
-    "gh_0553ad2ac08479b5ea16c6f1"
+    "gh_9ebc67824912fe2073269fcc",
+    "gh_242ddd14db845cbebb89e963",
+    "gh_4a4b6138e297040cb835ffb0",
+    "gh_5d445aff4f3e2908246b5d76",
+    "gh_83339020a2ba1fc447c1f754",
+    "gh_be0bb707364bdb5fd3ab8a02",
+    "gh_b18f4e3fca61d40108b8e43f",
+    "gh_ca67e82b2884ab2bc25bde60",
+    "gh_ea38c1270a4018a146a15872",
+    "gh_7557e8348cc3ee95670cabc5",
+    "gh_19b5fdf75df6ae77bffa86f6",
+    "gh_95774b0316e45a580452aafb",
+    "gh_ccd963e6f5cd2bc7022668de",
+    "gh_ed9daa7e2e83336b34db3125",
+    "gh_ee3bf5f551a3955bd095b63e",
+    "gh_6b9fa9e736a4c6a75c0c3dc6",
+    "gh_ab73013f4dc9b332f5aa8a20",
+    "gh_674716f49c075f02f7ac62d5",
+    "gh_822a96b739eda39c6f83c960",
+    "gh_6d0308440c101b171be2043e"
   ],
   "items": [
     {
-      "id": "gh_dc9be57bac65e04edbf010e2",
-      "sourceId": "lukasz-madon/awesome-remote-job#1103",
-      "title": "Review PR #1102 — Remote Signal API (JSON jobs + Show HN feed)",
-      "description": "**Merge request — Remote Signal API listing**\n\nPR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache).\n\n- Live: https://intellectual-close-wages-west.trycloudflare.com/pricing\n- Free: 10 req/day | Pro: $5 USDC/mo | Agents: x402 $0.02/req on Base\n- Docs: https://gist.github.com/reckoning89/d87818b2020bbc27590df1fa0c42f175\n- Verified: 138+ API calls from 40+ external IPs this week\n\nHappy to adjust copy/format. Ready to merge when convenient — thanks for maintaining this list!",
-      "excerpt": "**Merge request — Remote Signal API listing** PR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache). - Live: https://intellectual-close-wages-west.trycloudflare.com/pri...",
+      "id": "gh_9ebc67824912fe2073269fcc",
+      "sourceId": "awesome-jobs/vietnam#4955",
+      "title": "Senior Software Engineer - QRM | HYBRID - INSPECTORIO",
+      "description": "**About the role**\n\n- As a Senior Software Engineer at Inspectorio, you will partner with Product, Design, QA, and Customer Support to solve complex business problems and deliver customer value. You will use modern engineering practices, including AI-assisted development where appropriate, while maintaining high standards for architecture, quality, security, and operational excellence. As such, we are open to hiring a Senior Software Engineer with either strong backend expertise in Python, or fullstack experience with a frontend focus in Angular alongside Python.\n- Success in this role is defined not only by technical implementation, but by the ability to frame problems effectively, evaluate trade-offs, orchestrate solutions across systems and teams, and guide projects from concept to measurable business outcomes.\n\n**What you'll do**\n\n- Design, develop, and maintain high-performance backend services using Python and Django. \n- Collaborate with cross-functional teams, including designers, product managers, and other engineers, to deliver high-quality software solutions. \n- Lead problem discovery, root cause analysis, and solution framing for complex technical and business challenges.\n- Translate ambiguous business requirements into well-defined technical solutions and execution plans.\n- Drive decisions through data, experimentation, and rapid prototyping.\n- Work closely with Customer Support and QA teams to investigate and resolve customer-reported incidents, bugs, and requests in a timely and professional manner. \n- Demonstrate strong communication and collaboration skills, participating actively in team discussions, planning sessions, and retrospectives. \n- Architect and implement new features and services that meet business requirements. \n- Write clean, maintainable, and well-documented code adhering to best practices and industry standards. \n- Lead code reviews, provide constructive feedback, and mentor junior developers to enhance the team’s capabilities. \n- Identify, troubleshoot, and resolve performance bottlenecks and other backend issues. \n- Stay current with the latest industry trends, technologies, and best practices, particularly in Python and Django. \n- Optimize applications for maximum speed and scalability while ensuring security and data protection standards. \n- Contribute to the improvement of the development process, including continuous integration and deployment strategies.\n\n**Qualifications**\n\n- 5+ years of professional experience in backend development, with a strong emphasis on Python and Django. \n- Deep understanding of object-oriented programming, design patterns, and other OOP principles such as SOLID and GRASP. \n- Experience with RESTful APIs, API-first approach, and microservices architecture. \n- Proficient in working with relational databases such as PostgreSQL, MySQL, or similar. \n- Demonstrated ability to solve ambiguous problems and translate business objectives into scalable technical solutions.\n- Strong systems-thinking mindset with the ability to reason across product, technical, operational, and customer domains.\n- Experience using AI-assisted development tools responsibly to improve engineering productivity, including coding, testing, debugging, documentation, and solution design, while maintaining high standards for quality, security, and maintainability.\n- Proven ability to evaluate competing solutions and make sound trade-off decisions under uncertainty.\n- Excellent written communication skills, including the ability to produce high-quality technical designs, implementation plans, and architectural proposals.\n- Experience with asynchronous programming and related frameworks like Celery. \n- Proficient with version control systems, particularly Git. \n- Familiarity with cloud platforms (AWS, Azure, Google Cloud) and their services. \n- Proven ability to work independently and within cross-functional teams. \n- Understanding of CI/CD pipelines, Docker, and container orchestration tools like Kubernetes \n- Strong problem-solving skills and the ability to work independently in a fast-paced environment. \n- Great communication skills, in English, both written and verbal. \n\nNICE TO HAVE\n\n- Experience with Angular (v18+) and modern frontend development. \n- Ability to contribute across the fullstack (backend + frontend). \n\n**Benefits**\n\nWhy it would be awesome to work with us\n\n🍹 Unlimited Annual Leave: We prioritize your well-being and trust you to manage your time.\n🏝️ Flexible Working: Whether from home, a coffee shop, or our global hubs, work where you're most comfortable.\n💪 Project Ownership: You get to lead  the initiatives you're passionate about, professionally or socially.\n🌱 Grow with us: We're invested in your personal and professional development.\n🌎 Global, diverse, and innovative team: Be part of a welcoming community from 30+ countries, where unique perspectives drive innovation.\n🤝 Feel at home: Work closely with colleagues who value your voice, share our E.A.C.H. values, and help you be the best version of yourself.\n🎉 Celebrate together: Enjoy remote and hub company and team  events that strengthen our bonds and build a fun culture.\n\nLet's connect with me at +84395392802 for more information on hiring process and position expectation.",
+      "excerpt": "**About the role** - As a Senior Software Engineer at Inspectorio, you will partner with Product, Design, QA, and Customer Support to solve complex business problems and deliver customer value. You will use modern eng...",
       "issueState": "open",
-      "contentHash": "ab62bc1a66b1fce40ffd39e5e06a8ceb9316d5822243f9fe455228ef73a967f2",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
+      "contentHash": "8295a86b009996b75894dda84aed18ce6bcc51baef1397ea00b40cf03ada72d3",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
       "tags": [
-        "remote"
+        "remote",
+        "hybrid",
+        "frontend",
+        "backend",
+        "fullstack",
+        "python",
+        "senior",
+        "junior"
       ],
       "author": {
-        "id": "reckoning89",
-        "name": "reckoning89",
-        "handle": "reckoning89",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216601217?v=4"
+        "id": "viphan28",
+        "name": "viphan28",
+        "handle": "viphan28",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/142965427?v=4"
       },
       "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
       },
-      "createdAt": "2026-07-07T00:03:28Z",
-      "updatedAt": "2026-07-07T13:57:26Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1103",
+      "createdAt": "2026-07-09T04:38:27Z",
+      "updatedAt": "2026-07-09T04:38:27Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4955",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_31771006fb197da7d3ea896f",
-      "sourceId": "programadores-br/geral#3084",
-      "title": "[Nova Lima, Brasil] Suporte de TI N2 (Turno Noturno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/suporte-de-ti-n2-turno-noturno-184856214?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando Suporte de TI N2 para atuar noturno.\n\n**Jornada de trabalho:** Escala 12x36\n\n**Horário:** das 19h00 às 07h00\n\nAtuação presencial Vila da Serra/Nova Lima\n\n**Treinamento:** Nos dois primeiros meses será necessário disponibilidade para treinamento e capacitação, de segunda a sexta-feira, das 08h00 às 17h00.\n\n**Responsabilidades:**\n\n*   Analisar, diagnosticar e solucionar incidentes relacionados à plataforma da Betruck;\n    \n*   Atender chamados escalados pelo Suporte N1;\n    \n*   Investigar falhas operacionais, erros sistêmicos e problemas de funcionamento da plataforma;\n    \n*   Analisar integrações entre sistemas e identificar inconsistências;\n    \n*   Realizar consultas em banco de dados para validação de informações e apoio na resolução de incidentes;\n    \n*   Orientar clientes quanto à utilização da plataforma e às melhores práticas de operação;\n    \n*   Registrar, documentar e acompanhar os chamados até sua conclusão;\n    \n*   Executar testes e validar correções disponibilizadas pela equipe de Desenvolvimento;\n    \n*   Atuar em conjunto com as equipes de Suporte N1, Desenvolvimento e demais áreas envolvidas na resolução de incidentes;\n    \n*   Identificar oportunidades de melhoria nos processos e na experiência dos clientes.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Comunicação \n- Documentação \n- Foco no resultado \n- Solução de problemas técnicos \n- Trabalho em equipe\n## Local: \n Nova Lima, Brasil\n## Requisitos: \n - Desejável ensino superior completo ou em andamento em cursos como: Sitemas de Informações ou demais área correlatas. \n- Perfil analítico e investigativo; \n- Facilidade para identificar e solucionar problemas; \n- Boa comunicação, organização e foco em resultados; \n- Capacidade de documentar atendimentos de forma clara e estruturada; \n- Facilidade para trabalhar em equipe; \n- Interesse por tecnologia aplicada à logística.\n\n## Benefícios: \n - Vale-alimentação/Refeição; \n- Vale-transporte ou mobilidade; \n- Plano de saúde (sem cobrança de mensalidade); \n- OnHappy; \n- Wellhub.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Suporte de TI N2 (Turno Noturno) na BeTruck](https://coodesh.com/jobs/suporte-de-ti-n2-turno-noturno-184856214?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nSuporte Técnico",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "id": "gh_242ddd14db845cbebb89e963",
+      "sourceId": "awesome-jobs/vietnam#4954",
+      "title": "Senior Software Engineer - Core Service | HYBRID - INSPECTORIO",
+      "description": "**About the role**\n\nAs a Senior Software Engineer at Inspectorio, you will be responsible for working with cross-functional teams including product owners, designers, and quality assurance engineers to conceptualize, develop, and deploy software features that meet customer needs. Your initial focus will be on our core functionalities such as Organization & User Management, Authentication & Authorization, Billing & Subscription Management. \n\n\n**What you'll do**\n\n- Design, develop, and maintain high-performance backend services using Python and its frameworks such as Django, FastAPI.\n- Collaborate with cross-functional teams, including designers, product managers, and other engineers, to deliver high-quality software solutions.\n- Work closely with Customer Support and QA teams to investigate and resolve customer-reported incidents, bugs, and requests in a timely and professional manner.\n- Utilize AI agents and AI workflows to streamline development tasks and routine operations, from ideation to developing new features and root cause analysis.\n- Demonstrate strong communication and collaboration skills, participating actively in team discussions, planning sessions, and retrospectives.\n- Architect and implement new features and services that meet business requirements.\n- Write clean, maintainable, and well-documented code adhering to best practices and industry standards.\n- Lead code reviews, provide constructive feedback, and mentor junior developers to enhance the team’s capabilities.\n- Identify, troubleshoot, and resolve performance bottlenecks and other backend issues.\n- Stay current with the latest industry trends, technologies, and best practices, particularly in AI utilization.\n- Optimize applications for maximum speed and scalability while ensuring security and data protection standards.\n- Contribute to the improvement of the development process, including continuous integration and deployment strategies.\n\n\n**Qualifications**\n\n- 5+ years of professional experience in backend development, with a strong emphasis on Python and its frameworks.\n- Deep understanding of object-oriented programming, design patterns, and other OOP principles such as SOLID and GRASP.\n- Experience with RESTful APIs, API-first approach, and microservices architecture.\n- Proficient in working with both relational and non-relational databases such as PostgreSQL, ElasticSearch.\n- Experience using AI assistants in the development workflow (e.g., Claude Code, Cursor, Antigravity).\n- Experience with asynchronous programming and related frameworks like Celery.\n- Proficient with version control systems, particularly Git.\n- Familiarity with cloud platforms (AWS, Azure, Google Cloud) and their services.\n- Proven ability to work independently and within cross-functional teams.\n- Understanding of CI/CD pipelines, Docker, and container orchestration tools like Kubernetes\n- Strong problem-solving skills and the ability to work independently in a fast-paced environment.\n- Great communication skills, in English, both written and verbal.\n- Experience in working with SaaS Billing systems is a plus.\n\n\n**Benefits**\n\nWhy it would be awesome to work with us\n\n🍹 Unlimited Annual Leave: We prioritize your well-being and trust you to manage your time.\n🏝️ Flexible Working: Whether from home, a coffee shop, or our global hubs, work where you're most comfortable.\n💪 Project Ownership: You get to lead  the initiatives you're passionate about, professionally or socially.\n🌱 Grow with us: We're invested in your personal and professional development.\n🌎 Global, diverse, and innovative team: Be part of a welcoming community from 30+ countries, where unique perspectives drive innovation.\n🤝 Feel at home: Work closely with colleagues who value your voice, share our E.A.C.H. values, and help you be the best version of yourself.\n🎉 Celebrate together: Enjoy remote and hub company and team  events that strengthen our bonds and build a fun culture.\n\nContact me at +84 395392802 for further information.",
+      "excerpt": "**About the role** As a Senior Software Engineer at Inspectorio, you will be responsible for working with cross-functional teams including product owners, designers, and quality assurance engineers to conceptualize, d...",
       "issueState": "open",
-      "contentHash": "07ed1071ffae2ff80d306f920ba35b489784c91d22bfc622cdbe13a2bc56778c",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "contentHash": "fd0e691c94880149a6b8e6e5378b39def8068011f776023fa098dd9c52a13991",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "hybrid",
+        "backend",
+        "python",
+        "senior",
+        "junior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "viphan28",
+        "name": "viphan28",
+        "handle": "viphan28",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/142965427?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-09T04:35:36Z",
+      "updatedAt": "2026-07-09T05:58:17Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4954",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4a4b6138e297040cb835ffb0",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9615",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779\n\n### Company Name\n\nNVIDIA \n\n### Internship Title\n\nPerformance Engineer Intern, Systems Software- Fall 2026\n\n### Location\n\nSt. Louis, MO\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779 ### Company Name NVIDIA ### Internshi...",
+      "issueState": "open",
+      "contentHash": "66c145d839b1bd2098effd78191442c666117fd5200fc5644ca52dc680e26075",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-08T23:49:14Z",
+      "updatedAt": "2026-07-08T23:49:14Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9615",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5d445aff4f3e2908246b5d76",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9614",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.gusto.com/postings/incognio-llc-software-engineer-intern-fafc6eb5-3e1c-4630-9942-b68e1d7bf247\n\n### Company Name\n\nAther Audio\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nWoodcliff Lake, NJ\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.gusto.com/postings/incognio-llc-software-engineer-intern-fafc6eb5-3e1c-4630-9942-b68e1d7bf247 ### Company Name Ather Audio ### Internship Title Software Engineer Intern ### ...",
+      "issueState": "open",
+      "contentHash": "ea39572b21edf232fdb95b0cb4da5a3c880e12f7cdd6f0ee56d340c9cb289431",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-08T23:48:45Z",
+      "updatedAt": "2026-07-08T23:48:45Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9614",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_83339020a2ba1fc447c1f754",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9613",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://trimascorp.csod.com/ux/ats/careersite/16/home/requisition/6740?c=trimascorp\n\n### Company Name\n\nRieke LLC\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nBloomfield Hills, MI\n\n### What term(s) is this internship offered for?\n\nSummer 2026, Fall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://trimascorp.csod.com/ux/ats/careersite/16/home/requisition/6740?c=trimascorp ### Company Name Rieke LLC ### Internship Title Software Engineering Intern ### Location Bloomfield Hi...",
+      "issueState": "open",
+      "contentHash": "c2f8beab76e060ecf0ab28f2f622e6161f657d6dc19f9a598dfa5def1b8b89a5",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-08T23:48:25Z",
+      "updatedAt": "2026-07-08T23:48:25Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9613",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_be0bb707364bdb5fd3ab8a02",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9612",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://careers.leonardodrs.com/job/Beavercreek-Fall-2026-Software-Engineering-Intern-OH-45431/1406242800/\n\n### Company Name\n\nLeonardo DRS\n\n### Internship Title\n\nFall 2026 Software Engineering Intern\n\n### Location\n\nBeavercreek, OH\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://careers.leonardodrs.com/job/Beavercreek-Fall-2026-Software-Engineering-Intern-OH-45431/1406242800/ ### Company Name Leonardo DRS ### Internship Title Fall 2026 Software Engineeri...",
+      "issueState": "open",
+      "contentHash": "334bbd97b582060883c580405a6bd27c34b7b4505d9797436f50f101718ec705",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-08T23:47:59Z",
+      "updatedAt": "2026-07-08T23:47:59Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9612",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_b18f4e3fca61d40108b8e43f",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9611",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://cra.com/job-listings/?gh_jid=8047653\n\n### Company Name\n\nCharles River Analytics\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nCambridge, MA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://cra.com/job-listings/?gh_jid=8047653 ### Company Name Charles River Analytics ### Internship Title Software Engineering Intern ### Location Cambridge, MA ### What term(s) is this...",
+      "issueState": "open",
+      "contentHash": "a5645d308e85835836b89f842276fffd53bb40f468e908aced726ac449916b59",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-08T23:47:41Z",
+      "updatedAt": "2026-07-08T23:47:41Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9611",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ca67e82b2884ab2bc25bde60",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9610",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275\n\n### Company Name\n\nNorthrop Grumman\n\n### Internship Title\n\n2027 Intern Software Engineer\n\n### Location\n\nMelbourne, FL\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275 ### Company Name Northrop Grumman ###...",
+      "issueState": "open",
+      "contentHash": "393014927e422a95f55ee12d1b7580fb54d932c208ededeafade145ef288c984",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-08T23:47:13Z",
+      "updatedAt": "2026-07-08T23:47:13Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9610",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ea38c1270a4018a146a15872",
+      "sourceId": "frontendbr/vagas#8518",
+      "title": "[Remoto] Desenvolvedor(a) Full-Stack Sênior (TypeScript/React/Node) - Grupo Apex (EUA)",
+      "description": "## Sobre nós\n\nGrupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros\ncom DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de\nserviços de construção (riseconstruction.us). Os três produtos estão em produção, com clientes\nreais e receita real.\n\n## A vaga\n\nOs três produtos foram construídos majoritariamente com agentes de IA (Claude Code). Você vai\ntrabalhar COM esses agentes — eles revisam seus PRs, você revisa os deles. Procuramos alguém\nque use IA como alavanca e traga o que ela não traz: julgamento sênior sobre edge cases,\nintegridade de dados, migração segura e deploy sem susto. Os produtos estão ~80% prontos; o\ntrabalho é levá-los a 100% — a parte que separa produto de demo.\n\n## O que você vai fazer\n\n- Cutover de redesigns de staging para produção, incluindo migrações de schema manuais (MySQL)\n- Features de dashboard: fluxos de financiamento, pipeline de ofertas com SLA, portais por\n  papel (comprador/colaborador), chat interno, motores de orçamento e comissão\n- Integrações: Stripe (go-live), QuickBooks two-way, telefonia (Twilio), APIs de terceiros\n- Hardening: checagens multi-tenant, bugs de cálculo de folha (nível centavo), schema drift\n\n## Stack (igual nos 3 produtos)\n\nTypeScript, React, Vite, tRPC, Drizzle ORM, MySQL, Tailwind/Radix, Node.js em VPS Linux\n(nginx), Cloudflare R2. Integrações: Stripe, Twilio, QuickBooks, APIs Meta/Google.\n\n## Local\n\nRemoto (Brasil) — PJ\n\n## Requisitos\n\n- **Experiência:** 5+ anos levando TypeScript full-stack a produção; React + Node + SQL\n  profundos (o peso maior é backend)\n- **Produção de verdade:** já operou app em Linux puro (nginx, systemd, SSH, backup) — sem\n  rede de segurança de PaaS\n- **Cicatriz de integração:** Stripe, OAuth, webhooks (inclusive entrega duplicada)\n- **Inglês:** técnico de leitura/escrita (código e docs em inglês; dia a dia em português)\n- **Perfil:** autonomia, conforto genuíno em revisar código escrito por IA e ser revisado\n  por agentes\n- **Diferencial forte:** React Native/Expo — temos 3 apps mobile (Expo Router) na fila\n  depois da web, incluindo publicação nas lojas\n\n## Contratação\n\nPJ — **R$ 12.000 a R$ 18.000/mês**, conforme senioridade · full-time ou 30h+/semana\n- Cliente americano direto (sem agência no meio), pagamento em dia via Deel, longo prazo\n- Demo semanal · começa com **trial pago de 1 semana** (tarefa real do backlog, no seu rate)\n\n## Como se candidatar\n\nEmail para **alex@theapexauto.com** com assunto **[FULLSTACK] Seu Nome** contendo:\n1. A integração de produção mais cabeluda que você já entregou — o que quebrou e como descobriu\n2. Links de código seu com histórico real de commits\n3. Pretensão (R$/mês PJ) e disponibilidade\n\nPropostas genéricas são descartadas. Sem agências, por favor.",
+      "excerpt": "## Sobre nós Grupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros com DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de serviços de construç...",
+      "issueState": "open",
+      "contentHash": "25265dcfbb891324ce5612e04a8a67a004b8a049eb352bd1a880003ec771d542",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "alocado",
-        "presencial",
-        "clt"
+        "sênior",
+        "pj",
+        "remoto"
       ],
       "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+        "id": "matheu555",
+        "name": "matheu555",
+        "handle": "matheu555",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/221351562?v=4"
       },
       "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
       },
-      "companyName": "Coodesh",
-      "createdAt": "2026-07-06T18:56:46Z",
-      "updatedAt": "2026-07-06T18:57:28Z",
-      "url": "https://github.com/programadores-br/geral/issues/3084",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 18000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-08T18:36:12Z",
+      "updatedAt": "2026-07-08T18:36:42Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8518",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_03e1ed1f70d913dbf9112931",
-      "sourceId": "vuejs-br/vagas#606",
-      "title": "[Remoto] Front-end Vue.js Developer Sênior @ Sylision",
-      "description": "## Descrição da vaga\n\nVaga de Front-end Vue.js Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Vue.js compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-vue-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Experiência\n- Sênior\n\n#### Regime\n- CLT\n- PJ",
-      "excerpt": "## Descrição da vaga Vaga de Front-end Vue.js Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência. ## Local 100% remoto, de ...",
+      "id": "gh_7557e8348cc3ee95670cabc5",
+      "sourceId": "backend-br/vagas#12323",
+      "title": "[Remoto] Desenvolvedor(a) Full-Stack Sênior (TypeScript/React/Node) - Grupo Apex (EUA)",
+      "description": "## Sobre nós\n\nGrupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros\ncom DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de\nserviços de construção (riseconstruction.us). Os três produtos estão em produção, com clientes\nreais e receita real.\n\n## A vaga\n\nOs três produtos foram construídos majoritariamente com agentes de IA (Claude Code). Você vai\ntrabalhar COM esses agentes — eles revisam seus PRs, você revisa os deles. Procuramos alguém\nque use IA como alavanca e traga o que ela não traz: julgamento sênior sobre edge cases,\nintegridade de dados, migração segura e deploy sem susto. Os produtos estão ~80% prontos; o\ntrabalho é levá-los a 100% — a parte que separa produto de demo.\n\n## O que você vai fazer\n\n- Cutover de redesigns de staging para produção, incluindo migrações de schema manuais (MySQL)\n- Features de dashboard: fluxos de financiamento, pipeline de ofertas com SLA, portais por\n  papel (comprador/colaborador), chat interno, motores de orçamento e comissão\n- Integrações: Stripe (go-live), QuickBooks two-way, telefonia (Twilio), APIs de terceiros\n- Hardening: checagens multi-tenant, bugs de cálculo de folha (nível centavo), schema drift\n\n## Stack (igual nos 3 produtos)\n\nTypeScript, React, Vite, tRPC, Drizzle ORM, MySQL, Tailwind/Radix, Node.js em VPS Linux\n(nginx), Cloudflare R2. Integrações: Stripe, Twilio, QuickBooks, APIs Meta/Google.\n\n## Local\n\nRemoto (Brasil) — PJ\n\n## Requisitos\n\n- **Experiência:** 5+ anos levando TypeScript full-stack a produção; React + Node + SQL\n  profundos (o peso maior é backend)\n- **Produção de verdade:** já operou app em Linux puro (nginx, systemd, SSH, backup) — sem\n  rede de segurança de PaaS\n- **Cicatriz de integração:** Stripe, OAuth, webhooks (inclusive entrega duplicada)\n- **Inglês:** técnico de leitura/escrita (código e docs em inglês; dia a dia em português)\n- **Perfil:** autonomia, conforto genuíno em revisar código escrito por IA e ser revisado\n  por agentes\n- **Diferencial forte:** React Native/Expo — temos 3 apps mobile (Expo Router) na fila\n  depois da web, incluindo publicação nas lojas\n\n## Contratação\n\nPJ — **R$ 12.000 a R$ 18.000/mês**, conforme senioridade · full-time ou 30h+/semana\n- Cliente americano direto (sem agência no meio), pagamento em dia via Deel, longo prazo\n- Demo semanal · começa com **trial pago de 1 semana** (tarefa real do backlog, no seu rate)\n\n## Como se candidatar\n\nEmail para **alex@theapexauto.com** com assunto **[FULLSTACK] Seu Nome** contendo:\n1. A integração de produção mais cabeluda que você já entregou — o que quebrou e como descobriu\n2. Links de código seu com histórico real de commits\n3. Pretensão (R$/mês PJ) e disponibilidade\n\nPropostas genéricas são descartadas. Sem agências, por favor.",
+      "excerpt": "## Sobre nós Grupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros com DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de serviços de construç...",
       "issueState": "open",
-      "contentHash": "529f824c40146681bdb4f85ad68059426b6dc11ff36143d1c26c97a0acc5c193",
+      "contentHash": "25265dcfbb891324ce5612e04a8a67a004b8a049eb352bd1a880003ec771d542",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "node.js",
+        "go",
+        "remoto",
+        "mysql",
+        "typescript",
+        "sql"
+      ],
+      "author": {
+        "id": "matheu555",
+        "name": "matheu555",
+        "handle": "matheu555",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/221351562?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 18000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-08T18:36:05Z",
+      "updatedAt": "2026-07-08T18:36:23Z",
+      "url": "https://github.com/backend-br/vagas/issues/12323",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_19b5fdf75df6ae77bffa86f6",
+      "sourceId": "DevOps-Brasil/Vagas#468",
+      "title": "Engenheiro(a) de Software Sênior — Python & AI Agentics | Brasil | Accenture",
+      "description": "### 🎯 Cargo\n\nEngenheiro(a) de Software Sênior — Python & AI Agentics \n\n### 🏢 Empresa\n\nAccenture\n\n### 📊 Nível de Experiência\n\nEspecialista/Staff\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nSão Paulo - SP, Rio de Janeiro - RJ, Recife - PE, Fortaleza - CE, Campina Grande - PB ou Belém - PA\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n_No response_\n\n### 📋 Descrição da Vaga\n\nBuscamos Especialistas, Consultores em Engenharia de Software para atuar no desenvolvimento de soluções backend, contribuindo para o desenho, construção e evolução de aplicações escaláveis e de alta qualidade. O profissional atuará de forma colaborativa com times técnicos e de negócio, participando de decisões de design, direcionamento técnico e boas práticas de engenharia. \n\nPrincipais responsabilidades:\n\n- Desenvolver, manter e evoluir aplicações backend em ambientes produtivos\n- Projetar e implementar soluções técnicas alinhadas aos requisitos do negócio\n- Atuar na integração entre sistemas e componentes\n- Garantir qualidade, performance, segurança e escalabilidade das soluções\n- Contribuir para a evolução das práticas de engenharia e apoiar tecnicamente o time\n\n### ✅ Requisitos Técnicos\n\n```markdown\nStacks e conhecimentos esperados:\nDesenvolvimento backend com Java ou Python\nCriação e consumo de APIs REST\nBancos de dados relacionais (Postgres, MySQL)\nFundamentos sólidos de engenharia de software (design, clean code, code review, debugging)\nTestes automatizados\nNoções de sistemas distribuídos e mensageria\nConceitos básicos de segurança (OAuth, JWT, gestão de segredos)\nInglês intermediário/avançado.\n\nDiferenciais:\nConhecimento em AI Agents e integração de soluções inteligentes\nExperiência em ambientes cloud (AWS, Azure ou GCP)\nVivência com metodologias ágeis\n```\n\n### 🎁 Benefícios\n\nBenefícios:\nPlano de saúde - Extensivo aos dependentes\nPlano odontológico - Extensivo aos dependentes*\nSeguro de vida\nPrevidência Privada \nVR (valor é associado à região) *\nVT / Aux. Estacionamento / Aux Fretado (presenciais) *\nWellhub (antigo Gympass*)\nPlano de carreira*\nPPR\netc.\n\n_Buscamos perfis que estejam alinhados aos valores da empresa, entusiastas em trabalhar em um ambiente colaborativo e dinâmico, com excelência na entrega e inovação presentes em seu dia a dia.\n\nValorizamos competências independentemente de raça, idade, gênero, orientação sexual, credo, deficiência e convicção política. A diversidade das nossas pessoas é o que nos permite cumprir a promessa da tecnologia e da criatividade humana.\n\nReconhecemos as características únicas dos indivíduos, respeitamos as diferenças e investimos em um ambiente cada vez mais inclusivo._\n\n### 🛠️ Stack/Tecnologias\n\n- Linguagens:Python\n- IA: LLMs, AI Agents e integração de soluções inteligentes\n- APIs: Criação e consumo de APIs REST\n- Bancos de dados: PostgreSQL, MySQL\n- Testes:Testes automatizados\n- Arquitetura: Sistemas distribuídos, mensageria\n- Segurança: OAuth, JWT, gestão de segredos\n\nDiferenciais:\n- Cloud: AWS, Azure ou GCP\n- Metodologias ágeis\n\n### 📧 Como se Candidatar\n\nCandidate-se pelo link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Engenheiro-a--de-Software-Backend_R00307149\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Engenheiro-a--de-Software-Backend_R00307149\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Engenheiro(a) de Software Sênior — Python & AI Agentics ### 🏢 Empresa Accenture ### 📊 Nível de Experiência Especialista/Staff ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização São Paulo - SP, Rio...",
+      "issueState": "open",
+      "contentHash": "730ebf6372d136b69f54cc579cc163e9c712addfd454e10e1f8933fc62324f1b",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "sre",
+        "infra",
+        "security",
+        "aws",
+        "azure",
+        "pa"
+      ],
+      "author": {
+        "id": "amandavviana",
+        "name": "amandavviana",
+        "handle": "amandavviana",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/193090184?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "createdAt": "2026-07-08T14:55:56Z",
+      "updatedAt": "2026-07-08T14:57:13Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/468",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_95774b0316e45a580452aafb",
+      "sourceId": "frontendbr/vagas#8517",
+      "title": "[Remoto] Full-stack (Strider)",
+      "description": "🚀 OPORTUNIDADE INTERNACIONAL | SENIOR FULL-STACK ENGINEER | 100% REMOTO | RECEBA EM DÓLAR 💻🌎\n\n\nVocê é Senior Full-stack Engineer e busca um novo desafio em uma empresa dos Estados Unidos? Essa é a sua chance de trabalhar em projetos internacionais, receber em dólar e desenvolver soluções para o setor de E-commerce!\n\n\n💼 Cargo: Senior Full-stack React Native Engineer 💵\n\n\n Salário: US$ 4.200 a US$ 4.900 por mês 🌍 Modelo: 100% Remoto \n📅 Contrato: Projeto de 3 meses – 40 horas semanais \n🗣️ Inglês: C1 (Avançado)\n📍 Vaga aberta para profissionais de: 🇦🇷 Argentina | 🇧🇷 Brasil | 🇨🇴 Colômbia | 🇲🇽 México | 🇵🇾 Paraguai | 🇨🇱 Chile | 🇵🇪 Peru | 🇨🇷 Costa Rica\n\n\n🎯 Requisitos:\n✅ 6+ anos de experiência em desenvolvimento Full Stack. ✅ Experiência com React Native e Expo, incluindo aplicativos publicados na App Store. ✅ Domínio de Next.js, TypeScript e Node.js. ✅ Experiência com PostgreSQL. ✅ Conhecimento em Stripe Connect e pagamentos para marketplaces (split de pagamentos, repasses, captura manual, escrow e cobranças off-session). ✅ Experiência com estratégias de testes e infraestrutura de testes em toda a aplicação. ✅ Capacidade de trabalhar lado a lado com designers para construir excelentes experiências de usuário. ✅ Perfil autônomo, com capacidade de desenvolver funcionalidades de ponta a ponta e comunicação clara, sem necessidade de gerenciamento constante. ✅ Inglês avançado para interação com equipes internacionais.\n\n✅ Diferenciais:\n✔️ Experiência em startups. ✔️ Vivência com marketplaces ou plataformas de e-commerce. ✔️ Experiência com desenvolvimento assistido por Inteligência Artificial, utilizando ferramentas como Claude Code, Cursor ou similares. ✔️ Graduação em Ciência da Computação, Engenharia da Computação ou áreas correlatas.\n\n\n✅ Por que se candidatar? \n💲 Salário em dólar. 🌎 Trabalho 100% remoto. 🚀 Empresa americana em crescimento. 🛒 Projetos inovadores no mercado de E-commerce. 📈 Excelente oportunidade para impulsionar sua carreira internacional.\n\n\n📩 Se inscreva agora!\nhttps://app.onstrider.com/r/claudiaantunes?job=c2VuaW9yLWZ1bGwtc3RhY2stZW5naW5lZXItNGNmODc5Njg/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=\n\n💬 Marque um(a) desenvolvedor(a) Full Stack que tenha esse perfil ou compartilhe esta vaga para ajudar mais profissionais a encontrarem uma oportunidade internacional!\n\n\n#VagasTI #TechJobs #Hiring #OpenToWork #RemoteJobs #HomeOffice #FullStack #FullStackEngineer #SeniorDeveloper #NextJS #ReactNative #Expo #TypeScript #NodeJS #PostgreSQL #Stripe #StripeConnect #Ecommerce #Marketplace #SoftwareEngineer #TechRecruiter #CarreiraInternacional #VagasRemotas #RecebaEmDolar #Brasil #Argentina #Colombia #Mexico #Chile #Peru #CostaRica #Paraguay",
+      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | SENIOR FULL-STACK ENGINEER | 100% REMOTO | RECEBA EM DÓLAR 💻🌎 Você é Senior Full-stack Engineer e busca um novo desafio em uma empresa dos Estados Unidos? Essa é a sua chance de traba...",
+      "issueState": "open",
+      "contentHash": "1204ce5f24d84e681566e58a716b37d73b45beac4f624fe9f2267d6407b33a84",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 4200,
+        "max": 4900,
+        "period": "hour"
+      },
+      "createdAt": "2026-07-08T14:02:00Z",
+      "updatedAt": "2026-07-08T14:02:29Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8517",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ccd963e6f5cd2bc7022668de",
+      "sourceId": "backend-br/vagas#12322",
+      "title": "[Remoto] Sênior full-stack (Strider)",
+      "description": "🚀 OPORTUNIDADE INTERNACIONAL | SENIOR FULL-STACK ENGINEER | 100% REMOTO | RECEBA EM DÓLAR 💻🌎\n\n\nVocê é Senior Full-stack Engineer e busca um novo desafio em uma empresa dos Estados Unidos? Essa é a sua chance de trabalhar em projetos internacionais, receber em dólar e desenvolver soluções para o setor de E-commerce!\n\n\n💼 Cargo: Senior Full-stack Engineer 💵\n\n\n Salário: US$ 4.200 a US$ 4.900 por mês 🌍 Modelo: 100% Remoto \n📅 Contrato: Projeto de 3 meses – 40 horas semanais \n🗣️ Inglês: C1 (Avançado)\n📍 Vaga aberta para profissionais de: 🇦🇷 Argentina | 🇧🇷 Brasil | 🇨🇴 Colômbia | 🇲🇽 México | 🇵🇾 Paraguai | 🇨🇱 Chile | 🇵🇪 Peru | 🇨🇷 Costa Rica\n\n\n🎯 Requisitos:\n✅ 6+ anos de experiência em desenvolvimento Full Stack. ✅ Experiência com React Native e Expo, incluindo aplicativos publicados na App Store. ✅ Domínio de Next.js, TypeScript e Node.js. ✅ Experiência com PostgreSQL. ✅ Conhecimento em Stripe Connect e pagamentos para marketplaces (split de pagamentos, repasses, captura manual, escrow e cobranças off-session). ✅ Experiência com estratégias de testes e infraestrutura de testes em toda a aplicação. ✅ Capacidade de trabalhar lado a lado com designers para construir excelentes experiências de usuário. ✅ Perfil autônomo, com capacidade de desenvolver funcionalidades de ponta a ponta e comunicação clara, sem necessidade de gerenciamento constante. ✅ Inglês avançado para interação com equipes internacionais.\n\n✅ Diferenciais:\n✔️ Experiência em startups. ✔️ Vivência com marketplaces ou plataformas de e-commerce. ✔️ Experiência com desenvolvimento assistido por Inteligência Artificial, utilizando ferramentas como Claude Code, Cursor ou similares. ✔️ Graduação em Ciência da Computação, Engenharia da Computação ou áreas correlatas.\n\n\n✅ Por que se candidatar? \n💲 Salário em dólar. 🌎 Trabalho 100% remoto. 🚀 Empresa americana em crescimento. 🛒 Projetos inovadores no mercado de E-commerce. 📈 Excelente oportunidade para impulsionar sua carreira internacional.\n\n\n📩 Se inscreva agora!\nhttps://app.onstrider.com/r/claudiaantunes?job=c2VuaW9yLWZ1bGwtc3RhY2stZW5naW5lZXItNGNmODc5Njg/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=\n\n💬 Marque um(a) desenvolvedor(a) Full Stack que tenha esse perfil ou compartilhe esta vaga para ajudar mais profissionais a encontrarem uma oportunidade internacional!\n\n\n#VagasTI #TechJobs #Hiring #OpenToWork #RemoteJobs #HomeOffice #FullStack #FullStackEngineer #SeniorDeveloper #NextJS #ReactNative #Expo #TypeScript #NodeJS #PostgreSQL #Stripe #StripeConnect #Ecommerce #Marketplace #SoftwareEngineer #TechRecruiter #CarreiraInternacional #VagasRemotas #RecebaEmDolar #Brasil #Argentina #Colombia #Mexico #Chile #Peru #CostaRica #Paraguay",
+      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | SENIOR FULL-STACK ENGINEER | 100% REMOTO | RECEBA EM DÓLAR 💻🌎 Você é Senior Full-stack Engineer e busca um novo desafio em uma empresa dos Estados Unidos? Essa é a sua chance de traba...",
+      "issueState": "open",
+      "contentHash": "8342786fc22344e36ee0b9df77ec06cca5d6b4e6c60ca80cf5f87683a588845e",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "node.js",
+        "remoto",
+        "typescript",
+        "postgresql",
+        "contrato"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 4200,
+        "max": 4900,
+        "period": "hour"
+      },
+      "createdAt": "2026-07-08T14:00:14Z",
+      "updatedAt": "2026-07-08T14:01:04Z",
+      "url": "https://github.com/backend-br/vagas/issues/12322",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ed9daa7e2e83336b34db3125",
+      "sourceId": "backend-br/vagas#12321",
+      "title": "[Remoto] Full-stack. Net (Strider)",
+      "description": "🚀 OPORTUNIDADE INTERNACIONAL | FULL-STACK DEVELOPER (.NET + VUE.JS) | 100% REMOTO | RECEBA EM DÓLAR 💻🌎\n\nEstá em busca de uma oportunidade internacional para trabalhar em uma grande empresa dos Estados Unidos? Se você é Full-stack Developer e possui experiência com .NET Framework e Vue.js, essa vaga pode ser o próximo passo da sua carreira!\n\n💼 Cargo: Full-stack Developer\n💵 Salário: US$ 3.500 a US$ 4.900 por mês\n🌍 Modelo: 100% Remoto\n📅 Contrato: Longo prazo – 40 horas por semana\n🏢 Empresa: Grande porte (251 a 1.000 colaboradores)\n🗣️ Inglês: C1 (Avançado)\n\n📍 Vaga aberta para profissionais de:\n🇦🇷 Argentina | 🇧🇷 Brasil | 🇨🇴 Colômbia | 🇲🇽 México | 🇵🇾 Paraguai | 🇨🇱 Chile | 🇵🇪 Peru | 🇨🇷 Costa Rica\n\n🎯 Requisitos:\n\n✅ 3+ anos de experiência em desenvolvimento de software.\n✅ Domínio de C# com .NET Framework 4.x (4.8) para aplicações web hospedadas no IIS.\n✅ Experiência com Vue 2, Webpack, Axios e SCSS.\n✅ Conhecimento em ASP.NET WebForms (.aspx, Code-Behind, ViewState e Page Lifecycle).\n✅ Experiência com padrões ASP.NET MVC, Controllers, Routing e Razor Views.\n✅ Sólidos conhecimentos em SQL Server, T-SQL, Stored Procedures, índices e otimização de consultas.\n✅ Experiência com Entity Framework 5, modelos Database-First (EDMX) e micro-ORMs como Dapper.\n✅ Experiência com versionamento de scripts e migrações de banco de dados.\n✅ Capacidade para diagnosticar problemas utilizando logs, SQL Profiler, ferramentas de desenvolvimento do navegador e depuração de código.\n✅ Inglês avançado para comunicação com equipes internacionais.\n\n🤗 Diferenciais:\n\n✔️ Experiência em startups.\n✔️ Vivência em ambientes regulados (CSV/GxP).\n✔️ Experiência na modernização de aplicações legadas em ASP.NET com Vue 2.\n✔️ Conhecimento em integrações com Crystal Reports, EPPlus e Azure Blob Storage.\n✔️ Graduação em Ciência da Computação, Engenharia da Computação ou áreas correlatas.\n\n🤗 Por que se candidatar?\n💲 Salário competitivo em dólar.\n🌎 Trabalho 100% remoto.\n🏢 Empresa americana de grande porte.\n🚀 Contrato de longo prazo.\n📈 Excelente oportunidade para desenvolver sua carreira em projetos internacionais.\n\n📩 👉 Se inscreva agora!\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1kZXZlbG9wZXItMDQxYmJkOTM/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=\n\n💬 Marque um(a) desenvolvedor(a) .NET ou compartilhe esta oportunidade para ajudar mais profissionais a conquistarem uma vaga internacional!\n\n#VagasTI #TechJobs #Hiring #OpenToWork #RemoteJobs #HomeOffice #FullStackDeveloper #DotNet #NETFramework #CSharp #ASPNET #ASPNETWebForms #ASPNetMVC #VueJS #Vue2 #SQLServer #TSQL #Dapper #EntityFramework #Axios #SCSS #SoftwareEngineer #TechRecruiter #CarreiraInternacional #VagasRemotas #RecebaEmDolar #Brasil #Argentina #Colombia #Mexico #Chile #Peru #CostaRica #Paraguay",
+      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | FULL-STACK DEVELOPER (.NET + VUE.JS) | 100% REMOTO | RECEBA EM DÓLAR 💻🌎 Está em busca de uma oportunidade internacional para trabalhar em uma grande empresa dos Estados Unidos? Se voc...",
+      "issueState": "open",
+      "contentHash": "16049d7792b524810f0a31e7d49bc1327ee10edd9f9305d2738c470bece71338",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        ".net",
+        "remoto",
+        "sql",
+        "asp",
+        "azure",
+        "contrato"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "companyName": "Grande porte (251 a 1.000 colaboradores)",
+      "salary": {
+        "currency": "USD",
+        "min": 3500,
+        "max": 4900,
+        "period": "hour"
+      },
+      "createdAt": "2026-07-08T13:58:10Z",
+      "updatedAt": "2026-07-08T13:58:55Z",
+      "url": "https://github.com/backend-br/vagas/issues/12321",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ee3bf5f551a3955bd095b63e",
+      "sourceId": "vuejs-br/vagas#607",
+      "title": "[Remoto] Front-end Vue.js Developer Pleno @ Sylision",
+      "description": "## Descrição da vaga\n\nVaga de Front-end Vue.js Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Vue.js compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-vue-js-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Experiência\n- Pleno\n\n#### Regime\n- CLT\n- PJ",
+      "excerpt": "## Descrição da vaga Vaga de Front-end Vue.js Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência. ## Local 100% remoto, de qu...",
+      "issueState": "open",
+      "contentHash": "fd97cc2ac6f8fe9f2a0f7b50f82d5ece4cc6133b06f4f13f42f321426fce69c1",
       "repository": "vuejs-br/vagas",
       "repositoryUrl": "https://github.com/vuejs-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "senior",
+        "pleno",
         "data"
       ],
       "author": {
@@ -126,169 +590,32 @@
       },
       "salary": {
         "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:11:55Z",
-      "updatedAt": "2026-07-07T00:07:06Z",
-      "url": "https://github.com/vuejs-br/vagas/issues/606",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c21fe4f8cf97111ea9a277bf",
-      "sourceId": "DevOps-Brasil/Vagas#467",
-      "title": "[DevOps Engineer (Azure) Sênior] Sylision - Remoto",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (Azure)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n12.000 - 22.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (Azure) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência sólida com DevOps/Azure compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n### 🎁 Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/Azure\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-azure-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-azure-senior-remoto",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (Azure) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portugal (...",
-      "issueState": "open",
-      "contentHash": "daafda935932fcb7f42974207cfa967fa7342ea01c8460b7f3b7ffff33c15f12",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "azure",
-        "pa",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:10:49Z",
-      "updatedAt": "2026-07-06T13:11:07Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/467",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ffe16aeba48ee05bf8013d15",
-      "sourceId": "DevOps-Brasil/Vagas#466",
-      "title": "[DevOps Engineer (AWS) Sênior] Sylision - Remoto",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (AWS)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n12.000 - 22.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (AWS) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência sólida com DevOps/AWS compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n### 🎁 Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/AWS\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-aws-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-aws-senior-remoto",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (AWS) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portugal (re...",
-      "issueState": "open",
-      "contentHash": "cab45690a163d099a7dca3948997d0b9ab8f4f60b2b9a70fc2939a4d1b777436",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "aws",
-        "pa",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:09:37Z",
-      "updatedAt": "2026-07-06T13:09:55Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/466",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_50557775750b90b91b2f6863",
-      "sourceId": "react-brasil/vagas#3018",
-      "title": "[Remoto] React Native Developer Pleno na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React Native compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-native-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👨 Pleno\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 5k-10k",
-      "excerpt": "## Descrição da vaga Vaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência. ## Local 100% remoto, de qualqu...",
-      "issueState": "open",
-      "contentHash": "fe9c9ea9c8aa5b945c732f487f88b4d920543d21aa912a74a28c40ed257fdc28",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ clt",
-        "🏢 remoto",
-        "⚖️ pj",
-        "👨 pleno",
-        "💰 5k-10k"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
         "min": 7000,
         "max": 12000,
         "period": "month"
       },
-      "createdAt": "2026-07-06T13:08:37Z",
-      "updatedAt": "2026-07-06T13:09:06Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3018",
+      "createdAt": "2026-07-07T13:20:34Z",
+      "updatedAt": "2026-07-07T13:20:34Z",
+      "url": "https://github.com/vuejs-br/vagas/issues/607",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_c0671970e9661218f7affa0d",
-      "sourceId": "react-brasil/vagas#3017",
-      "title": "[Remoto] React Developer Sênior na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👴 Sênior\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 15k+",
-      "excerpt": "## Descrição da vaga Vaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência. ## Local 100% remoto, de qualquer lu...",
+      "id": "gh_6b9fa9e736a4c6a75c0c3dc6",
+      "sourceId": "frontendbr/vagas#8516",
+      "title": "[Remoto] React Front-End Developer Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (React) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "069f296b7a9cb47711a888104e274b5909bf82e8b3984115ac58c305c1ea5dcb",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "contentHash": "e7e9abaeea116630fcdceae34054d7bc9bb6f2d553998ca8353174e835d32117",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "⚖️ clt",
-        "🏢 remoto",
-        "⚖️ pj",
-        "👴 senior",
-        "💰 15k+"
+        "sênior",
+        "clt",
+        "pj",
+        "remoto"
       ],
       "author": {
         "id": "GiovaniPole0",
@@ -297,11 +624,11 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
       },
       "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
       },
       "companyName": "Sylision",
       "salary": {
@@ -310,29 +637,28 @@
         "max": 22000,
         "period": "month"
       },
-      "createdAt": "2026-07-06T13:07:36Z",
-      "updatedAt": "2026-07-07T02:50:51Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3017",
+      "createdAt": "2026-07-07T13:13:49Z",
+      "updatedAt": "2026-07-07T13:14:15Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8516",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_cad4b1e58a804d80ae55088b",
-      "sourceId": "backend-br/vagas#12315",
-      "title": "[Remoto] Desenvolvedor(a) Kotlin Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Kotlin Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Kotlin compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-kotlin-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "id": "gh_ab73013f4dc9b332f5aa8a20",
+      "sourceId": "frontendbr/vagas#8515",
+      "title": "[Remoto] Next.js Front-End Developer Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Next.js) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Next.js compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-next-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
       "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "c4b3f510ba2b595a4015f421bbb355ee58bcb9f438a27ab3bdaffbe2a662a6ed",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "contentHash": "1c2268fd459f4b51482dd684cca394b237609ef132b0209ec3f869974c326e3f",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
+        "sênior",
         "clt",
         "pj",
-        "pleno",
-        "remoto",
-        "kotlin"
+        "remoto"
       ],
       "author": {
         "id": "GiovaniPole0",
@@ -341,31 +667,75 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
       },
       "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
       },
+      "companyName": "Sylision",
       "salary": {
         "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
+        "min": 12000,
+        "max": 22000,
         "period": "month"
       },
-      "createdAt": "2026-07-06T13:05:02Z",
-      "updatedAt": "2026-07-06T13:05:19Z",
-      "url": "https://github.com/backend-br/vagas/issues/12315",
+      "createdAt": "2026-07-07T13:12:35Z",
+      "updatedAt": "2026-07-07T13:13:00Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8515",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_4256788abef9b3a4b3b50c74",
-      "sourceId": "backend-br/vagas#12314",
-      "title": "[Remoto] Desenvolvedor(a) Java Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "id": "gh_674716f49c075f02f7ac62d5",
+      "sourceId": "frontendbr/vagas#8514",
+      "title": "[Remoto] Angular Front-End Developer Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
       "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "3de4a53a42f50ccff26cf310fa6492956331b566ad66d85971f51c24556fb9f4",
+      "contentHash": "f38d026be6f213948d07bbff02245b7d69d2fa33bf80becdb672a7daf8bc8937",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-07T13:10:50Z",
+      "updatedAt": "2026-07-07T13:11:20Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8514",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_822a96b739eda39c6f83c960",
+      "sourceId": "backend-br/vagas#12320",
+      "title": "[Remoto] Desenvolvedor(a) C#/.NET Júnior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) C#/.NET Júnior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Júnior.\n\nFaixa salarial: R$ 3.500 a R$ 6.500/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Júnior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 3.500–6.500/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-junior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Júnior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "7f61cc58a313fcbdffde15f5cf09f0d399b692c115bee0c3d8d6779d5fc8489f",
       "repository": "backend-br/vagas",
       "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
@@ -373,8 +743,7 @@
       "tags": [
         "clt",
         "pj",
-        "pleno",
-        "java",
+        "júnior",
         "remoto"
       ],
       "author": {
@@ -392,108 +761,23 @@
       },
       "salary": {
         "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
+        "min": 3500,
+        "max": 6500,
         "period": "month"
       },
-      "createdAt": "2026-07-06T13:03:32Z",
-      "updatedAt": "2026-07-06T14:18:18Z",
-      "url": "https://github.com/backend-br/vagas/issues/12314",
+      "createdAt": "2026-07-07T13:09:41Z",
+      "updatedAt": "2026-07-07T13:09:59Z",
+      "url": "https://github.com/backend-br/vagas/issues/12320",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_ce4e8d30eebff5434179fcdb",
-      "sourceId": "backend-br/vagas#12313",
-      "title": "[Remoto] Desenvolvedor(a) Go Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Go Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Go compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-go-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "id": "gh_6d0308440c101b171be2043e",
+      "sourceId": "backend-br/vagas#12319",
+      "title": "[Remoto] Desenvolvedor(a) Rust Pleno - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Rust Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Rust compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-rust-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
       "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "90cce4f7b8b2e253d6fefe502aca5218a7d2e45b2631e8593ce2efc68fd9681d",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "go",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:02:32Z",
-      "updatedAt": "2026-07-06T13:03:15Z",
-      "url": "https://github.com/backend-br/vagas/issues/12313",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_49aacd7ebb713a3ee77bafeb",
-      "sourceId": "backend-br/vagas#12312",
-      "title": "[Remoto] Desenvolvedor(a) Elixir/Phoenix Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Elixir/Phoenix Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Elixir/Phoenix compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-elixir-phoenix-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "3117b9bd4ccab6d5596f059f00240ee5e94a5b7951772af95f590a9b4cc077df",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:01:31Z",
-      "updatedAt": "2026-07-06T13:01:51Z",
-      "url": "https://github.com/backend-br/vagas/issues/12312",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_62636600992f18f83b456bfa",
-      "sourceId": "backend-br/vagas#12311",
-      "title": "[Remoto] Desenvolvedor(a) C#/.NET Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) C#/.NET Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "d2bb6740fb21febe1d52e34fe0806edb972ff004b2b4cfccfe602dcfd03a8f47",
+      "contentHash": "e7c5f2903b66debe18336a6486421c4eab0bb413316dc9cbf8b8369bebb0e55f",
       "repository": "backend-br/vagas",
       "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
@@ -523,339 +807,9 @@
         "max": 12000,
         "period": "month"
       },
-      "createdAt": "2026-07-06T13:00:30Z",
-      "updatedAt": "2026-07-06T13:00:48Z",
-      "url": "https://github.com/backend-br/vagas/issues/12311",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cfd654d78091a572cbf02096",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9609",
-      "title": "Don't we want to call these \"Summer 2027 Internships\" now?",
-      "description": "### Issue/Question\n\nThe recruiting cycle for Summer 2026 internships is basically over...",
-      "excerpt": "### Issue/Question The recruiting cycle for Summer 2026 internships is basically over...",
-      "issueState": "open",
-      "contentHash": "e697e84db4e05a57d2cf0c2e5eee49de83e8e97313853be1f817342827956d1e",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "misc"
-      ],
-      "author": {
-        "id": "Aarreks",
-        "name": "Aarreks",
-        "handle": "Aarreks",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/140989233?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-05T20:36:09Z",
-      "updatedAt": "2026-07-05T20:36:09Z",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9609",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6ed380c2551224258c7cf545",
-      "sourceId": "backend-br/vagas#12310",
-      "title": "[Remoto] Desenvolvedor(a) Rust Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Rust Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Rust compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-rust-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "d13118379474e007c7dcedae7956aeefa66b3bedd0b392cc0c22eb3ca735cf66",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-05T14:24:08Z",
-      "updatedAt": "2026-07-05T14:24:23Z",
-      "url": "https://github.com/backend-br/vagas/issues/12310",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c16a9b067fa99b03ac968205",
-      "sourceId": "backend-br/vagas#12309",
-      "title": "[Remoto] PHP/Python Software Engineer - F2AI",
-      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Sobre a F2AI\n\nSomos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permitir que organizações rodem LLMs em seus próprios ambientes, com controle total sobre dados e recursos.\n\nInfos sobre o produto: https://f2ai.com.br/\n\n## Descrição da vaga\n\nDesenvolver e manter aplicações full-stack com Laravel e Python/FastAPI\nIntegrar o control plane da plataforma com clusters Kubernetes via API\nConstruir interfaces para gerenciamento de deployments de modelos de IA\nTrabalhar com containerização, APIs REST e arquiteturas de microsserviços\nColaborar na evolução de features como fine-tuning, RAG e bibliotecas de prompts\n\n## Local\n\nTrabalho remoto, escritório em São Paulo, capital.\n\n## Requisitos\n\nFundamentos sólidos:\n\n    Estruturas de dados e algoritmos\n    Sistemas operacionais e redes\n    Bancos de dados relacionais e modelagem de dados\n\nExperiência prática:\n\n    PHP (Laravel) ou Python (FastAPI/Flask)\n    Desenvolvimento full-stack\n    Docker e containerização\n    APIs REST e integrações entre sistemas\n    Git e práticas de versionamento\n\nPerfil:\n\n    Autonomia e capacidade de resolver problemas com pouca orientação\n    Comunicação clara em português\n\nDiferenciais:\n\n    Kubernetes\n    Projetos envolvendo IA/ML\n    Bancos vetoriais ou arquiteturas RAG\n    Infraestrutura on-premises\n\n## Benefícios\n\n* Trabalho 100% remoto\n* Atuação direta com tecnologias de IA generativa em ambiente enterprise\n* Ambiente de startup com autonomia e impacto\n* Crescimento técnico em um domínio em expansão\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar currículo para emanuel.huber@f2ai.com.br\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
-      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Sobre a F2AI Somos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permiti...",
-      "issueState": "open",
-      "contentHash": "596dff5d722d9685cff607dc83ba1b9310dc763c638e52ffdbb0cae9152b4c48",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "php",
-        "python",
-        "flask",
-        "remoto",
-        "git",
-        "docker"
-      ],
-      "author": {
-        "id": "huberemanuel",
-        "name": "huberemanuel",
-        "handle": "huberemanuel",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6238718?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-07-03T19:01:50Z",
-      "updatedAt": "2026-07-03T19:02:06Z",
-      "url": "https://github.com/backend-br/vagas/issues/12309",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_185ce8a92c7177c930ddff97",
-      "sourceId": "backend-br/vagas#12308",
-      "title": "[Remoto] Desenvolvedor(a) Ruby on Rails Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Ruby on Rails Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Ruby on Rails compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-ruby-on-rails-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "b6a0d3d10155e7a3cd0314afb484233a9719084df3063e4469d432ff6d17566f",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "ruby",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-03T13:10:02Z",
-      "updatedAt": "2026-07-03T13:10:19Z",
-      "url": "https://github.com/backend-br/vagas/issues/12308",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3a051455a1b7fb0ddf54438e",
-      "sourceId": "backend-br/vagas#12307",
-      "title": "[Remoto] Desenvolvedor(a) Python Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Python Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Python compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-python-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "2c39c0f0cf5f9f45625e07410152efea0d3fd0d4e9e5e18ee0c0b4de5438d7ad",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "python",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-03T13:08:51Z",
-      "updatedAt": "2026-07-03T13:09:05Z",
-      "url": "https://github.com/backend-br/vagas/issues/12307",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_22e6d5137186ccfccf43d7fb",
-      "sourceId": "backend-br/vagas#12306",
-      "title": "[Remoto] Desenvolvedor(a) PHP/Laravel Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) PHP/Laravel Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com PHP/Laravel compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-php-laravel-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "5ae97a5413656a45d0d96b55a1da34072f6e9eef217b8bcf236fe2ae3502cd0f",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "php",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-03T13:06:47Z",
-      "updatedAt": "2026-07-03T13:07:03Z",
-      "url": "https://github.com/backend-br/vagas/issues/12306",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_52f8df6bc3aa36f9356654fb",
-      "sourceId": "backend-br/vagas#12305",
-      "title": "[Remoto] Desenvolvedor(a) Node.js Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Node.js Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Node.js compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-node-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "d5002e1948566da2f800980e5ed09b67158fd514de2fa663d1be4be866328728",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "node.js",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-03T13:05:14Z",
-      "updatedAt": "2026-07-03T13:05:32Z",
-      "url": "https://github.com/backend-br/vagas/issues/12305",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0553ad2ac08479b5ea16c6f1",
-      "sourceId": "backend-br/vagas#12304",
-      "title": "[Remoto] Desenvolvedor(a) Kotlin Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Kotlin Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Kotlin compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-kotlin-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "3e1eafbb2051982a773cff9a4a0e9a4e5b30a0b39ae125ee9ea595c6ef16fe33",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "remoto",
-        "kotlin"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-03T13:03:29Z",
-      "updatedAt": "2026-07-03T13:03:53Z",
-      "url": "https://github.com/backend-br/vagas/issues/12304",
+      "createdAt": "2026-07-07T13:08:18Z",
+      "updatedAt": "2026-07-07T13:08:39Z",
+      "url": "https://github.com/backend-br/vagas/issues/12319",
       "sourceType": "github-issue"
     }
   ]

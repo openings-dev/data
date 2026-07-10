@@ -1,278 +1,55 @@
 {
-  "generatedAt": "2026-07-10T06:36:54.282Z",
+  "generatedAt": "2026-07-10T11:44:58.794Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
-    "gh_90494ab470094f1d5461b7d3",
-    "gh_cb2ee2711308cdd4a5a45c69",
-    "gh_d745286de58b9dcf439338bc",
-    "gh_8efe119dc847f2d5d97185b1",
-    "gh_9e4baa9ba521c0732719893f",
-    "gh_11477bf8690de3d4fae183e3",
-    "gh_87bb27ffa16c5faf9b5559d2",
-    "gh_0871ca1a0ecc002bf7e9c19a",
-    "gh_bf1a4481c55b8d80f89cba07",
-    "gh_88ea999c66efeb67b1469595",
-    "gh_4859432b26bfe029fe6875e2",
-    "gh_013fc51e27303cd4f39e79f4",
-    "gh_be50acb92fd1e6f15d691634",
-    "gh_459e1e7f417453bb6ae517e5",
-    "gh_0fe275533f5da07f8d0c9026",
-    "gh_9bab610327418a0955bd2b33",
-    "gh_e2b9353ac1307526e438b23d",
-    "gh_1eaeed6e4ffc0520097ce3e7",
-    "gh_adccbfbc72a6a1772058e2da",
-    "gh_fbd7897fa7cdf7f1f95d0f6f"
+    "gh_22e6d5137186ccfccf43d7fb",
+    "gh_52f8df6bc3aa36f9356654fb",
+    "gh_0553ad2ac08479b5ea16c6f1",
+    "gh_1186d3e482f83ac5c65f6cd5",
+    "gh_aad2c1e3902948a2e9552b55",
+    "gh_28e9fbd15a4c567ab76b2449",
+    "gh_cd545c743aeb9b9011517e96",
+    "gh_b58d8e19c5708f146ef494b5",
+    "gh_84cd6211aa13a6d9b6ae06f9",
+    "gh_656407c7bdb8178972eeb062",
+    "gh_77db2e642fcc447f83bf9c9d",
+    "gh_8e21776bfd1dc032003ed037",
+    "gh_45aece0e457d44d9135946e7",
+    "gh_7e0bbe167dafba943e077f78",
+    "gh_7f17e8c9d9df8aa157a6dce5",
+    "gh_500d6b7ba64e6211969670e0",
+    "gh_be874e73d5522ddaf47e1034",
+    "gh_72a9a9990b66985c9fba52c6",
+    "gh_dc1070912f4d210a95c4e2cd",
+    "gh_329ff605df48e5c52ee62c53"
   ],
   "items": [
     {
-      "id": "gh_90494ab470094f1d5461b7d3",
-      "sourceId": "DevOps-Brasil/Vagas#465",
-      "title": "[Platform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma] DevOZ OZmap - Remto",
-      "description": "### 🎯 Cargo\n\nPlatform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma\n\n### 🏢 Empresa\n\nOZmap \n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nFlorianópolis (SC)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n18.000 - 20.000 (negociável)\n\n### 📋 Descrição da Vaga\n\nSe você constrói a base da plataforma e não apenas opera a que já existe, gosta de entender o que acontece por baixo da abstração e é a pessoa que assume os problemas que ninguém mais resolve em produção, essa vaga é para você.\n\nPara você entender nosso contexto: nossa stack roda em AWS EC2 com componentes autogerenciados: não é uma operação Kubernetes gerenciada. O dia a dia é operar a primitiva: Linux, redes, proxy reverso, observabilidade open-source. Se a sua experiência é mais na camada de configuração de serviços gerenciados, sem ter operado o que está por baixo, talvez não seja o encaixe mais aderente neste momento e isso não diz nada sobre o seu valor como profissional.\n\nSobre a Ozmap 💚\n\nSomos uma empresa de tecnologia especializada em planejamento, gestão e documentação de redes de telecomunicações. Nossa plataforma ajuda provedores de internet e operadores de telecom a projetar, expandir e operar suas redes, o que significa que confiabilidade não é abstrata aqui: quando algo cai, redes reais de clientes reais sentem. Estamos em crescimento, com atuação internacional e desafios constantes de escala, criticidade e evolução de produto.\n\nProblemas, aqui, não são ignorados nem empurrados para frente: são discutidos, investigados e transformados em melhoria concreta. Nossa cultura é autonomia, senso de dono, comunicação transparente e aprendizado contínuo.\n\n🚀 O Que Você Vai Encontrar Por Aqui\n\nEspaço para atuar de forma estratégica e prática: construir observabilidade do zero, evoluir a entrega contínua, conduzir as investigações complexas de produção e influenciar tecnicamente os times de desenvolvimento. Mais do que manter ambientes, queremos quem ajude a definir os próximos passos da nossa engenharia.\n\n🚩 O que você vai fazer\n\nProjetar, operar e evoluir ambientes AWS (EC2) e on-premises com containers (Docker), garantindo disponibilidade, segurança e escalabilidade;\nOperar e administrar ambientes Linux em produção (systemd, tuning de kernel/rede, I/O, troubleshooting de processo);\nConstruir e evoluir pipelines de CI/CD do zero, com gates de qualidade e segurança;\nDesenvolver observabilidade ponta a ponta (instrumentação, exporters, PromQL, SLI/SLO, alertas);\nConduzir troubleshooting avançado, RCA e post-mortem blameless — com mudança estrutural depois, não só o relatório;\nImplementar automação via Infraestrutura como Código;\nAnalisar e otimizar custos em cloud: rightsizing, análise de uso e proposta de alternativas com dados.\nSer referência técnica para devs e engenheiros, influenciando arquitetura sem depender de autoridade formal.\n\n### ✅ Requisitos Técnicos\n\n```markdown\n🔍 O que esperamos de você:\n\nO que define o nível desta vaga é profundidade + protagonismo. Buscamos quem construiu do zero, definiu a arquitetura, liderou tecnicamente, foi responsável por, resolveu o incidente que ninguém resolvia. Menos sobre ter feito parte de times que fizeram isso, e mais sobre o que você conduziu na linha de frente. A senioridade será avaliada pela complexidade do que você resolveu e pela responsabilidade que assumiu, comprovada por história concreta de mão na massa, mais do que por uma lista de ferramentas.\n\nObrigatório: experiência operando a primitiva em produção:\n\n AWS (~4+ anos): EC2, VPC/redes, IAM e segurança: EC2, VPC/redes, IAM e segurança — operação e decisão técnica em produção; certificação é bem-vinda, mas, sozinha, não substitui essa vivência;\nLinux e redes (~4+ anos): administração de servidores, troubleshooting em produção — disco cheio, OOM killer, diagnóstico de rede. Processos, memória e I/O;\nCI/CD construído do zero (~3+ anos): pipelines criados e evoluídos por você (GitHub Actions, Jenkins, runners self-hosted, secrets, cache, gates) ;\nObservabilidade open-source ponta a ponta (~2+ anos): Prometheus, Grafana, Loki, VictoriaMetrics ou equivalentes — configurados e mantidos por você, não só utilizados.\nOpenTelemetry — com instrumentação, exporters, PromQL e definição de SLI/SLO;\nOperação sob a camada gerenciada: histórico concreto com nginx/HAProxy/Envoy, Linux por baixo, e resolução de incidentes críticos que você conduziu.\nDocker: Docker em produção (~3+ anos): operação real de containers em ambientes críticos — volumes, redes, recursos, encerramento controlado de serviços.\n\nPerfil\n\nAutonomia alta: recebe um problema ambíguo (\"nossa observabilidade está fraca\") e entrega ponta a ponta;\nOwnership e proatividade : enxerga o problema antes de virar incidente;\nComunicação clara e influência técnica, conectando times de desenvolvimento, infraestrutura e negócio. Conduz post-mortems orientados à causa raiz, aprendizado organizacional e melhoria contínua, sem cultura de culpabilização.;\nMaturidade para se autogerir em remoto.\n\nNosso processo\n\nCandidatura → Entrevista técnica assistida por IA (~35 min) → Conversa com o time de People → Entrevista com o Diretor da área → Bar Raiser → Carta oferta\n```\n\n### 🎁 Benefícios\n\n🎁 O Que Oferecemos Para Você\n\n💻 Auxílio Equipamento - pra garantir uma estrutura de trabalho confortável;\n💚 Incentivo à saúde - porque seu bem-estar importa;\n📚 Incentivo aos estudos - apoiamos sua jornada de desenvolvimento contínuo;\n🎂 Presente de aniversário - porque gostamos de comemorar juntos;\n🏅 Reconhecimento por tempo de casa - sua história aqui é valorizada;\n🗣️ Incentivo a idiomas - para você ir além das fronteiras;\n🏋️ TotalPass (uso exclusivo do colaborador);\n🌴 Recesso remunerado após 12 meses de contrato;\n🎉 Eventos online de integração e confraternizações.\n\n### 🛠️ Stack/Tecnologias\n\nCloud: AWS — EC2, VPC/redes, IAM e segurança (camada de primitiva, não só serviço gerenciado).\nSistema e redes: Linux + redes — administração de servidor, troubleshooting real (disco, OOM, I/O, diagnóstico de rede).\nContainers: Docker em produção — volumes, redes, recursos, encerramento controlado.\nCI/CD: GitHub Actions, Jenkins, runners self-hosted (secrets, cache, gates).\nObservabilidade: Prometheus, Grafana, Loki, VictoriaMetrics + OpenTelemetry, PromQL, SLI/SLO.\nProxy / load balancing: nginx, HAProxy, Envoy (operação sob a camada gerenciada).\n\n### 📧 Como se Candidatar\n\nCandidate se pelo link: https://jobs.quickin.io/ozmap/jobs/6a30025db5ba9a0013b3f162?src=LinkedIn%20Limited%20Listings\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://jobs.quickin.io/ozmap/jobs/6a30025db5ba9a0013b3f162?src=LinkedIn%20Limited%20Listings\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
-      "excerpt": "### 🎯 Cargo Platform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma ### 🏢 Empresa OZmap ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Florianópoli...",
+      "id": "gh_22e6d5137186ccfccf43d7fb",
+      "sourceId": "backend-br/vagas#12306",
+      "title": "[Remoto] Desenvolvedor(a) PHP/Laravel Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) PHP/Laravel Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com PHP/Laravel compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-php-laravel-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "62862d3c90cf0b6d473f10e75ee448127237729cd9b5a137478af9b070e0dcb0",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "sre",
-        "platform",
-        "infra",
-        "security",
-        "aws"
-      ],
-      "author": {
-        "id": "pfariaoz",
-        "name": "pfariaoz",
-        "handle": "pfariaoz",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/296626513?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "createdAt": "2026-06-24T19:14:32Z",
-      "updatedAt": "2026-06-24T19:15:32Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/465",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cb2ee2711308cdd4a5a45c69",
-      "sourceId": "backend-br/vagas#12292",
-      "title": "[Remoto] Developer ASP.NET/C# Junior/Pleno - Dimensa",
-      "description": "## Nossa empresa\nA Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.\n\nTodas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟\n\n## Descrição da vaga\n**DESAFIO**\nParticipar do desenvolvimento e manutenção de aplicações web utilizando ASP.NET, C#, JavaScript, e outras tecnologias relacionadas.\nImplementar e otimizar soluções utilizando HTML, CSS, Bootstrap, e JSon, garantindo alta performance e usabilidade.\nDesenvolver e manter banco de dados SQL Server, incluindo a criação e otimização de triggers, stored procedures e aplicação de regras de normalização.\nIntegrar e consumir WebServices (SOAP e REST) nas aplicações desenvolvidas.\nControlar as mudanças no desenvolvimento de software para assegurar a estabilidade e evolução contínua dos projetos.\nIdentificar e corrigir problemas no código, bem como propor melhorias e oportunidades de refatoração para manter a qualidade do software.\nColaborar com equipes multifuncionais para garantir que as soluções atendam aos requisitos de negócios e qualidade.\n\n## Local\nRemoto.\n\n## Requisitos\n\n**O que você precisa ter:**\n\n- Ensino superior completo ou em andamento em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas. \n- Entendimento de processos de desenvolvimento, qualidade e maturidade de software.\n- Experiência e conhecimento em Linguagem de programação: domínio de aplicação e entendimento de sintaxe e desempenho de linguagens como ASP.NET C#, Java script, Json, Bootstrap \n- Experiência com WEB JS/Jquery/Ajax, Webforms, Bootstrap, HTML, JSon e CSS, SQL Server, incluindo normalização, triggers, e stored procedures. \n- Conhecimento em SOAP e REST. \n- Habilidade analítica para detectar problemas e propor soluções eficazes. \n- Proatividade e boa comunicação para colaborar com diferentes equipes.\n\n## Benefícios\n🍽️ Auxílio Alimentação: para você escolher suas refeições com liberdade.\n👶Auxílio Creche: Para ajudar nas despesas dos pequenos.\n👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.\n🏥 Assistência Médica SulAmérica: Cuidado completo para você e sua família.\n🛡️ Seguro de Vida e Funeral: Proteção garantida.\n🏡 Auxílio Home Office: Apoio financeiro para montar e manter seu espaço de trabalho em casa, com conforto e eficiência.\n💊 Descontos em Farmácias: Economize com o Univers.\n🎉 Day Off: Dia de folga no mês do seu aniversário para celebrar em grande estilo!\n\n## Contratação\nCLT.\n\n## Como se candidatar\nCurtiu o desafio e quer fazer parte do nosso time?\n\nPara se candidatar, basta enviar o seu currículo atualizado para o e-mail:\n📧 kerolayne.fbarros@dimensa.com.br\n\nDica: Coloque no assunto do e-mail: **Vaga ASP .NET** para localizarmos sua mensagem mais rápido!\n\n### Nível\n- Junior/Pleno\n\n### Regime\n- CLT\n\n### Alocação\n- Remoto",
-      "excerpt": "## Nossa empresa A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para ...",
-      "issueState": "open",
-      "contentHash": "7c73bd2f6856ab904523ac70af517ad5f81b668a26b398910a866c84b265ead5",
+      "contentHash": "5ae97a5413656a45d0d96b55a1da34072f6e9eef217b8bcf236fe2ae3502cd0f",
       "repository": "backend-br/vagas",
       "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
         "clt",
-        "pleno",
-        "javascript",
-        ".net",
-        "java",
-        "remoto",
-        "sql",
-        "asp"
-      ],
-      "author": {
-        "id": "kerol-barros",
-        "name": "kerol-barros",
-        "handle": "kerol-barros",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110194786?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-06-23T19:07:13Z",
-      "updatedAt": "2026-07-07T14:56:30Z",
-      "url": "https://github.com/backend-br/vagas/issues/12292",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d745286de58b9dcf439338bc",
-      "sourceId": "SimplifyJobs/New-Grad-Positions#2930",
-      "title": "Project vNext Software Engineer I",
-      "description": "### Link to Job Posting\n\nhttps://www.projectvnext.com/software-engineer\n\n### Company Name\n\nProject vNext\n\n### Job Title\n\nSoftware Engineer\n\n### Location\n\nRemote (USA)\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nderek.rushing@projectvnext.com\n\n### Extra Notes (Optional)\n\nProject vNext builds software for both internal products and external clients, with a primary focus on financial technology.\n\nWe're a small team that values ownership, pragmatism, discipline, and execution. We care more about an engineer's ability to learn, solve problems, and consistently deliver quality work than whether they've worked with a specific framework or technology before.",
-      "excerpt": "### Link to Job Posting https://www.projectvnext.com/software-engineer ### Company Name Project vNext ### Job Title Software Engineer ### Location Remote (USA) ### What category does this job belong to? Software Engin...",
-      "issueState": "open",
-      "contentHash": "bf93b3d2f9accd21f8078ff08b5a344d3802954b063078100e70e8558c4ec371",
-      "repository": "SimplifyJobs/New-Grad-Positions",
-      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_role"
-      ],
-      "author": {
-        "id": "drush211",
-        "name": "drush211",
-        "handle": "drush211",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20804720?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/New-Grad-Positions",
-        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
-      },
-      "createdAt": "2026-06-22T17:14:23Z",
-      "updatedAt": "2026-06-22T17:14:23Z",
-      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2930",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8efe119dc847f2d5d97185b1",
-      "sourceId": "programadores-br/geral#3083",
-      "title": "[Remoto] Cloud Security Analyst (Sênior) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\n**Atividades:**\n\n*   Projetar, implementar e gerenciar controles de segurança para ambientes em nuvem (AWS, Azure, GCP).\n    \n*   Realizar avaliações de segurança em infraestruturas e aplicações.\n    \n*   Monitorar e responder a eventos e incidentes de segurança em ambientes cloud.\n    \n*   Colaborar com as equipes de desenvolvimento, DevOps e infraestrutura para implementar práticas de segurança na nuvem.\n    \n*   Automatizar tarefas de segurança na nuvem.\n    \n*   Manter-se atualizado sobre as últimas ameaças e vulnerabilidades.\n    \n*   Apoiar na definição e implementação de políticas de segurança específicas para a nuvem.\n    \n*   Realizar testes de segurança e simulações de ataque em ambientes cloud.\n    \n*   Documentar procedimentos e configurações de segurança na nuvem.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS \n- Azure \n- GCP\n## Local: \n Remota\n## Requisitos: \n - Ensino superior completo \n- Experiência comprovada em segurança de ambientes de nuvem (AWS, Azure, GCP). \n- Experiência com ferramentas de segurança específicas para nuvem (CSPM, CWPP, etc.). \n- Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD. \n- Conhecimento em segurança de contêineres e orquestradores (Docker, Kubernetes).\n## Diferenciais: \n - Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD.\n## Benefícios: \n - Horários Flexíveis \n- Descanso Remunerado  \n- Incentivo aos estudos (Descontos em faculdades)\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Cloud Security Analyst (Sênior) na TruckPag](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nCyber Segurança",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "7f4e3621d1ec2fc28367f9d359316deb87767353a5e898c583cb23bfd8d92a2f",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
         "pj",
         "sênior",
-        "devops"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-06-22T13:21:36Z",
-      "updatedAt": "2026-06-22T13:22:02Z",
-      "url": "https://github.com/programadores-br/geral/issues/3083",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9e4baa9ba521c0732719893f",
-      "sourceId": "DevOps-Brasil/Vagas#464",
-      "title": "[Remoto] Cloud Security Analyst (Sênior) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open) para realizar a candidatura. 👋\n**Atividades:**\n\n*   Projetar, implementar e gerenciar controles de segurança para ambientes em nuvem (AWS, Azure, GCP).\n    \n*   Realizar avaliações de segurança em infraestruturas e aplicações.\n    \n*   Monitorar e responder a eventos e incidentes de segurança em ambientes cloud.\n    \n*   Colaborar com as equipes de desenvolvimento, DevOps e infraestrutura para implementar práticas de segurança na nuvem.\n    \n*   Automatizar tarefas de segurança na nuvem.\n    \n*   Manter-se atualizado sobre as últimas ameaças e vulnerabilidades.\n    \n*   Apoiar na definição e implementação de políticas de segurança específicas para a nuvem.\n    \n*   Realizar testes de segurança e simulações de ataque em ambientes cloud.\n    \n*   Documentar procedimentos e configurações de segurança na nuvem.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS \n- Azure \n- GCP\n## Local: \n Remota\n## Requisitos: \n - Ensino superior completo \n- Experiência comprovada em segurança de ambientes de nuvem (AWS, Azure, GCP). \n- Experiência com ferramentas de segurança específicas para nuvem (CSPM, CWPP, etc.). \n- Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD. \n- Conhecimento em segurança de contêineres e orquestradores (Docker, Kubernetes).\n## Diferenciais: \n - Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD.\n## Benefícios: \n - Horários Flexíveis \n- Descanso Remunerado  \n- Incentivo aos estudos (Descontos em faculdades)\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Cloud Security Analyst (Sênior) na TruckPag](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nCyber Segurança",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "3474c2bec86d0f965b4cb25a0a5cb8dd2ce91f208e37c8c5efe191adb1c53b76",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "devops",
-        "platform",
-        "infra",
-        "security",
-        "aws",
-        "azure",
-        "kubernetes"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-06-22T13:21:19Z",
-      "updatedAt": "2026-06-22T13:21:40Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/464",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_11477bf8690de3d4fae183e3",
-      "sourceId": "frontendbr/vagas#8511",
-      "title": "[100% Remoto] Product Owner na BotCity",
-      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nThe Product Owner will be responsible for driving Sentinel's product execution by translating the CTO's strategic direction into a clear, well-prioritized backlog that keeps the engineering squad focused and moving fast toward product-market fit. This person will own the full execution layer — maintaining sprint-ready user stories, removing blockers in real time, and tracking the delivery metrics that drive continuous improvement in quality and predictability. This role is built for a strong product professional who is comfortable navigating ambiguity in an early-stage environment, obsessed with delivery quality, and data-driven enough to let metrics guide process decisions — not gut feel. This position reports directly to the CTO.\n\n## 100% Remoto\n\n\n## Requisitos\n\n**Obrigatórios:**\n\n- Bachelor's degree in Information Technology, Computer Science, Business, or related field.\n- Prior experience (3+ years) in product ownership or a closely adjacent role in a tech company, ideally operating as the primary or sole PO on a product.\n- Strong experience working in B2B SaaS market.\n- Deep understanding of the software development lifecycle — from code changes flowing through development, staging, and production environments, through QA evaluation and release.\n- Proven ability to independently own a full product backlog, including stories, acceptance criteria, dependencies and prioritization.\n- Solid experience running Agile/Scrum methodologies.\n- Proficient with Jira for project, backlog and sprint management.\n- Prior experience in an early-stage, high-growth, and fast-paced startup environment.\n- Experience working with MS Office/Excel, Google Suite, Notion.\n- Ability to travel as needed to support events and meet the team.\n- Portuguese - Fluent.\n- English - Advanced.\n\n\n**Desejáveis:**\n\n- Exposure to enterprise software, automation, AI agents, or developer-facing products.\n- Experience working directly with a CTO or VP Engineering as primary stakeholder.\n- Familiarity with product analytics tools (e.g., Mixpanel, Amplitude, Metabase).\n- Working familiarity with GitHub or version control workflows.\n\n\n## Incentivos\n\n- Competitive compensation.\n- Paid time off (30 days per year).\n- 100% remote and flexible hours.\n- Caju benefits card.\n- Conexa health benefits.\n- Opportunity to work in a global team with teams in San Francisco and São Paulo.\n- Política de Time off\n- Seguro de Vida\n\n\n## Contratação\n\nPJ a combinar\n\n## Como se candidatar\n\nLink para cadastro: https: //jobs.quickin.io/botcity/jobs/69e780cdb282430013fc5f8a?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 1 semana após cada processo.",
-      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
-      "issueState": "open",
-      "contentHash": "2cfed5cbd34a4f9b1199f3db9e1dcadefd01058e3b4c156abc274b87a68f95ce",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "são paulo"
-      ],
-      "author": {
-        "id": "Claudia-S-O-M",
-        "name": "Claudia-S-O-M",
-        "handle": "Claudia-S-O-M",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/269568568?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "BotCity",
-      "createdAt": "2026-06-19T14:51:00Z",
-      "updatedAt": "2026-07-03T01:26:58Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8511",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_87bb27ffa16c5faf9b5559d2",
-      "sourceId": "backend-br/vagas#12290",
-      "title": "[Remoto] Full-stack Engineer (.NET, React & UI Styling) - USD-Strider",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET, React & UI Styling)\n🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai\n\nEmpresa americana do segmento Pet Health busca Full-stack Engineer com sólida experiência em React, .NET e desenvolvimento Front-end para atuar em um time global. 🚀\n\n💰 USD 5K–6.5K/mês\n📍 100% Remoto\n🗣 Inglês B2+\n⏰ Long-term | 40h semanais\n\n📩 Se inscreva agora!\nhttps://app.onstrider.com/r/claudiaantunes?job=bWlkLWZ1bGwtc3RhY2stZW5naW5lZXItLm5ldC1yZWFjdC5qcy0wZTQ3N2FmYz9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET, React & UI Styling) 🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai Empresa americana do segmento Pet ...",
-      "issueState": "open",
-      "contentHash": "0ac802b73b770f41a559478acb56b712da649aff1591d6472dda1c13fcec7e77",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
+        "php",
         "remoto"
       ],
       "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
       },
       "community": {
         "id": "backend-br",
@@ -282,400 +59,201 @@
         "url": "https://github.com/backend-br/vagas"
       },
       "salary": {
-        "currency": "USD",
-        "min": 5000,
-        "max": 6500,
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
         "period": "month"
       },
-      "createdAt": "2026-06-18T08:38:19Z",
-      "updatedAt": "2026-07-03T17:49:41Z",
-      "url": "https://github.com/backend-br/vagas/issues/12290",
+      "createdAt": "2026-07-03T13:06:47Z",
+      "updatedAt": "2026-07-03T13:07:03Z",
+      "url": "https://github.com/backend-br/vagas/issues/12306",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_0871ca1a0ecc002bf7e9c19a",
-      "sourceId": "frontendbr/vagas#8510",
-      "title": "[Remoto] Full-stack Developer (Next.js & Claude Code) - USD-Strider",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Developer (Next.js & Claude Code)\n🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Paraguai, Chile, Peru e Costa Rica\n\nEmpresa americana busca Full-stack Developer com experiência em Next.js, React, AWS e desenvolvimento acelerado por IA para atuar em projeto internacional. 🚀\n\n💰 USD 2.8K–3.85K/mês\n📍 100% Remoto\n🗣 Inglês C1+\n⏰ Projeto de 3 meses | 40h semanais\n\n📩 Se inscreva agora!\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1kZXZlbG9wZXItM2I1ZmQwYzE/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Developer (Next.js & Claude Code) 🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Paraguai, Chile, Peru e Costa Rica Empresa americana busca Full-stack D...",
+      "id": "gh_52f8df6bc3aa36f9356654fb",
+      "sourceId": "backend-br/vagas#12305",
+      "title": "[Remoto] Desenvolvedor(a) Node.js Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Node.js Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Node.js compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-node-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "62c09c789b3db1c3efa9cef55aa755d805fb859a38873a307e80dc4fd3d7b736",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "contentHash": "d5002e1948566da2f800980e5ed09b67158fd514de2fa663d1be4be866328728",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "node.js",
         "remoto"
       ],
       "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
       },
       "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
       },
       "salary": {
-        "currency": "USD",
-        "min": 2800,
-        "max": 3850,
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
         "period": "month"
       },
-      "createdAt": "2026-06-18T08:32:24Z",
-      "updatedAt": "2026-06-30T04:41:47Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8510",
+      "createdAt": "2026-07-03T13:05:14Z",
+      "updatedAt": "2026-07-03T13:05:32Z",
+      "url": "https://github.com/backend-br/vagas/issues/12305",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_bf1a4481c55b8d80f89cba07",
-      "sourceId": "f2etw/jobs#1168",
-      "title": "[求職] 高雄 /現場、遠端、混合型/ | 具 Vue 3 & Angular 19 雙框架實作經驗的前端工程師 - 林家齊 (AtayalLin)",
-      "description": "## 📌 關於我 (About Me)\n您好，我是林家齊！我擅長敏捷的網頁前端開發與跨元件狀態管理。雖然非本科系出身，但憑藉對網頁開發的轉職強烈熱情，我透過系統性自學與 **840 小時的 Java 全端整合實務養成班** 鍛鍊出扎實的技術底子。\n\n我具備獨立交付 RWD 響應式網頁、主導團隊前端架構規劃、以及前後端 API 串接（Spring Boot + MySQL）的能力。在過去的行政經歷中，我培養了極佳的細節洞察力與除錯耐性，能將這些特質轉化為高水準的 UI/UX 呈現與穩健的程式碼品質。\n\n- **工作狀態**：待業中，錄取後一週內可到職\n- **期望職缺**：前端工程師 / 全端工程師\n- **工作地點**：高雄市（左營/鼓山/楠梓/前鎮等） / 接受遠端工作 /新北、台中 等地區可接受員工宿舍\n- **技術社群**：完成 2025 六角學院 30 天軟體工程師體驗營鐵人挑戰，以及台南應用科技大學產業新尖兵計畫「Java全端整合實務運用就業養成班第四梯次」共 840 時數課程。\n---\n\n## 🛠 技術棧 (Technical Skills)\n\n| 分類 | 技術重點 |\n| :--- | :--- |\n| **Frontend** | JavaScript (ES6+), TypeScript, HTML5, CSS3 (Fluid Layout/clamp) |\n| **Frameworks** | **Vue 3** (Vite, Pinia, Vue Router, vee-validate, Zod)<br>**Angular 19** (Signals, RxJS) |\n| **Styles & Anim** | RWD, Bootstrap 5, GSAP 動畫庫, IntersectionObserver, Tailwind/CSS Tokens |\n| **Backend / DB** | Java, Spring Boot, RESTful API 串接, MySQL |\n| **DevOps & Tools** | Git / GitHub, GitHub Actions (CI/CD), Figma, Notion |\n\n---\n\n## 💻 精選專案作品 (Featured Projects)\n\n### 1. 懶飽飽智慧點餐系統 (團隊專案・前端負責人)\n以 Angular 19 驅動的餐飲全端管理系統，涵蓋客戶端、員工 POS 終端與老闆管理後台。\n- **原始碼**：[GitHub Repository](https://github.com/AtayalLin/Angular-Team-Frontend)\n- **技術棧**：Angular 19, TypeScript, Angular Signals, Spring Boot, MySQL\n- **核心亮點**：\n  - **全域狀態驅動**：採用 **Angular Signals** 管理全域狀態，實現客戶下單與 POS 看板跨元件即時同步。\n  - **雙模式切換機制**：設計 Mock / 真實 API 雙模式切換，使前端可離線完整運行，並精準對齊真實 API 型態，大幅降低與後端串接時的錯誤率。\n  - **路由與權限控制**：實作 3 種角色獨立路由，管理共 10 個頁面與 8 個管理頁籤，並整合完整的信用卡與行動支付流程。\n\n### 2. 日式風格電商網站 (個人 Side Project)\n功能完整的電商購物流程專案，持續迭代並導入現代前端工程化實踐，累積 30 位開發者 clone。\n- **原始碼**：[GitHub Repository](https://github.com/AtayalLin/Vueshop-Side-Project-Demo-)\n- **技術棧**：Vue 3, Vite, Pinia, Vue Router, vee-validate + Zod, Vitest, Playwright\n- **核心亮點**：\n  - **嚴格表單驗證**：結帳表單整合 `vee-validate` 與 `Zod` 進行強型別驗證；利用 Composable (`usePricing`) 封裝複雜的運費與折扣計算邏輯。\n  - **多主題持久化**：使用 CSS Design Tokens 實作三種主題切換，並透過 `localStorage` 持久化使用者偏好。\n  - **自動化部署與測試**：配置 GitHub Actions 自動化部署至 GitHub Pages，並配置 Vitest 單元測試與 Playwright E2E 測試框架。\n\n### 3. H5 遊戲大廳入口頁 (前端技術試題)\n受遊戲公司邀請完成的高還原度前端試題，具備 95% 的功能完成度。\n- **原始碼**：[GitHub Repository](https://github.com/AtayalLin/Igs-test-vue)\n- **技術棧**：Vue 3, Vite, Pinia, Bootstrap 5, GSAP, RESTful API\n- **核心亮點**：\n  - **流暢動效與優化**：利用 GSAP 打造精緻進場動畫與骨架屏（Skeleton Screen）載入狀態；實作實時搜尋並加入 **300ms 防抖 (Debounce)** 優化。\n  - **即時狀態輪詢**：實作 30 秒定時輪詢（Polling）更新餘額機制，以及跨分類同步的收藏管理。\n\n### 4. 個人作品集網站 (年度報告概念)\n純手刻的原生技術展示網站，用以驗證對網頁底層與瀏覽器 API 的掌握度。\n- **原始碼**：[GitHub Repository](https://github.com/AtayalLin/AtayaHtml)\n- **技術棧**：純 HTML5, CSS3, Vanilla JavaScript (無框架與建置工具)\n- **核心亮點**：\n  - **流體排版**：CSS 採用 `clamp()` 進行流體排版，無縫支援三斷點 RWD。\n  - **高效能動畫**：使用 `IntersectionObserver` 驅動元素進場動畫與導覽列高亮。\n\n*(其他練習專案參考：[Angular 快速開發 Demo](https://github.com/AtayalLin/Angular-qsdemo) / [Vite 測試專案](https://github.com/AtayalLin/for-vite-test-2025))*\n\n---\n\n## 💼 工作經歷 (Experience)\n\n- **兼職資訊行政助理** | 匠星工程有限公司 (2023/04 - 2023/09)\n  - 協助搬運舊部落格文章至新網頁，處理軟硬體排除。\n- **約聘助理** | 交通部航港局南部航務中心 (2020/04 - 2020/10)\n  - 管理與歸檔 200+ 份船舶資料，**透過 Excel 自動化縮短 20% 行政作業時間**。\n- **學校教務處行政人員** | 高雄市立楠梓國民中學 (2016/01 - 2017/08)\n  - 負責大批量學生資料與教務數據建檔處理。\n\n---\n\n## 📬 聯絡方式 (Contact)\n\n- **Email**：a437777@gmail.com\n- **手機**：0967-187-303\n- **GitHub**：[AtayalLin](https://github.com/AtayalLin)\n\n期待有機會與您聊聊，為團隊帶來即戰力與細膩的前端開發支援！",
-      "excerpt": "## 📌 關於我 (About Me) 您好，我是林家齊！我擅長敏捷的網頁前端開發與跨元件狀態管理。雖然非本科系出身，但憑藉對網頁開發的轉職強烈熱情，我透過系統性自學與 **840 小時的 Java 全端整合實務養成班** 鍛鍊出扎實的技術底子。 我具備獨立交付 RWD 響應式網頁、主導團隊前端架構規劃、以及前後端 API 串接（Spring Boot + MySQL）的能力。在過去的行政經歷中，我培養了極佳的細節洞察力與除錯耐...",
+      "id": "gh_0553ad2ac08479b5ea16c6f1",
+      "sourceId": "backend-br/vagas#12304",
+      "title": "[Remoto] Desenvolvedor(a) Kotlin Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Kotlin Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Kotlin compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-kotlin-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "d8c0374336eabb5df35caa273f78b6f5cf6c5456dea50f1fea8dd7469b078de3",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "求職",
-        "[b] java",
-        "[f] angular",
-        "[f] vue.js"
-      ],
-      "author": {
-        "id": "AtayalLin",
-        "name": "AtayalLin",
-        "handle": "AtayalLin",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/192576566?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2026-06-18T07:09:49Z",
-      "updatedAt": "2026-06-29T06:26:57Z",
-      "url": "https://github.com/f2etw/jobs/issues/1168",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_88ea999c66efeb67b1469595",
-      "sourceId": "frontendbr/vagas#8509",
-      "title": "[Rio Claro - São Paulo] Front-end Developer Pleno no Grupo MNGT",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Descrição da vaga\n\nBuscamos um(a) desenvolvedor(a) com foco em frontend e produto digital para atuar na construção e evolução de sites institucionais, landing pages e interfaces internas. O profissional trabalhará lado a lado com o time de TI e com as áreas de Marketing e Comercial, sendo responsável por entregar experiências digitais de qualidade, com boas práticas de SEO, analytics e performance. É uma vaga ideal para quem quer crescer em um ambiente dinâmico, com espaço para evoluir para Full Stack.\n\n## Local\n\nPresencial em Rio Claro - SP, com possibilidade de ser híbrido para quem mora em São Paulo, com idas a Rio Claro.\n\n## Requisitos\n\n### Responsabilidades\n- Desenvolver e manter sites institucionais e landing pages responsivas e de alto desempenho.\n- Implementar rastreamento e analytics (Google Tag Manager, Microsoft Clarity e similares).\n- Criar e manter componentes de interface reutilizáveis com React / Next.js.\n- Configurar redirecionamentos, páginas de erro e boas práticas de SEO técnico.\n- Colaborar com a área de Marketing para traduzir briefings em páginas e fluxos digitais.\n- Apoiar na evolução de ferramentas internas de geração de conteúdo com IA.\n- Participar das cerimônias ágeis e manter documentação atualizada.\n\n### O que você precisa ter\n- HTML / CSS / JS: domínio sólido, código semântico, responsividade e acessibilidade básica.\n- React / Next.js: experiência na construção de páginas e componentes; roteamento e SSR/SSG.\n- Git / GitHub: fluxo diário com branches e PRs.\n- Analytics & GTM: noção de implementação de tags, eventos e pixels de rastreamento.\n- Comunicação: capacidade de entender demandas de áreas não técnicas e transformá-las em código.\n- Vontade de aprender: disposição para usar LLMs no cotidiano de desenvolvimento.\n\n### Diferenciais\n- Experiência com TypeScript.\n- Noções de backend (Node.js ou Python) — desejo de evoluir para Full Stack.\n- Conhecimento em performance web (Core Web Vitals, Lighthouse).\n- Experiência com ferramentas de CMS headless ou construtores de landing page.\n- Portfólio com projetos publicados (sites, apps ou contribuições open source).\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nCandidate-se aqui:  https://oportunidades.mindsight.com.br/grupomngt/15\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
-      "issueState": "open",
-      "contentHash": "4641141db620cf2b8d0e32d024deef9e53ebeddb8c3ebcc476095b2359d75284",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "contentHash": "3e1eafbb2051982a773cff9a4a0e9a4e5b30a0b39ae125ee9ea595c6ef16fe33",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "pleno",
+        "clt",
         "pj",
-        "alocado",
-        "são paulo",
-        "híbrido"
+        "sênior",
+        "remoto",
+        "kotlin"
       ],
       "author": {
-        "id": "JuscelinoJunior",
-        "name": "JuscelinoJunior",
-        "handle": "JuscelinoJunior",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23690136?v=4"
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
       },
       "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
       },
-      "companyName": "Grupo MNGT",
-      "createdAt": "2026-06-18T04:45:52Z",
-      "updatedAt": "2026-06-18T04:46:18Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8509",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-03T13:03:29Z",
+      "updatedAt": "2026-07-03T13:03:53Z",
+      "url": "https://github.com/backend-br/vagas/issues/12304",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_4859432b26bfe029fe6875e2",
-      "sourceId": "awesome-jobs/vietnam#4949",
-      "title": "Cartrack VN - Senior Embedded C++ Engineer (Embedded AI) - HCM - FT",
-      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n \n* Open Salary\n\n## Requirements \n\n* Strong experience into embedded Linux development\n* Excellent embedded C/C++ experience\n* Strong Embedded software development life cycle\n\n## Responsibilities \n\n* Develop cutting edge vision based software\n* Work on multiple parts of the embedded software life cycle\n* Work with embedded AI on NPU/DSPs\n* Migrate embedded solutions to Linux and other RTOS.\n* Develop communications systems, systems on chips (SoC), cameras, sensors, and image processing\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* Work closely with AI team to deliver Vision AI projects. \n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
-      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Strong experience into embedded Linux development * Excellent embedded C/C++ experience * Strong Embedded software de...",
+      "id": "gh_1186d3e482f83ac5c65f6cd5",
+      "sourceId": "backend-br/vagas#12303",
+      "title": "[Qualquer lugar do Brasil/Híbrido ] Back-end Python - Internacional",
+      "description": "🚀 OPORTUNIDADE INTERNACIONAL | BACK-END ENGINEER (PYTHON) | HEALTHCARE | 🌎💻(Mínimo 8 anos de experiências, Inglês avançado) \n\n🔗 Conecte-se comigo no LinkedIn:\nhttps://www.linkedin.com/in/thisclaudia\n\n\nSe você é Engenheiro de Software Sênior e busca atuar em um ambiente global, com autonomia real e impacto direto no produto, essa oportunidade pode ser para você.\nEstamos em busca de talentos para integrar uma empresa internacional do setor de Healthcare, trabalhando em projetos relevantes e com forte foco em qualidade, escalabilidade e inovação.\n💡 Experiência com regulamentações como HIPAA/PHI é um diferencial, mas não obrigatória.\n\n📍 Localização \nQualquer lugar do Brasil \n🏡 A posição inicia 100% remota  e posteriormente terá modelo híbrido em Curitiba (PR).\n\n💰 Remuneração: Até USD $5k / mês\n✅Inglês Avançado \n✅ Mínimo 8 anos de Experiências \n\n🔎 Requisitos Gerais\n✔ Inglês avançado (colaboração com times dos Estados Unidos)\n✔ +8 anos de experiência em desenvolvimento de software\n✔ Ensino Superior Completo em Ciência da Computação, Engenharia de Software ou áreas correlatas\n✔ Forte senso de ownership — da ideia à produção\n✔ Perfil proativo, independente e orientado a resultados\n\n\n💻 SENIOR BACK-END ENGINEER (PYTHON)\n\n🎯 Missão da posição:\nConstruir serviços escaláveis, seguros e confiáveis, contribuindo diretamente para a evolução da plataforma.\nResponsabilidades:\n• Desenvolver APIs e serviços backend escaláveis\n• Trabalhar com bancos de dados SQL e NoSQL\n• Implementar testes automatizados (unitários, integração e e2e)\n• Desenvolver e manter pipelines de CI/CD\n• Atuar com monitoramento, métricas, logs e suporte em produção\n• Contribuir com decisões técnicas e arquiteturais\n\n⭐ Diferenciais\n✔ Experiência com decisões arquiteturais pragmáticas\n✔ Automação de processos e melhoria contínua\n✔ Capacidade de identificar gargalos e propor soluções escaláveis\n✔ Mentalidade forte de qualidade (sem time separado de QA)\n\n💡 O mais importante: buscamos profissionais com autonomia, responsabilidade e mentalidade de produto.\n\nSe essa oportunidade faz sentido para você ou para alguém da sua rede, compartilhe ou entre em contato neste link abaixo 👇🏻 \nhttps://wa.me/5519978164262?text=Ol%C3%A1%0ASeja%20muito%20bem%20vindo(a)%0AVoc%C3%AA%20entrou%20em%20contato%20para%20conversarmos%20sobre%20oportunidades,%20logo%20mais%20irei%20te%20atender\n\n#TechJobs #PythonDeveloper #BackendEngineer #SoftwareEngineer #RemoteJobs #InternationalJobs #HiringTech #HealthcareTech #PythonJobs #TechCareers #LATAMTech #TechOpportunities #SeniorDeveloper #TechRecruiter #HiringNow",
+      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | BACK-END ENGINEER (PYTHON) | HEALTHCARE | 🌎💻(Mínimo 8 anos de experiências, Inglês avançado) 🔗 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/thisclaudia Se você é Engenh...",
       "issueState": "open",
-      "contentHash": "3f23e8b1bb7df53fb8c639a44f8ac3aa5c43e2a8d77e767b8c929b9da320aab7",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
+      "contentHash": "ab7839eede73bfd0d350a67ba02501c6a3150af14a1c6604cf5e61cac8de8014",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
       "tags": [
-        "senior"
-      ],
-      "author": {
-        "id": "giang-vu-2700",
-        "name": "giang-vu-2700",
-        "handle": "giang-vu-2700",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-06-17T07:04:42Z",
-      "updatedAt": "2026-06-17T07:04:42Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4949",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_013fc51e27303cd4f39e79f4",
-      "sourceId": "awesome-jobs/vietnam#4948",
-      "title": "Cartrack VN - Data Platform Engineer (ClickHouse, AI agents) - HCM - FT",
-      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n \n* Open Salary\n\n## Requirements \n\n* Strong proficiency in one or more of the following: C, C++, C#, Go, or Rust.\n* Proficiency in Python for scripting and automation.\n* Experience with Airflow and complex ETL processes involving large datasets.\n* Solid understanding of data architecture, database optimization, and monitoring best practices.\n* Hands-on experience with Docker, Linux environments, and version control systems.\n\n## Responsibilities \n\n* Design, build, and maintain data pipelines and ETL workflows using tools like Airflow.\n* Develop monitoring systems to detect upstream data changes and maintain data freshness.\n* Optimize relational and analytical databases for performance, including partitioning, indexing, and table design.\n* Implement data quality, data lineage, and source documentation standards.\n* Manage and tune analytics databases such as ClickHouse, Druid, StarRocks, or Doris.\n* Work with relational databases such as PostgreSQL, MySQL, SQL Server, or Oracle.\n* Leverage distributed query tools (e.g., Spark, Trino) to support scalable data analysis.\n* Build, deploy, and monitor services in Linux environments, including shell scripting and debugging.\n* Create and maintain Docker images, ensuring consistent environments for development and deployment.\n* Integrate data workflows with CI/CD pipelines using tools such as GitLab, GitHub, or Bitbucket.\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* Managing terabyte-scale data lake to ClickHouse on Kubernetes\n* Opportunities involving LLM Agents (LlamaIndex, LangChain, Qdrant, …)\n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
-      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Strong proficiency in one or more of the following: C, C++, C#, Go, or Rust. * Proficiency in Python for scripting an...",
-      "issueState": "open",
-      "contentHash": "f9354bbcb51e56cf70147812a4beb71175230fa204bbc98aad319c5d036259b4",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
+        "sênior",
         "python",
-        "senior",
-        "data",
-        "design"
+        "testes automatizados",
+        "sql",
+        "híbrido",
+        "ci/cd"
       ],
       "author": {
-        "id": "giang-vu-2700",
-        "name": "giang-vu-2700",
-        "handle": "giang-vu-2700",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
       },
       "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
       },
-      "createdAt": "2026-06-17T07:01:34Z",
-      "updatedAt": "2026-06-17T07:01:34Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4948",
+      "createdAt": "2026-07-03T07:29:11Z",
+      "updatedAt": "2026-07-07T00:07:10Z",
+      "url": "https://github.com/backend-br/vagas/issues/12303",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_be50acb92fd1e6f15d691634",
-      "sourceId": "awesome-jobs/vietnam#4947",
-      "title": "NAB Vietnam - Senior/Lead Java Developer - Hybrid/HCMC - FT",
-      "description": "## Location\n\n* HCMC, Vietnam\n* Hybrid (2 office days/week)\n\n## Salary Expectation \n\n* To be negotiated based on the interview performance\n\n## Skills\n\n### Must Have \n* Java 8+, Spring, Springboot\n* Designing & developing RESTful APIs and microservices-based system\n* Cloud computing and AWS and Container\n* DevOps and CI/CD pipelines\n* Strong English communication\n\n### Ideally\n\n* Experience in Javascript\n* Experience in the Banking or Financial Services industry\n\n## Responsibilities\n\n* Design, develop, review, implement, and manage Java applications and services for the production and pre-release environments; \n* Design, develop, review, implement, and manage continuous integration, build management and deployment scripts, systems, and any code as required; \n* Participate in Agile software development, prototyping, and code review with international development teams to build scalable microservices-based products and APIs using Java technologies on AWS Cloud architecture; \n* Fully understand the requirements of the customer or business and utilize this knowledge to develop applications that are consistent with this; \n* Work with delivery teams to achieve success through development using CI/CD and DevOps practices, processes, and tooling; \n* Provide robust coding practices, solid unit/component test coverage, and debugging code. \n\n\n## Contact\n* Mail: thao.vo3@nab.com.au\n* Zalo: 0939 236 757",
-      "excerpt": "## Location * HCMC, Vietnam * Hybrid (2 office days/week) ## Salary Expectation * To be negotiated based on the interview performance ## Skills ### Must Have * Java 8+, Spring, Springboot * Designing & developing REST...",
+      "id": "gh_aad2c1e3902948a2e9552b55",
+      "sourceId": "backend-br/vagas#12300",
+      "title": "[Remoto] Desenvolvedor(a) Java Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n- Experiência sólida com Java compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n- Comunicação clara para trabalho remoto/distribuído\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
       "issueState": "open",
-      "contentHash": "10a7d5d491212ae01de79e3cf3a783db466aa7e04a3206d7737876940c55b01e",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "java",
-        "senior",
-        "devops",
-        "design"
-      ],
-      "author": {
-        "id": "thaovo1012",
-        "name": "thaovo1012",
-        "handle": "thaovo1012",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/71322736?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-06-17T04:03:45Z",
-      "updatedAt": "2026-06-17T04:05:07Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4947",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_459e1e7f417453bb6ae517e5",
-      "sourceId": "Gommunity/vagas#267",
-      "title": "Fully Remote! Full Stack Engineer (Go / Angular) at Jobsity",
-      "description": "## About [Jobsity](https://www.jobsity.com/)💡\nJobsity is a New York–based staffing company with 10+ years of experience, working with clients across the US, Canada, and Europe. We connect top-tier LATAM talent—only the top 3%—with long-term international opportunities and have successfully placed over 400 professionals across 15+ countries. As part of our recruitment process, we focus on finding the right role based on what matters most to you.\n\n## Requirements\nWe’re seeking a **Full Stack Engineer (Go / Angular)** to help build and scale modern web applications in a collaborative, product-focused environment. This role combines backend service development in Go with frontend engineering in Angular, requiring the ability to contribute across multiple layers of the application stack.\n\n𝗪̳𝗵̳𝗮̳𝘁̳ ̳𝗱̳𝗼̳ ̳𝘆̳𝗼̳𝘂̳ ̳𝗻̳𝗲̳𝗲̳𝗱̳ ̳𝘁̳𝗼̳ ̳𝗮̳𝗽̳𝗽̳𝗹̳𝘆̳ ̳𝘀̳𝘂̳𝗰̳𝗰̳𝗲̳𝘀̳𝘀̳𝗳̳𝘂̳𝗹̳𝗹̳𝘆̳?🥇\n🌟 Conversational English level (+B2 level)\n🌟 Must reside in LATAM🌎\n🌟 Strong backend development experience with Go (Golang), including REST API and service design\n🌟 Solid frontend engineering experience with Angular and modern web application development\n🌟 Experience working across the full application stack with an understanding of scalable architectures and AI-assisted development workflows\n\n## Modality\n👨‍💻 Fully remote\n\n## Perks that Jobsity offers!💎\n\n🔹Yearly paid vacation.\n🔹Paid local holidays.\n🔹Learning budget.\n🔹Financing program for equipment and home office supplies.\n🔹Bonuses for referrals and more!\n\n## Type of contract📜\n\nThis role is full-time!🕘\n...working remotely🏡, with USD payment💰, long-term relationship🤝, within an international team👩‍💻 👨‍💻, and working on international client projects!🌎\n\n## How to apply🤔\nSend an email to [angela.barboza@jobsity.com](mailto:angela.barboza@jobsity.com) with your CV/LinkedIn attached, and please send it in the subject: \"***Full Stack Engineer (Go / Angular)** - 𝗚𝗶𝘁𝗛𝘂𝗯📧\"\n\n## How to refer a friend🤔\nRefer a friend👥 sending an email with your friend's CV/LinkedIn attached with the subject: **\"**Referral for** *Full Stack Engineer (Go / Angular)**- 𝗚𝗶𝘁𝗛𝘂𝗯📧\"\nOr you can use this link👉 https://careers.jobsity.com/referral-program\n\n## Any questions or additional details needed?\nFeel free to send me a message on [LinkedIn](https://www.linkedin.com/in/angela-barboza/)💬",
-      "excerpt": "## About [Jobsity](https://www.jobsity.com/)💡 Jobsity is a New York–based staffing company with 10+ years of experience, working with clients across the US, Canada, and Europe. We connect top-tier LATAM talent—only t...",
-      "issueState": "open",
-      "contentHash": "95aac135b47d98c629a4653d67d3050e1f089ade59d197e7f05e50a90849d519",
-      "repository": "Gommunity/vagas",
-      "repositoryUrl": "https://github.com/Gommunity/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "golang",
-        "staff",
-        "design"
-      ],
-      "author": {
-        "id": "AngelaBarboza",
-        "name": "AngelaBarboza",
-        "handle": "AngelaBarboza",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112015240?v=4"
-      },
-      "community": {
-        "id": "Gommunity",
-        "name": "Gommunity",
-        "avatarUrl": "https://github.com/Gommunity.png?size=80",
-        "repository": "Gommunity/vagas",
-        "url": "https://github.com/Gommunity/vagas"
-      },
-      "companyName": "Jobsity",
-      "createdAt": "2026-06-16T17:39:27Z",
-      "updatedAt": "2026-06-16T17:39:27Z",
-      "url": "https://github.com/Gommunity/vagas/issues/267",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0fe275533f5da07f8d0c9026",
-      "sourceId": "qa-brasil/vagas#1264",
-      "title": "[REMOTO] QA Sênior (Foco em Automação) na MaisMei",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nComo **QA Sênior na MaisMei**, você terá um papel estratégico na **garantia de qualidade dos nossos aplicativos mobile**, desenvolvidos em **React Native** e distribuídos para **Android e iOS** por meio do **EAS (Expo Application Services)**.\n\nBuscamos um(a) profissional que **domine automação de testes** e que possua **forte conhecimento técnico em desenvolvimento mobile**, sendo capaz de atuar lado a lado com o time de engenharia desde a concepção das funcionalidades até a publicação e evolução contínua do aplicativo.\n\nSeu foco será garantir **qualidade, estabilidade, desempenho e excelente experiência do usuário**, com testes automatizados bem estruturados e integrados ao nosso fluxo de desenvolvimento.\n\n## Local de trabalho\n<!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência sênior em QA, com forte foco em automação de testes mobile.\n- Experiência prática com React Native, entendendo arquitetura, ciclo de vida de componentes e integração com APIs.\n- Vivência com EAS (Expo Application Services) para builds, releases e ambientes.\n- Experiência com ferramentas de automação mobile, como: Maestro, Detox, Appium, Cypress ou similares.\n- Conhecimentos sólidos em JavaScript e TypeScript.\n- Domínio dos conceitos de testes unitários, integração, end-to-end, regressão e testes funcionais.\n- Experiência com consumo e validação de APIs.\n- Conhecimento em Git/GitHub.\n- Forte senso crítico sobre qualidade, performance e usabilidade.\n- Capacidade de atuar de forma autônoma, estratégica e colaborativa.\n\n**Desejáveis**\n- Ensino superior completo em áreas de tecnologia.\n- Experiência integrando testes automatizados em pipelines de CI/CD.\n- Conhecimento em boas práticas de engenharia de software aplicadas à testabilidade.\n- Vivência com metodologias ágeis.\n\n**Diferenciais**\n- Hábito de documentar processos, decisões técnicas e estratégias de testes.\n- Experiência com Figma para validação de fluxos e layouts.\n- Inglês intermediário/avançado.\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- VR de R$ 1100,00/mês\n\n**Diferenciais**\n\n- Dayoff de aniverário\n- Incentivos para educação e desenvolvimento\n\n## Range Salarial\n\nA vaga paga entre 8.000,00 e 10.000,00 reais.\n\n## Sobre a empresa\n\n**MaisMei. A Plataforma para o MEI fazer MAIS!** \n\nAqui na MaisMei, acreditamos no potencial de quem transforma as ideias em realidade e faz a diferença! Somos uma equipe que coloca a mão na massa para impulsionar pessoas, sejam empreendedores ou quem está ao nosso lado, construindo essa jornada.\n\n## Como se candidatar\n\n- Candidatar através do link: https://maismei.factorialhr.com.br/job_posting/qa-senior-automacao-de-testes-mobile-react-native-eas-307386\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: rh@maismei.com.br\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- CLT\n- Sênior\n- Especialista\n<!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->\n- Remoto\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n<!--- Se sua vaga não for do Brasil, apague a linha de estado acima e deixe a de baixo --->\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "open",
-      "contentHash": "836c782295ccccd23dd10aeb1bad5e3f44af05d8ee9fb6f665223029e4d8231d",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "contentHash": "6478548495e6e8a4dac04aa261525c2fbbae1348c73b52d54c845363a859ff3d",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
         "clt",
-        "remoto",
+        "pj",
         "sênior",
-        "especialista",
-        "inglês"
+        "java",
+        "remoto"
       ],
       "author": {
-        "id": "syngred",
-        "name": "syngred",
-        "handle": "syngred",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/94938190?v=4"
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
       },
       "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
       },
-      "companyName": "VR de R$ 1100,00/mês",
-      "createdAt": "2026-06-16T14:14:44Z",
-      "updatedAt": "2026-06-16T14:15:23Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1264",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-02T12:33:20Z",
+      "updatedAt": "2026-07-03T17:49:36Z",
+      "url": "https://github.com/backend-br/vagas/issues/12300",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_9bab610327418a0955bd2b33",
-      "sourceId": "programadores-br/geral#3082",
-      "title": "[Remoto] Designer de Growth (design + marketing + IA) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/designer-de-growth-design-marketing-ia-190816143?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nNosso site e blog são canal de aquisição e educação de um mercado inteiro sobre arbitragem. Queremos alguém que projete, construa e faça esse site crescer usando IA para codar, sem depender de um time de engenharia para cada mudança.\n\nA Arbitralis é a primeira câmara de arbitragem 100% digital do Brasil, construindo a nova infraestrutura de resolução de conflitos do país. Buscamos um designer com cabeça de marketing que materializa ideias em site usando vibecode, ferramentas de IA que transformam intenção em código funcionando. Você vai conduzir a migração do nosso Webflow para uma stack própria e, a partir daí, evoluir o site continuamente. Se você precisa de um desenvolvedor para tirar qualquer ideia do papel, essa vaga não é para você.\n\n**O que você vai fazer na prática**\n\nVocê vai ser dono do nosso site de ponta a ponta: design, construção e crescimento. Vai usar vibecode e IA para criar e iterar páginas rápido, sem fila de engenharia. Vai conduzir a migração do Webflow para código preservando nosso ranqueamento, e depois fazer o site melhorar continuamente como motor de aquisição.\n\n**Responsabilidades:**\n\n*   Projetar e construir páginas e landing pages com vibecode, do design ao site no ar\n    \n*   Conduzir a migração do site e blog do Webflow para código, protegendo ranqueamento e redirects\n    \n*   Evoluir o site continuamente: novas páginas, testes, otimização de conversão\n    \n*   Cuidar da fundação de SEO, AEO e GEO junto da nossa redatora de conteúdo\n    \n*   Medir performance e propor melhoria com base em dado\n    \n*   Usar IA como ferramenta central de criação e desenvolvimento\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n## Local: \n Remota\n## Requisitos: \n - Domínio comprovado de vibecode e ferramentas de IA para construir sites (ex: Cursor, Lovable, v0, Bolt ou equivalentes) \n- Olho de design: sabe criar interface que funciona e converte \n- Viés de marketing: entende aquisição, conversão e como site gera resultado \n- Noção prática de SEO técnico, AEO e GEO, ou disposição comprovada de dominar \n- Portfólio de sites ou páginas que você construiu e colocou no ar \n- Velocidade: cria e itera rápido, não deixa o site parado \n- Responsabilidade: é dono do site, não repassador \n- Clareza: comunica de forma simples, sem ruído \n- Coragem: testa e decide sem esperar o cenário perfeito \n- Confiança: entrega consistente, porque crescimento se constrói no acúmulo\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Designer de Growth (design + marketing + IA) na Arbitralis](https://coodesh.com/jobs/designer-de-growth-design-marketing-ia-190816143?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UI",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "id": "gh_28e9fbd15a4c567ab76b2449",
+      "sourceId": "awesome-jobs/vietnam#4953",
+      "title": "🔥 [HN] MANUAL QA ENGINEER | Up to 20M NET | Contractor",
+      "description": "🔥 [HN] MANUAL QA ENGINEER | Up to 20M | 5-Month Contractor\nMust-have\n- Từ 2 năm kinh nghiệm Manual Testing\n- Thành thạo viết **Test Case/Test Scenario**\n- Kinh nghiệm **Functional, Integration, Regression Testing**\n- Biết sử dụng SQL để kiểm tra dữ liệu (SELECT, JOIN, GROUP BY...)\n- Đã làm việc với Jira/Redmine\n- Hiểu SDLC/STLC, từng tham gia **Agile hoặc Waterfall**\n\nContact Phone/Zalo: 0582839437",
+      "excerpt": "🔥 [HN] MANUAL QA ENGINEER | Up to 20M | 5-Month Contractor Must-have - Từ 2 năm kinh nghiệm Manual Testing - Thành thạo viết **Test Case/Test Scenario** - Kinh nghiệm **Functional, Integration, Regression Testing** -...",
       "issueState": "open",
-      "contentHash": "3c658eb2cfffc670ff5e4f1bdca21b54a8c5c06ec580ee7350aac10393930ac9",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-06-15T19:31:35Z",
-      "updatedAt": "2026-06-15T19:32:09Z",
-      "url": "https://github.com/programadores-br/geral/issues/3082",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e2b9353ac1307526e438b23d",
-      "sourceId": "devfsa/vagas#2828",
-      "title": "[Remoto] Designer de Growth (design + marketing + IA) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/designer-de-growth-design-marketing-ia-190816143?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\nNosso site e blog são canal de aquisição e educação de um mercado inteiro sobre arbitragem. Queremos alguém que projete, construa e faça esse site crescer usando IA para codar, sem depender de um time de engenharia para cada mudança.\n\nA Arbitralis é a primeira câmara de arbitragem 100% digital do Brasil, construindo a nova infraestrutura de resolução de conflitos do país. Buscamos um designer com cabeça de marketing que materializa ideias em site usando vibecode, ferramentas de IA que transformam intenção em código funcionando. Você vai conduzir a migração do nosso Webflow para uma stack própria e, a partir daí, evoluir o site continuamente. Se você precisa de um desenvolvedor para tirar qualquer ideia do papel, essa vaga não é para você.\n\n**O que você vai fazer na prática**\n\nVocê vai ser dono do nosso site de ponta a ponta: design, construção e crescimento. Vai usar vibecode e IA para criar e iterar páginas rápido, sem fila de engenharia. Vai conduzir a migração do Webflow para código preservando nosso ranqueamento, e depois fazer o site melhorar continuamente como motor de aquisição.\n\n**Responsabilidades:**\n\n*   Projetar e construir páginas e landing pages com vibecode, do design ao site no ar\n    \n*   Conduzir a migração do site e blog do Webflow para código, protegendo ranqueamento e redirects\n    \n*   Evoluir o site continuamente: novas páginas, testes, otimização de conversão\n    \n*   Cuidar da fundação de SEO, AEO e GEO junto da nossa redatora de conteúdo\n    \n*   Medir performance e propor melhoria com base em dado\n    \n*   Usar IA como ferramenta central de criação e desenvolvimento\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n## Local: \n Remota\n## Requisitos: \n - Domínio comprovado de vibecode e ferramentas de IA para construir sites (ex: Cursor, Lovable, v0, Bolt ou equivalentes) \n- Olho de design: sabe criar interface que funciona e converte \n- Viés de marketing: entende aquisição, conversão e como site gera resultado \n- Noção prática de SEO técnico, AEO e GEO, ou disposição comprovada de dominar \n- Portfólio de sites ou páginas que você construiu e colocou no ar \n- Velocidade: cria e itera rápido, não deixa o site parado \n- Responsabilidade: é dono do site, não repassador \n- Clareza: comunica de forma simples, sem ruído \n- Coragem: testa e decide sem esperar o cenário perfeito \n- Confiança: entrega consistente, porque crescimento se constrói no acúmulo\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Designer de Growth (design + marketing + IA) na Arbitralis](https://coodesh.com/jobs/designer-de-growth-design-marketing-ia-190816143?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UI",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "ec45d592449507d6fcff1479808c3d95e5d6192afdf426a297f98a203fbd952d",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-06-15T19:31:20Z",
-      "updatedAt": "2026-06-15T19:31:20Z",
-      "url": "https://github.com/devfsa/vagas/issues/2828",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1eaeed6e4ffc0520097ce3e7",
-      "sourceId": "awesome-jobs/vietnam#4945",
-      "title": "Date",
-      "description": "<!DOCTYPE html>\n<html lang=\"vi\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n    <title>For You 💖</title>\n    <script src=\"https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js\"></script>\n    <link href=\"https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Quicksand:wght@500;600;700&display=swap\" rel=\"stylesheet\">\n    \n    <style>\n        :root {\n            --primary: #ff4b72;\n            --primary-hover: #ff2a55;\n            --bg-gradient: linear-gradient(135deg, #ffe6eb 0%, #ffb6c1 100%);\n            --glass-bg: rgba(255, 255, 255, 0.85);\n            --glass-border: rgba(255, 255, 255, 0.5);\n            --text-main: #4a4a4a;\n        }\n\n        * {\n            box-sizing: border-box;\n            margin: 0;\n            padding: 0;\n        }\n\n        body {\n            font-family: 'Quicksand', sans-serif;\n            background: var(--bg-gradient);\n            color: var(--text-main);\n            min-height: 100vh;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            overflow: hidden; /* Ngăn scroll khi nút chạy lung tung */\n        }\n\n        /* Container & Glassmorphism */\n        .app-container {\n            width: 100%;\n            max-width: 500px;\n            height: 100vh;\n            position: relative;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n        }\n\n        .screen {\n            display: none;\n            flex-direction: column;\n            align-items: center;\n            justify-content: center;\n            width: 90%;\n            background: var(--glass-bg);\n            backdrop-filter: blur(10px);\n            -webkit-backdrop-filter: blur(10px);\n            border-radius: 24px;\n            padding: 40px 20px;\n            box-shadow: 0 8px 32px rgba(255, 75, 114, 0.15);\n            border: 1px solid var(--glass-border);\n            text-align: center;\n            animation: fadeIn 0.5s ease-out;\n        }\n\n        .screen.active {\n            display: flex;\n        }\n\n        @keyframes fadeIn {\n            from { opacity: 0; transform: translateY(20px) scale(0.95); }\n            to { opacity: 1; transform: translateY(0) scale(1); }\n        }\n\n        /* Typography */\n        h1, h2 {\n            font-family: 'Dancing Script', cursive;\n            color: var(--primary);\n            margin-bottom: 20px;\n        }\n        \n        h1 { font-size: 3.5rem; }\n        h2 { font-size: 2.5rem; line-height: 1.3; }\n        p { font-size: 1.1rem; margin-bottom: 25px; line-height: 1.5; }\n\n        /* Buttons */\n        .btn {\n            background: var(--primary);\n            color: white;\n            border: none;\n            padding: 15px 35px;\n            font-size: 1.2rem;\n            font-family: 'Quicksand', sans-serif;\n            font-weight: 700;\n            border-radius: 50px;\n            cursor: pointer;\n            transition: all 0.3s ease;\n            box-shadow: 0 4px 15px rgba(255, 75, 114, 0.4);\n            margin: 10px;\n        }\n\n        .btn:hover {\n            background: var(--primary-hover);\n            transform: translateY(-2px);\n            box-shadow: 0 6px 20px rgba(255, 75, 114, 0.6);\n        }\n\n        .btn-secondary {\n            background: #f0f0f0;\n            color: #666;\n            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);\n        }\n\n        .btn-secondary:hover {\n            background: #e4e4e4;\n            color: #333;\n            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);\n        }\n\n        .action-buttons {\n            display: flex;\n            gap: 15px;\n            justify-content: center;\n            align-items: center;\n            flex-wrap: wrap;\n            width: 100%;\n            position: relative;\n        }\n\n        #yes-btn { transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); }\n        #no-btn { transition: all 0.2s ease; z-index: 100; }\n\n        /* Inputs */\n        input[type=\"date\"], input[type=\"time\"] {\n            width: 100%;\n            padding: 15px;\n            margin-bottom: 20px;\n            border: 2px solid #ffccd5;\n            border-radius: 12px;\n            font-family: 'Quicksand', sans-serif;\n            font-size: 1.1rem;\n            color: #555;\n            outline: none;\n            background: white;\n            transition: border-color 0.3s;\n        }\n        \n        input[type=\"date\"]:focus, input[type=\"time\"]:focus {\n            border-color: var(--primary);\n        }\n\n        /* Food Grid */\n        .food-grid {\n            display: grid;\n            grid-template-columns: repeat(2, 1fr);\n            gap: 15px;\n            width: 100%;\n            max-height: 400px;\n            overflow-y: auto;\n            padding: 10px;\n            margin-bottom: 20px;\n        }\n\n        .food-item {\n            background: white;\n            border: 2px solid transparent;\n            border-radius: 15px;\n            padding: 15px 10px;\n            cursor: pointer;\n            transition: all 0.3s ease;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            gap: 8px;\n        }\n\n        .food-item span.emoji { font-size: 2rem; }\n        .food-item span.name { font-weight: 600; font-size: 0.95rem; }\n\n        .food-item:hover { transform: translateY(-3px); }\n\n        .food-item.selected {\n            border-color: var(--primary);\n            background: #fff0f3;\n            transform: scale(1.05);\n            box-shadow: 0 5px 15px rgba(255, 75, 114, 0.2);\n        }\n\n        /* Custom Scrollbar cho food-grid */\n        .food-grid::-webkit-scrollbar { width: 6px; }\n        .food-grid::-webkit-scrollbar-track { background: transparent; }\n        .food-grid::-webkit-scrollbar-thumb { background: #ffb6c1; border-radius: 10px; }\n\n        /* Final Card Details */\n        .result-card {\n            background: white;\n            border-radius: 15px;\n            padding: 20px;\n            width: 100%;\n            margin-bottom: 20px;\n            text-align: left;\n            box-shadow: 0 2px 15px rgba(0,0,0,0.05);\n        }\n\n        .result-row {\n            display: flex;\n            align-items: center;\n            gap: 15px;\n            margin-bottom: 15px;\n            padding-bottom: 15px;\n            border-bottom: 1px dashed #ffccd5;\n        }\n        .result-row:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }\n        .result-icon {\n            background: #fff0f3;\n            width: 40px; height: 40px;\n            display: flex; justify-content: center; align-items: center;\n            border-radius: 10px;\n            font-size: 1.2rem;\n        }\n        .result-info h4 { font-size: 0.9rem; color: #888; margin-bottom: 4px; }\n        .result-info p { margin: 0; font-weight: 700; color: #333; font-size: 1.1rem; }\n\n        .image-wrapper img {\n            width: 150px;\n            border-radius: 15px;\n            margin-bottom: 20px;\n        }\n\n        /* Floating Hearts Animation Background */\n        .floating-heart {\n            position: absolute;\n            font-size: 20px;\n            color: rgba(255, 75, 114, 0.3);\n            animation: floatUp 4s linear infinite;\n            z-index: -1;\n        }\n\n        @keyframes floatUp {\n            0% { transform: translateY(100vh) scale(0.5) rotate(0deg); opacity: 1; }\n            100% { transform: translateY(-10vh) scale(1.5) rotate(360deg); opacity: 0; }\n        }\n\n    </style>\n</head>\n<body>\n\n    <div id=\"hearts-bg\"></div>\n\n    <div class=\"app-container\">\n        \n        <div id=\"screen-1\" class=\"screen active\">\n            <h2 style=\"font-size: 3rem;\">💖 Chào em!</h2>\n            <p>Anh có một câu hỏi rất quan trọng muốn hỏi em...</p>\n            <button class=\"btn\" onclick=\"nextScreen(2)\">Bắt đầu ✨</button>\n        </div>\n\n        <div id=\"screen-2\" class=\"screen\">\n            <h2>🌹 Em có muốn đi hẹn hò với anh không?</h2>\n            <div class=\"action-buttons\">\n                <button id=\"yes-btn\" class=\"btn\" onclick=\"sayYes()\">💕 Có</button>\n                <button id=\"no-btn\" class=\"btn btn-secondary\" onclick=\"moveNoButton()\">😢 Không</button>\n            </div>\n        </div>\n\n        <div id=\"screen-3\" class=\"screen\">\n            <div class=\"image-wrapper\">\n                <div style=\"font-size: 80px; animation: scaleUp 1s infinite alternate;\">❤️</div>\n            </div>\n            <style>@keyframes scaleUp { from{transform:scale(1)} to{transform:scale(1.2)} }</style>\n            <h1>YAYYYYY!!! 🎉</h1>\n            <p>Anh biết em sẽ đồng ý mà 🥰</p>\n            <button class=\"btn\" onclick=\"nextScreen(4)\">Lên lịch ngay thôiii ➡️</button>\n        </div>\n\n        <div id=\"screen-4\" class=\"screen\">\n            <h2>📅 Khi nào chúng mình gặp nhau?</h2>\n            <p>Chọn một ngày đẹp trời nhé!</p>\n            <input type=\"date\" id=\"date-picker\">\n            <input type=\"time\" id=\"time-picker\">\n            <button class=\"btn\" onclick=\"saveDateAndNext()\">Tiếp tục ➡️</button>\n        </div>\n\n        <div id=\"screen-5\" class=\"screen\">\n            <h2>🍽️ Ăn gì đây ta?</h2>\n            <p>Em thích món nào thì chọn nha (chọn nhiều món cũng được lun)</p>\n            \n            <div class=\"food-grid\" id=\"food-container\">\n                </div>\n            \n            <button class=\"btn\" onclick=\"saveFoodAndFinish()\">Xong rồi nè ➡️</button>\n        </div>\n\n        <div id=\"screen-6\" class=\"screen\">\n            <h2>💖 Hẹn hò thành công!</h2>\n            <p>Lịch trình của tụi mình đã được chốt.</p>\n            \n            <div class=\"result-card\">\n                <div class=\"result-row\">\n                    <div class=\"result-icon\">📅</div>\n                    <div class=\"result-info\">\n                        <h4>Thời gian</h4>\n                        <p id=\"res-date\">Thứ..., ...</p>\n                    </div>\n                </div>\n                <div class=\"result-row\">\n                    <div class=\"result-icon\">🍽️</div>\n                    <div class=\"result-info\">\n                        <h4>Món ăn đã chọn</h4>\n                        <p id=\"res-food\">...</p>\n                    </div>\n                </div>\n            </div>\n\n            <p style=\"font-family: 'Dancing Script', cursive; font-size: 1.5rem; color: var(--primary);\">\n                💌 Anh sẽ đón em đúng giờ nhé!\n            </p>\n            \n            <button class=\"btn\" onclick=\"triggerConfetti()\">🎉 Tung Hoa 🎉</button>\n        </div>\n\n    </div>\n\n    <script>\n        // --- CẤU HÌNH DỮ LIỆU ---\n        const foods = [\n            { id: 'jollibee', name: 'Jollibee', emoji: '🍗' },\n            { id: 'ramen', name: 'Ramen', emoji: '🍜' },\n            { id: 'pizza', name: 'Pizza', emoji: '🍕' },\n            { id: 'hotpot', name: 'Lẩu', emoji: '🍲' },\n            { id: 'comtam', name: 'Cơm Tấm', emoji: '🍛' },\n            { id: 'burger', name: 'Burger', emoji: '🍔' },\n            { id: 'sushi', name: 'Sushi', emoji: '🍣' },\n            { id: 'bbq', name: 'Thịt nướng', emoji: '🥩' },\n            { id: 'dimsum', name: 'Dimsum', emoji: '🥟' },\n            { id: 'dessert', name: 'Trà bánh', emoji: '🍰' }\n        ];\n\n        const noTexts = [\n            \"Anh xin em mà 🥺\", \n            \"Nghĩ lại đi mà 😭\", \n            \"Chỉ một lần thôi mà 💔\", \n            \"Em bấm nhầm đúng ko? 😳\", \n            \"Anh hứa sẽ ngoan mà 😆\",\n            \"Đừng từ chối anh mờ 🥺\"\n        ];\n\n        // --- TRẠNG THÁI ỨNG DỤNG ---\n        let noClickCount = 0;\n        let selectedDate = '';\n        let selectedTime = '';\n        let selectedFoods = new Set();\n\n        // --- HÀM CHUYỂN MÀN HÌNH ---\n        function nextScreen(screenNumber) {\n            document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));\n            document.getElementById(`screen-${screenNumber}`).classList.add('active');\n        }\n\n        // --- LOGIC NÚT \"KHÔNG\" ---\n        function moveNoButton() {\n            const noBtn = document.getElementById('no-btn');\n            const yesBtn = document.getElementById('yes-btn');\n            \n            // Thay đổi text\n            if (noClickCount < noTexts.length) {\n                noBtn.innerText = noTexts[noClickCount];\n            } else {\n                noBtn.innerText = \"Năn nỉ luôn đó 🥺\";\n            }\n            \n            noClickCount++;\n\n            // Nút YES to dần ra\n            const currentYesSize = parseFloat(window.getComputedStyle(yesBtn).fontSize);\n            const currentYesPaddingY = parseFloat(window.getComputedStyle(yesBtn).paddingTop);\n            const currentYesPaddingX = parseFloat(window.getComputedStyle(yesBtn).paddingLeft);\n            \n            yesBtn.style.fontSize = `${currentYesSize + 6}px`;\n            yesBtn.style.padding = `${currentYesPaddingY + 4}px ${currentYesPaddingX + 8}px`;\n\n            // Nút NO di chuyển random\n            // Lấy kích thước viewport\n            const maxX = window.innerWidth - noBtn.offsetWidth - 40; \n            const maxY = window.innerHeight - noBtn.offsetHeight - 40;\n            \n            const randomX = Math.floor(Math.random() * (maxX > 0 ? maxX : 50)) + 20;\n            const randomY = Math.floor(Math.random() * (maxY > 0 ? maxY : 50)) + 20;\n\n            noBtn.style.position = 'fixed';\n            noBtn.style.left = `${randomX}px`;\n            noBtn.style.top = `${randomY}px`;\n\n            // Sau 7 lần bấm, ẩn luôn nút NO\n            if (noClickCount > 7) {\n                noBtn.style.display = 'none';\n            }\n        }\n\n        // --- LOGIC KHI CHỌN \"CÓ\" ---\n        function sayYes() {\n            triggerConfetti();\n            nextScreen(3);\n        }\n\n        // --- LOGIC LƯU NGÀY GIỜ ---\n        function saveDateAndNext() {\n            const dp = document.getElementById('date-picker').value;\n            const tp = document.getElementById('time-picker').value;\n            \n            if(!dp) {\n                alert(\"Em chọn ngày đi đã nè 🥺\");\n                return;\n            }\n\n            selectedDate = dp;\n            selectedTime = tp || \"19:00\"; // Mặc định nếu ko chọn giờ\n            nextScreen(5);\n            renderFoods();\n        }\n\n        // --- RENDER DANH SÁCH MÓN ĂN ---\n        function renderFoods() {\n            const container = document.getElementById('food-container');\n            container.innerHTML = ''; // Clear cũ\n\n            foods.forEach(food => {\n                const div = document.createElement('div');\n                div.className = 'food-item';\n                div.innerHTML = `\n                    <span class=\"emoji\">${food.emoji}</span>\n                    <span class=\"name\">${food.name}</span>\n                `;\n                \n                div.onclick = () => {\n                    div.classList.toggle('selected');\n                    if (selectedFoods.has(food.name)) {\n                        selectedFoods.delete(food.name);\n                    } else {\n                        selectedFoods.add(food.name);\n                    }\n                };\n\n                container.appendChild(div);\n            });\n        }\n\n        // --- HOÀN THÀNH ---\n        function saveFoodAndFinish() {\n            if(selectedFoods.size === 0) {\n                alert(\"Chọn ít nhất một món để tụi mình đi ăn nha 🥺\");\n                return;\n            }\n\n            // Xử lý hiển thị ngày đẹp\n            const dateObj = new Date(selectedDate);\n            const days = ['Chủ Nhật', 'Thứ Hai', 'Thứ Ba', 'Thứ Tư', 'Thứ Năm', 'Thứ Sáu', 'Thứ Bảy'];\n            const dayName = days[dateObj.getDay()];\n            const formattedDate = `${dateObj.getDate()}/${dateObj.getMonth() + 1}/${dateObj.getFullYear()}`;\n\n            document.getElementById('res-date').innerText = `${selectedTime} | ${dayName}, ${formattedDate}`;\n            document.getElementById('res-food').innerText = Array.from(selectedFoods).join(', ');\n\n            nextScreen(6);\n            triggerConfetti();\n            \n            // Loop pháo hoa nhẹ\n            setInterval(() => {\n                confetti({\n                    particleCount: 30,\n                    angle: 60,\n                    spread: 55,\n                    origin: { x: 0 },\n                    colors: ['#ff4b72', '#ffb6c1', '#ffffff']\n                });\n                confetti({\n                    particleCount: 30,\n                    angle: 120,\n                    spread: 55,\n                    origin: { x: 1 },\n                    colors: ['#ff4b72', '#ffb6c1', '#ffffff']\n                });\n            }, 3000);\n        }\n\n        // --- HIỆU ỨNG PHÁO HOA ---\n        function triggerConfetti() {\n            var duration = 3 * 1000;\n            var animationEnd = Date.now() + duration;\n            var defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };\n\n            function randomInRange(min, max) {\n                return Math.random() * (max - min) + min;\n            }\n\n            var interval = setInterval(function() {\n                var timeLeft = animationEnd - Date.now();\n\n                if (timeLeft <= 0) {\n                    return clearInterval(interval);\n                }\n\n                var particleCount = 50 * (timeLeft / duration);\n                confetti(Object.assign({}, defaults, { particleCount,\n                    origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 }\n                }));\n                confetti(Object.assign({}, defaults, { particleCount,\n                    origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 }\n                }));\n            }, 250);\n        }\n\n        // --- BACKGROUND HEARTS ANIMATION ---\n        function createFloatingHearts() {\n            const container = document.getElementById('hearts-bg');\n            setInterval(() => {\n                const heart = document.createElement('div');\n                heart.classList.add('floating-heart');\n                heart.innerHTML = '❤️';\n                heart.style.left = Math.random() * 100 + 'vw';\n                heart.style.animationDuration = (Math.random() * 3 + 3) + 's'; // 3s - 6s\n                heart.style.opacity = Math.random() * 0.5 + 0.2; // 0.2 - 0.7\n                heart.style.fontSize = (Math.random() * 15 + 10) + 'px'; // 10px - 25px\n                \n                container.appendChild(heart);\n\n                // Xóa tim sau khi bay xong\n                setTimeout(() => {\n                    heart.remove();\n                }, 6000);\n            }, 400); // Mỗi 400ms tạo 1 tim\n        }\n\n        // Init background\n        createFloatingHearts();\n\n        // Khởi tạo ngày hiện tại cho date picker\n        document.getElementById('date-picker').min = new Date().toISOString().split(\"T\")[0];\n\n    </script>\n</body>\n</html>",
-      "excerpt": "<!DOCTYPE html> <html lang=\"vi\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\"> <title>For You 💖</title> <script src=\"https:/...",
-      "issueState": "open",
-      "contentHash": "e454dfb029a500f98a1a2f0e14fb2d12bb82046f030a79d33c5f9b928c639aac",
+      "contentHash": "08be12acdb16278ff85f2062b2677fad285949cd4779c8ca7ba821f313405248",
       "repository": "awesome-jobs/vietnam",
       "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
       "region": "Asia",
       "country": "Vietnam",
       "tags": [],
       "author": {
-        "id": "lenguyenphilong513-hue",
-        "name": "lenguyenphilong513-hue",
-        "handle": "lenguyenphilong513-hue",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/275211384?v=4"
+        "id": "PhuongVu-HR",
+        "name": "PhuongVu-HR",
+        "handle": "PhuongVu-HR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
       },
       "community": {
         "id": "awesome-jobs",
@@ -684,87 +262,488 @@
         "repository": "awesome-jobs/vietnam",
         "url": "https://github.com/awesome-jobs/vietnam"
       },
-      "createdAt": "2026-06-14T10:48:21Z",
-      "updatedAt": "2026-06-14T10:48:21Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4945",
+      "createdAt": "2026-07-02T10:13:14Z",
+      "updatedAt": "2026-07-02T10:13:14Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4953",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_adccbfbc72a6a1772058e2da",
-      "sourceId": "DevOps-Brasil/Vagas#463",
-      "title": "[Remoto] Cloud Security Analyst (Sênior) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open) para realizar a candidatura. 👋\n**Atividades:**\n\n*   Projetar, implementar e gerenciar controles de segurança para ambientes em nuvem (AWS, Azure, GCP).\n    \n*   Realizar avaliações de segurança em infraestruturas e aplicações.\n    \n*   Monitorar e responder a eventos e incidentes de segurança em ambientes cloud.\n    \n*   Colaborar com as equipes de desenvolvimento, DevOps e infraestrutura para implementar práticas de segurança na nuvem.\n    \n*   Automatizar tarefas de segurança na nuvem.\n    \n*   Manter-se atualizado sobre as últimas ameaças e vulnerabilidades.\n    \n*   Apoiar na definição e implementação de políticas de segurança específicas para a nuvem.\n    \n*   Realizar testes de segurança e simulações de ataque em ambientes cloud.\n    \n*   Documentar procedimentos e configurações de segurança na nuvem.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS \n- Azure \n- GCP\n## Local: \n Remota\n## Requisitos: \n - Ensino superior completo \n- Experiência comprovada em segurança de ambientes de nuvem (AWS, Azure, GCP). \n- Experiência com ferramentas de segurança específicas para nuvem (CSPM, CWPP, etc.). \n- Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD. \n- Conhecimento em segurança de contêineres e orquestradores (Docker, Kubernetes).\n## Diferenciais: \n - Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD.\n## Benefícios: \n - Horários Flexíveis \n- Descanso Remunerado  \n- Incentivo aos estudos (Descontos em faculdades)\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Cloud Security Analyst (Sênior) na TruckPag](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=DevOps-Brazil-Vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nCyber Segurança",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "id": "gh_cd545c743aeb9b9011517e96",
+      "sourceId": "awesome-jobs/vietnam#4952",
+      "title": "🚀 [HIRING] Senior Data Engineer (GCP) | Up to 38M NET",
+      "description": "📍 HCM | HN \n\n- 5+ years in Data Engineering, including 2+ years on GCP\n- Strong experience building & optimizing ETL/ELT pipelines\n- Hands-on with BigQuery and GCP Data Stack (Dataflow, Dataproc, Composer/Airflow, Dataform)\n- Experience with Airflow/Composer, CI/CD for data pipelines\n- Solid understanding of data modeling (Relational, Dimensional, Schema-on-Read)\n\n✨ Nice to have: Oracle/MicroStrategy migration, Azure Data Stack, Chinese speaking.\n \nPhone/Zalo: 0582839437",
+      "excerpt": "📍 HCM | HN - 5+ years in Data Engineering, including 2+ years on GCP - Strong experience building & optimizing ETL/ELT pipelines - Hands-on with BigQuery and GCP Data Stack (Dataflow, Dataproc, Composer/Airflow, Data...",
       "issueState": "open",
-      "contentHash": "3474c2bec86d0f965b4cb25a0a5cb8dd2ce91f208e37c8c5efe191adb1c53b76",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
+      "contentHash": "feacb38e26435b7fac3a366571d6e775b0eb696666d4a6e09fef20dc40d1bbcf",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
       "tags": [
-        "pj",
-        "devops",
-        "platform",
-        "infra",
-        "security",
-        "aws",
-        "azure",
-        "kubernetes"
+        "senior",
+        "data"
       ],
       "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+        "id": "PhuongVu-HR",
+        "name": "PhuongVu-HR",
+        "handle": "PhuongVu-HR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
       },
       "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
       },
-      "companyName": "Coodesh",
-      "createdAt": "2026-06-12T17:27:57Z",
-      "updatedAt": "2026-06-12T17:28:15Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/463",
+      "createdAt": "2026-07-02T08:09:02Z",
+      "updatedAt": "2026-07-02T08:09:02Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4952",
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_fbd7897fa7cdf7f1f95d0f6f",
-      "sourceId": "programadores-br/geral#3081",
-      "title": "[Remoto] Cloud Security Analyst (Sênior) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\n**Atividades:**\n\n*   Projetar, implementar e gerenciar controles de segurança para ambientes em nuvem (AWS, Azure, GCP).\n    \n*   Realizar avaliações de segurança em infraestruturas e aplicações.\n    \n*   Monitorar e responder a eventos e incidentes de segurança em ambientes cloud.\n    \n*   Colaborar com as equipes de desenvolvimento, DevOps e infraestrutura para implementar práticas de segurança na nuvem.\n    \n*   Automatizar tarefas de segurança na nuvem.\n    \n*   Manter-se atualizado sobre as últimas ameaças e vulnerabilidades.\n    \n*   Apoiar na definição e implementação de políticas de segurança específicas para a nuvem.\n    \n*   Realizar testes de segurança e simulações de ataque em ambientes cloud.\n    \n*   Documentar procedimentos e configurações de segurança na nuvem.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS \n- Azure \n- GCP\n## Local: \n Remota\n## Requisitos: \n - Ensino superior completo \n- Experiência comprovada em segurança de ambientes de nuvem (AWS, Azure, GCP). \n- Experiência com ferramentas de segurança específicas para nuvem (CSPM, CWPP, etc.). \n- Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD. \n- Conhecimento em segurança de contêineres e orquestradores (Docker, Kubernetes).\n## Diferenciais: \n - Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD.\n## Benefícios: \n - Horários Flexíveis \n- Descanso Remunerado  \n- Incentivo aos estudos (Descontos em faculdades)\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Cloud Security Analyst (Sênior) na TruckPag](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nCyber Segurança",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "id": "gh_b58d8e19c5708f146ef494b5",
+      "sourceId": "nerdzao/vagas#194",
+      "title": "[São Paulo] Pessoa Engenheira de Cloud Sênior (GCP) - Viaflow",
+      "description": "Descrição da vaga\nEstamos em busca de uma Pessoa Engenheira de Google Cloud (Core Operations) para integrar um time de alta performance, sendo o ponto estratégico responsável por garantir que nossa infraestrutura em nuvem seja robusta, escalável e de alta disponibilidade.\n\n\nVocê atuará diretamente no desenho, implementação e sustentação de ambientes críticos, utilizando tecnologias de ponta como GKE e Cloud Run. Se você é um(a) profissional que busca excelência operacional, domina o ecossistema GCP e quer transformar a maneira como operamos na nuvem, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nConteinerização e Orquestração: Projetar, configurar e gerenciar clusters Kubernetes de nível de produção no GKE, otimizando o escalonamento e a alocação de recursos.\nImplantação Serverless: Gerenciar microsserviços via Cloud Run, garantindo a configuração ideal para concorrência, memória e minimização de cold-starts.\nAutomação e CI/CD: Automatizar o provisionamento de infraestrutura e pipelines de deploy usando IaC (Infraestrutura como Código) para garantir lançamentos ágeis e confiáveis.\nOperações Core GCP: Gerenciar módulos como Compute Engine, Cloud Storage e BigQuery, garantindo eficiência operacional e otimização de custos.\nSegurança e Conformidade: Manter uma postura rigorosa de segurança implementando políticas IAM, privilégio mínimo, VPC service controls e criptografia de ponta a ponta.\nExcelência Operacional: Monitorar performance e latência via Cloud Monitoring e Cloud Logging, atuando proativamente com alertas e troubleshooting avançado.\nColaboração Técnica: Trabalhar com times de desenvolvimento para definir estratégias de deploy e padrões de arquitetura cloud-ready.\nDocumentação Técnica: Desenvolver e manter diagramas de arquitetura, planos de disaster recovery e runbooks operacionais de alta qualidade.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\n\nExperiência Especializada: 4 a 7 anos em Engenharia de Nuvem ou DevOps, com foco em operações e gestão de infraestrutura.\nEspecialista em GCP: Experiência prática comprovada na implantação de cargas de trabalho corporativas no Google Cloud.\nDomínio de Containers/Serverless: Experiência real em produção com GKE (Google Kubernetes Engine) e Cloud Run.\nInfraestrutura como Código (IaC): Proficiência em ferramentas como Terraform, Crossplane ou Pulumi.\nArquitetura Moderna: Sólida bagagem em microsserviços, service meshes e ciclos de vida de aplicações container-native (Docker).\nProgramação: Capacidade de escrever scripts de automação limpos em Python, Go, Bash ou [Node.js.](http://node.js./)\n🏆 Diferenciais (O que valorizamos)\n\nCertificações oficiais: Google Cloud Certified Associate Cloud Engineer ou Professional Cloud Architect.\nDomínio sólido de redes (DNS, Load Balancing, VPC peering, Firewalls).\nPerfil analítico para diagnosticar e depurar sistemas distribuídos complexos.\n🤝 Soft Skills\n\nExcelente capacidade de resolução de problemas e diagnóstico técnico.\nHabilidade de comunicação para atuar como ponte entre a engenharia técnica e os objetivos operacionais do negócio.\n\nInformações adicionais\nContratação via modelo cooperativa.\nAuxílio Híbrido.\nPeople Hub - Clube de Benefícios.\nDIT - Diária de Incapacidade Temporária.\nDay off de aniversário.\nTotalPass / WellHub.\nTreinamentos e Certificações.\nPacote Colab+ com acesso a WellHub, Avus, Starbem e DASA\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nTem interesse? Se inscreva na vaga pelo link: https://viaflow.gupy.io/jobs/11559626?jobBoardSource=gupy_public_page",
+      "excerpt": "Descrição da vaga Estamos em busca de uma Pessoa Engenheira de Google Cloud (Core Operations) para integrar um time de alta performance, sendo o ponto estratégico responsável por garantir que nossa infraestrutura em n...",
       "issueState": "open",
-      "contentHash": "7f4e3621d1ec2fc28367f9d359316deb87767353a5e898c583cb23bfd8d92a2f",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "contentHash": "84ab224ed239e5e21815b1c6e4a713211ff1f2ee021f04534740ad2963267219",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "remoto",
-        "pj",
-        "sênior",
+        "node",
+        "python",
         "devops"
       ],
       "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
       },
       "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
       },
-      "companyName": "Coodesh",
-      "createdAt": "2026-06-12T17:27:42Z",
-      "updatedAt": "2026-06-12T17:28:11Z",
-      "url": "https://github.com/programadores-br/geral/issues/3081",
+      "createdAt": "2026-06-30T12:50:47Z",
+      "updatedAt": "2026-06-30T12:50:47Z",
+      "url": "https://github.com/nerdzao/vagas/issues/194",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_84cd6211aa13a6d9b6ae06f9",
+      "sourceId": "awesome-jobs/vietnam#4951",
+      "title": "[HCM] HIRING TECH LEAD/FULLSTACK - ATTRACTIVE SALARY",
+      "description": "Hi everyone, I'm currently supporting recruitment for multiple positions at an outsourcing company based in Germany, working hybrid in HCMC.\n\n✨ Open positions:\n\n- **Tech Lead (C#/.NET)** - High ownership role, leading a team to build an AI-integrated platform\n- **Tech Lead (C# / ReactJS)** - Direct influence on technical direction and product decisions\n- **Senior Full-Stack Engineer (C# / ReactJS)** - Work on data-driven applications serving enterprise clients\n- **Senior Software Engineer (TypeScript / Node.js)** - Build systems with high security and reliability requirements\n- **Solution Architect (Python / AWS)** - Own cloud-native system design with international career growth\n\n✨ General requirements:\n• Senior-level experience with the relevant tech stack\n• Experience with cloud platforms (AWS/Azure)\n• Good English communication skills\n\n🎁 Competitive salary + 13th-month bonus + premium healthcare\n\nIf you're open to new opportunities or know someone who'd be a great fit, feel free to inbox me 👋\n📧 jennifer@businessedge.asia\n📱 Zalo/WhatsApp: 0948 876 587",
+      "excerpt": "Hi everyone, I'm currently supporting recruitment for multiple positions at an outsourcing company based in Germany, working hybrid in HCMC. ✨ Open positions: - **Tech Lead (C#/.NET)** - High ownership role, leading a...",
+      "issueState": "open",
+      "contentHash": "7c6da78560c8c78b31da1d3cf1ff96e0bd0dc6951622eee07dfb63faf1d5566c",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "hybrid",
+        "fullstack",
+        "react",
+        "typescript",
+        "node",
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "JenniferTran-recruiter",
+        "name": "JenniferTran-recruiter",
+        "handle": "JenniferTran-recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/189077440?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-30T08:59:56Z",
+      "updatedAt": "2026-06-30T08:59:56Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4951",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_656407c7bdb8178972eeb062",
+      "sourceId": "awesome-jobs/vietnam#4950",
+      "title": "Linagora - Senior Java Backend Developer - HN - 50M-60M - Hybrid",
+      "description": "**Location**: Hanoi, Vietnam\n\n**WE NEED YOU**\nDo you enjoy designing software that runs quickly and smoothly at scale?\nAt Twake Mail & Twake Calendar, we build open-source communication and collaboration products centered around scalability, open standards, and digital sovereignty.\nWe are looking for a Senior Backend Engineer who can confidently navigate large codebases, deliver reliable and maintainable code, and quickly develop autonomy in a demanding engineering environment.\nBeyond implementation, we value engineers who bring critical thinking, sound technical judgment, and real ownership to what they build, people who understand systems deeply, not just generate code from prompts.\nIf this sounds like you, this is perfect timing to join us!\n\n**KEY RESPONSIBILITIES**\nIn this role, you will actively contribute to the open-source Apache James and Sabre DAV projects, as well as our Twake Mail and Twake Calendar products, by:\n- ​​Helping to maintain and develop new features for these solutions.\n- Adapting, customizing, and providing support for Twake Mail for new deployments\n- Providing technical support to client projects using Apache James technology.\n\n**QUALIFICATION**\n• A good level of Java is required. An understanding of Scala and some knowledge of PHP are a plus.\n• The candidate must be able to adapt to a demanding environment where high-quality, reliable, tested, documented, and well-structured code is expected.\n• Be comfortable working with large codebases.\n• Familiarity with open email standards is a plus (IMAP, SMTP, JMAP, Cal/CardDAV, OpenIDConnect, etc.).\n• Familiarity with SQL and NoSQL data management tools is expected. We work with technologies such as Cassandra, PostgreSQL, S3 compatible, MongoDB, OpenSearch, RabbitMQ, Redis, and OpenLDAP.\n• A good understanding of operational challenges is expected, both in terms of technical aspects (Kubernetes, Ansible, performance, etc.) and functional aspects (specific to email).\n• An awareness of frontend and mobile development challenges is a plus (ReactJS/Flutter).\n• Good level of English communication\nSoft Skills\n• Ability to communicate actively (communities, conferences).\n• Results and quality-oriented, rather than rigid process-driven\n• Ability to collaborate in an international and multicultural environment\n• Flexibility and adaptability depending on the project\n• Passion for the product and attention to detail\n• Motivation to create a simple, reliable, and useful tool for users\n• Proactive mindset\n\n**WHY YOU’LL LOVE WORKING WITH US?**\n• Involved in OpenSource community you follow your digital sovereignty ideal\n• Collaboration with a diverse, highly skilled international team that values knowledge-sharing and innovation\n• Opportunities to attend specialist conferences\n• Access to internal learning resources, refresher courses to keep your skills up to date\n• Freedom of a hybrid work model that balances remote and in-office work.\n• Additional health insurance with extensive coverage and employee-centric benefits; annual health check-ups\n• Competitive salary package, including a 13th-month bonus and lunch allowance\n• Exciting company outings, team-building activities\n• Modern working space filled with natural light\n• Free coffee & tea\n\n**Contact**\nHomepage: linagora.com\nLinkedIn:https://www.linkedin.com/in/linagora-vietnam-48a7b1107/\nEmail: vnhr@linagora.com\nPhone number: 0901735987 (Signal/Zalo/Whatsapp) - Ms. Minh Anh, HR",
+      "excerpt": "**Location**: Hanoi, Vietnam **WE NEED YOU** Do you enjoy designing software that runs quickly and smoothly at scale? At Twake Mail & Twake Calendar, we build open-source communication and collaboration products cente...",
+      "issueState": "open",
+      "contentHash": "825a1a3961a423beb13b6f165b5fb3f73928c97d10a4f79d3452667e3232f09e",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "hybrid",
+        "frontend",
+        "backend",
+        "react",
+        "java",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "linagoravietnam",
+        "name": "linagoravietnam",
+        "handle": "linagoravietnam",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88656529?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-30T02:42:31Z",
+      "updatedAt": "2026-06-30T02:42:31Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4950",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_77db2e642fcc447f83bf9c9d",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9608",
+      "title": "Software Development Engineer Internship - Fall 2026 (US)",
+      "description": "### Link to Internship Posting\n\nhttps://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us\n\n### Company Name\n\nAmazon\n\n### Internship Title\n\nSoftware Development Engineer Intern (Fall 2026)\n\n### Location\n\nMultiple US Locations (see posting)\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nabishek2981@gmail.com\n\n### Extra Notes (Optional)\n\n**Description**\nBy applying to this position, your application will only be considered for our fall Software Development Engineer (SDE) internship roles. Our fall intern roles have start dates in August/September 2026 and are 12 weeks in duration.\n\nDo you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?\n\nAt Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.\n\nOur SDE interns use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDE interns solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.\n\nAt Amazon, we believe in ownership at every level. As a SDE intern, you'll own the entire lifecycle of your code - from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.\n\nWe're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.\n\nAmazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.\n\nWe will take your location preferences into consideration. Preferences are based on business availability and are not guaranteed. Applicants will be considered at all locations we host interns in the United States including but not limited to:\n\n• AZ (Phoenix, Tempe)\n• CA (Berkeley, Culver City, Cupertino, East Palo Alto, Irvine, Los Angeles, Manhattan Beach, Palo Alto, San Diego, San Francisco, San Jose, San Luis Obispo, Santa Barbara, Santa Clara, Santa Cruz, Santa Monica, Sunnyvale)\n• CO (Boulder, Denver)\n• GA (Atlanta, Kennesaw)\n• IL (Chicago)\n• MA (Boston, Cambridge, Hudson, North Reading, Westborough)\n• MD (Baltimore)\n• MI (Detroit)\n• MN (Minneapolis)\n• NJ (Jersey City)\n• NY (New York)\n• OR (Portland)\n• PA (Philadelphia, Pittsburgh)\n• TN (Nashville)\n• TX (Austin, Dallas)\n• VA (Arlington, Herndon)\n• WI (Madison)\n• WA (Bellevue, Seattle, Redmond)\n***Locations are subject to change***\n\nDuring your application, you will have the opportunity to highlight your expertise in one or more of these specialized areas:\n\n• Machine Learning • Distributed Systems and Data Management • Database Systems • Quantum Computing • Network Development • Query Processing and Optimization • Automated Reasoning • Embedded Systems • Data Engineering • Mobile Development • Game Development\n\nWhile team placement is based on business needs, sharing your specific skills and interests helps us better align your experience with potential roles.\n\n\n**Key job responsibilities**\n• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.\n• Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment.\n• Participate in code reviews and contribute to technical documentation.\n• Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective.\n• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.\n• Write clean, maintainable code following best practices and design patterns.\n• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities.\n• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.\n\nA day in the life\nAs an intern, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead critical projects early in your career.\n\nIn addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to own your project and learn in a real-world setting.\n\n**Basic Qualifications**\n- Are 18 years of age or older\n- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript\n- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles\n- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields\n- Able to work 40 hours/week and commit to a 12-week internship\n- Expected conferral date between October 2026 – September 2029\n\nPreferred Qualifications\n- Experience from previous technical internship(s) or demonstrated project experience\n- Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems\n- Demonstrated ability to learn and adapt to new technologies quickly\n- Basic understanding of software development lifecycle (SDLC)\n- Strong problem-solving and analytical skills\n- Excellent written and verbal communication skills\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\n\nThe starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.",
+      "excerpt": "### Link to Internship Posting https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us ### Company Name Amazon ### Internship Title Software Development Engineer Intern (Fall 2026...",
+      "issueState": "open",
+      "contentHash": "ca4a2eead6992668bf4935bc170482bcab69001dfd927a4da163d4256acd5f18",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "kanagaabishek",
+        "name": "kanagaabishek",
+        "handle": "kanagaabishek",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/171316317?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-28T17:45:00Z",
+      "updatedAt": "2026-06-28T17:45:00Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9608",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8e21776bfd1dc032003ed037",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9607",
+      "title": "Applied Science: Microsoft AI Internship Opportunities - Redmond",
+      "description": "### Link to Internship Posting\n\nhttps://apply.careers.microsoft.com/careers/job/1970393556885678?domain=microsoft.com&hl=en\n\n### Company Name\n\nMicrosoft\n\n### Internship Title\n\nApplied AI Scientist Intern\n\n### Location\n\nWashington | Redmond\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nData Science, AI & Machine Learning\n\n### Advanced Degree Requirements\n\n- [x] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nabishek2981@gmail.com\n\n### Extra Notes (Optional)\n\nOverview\nBring your passion for innovation and research to a team at the forefront of artificial intelligence and machine learning. If you’re eager to make significant contributions across user engagement, intelligent experiences, and real product scenarios, this opportunity within Microsoft AI Content and Commerce, Search Fundamentals, and Search Place will excite you.\n\nAs an Applied Scientist Intern, you will apply your expertise in areas such as supervised and unsupervised learning, deep learning (especially transformers and sequence modeling), reinforcement learning for optimizing user outcomes, and advanced data science techniques. You’ll translate complex business challenges—spanning search, personalization, natural language processing, computer vision, and recommendation systems—into practical, impactful solutions using Azure and other cloud-based technologies. Your experience with statistical analysis, hypothesis testing, large datasets, and deploying robust data pipelines will be valued as you drive research into production.\n\nThis role allows you to shape the future of Copilot and intelligent content, influencing Microsoft's direction as you directly support our overarching mission and vision.\n\nAt Microsoft, our mission to empower every person and every organization on the planet to achieve more guides how we partner with customers to deliver trusted, impactful solutions. With a growth‑mindset culture, we innovate responsibly and measure success by shared progress, people, teams, and customers. Join us to do meaningful work that changes the world and helps shape what’s next for everyone.\n\n**Please note this application is only for internships based in our Redmond, Washington office. For internships in other offices in the United States, please see our [Careers site.](http://www.microsoft.com/university)**",
+      "excerpt": "### Link to Internship Posting https://apply.careers.microsoft.com/careers/job/1970393556885678?domain=microsoft.com&hl=en ### Company Name Microsoft ### Internship Title Applied AI Scientist Intern ### Location Washi...",
+      "issueState": "open",
+      "contentHash": "a72187c0c10601af9c31c64ba1f46b15c87b717f5c05b412e86ecd3a8c979483",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "kanagaabishek",
+        "name": "kanagaabishek",
+        "handle": "kanagaabishek",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/171316317?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-28T17:38:59Z",
+      "updatedAt": "2026-06-28T17:38:59Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9607",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_45aece0e457d44d9135946e7",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9606",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282\n\n### Company Name\n\nSony Electronics\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nSan Diego, CA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282 ### Company Name Sony Electronics ### Internship Title Software Engineer Inter...",
+      "issueState": "open",
+      "contentHash": "c2f016fd747b52663f2e478c6af8a7eb5fd9ff0aeaf83e4ff0ecf53434cc0c22",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:25:43Z",
+      "updatedAt": "2026-06-26T09:25:43Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9606",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7e0bbe167dafba943e077f78",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9605",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931\n\n### Company Name\n\nHARMAN \n\n### Internship Title\n\nIntern – Software Engineering\n\n### Location\n\nSunnyvale, CA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931 ### Company Name HARMAN ### Internship Title Intern – Software Engineering ### Location Sunnyvale, ...",
+      "issueState": "open",
+      "contentHash": "761bb7d8f1b3a34987547f1e05e222c8e7524589c20347f93974be7cc277823f",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:25:23Z",
+      "updatedAt": "2026-06-26T09:25:23Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9605",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7f17e8c9d9df8aa157a6dce5",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9604",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://careers.arcfield.com/careers-home/jobs/8305?lang=en-us\n\n### Company Name\n\nArcfield \n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nMiddletown, RI\n\n### What term(s) is this internship offered for?\n\nFall 2026, Summer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://careers.arcfield.com/careers-home/jobs/8305?lang=en-us ### Company Name Arcfield ### Internship Title Software Engineering Intern ### Location Middletown, RI ### What term(s) is ...",
+      "issueState": "open",
+      "contentHash": "bdcc26b3b7ea1e0308d1c9e8ec07d1dc957ba836ff023912268ce229b03f51cf",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:18:05Z",
+      "updatedAt": "2026-06-26T09:18:05Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9604",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_500d6b7ba64e6211969670e0",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9603",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895\n\n### Company Name\n\nBinance.US\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nRemote\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895 ### Company Name Binance.US ### Internship Title Software Engineering Intern ### Location Remote ### What term(s)...",
+      "issueState": "open",
+      "contentHash": "889a65ef3fa7cb6259bece3e34b6f148528c3044b1e15a1573ba05a41ff56c16",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:17:14Z",
+      "updatedAt": "2026-06-26T09:17:14Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9603",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_be874e73d5522ddaf47e1034",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9602",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/astranis/jobs/4691163006\n\n### Company Name\n\nAstranis \n\n### Internship Title\n\nHardware Design Intern\n\n### Location\n\nSan Francisco, CA\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nHardware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/astranis/jobs/4691163006 ### Company Name Astranis ### Internship Title Hardware Design Intern ### Location San Francisco, CA ### What term(s) is this in...",
+      "issueState": "open",
+      "contentHash": "c021cf403f4ef3ec9b3e927d8554c252bd9ba868ba26e1f5960ef0ed8081912b",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:16:53Z",
+      "updatedAt": "2026-06-26T09:16:53Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9602",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_72a9a9990b66985c9fba52c6",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9601",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://www.governmentjobs.com/careers/piercecountywa/jobs/5386606-0/it-software-engineer-intern\n\n### Company Name\n\nPierce County\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nTacoma, WA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://www.governmentjobs.com/careers/piercecountywa/jobs/5386606-0/it-software-engineer-intern ### Company Name Pierce County ### Internship Title Software Engineer Intern ### Location...",
+      "issueState": "open",
+      "contentHash": "6fef4cedab62746454f9ba5842525c7636c7641ca76d0d61edb1d08c6767aeb9",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:16:28Z",
+      "updatedAt": "2026-06-26T09:16:28Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9601",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_dc1070912f4d210a95c4e2cd",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9600",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://nvidia.eightfold.ai/careers/job/893395763339\n\n### Company Name\n\nNVIDIA \n\n### Internship Title\n\nPhD Research Intern, System Software and I/O Architecture - Fall 2026\n\n### Location\n\nSanta Clara, CA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [x] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://nvidia.eightfold.ai/careers/job/893395763339 ### Company Name NVIDIA ### Internship Title PhD Research Intern, System Software and I/O Architecture - Fall 2026 ### Location Santa...",
+      "issueState": "open",
+      "contentHash": "46d50fbd7646a95790f4a3f6d4bb0e04b8254a4a2c826b5cc04abdf62cfc9b14",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:11:15Z",
+      "updatedAt": "2026-06-26T09:11:15Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9600",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_329ff605df48e5c52ee62c53",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9599",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://altasciences.wd1.myworkdayjobs.com/careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750\n\n### Company Name\n\nAltasciences \n\n### Internship Title\n\nProcess Innovation - Software Engineering Intern\n\n### Location\n\nOverland Park, KS\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://altasciences.wd1.myworkdayjobs.com/careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750 ### Company Name Altasciences ### Internship Title Pr...",
+      "issueState": "open",
+      "contentHash": "67f37379727a99ab51734a8d4222c6c4608620b5113277cd993e33a3cca4dcb9",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:10:51Z",
+      "updatedAt": "2026-06-26T09:10:51Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9599",
       "sourceType": "github-issue"
     }
   ]
