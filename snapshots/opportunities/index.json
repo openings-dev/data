@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-10T02:09:07.797Z",
+  "generatedAt": "2026-07-10T06:36:54.282Z",
   "schemaVersion": 2,
-  "dataHash": "c0f9e0d1f6dda19d5f3d8273b10bb4841cbf9377a7cb2b1693f7f39d06630d74",
+  "dataHash": "b8bdfdd4220631dd5a2e740c463bbfe092a0fb42a75504cb56bd996290d8a67a",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -231,6 +231,7 @@
       "api/jobs/d6.json",
       "api/jobs/d7.json",
       "api/jobs/d9.json",
+      "api/jobs/db.json",
       "api/jobs/dc.json",
       "api/jobs/dd.json",
       "api/jobs/de.json",
@@ -303,7 +304,6 @@
       "api/pages/page-0033.json",
       "api/pages/page-0034.json",
       "api/pages/page-0035.json",
-      "api/pages/page-0036.json",
       "api/search-index.json"
     ]
   },
@@ -524,8 +524,8 @@
       "region": "North America",
       "opportunities": 121,
       "repositories": 22,
-      "openIssues": 56,
-      "closedIssues": 65,
+      "openIssues": 55,
+      "closedIssues": 66,
       "indexFile": "countries/us/index.json"
     },
     {
@@ -534,8 +534,8 @@
       "region": "Asia",
       "opportunities": 34,
       "repositories": 2,
-      "openIssues": 32,
-      "closedIssues": 2,
+      "openIssues": 31,
+      "closedIssues": 3,
       "indexFile": "countries/vn/index.json"
     }
   ]
