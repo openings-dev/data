@@ -1,16 +1,56 @@
 {
-  "generatedAt": "2026-05-08T05:25:08.901Z",
+  "generatedAt": "2026-07-12T18:54:45.321Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 23,
-    "openIssues": 0,
-    "closedIssues": 23
+    "openIssues": 1,
+    "closedIssues": 22
   },
-  "dataHash": "b1131529ba13ca202fa4d83eef4364d6b42721866ff559b442a46e1f116ed8af",
+  "dataHash": "da7aa4b1b994981d8f491f05c27097e0ee483dc08dd85541fb07b74de922e15d",
   "items": [
+    {
+      "id": "gh_c865b994f75388a544ac06ca",
+      "sourceId": "backend-pt/vagas#136",
+      "title": "[Remoto] C#/.NET Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de C#/.NET Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "8895774fecc2366e2e163861982a26021d75f5fa2846f234c455016387550a27",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:28:40Z",
+      "updatedAt": "2026-07-12T17:28:58Z",
+      "url": "https://github.com/backend-pt/vagas/issues/136",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d0b3c8c0e414a3f955732b67",
       "sourceId": "backend-pt/vagas#135",
@@ -883,40 +923,6 @@
       "createdAt": "2023-03-14T19:11:39Z",
       "updatedAt": "2023-05-21T00:58:54Z",
       "url": "https://github.com/backend-pt/vagas/issues/107",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ceb30247c81d83f1438f8184",
-      "sourceId": "backend-pt/vagas#106",
-      "title": "[Lisboa ou Porto] Java Developer @Integer Consulting Portugal",
-      "description": "### Nossa empresa\n\nInteger Consulting Portugal\n\n### Descrição da vaga\n\n- +6 anos de experiência profissional em desenvolvimento Java;\n- Experiência em Spring e Spring Boot;\n- Experiência em testes TDD/BDD;\n- Conhecimentos em Micro Serviços;\n- Conhecimentos em Kafka, Docker, Kubernetes e CI/CD;\n- Familiaridade com metodologias Agile;\n\n\n### Local\n\nLisboa ou Porto\n\n### Requisitos\n\n- +6 anos de experiência profissional em desenvolvimento Java;\n- Experiência em Spring e Spring Boot;\n- Experiência em testes TDD/BDD;\n- Conhecimentos em Micro Serviços;\n- Conhecimentos em Kafka, Docker, Kubernetes e CI/CD;\n- Familiaridade com metodologias Agile;\n\n### Benefícios\n\nA discutir\n\n### Contratação\n\nA discutir\n\n### Como se candidatar\n\nbruno.carvalho@integer.pt\n\n### Tempo médio de feedbacks\n\n_No response_\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [ ] Alocado\n- [ ] Remoto\n- [ ] Presencial\n- [X] Híbrido\n\n### Regime\n\n- [ ] CLT\n- [ ] Estágio\n- [ ] Freela\n- [ ] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [ ] Sênior\n- [ ] Especialista\n\n### Período\n\n- [ ] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa Integer Consulting Portugal ### Descrição da vaga - +6 anos de experiência profissional em desenvolvimento Java; - Experiência em Spring e Spring Boot; - Experiência em testes TDD/BDD; - Conhecimento...",
-      "issueState": "closed",
-      "contentHash": "97b2829a8e591f4c241edf6229afecc22dfd6853e773d67dd020f67454c0ab07",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "híbrido"
-      ],
-      "author": {
-        "id": "brunoalexandrecarvalho",
-        "name": "brunoalexandrecarvalho",
-        "handle": "brunoalexandrecarvalho",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/77780964?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2023-01-03T10:15:21Z",
-      "updatedAt": "2023-03-11T00:55:10Z",
-      "url": "https://github.com/backend-pt/vagas/issues/106",
       "sourceType": "github-issue"
     }
   ]

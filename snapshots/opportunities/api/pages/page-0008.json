@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-07-12T13:01:35.729Z",
+  "generatedAt": "2026-07-12T18:54:45.321Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_e6f0376a5a9af058b67ed1d8",
+    "gh_1c0afba85af9b58d3bdb9fae",
+    "gh_aee09e92fadf8366a70512db",
+    "gh_ee71ad4e68f00372f334fae1",
+    "gh_d2c11c8fc2357a8b0eef0f15",
+    "gh_0e98dad659c3df11a1cb1cc8",
+    "gh_5f066bed10486c20bcb3fc70",
+    "gh_84cd180e02db9815d917bcc4",
+    "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
     "gh_7bcd691815b883db937698fc",
     "gh_a2bf5d8b1ac2ec634b465f35",
@@ -14,18 +23,335 @@
     "gh_70eda67c2285a24c2f32ca41",
     "gh_828a908398f893b1e0c6ca3d",
     "gh_e178ee2363a4eb2ca10d3d06",
-    "gh_28a89509442cf0e8c335df8d",
-    "gh_711783b1e589482d26973823",
-    "gh_2c6305b33aff78c3ef09ce99",
-    "gh_ae241d65a08eb0b2c7258d0c",
-    "gh_dd917afbcd6258ace2a2497e",
-    "gh_31d3c208b2b39f35424db09f",
-    "gh_7ba652a44a8de9edef28588e",
-    "gh_6bd2ea87cfb4bbe49569241c",
-    "gh_1f61de8de06b483a9a82d5f4",
-    "gh_9dbea54460036bccbb80c963"
+    "gh_28a89509442cf0e8c335df8d"
   ],
   "items": [
+    {
+      "id": "gh_e6f0376a5a9af058b67ed1d8",
+      "sourceId": "awesome-jobs/vietnam#4943",
+      "title": "Solutions Architect - B2B SaaS Product company - Open salary",
+      "description": "**About the role**\n- The Solutions Architect is a senior, hands-on member of Inspectorio's Architecture team. This is an individual-contributor role focused on designing and delivering practical technical solutions to business problems. The Solutions Architect partners closely with the Engineering Leadership Team and Product Management to translate business strategy into well-architected, secure, and cost-effective solutions across all architectural domains: Application (including adherence to Application Security Standards), Data, Integration, Presentation, and Infrastructure.\n- Working within an established architecture team, the Solutions Architect helps define, apply, and continuously improve the architectural patterns, standards, and reference architectures that optimize total cost of ownership and reduce cycle time for delivery through reuse and consistency. They are expected to be deeply current on modern engineering and AI practices - including GenAI solution design, agentic workflows, and AI-assisted software development - and to bring that expertise into Inspectorio's products and engineering process. \n- A successful candidate combines strong technical depth with sound business judgment, communicates clearly across technical and non-technical audiences, and is equally comfortable producing a strategic reference architecture and getting hands-on with a proof of concept. \n\n**What you'll do**\n- Design end-to-end solution architectures for assigned products and initiatives, ensuring alignment with Inspectorio's target architecture, enterprise patterns, and Application Security Standards. \n- Partner with engineering teams and product managers throughout the delivery lifecycle, providing architectural guidance, design reviews, and pragmatic decision support from discovery through production. \n- Contribute to the definition, documentation, and evolution of strategic platforms, architectural patterns, and reference architectures within the architecture community. \n- Apply architecture standards and governance in practice - helping teams adopt patterns, reuse components, and make sound build-vs-buy and technology-selection decisions. \n- Design AI and GenAI solution architectures, including retrieval-augmented generation (RAG), LLM gateway patterns, model selection and evaluation, vector/embedding stores, prompt and context management, and end-to-end observability and cost/token governance. \n- Architect agentic workflows and multi-agent systems - including tool/function calling, Model Context Protocol (MCP) integrations, orchestration, guardrails, human-in-the-loop controls, evaluation harnesses, and tracing. \n- Help define how AI coding assistants and agentic developer tooling (e.g., Claude Code, Cursor, GitHub Copilot, Gemini CLI) are adopted, governed, and integrated into the SDLC to improve developer productivity, quality, and cycle time. \n- Continuously enhance the reliability, performance, scalability, and security of our products and platforms. \n- Produce clear technical documentation, architecture diagrams, and decision records (ADRs) that make designs understandable and actionable for engineering teams and stakeholders. \n- Build proofs of concept and reference implementations to de-risk new technologies and validate architectural approaches before broad adoption. \n- Act as a technical advisor and mentor to engineers and peers on architecture, modern engineering practices, and emerging technology trends. \n- Participate in the evaluation and selection of new software products, platforms, and AI tooling. \n\n**Qualifications**\n- 6+ years of industry-relevant experience, including 4+ years as a solution, technical, or enterprise architect in a complex, ideally global, product or SaaS organization. \n- Demonstrated experience defining, designing, and implementing complex integration and distributed systems, including microservice and event-driven architectures, with an API-first mindset. \n- Proven ability to apply architecture standards and patterns practically to accelerate and enable delivery - balancing strategic intent with pragmatic execution. \n- Hands-on experience designing solutions on a major cloud platform (Google Cloud preferred; AWS or Azure acceptable), along with relevant middleware, messaging (e.g., Kafka/ESB), data, and infrastructure technologies. \n- Familiarity with technologies relevant to our products, including Python, Angular, React, Node.js, PostgreSQL, and Google Cloud. \n- Practical experience architecting AI/GenAI solutions in production or near-production settings - RAG, LLM integration, evaluation, and the operational concerns (cost, latency, observability, safety) that come with them. \n- Working knowledge of agentic AI patterns and frameworks (e.g., agent orchestration, tool use, MCP) and the trade-offs involved in building reliable, observable agentic systems. \n- Hands-on familiarity with AI coding assistants and their role in the modern SDLC, including how to drive adoption, measure impact, and manage associated quality, security, and licensing considerations. \n- Awareness of responsible-AI and data-governance considerations, including handling of sensitive data (e.g., PII), prompt/data leakage risks, and model evaluation. \n- Excellent written and spoken English, with the ability to present ideas and concepts clearly and concisely to both technical and business audiences.\n\n**_*This role is also open to Staff and Principal-level engineers with experience in design systems, cross-model dependencies, and platform solutions. We are particularly interested in candidates who have driven AI adoption in production environments and are ready to step up, take ownership, and grow within our organization._**\n\n**Benefits:** \n- Remote-first environment \n- Flexible working hour, global team\n- Full salary insurance \n- Premium healthcare PVI\n- Unlimited days leave\n- Well-being claim, lunch allowance, team building,..",
+      "excerpt": "**About the role** - The Solutions Architect is a senior, hands-on member of Inspectorio's Architecture team. This is an individual-contributor role focused on designing and delivering practical technical solutions to...",
+      "issueState": "open",
+      "contentHash": "8392c8f9c3656164beb730a27238634433d35be9b0bdf4e8112588b287878a6d",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "react",
+        "node",
+        "python",
+        "senior",
+        "staff",
+        "principal",
+        "data"
+      ],
+      "author": {
+        "id": "viphan28",
+        "name": "viphan28",
+        "handle": "viphan28",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/142965427?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "companyName": "Open salary",
+      "createdAt": "2026-06-11T10:17:46Z",
+      "updatedAt": "2026-06-24T09:58:38Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4943",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1c0afba85af9b58d3bdb9fae",
+      "sourceId": "pydevbr/vagas#45",
+      "title": "[Florianópolis] Fullstack Developer (Python) na @Tributodevido",
+      "description": "### Nossa empresa\n\nSomos uma taxtech que já robotizou mais de R$2 bilhões em créditos tributários. Usamos IA e automação para transformar um processo que o mercado faz em 60 dias em apenas 48 horas. Valorizamos quem entrega o 1% a mais, questiona o que não funciona e entende que disciplina é liberdade. Somos um time de alta performance, unido por amor, honra e propósito. A Tributo está crescendo — e quem está aqui cresce junto.\n\n### Descrição da vaga\n\n**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n### Local\n\nEscritório - Florianópolis (Estreito)\n\n### Requisitos\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n### Benefícios\n\n**INFORMAÇÕES GERAIS DA OPORTUNIDADE**\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\n\n\n### Contratação\n\nPJ\n\n### Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n### Tempo médio de feedbacks\n\n_No response_\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [x] Alocado\n- [ ] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [ ] CLT\n- [ ] Estágio\n- [ ] Freela\n- [x] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [x] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nR$ 5k - R$ 10k",
+      "excerpt": "### Nossa empresa Somos uma taxtech que já robotizou mais de R$2 bilhões em créditos tributários. Usamos IA e automação para transformar um processo que o mercado faz em 60 dias em apenas 48 horas. Valorizamos quem en...",
+      "issueState": "open",
+      "contentHash": "f4e9999a0fe688ad96d3eac47f7e2b410e6041216cb7b0f0a8d751cbc9f036bb",
+      "repository": "pydevbr/vagas",
+      "repositoryUrl": "https://github.com/pydevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "alocado",
+        "pj",
+        "full time",
+        "sênior",
+        "pleno",
+        "💰 5k-10k"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "pydevbr",
+        "name": "pydevbr",
+        "avatarUrl": "https://github.com/pydevbr.png?size=80",
+        "repository": "pydevbr/vagas",
+        "url": "https://github.com/pydevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 5000,
+        "max": 10000,
+        "period": "hour"
+      },
+      "createdAt": "2026-06-09T14:32:47Z",
+      "updatedAt": "2026-06-16T15:43:41Z",
+      "url": "https://github.com/pydevbr/vagas/issues/45",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_aee09e92fadf8366a70512db",
+      "sourceId": "frontendbr/vagas#8479",
+      "title": "[Florianópolis] Fullstack Developer na Tributo Devido",
+      "description": "**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n**Requisitos obrigatórios**\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n## Informações gerais da oportunidade:\n\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\nEstamos localizados no bairro Estreito — Florianópolis.\n\n\n## Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno\n- Sênior",
+      "excerpt": "**DESENVOLVEDOR FULL-STACK** Presencial | Florianópolis Buscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. V...",
+      "issueState": "open",
+      "contentHash": "9d077a8a780f3b575bb94709525aa52ca2ba9196c89a5efad708134a7ed6e344",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "sênior",
+        "pj",
+        "alocado"
+      ],
+      "author": {
+        "id": "mayarahasegawa-td",
+        "name": "mayarahasegawa-td",
+        "handle": "mayarahasegawa-td",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Tributo Devido",
+      "createdAt": "2026-06-09T14:07:02Z",
+      "updatedAt": "2026-06-10T20:56:59Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8479",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ee71ad4e68f00372f334fae1",
+      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#3",
+      "title": "Add Canada-specific data/analytics internship companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker.\n\nI noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Modelling roles in Montréal/Ottawa/Toronto, Seaspan in North Vancouver, Stripe in Toronto, Bombardier in Dorval, Hitachi Rail in Toronto, and ProCogia in Vancouver.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students using this tracker?\n\nSuggested links:\n\n```md\n- [Hanzilla Jobs — Data, analytics, AI/ML student jobs in Canada](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad board for data, analytics, AI/ML, software, finance, engineering, business, sciences, internships/co-ops, new-grad, junior, and entry-level roles.\n- [Hanzilla Jobs — Canadian internships and co-ops](https://jobs.hanzilla.co/internships/) — broader internship/co-op view across fields and Canadian cities.\n```\n\nDisclosure: I help operate Hanzilla Jobs. It is a free board and the about/verification page is here if useful: https://jobs.hanzilla.co/about/\n\nTotally fine if this is outside the repo's resource policy — sharing because it may help Canadian students who find this list but want a Canada-specific daily-updated companion source.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker. I noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Model...",
+      "issueState": "open",
+      "contentHash": "03413c2ee1b041eeedfb2371ef07072efcfcc6c0f78c5425a4ed01fee8ca32fb",
+      "repository": "jobright-ai/2026-Data-Analysis-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-Internship",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
+      },
+      "createdAt": "2026-06-08T21:49:18Z",
+      "updatedAt": "2026-06-08T21:49:18Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/3",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d2c11c8fc2357a8b0eef0f15",
+      "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
+      "title": "Add Canada-specific product/new-grad companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker.\n\nI noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifesciences in Mississauga, Uplifter in Toronto, Evertz in Burlington, and AlphaSense remote Canada product/data roles.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this tracker?\n\nSuggested resource links:\n\n- Product/business/student roles in Canada: https://jobs.hanzilla.co/business/\n- New-grad/junior/entry-level Canadian roles: https://jobs.hanzilla.co/new-grad/\n- About/verification: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m Hanzi, the builder of Hanzilla Jobs. It’s a free, daily-updated Canadian student/recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across business/product, tech, finance, engineering, sciences, and related fields. If external companion links do not fit this repo’s policy, totally fine to close.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker. I noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifescience...",
+      "issueState": "open",
+      "contentHash": "88a93cc3f7673785e659bbfb5654110119a14a332a69f3cc39f849aba03032c2",
+      "repository": "jobright-ai/2026-Product-Management-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad"
+      },
+      "createdAt": "2026-06-08T18:33:33Z",
+      "updatedAt": "2026-06-08T18:33:33Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad/issues/1",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0e98dad659c3df11a1cb1cc8",
+      "sourceId": "nerdzao/vagas#193",
+      "title": "[São Paulo] Pessoa Engenheira de Cloud Sênior (Gestão de APIS) - Viaflow",
+      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado.\n\n\nEstamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de conexão estratégico entre serviços de backend e aplicações consumidoras, garantindo segurança, escalabilidade e performance no ciclo de vida de APIs.\n\n\nSe você tem domínio profundo na plataforma Apigee (Google Cloud), gestão de API Marketplace e arquitetura de microsserviços, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nDesenho e Implementação de APIs: Projetar e configurar proxies de API, políticas de segurança e regras de tráfego utilizando Apigee (Edge ou X).\nGestão de API Marketplace: Gerenciar plataformas de marketplace para facilitar a descoberta, documentação e autoatendimento de desenvolvedores.\nAutomação e CI/CD: Automatizar pipelines de implantação de APIs utilizando ferramentas como Terraform, GitHub Actions ou Jenkins, garantindo agilidade e confiabilidade.\nSegurança e Compliance: Implementar uma postura rigorosa de segurança (proteção contra ameaças, rate limiting) e padrões de criptografia (OAuth2, OIDC, JWT).\nExcelência Operacional: Monitorar performance, latência e taxas de erro, implementando alertas proativos e estratégias avançadas de troubleshooting.\nColaboração Técnica: Trabalhar em conjunto com times de aplicação para definir contratos de API (OpenAPI/Swagger) e práticas de transformação.\nDocumentação Técnica: Desenvolver e manter documentação de alta qualidade, incluindo especificações de API e conteúdos para portais de desenvolvedores.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\n\nExperiência Especializada: em Cloud Engineering, com foco em API Gateway ou plataformas de gestão de APIs.\nEspecialista em Apigee: Conhecimento avançado em configuração de políticas Apigee, Shared Flows e extensões customizadas (Javascript/Java callouts).\nExpertise em Cloud (GCP): Experiência prática comprovada com Google Cloud Platform.\nArquitetura Moderna: Conhecimento em conteinerização (Docker, Kubernetes) e design de microsserviços.\nPadrões de API: Domínio de RESTful API design e OpenAPI Specification (OAS).\nSegurança: Domínio de OAuth 2.0, OpenID Connect e protocolos TLS.\nInfraestrutura como Código (IaC): Proficiência em Terraform, Crossplane ou Pulumi.\nProgramação: Capacidade de escrever scripts de automação em Python, [Node.js](http://node.js/) ou Go.\n🏆 Diferenciais (O que valorizamos)\n\nExperiência em configurar Portais de Desenvolvedor e ecossistemas de API Marketplace.\nSólido conhecimento de redes (DNS, Load Balancing, VPCs e Firewalls).\nCapacidade analítica para diagnosticar problemas em ambientes complexos e multi-tier.\n🤝 Soft Skills\n\nExcelente capacidade de resolução de problemas e diagnóstico técnico.\nHabilidade de comunicação para conectar requisitos técnicos complexos aos objetivos de negócio.\nPerfil analítico e proativo na melhoria de processos de integração.\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nInformações adicionais\nContratação via modelo cooperativa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e DASA\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nFaz sentido para você? Se inscreva através do link: https://viaflow.gupy.io/jobs/11442319?jobBoardSource=gupy_public_page",
+      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de co...",
+      "issueState": "open",
+      "contentHash": "a222a178c6a199bf4350640ba8a635482b267922be3238e1bc4087350444a6ba",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "node",
+        "python",
+        "java",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-06-08T16:58:12Z",
+      "updatedAt": "2026-06-08T16:58:12Z",
+      "url": "https://github.com/nerdzao/vagas/issues/193",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5f066bed10486c20bcb3fc70",
+      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
+      "title": "Add Canada data/new-grad jobs companion resource?",
+      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
+      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
+      "issueState": "open",
+      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
+      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
+      },
+      "createdAt": "2026-06-05T19:14:10Z",
+      "updatedAt": "2026-06-05T19:14:10Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_84cd180e02db9815d917bcc4",
+      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
+      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
+      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
+      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
+      "issueState": "open",
+      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
+      },
+      "createdAt": "2026-06-05T14:28:49Z",
+      "updatedAt": "2026-06-05T14:28:49Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_eca179323abe1309b96e6c74",
+      "sourceId": "remote-es/remotes#192",
+      "title": "Consider including a link to the company website in addition to their jobs page",
+      "description": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "excerpt": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "issueState": "open",
+      "contentHash": "9f264e57917d81d57c461931d8d62d9b64219de514d1659a74aa586a03257e79",
+      "repository": "remote-es/remotes",
+      "repositoryUrl": "https://github.com/remote-es/remotes",
+      "region": "Europe",
+      "country": "Spain",
+      "tags": [],
+      "author": {
+        "id": "alexpdp7",
+        "name": "alexpdp7",
+        "handle": "alexpdp7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
+      },
+      "community": {
+        "id": "remote-es",
+        "name": "remote-es",
+        "avatarUrl": "https://github.com/remote-es.png?size=80",
+        "repository": "remote-es/remotes",
+        "url": "https://github.com/remote-es/remotes"
+      },
+      "createdAt": "2026-06-04T18:38:01Z",
+      "updatedAt": "2026-06-04T18:38:01Z",
+      "url": "https://github.com/remote-es/remotes/issues/192",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_66eaeb59684b31b56e56dc58",
       "sourceId": "jobright-ai/2026-Engineer-Internship#2",
@@ -414,333 +740,6 @@
       "createdAt": "2026-05-30T09:42:36Z",
       "updatedAt": "2026-06-13T11:23:55Z",
       "url": "https://github.com/tramcar/awesome-job-boards/issues/280",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_711783b1e589482d26973823",
-      "sourceId": "HassanChowdhry/Canadian-Tech-Internships-2025#16",
-      "title": "Suggestion: add a current Canadian student jobs companion resource",
-      "description": "Hi! I’m Hanzi, the builder of Hanzilla Jobs.\n\nI noticed this repo is a Canadian tech internship list for students, but it is for the 2025 cycle, so many direct application links are now likely closed. Would you be open to adding a small “current companion resources” note near the top for students who still land here from search?\n\nSuggested one-liner:\n\n```md\n- [Hanzilla Jobs — Canadian internships/co-ops](https://jobs.hanzilla.co/internships/) — free daily-updated Canadian student/recent-grad job board covering internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.\n```\n\nA few verification/context links:\n- About/verification: https://jobs.hanzilla.co/about/\n- New grad/junior roles: https://jobs.hanzilla.co/new-grad/\n- Software engineering category: https://jobs.hanzilla.co/categories/software-engineering/\n\nNo pressure if you want to keep the repo strictly as an archived 2025 table; I’m suggesting it only because students may still find the repo via Google and need a current Canada-specific follow-up resource.",
-      "excerpt": "Hi! I’m Hanzi, the builder of Hanzilla Jobs. I noticed this repo is a Canadian tech internship list for students, but it is for the 2025 cycle, so many direct application links are now likely closed. Would you be open...",
-      "issueState": "open",
-      "contentHash": "6c42ac6d023fad251138cbaef47c8a2d55eac25c6b009f73f5800442e6c09c0d",
-      "repository": "HassanChowdhry/Canadian-Tech-Internships-2025",
-      "repositoryUrl": "https://github.com/HassanChowdhry/Canadian-Tech-Internships-2025",
-      "region": "North America",
-      "country": "Canada",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "HassanChowdhry",
-        "name": "HassanChowdhry",
-        "avatarUrl": "https://github.com/HassanChowdhry.png?size=80",
-        "repository": "HassanChowdhry/Canadian-Tech-Internships-2025",
-        "url": "https://github.com/HassanChowdhry/Canadian-Tech-Internships-2025"
-      },
-      "createdAt": "2026-05-30T02:36:58Z",
-      "updatedAt": "2026-05-30T02:36:58Z",
-      "url": "https://github.com/HassanChowdhry/Canadian-Tech-Internships-2025/issues/16",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2c6305b33aff78c3ef09ce99",
-      "sourceId": "nerdzao/vagas#192",
-      "title": "[São Paulo] QA na Viaflow",
-      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\" para atuar em um cliente global. Você não irá apenas \"testar\" código; você projetará e manterá frameworks de automação sofisticados para validar microsserviços complexos, orientados a eventos, em uma stack moderna de Java 21 e Google Cloud Platform (GCP).\n\nSe você possui experiência sólida em engenharia de qualidade e quer atuar em ambientes de alta escala, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal de trabalho\nHíbrido. 2 dias remoto e 3 dias presencial no escritório em São Paulo-SP, bairro Jardins (região da Av. Paulista)\nRequisitos da vaga\nObrigatórios\nExperiência Sólida: 10+ anos em Engenharia de Qualidade de Software com foco principal em frameworks de automação baseados em Java.\nDomínio de Java: Expertise em Java 21 (Streams, Threads Virtuais) para scripts de alta performance.\nFerramentas de Automação: Proficiência em Selenium e/ou Playwright, JUnit ou TestNG.\nArquitetura Moderna: Conhecimento profundo em microsserviços e sistemas event-driven.\nFrameworks: Experiência com Quarkus ou Spring Boot para aplicações cloud-native.\nInfraestrutura: Conhecimento em CI/CD (Azure DevOps), GCP e gerenciamento de infraestrutura como código.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nDiferenciais\nExperiência com testes de Performance e Carga em microsserviços Java.\nConhecimento em conteinerização (Docker/Kubernetes).\nFamiliaridade com ferramentas nativas de monitoramento e logging do Google Cloud.\n\nSoft Skill\nCapacidade de se adaptar a desafios únicos, entregando soluções de nível \"Enterprise\".\nExcelentes habilidades de comunicação e apresentação para conduzir sessões de desenho técnico e arquitetural.\nPerfil mentor com disposição para treinar e guiar membros de times remotos ou offshore.\n\nForma de contratação\nCooperado\n\nBenefícios da empresa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e Dasa\n\nSobre a empresa\nA VIAFLOW é uma consultoria de tecnologia com foco em acelerar a transformação de negócios na América Latina. A empresa utiliza design, produtos digitais e hiperautomação para entregar soluções completas e personalizadas. Seus valores, resumidos no acrônimo MAP (Mindset de Inovação, Atitude Colaborativa e Pensamento de Dono), guiam a sua atuação. O propósito da VIAFLOW é melhorar os resultados das empresas e, ao mesmo tempo, otimizar o tempo das pessoas.\n\nA ViaFlow tem algumas frentes e dentre elas está a frente de Cosourcing onde se encontram os projetos por alocação que é o caso dessa vaga.\n\nComo se candidatar\nCandidatar através do site:  https://viaflow.gupy.io/jobs/11390220?jobBoardSource=gupy_public_page\nE-mail para contato em caso de não haver resposta: jessica.pinheiro@viaflow.com.br\n\nLabels\nSênior\n\nEspecialista\n\nPresencial\n\nRemoto\n\nSão Paulo",
-      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\" pa...",
-      "issueState": "open",
-      "contentHash": "5c1a82ab91397c588c4e60ae63cc2700cef483321bb92e37a4071431eebfb0b3",
-      "repository": "nerdzao/vagas",
-      "repositoryUrl": "https://github.com/nerdzao/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "java",
-        "principal",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "jesspinheiro93",
-        "name": "jesspinheiro93",
-        "handle": "jesspinheiro93",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
-      },
-      "community": {
-        "id": "nerdzao",
-        "name": "nerdzao",
-        "avatarUrl": "https://github.com/nerdzao.png?size=80",
-        "repository": "nerdzao/vagas",
-        "url": "https://github.com/nerdzao/vagas"
-      },
-      "companyName": "Viaflow",
-      "createdAt": "2026-05-29T18:25:37Z",
-      "updatedAt": "2026-05-29T18:25:37Z",
-      "url": "https://github.com/nerdzao/vagas/issues/192",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ae241d65a08eb0b2c7258d0c",
-      "sourceId": "qa-brasil/vagas#1256",
-      "title": "[São Paulo] QA na Viaflow",
-      "description": "## Descrição da vaga\n\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\" para atuar em um cliente global. Você não irá apenas \"testar\" código; você projetará e manterá frameworks de automação sofisticados para validar microsserviços complexos, orientados a eventos, em uma stack moderna de Java 21 e Google Cloud Platform (GCP).\n\n\nSe você possui experiência sólida em engenharia de qualidade e quer atuar em ambientes de alta escala, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\n## Local de trabalho\n\n- Híbrido. 2 dias remoto e 3 dias presencial no escritório em São Paulo-SP, bairro Jardins (região da Av. Paulista)\n\n## Requisitos da vaga\n\n**Obrigatórios**\nExperiência Sólida: 10+ anos em Engenharia de Qualidade de Software com foco principal em frameworks de automação baseados em Java.\nDomínio de Java: Expertise em Java 21 (Streams, Threads Virtuais) para scripts de alta performance.\nFerramentas de Automação: Proficiência em Selenium e/ou Playwright, JUnit ou TestNG.\nArquitetura Moderna: Conhecimento profundo em microsserviços e sistemas event-driven.\nFrameworks: Experiência com Quarkus ou Spring Boot para aplicações cloud-native.\nInfraestrutura: Conhecimento em CI/CD (Azure DevOps), GCP e gerenciamento de infraestrutura como código.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\n**Diferenciais**\nExperiência com testes de Performance e Carga em microsserviços Java.\nConhecimento em conteinerização (Docker/Kubernetes).\nFamiliaridade com ferramentas nativas de monitoramento e logging do Google Cloud.\n\n**Soft Skill**\nCapacidade de se adaptar a desafios únicos, entregando soluções de nível \"Enterprise\".\nExcelentes habilidades de comunicação e apresentação para conduzir sessões de desenho técnico e arquitetural.\nPerfil mentor com disposição para treinar e guiar membros de times remotos ou offshore.\n\n## Forma de contratação\n\nCooperado\n\n## Benefícios da empresa\n\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e Dasa\n\n## Sobre a empresa\n\nA VIAFLOW é uma consultoria de tecnologia com foco em acelerar a transformação de negócios na América Latina. A empresa utiliza design, produtos digitais e hiperautomação para entregar soluções completas e personalizadas. Seus valores, resumidos no acrônimo MAP (Mindset de Inovação, Atitude Colaborativa e Pensamento de Dono), guiam a sua atuação. O propósito da VIAFLOW é melhorar os resultados das empresas e, ao mesmo tempo, otimizar o tempo das pessoas.\n\nA ViaFlow tem algumas frentes e dentre elas está a frente de Cosourcing onde se encontram os projetos por alocação que é o caso dessa vaga.\n\n## Como se candidatar\n\n- Candidatar através da nossa [Página de Carreiras](https://viaflow.gupy.io/jobs/11390220?jobBoardSource=gupy_public_page)\n\nE-mail para contato em caso de não haver resposta: jessica.pinheiro@viaflow.com.br\n\n## Labels\n\n- Sênior\n- Especialista\n\n- Presencial\n- Remoto\n\n- São Paulo",
-      "excerpt": "## Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\"...",
-      "issueState": "open",
-      "contentHash": "fb92b12412106c3e64d59b53c12ade216544a3499756cf147878c954f9c01032",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "são paulo",
-        "sênior",
-        "presencial",
-        "especialista",
-        "inglês"
-      ],
-      "author": {
-        "id": "jesspinheiro93",
-        "name": "jesspinheiro93",
-        "handle": "jesspinheiro93",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Viaflow",
-      "createdAt": "2026-05-29T18:24:37Z",
-      "updatedAt": "2026-05-29T18:25:11Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1256",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dd917afbcd6258ace2a2497e",
-      "sourceId": "awesome-jobs/vietnam#4937",
-      "title": "[Part-time / Async] Senior Code Reviewer — Supply Chain ERP (React + Python + Postgres) · Hanoi preferred · ~5–8 hrs/week",
-      "description": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand forecasting, multi-currency P&L, FX exposure tracking, working capital, cost-per-batch, customer profitability, segregation of duties, and more.\n\nWe are developing the system in-house using AI-assisted coding and are looking for a **senior developer to serve as our ongoing technical reviewer** — not to write code, but to be our second set of eyes and catch issues before they reach production.\n\n**What you would do:**\n- Review pull requests (PRs) or code drops asynchronously (written feedback, no mandatory calls)\n- Flag security vulnerabilities, authentication gaps, and business logic errors\n- Identify AI-generated code failure patterns: missing edge cases, transaction boundary issues, weak input validation\n- Provide structured written feedback categorised by severity: Security / Correctness / Architecture / Performance\n- Occasional architecture discussion at the start of new modules\n\n**Tech stack:**\n- Frontend: React (or Vue TBD)\n- Backend: Python (FastAPI or Django) + PostgreSQL\n- Domain: ERP / supply chain / manufacturing — complex business logic, financial data, multi-currency\n\n**What we are looking for:**\n- 6+ years of hands-on commercial software development experience, ideally with enterprise or ERP-class systems\n- Comfortable reviewing AI-assisted code — knows what patterns to distrust\n- Strong written communication — can prioritise findings clearly, not just leave inline comments\n- Bonus: prior experience in manufacturing, supply chain, or fintech domains\n- Hanoi-based preferred (for occasional in-person sync if needed); fully remote also considered\n\n**Commitment:** ~5–8 hrs/week, async and flexible schedule. Ongoing retainer engagement. Starting date is from mid-June 2026\n\n**Salary:** **400,000–700,000 VND/hour** depending on experience and domain fit.\n\n**To apply:** Send a brief intro + GitHub profile or relevant past work to: **anhluong@qt-hitech.com**. We will then review them and if short-listed send a 200–300 line code sample. If the depth of feedback is right, we proceed to a retainer.",
-      "excerpt": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand fo...",
-      "issueState": "open",
-      "contentHash": "9b9b24a403c090d80340d9c05948fe504f1d3735472d75aae543cb0af3f69499",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "react",
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "AnhQT-hitech",
-        "name": "AnhQT-hitech",
-        "handle": "AnhQT-hitech",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/288850728?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-05-29T08:24:55Z",
-      "updatedAt": "2026-06-14T10:07:49Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_31d3c208b2b39f35424db09f",
-      "sourceId": "react-brasil/vagas#3011",
-      "title": "Desenvolvedor(a) Mobile iOS/Android (React Native/Expo) no Instituto Conhecimento Liberta",
-      "description": "## Descrição da vaga\n\nO Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, estabilidade e experiência do usuário.\n\nBuscamos perfis com boa autonomia, pensamento analítico e capacidade de construir soluções robustas, atuando de forma integrada com backend, produto e design.\n\n## Responsabilidades\n\n**Desenvolvimento e manutenção**\n\n- Desenvolver e manter aplicativos mobile utilizando React Native e Expo\n- Implementar experiências híbridas com WebView, criando pontes entre camadas nativa e web\n- Garantir compatibilidade e performance em iOS e Android\n- Evoluir a arquitetura dos aplicativos com foco em escalabilidade\n\n**Integrações e funcionalidades**\n\n- Integrar APIs externas e serviços de backend\n- Implementar notificações push e estratégias de engajamento\n- Desenvolver funcionalidades nativas quando necessário (câmera, geolocalização, biometria, armazenamento local)\n\n**Qualidade e publicação**\n\n- Gerenciar builds, testes e processos de publicação nas lojas\n- Monitorar crashes, performance e métricas de uso\n- Atuar em conjunto com backend e produto na definição de soluções técnicas\n\n## Requisitos\n\n**Desenvolvimento mobile**\n\n- Experiência sólida com React Native e Expo\n- Conhecimento do ciclo completo de publicação em App Store e Google Play\n- Experiência com implementação de push notifications\n- Domínio de navegação, gerenciamento de estado e consumo de APIs REST\n\n**Dados e armazenamento**\n\n- Experiência com armazenamento local e bancos de dados embarcados\n- Conhecimento em estratégias de cache e funcionamento offline\n\n**Autenticação e segurança**\n\n- Experiência com OAuth, JWT e login social (Google/Apple)\n- Boas práticas de armazenamento seguro de tokens e credenciais\n\n**Tecnologias base**\n\n- Proficiência em JavaScript e/ou TypeScript moderno\n- Familiaridade com Git e fluxos de CI/CD\n- Conhecimento em deep linking e universal links\n\n## Competências comportamentais\n\n- Autodidatismo e aprendizado contínuo\n- Proatividade na resolução de problemas\n- Boa comunicação com equipes multidisciplinares\n- Organização e autonomia para trabalho remoto\n- Adaptabilidade a novas tecnologias\n- Compromisso com prazos e entregas\n\n## Como se candidatar\n\nAcesse o link da vaga: https://editoraelivrariaconhecimentolibertaltda.pandape.infojobs.com.br/Detail?id=3155110\n\n## Labels\n\n- 🏢 Remoto",
-      "excerpt": "## Descrição da vaga O Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, e...",
-      "issueState": "open",
-      "contentHash": "955ee11ccbb1bcb5273cd87ccdeb2b01b66784d1d40ac93cd6a26753ef49a407",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto"
-      ],
-      "author": {
-        "id": "luismda",
-        "name": "luismda",
-        "handle": "luismda",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88680118?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Instituto Conhecimento Liberta",
-      "createdAt": "2026-05-28T15:21:46Z",
-      "updatedAt": "2026-05-29T18:23:53Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3011",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7ba652a44a8de9edef28588e",
-      "sourceId": "tramcar/awesome-job-boards#278",
-      "title": "Suggestion: add Hanzilla Jobs to Canada job boards",
-      "description": "Hi — thanks for maintaining this list.\n\nCould you consider adding Hanzilla Jobs to the Canada section?\n\nSuggested entry:\n\n```md\n* [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.\n```\n\nWhy I think it fits:\n\n- It is Canada-specific.\n- It is a job board, free to browse.\n- It focuses on university students and recent grads across multiple early-career fields, not only software.\n\nDisclosure: I help build/operate Hanzilla Jobs, so please only include it if it fits your curation standards.",
-      "excerpt": "Hi — thanks for maintaining this list. Could you consider adding Hanzilla Jobs to the Canada section? Suggested entry: ```md * [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-gra...",
-      "issueState": "open",
-      "contentHash": "07f39f6c4e835d45acdc77481e0c72112564db61ec9c73ee9e7d93e506c791e5",
-      "repository": "tramcar/awesome-job-boards",
-      "repositoryUrl": "https://github.com/tramcar/awesome-job-boards",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "tramcar",
-        "name": "tramcar",
-        "avatarUrl": "https://github.com/tramcar.png?size=80",
-        "repository": "tramcar/awesome-job-boards",
-        "url": "https://github.com/tramcar/awesome-job-boards"
-      },
-      "createdAt": "2026-05-28T10:47:17Z",
-      "updatedAt": "2026-05-28T10:47:17Z",
-      "url": "https://github.com/tramcar/awesome-job-boards/issues/278",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6bd2ea87cfb4bbe49569241c",
-      "sourceId": "ambicuity/New-Grad-Jobs#316",
-      "title": "[ROADMAP] Help us expand job data — all suggestions welcome!",
-      "description": "## TL;DR\n\nWe want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are welcome and I will reply to every comment.**\n\n---\n\n## Why this roadmap?\n\nNew-Grad-Jobs is most useful when it captures the widest possible surface of legitimate new-grad opportunities. Today we scrape and curate from a known set of sources, but there's a long tail of companies, regions, and job types we're missing.\n\nThis issue is the central place to brainstorm **how we add more jobs** — sources, regions, scrapers, partnerships, automation, data quality, anything.\n\n## What kind of suggestions are we looking for?\n\nPick whatever resonates — these are just prompts:\n\n### Sources\n- [ ] Specific ATS platforms we don't yet scrape (Workday tenants, Greenhouse boards, Lever, Ashby, SmartRecruiters, iCIMS, Taleo, Eightfold, Phenom, Jobvite, BrassRing, etc.)\n- [ ] Specific companies whose new-grad pipelines we should track\n- [ ] Regional job boards (EU, India, LATAM, MENA, APAC, Canada, UK, etc.)\n- [ ] University career portals worth aggregating\n- [ ] Government / public-sector hiring portals\n- [ ] Startup-focused aggregators (YC, Wellfound, etc.)\n- [ ] Diversity-focused or accessibility-focused boards\n\n### Job categories\n- [ ] Internship pipelines distinct from full-time\n- [ ] PhD / research / quant-specific listings\n- [ ] Hardware, semiconductor, robotics, aerospace\n- [ ] Game industry\n- [ ] Finance / trading / actuarial new-grad tracks\n- [ ] Bio / pharma / healthcare new-grad roles\n- [ ] Trades, ops, supply chain, manufacturing new-grad programs\n\n### Data quality\n- [ ] How should we detect & dedupe reposted listings?\n- [ ] How should we classify \\\"new grad\\\" vs \\\"junior\\\" vs \\\"intern\\\" more accurately?\n- [ ] Should we surface salary data when available? From which sources?\n- [ ] Should we flag visa sponsorship / remote / hybrid more explicitly?\n- [ ] How should we handle stale postings (last-seen vs first-seen)?\n- [ ] What metadata is most useful to filter on?\n\n### Infrastructure & automation\n- [ ] Scraper frameworks or libraries worth adopting\n- [ ] Anti-bot / rate-limit strategies that respect ToS\n- [ ] Workflow scheduling improvements (cron, GitHub Actions, queues)\n- [ ] LLM-assisted parsing for unstructured careers pages\n- [ ] Storage / dedup / canonicalization approaches\n- [ ] Notification channels (RSS, Discord, Slack, email digest)\n\n### Community & contribution\n- [ ] How can we make it easier for contributors to add a new company in one PR?\n- [ ] Should we publish a contribution template specifically for \\\"add a company\\\"?\n- [ ] Would a structured YAML/JSON registry of companies + ATS endpoints help?\n- [ ] Mentorship for first-time contributors who want to add a scraper\n\n## How to suggest\n\nJust comment below. Any format works:\n\n- **A single company:** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"\n- **A source idea:** \\\"There's an ATS called `<X>` used by these companies: …\\\"\n- **A feature idea:** \\\"It would be great if listings showed `<field>`\\\"\n- **A full proposal:** longer-form design ideas, link to a gist or doc\n- **A pain point:** \\\"As a job seeker, I wish this repo did `<X>`\\\"\n\nYou don't need to know how to scrape, write Python, or anything technical. **Ideas count just as much as code.**\n\n## Commitment\n\n- I'll **reply to every comment on this thread.**\n- Concrete, actionable suggestions will be moved into their own tracking issues and linked back here.\n- Larger themes will become milestones on the roadmap.\n- Credit will go to the suggester in the resulting PR / issue / changelog.\n\n## Ground rules\n\n- Be respectful — this is a community space.\n- Don't post anything that violates a source's Terms of Service or robots.txt; we want sustainable, ethical aggregation.\n- Don't post personal data, recruiter contacts, or anything that could harm a company or candidate.\n- Prefer one idea per comment when possible — it makes follow-up easier.\n\n---\n\n**Thanks in advance — every suggestion helps a new grad find their first job.**",
-      "excerpt": "## TL;DR We want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are ...",
-      "issueState": "open",
-      "contentHash": "9dbc30e311e1ce44614e0ce628edb4d89c70df9f08cacdec11198141b4fa7ba7",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "help wanted",
-        "needs-triage",
-        "priority: medium",
-        "enhancement",
-        "roadmap"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
-      "createdAt": "2026-05-26T23:52:14Z",
-      "updatedAt": "2026-07-02T17:33:02Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1f61de8de06b483a9a82d5f4",
-      "sourceId": "nerdzao/vagas#191",
-      "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
-      "description": "Nossa empresa\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\nRequisitos\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\nEvent Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nBenefícios\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\nContratação\nCooperativa\n\nComo se candidatar\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\nNível\nSênior\n\nRegime\nCooperado\n\nAlocação\nHíbrido",
-      "excerpt": "Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado...",
-      "issueState": "open",
-      "contentHash": "2fc01278c009d5c1f04db3ab1217bceecb1f162af09e7cadae08ac22860ffae9",
-      "repository": "nerdzao/vagas",
-      "repositoryUrl": "https://github.com/nerdzao/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "java",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "jesspinheiro93",
-        "name": "jesspinheiro93",
-        "handle": "jesspinheiro93",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
-      },
-      "community": {
-        "id": "nerdzao",
-        "name": "nerdzao",
-        "avatarUrl": "https://github.com/nerdzao.png?size=80",
-        "repository": "nerdzao/vagas",
-        "url": "https://github.com/nerdzao/vagas"
-      },
-      "createdAt": "2026-05-26T18:22:15Z",
-      "updatedAt": "2026-05-26T18:22:15Z",
-      "url": "https://github.com/nerdzao/vagas/issues/191",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9dbea54460036bccbb80c963",
-      "sourceId": "programadores-br/geral#3074",
-      "title": "[São Paulo, Brasil] Designer Gráfico na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/designer-grafico-120813593?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa criativa, proativa e com perfil “hands on” para atuar no desenvolvimento de materiais visuais e apoiar a construção da comunicação da marca. Procuramos alguém que goste de ambientes dinâmicos, tenha olhar estratégico para design e queira crescer junto com um time colaborativo e em constante evolução.\n\n#### Responsabilidades:\n\n*   Desenvolver materiais gráficos para canais digitais e offline;\n    \n*   Criar peças para redes sociais, campanhas, e-mails e apresentações institucionais/comerciais;\n    \n*   Garantir consistência visual da marca em diferentes pontos de contato;\n    \n*   Participar ativamente da construção criativa dos projetos, trazendo ideias e sugestões;\n    \n*   Apoiar na organização e evolução dos materiais e identidade visual.\n    \n\n \n\n#### O que esperamos:\n\n*   Pessoa organizada, proativa e com bom senso de prioridade;\n    \n*   Boa comunicação e facilidade de relacionamento interpessoal;\n    \n*   Perfil colaborativo e adaptável a ambientes dinâmicos;\n    \n*   Capacidade de atuar com autonomia e em parceria com diferentes áreas;\n    \n*   Criatividade aliada à atenção aos detalhes;\n    \n*   Interesse em contribuir com processos e evolução contínua.\n## Coodesh Carreiras: \n <p>Nós somos a Coodesh, uma plataforma que conecta pessoas da área de tecnologia em oportunidades 100% remotas de nossas empresas parceiras.</p>\n<p>Em nossa plataforma você encontra posições de diversos níveis, tecnologias e modelos de contratação, de variadas empresas com diversas culturas e que oferecem diversos desafios, pensando sempre em atender as expectativas e objetivos de nossas pessoas candidatas.</p><a href='https://coodesh.com/companies/coodesh-selected'>Veja mais no site</a>\n\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Experiência com design gráfico para materiais digitais e offline; \n- Domínio do pacote Adobe (Photoshop, Illustrator e InDesign); \n- Experiência na criação de apresentações institucionais e comerciais; \n- Conhecimento em composição visual, tipografia e identidade de marca; \n- Organização para gestão de múltiplas demandas; \n- Conhecimento em Figma.\n## Diferenciais: \n - Conhecimento em motion design e edição de vídeo; \n- Vivência com Design Systems; \n- Experiência em ambientes e equipes em crescimento; \n- Conhecimento em branding e comunicação digital.\n## Benefícios: \n - Day off de aniversário; \n- Telemedicina; \n- Convênio médico e odontológico; \n- Seguro de vida; \n- Descontos em farmácias; \n- Benefícios educacionais e parcerias; \n- Acesso a programas de bem-estar e qualidade de vida.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Designer Gráfico na Coodesh Carreiras](https://coodesh.com/jobs/designer-grafico-120813593?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nGestão",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "07eadcd5bf02b07b4e8d4c82bcfa25c0e13d2a0cf8ac9e85ebb385d800c8bf16",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-26T12:37:31Z",
-      "updatedAt": "2026-05-26T12:37:31Z",
-      "url": "https://github.com/programadores-br/geral/issues/3074",
       "sourceType": "github-issue"
     }
   ]

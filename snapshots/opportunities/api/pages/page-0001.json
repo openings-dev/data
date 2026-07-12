@@ -1,31 +1,635 @@
 {
-  "generatedAt": "2026-07-12T13:01:35.729Z",
+  "generatedAt": "2026-07-12T18:54:45.321Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_b3efd79673d6278d2b7657e8",
+    "gh_c865b994f75388a544ac06ca",
+    "gh_32915f2f01cb0611e1b21676",
+    "gh_7a3e8a6bf3e9aceb6e4d3c30",
+    "gh_4ba3953d3bc59aa851882f78",
+    "gh_e9db94dc7cb63051f437453c",
+    "gh_fdca83cb0404a0baab1c3fa4",
+    "gh_a971b0331e754ca00213a4e6",
+    "gh_e323bf398e40b8ae1f8c59bc",
+    "gh_3654de83a6c515622db3390a",
+    "gh_1292085e1f30328fbde530aa",
+    "gh_78924ef7e94cb5cf11d73072",
+    "gh_5a6eba40f109f0aad542ddaf",
+    "gh_07379c05b491ed87c4a10fd3",
     "gh_f70bca3063fbfbf2f82a823e",
     "gh_094d438d4112cfc66e7c43d3",
     "gh_2d8aa4402dd1dbaa2cdb4420",
     "gh_8893caf0dcd6d3c7237916c8",
     "gh_8269c7605108986c1d55bed9",
-    "gh_7b0790eab0e7e8741e23914a",
-    "gh_f9b05570441c5238a96e1a2d",
-    "gh_deacd027702e1cb8c6ccb289",
-    "gh_5467ab05eff3efac04d00a4e",
-    "gh_757b06e0737260aa61d5b085",
-    "gh_d0cb412687230cff9d910921",
-    "gh_6d5689f4221f6a75feb8805d",
-    "gh_1de6eab80d6ee81a8870fb0a",
-    "gh_306fa7b0edc9ddfd58e12a06",
-    "gh_cc32a84f2d03e5e0e0ecb208",
-    "gh_4b594a7d7eb5f1c1e0fa9560",
-    "gh_e31c6baba0c061eec88a0c36",
-    "gh_20fca550faa5d34e3c08e740",
-    "gh_4a45fc3615c9cbad915d9562",
-    "gh_2ec496c1f74f2f9f69e4701e"
+    "gh_7b0790eab0e7e8741e23914a"
   ],
   "items": [
+    {
+      "id": "gh_b3efd79673d6278d2b7657e8",
+      "sourceId": "frontend-pt/vagas#101",
+      "title": "[Remoto] Angular Frontend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Angular Frontend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Frontend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "89a7719fd07e386acaf815f366f4d3e6024d9a70a7594d82a5d803a2a8ddee48",
+      "repository": "frontend-pt/vagas",
+      "repositoryUrl": "https://github.com/frontend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontend-pt",
+        "name": "frontend-pt",
+        "avatarUrl": "https://github.com/frontend-pt.png?size=80",
+        "repository": "frontend-pt/vagas",
+        "url": "https://github.com/frontend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:29:40Z",
+      "updatedAt": "2026-07-12T17:29:55Z",
+      "url": "https://github.com/frontend-pt/vagas/issues/101",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_c865b994f75388a544ac06ca",
+      "sourceId": "backend-pt/vagas#136",
+      "title": "[Remoto] C#/.NET Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de C#/.NET Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "8895774fecc2366e2e163861982a26021d75f5fa2846f234c455016387550a27",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:28:40Z",
+      "updatedAt": "2026-07-12T17:28:58Z",
+      "url": "https://github.com/backend-pt/vagas/issues/136",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_32915f2f01cb0611e1b21676",
+      "sourceId": "dotnetdevbr/vagas#1058",
+      "title": "[Remoto] Fullstack .NET + Angular Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack .NET + Angular Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Fullstack .NET + Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-net-angular-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "5b488d28b8cfb07c5ea840090772e78621dbf78c7e876d0825c67599a842823c",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:27:39Z",
+      "updatedAt": "2026-07-12T17:27:54Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1058",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7a3e8a6bf3e9aceb6e4d3c30",
+      "sourceId": "dotnetdevbr/vagas#1057",
+      "title": "[Remoto] Back-End Developer .NET Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "74b242d6ab2ca86ecdf7fd733d6e021186b49134f7afed6f0f09c43ba7dd3438",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:26:38Z",
+      "updatedAt": "2026-07-12T17:26:56Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1057",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4ba3953d3bc59aa851882f78",
+      "sourceId": "soujava/vagas-java#1902",
+      "title": "[Remoto] Desenvolvedor(a) Java/Kafka Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "20f48e0363f24cf14a2adbf64399eee20111ebfc601f8309a9ff7a8aae7d2020",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:25:36Z",
+      "updatedAt": "2026-07-12T17:25:50Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1902",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e9db94dc7cb63051f437453c",
+      "sourceId": "soujava/vagas-java#1901",
+      "title": "[Remoto] Desenvolvedor(a) Java/Jakarta EE Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Jakarta EE nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Jakarta EE compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "15578731f414513eaa1fa074e46be36d184961e07fa2f9c25bd8443000738682",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:24:35Z",
+      "updatedAt": "2026-07-12T17:24:57Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1901",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_fdca83cb0404a0baab1c3fa4",
+      "sourceId": "frontendbr/vagas#8522",
+      "title": "[Híbrido] Angular Front-End Developer Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Pleno",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "43fae9f08c48adfce4a0ee4f4a9d0a985e8b512e02da08745f38587d82bd6d78",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "clt",
+        "pj",
+        "remoto",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:23:30Z",
+      "updatedAt": "2026-07-12T17:23:57Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8522",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_a971b0331e754ca00213a4e6",
+      "sourceId": "frontendbr/vagas#8521",
+      "title": "[Remoto] Angular Front-End Developer Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Pleno",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "e7f192962eb9774cb427a593193d0993fc1a05a7d059b878375062f00796e03b",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "clt",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:22:30Z",
+      "updatedAt": "2026-07-12T17:22:59Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8521",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e323bf398e40b8ae1f8c59bc",
+      "sourceId": "frontendbr/vagas#8520",
+      "title": "[Híbrido] Angular Front-End Developer Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "891222bae44f8ac5111129ed84ebc325c86c9614deb730dd63b57ca42b43e439",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:21:20Z",
+      "updatedAt": "2026-07-12T17:21:42Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8520",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3654de83a6c515622db3390a",
+      "sourceId": "backend-br/vagas#12330",
+      "title": "[Remoto] Desenvolvedor(a) PHP/Symfony Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) PHP/Symfony Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com PHP/Symfony compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-php-symfony-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "7236102fb0b37ae3095bce54f7ff3234c7173807018f17b2838ae513a560a5eb",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "php",
+        "remoto",
+        "symfony"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:20:20Z",
+      "updatedAt": "2026-07-12T17:20:35Z",
+      "url": "https://github.com/backend-br/vagas/issues/12330",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1292085e1f30328fbde530aa",
+      "sourceId": "backend-br/vagas#12329",
+      "title": "[Remoto] Desenvolvedor(a) .NET/ASP.NET Core Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) .NET/ASP.NET Core Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com .NET/ASP.NET Core compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-net-asp-net-core-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1a312199e51ca6ab8a920dbeb9fc649dfbd25d0646ddf7190b84fa99bd76f0ba",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        ".net",
+        "remoto",
+        "asp"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:19:16Z",
+      "updatedAt": "2026-07-12T17:19:37Z",
+      "url": "https://github.com/backend-br/vagas/issues/12329",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_78924ef7e94cb5cf11d73072",
+      "sourceId": "backend-br/vagas#12328",
+      "title": "[Remoto] Desenvolvedor(a) Java/Quarkus Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Quarkus Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Quarkus compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-quarkus-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "142c731b746ff81a8c53a526512c82952d31c21cbf997ca811e598987fa8be54",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "java",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:11:57Z",
+      "updatedAt": "2026-07-12T17:12:10Z",
+      "url": "https://github.com/backend-br/vagas/issues/12328",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5a6eba40f109f0aad542ddaf",
+      "sourceId": "backend-br/vagas#12327",
+      "title": "[Remoto] Desenvolvedor(a) Java/Kafka Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "28a7c800be36d7dda7862c000dc4fa16767e2ecb9052149c709d11be06018e02",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "java",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:10:57Z",
+      "updatedAt": "2026-07-12T17:11:11Z",
+      "url": "https://github.com/backend-br/vagas/issues/12327",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_07379c05b491ed87c4a10fd3",
+      "sourceId": "backend-br/vagas#12326",
+      "title": "[Remoto] Desenvolvedor(a) Java/Jakarta EE Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Jakarta EE Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Jakarta EE compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "7957d4c51fa84f88fae3e598d6adb8b6018898a6532018a26423ed479c76346f",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "java",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:09:56Z",
+      "updatedAt": "2026-07-12T17:10:11Z",
+      "url": "https://github.com/backend-br/vagas/issues/12326",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_f70bca3063fbfbf2f82a823e",
       "sourceId": "awesome-jobs/vietnam#4964",
@@ -252,494 +856,6 @@
       "createdAt": "2026-07-10T20:45:44Z",
       "updatedAt": "2026-07-10T20:45:44Z",
       "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/121",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f9b05570441c5238a96e1a2d",
-      "sourceId": "qa-brasil/vagas#1265",
-      "title": "[REMOTO] QA Lead na Botcity",
-      "description": "## Descrição da vaga\n\n\nRole Overview\n\nThe QA Lead will be responsible for scaling the entire quality assurance function, blending strategic people leadership with a hands-on technical approach to drive excellence across every product delivery. You will be responsible for expanding automated test coverage, reducing the lead time between development completion and validated delivery, and defining the QA processes that keep our team both rigorous and agile. This role is built for someone obsessed with quality and product excellence, who brings strong organizational discipline, a comprehensive automation mindset, and the ability to lead a team while staying deeply connected to the technical work, measuring what matters through clear KPIs and continuously raising the bar for how great software ships. This role will report to the VP of Engineering.\n\n \nResponsibilities\n\nLead, mentor, and coach the QA team, conducting regular 1:1s and career development planning.\nManage the distribution of QA engineers across squads, implementing a rotation strategy.\nDesign and implement a robust automation roadmap, prioritizing regression testing to maximize platform stability.\nBuild and maintain automated flows that simulate real user behavior across web and desktop environments (using Python or Java).\nContinuously increase automated test coverage to proactively identify edge cases and prevent production incidents.\nOptimize the \"development-to-delivery\" window by refining validation processes without compromising quality standards.\nAct as a focal point for incident management, triaging bugs alongside developers and ensuring swift resolution and root-cause analysis.\nCollaborate closely with engineering team to ensure the QA process is mature, solid, and aligned with agile delivery cycles.\nDefine and monitor key performance indicators (KPIs) through Jira, such as response times, validation cycles, and defect leakage.\nEvangelize QA best practices within the engineering team to ensure quality is a shared responsibility.\nProvide regular reports to senior management regarding the health of the area, automation progress, and product stability.\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\nRequired Qualifications \n\nBachelor's degree in Information Technology, Computer Science or related field.\nPrior hands-on experience with software testing automation ( 5+ years).\nProven experience in leading and scaling QA teams.\nExperience in at least one programming/scripting language (Python or Java).\nExperience testing both Web and Desktop applications.\nCommunicates with clarity and collaborative humility.\nDrives action with bold decisiveness and consistently insisting on high standards to deliver with speed and confidence.\nFamiliarity with Behavior-driven development (BDD).\nFamiliarity with test automation tools such as Postman, Selenium, Playwright, Behave.\nExperience with development of Automated Pipelines (preferably with GitHub Actions).\nExperience with Atlassian Jira.\nExperience working with MS Office/Excel, Google Suite, Notion.\nPortuguese - Fluent.\nEnglish - Advanced.\nAbility to travel as needed to support events and meet the team.\n\nPreferred Qualifications\n\nFamiliarity with Agile/Scrum methodologies.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\nExperience with version control systems (e.g., Git).\n\n\n## Forma de contratação\n\nPJ\n\n\n## Sobre a empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n\n## Como se candidatar\n\nEnviar candidatura pela nossa página de carreiras: https://jobs.quickin.io/botcity/jobs/6a1dee39952eb0001301e941?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: recruiting@botcity.dev\n\n## Labels\n- PJ\n- Especialista\n- Remoto",
-      "excerpt": "## Descrição da vaga Role Overview The QA Lead will be responsible for scaling the entire quality assurance function, blending strategic people leadership with a hands-on technical approach to drive excellence across ...",
-      "issueState": "open",
-      "contentHash": "d1a90f08b965103a625acb2176c4549cd953691a98cbf19e6eeb830b3ce82014",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "especialista",
-        "inglês"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Botcity",
-      "createdAt": "2026-07-10T20:42:41Z",
-      "updatedAt": "2026-07-10T20:43:04Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1265",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_deacd027702e1cb8c6ccb289",
-      "sourceId": "react-brasil/vagas#3019",
-      "title": "[Remoto] Frontend Engineer @Botcity",
-      "description": "Company Overview\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n \nRole Overview\n\nThis Frontend Engineer will be responsible for driving the development of intuitive, high-performance user interfaces that simplify how developers manage increasingly complex frontend applications. By consistently deploying user-friendly features and maintaining a high-quality codebase, this role ensures the delivery of performant products that directly enhance user satisfaction and align with our long-term strategic growth. We are looking for a resilient and autonomous professional with a proven track record in product-focused companies, specifically one who has experience working on core product features and thrives in highly collaborative environments alongside UX and Engineering teams. This role will report to the CTO.\n\n \nResponsibilities\n\nDevelop, deploy, and maintain scalable, responsive web applications using modern front-end technologies (focus on desktop with some mobile, which could evolve with time).\nCollaborate with product managers and UX/UI designers to understand requirements, ensure its technical feasibility, and translate them into technical, user-friendly solutions.\nMaintain and improve the company’s front-end codebase by refactoring legacy code and implementing best practices ensuring performance across multiple devices and browsers.\nParticipate in code reviews, ensuring best practices in front-end development.\nIdentify and troubleshoot front-end issues to ensure a seamless user experience.\nWrite reusable code and libraries for future use, optimizing components for maximum speed.\n \n\nRequirements\nRequired Qualifications\n\nBachelor's degree in Computer Science, Computer Engineering, or related technical discipline.\nProven professional experience (3+ years) in front-end development, preferably in product-focused companies and working in complex projects alongside Product/UX/UI teams.\nProficiency in HTML, CSS, JavaScript and TypeScript, with expertise on React\nFamiliarity with RESTful APIs and working alongside back-end development teams.\nExperience working with authentication and authorization mechanisms using OAuth, JWT, or SAML.\nExperience with testing frameworks (e.g., Jest, Cypress) for front-end applications.\nExperience with version control and project management systems, particularly Git and GitHub.\nAbility to work independently as well as part of a team, with strong problem-solving skills and attention to detail.\nExperience working with modern async communication and documentation tools (e.g., Slack, Notion)\nAbility to travel as needed to meet the team.\nEnglish - Advanced (Reading, Comprehension, and Writing).\nPortuguese - Fluent\n \nPreferred Qualifications\n\nRelevant hands-on experience with desktop-first products in a tech-intensive industry, such as dashboards featuring complex data visualizations and interactive charts\nExperience with Vite, Webpack, Babel, and other build tools for optimizing front-end workflows.\nExperience in building responsive layouts and ensuring cross-browser compatibility.\nExperience with SSR-capable frameworks (eg., Next.js, Remix\nExperience with secure data storage and handling sensitive information (e.g., encryption, tokenization).\nExperience implementing secure front-end authentication/session patterns to protect user data, including proper input sanitization, secure JWT/cookie handling, safe browser storage choices and alignment with OWASP guidance.\nPrior experience in an early-stage, high-growth and fast-paced startup (or similar) environment.\n\nApply to https://jobs.quickin.io/botcity/jobs/69fa295871686e001273d170?src=Github",
-      "excerpt": "Company Overview BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
-      "issueState": "open",
-      "contentHash": "b8b1b7b208826f6ea5b9e65e5e798125fa28d77699eac47167f06fbd80785509",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "frontend",
-        "react",
-        "typescript",
-        "python",
-        "java",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-07-10T20:36:53Z",
-      "updatedAt": "2026-07-10T20:37:07Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3019",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5467ab05eff3efac04d00a4e",
-      "sourceId": "pydevbr/vagas#46",
-      "title": "[Remoto] Python Developer - RPA @ Botcity",
-      "description": "### Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n### Descrição da vaga\n\nRole Overview\n\nThe Python Developer will be responsible for design, develop, and deliver automation projects that ensure performance, scalability, and customer impact for BotCity’s clients. This role is critical to maintaining high-quality code, smooth delivery, and strong customer experience across Professional Services engagements. The ideal professional is a passionate Python developer who builds clean, reliable automation solutions, communicates effectively while prioritizing the customer experience, and thrives as a collaborative, adaptable team player in a fast-changing environment.  This role reports to the Delivery Manager.\n\n \nResponsibilities\n\nGather and analyze client requirements, propose automation solutions, and design workflows aligned with business goals.\nDevelop, test, and deploy Python automations using BotCity’s platform and best practices.\nWrite clean, maintainable, and reusable code, following team standards, reviews, and version control processes (Git).\nMonitor, debug, and optimize automations to ensure reliability and performance in production.\nDocument processes, code, and architecture clearly for both technical and non-technical audiences.\nProvide technical support and training during project handover or customer onboarding.\nCollaborate closely with project managers, QA, and clients to ensure successful and timely project delivery.\nIdentify and implement improvements in development practices, tooling, and project workflows.\n\n\n\n### Local\n\nRemoto\n\n### Requisitos\n\nRequirements\nBachelor’s degree or equivalent experience in Computer Science, Information Systems, or related field.\nProfessional experience (2+ years) in Python development.\nRelevant hands-on experience with automation or RPA projects.\nProven experience with Git version control system and GitHub Flow.\nSolid understanding of APIs, data manipulation, error handling, and debugging.\nStrong problem-solving skills and ability to adapt quickly to new business contexts.\nExcellent communication and presentation skills with clients and internal stakeholders.\nExperience working with MS Office/Excel, Google Suite, Notion, Slack.\nAbility to travel as needed to support events and meet the team.\nPortuguese - Fluent.\nEnglish - Advanced.\n\nPreferred Qualifications\n\nExperience in professional services, IT consulting, or technical implementation.\nFamiliarity with BotCity tools.\nExperience with Agile methodologies.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n### Benefícios\n\nCartão flexível\nAuxilio Saúde\nAuxilio Idiomas\nSeguro de Vida\nWellhub\nConexa\nPolítica de Time off\n\n### Contratação\n\nPJ\n\n### Como se candidatar\n\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/6a19d88cd26f2200134fa876?src=Github\n\n### Tempo médio de feedbacks\n\nCostumamos enviar feedback até 15 dias depois da candidatura\n\n### Keywords\n\nRPA\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [x] PJ\n- [ ] CLT\n- [ ] Estágio\n- [ ] Cooperado\n- [ ] Freela\n\n### Nível\n\n- [ ] Júnior\n- [x] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observab...",
-      "issueState": "open",
-      "contentHash": "b3c0c72ef0c95a64a008887c10f11039ea0cd15801a2bc7a694f134ad531267f",
-      "repository": "pydevbr/vagas",
-      "repositoryUrl": "https://github.com/pydevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "freela",
-        "part time",
-        "pj",
-        "remoto",
-        "full time",
-        "clt",
-        "especialista"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "pydevbr",
-        "name": "pydevbr",
-        "avatarUrl": "https://github.com/pydevbr.png?size=80",
-        "repository": "pydevbr/vagas",
-        "url": "https://github.com/pydevbr/vagas"
-      },
-      "createdAt": "2026-07-10T20:31:33Z",
-      "updatedAt": "2026-07-10T20:33:42Z",
-      "url": "https://github.com/pydevbr/vagas/issues/46",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_757b06e0737260aa61d5b085",
-      "sourceId": "soujava/vagas-java#1900",
-      "title": "[Remoto] Senior Backend Java  na Botcity",
-      "description": "## Descrição da vaga\nCompany Overview\n\nAt BotCity, we’ve built a pioneering Intelligent Automation platform, backed by global investors such as Y Combinator and SoftBank. Our mission is to empower enterprises worldwide to scale their automation initiatives with best-in-class governance, orchestration, and developer tools. We believe that automation projects are fundamentally software projects, which is why we advocate a high-code approach rooted in Python. Our commitment to innovation has enabled us to serve over 1,000 companies in 73 countries, and we continue to expand through strategic partnerships around the globe.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast. \n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\nRole Overview\n\nThe Senior Java Backend Engineer is responsible for architecting and developing complex Java backend applications with a strong focus on scalability, performance, and reliability. Leveraging your deep expertise in the Spring Framework, you will design and implement robust, secure microservices that drive automation at the core of some of the world’s largest and most security-conscious enterprises.\n\nResponsibilities\n\nArchitect, develop, deploy, and maintain scalable backend applications using Java/Spring Framework.\nEnsure high performance and availability of applications within a microservices architecture.\nCollaborate with product managers to understand requirements, ensure their technical feasibility, and translate them into reliable and scalable solutions.\nParticipate in software engineering rituals to develop models for complex application\nDefine private and public APIs for a world-class product.\nParticipate in code reviews, ensuring best practices in backend development.\nWrite high-quality technical documentation to clearly communicate backend architecture and API design, ensuring ease of understanding and effective collaboration across teams.\nRequirements\nRequired Qualifications\n\nBachelor's degree in Computer Science, Computer Engineering, or related technical discipline.\nProven professional experience (8+ years) in backend development using Java.\nProficiency in Spring Framework.\nStrong experience in code reviews and managing CI/CD pipelines.\nExperience implementing authentication and authorization mechanisms using OAuth, JWT, or SAML.\nExperience with version control and project management systems, particularly Git and GitHub.\nExperience with SQL and No-SQL databases.\nAbility to work independently as well as part of a team, with strong problem-solving skills and attention to detail.\nPrior experience in an early-stage, high-growth and fast-paced startup (or similar) environment.\nAbility to travel as needed to meet the team.\nPortuguese - Fluent\nPreferred Qualifications\n\nExperience in deploying containerized applications using Docker, Kubernetes, or similar technologies.\nExperience with Keycloak.\nFamiliarity with AWS services such as EC2, ECR, ECS, EKS, and ELB.\nEnglish - Fluent\n\n## Local\n\nRemoto\n\n## Benefícios\n\nCaju\nTime off\nAuxilio Saúde\nAuxilio Idiomas\nSeguro de Vida\n\n## Diferenciais\n\nOportunidades de crescer\n\n## Requisitos\n\n#### Obrigatórios:\nBachelor's degree in Computer Science, Computer Engineering, or related technical discipline.\nProven professional experience (8+ years) in backend development using Java.\nProficiency in Spring Framework.\nStrong experience in code reviews and managing CI/CD pipelines.\nExperience implementing authentication and authorization mechanisms using OAuth, JWT, or SAML.\nExperience with version control and project management systems, particularly Git and GitHub.\nExperience with SQL and No-SQL databases.\nAbility to work independently as well as part of a team, with strong problem-solving skills and attention to detail.\nPrior experience in an early-stage, high-growth and fast-paced startup (or similar) environment.\nAbility to travel as needed to meet the team.\nPortuguese - Fluent\n\n#### Desejáveis:\nExperience in deploying containerized applications using Docker, Kubernetes, or similar technologies.\nExperience with Keycloak.\nFamiliarity with AWS services such as EC2, ECR, ECS, EKS, and ELB.\nEnglish - Fluent\n\n## Contratação\n\n- PJ \n\n## Nossa empresa\n\nAt BotCity, we’ve built a pioneering Intelligent Automation platform, backed by global investors such as Y Combinator and SoftBank. Our mission is to empower enterprises worldwide to scale their automation initiatives with best-in-class governance, orchestration, and developer tools. We believe that automation projects are fundamentally software projects, which is why we advocate a high-code approach rooted in Python. Our commitment to innovation has enabled us to serve over 1,000 companies in 73 countries, and we continue to expand through strategic partnerships around the globe.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast. \n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n## Como se candidatar\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/69e231d35d429a00132eb3e4?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\nE-mail para contato em caso de não haver resposta: recruiting@botcity.dev\n\n## Labels\n- Remoto\n- PJ\n- Sênior\n- Especialista",
-      "excerpt": "## Descrição da vaga Company Overview At BotCity, we’ve built a pioneering Intelligent Automation platform, backed by global investors such as Y Combinator and SoftBank. Our mission is to empower enterprises worldwide...",
-      "issueState": "open",
-      "contentHash": "797770b4152e60d3b71229eda2772c65732acab657f6fddc45b4b7b4cda3c73d",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "pj",
-        "remoto",
-        "backend",
-        "spring",
-        "docker",
-        "startup",
-        "git"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "companyName": "Botcity",
-      "createdAt": "2026-07-10T20:25:09Z",
-      "updatedAt": "2026-07-10T20:26:28Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1900",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d0cb412687230cff9d910921",
-      "sourceId": "vanshb03/Summer2026-Internships#4543",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake&utm_source=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake\n\n### Company Name\n\nBeltways\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nHebron, KY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handsha...",
-      "issueState": "open",
-      "contentHash": "167c427fa017566c614d49b96504ab96992baf19b78d86d8ebd99860441d1dd3",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:52Z",
-      "updatedAt": "2026-07-10T10:53:52Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4543",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6d5689f4221f6a75feb8805d",
-      "sourceId": "vanshb03/Summer2027-Internships#4543",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake&utm_source=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake\n\n### Company Name\n\nBeltways\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nHebron, KY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handsha...",
-      "issueState": "open",
-      "contentHash": "167c427fa017566c614d49b96504ab96992baf19b78d86d8ebd99860441d1dd3",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:52Z",
-      "updatedAt": "2026-07-10T10:53:52Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4543",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1de6eab80d6ee81a8870fb0a",
-      "sourceId": "vanshb03/Summer2026-Internships#4542",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US\n\n### Company Name\n\nPalantir \n\n### Internship Title\n\nForward Deployed Software Engineer, Internship - Commercial\n\n### Location\n\nNew York, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US ### Company Name Palantir ### Internship Title ...",
-      "issueState": "open",
-      "contentHash": "26358b61ac40ab416d0331e6ecac60bc0986cb5f5845be3d2c6518aff5903609",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:30Z",
-      "updatedAt": "2026-07-10T10:53:30Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4542",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_306fa7b0edc9ddfd58e12a06",
-      "sourceId": "vanshb03/Summer2027-Internships#4542",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US\n\n### Company Name\n\nPalantir \n\n### Internship Title\n\nForward Deployed Software Engineer, Internship - Commercial\n\n### Location\n\nNew York, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US ### Company Name Palantir ### Internship Title ...",
-      "issueState": "open",
-      "contentHash": "26358b61ac40ab416d0331e6ecac60bc0986cb5f5845be3d2c6518aff5903609",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:30Z",
-      "updatedAt": "2026-07-10T10:53:30Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4542",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cc32a84f2d03e5e0e0ecb208",
-      "sourceId": "vanshb03/Summer2026-Internships#4541",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://app.joinhandshake.com/public/jobs/11168427\n\n### Company Name\n\nCoursicle \n\n### Internship Title\n\nSoftware Engineer Internship\n\n### Location\n\nNYC\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://app.joinhandshake.com/public/jobs/11168427 ### Company Name Coursicle ### Internship Title Software Engineer Internship ### Location NYC ### What season is this internship for? S...",
-      "issueState": "open",
-      "contentHash": "06d7b9d7d205ff0a8ea46bc81f09f02094487c91f6ae708be3127fd604b437b0",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-10T10:52:14Z",
-      "updatedAt": "2026-07-10T10:52:14Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4541",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4b594a7d7eb5f1c1e0fa9560",
-      "sourceId": "vanshb03/Summer2027-Internships#4541",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://app.joinhandshake.com/public/jobs/11168427\n\n### Company Name\n\nCoursicle \n\n### Internship Title\n\nSoftware Engineer Internship\n\n### Location\n\nNYC\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://app.joinhandshake.com/public/jobs/11168427 ### Company Name Coursicle ### Internship Title Software Engineer Internship ### Location NYC ### What season is this internship for? S...",
-      "issueState": "open",
-      "contentHash": "06d7b9d7d205ff0a8ea46bc81f09f02094487c91f6ae708be3127fd604b437b0",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-10T10:52:14Z",
-      "updatedAt": "2026-07-10T10:52:14Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4541",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e31c6baba0c061eec88a0c36",
-      "sourceId": "vanshb03/Summer2026-Internships#4540",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275\n\n### Company Name\n\nNorthrop Grumman\n\n### Internship Title\n\n2027 Intern Software Engineer\n\n### Location\n\nMelbourne, FL\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275 ### Company Name Northrop Grumman ###...",
-      "issueState": "open",
-      "contentHash": "ee880db490685adb92949fc3a4cf33bdc827c86df3aa6bb30b83085c25c8acf7",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-10T10:50:41Z",
-      "updatedAt": "2026-07-10T10:50:41Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4540",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_20fca550faa5d34e3c08e740",
-      "sourceId": "vanshb03/Summer2027-Internships#4540",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275\n\n### Company Name\n\nNorthrop Grumman\n\n### Internship Title\n\n2027 Intern Software Engineer\n\n### Location\n\nMelbourne, FL\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275 ### Company Name Northrop Grumman ###...",
-      "issueState": "open",
-      "contentHash": "ee880db490685adb92949fc3a4cf33bdc827c86df3aa6bb30b83085c25c8acf7",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-10T10:50:41Z",
-      "updatedAt": "2026-07-10T10:50:41Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4540",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4a45fc3615c9cbad915d9562",
-      "sourceId": "vanshb03/Summer2026-Internships#4539",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25771&siteid=5477&PageType=JobDetails&jobid=301154#jobDetails=301154_5477\n\n### Company Name\n\nBAE Systems\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nNew Hampshire\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25771&siteid=5477&PageType=JobDetails&jobid=301154#jobDetails=301154_5477 ### Company Name BAE Systems ### Inter...",
-      "issueState": "open",
-      "contentHash": "679525bde2b0ec9096d718cd31e7be2ece3235814b910eb4e8cdec3a8dd055ae",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-10T10:50:24Z",
-      "updatedAt": "2026-07-10T10:50:24Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4539",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2ec496c1f74f2f9f69e4701e",
-      "sourceId": "vanshb03/Summer2027-Internships#4539",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25771&siteid=5477&PageType=JobDetails&jobid=301154#jobDetails=301154_5477\n\n### Company Name\n\nBAE Systems\n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nNew Hampshire\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25771&siteid=5477&PageType=JobDetails&jobid=301154#jobDetails=301154_5477 ### Company Name BAE Systems ### Inter...",
-      "issueState": "open",
-      "contentHash": "679525bde2b0ec9096d718cd31e7be2ece3235814b910eb4e8cdec3a8dd055ae",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-10T10:50:24Z",
-      "updatedAt": "2026-07-10T10:50:24Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4539",
       "sourceType": "github-issue"
     }
   ]
