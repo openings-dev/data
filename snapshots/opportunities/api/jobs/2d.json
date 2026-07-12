@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-07-10T02:09:07.797Z",
+  "generatedAt": "2026-07-12T13:01:35.729Z",
   "items": {
+    "gh_2d8aa4402dd1dbaa2cdb4420": {
+      "id": "gh_2d8aa4402dd1dbaa2cdb4420",
+      "sourceId": "awesome-jobs/vietnam#4962",
+      "title": "VinMotion - Machine Learning Scientist (VLA) - Senior/Expert - Onsite/Hanoi - FTE",
+      "description": "**About the job\nOverview**\n\nWe're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments.\n\nAs a Senior / Staff Machine Learning Engineer, Vision-Language-Action (VLA), you will help build the intelligence stack that connects vision, language, and action. You'll design, train, and deploy multimodal robot policies that allow humanoid robots to understand natural-language commands, interpret complex scenes, and take reliable actions in industrial and logistics settings.\n\nThis is a hands-on role at the intersection of multimodal model development, robot learning, teleoperation data, simulation, and real-world deployment. A core challenge of the role is learning robust robot behavior from limited real-world teleoperation data, while using simulation and synthetic data to improve generalization and close the sim-to-real gap.\n\nYou'll work closely with Teleoperation, Simulation, RL & Controls, and Platform teams to turn embodied AI research into robot capabilities that run on physical hardware.\n\n**Key Responsibilities**\n\n- Design, train, and improve vision-language-action (VLA) models for humanoid robots using visual observations, language instructions, and robot state\n- Build and fine-tune multimodal robot policies using RGB (and optionally depth), language, proprioception, and task history\n- Improve policy robustness, instruction following, manipulation reliability, and generalization to new tasks and environments\n- Work with the Teleoperation team to improve data quality, dataset curation, logging standards, and episode QA\n- Develop training strategies for limited-data settings, including augmentation, pretraining, imitation learning, and offline RL where appropriate\n- Use simulation and synthetic data to improve robustness and sim-to-real transfer\n- Define evaluation metrics for task success, robustness, and safety, and use ablations / failure analysis to guide model improvements\n- Collaborate with Platform and Controls teams to integrate policies into the on-robot inference stack under latency and memory constraints\n\nFor Senior-level hires: independently own a workstream from experimentation through deployment iteration\n\nFor Staff-level hires: help shape technical direction across policy learning, data strategy, evaluation, and sim-to-real roadmap\n\n**Required Qualifications:\n\nCore skill**\n\n- Strong background in deep learning for vision, multimodal learning, sequence modeling, or robot learning\n- Hands-on experience training models in PyTorch\n- Strong Python engineering skills, including training pipelines, experiment management, debugging, and reproducibility\n\n**Experience in at least one of the following:**\n\n+ Vision-language / multimodal model training\n+ Imitation learning / behavior cloning / offline reinforcement learning\n+ Robot learning from demonstration, teleoperation, or real-world interaction data\n\n**General**\n\n- Ability to work effectively across ML, robotics, controls, hardware, and platform teams\n- Experience owning technical problems end-to-end, from experimentation through evaluation and iteration\n- BS / MS / PhD in Computer Science, Robotics, Electrical Engineering, or a related field — or equivalent industry experience\n\n**Preferred Qualifications**\n\n- Experience training policies for real robots, especially manipulation or articulated systems\n- Experience working with teleoperation or demonstration data\n- Experience with simulation / synthetic-data pipelines for robotics\n- Familiarity with modern VLA and robot-policy approaches such as VLM-backbone policies (Pi0-, GR00T-, or OpenVLA-class), diffusion policy / flow-matching action heads, or ACT-style action chunking\n- Experience deploying models under production constraints such as latency, memory, mixed precision, or on-device / on-robot inference\n- Prior experience in humanoid robotics, embodied AI, robot manipulation, or applied multimodal systems\n- Tech stack includes: PyTorch, ROS 2, Isaac Sim / Isaac Lab, MuJoCo, GPU training infrastructure, and on-robot inference optimization.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**About the job Overview** We're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments. As a Senior / Staff Machine Learning Engineer, Vis...",
+      "issueState": "open",
+      "contentHash": "84d6d6d0947fb1333ac7f4dc8ffb34abe78aedcb0ed1cdbb61d6e6ab34737896",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "python",
+        "senior",
+        "staff",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:01:09Z",
+      "updatedAt": "2026-07-12T11:01:09Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4962",
+      "sourceType": "github-issue"
+    },
     "gh_2d895bac96564681581385bb": {
       "id": "gh_2d895bac96564681581385bb",
       "sourceId": "dotnetdevbr/vagas#1049",
@@ -35,46 +73,6 @@
       "createdAt": "2026-05-22T17:22:34Z",
       "updatedAt": "2026-05-26T15:02:36Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1049",
-      "sourceType": "github-issue"
-    },
-    "gh_2dc776324a953905af46d2bf": {
-      "id": "gh_2dc776324a953905af46d2bf",
-      "sourceId": "awesome-jobs/vietnam#4775",
-      "title": "[CoderPush - Fullstack JS Developer_ AI Native - Remote - FT]",
-      "description": "**Location**\nRemote-first (HN & HCM office optional)\n\n**Salary Expectation**\nCompetitive (up to 70M Gross/month depending on experience)\n\n**Requirements**\n\n- 5+ years Fullstack (VueJS/React + NodeJS/TypeScript)\n- Strong in software architecture (SOLID, Clean/Hexagonal)\n- Database: MongoDB/Supabase, REST/RPC\n- Experience with AI ecosystems (LangChain, LlamaIndex, RAG, prompt engineering)\n- Cloud & DevOps: AWS/GCP, Kubernetes, serverless/PaaS solutions\n- Good English communication (all rounds in English)\n\n**Must Have**\n\n- Solid coding fundamentals & clean architecture mindset\n- Experience deploying scalable AI-integrated apps\n- Ownership of code quality & system stability (high test coverage, CI/CD best practices)\n- Collaborative & open to feedback\n\n**Ideally**\n\n- Knowledge of MLOps, AI model lifecycle, Groq hardware curiosity\n- Experience with Supabase, ACID compliance & idempotency\n\n- Responsibilities Building scalable, AI-native fullstack solutions\n- Driving architecture decisions & system design\n- Leveraging AI tools effectively for productivity\n- Collaborating across product, UX, data science & engineering\n\n**You can bring**\n\n- Strong problem-solving & analytical mindset\n- Passion for AI + software excellence\n- Positive, collaborative attitude\n\n**Why it would be awesome to work with us** \n\n- Remote-first environment 🌏\n- Full insurance per VN Labor Laws\n- Annual & performance-based bonus\n- Equipment support + training/certification budget\n- 22 paid leaves from 5th year (1 month off encouraged)\n- Monthly coaching & career development\n- Competitive salary & benefits package\n- Innovative & collaborative team culture\n\n**Interesting Engineering Projects**\n\n- AI-powered back-office automation for SMEs\n- Zero-downtime deployment with CI/CD best practices\n- Scalable microservices architecture with AI integration\n- High-standard testing pipelines for production stability\n\n**Contact:**\nZalo: 0934440301 (Ms. Tram)",
-      "excerpt": "**Location** Remote-first (HN & HCM office optional) **Salary Expectation** Competitive (up to 70M Gross/month depending on experience) **Requirements** - 5+ years Fullstack (VueJS/React + NodeJS/TypeScript) - Strong ...",
-      "issueState": "open",
-      "contentHash": "d4953d1d7724872b0033bb3b32c76ea9d9b70f962ec2515d96c05db13ad31254",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "fullstack",
-        "react",
-        "typescript",
-        "node",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "trmm0501",
-        "name": "trmm0501",
-        "handle": "trmm0501",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/134702559?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-09-08T03:53:26Z",
-      "updatedAt": "2026-06-02T08:22:47Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4775",
       "sourceType": "github-issue"
     },
     "gh_2dd307ccb8f3ad7b24c5d38b": {

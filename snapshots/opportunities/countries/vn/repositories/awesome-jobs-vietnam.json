@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:04:26.289Z",
+  "generatedAt": "2026-07-12T13:01:35.729Z",
   "country": "Vietnam",
   "countryCode": "VN",
   "region": "Asia",
@@ -9,8 +9,158 @@
     "openIssues": 28,
     "closedIssues": 2
   },
-  "dataHash": "a4faa557f7b52000fb4d8d193e78cdd6a07460bc4a6622591f1df94c8beba881",
+  "dataHash": "e2deedd0a9175107fd5249126b48a2a04311548937d0737d1513597dfbbe3bd4",
   "items": [
+    {
+      "id": "gh_f70bca3063fbfbf2f82a823e",
+      "sourceId": "awesome-jobs/vietnam#4964",
+      "title": "VinMotion - Robotics System Engineer - Junior/Senior/Expert - Onsite/Hanoi - FTE",
+      "description": "**Department: Application Deployment\nLocation: Gia Lam, Ha Noi\nReports to: Head of System integration.**\n\n**Job Summary:**\n\nAs a Software Engineer, you will be responsible for designing, developing, and implementing solutions for SLAM programs, localization, and navigation for robots …. \n\n**Responsibilities:\nSenior:** \n- Define the overall architecture of robotic systems, including hardware, software, and communication frameworks.\n- Ensure modularity and scalability in design for future upgrades and integrations\n- Select appropriate computing platforms, middleware (e.g., ROS2), and networking solutions.\n- Design and optimize advanced SLAM architectures (e.g., graph-based SLAM, deep learning-based SLAM).\n- Lead the integration of multiple SLAM approaches (e.g., visual SLAM + LiDAR SLAM).\n- Develop high-performance, scalable, and modular robotics software solutions.\n- Architect real-time sensor fusion frameworks to enhance localization accuracy.\n- Improve parallel computing and GPU acceleration for SLAM-related tasks.\n- Mentor and guide junior engineers, conduct code reviews and technical training.\n- Contribute to research and development by evaluating state-of-the-art SLAM techniques.\n- Optimize robotics software for real-world deployment in harsh environments.\n- Collaborate with cross-functional teams to define long-term SLAM strategies.\n- Document code and write technical reports on development progress.\n\n**Requirements:\nCommon:**\n\n- Education: Bachelor's or higher in Robotics, Computer Science, Electrical/Mechanical Engineering, or a related field.\n- SLAM Knowledge: Understanding of SLAM techniques (e.g., Visual SLAM, LiDAR SLAM, Graph-Based SLAM).\n- Programming: Strong proficiency in Python (and optionally C++ for performance-critical tasks).\n- Linux Development: Experience with Ubuntu, Bash scripting, system administration, and debugging tools.\n- Robotics Frameworks: Experience with ROS2 (Robot Operating System), Gazebo, OpenCV, PCL.\n- Algorithms & Mathematics: Understanding of linear algebra, optimization, and probability theory related to SLAM.\n- Version Control: Familiarity with Git, GitHub/GitLab, and CI/CD workflows\n- Testing: Writing unit tests and integration tests for robotic applications.\n\n**Senior:**\n\n- Advanced SLAM Expertise: Deep knowledge of SLAM backends, graph optimization, sensor fusion \n- Linux System Optimization: Experience with real-time Linux kernels, networking, and system performance tuning.\n- High-Performance Computing: Knowledge of multithreading, GPU acceleration (CUDA, OpenCL)\n- C++ Expertise: Strong proficiency in C++ (memory management, performance optimization, templates).\n- Machine Learning in SLAM: Experience with deep learning-based SLAM (e.g., DeepVO, DROID-SLAM, SuperGlue, reinforcement learning)\n- Project Leadership: Ability to architect, plan, and execute complex robotics projects.\n- Mentorship & Code Review: Experience mentoring junior engineers and conducting rigorous code reviews.\n- Industry Experience: Familiarity with real-world robot deployments in industrial, automotive, or research settings.\n- Experience: 5+ years of experience in robotics software engineering, SLAM, or autonomous systems.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**Department: Application Deployment Location: Gia Lam, Ha Noi Reports to: Head of System integration.** **Job Summary:** As a Software Engineer, you will be responsible for designing, developing, and implementing sol...",
+      "issueState": "open",
+      "contentHash": "34350ea961546dcadf13cf00c4e1e2cabfab6e3e6543222fd4a218dcddba1409",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "backend",
+        "python",
+        "senior",
+        "junior",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:20:25Z",
+      "updatedAt": "2026-07-12T11:20:25Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4964",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_094d438d4112cfc66e7c43d3",
+      "sourceId": "awesome-jobs/vietnam#4963",
+      "title": "VinMotion - Full Stack Engineer, Robotics Simulation - Onsite/Hanoi - FTE",
+      "description": "**Position Overview**\n\nWe are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development.\n\n**Key Responsibilities**\n\n- Design, develop, and maintain fullstack applications supporting humanoid robot development.\n- Build web-based platforms for robot simulation, monitoring, visualization, and experiment management.\n- Develop backend services and APIs for robotics workflows and simulation pipelines.\n- Integrate with robotics simulation environments such as: Isaac Sim, MuJoCo\n- Optimize software performance, scalability, and reliability for large-scale simulation workloads.\n- Collaborate with AI and Robotics teams to translate research requirements into production-ready software solutions.\n- Build tools for simulation data management, experiment tracking, and analytics.\n- Improve system architecture and software engineering best practices across the robotics platform ecosystem.\n\n**Requirements**\n\n- Bachelor's degree in Computer Science, Software Engineering, Robotics, or a related field.\n- Core Languages: Proficiency in C++ AND Python, Java (Hybrid architecture experience is highly preferred).\n- Networking & Protocols: Strong experience in Socket Programming, specifically with UDP network bridges and WebSockets for real-time data streaming.\n- Web 3D Graphics: Strong experience with React.js and modern state management libraries (e.g., Zustand, Redux, or Recoil) optimized for handling high-frequency, real-time data streaming; and WebGL, Three.js, or Python-based 3D visualization tools (e.g., Viser). Familiarity with Server-Side Rendering (SSR) and/or Client-side Rendering (CSR) and optimizing server-client channels for 3D scenes.\n- Robotics (Plus): Experience with MuJoCo (MJCF/XML syntax), and optionally ROS 2.\n- Data & Config: Familiarity with parsing runtime configurations (YAML) and handling high-density event logging formats (JSONL).\n\n**Contact**:\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**Position Overview** We are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development. **K...",
+      "issueState": "open",
+      "contentHash": "f86b83cfcc31d7235804c1b29c4d2661645ac98af466bc54065ded27d7a5fff1",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "hybrid",
+        "onsite",
+        "backend",
+        "fullstack",
+        "react",
+        "python",
+        "java",
+        "data"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:08:42Z",
+      "updatedAt": "2026-07-12T11:08:42Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4963",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2d8aa4402dd1dbaa2cdb4420",
+      "sourceId": "awesome-jobs/vietnam#4962",
+      "title": "VinMotion - Machine Learning Scientist (VLA) - Senior/Expert - Onsite/Hanoi - FTE",
+      "description": "**About the job\nOverview**\n\nWe're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments.\n\nAs a Senior / Staff Machine Learning Engineer, Vision-Language-Action (VLA), you will help build the intelligence stack that connects vision, language, and action. You'll design, train, and deploy multimodal robot policies that allow humanoid robots to understand natural-language commands, interpret complex scenes, and take reliable actions in industrial and logistics settings.\n\nThis is a hands-on role at the intersection of multimodal model development, robot learning, teleoperation data, simulation, and real-world deployment. A core challenge of the role is learning robust robot behavior from limited real-world teleoperation data, while using simulation and synthetic data to improve generalization and close the sim-to-real gap.\n\nYou'll work closely with Teleoperation, Simulation, RL & Controls, and Platform teams to turn embodied AI research into robot capabilities that run on physical hardware.\n\n**Key Responsibilities**\n\n- Design, train, and improve vision-language-action (VLA) models for humanoid robots using visual observations, language instructions, and robot state\n- Build and fine-tune multimodal robot policies using RGB (and optionally depth), language, proprioception, and task history\n- Improve policy robustness, instruction following, manipulation reliability, and generalization to new tasks and environments\n- Work with the Teleoperation team to improve data quality, dataset curation, logging standards, and episode QA\n- Develop training strategies for limited-data settings, including augmentation, pretraining, imitation learning, and offline RL where appropriate\n- Use simulation and synthetic data to improve robustness and sim-to-real transfer\n- Define evaluation metrics for task success, robustness, and safety, and use ablations / failure analysis to guide model improvements\n- Collaborate with Platform and Controls teams to integrate policies into the on-robot inference stack under latency and memory constraints\n\nFor Senior-level hires: independently own a workstream from experimentation through deployment iteration\n\nFor Staff-level hires: help shape technical direction across policy learning, data strategy, evaluation, and sim-to-real roadmap\n\n**Required Qualifications:\n\nCore skill**\n\n- Strong background in deep learning for vision, multimodal learning, sequence modeling, or robot learning\n- Hands-on experience training models in PyTorch\n- Strong Python engineering skills, including training pipelines, experiment management, debugging, and reproducibility\n\n**Experience in at least one of the following:**\n\n+ Vision-language / multimodal model training\n+ Imitation learning / behavior cloning / offline reinforcement learning\n+ Robot learning from demonstration, teleoperation, or real-world interaction data\n\n**General**\n\n- Ability to work effectively across ML, robotics, controls, hardware, and platform teams\n- Experience owning technical problems end-to-end, from experimentation through evaluation and iteration\n- BS / MS / PhD in Computer Science, Robotics, Electrical Engineering, or a related field — or equivalent industry experience\n\n**Preferred Qualifications**\n\n- Experience training policies for real robots, especially manipulation or articulated systems\n- Experience working with teleoperation or demonstration data\n- Experience with simulation / synthetic-data pipelines for robotics\n- Familiarity with modern VLA and robot-policy approaches such as VLM-backbone policies (Pi0-, GR00T-, or OpenVLA-class), diffusion policy / flow-matching action heads, or ACT-style action chunking\n- Experience deploying models under production constraints such as latency, memory, mixed precision, or on-device / on-robot inference\n- Prior experience in humanoid robotics, embodied AI, robot manipulation, or applied multimodal systems\n- Tech stack includes: PyTorch, ROS 2, Isaac Sim / Isaac Lab, MuJoCo, GPU training infrastructure, and on-robot inference optimization.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**About the job Overview** We're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments. As a Senior / Staff Machine Learning Engineer, Vis...",
+      "issueState": "open",
+      "contentHash": "84d6d6d0947fb1333ac7f4dc8ffb34abe78aedcb0ed1cdbb61d6e6ab34737896",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "python",
+        "senior",
+        "staff",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:01:09Z",
+      "updatedAt": "2026-07-12T11:01:09Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4962",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8893caf0dcd6d3c7237916c8",
+      "sourceId": "awesome-jobs/vietnam#4961",
+      "title": "VinMotion - Software Automation Test - Onsite/Hanoi - FT",
+      "description": "**Job Description**\n\n**Functional Testing**\n\n- Develop and implement test plans to ensure the functionality, performance, and quality of robotic products.\n- Analyze product requirements and technical specifications to design comprehensive test cases and testing scenarios.\n- Execute testing activities, evaluate results, and prepare test reports.\n- Identify, document, and track defects; collaborate with relevant stakeholders to analyze root causes and drive corrective actions.\n- Validate system functionality and performance against defined requirements and quality standards.\n\n**Test Automation**\n\n- Develop and maintain automated testing tools and frameworks to improve testing efficiency and coverage.\n- Support continuous improvement initiatives for test processes and quality assurance methodologies.\n\n**Cross-functional Collaboration**\n\n- Work closely with product team to ensure product quality throughout the development lifecycle.\n- Coordinate with internal departments, external partners, and stakeholders to resolve quality-related issues.\n- Provide quality feedback and recommendations to support product enhancements.\n\n**Other Responsibilities**\n\nPerform additional tasks and assignments as directed by the line manager.\n\n**Your Skills and Experience\n\nEducation**\n\n- Bachelor's degree or higher in Electrical Engineering, Electronics Engineering, Automation, Mechatronics, Computer Science, Embedded Systems, Robotics, or related fields\n\n**Experience**\n\n- Minimum 3 years of experience in software, robotics, electronics, or automation testing\n- Experience in developing test plans and test cases based on product requirements and technical specifications\n- hands-on experience in functional testing, product validation, and quality assurance processes\n- Familiarity with quality management and defect tracking tools such as Jira, Confluence, or equivalent platforms\n- Experience in developing automation testing solutions is a strong advantage\n\n**Why You'll Love Working Here\n\nWhy Join Us?**\n\n- Be part of a groundbreaking team shaping the future of robotics and AI\n- Work in a dynamic, fast-paced environment with opportunities for growth\n- Competitive compensation and benefits package\n\nContact:\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**Job Description** **Functional Testing** - Develop and implement test plans to ensure the functionality, performance, and quality of robotic products. - Analyze product requirements and technical specifications to d...",
+      "issueState": "open",
+      "contentHash": "14a4f201d88a9c0a97c85bd8a0d9530e3b9f8b64938e9b905792a8e7128d83db",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T10:57:25Z",
+      "updatedAt": "2026-07-12T10:57:25Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4961",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8269c7605108986c1d55bed9",
       "sourceId": "awesome-jobs/vietnam#4960",
@@ -802,86 +952,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_8e1d434e716c161b78d2141c",
-      "sourceId": "awesome-jobs/vietnam#4776",
-      "title": "[Stonehenge Group - Senior Fullstack Software Engineer (AI) - Remote - FT]",
-      "description": "## Location\n\n* Remote (Bangkok HQ, looking for Vietnam-based candidates)\n\n## Salary Expectation\n\n* \\$1500–\\$2000/month (negotiable) + annual bonus\n\n## Requirements\n\n* 7+ years shipping production code in TypeScript, React.js, Nest.js\n* Strong CS fundamentals (data structures, algorithms, Big O notation)\n* Familiarity with LLM orchestration (LangGraph/Chain) and AI-assisted IDEs\n* Excellent English communication skills\n\n## Must Have\n\n* Fullstack experience (React/Next.js + Node/Nest.js)\n* Strong deployment skills (CI/CD, rollback, monitoring)\n* Ability to build production services rapidly (days, not weeks)\n\n## Ideally\n\n* Data-intensive project experience with Python\n* Machine Learning (NLP, classification, supervised learning)\n* Previous startup experience delivering at pace\n* Experience as team lead\n\n## Responsibilities\n\n* Architect, develop, and maintain scalable AI-driven software\n* Own the full delivery pipeline: code, CI/CD, monitoring, rollback\n* Collaborate with CTO on roadmap, SLIs/SLAs, and impact measurement\n* Streamline UI/UX handoff into engineering\n* Write high-quality documentation and annotations\n\n## You’ll be responsible for\n\n* Delivering real-time AI-powered insights platform\n* Designing and maintaining core backend/frontend systems\n* Ensuring reliability and scalability across services\n\n## You can bring\n\n* Strong problem-solving and analytical mindset\n* Passion for AI-native product development\n* Collaborative and proactive working style\n\n## Why it would be awesome to work with us\n\n* Flexible remote-first work environment\n* Competitive salary + annual bonus\n* Opportunity to work directly with CTO in a lean, fast-moving startup\n* Exposure to cutting-edge AI tools and workflows\n* Collaborative, innovative culture\n\n## Interesting Engineering Projects\n\n* AI-powered social media filtering & insight delivery\n* Zero-downtime deployment with modern CI/CD practices\n* Building scalable graph- and message-queue-driven architectures\n* Integrating LLM orchestration into production-grade systems\n\n## Contact\n\nHomepage: [stonehengelabs.io](https://stonehengelabs.io/)\nEmail: [n@theafenterprise.com](mailto:n@theafenterprise.com)\n(currently haven't set up email on stonehengelabs, so please email here)",
-      "excerpt": "## Location * Remote (Bangkok HQ, looking for Vietnam-based candidates) ## Salary Expectation * \\$1500–\\$2000/month (negotiable) + annual bonus ## Requirements * 7+ years shipping production code in TypeScript, React....",
-      "issueState": "open",
-      "contentHash": "7ab8ceffc1f36bafb4f3c1040140c68057fd599e04ddb6cf3aa69f394120f0ae",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "backend",
-        "fullstack",
-        "react",
-        "typescript",
-        "node",
-        "python"
-      ],
-      "author": {
-        "id": "nnnnnaf",
-        "name": "nnnnnaf",
-        "handle": "nnnnnaf",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/176359324?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-09-11T13:15:27Z",
-      "updatedAt": "2026-06-02T08:22:46Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4776",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2dc776324a953905af46d2bf",
-      "sourceId": "awesome-jobs/vietnam#4775",
-      "title": "[CoderPush - Fullstack JS Developer_ AI Native - Remote - FT]",
-      "description": "**Location**\nRemote-first (HN & HCM office optional)\n\n**Salary Expectation**\nCompetitive (up to 70M Gross/month depending on experience)\n\n**Requirements**\n\n- 5+ years Fullstack (VueJS/React + NodeJS/TypeScript)\n- Strong in software architecture (SOLID, Clean/Hexagonal)\n- Database: MongoDB/Supabase, REST/RPC\n- Experience with AI ecosystems (LangChain, LlamaIndex, RAG, prompt engineering)\n- Cloud & DevOps: AWS/GCP, Kubernetes, serverless/PaaS solutions\n- Good English communication (all rounds in English)\n\n**Must Have**\n\n- Solid coding fundamentals & clean architecture mindset\n- Experience deploying scalable AI-integrated apps\n- Ownership of code quality & system stability (high test coverage, CI/CD best practices)\n- Collaborative & open to feedback\n\n**Ideally**\n\n- Knowledge of MLOps, AI model lifecycle, Groq hardware curiosity\n- Experience with Supabase, ACID compliance & idempotency\n\n- Responsibilities Building scalable, AI-native fullstack solutions\n- Driving architecture decisions & system design\n- Leveraging AI tools effectively for productivity\n- Collaborating across product, UX, data science & engineering\n\n**You can bring**\n\n- Strong problem-solving & analytical mindset\n- Passion for AI + software excellence\n- Positive, collaborative attitude\n\n**Why it would be awesome to work with us** \n\n- Remote-first environment 🌏\n- Full insurance per VN Labor Laws\n- Annual & performance-based bonus\n- Equipment support + training/certification budget\n- 22 paid leaves from 5th year (1 month off encouraged)\n- Monthly coaching & career development\n- Competitive salary & benefits package\n- Innovative & collaborative team culture\n\n**Interesting Engineering Projects**\n\n- AI-powered back-office automation for SMEs\n- Zero-downtime deployment with CI/CD best practices\n- Scalable microservices architecture with AI integration\n- High-standard testing pipelines for production stability\n\n**Contact:**\nZalo: 0934440301 (Ms. Tram)",
-      "excerpt": "**Location** Remote-first (HN & HCM office optional) **Salary Expectation** Competitive (up to 70M Gross/month depending on experience) **Requirements** - 5+ years Fullstack (VueJS/React + NodeJS/TypeScript) - Strong ...",
-      "issueState": "open",
-      "contentHash": "d4953d1d7724872b0033bb3b32c76ea9d9b70f962ec2515d96c05db13ad31254",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "fullstack",
-        "react",
-        "typescript",
-        "node",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "trmm0501",
-        "name": "trmm0501",
-        "handle": "trmm0501",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/134702559?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-09-08T03:53:26Z",
-      "updatedAt": "2026-06-02T08:22:47Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4775",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_95f94f06664f43b285a25b6f",
       "sourceId": "awesome-jobs/vietnam#4766",
       "title": "[Hybrid AND Remote] - Principal/Senior Back-end Engineer - 120M Gross (Full time)",
@@ -1074,85 +1144,6 @@
       "createdAt": "2025-07-25T11:14:00Z",
       "updatedAt": "2026-06-02T08:22:53Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4750",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9c5bd6b162406e4aaf41ea5c",
-      "sourceId": "awesome-jobs/vietnam#4676",
-      "title": "[Remote Fulltime] Frontend Software Engineer - $3000 Gross - Basic English communication",
-      "description": "**You’ll:**\n• Developing web applications with ReactJS.\n• Joining in project that uses PowerBI for data processing\n• Participate in the documentation process, requirements analysis, design, \ndeploying, code reviewing, unit testing, and operating the product.\n• Discuss, propose solutions for the team, and manage the progress of members.\nLead the team to accomplish the company’s goal and mission.\n• Training, supporting, and motivating team members.\n• Problems solving (technical and human).\n\n**What You Bring**\n**Must-haves:**\n• From 3+ years of experience as a Web Developer, using modern frameworks \n(Angular, React, Vue)\n• Experienced in PowerBI\n• Solid understanding and experience in React Typescript\n• Experience with APS is a plus\n• In-depth knowledge of JavaScript, CSS, HTML, and front-end languages\n• Ability to read and refactor existing code\n• Experience with user interface design\n• Knowledge of performance testing frameworks\n• Experience with browser-based debugging and performance-testing software\n• Excellent troubleshooting skills\n• Management experience needed\n• Experienced in frontend design\n• In-depth knowledge of the structure system\n**Nice-to-haves:**\nKnowledge of Revit and Forge is a plus\n• Experienced in Three.js\n• Experienced in using Cloud (Amazon...)\n• How to proceed with work: Ask questions immediately if you don't understand \nsomething about the specifications. Actively read the existing code and ask \nmoderate questions to ensure complete understanding.\n\n**What We Offer**\n• 100% social insurance submitted based on full salary\n• Bonus twice a year\n• 13.5 months' salary per year\n• Excellent working environment. Flexible working time that supports work-life \nbalance (Core time: 9:00 -15:00; 5 days/week from Monday - Friday).\n• Just focus on work output, no micromanagement, and no staff control\n• Participate in insurance and annual health check-up program\n• Large, modern office with open workspace\n----------------------\nPlease send your CV via: Quynh.Thuy.Tran@navigossearch.com\nOr contact zalo: 0868272947",
-      "excerpt": "**You’ll:** • Developing web applications with ReactJS. • Joining in project that uses PowerBI for data processing • Participate in the documentation process, requirements analysis, design, deploying, code reviewing, ...",
-      "issueState": "open",
-      "contentHash": "a8da43cd0d8aced02a21171b839639eac339295967225b1182d7b65057b37c85",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "react",
-        "typescript",
-        "java",
-        "staff",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Queenietrann",
-        "name": "Queenietrann",
-        "handle": "Queenietrann",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112934563?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-04-16T08:48:11Z",
-      "updatedAt": "2026-06-02T08:22:44Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4676",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_89cbc01cbf4e1339dd9bb4db",
-      "sourceId": "awesome-jobs/vietnam#4663",
-      "title": "[REMOTE] - Full Stack Engineer (TypeScript) | Up to $3,700 | English required | FT",
-      "description": "# Full Stack Developer (ReactJS + NestJS)\n**English required** \n\n## **About us**\nAt FintechHQ, we're passionate about transforming the way technology solutions are delivered. We're a dynamic team of engineers, designers, and business analysts who blend technical expertise with commercial strategy and implementation experience to create innovative solutions.\nWe are seeking a talented Senior Full Stack Engineer to join our team.\n\n## **Responsibilities**\n- Perform continuous health checks on our system and data, ensuring smooth and efficient operations.  \n- Actively respond to customer feedback, making necessary adjustments to enhance the user experience.  \n- Implement and scale new features to meet increasing client demand and improve system functionality.  \n- Generate innovative ideas for product improvement, continuously enhancing value for real estate professionals.  \n- Adapt to various tasks based on the organization’s current needs.  \n- Collaborate closely with other engineers and team members, reporting directly to the Manager to foster a supportive working environment.  \n\n## **Requirements**\n- Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience).  \n- Familiarity with backend systems and experience with TypeScript applications is essential.  \n- Proficiency in **ReactJS** and **NestJS**.  \n- A positive attitude and excellent interpersonal skills are crucial for effective collaboration within a remote team.  \n- Strong desire to learn new things and adapt to changing circumstances and requirements.  \n- Knowledge of **real estate data** (e.g., address information) is a strong plus.  \n- Excellent **English communication skills** (both written and verbal) are crucial for effective collaboration within a remote team.  \n\n## **Contact Us**  \n📩 **Email:** [annie@fintechhq.solutions](mailto:annie@fintechhq.solutions)",
-      "excerpt": "# Full Stack Developer (ReactJS + NestJS) **English required** ## **About us** At FintechHQ, we're passionate about transforming the way technology solutions are delivered. We're a dynamic team of engineers, designers...",
-      "issueState": "open",
-      "contentHash": "c4adab3c73541239cfef6df6edf74543c065150c78e26c54a5a3260847831303",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "backend",
-        "react",
-        "typescript",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "thangpq264",
-        "name": "thangpq264",
-        "handle": "thangpq264",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1788207?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-03-31T10:16:44Z",
-      "updatedAt": "2026-06-02T08:22:45Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4663",
       "sourceType": "github-issue"
     }
   ]
