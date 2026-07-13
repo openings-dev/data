@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-13T06:00:47.399Z",
+  "generatedAt": "2026-07-13T09:35:47.098Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 8,
+    "opportunities": 7,
     "openIssues": 2,
-    "closedIssues": 6
+    "closedIssues": 5
   },
-  "dataHash": "c300cd0c5a43325f36a7f37db211f05ca669e022c0948bd08f5bffd20d08b332",
+  "dataHash": "073e976d683171bd622a890da8b0114e87a490663f1b9e34de03369e2866d121",
   "items": [
     {
       "id": "gh_18dbb0e0245b7131ca809a62",
@@ -256,42 +256,6 @@
       "createdAt": "2026-05-26T22:47:22Z",
       "updatedAt": "2026-05-26T22:51:41Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/311",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cb8519b006acc63d85db9bca",
-      "sourceId": "ambicuity/New-Grad-Jobs#307",
-      "title": "[Feature]: clicking a company in HIRING NOW should filter the job list to that company",
-      "description": "### Bug Type / UX\nFrontend interaction\n\n### Description\n\nThe \\`HIRING NOW\\` sidebar on the dashboard (\\`docs/terminal/dashboard.jsx\\`) lists companies and their open-role counts:\n\n\\`\\`\\`\nSpaceX                186\nAnduril Industries    164\nWaymo                 51\n…\n\\`\\`\\`\n\nBut the rows have no click handler. Users naturally expect that clicking a company name will narrow the center job table to that company and pop the first matching role into the right-hand detail panel — that's the affordance the layout implies.\n\nToday, clicking does nothing. The chrome hints at interactivity (it's a Bloomberg-terminal aesthetic, and every other row in the UI is clickable) but the wire-up is missing.\n\n### Steps to reproduce\n1. Open https://jobs.riteshrana.engineer/\n2. Scroll to the \\`HIRING NOW\\` panel in the left sidebar.\n3. Click any company (e.g. \\`SpaceX\\`).\n4. Nothing happens.\n\n### Proposed solution\n\n- Add \\`company\\` to the dashboard \\`filters\\` state (a \\`Set\\` so multi-select works).\n- Filter \\`filtered\\` jobs by \\`filters.company\\` if non-empty.\n- Compute \\`coCounts\\` from the **pre-company** filter set so the sidebar list does **not** collapse to just the selected company — users can still switch between companies.\n- Wire each HIRING NOW row to toggle its company in the set; clicking the same company again deselects.\n- Visual selected state on the row (background + amber accent on text) and \\`cursor: pointer\\` to make the affordance discoverable.\n- Auto-select the first matching job for the detail panel (the existing \\`useEffect\\` already handles this when \\`filtered\\` changes).\n\n### Out of scope\n- Multi-select keyboard nav.\n- Reflecting the company filter in the URL.\n- A separate \"company picker\" modal — the sidebar list already serves this role.",
-      "excerpt": "### Bug Type / UX Frontend interaction ### Description The \\`HIRING NOW\\` sidebar on the dashboard (\\`docs/terminal/dashboard.jsx\\`) lists companies and their open-role counts: \\`\\`\\` SpaceX 186 Anduril Industries 164...",
-      "issueState": "closed",
-      "contentHash": "17b3aefc7be0a85463dfd16853cfd3d3576cc9fa65a513e10ffd7cd83921d41f",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: enhancement",
-        "help wanted",
-        "needs-triage",
-        "ui/ux"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-05-26T21:40:15Z",
-      "updatedAt": "2026-05-26T21:45:11Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/307",
       "sourceType": "github-issue"
     }
   ]
