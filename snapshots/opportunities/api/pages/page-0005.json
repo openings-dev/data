@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-12T18:54:45.321Z",
+  "generatedAt": "2026-07-13T06:00:47.399Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_ab73013f4dc9b332f5aa8a20",
     "gh_674716f49c075f02f7ac62d5",
     "gh_822a96b739eda39c6f83c960",
     "gh_6d0308440c101b171be2043e",
@@ -22,10 +23,52 @@
     "gh_ce4e8d30eebff5434179fcdb",
     "gh_49aacd7ebb713a3ee77bafeb",
     "gh_62636600992f18f83b456bfa",
-    "gh_cfd654d78091a572cbf02096",
-    "gh_6ed380c2551224258c7cf545"
+    "gh_cfd654d78091a572cbf02096"
   ],
   "items": [
+    {
+      "id": "gh_ab73013f4dc9b332f5aa8a20",
+      "sourceId": "frontendbr/vagas#8515",
+      "title": "[Remoto] Next.js Front-End Developer Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Next.js) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Next.js compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-next-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1c2268fd459f4b51482dd684cca394b237609ef132b0209ec3f869974c326e3f",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-07T13:12:35Z",
+      "updatedAt": "2026-07-07T13:13:00Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8515",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_674716f49c075f02f7ac62d5",
       "sourceId": "frontendbr/vagas#8514",
@@ -815,48 +858,6 @@
       "createdAt": "2026-07-05T20:36:09Z",
       "updatedAt": "2026-07-05T20:36:09Z",
       "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9609",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6ed380c2551224258c7cf545",
-      "sourceId": "backend-br/vagas#12310",
-      "title": "[Remoto] Desenvolvedor(a) Rust Sênior - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Rust Sênior — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Rust compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-rust-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "d13118379474e007c7dcedae7956aeefa66b3bedd0b392cc0c22eb3ca735cf66",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sênior",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-05T14:24:08Z",
-      "updatedAt": "2026-07-05T14:24:23Z",
-      "url": "https://github.com/backend-br/vagas/issues/12310",
       "sourceType": "github-issue"
     }
   ]
