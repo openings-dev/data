@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-13T19:15:53.205Z",
+  "generatedAt": "2026-07-14T07:50:47.976Z",
   "page": 15,
   "pageSize": 20,
   "nextPage": "api/pages/page-0016.json",
   "ids": [
+    "gh_e03ec064cb4cee84535719c4",
     "gh_951802ace03a89fab8398ab1",
     "gh_c51cad7207f84d39bb00f426",
     "gh_24d08e682f7eff699352407d",
@@ -12,7 +13,6 @@
     "gh_26085b80562d970f087f85db",
     "gh_81aa8bfda8cd75209a233f69",
     "gh_95f94f06664f43b285a25b6f",
-    "gh_29e5a819609426e7fb30ddaf",
     "gh_a0f4bab7589fd4825951c6df",
     "gh_5e7c0ed3e21fb1a527ca77ca",
     "gh_962eeb5d07c4cee43120e80f",
@@ -26,6 +26,51 @@
     "gh_062069a56cc5aacbb906df50"
   ],
   "items": [
+    {
+      "id": "gh_e03ec064cb4cee84535719c4",
+      "sourceId": "awesome-jobs/china#4",
+      "title": "[Remote] Senior Web3/React.js Developer – Token Presale dApp",
+      "description": "🚨 We’re hiring a **Senior Web3/React.js Developer** to help us scale token sale app — a real-world token presale and staking platform that connects crypto with actual services like food preorders and loyalty rewards.\n\nYou’ll be joining a lean, focused team building the next phase of our dApp — including staking mechanics, on-chain rewards, and seamless user dashboards.\n\n**Role Details:**\n- **Position:** Senior Software Developer (Solidity / Frontend / Full Stack)\n- **Tech Stack:** ethers.js, Solidity, React, TypeScript, Node.js, Vite\n- **Work Type:** Fully Remote, async-friendly\n- **Schedule:** Full-Time/Part-Time (Up to 40 hrs/week)\n- **Compensation:** $120k–$250k/year USD equivalent (based on experience & specialization)\n\n**What We’re Looking For:**\n- Experienced blockchain devs with Solidity and smart contract expertise\n- Engineers comfortable working across the stack — React.js/TypeScript + backend APIs\n- Frontend developers with deep React.js/Next.js experience and Web3 integration exposure\n- Clean, well-structured code habits and Git proficiency\n- A team-first, async-friendly, product-focused mindset\n- Experience working with existing codebases and iterating fast\n\nNDA is required prior to codebase access and technical call.\n\nIf this sounds like something you’d enjoy working on, let’s connect. Apply here: https://www.metabytelabs.com/careers/web3-developer, and feel free to send any questions to 📩careers@metabytelabs.com.\nKnow someone who’s a fit? Referrals welcome at 📩referrals@metabytelabs.com.",
+      "excerpt": "🚨 We’re hiring a **Senior Web3/React.js Developer** to help us scale token sale app — a real-world token presale and staking platform that connects crypto with actual services like food preorders and loyalty rewards....",
+      "issueState": "open",
+      "contentHash": "66a8c29bad593344c579e183fc480ace92705ee554b5d9fcca187778bce67119",
+      "repository": "awesome-jobs/china",
+      "repositoryUrl": "https://github.com/awesome-jobs/china",
+      "region": "Asia",
+      "country": "China",
+      "tags": [
+        "remote",
+        "frontend",
+        "backend",
+        "react",
+        "typescript",
+        "node",
+        "senior"
+      ],
+      "author": {
+        "id": "mejdanny",
+        "name": "mejdanny",
+        "handle": "mejdanny",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12447589?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/china",
+        "url": "https://github.com/awesome-jobs/china"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 120000,
+        "max": 250000,
+        "period": "hour"
+      },
+      "createdAt": "2025-09-24T02:14:06Z",
+      "updatedAt": "2025-09-24T02:14:06Z",
+      "url": "https://github.com/awesome-jobs/china/issues/4",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_951802ace03a89fab8398ab1",
       "sourceId": "lukasz-madon/awesome-remote-job#968",
@@ -316,45 +361,6 @@
       "createdAt": "2025-08-20T07:47:28Z",
       "updatedAt": "2026-06-02T08:22:51Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4766",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_29e5a819609426e7fb30ddaf",
-      "sourceId": "awesome-jobs/vietnam#4763",
-      "title": "[REMOTE - OFFER UP TO 90M GROSS] Senior AI-Native Python Developer",
-      "description": "**🚀 We’re hiring: Senior AI-Native Python Developer** \n\n**Location:** Remote (VN timezone)  \n**Salary:** Up to 90M gross  \n\n## About us\nDTalent's Client is a remote-first team of 90+ engineers helping companies from startups to enterprises build high-quality software products.  \nWe value long-term partnerships, strong engineering culture, and continuous learning.\n\n## Role\nAs a **Senior AI-Native Python Developer**, you’ll work at the intersection of **AI, automation, and cloud** to build production-ready solutions.\n\n## Responsibilities\n- Build AI-native systems using LLMs (OpenAI, Claude, LangChain, LiteLLM, Semantic Kernel).  \n- Design APIs with **FastAPI / NestJS**.  \n- Develop automation pipelines for CI/CD & testing with LLMs.  \n- Build scalable frontends (**React, TypeScript, TailwindCSS**).  \n- Manage AWS infra (**Lambda, S3, RDS, Cognito, CloudWatch**).  \n\n## Requirements\n- 5+ years in **Python development** (AI/LLM applications).  \n- Strong in **LLM orchestration, prompt engineering, agent frameworks**.  \n- Proficient in **FastAPI, PostgreSQL (JSONB, full-text search)**.  \n- Skilled in modern frontend (**React, TS, TailwindCSS**).  \n- Experience with **AWS serverless, CI/CD, Docker, IaC**.  \n- Good communication in **English + Vietnamese**.  \n\n_Nice to have: RoR legacy, OAuth2, SaaS billing, OpenWebUI customization._  \n\n## Benefits\n- 🌍 Remote-first (work from anywhere)  \n- 📅 Mon–Fri, 8h/day (VN timezone)  \n- 🏖 22 paid leaves from 5th year  \n- 💻 Work equipment support  \n- 💰 Competitive salary + annual & performance bonuses  \n- 🎓 Certification support & monthly coaching  \n- 🏢 Optional office: Hanoi / HCMC  \n\n## Hiring process\n1. (Optional) Assessment  \n2. Tech interview (live code)  \n3. Client interview (1–2 rounds)  \n4. Final with CP Founder + Offer  \n\n_All rounds in English. Please ensure stable internet & camera._  \n\n---\n\n👉 Apply here: Tramcao@dtalent.vn",
-      "excerpt": "**🚀 We’re hiring: Senior AI-Native Python Developer** **Location:** Remote (VN timezone) **Salary:** Up to 90M gross ## About us DTalent's Client is a remote-first team of 90+ engineers helping companies from startup...",
-      "issueState": "open",
-      "contentHash": "3ef9ab66c23859ab74c9bdc33ed66f4832bd835fb0b3213a17e5e5d2b6136e4b",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "frontend",
-        "react",
-        "typescript",
-        "python",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "trmm0501",
-        "name": "trmm0501",
-        "handle": "trmm0501",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/134702559?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2025-08-18T03:28:19Z",
-      "updatedAt": "2026-06-02T08:22:50Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4763",
       "sourceType": "github-issue"
     },
     {
