@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-15T10:43:55.348Z",
+  "generatedAt": "2026-07-15T13:19:15.410Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_7e058f0b928129362af238bb",
     "gh_2bd61600d6156be63c08160e",
     "gh_768aa0cdc773131c21c773c2",
     "gh_ce803112440f8cd9c316f902",
@@ -22,10 +23,53 @@
     "gh_78924ef7e94cb5cf11d73072",
     "gh_5a6eba40f109f0aad542ddaf",
     "gh_07379c05b491ed87c4a10fd3",
-    "gh_f70bca3063fbfbf2f82a823e",
-    "gh_094d438d4112cfc66e7c43d3"
+    "gh_f70bca3063fbfbf2f82a823e"
   ],
   "items": [
+    {
+      "id": "gh_7e058f0b928129362af238bb",
+      "sourceId": "backend-br/vagas#12333",
+      "title": "[Híbrido] Desenvolvedor(a) PHP/Laravel Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) PHP/Laravel Sênior para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com PHP/Laravel compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-php-laravel-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Híbrido",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "904d0d80ef853fbae61c8b45ab8c7006e7c5279be986bdead1278e12a1efb3a1",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "php",
+        "remoto",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-13T18:28:41Z",
+      "updatedAt": "2026-07-13T18:28:58Z",
+      "url": "https://github.com/backend-br/vagas/issues/12333",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_2bd61600d6156be63c08160e",
       "sourceId": "backend-br/vagas#12332",
@@ -824,46 +868,6 @@
       "createdAt": "2026-07-12T11:20:25Z",
       "updatedAt": "2026-07-12T11:20:25Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4964",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_094d438d4112cfc66e7c43d3",
-      "sourceId": "awesome-jobs/vietnam#4963",
-      "title": "VinMotion - Full Stack Engineer, Robotics Simulation - Onsite/Hanoi - FTE",
-      "description": "**Position Overview**\n\nWe are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development.\n\n**Key Responsibilities**\n\n- Design, develop, and maintain fullstack applications supporting humanoid robot development.\n- Build web-based platforms for robot simulation, monitoring, visualization, and experiment management.\n- Develop backend services and APIs for robotics workflows and simulation pipelines.\n- Integrate with robotics simulation environments such as: Isaac Sim, MuJoCo\n- Optimize software performance, scalability, and reliability for large-scale simulation workloads.\n- Collaborate with AI and Robotics teams to translate research requirements into production-ready software solutions.\n- Build tools for simulation data management, experiment tracking, and analytics.\n- Improve system architecture and software engineering best practices across the robotics platform ecosystem.\n\n**Requirements**\n\n- Bachelor's degree in Computer Science, Software Engineering, Robotics, or a related field.\n- Core Languages: Proficiency in C++ AND Python, Java (Hybrid architecture experience is highly preferred).\n- Networking & Protocols: Strong experience in Socket Programming, specifically with UDP network bridges and WebSockets for real-time data streaming.\n- Web 3D Graphics: Strong experience with React.js and modern state management libraries (e.g., Zustand, Redux, or Recoil) optimized for handling high-frequency, real-time data streaming; and WebGL, Three.js, or Python-based 3D visualization tools (e.g., Viser). Familiarity with Server-Side Rendering (SSR) and/or Client-side Rendering (CSR) and optimizing server-client channels for 3D scenes.\n- Robotics (Plus): Experience with MuJoCo (MJCF/XML syntax), and optionally ROS 2.\n- Data & Config: Familiarity with parsing runtime configurations (YAML) and handling high-density event logging formats (JSONL).\n\n**Contact**:\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
-      "excerpt": "**Position Overview** We are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development. **K...",
-      "issueState": "open",
-      "contentHash": "f86b83cfcc31d7235804c1b29c4d2661645ac98af466bc54065ded27d7a5fff1",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "onsite",
-        "backend",
-        "fullstack",
-        "react",
-        "python",
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "thuyntpt0211",
-        "name": "thuyntpt0211",
-        "handle": "thuyntpt0211",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T11:08:42Z",
-      "updatedAt": "2026-07-12T11:08:42Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4963",
       "sourceType": "github-issue"
     }
   ]

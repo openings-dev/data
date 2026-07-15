@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-15T10:43:55.348Z",
+  "generatedAt": "2026-07-15T13:19:15.410Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_6bd2ea87cfb4bbe49569241c",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
@@ -22,10 +23,48 @@
     "gh_3537ba57897dbc655d648955",
     "gh_3074e9f6173315eedc1a54e6",
     "gh_1064af9b7fc9aca6eda2af2d",
-    "gh_04e16e2c007892d76818f4d4",
-    "gh_ba4f8e13f468e4ef55d8683c"
+    "gh_04e16e2c007892d76818f4d4"
   ],
   "items": [
+    {
+      "id": "gh_6bd2ea87cfb4bbe49569241c",
+      "sourceId": "ambicuity/New-Grad-Jobs#316",
+      "title": "[ROADMAP] Help us expand job data — all suggestions welcome!",
+      "description": "## TL;DR\n\nWe want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are welcome and I will reply to every comment.**\n\n---\n\n## Why this roadmap?\n\nNew-Grad-Jobs is most useful when it captures the widest possible surface of legitimate new-grad opportunities. Today we scrape and curate from a known set of sources, but there's a long tail of companies, regions, and job types we're missing.\n\nThis issue is the central place to brainstorm **how we add more jobs** — sources, regions, scrapers, partnerships, automation, data quality, anything.\n\n## What kind of suggestions are we looking for?\n\nPick whatever resonates — these are just prompts:\n\n### Sources\n- [ ] Specific ATS platforms we don't yet scrape (Workday tenants, Greenhouse boards, Lever, Ashby, SmartRecruiters, iCIMS, Taleo, Eightfold, Phenom, Jobvite, BrassRing, etc.)\n- [ ] Specific companies whose new-grad pipelines we should track\n- [ ] Regional job boards (EU, India, LATAM, MENA, APAC, Canada, UK, etc.)\n- [ ] University career portals worth aggregating\n- [ ] Government / public-sector hiring portals\n- [ ] Startup-focused aggregators (YC, Wellfound, etc.)\n- [ ] Diversity-focused or accessibility-focused boards\n\n### Job categories\n- [ ] Internship pipelines distinct from full-time\n- [ ] PhD / research / quant-specific listings\n- [ ] Hardware, semiconductor, robotics, aerospace\n- [ ] Game industry\n- [ ] Finance / trading / actuarial new-grad tracks\n- [ ] Bio / pharma / healthcare new-grad roles\n- [ ] Trades, ops, supply chain, manufacturing new-grad programs\n\n### Data quality\n- [ ] How should we detect & dedupe reposted listings?\n- [ ] How should we classify \\\"new grad\\\" vs \\\"junior\\\" vs \\\"intern\\\" more accurately?\n- [ ] Should we surface salary data when available? From which sources?\n- [ ] Should we flag visa sponsorship / remote / hybrid more explicitly?\n- [ ] How should we handle stale postings (last-seen vs first-seen)?\n- [ ] What metadata is most useful to filter on?\n\n### Infrastructure & automation\n- [ ] Scraper frameworks or libraries worth adopting\n- [ ] Anti-bot / rate-limit strategies that respect ToS\n- [ ] Workflow scheduling improvements (cron, GitHub Actions, queues)\n- [ ] LLM-assisted parsing for unstructured careers pages\n- [ ] Storage / dedup / canonicalization approaches\n- [ ] Notification channels (RSS, Discord, Slack, email digest)\n\n### Community & contribution\n- [ ] How can we make it easier for contributors to add a new company in one PR?\n- [ ] Should we publish a contribution template specifically for \\\"add a company\\\"?\n- [ ] Would a structured YAML/JSON registry of companies + ATS endpoints help?\n- [ ] Mentorship for first-time contributors who want to add a scraper\n\n## How to suggest\n\nJust comment below. Any format works:\n\n- **A single company:** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"\n- **A source idea:** \\\"There's an ATS called `<X>` used by these companies: …\\\"\n- **A feature idea:** \\\"It would be great if listings showed `<field>`\\\"\n- **A full proposal:** longer-form design ideas, link to a gist or doc\n- **A pain point:** \\\"As a job seeker, I wish this repo did `<X>`\\\"\n\nYou don't need to know how to scrape, write Python, or anything technical. **Ideas count just as much as code.**\n\n## Commitment\n\n- I'll **reply to every comment on this thread.**\n- Concrete, actionable suggestions will be moved into their own tracking issues and linked back here.\n- Larger themes will become milestones on the roadmap.\n- Credit will go to the suggester in the resulting PR / issue / changelog.\n\n## Ground rules\n\n- Be respectful — this is a community space.\n- Don't post anything that violates a source's Terms of Service or robots.txt; we want sustainable, ethical aggregation.\n- Don't post personal data, recruiter contacts, or anything that could harm a company or candidate.\n- Prefer one idea per comment when possible — it makes follow-up easier.\n\n---\n\n**Thanks in advance — every suggestion helps a new grad find their first job.**",
+      "excerpt": "## TL;DR We want to dramatically expand the job data this project surfaces, and we need **your ideas**. Whether you have a small tweak, a wild idea, or a full proposal — drop it in the comments. **All suggestions are ...",
+      "issueState": "open",
+      "contentHash": "9dbc30e311e1ce44614e0ce628edb4d89c70df9f08cacdec11198141b4fa7ba7",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "needs-triage",
+        "priority: medium",
+        "enhancement",
+        "roadmap"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "companyName": "** \\\"Please add `<Company>` — their careers page is `<URL>`\\\"",
+      "createdAt": "2026-05-26T23:52:14Z",
+      "updatedAt": "2026-07-02T17:33:02Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1f61de8de06b483a9a82d5f4",
       "sourceId": "nerdzao/vagas#191",
@@ -721,42 +760,6 @@
       "createdAt": "2026-05-15T15:16:11Z",
       "updatedAt": "2026-05-15T15:16:11Z",
       "url": "https://github.com/nerdzao/vagas/issues/190",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ba4f8e13f468e4ef55d8683c",
-      "sourceId": "programadores-br/geral#3067",
-      "title": "[Remoto] Product Owner Jr na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nBuscamos uma mente curiosa, organizada e apaixonada por resolver problemas para se juntar ao nosso time de Produto. Como **PO Júnior**, você será a ponte fundamental entre as necessidades dos nossos usuários e a execução técnica do time de desenvolvimento.\n\nEste é o lugar ideal para quem deseja consolidar seus conhecimentos em metodologias ágeis e aprender na prática como transformar uma visão de negócio em funcionalidades de alto impacto.\n## Credifit SCD: \n <p>A Credifit é uma FinTech do tipo SCD - Sociedade de Crédito Direto. Isto significa que somos uma Instituição Financeira regulada pelo Banco Central, e por isso, não precisamos de intermediários para fazer nossas operações de crédito. Temos o coração Tech e já nascemos com a metodologia ágil no sangue. Queremos mais que desenvolvedores, e sim pessoas que façam parte do nosso negócio, e conheçam sobre as áreas da empresa. Estamos aqui para crescer!</p></p>\n\n ## Habilidades: \n - Backlog \n- Contabilidade \n- Estabelecer KPIs \n- Gestão de prioridade \n- Organização \n- Comunicação\n## Local: \n Remota\n## Requisitos: \n - Mentalidade Analítica: Capacidade de ler dados e transformá-los em hipóteses de melhoria. \n- Comunicação: Você precisará explicar o contexto das necessidades para times dev e backoffice interno. \n- Organização: Facilidade para lidar com prazos e prioridades mutáveis. \n- Conhecimento Base: Entendimento de metodologias Ágeis (Scrum/Kanban). \n- Diferencial: Conhecimento em ferramentas de gestão (Jira, Trello ou ClickUp) e noções de UX/UI.\n## Diferenciais: \n - Conhecimento em Contabilidade será considerado um diferencial.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Product Owner Jr na Credifit SCD](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nGestão",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "57ede4f24b18292f780c6932eae42e3d162e35796c910f956cbab42c585cec79",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "júnior",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-14T11:23:47Z",
-      "updatedAt": "2026-05-14T11:24:06Z",
-      "url": "https://github.com/programadores-br/geral/issues/3067",
       "sourceType": "github-issue"
     }
   ]
