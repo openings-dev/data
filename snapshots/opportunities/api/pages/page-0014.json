@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-15T01:43:45.670Z",
+  "generatedAt": "2026-07-15T05:24:34.918Z",
   "page": 14,
   "pageSize": 20,
   "nextPage": "api/pages/page-0015.json",
   "ids": [
+    "gh_7de941f14023985213e7d373",
     "gh_903b11b11902557631119931",
     "gh_fb4ec6f93d17afcf44bb3e60",
     "gh_4f932f9132ac743803a990ff",
@@ -22,10 +23,49 @@
     "gh_85e96ece37aa7c4072d4d09a",
     "gh_c6e5cde5cf70452b958787bd",
     "gh_7090b13757103ad4886dca79",
-    "gh_e2bf92920267625501ec5bdc",
-    "gh_ff871b03fcabd20a93060047"
+    "gh_e2bf92920267625501ec5bdc"
   ],
   "items": [
+    {
+      "id": "gh_7de941f14023985213e7d373",
+      "sourceId": "TechnologyMasters/jobs#720",
+      "title": "TalentedEngineer",
+      "description": "<!--\n\nPLEASE REVIEW RULES BEFORE POSTING:\nhttps://github.com/TechnologyMasters/jobs/blob/master/README.md#employers\n\n# Issue title format: [Company Name] - [Job Title] - [Location] - [Salary] [Currency]/[Frequency]\n\n-->\n\n## What You'll get\n\n### Salary Expectation\n\n<!--\n  - Be sure to specify an actual salary figure, or at least a range\n  - Specify a current locale, such as GBP, USD, or CAD\n\n  IMPORTANT: Posts that do not include a salary or range\n  will receive a 'needs info' label\n-->\n\n- $2000-$4000/month or negotiable\n- Part Time\n\n### Benefits\n\n- Flexible Schedule\n- Supportive Team\n- Extra Bonus\n\n### Location\n\n<!--\n  Please specify your job's policy on remote work (see README for details)\n-->\n\n- Taiwan\n- Candidate may work from home for a few hours every day\n\n## What You'll Do _(Job Description)_\n\nWe need a full stack developer to join our team. He will be responsible to communicate with clients and mentor the junior developers.\n\n## What You Need to Be Successful _(Skills)_\n\n### Must Have\n\n- 2+ years working as a Full stack developer.\n- 2+ years working with mongodb; express.\n- Fluent in English(required).\n\n### Nice to Have\n\nMore experience in software engineering, the better.\nIf you are a US citizen, you will be best.\n\n### Relevant Experiences\n\n- interview conduction\n- teaching students.\n\n## How to apply\n\nPlease send an email to [kyledominick479@gmail.com] with your resume(optional), use 'Full Stack Developer' as subject\n\n---\n\n## Meta\n\n<!--\n  These meta tickboxes automatically apply labels to your post\n  Learn more in the README https://github.com/TechnologyMasters/jobs/blob/master/README.md#label-definitions\n\n  Note, you must fill in the checkboxes correctly in order for them to appear as checked in Markdown\n\n  Unfilled examples:\n  - [ ] Full Time\n  - [ x] Full Time\n  - [x ] Full Time\n\n  Filled example:\n  - [x] Full Time\n-->\n\n- [ ] Part Time\n- [ ] Remote Worldwide\n- [ ] Remote Regional\n- [ ] Remote OK",
+      "excerpt": "<!-- PLEASE REVIEW RULES BEFORE POSTING: https://github.com/TechnologyMasters/jobs/blob/master/README.md#employers # Issue title format: [Company Name] - [Job Title] - [Location] - [Salary] [Currency]/[Frequency] --> ...",
+      "issueState": "open",
+      "contentHash": "d015502566d9b4004d2c5b9abaad7eeb93511475cade9dc86f767eec4232c64c",
+      "repository": "TechnologyMasters/jobs",
+      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "junior"
+      ],
+      "author": {
+        "id": "kyledominick479-cloud",
+        "name": "kyledominick479-cloud",
+        "handle": "kyledominick479-cloud",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/237137981?v=4"
+      },
+      "community": {
+        "id": "TechnologyMasters",
+        "name": "TechnologyMasters",
+        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
+        "repository": "TechnologyMasters/jobs",
+        "url": "https://github.com/TechnologyMasters/jobs"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 2000,
+        "max": 4000,
+        "period": "hour"
+      },
+      "createdAt": "2025-11-26T16:02:26Z",
+      "updatedAt": "2025-12-11T10:23:22Z",
+      "url": "https://github.com/TechnologyMasters/jobs/issues/720",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_903b11b11902557631119931",
       "sourceId": "PrepAIJobs/New-Grad-2026#5",
@@ -698,44 +738,6 @@
       "createdAt": "2025-10-13T00:23:24Z",
       "updatedAt": "2025-10-13T00:23:24Z",
       "url": "https://github.com/Empregos-dev/Vagas-dev/issues/110",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ff871b03fcabd20a93060047",
-      "sourceId": "phpdevbr/vagas#1318",
-      "title": "[Hibrido / São Paulo, Brasil] Backend Developer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/backend-developer-193718030?utm_source=github&utm_medium=phpdevbr-vagas&modal=open) para realizar a candidatura. 👋\nEstamos buscando **Backend Developer**, sem restrição de nível para compor nosso time.\n\n**Responsabilidades:**\n\n● Analisar metodologias e gerenciar o processo de desenvolvimento backend.\n\n● Desenvolver e integrar módulos ao banco de dados.\n\n● Elaborar documentação detalhada de códigos e processos.\n\n● Integrar APIs com interfaces externas.\n\n● Modelar e manter estruturas de bancos de dados.\n\n● Projetar e implementar funcionalidades de aplicações.\n\n● Apoiar a implementação e otimização de sistemas de software.\n## Namu: \n <p>Começamos nossa trajetória em 2013 com o Portal Namu e desde então nos tornamos uma referência na produção de conteúdo multimídia de bem-estar. Temos a yoga, o pilates e a gastronomia como as principais vertentes da empresa, e mais de 8 milhões de páginas visualizadas compartilhamos ensinamentos em aulas, entrevistas e palestras com as maiores referências nacionais e internacionais. O grande sucesso das aulas de yoga, pilates e gastronomia, com mais de 10 milhões de visualizações no YouTube nos inspirou a criar o Namu Cursos, a primeira plataforma brasileira de cursos online completamente focada em uma vida equilibrada.</p>\n<p>Em pouco mais de um ano construímos um portfólio que oferece a oportunidade e comodidade de praticar yoga onde e quando você quiser, com mais de 87 horas de aulas divididas entre 35 cursos. Os cursos são ministrados por professores de referência no Brasil que, em vários anos de estudos e experiência nas melhores escolas ou com os Gurus ao redor do mundo, se capacitaram para ensinar de forma didática e com preço acessível.</p>\n\n ## Habilidades: \n - Node.js \n- PHP \n- AWS \n- Nest.JS \n- Laravel \n- Typescript \n- MySQL \n- Wordpress\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Experiência comprovada em testes via APIs. \n- Domínio de Node.js, JavaScript, TypeScript e PHP. \n- Proficiência em Git (BitBucket). \n- Experiência com metodologias ágeis de desenvolvimento. \n- Habilidade em desenvolvimento e integração de APIs REST/RESTful. \n- Conhecimento em bancos de dados relacionais (MySQL). \n- Familiaridade com tecnologias AWS (EC2, RDS, CloudWatch, S3, Lambda,...). \n- Experiência com conteinerização. \n- Conhecimento em Laravel, Nest.js e WordPress.\n\n## Benefícios: \n - Convênio médico \n- Convênio odontológico \n- Day off de aniversário \n- Férias remuneradas Acesso à plataforma NAMU \n- Programa TEM Saúde\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Backend Developer na Namu](https://coodesh.com/jobs/backend-developer-193718030?utm_source=github&utm_medium=phpdevbr-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "0a976298317edcdf7ff534b475135c6ed40b87bc2f6e57dd3b03221d1043f56d",
-      "repository": "phpdevbr/vagas",
-      "repositoryUrl": "https://github.com/phpdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "typescript",
-        "node",
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "phpdevbr",
-        "name": "phpdevbr",
-        "avatarUrl": "https://github.com/phpdevbr.png?size=80",
-        "repository": "phpdevbr/vagas",
-        "url": "https://github.com/phpdevbr/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-10-09T14:30:35Z",
-      "updatedAt": "2025-10-09T14:30:35Z",
-      "url": "https://github.com/phpdevbr/vagas/issues/1318",
       "sourceType": "github-issue"
     }
   ]
