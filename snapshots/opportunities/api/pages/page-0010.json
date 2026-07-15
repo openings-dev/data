@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-15T05:24:34.918Z",
+  "generatedAt": "2026-07-15T10:43:55.348Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
     "gh_e9177ae252d1679b2e5d82c5",
@@ -22,10 +23,46 @@
     "gh_3074e9f6173315eedc1a54e6",
     "gh_1064af9b7fc9aca6eda2af2d",
     "gh_04e16e2c007892d76818f4d4",
-    "gh_ba4f8e13f468e4ef55d8683c",
-    "gh_08c2b289f0b0fbaf5bd9f142"
+    "gh_ba4f8e13f468e4ef55d8683c"
   ],
   "items": [
+    {
+      "id": "gh_1f61de8de06b483a9a82d5f4",
+      "sourceId": "nerdzao/vagas#191",
+      "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
+      "description": "Nossa empresa\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\nRequisitos\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\nEvent Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nBenefícios\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\nContratação\nCooperativa\n\nComo se candidatar\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\nNível\nSênior\n\nRegime\nCooperado\n\nAlocação\nHíbrido",
+      "excerpt": "Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado...",
+      "issueState": "open",
+      "contentHash": "2fc01278c009d5c1f04db3ab1217bceecb1f162af09e7cadae08ac22860ffae9",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "java",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-05-26T18:22:15Z",
+      "updatedAt": "2026-05-26T18:22:15Z",
+      "url": "https://github.com/nerdzao/vagas/issues/191",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_9dbea54460036bccbb80c963",
       "sourceId": "programadores-br/geral#3074",
@@ -720,37 +757,6 @@
       "createdAt": "2026-05-14T11:23:47Z",
       "updatedAt": "2026-05-14T11:24:06Z",
       "url": "https://github.com/programadores-br/geral/issues/3067",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_08c2b289f0b0fbaf5bd9f142",
-      "sourceId": "cncf/gitjobs#383",
-      "title": "Ability to manually assign jobs to a foundation/project after submission",
-      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
-      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
-      "issueState": "open",
-      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
-      "repository": "cncf/gitjobs",
-      "repositoryUrl": "https://github.com/cncf/gitjobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "iamweswilson",
-        "name": "iamweswilson",
-        "handle": "iamweswilson",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
-      },
-      "community": {
-        "id": "cncf",
-        "name": "cncf",
-        "avatarUrl": "https://github.com/cncf.png?size=80",
-        "repository": "cncf/gitjobs",
-        "url": "https://github.com/cncf/gitjobs"
-      },
-      "createdAt": "2026-05-05T18:56:03Z",
-      "updatedAt": "2026-05-06T15:39:22Z",
-      "url": "https://github.com/cncf/gitjobs/issues/383",
       "sourceType": "github-issue"
     }
   ]

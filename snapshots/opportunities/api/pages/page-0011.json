@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-15T05:24:34.918Z",
+  "generatedAt": "2026-07-15T10:43:55.348Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_08c2b289f0b0fbaf5bd9f142",
     "gh_23e88f37c8cdd99dec55a249",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_c2842e7382b7b6bf1db541df",
@@ -22,10 +23,40 @@
     "gh_bebc4c633e728a987497ecda",
     "gh_dcdf78cbd3dbfc81b414065f",
     "gh_86cf7c4c726a6cec1163d1fb",
-    "gh_c01a0a3f6404a175991bbcce",
-    "gh_3cb49aacda2ec7dd8e38be24"
+    "gh_c01a0a3f6404a175991bbcce"
   ],
   "items": [
+    {
+      "id": "gh_08c2b289f0b0fbaf5bd9f142",
+      "sourceId": "cncf/gitjobs#383",
+      "title": "Ability to manually assign jobs to a foundation/project after submission",
+      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
+      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
+      "issueState": "open",
+      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamweswilson",
+        "name": "iamweswilson",
+        "handle": "iamweswilson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2026-05-05T18:56:03Z",
+      "updatedAt": "2026-05-06T15:39:22Z",
+      "url": "https://github.com/cncf/gitjobs/issues/383",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_23e88f37c8cdd99dec55a249",
       "sourceId": "datascience-br/vagas#161",
@@ -714,42 +745,6 @@
       "createdAt": "2026-03-20T12:35:51Z",
       "updatedAt": "2026-05-30T03:51:55Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1247",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3cb49aacda2ec7dd8e38be24",
-      "sourceId": "programadores-br/geral#3060",
-      "title": "[Remoto] DBA Pleno na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/dba-pleno-123558695?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA TruckPag é uma startup inovadora no setor de Meios de Pagamento, focada em solucionar grandes desafios e gerar impacto relevante no mundo logístico. Buscamos profissionais talentosos e motivados que queiram tornar as operações logísticas mais efetivas, assertivas e competitivas. Acreditamos que grandes ideias nascem da diversidade de vivências, formações e pessoas únicas. Cultivamos um ambiente de trabalho colaborativo, de alta performance e descontraído, onde você terá a oportunidade de agregar valor significativo à nossa equipe e aos nossos produtos.\n\nEstamos em busca de uma pessoa **DBA Pleno** para se juntar ao nosso time de tecnologia. Você terá um papel estratégico na garantia da saúde, performance e segurança dos nossos bancos de dados, que estão 100% hospedados na nuvem utilizando AWS RDS.\n\nNós já contamos com um parceiro responsável pelo monitoramento 24x7 da infraestrutura. Portanto, seu foco principal será atuar preventivamente, realizar _tuning_ avançado, gerenciar nosso ambiente legado e atuar a quatro mãos com os times de desenvolvimento para criar as melhores soluções em arquitetura de dados e queries.\n\n**Responsabilidades e Atribuições:**\n\n*   Administrar, manter e otimizar nossos bancos de dados **PostgreSQL** e **SQL Server** (ambiente legado) hospedados no **AWS RDS**.\n    \n*   Realizar _database tuning_, identificando gargalos de performance, otimizando o uso de recursos e garantindo a escalabilidade do ambiente.\n    \n*   Prestar consultoria e apoio técnico constante aos desenvolvedores na construção e otimização de _queries_, modelagem de dados e criação de índices.\n    \n*   Acompanhar e analisar as notificações e alertas gerados pela nossa empresa parceira de monitoramento 24x7, atuando na resolução de incidentes quando necessário.\n    \n*   Gerenciar e validar políticas de backup, _restore_ e estratégias de alta disponibilidade (HA) e _Disaster Recovery_ (DR) dentro do ecossistema AWS.\n    \n*   Garantir as melhores práticas de segurança e controle de acessos.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS RDS \n- PostgreSQL \n- SQL SERVER \n- Disaster Recovery\n## Local: \n Remota\n## Requisitos: \n - Experiência sólida e comprovada atuando como DBA, com domínio em PostgreSQL e bons conhecimentos em SQL Server. \n- Vivência prática com bancos de dados em nuvem, especificamente com Amazon RDS. \n- Forte conhecimento em performance tuning, análise de planos de execução e otimização de consultas pesadas. \n- Experiência prévia trabalhando próximo a times de engenharia/desenvolvimento de software. \n- Habilidade para atuar na resolução de problemas (troubleshooting) de forma ágil e analítica.\n## Diferenciais: \n - Conhecimento em outras soluções do ecossistema AWS (CloudWatch, IAM, EC2). \n- Vivência com ferramentas de versionamento de banco de dados (ex: Flyway, Liquibase). \n- Experiência com migração de dados ou transição de sistemas legados. \n- Certificações AWS ou certificações oficiais em PostgreSQL/SQL Server.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [DBA Pleno na TruckPag](https://coodesh.com/jobs/dba-pleno-123558695?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nBanco de Dados",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "77258082d23f4c8c18d0d1eee36704f4f4ac7cfc69ad34d6474e46686e45df48",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-18T20:37:25Z",
-      "updatedAt": "2026-03-18T20:37:53Z",
-      "url": "https://github.com/programadores-br/geral/issues/3060",
       "sourceType": "github-issue"
     }
   ]

@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-15T05:24:34.918Z",
+  "generatedAt": "2026-07-15T10:43:55.348Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_2bd61600d6156be63c08160e",
     "gh_768aa0cdc773131c21c773c2",
     "gh_ce803112440f8cd9c316f902",
     "gh_c88696a50154a458901b1a45",
@@ -22,10 +23,52 @@
     "gh_5a6eba40f109f0aad542ddaf",
     "gh_07379c05b491ed87c4a10fd3",
     "gh_f70bca3063fbfbf2f82a823e",
-    "gh_094d438d4112cfc66e7c43d3",
-    "gh_2d8aa4402dd1dbaa2cdb4420"
+    "gh_094d438d4112cfc66e7c43d3"
   ],
   "items": [
+    {
+      "id": "gh_2bd61600d6156be63c08160e",
+      "sourceId": "backend-br/vagas#12332",
+      "title": "[Híbrido] Desenvolvedor(a) C#/.NET Sênior - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) C#/.NET Sênior para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Sênior.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Híbrido",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "9e5d7bf64ba5650e859d65fa3c4a336d61a87448075714b2945bdbe3b23509f7",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sênior",
+        "remoto",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-13T18:27:40Z",
+      "updatedAt": "2026-07-13T18:27:57Z",
+      "url": "https://github.com/backend-br/vagas/issues/12332",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_768aa0cdc773131c21c773c2",
       "sourceId": "backend-br/vagas#12331",
@@ -821,44 +864,6 @@
       "createdAt": "2026-07-12T11:08:42Z",
       "updatedAt": "2026-07-12T11:08:42Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4963",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2d8aa4402dd1dbaa2cdb4420",
-      "sourceId": "awesome-jobs/vietnam#4962",
-      "title": "VinMotion - Machine Learning Scientist (VLA) - Senior/Expert - Onsite/Hanoi - FTE",
-      "description": "**About the job\nOverview**\n\nWe're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments.\n\nAs a Senior / Staff Machine Learning Engineer, Vision-Language-Action (VLA), you will help build the intelligence stack that connects vision, language, and action. You'll design, train, and deploy multimodal robot policies that allow humanoid robots to understand natural-language commands, interpret complex scenes, and take reliable actions in industrial and logistics settings.\n\nThis is a hands-on role at the intersection of multimodal model development, robot learning, teleoperation data, simulation, and real-world deployment. A core challenge of the role is learning robust robot behavior from limited real-world teleoperation data, while using simulation and synthetic data to improve generalization and close the sim-to-real gap.\n\nYou'll work closely with Teleoperation, Simulation, RL & Controls, and Platform teams to turn embodied AI research into robot capabilities that run on physical hardware.\n\n**Key Responsibilities**\n\n- Design, train, and improve vision-language-action (VLA) models for humanoid robots using visual observations, language instructions, and robot state\n- Build and fine-tune multimodal robot policies using RGB (and optionally depth), language, proprioception, and task history\n- Improve policy robustness, instruction following, manipulation reliability, and generalization to new tasks and environments\n- Work with the Teleoperation team to improve data quality, dataset curation, logging standards, and episode QA\n- Develop training strategies for limited-data settings, including augmentation, pretraining, imitation learning, and offline RL where appropriate\n- Use simulation and synthetic data to improve robustness and sim-to-real transfer\n- Define evaluation metrics for task success, robustness, and safety, and use ablations / failure analysis to guide model improvements\n- Collaborate with Platform and Controls teams to integrate policies into the on-robot inference stack under latency and memory constraints\n\nFor Senior-level hires: independently own a workstream from experimentation through deployment iteration\n\nFor Staff-level hires: help shape technical direction across policy learning, data strategy, evaluation, and sim-to-real roadmap\n\n**Required Qualifications:\n\nCore skill**\n\n- Strong background in deep learning for vision, multimodal learning, sequence modeling, or robot learning\n- Hands-on experience training models in PyTorch\n- Strong Python engineering skills, including training pipelines, experiment management, debugging, and reproducibility\n\n**Experience in at least one of the following:**\n\n+ Vision-language / multimodal model training\n+ Imitation learning / behavior cloning / offline reinforcement learning\n+ Robot learning from demonstration, teleoperation, or real-world interaction data\n\n**General**\n\n- Ability to work effectively across ML, robotics, controls, hardware, and platform teams\n- Experience owning technical problems end-to-end, from experimentation through evaluation and iteration\n- BS / MS / PhD in Computer Science, Robotics, Electrical Engineering, or a related field — or equivalent industry experience\n\n**Preferred Qualifications**\n\n- Experience training policies for real robots, especially manipulation or articulated systems\n- Experience working with teleoperation or demonstration data\n- Experience with simulation / synthetic-data pipelines for robotics\n- Familiarity with modern VLA and robot-policy approaches such as VLM-backbone policies (Pi0-, GR00T-, or OpenVLA-class), diffusion policy / flow-matching action heads, or ACT-style action chunking\n- Experience deploying models under production constraints such as latency, memory, mixed precision, or on-device / on-robot inference\n- Prior experience in humanoid robotics, embodied AI, robot manipulation, or applied multimodal systems\n- Tech stack includes: PyTorch, ROS 2, Isaac Sim / Isaac Lab, MuJoCo, GPU training infrastructure, and on-robot inference optimization.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
-      "excerpt": "**About the job Overview** We're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments. As a Senior / Staff Machine Learning Engineer, Vis...",
-      "issueState": "open",
-      "contentHash": "84d6d6d0947fb1333ac7f4dc8ffb34abe78aedcb0ed1cdbb61d6e6ab34737896",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "onsite",
-        "python",
-        "senior",
-        "staff",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "thuyntpt0211",
-        "name": "thuyntpt0211",
-        "handle": "thuyntpt0211",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T11:01:09Z",
-      "updatedAt": "2026-07-12T11:01:09Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4962",
       "sourceType": "github-issue"
     }
   ]

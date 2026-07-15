@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-15T05:24:34.918Z",
+  "generatedAt": "2026-07-15T10:43:55.348Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_84cd180e02db9815d917bcc4",
     "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
     "gh_7bcd691815b883db937698fc",
@@ -22,10 +23,42 @@
     "gh_dd917afbcd6258ace2a2497e",
     "gh_31d3c208b2b39f35424db09f",
     "gh_7ba652a44a8de9edef28588e",
-    "gh_6bd2ea87cfb4bbe49569241c",
-    "gh_1f61de8de06b483a9a82d5f4"
+    "gh_6bd2ea87cfb4bbe49569241c"
   ],
   "items": [
+    {
+      "id": "gh_84cd180e02db9815d917bcc4",
+      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
+      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
+      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
+      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
+      "issueState": "open",
+      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
+      },
+      "createdAt": "2026-06-05T14:28:49Z",
+      "updatedAt": "2026-06-05T14:28:49Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_eca179323abe1309b96e6c74",
       "sourceId": "remote-es/remotes#192",
@@ -700,43 +733,6 @@
       "createdAt": "2026-05-26T23:52:14Z",
       "updatedAt": "2026-07-02T17:33:02Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/316",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1f61de8de06b483a9a82d5f4",
-      "sourceId": "nerdzao/vagas#191",
-      "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
-      "description": "Nossa empresa\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\nRequisitos\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\nEvent Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nBenefícios\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\nContratação\nCooperativa\n\nComo se candidatar\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\nNível\nSênior\n\nRegime\nCooperado\n\nAlocação\nHíbrido",
-      "excerpt": "Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado...",
-      "issueState": "open",
-      "contentHash": "2fc01278c009d5c1f04db3ab1217bceecb1f162af09e7cadae08ac22860ffae9",
-      "repository": "nerdzao/vagas",
-      "repositoryUrl": "https://github.com/nerdzao/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "java",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "jesspinheiro93",
-        "name": "jesspinheiro93",
-        "handle": "jesspinheiro93",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
-      },
-      "community": {
-        "id": "nerdzao",
-        "name": "nerdzao",
-        "avatarUrl": "https://github.com/nerdzao.png?size=80",
-        "repository": "nerdzao/vagas",
-        "url": "https://github.com/nerdzao/vagas"
-      },
-      "createdAt": "2026-05-26T18:22:15Z",
-      "updatedAt": "2026-05-26T18:22:15Z",
-      "url": "https://github.com/nerdzao/vagas/issues/191",
       "sourceType": "github-issue"
     }
   ]
