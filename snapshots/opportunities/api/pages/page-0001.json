@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-14T21:51:22.165Z",
+  "generatedAt": "2026-07-15T01:43:45.670Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_00d1a49b431efa61b7fe0b73",
     "gh_a855efed08d014b00ed7fe29",
     "gh_004b49621bd20b2dde844a3d",
     "gh_4d57983cce81ad0c8efc7dea",
@@ -22,10 +23,49 @@
     "gh_29f63a5e39d06dc7f1cb87ff",
     "gh_7e058f0b928129362af238bb",
     "gh_2bd61600d6156be63c08160e",
-    "gh_768aa0cdc773131c21c773c2",
-    "gh_ce803112440f8cd9c316f902"
+    "gh_768aa0cdc773131c21c773c2"
   ],
   "items": [
+    {
+      "id": "gh_00d1a49b431efa61b7fe0b73",
+      "sourceId": "backend-br/vagas#12339",
+      "title": "Back-end developer (Chatbot) - Híbrido",
+      "description": "Buscamos um Desenvolvedor Sênior especializado em soluções para WhatsApp, responsável por desenvolver, evoluir e manter uma plataforma de atendimento, automação e integração com Inteligência Artificial.\n\n**Requisitos obrigatórios**\n\nExperiência comprovada com a API Oficial do WhatsApp Business (Cloud API e/ou BSPs).\nDesenvolvimento de APIs REST e Webhooks.\nDomínio de Java (Spring Boot), Node.js ou C#/.NET.\nConhecimento sólido em PostgreSQL, MySQL ou MongoDB.\nExperiência com Redis para cache e gerenciamento de sessões.\nConhecimento em filas de processamento (RabbitMQ, Kafka ou similares).\nExperiência com autenticação (JWT, OAuth2) e segurança de APIs.\nDocker e Git.\nExperiência com integrações entre sistemas.\n\n\n**Conhecimentos específicos em WhatsApp**\n\nEnvio e recebimento de mensagens.\nTemplates aprovados.\nFluxos conversacionais.\nAtendimento humano.\nTransferência entre atendentes.\nMúltiplas conexões e múltiplos números.\nGerenciamento de sessões.\nWebhooks em tempo real.\nUpload e download de mídias.\nMensagens de texto, imagem, vídeo, áudio, documentos e localização.\nTratamento de erros e retentativas.\nControle de limites e filas de envio. \n\n\n**Requisitos e qualificações**\nEnsino superior completo em ciências da computação, tecnologia da informação ou afins.\nTer experiência com desenvolvimento backend\nExperiência com chatbot\n\n**Desejável**\nExperiência com OpenAI e IA Generativa.\nChatbots inteligentes.\nRAG.\nLangChain, LangGraph ou frameworks similares.\nIntegração com CRMs e ERPs.\nConhecimento em Kubernetes.\nAWS, Azure ou GCP. \n\nRemuneração: 10k \n\n\nJornada de trabalho\nSegunda a sexta das 9h ás 18h.",
+      "excerpt": "Buscamos um Desenvolvedor Sênior especializado em soluções para WhatsApp, responsável por desenvolver, evoluir e manter uma plataforma de atendimento, automação e integração com Inteligência Artificial. **Requisitos o...",
+      "issueState": "open",
+      "contentHash": "18272d608b2bb40e487cd52bcd58b75bf0ac95f1807c1708e1b98fd700f679e6",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "node.js",
+        "java",
+        "aws",
+        "mysql",
+        "mongodb",
+        "postgresql",
+        "git"
+      ],
+      "author": {
+        "id": "tabata-leal",
+        "name": "tabata-leal",
+        "handle": "tabata-leal",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305114782?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-07-14T21:58:46Z",
+      "updatedAt": "2026-07-14T21:59:08Z",
+      "url": "https://github.com/backend-br/vagas/issues/12339",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a855efed08d014b00ed7fe29",
       "sourceId": "backend-br/vagas#12338",
@@ -813,41 +853,6 @@
       "createdAt": "2026-07-13T18:26:39Z",
       "updatedAt": "2026-07-13T18:26:59Z",
       "url": "https://github.com/backend-br/vagas/issues/12331",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ce803112440f8cd9c316f902",
-      "sourceId": "awesome-jobs/vietnam#4965",
-      "title": "🚀 [HCM / Contractor] Backend Java Developer (Banking)",
-      "description": "- Tối thiểu 3 năm kinh nghiệm Java Backend.\n- Có kinh nghiệm dự án Banking/Financial Services.\n- Thành thạo Spring Boot, REST API và Microservices.\n- Có kinh nghiệm với Database, Message Queue, Redis.\n- Hiểu Docker/Kubernetes và quy trình CI/CD.\n- Có kiến thức về Application Security.\n--\nContact Zalo/Phone/Whatsapp: 0582839437",
-      "excerpt": "- Tối thiểu 3 năm kinh nghiệm Java Backend. - Có kinh nghiệm dự án Banking/Financial Services. - Thành thạo Spring Boot, REST API và Microservices. - Có kinh nghiệm với Database, Message Queue, Redis. - Hiểu Docker/Ku...",
-      "issueState": "open",
-      "contentHash": "8caaed37f3cf28ca9597f803f921c76274ad6f7f73fae61b383d25ce3bfb727c",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "backend",
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "PhuongVu-HR",
-        "name": "PhuongVu-HR",
-        "handle": "PhuongVu-HR",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-13T08:09:55Z",
-      "updatedAt": "2026-07-13T08:09:55Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4965",
       "sourceType": "github-issue"
     }
   ]

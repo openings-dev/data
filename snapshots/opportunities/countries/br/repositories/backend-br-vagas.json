@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T21:51:22.165Z",
+  "generatedAt": "2026-07-15T01:43:45.670Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,8 +9,48 @@
     "openIssues": 28,
     "closedIssues": 2
   },
-  "dataHash": "8ec09a717e106d9f2d48ecaf8c9a544a9ca152f7251b08f4b45f828d58a019e8",
+  "dataHash": "535e37968427f033acde7dbb1695345ab80e8e2d14cf9a9625513cf5dce30860",
   "items": [
+    {
+      "id": "gh_00d1a49b431efa61b7fe0b73",
+      "sourceId": "backend-br/vagas#12339",
+      "title": "Back-end developer (Chatbot) - Híbrido",
+      "description": "Buscamos um Desenvolvedor Sênior especializado em soluções para WhatsApp, responsável por desenvolver, evoluir e manter uma plataforma de atendimento, automação e integração com Inteligência Artificial.\n\n**Requisitos obrigatórios**\n\nExperiência comprovada com a API Oficial do WhatsApp Business (Cloud API e/ou BSPs).\nDesenvolvimento de APIs REST e Webhooks.\nDomínio de Java (Spring Boot), Node.js ou C#/.NET.\nConhecimento sólido em PostgreSQL, MySQL ou MongoDB.\nExperiência com Redis para cache e gerenciamento de sessões.\nConhecimento em filas de processamento (RabbitMQ, Kafka ou similares).\nExperiência com autenticação (JWT, OAuth2) e segurança de APIs.\nDocker e Git.\nExperiência com integrações entre sistemas.\n\n\n**Conhecimentos específicos em WhatsApp**\n\nEnvio e recebimento de mensagens.\nTemplates aprovados.\nFluxos conversacionais.\nAtendimento humano.\nTransferência entre atendentes.\nMúltiplas conexões e múltiplos números.\nGerenciamento de sessões.\nWebhooks em tempo real.\nUpload e download de mídias.\nMensagens de texto, imagem, vídeo, áudio, documentos e localização.\nTratamento de erros e retentativas.\nControle de limites e filas de envio. \n\n\n**Requisitos e qualificações**\nEnsino superior completo em ciências da computação, tecnologia da informação ou afins.\nTer experiência com desenvolvimento backend\nExperiência com chatbot\n\n**Desejável**\nExperiência com OpenAI e IA Generativa.\nChatbots inteligentes.\nRAG.\nLangChain, LangGraph ou frameworks similares.\nIntegração com CRMs e ERPs.\nConhecimento em Kubernetes.\nAWS, Azure ou GCP. \n\nRemuneração: 10k \n\n\nJornada de trabalho\nSegunda a sexta das 9h ás 18h.",
+      "excerpt": "Buscamos um Desenvolvedor Sênior especializado em soluções para WhatsApp, responsável por desenvolver, evoluir e manter uma plataforma de atendimento, automação e integração com Inteligência Artificial. **Requisitos o...",
+      "issueState": "open",
+      "contentHash": "18272d608b2bb40e487cd52bcd58b75bf0ac95f1807c1708e1b98fd700f679e6",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "node.js",
+        "java",
+        "aws",
+        "mysql",
+        "mongodb",
+        "postgresql",
+        "git"
+      ],
+      "author": {
+        "id": "tabata-leal",
+        "name": "tabata-leal",
+        "handle": "tabata-leal",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305114782?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-07-14T21:58:46Z",
+      "updatedAt": "2026-07-14T21:59:08Z",
+      "url": "https://github.com/backend-br/vagas/issues/12339",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a855efed08d014b00ed7fe29",
       "sourceId": "backend-br/vagas#12338",
@@ -1044,49 +1084,6 @@
       "createdAt": "2026-07-06T13:03:32Z",
       "updatedAt": "2026-07-06T14:18:18Z",
       "url": "https://github.com/backend-br/vagas/issues/12314",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ce4e8d30eebff5434179fcdb",
-      "sourceId": "backend-br/vagas#12313",
-      "title": "[Remoto] Desenvolvedor(a) Go Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Go Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Go compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-go-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "90cce4f7b8b2e253d6fefe502aca5218a7d2e45b2631e8593ce2efc68fd9681d",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "go",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:02:32Z",
-      "updatedAt": "2026-07-06T13:03:15Z",
-      "url": "https://github.com/backend-br/vagas/issues/12313",
       "sourceType": "github-issue"
     },
     {

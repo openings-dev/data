@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-10T11:44:58.794Z",
+  "generatedAt": "2026-07-15T01:43:45.670Z",
   "country": "Global",
   "countryCode": "GLOBAL",
   "region": "Global",
   "repository": "vanshb03/Summer2026-Internships",
   "totals": {
     "opportunities": 30,
-    "openIssues": 11,
-    "closedIssues": 19
+    "openIssues": 12,
+    "closedIssues": 18
   },
-  "dataHash": "8a7e038c77dfb8644f07bcc5d4d8f1f8e737487e6c7d9e902b0d15a8335041cc",
+  "dataHash": "96d7a9de9b95d5ae0f88abb79d076b599345b0af1a8742677a5f0b5eaa52ee05",
   "items": [
     {
       "id": "gh_d0cb412687230cff9d910921",
@@ -936,39 +936,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_dbb3a2c2dcef683ab14cc780",
-      "sourceId": "vanshb03/Summer2026-Internships#4495",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://jobs.ashbyhq.com/blackbird-labs-inc/a901dd42-7c52-488a-bd55-f1d5dcd37b38?src=Linkedin\n\n### Company Name\n\nBlackbird Labs\n\n### Internship Title\n\nEngineering Intern\n\n### Location\n\nNew York\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://jobs.ashbyhq.com/blackbird-labs-inc/a901dd42-7c52-488a-bd55-f1d5dcd37b38?src=Linkedin ### Company Name Blackbird Labs ### Internship Title Engineering Intern ### Location New Yor...",
-      "issueState": "closed",
-      "contentHash": "5b873da24c4ff7f43b460476deeed0feab45a47e6f8795bafa6c5bfd56363d55",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-05-30T04:54:57Z",
-      "updatedAt": "2026-07-10T00:24:13Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4495",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_8328eb757d4cb3197daec2f6",
       "sourceId": "vanshb03/Summer2026-Internships#4482",
       "title": "New Internship",
@@ -999,6 +966,37 @@
       "createdAt": "2026-05-23T09:06:33Z",
       "updatedAt": "2026-07-10T00:24:27Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4482",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d7e6926e861899ba437027cd",
+      "sourceId": "vanshb03/Summer2026-Internships#4411",
+      "title": "Feature: Flag Support for Referrals",
+      "description": "With our current filtering, we parse and remove any sort of source/url origin tracking that is done with parameters followed by `?` which ends up removing referrals we try to append into our lists(e.g: `?gh_src`: Greenhouse Ref, `?source` : Workday Ref).\n\nOpen to have anyone contribute and add that implementation.",
+      "excerpt": "With our current filtering, we parse and remove any sort of source/url origin tracking that is done with parameters followed by `?` which ends up removing referrals we try to append into our lists(e.g: `?gh_src`: Gree...",
+      "issueState": "open",
+      "contentHash": "12e6482eaf7a0154a2a118e8bbfbf925959cc88bc68fc4eb1da8c1a0fbf7c1da",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "handle": "vanshb03",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48507154?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2025-10-27T15:13:42Z",
+      "updatedAt": "2026-07-14T22:19:23Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4411",
       "sourceType": "github-issue"
     }
   ]
