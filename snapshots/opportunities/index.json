@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T13:19:15.410Z",
+  "generatedAt": "2026-07-15T16:15:28.882Z",
   "schemaVersion": 2,
-  "dataHash": "a28a298d5d691f73b62c42411e83815e03071a2d04c2a07716d370fc515d1d6b",
+  "dataHash": "1e70357051ed9f2c2950128bc93c7e62a3bf8acf36be52535afc0fc599f5d070",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2030,
+    "opportunities": 2031,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -308,6 +308,7 @@
       "api/pages/page-0035.json",
       "api/pages/page-0036.json",
       "api/pages/page-0037.json",
+      "api/pages/page-0038.json",
       "api/search-index.json"
     ]
   },
@@ -436,9 +437,9 @@
       "country": "Global",
       "countryCode": "GLOBAL",
       "region": "Global",
-      "opportunities": 261,
+      "opportunities": 262,
       "repositories": 32,
-      "openIssues": 92,
+      "openIssues": 93,
       "closedIssues": 169,
       "indexFile": "countries/global/index.json"
     },
@@ -528,8 +529,8 @@
       "region": "North America",
       "opportunities": 118,
       "repositories": 22,
-      "openIssues": 56,
-      "closedIssues": 62,
+      "openIssues": 58,
+      "closedIssues": 60,
       "indexFile": "countries/us/index.json"
     },
     {
