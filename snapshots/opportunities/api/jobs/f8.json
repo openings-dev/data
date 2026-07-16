@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-07-10T11:44:58.794Z",
+  "generatedAt": "2026-07-16T01:53:20.646Z",
   "items": {
+    "gh_f84858769bf7bd65b7d9fa12": {
+      "id": "gh_f84858769bf7bd65b7d9fa12",
+      "sourceId": "ambicuity/New-Grad-Jobs#346",
+      "title": "Make the terminal site mobile-friendly (single-column reflow)",
+      "description": "## Problem\n\nThe live site (`docs/index.html` + `docs/terminal/*.jsx`) is a desktop-only Bloomberg-terminal-style dashboard. On phones it forces horizontal scrolling and is effectively unusable.\n\nBlockers:\n- `#root { min-width: 1180px }` forces a 1180px canvas on every viewport\n- `body { overflow-x: auto }` — the layout is designed to scroll sideways\n- Both tabs use fixed 3-column grids (`210px 1fr 460px` / `220px 1fr 460px`) + dense 8–9 column tabular rows\n- No responsive logic exists (`@media` / `matchMedia` / breakpoints all absent)\n\n## Goal\n\nSingle-column **reflow** below a 760px breakpoint, for **both** tabs (Hiring + Contributors). Desktop layout (≥760px) stays pixel-identical.\n\nBecause every component uses inline JS style objects (inline styles beat stylesheet rules), responsiveness is driven by a JS `matchMedia` hook (`useIsMobile`) that components branch on; only the `index.html` `<style>` block uses real `@media`.\n\n## Plan\n\n- New `docs/terminal/use-viewport.jsx` → `useIsMobile()` (`max-width: 760px`)\n- `index.html`: relax `#root` min-width + `body` overflow on mobile via media queries; cache-bust `?v=17`\n- `app.jsx`: TopBar wraps, tappable tabs, condensed meta; footer padding\n- `dashboard.jsx`: filters drawer accordion, stats strip horizontal-scroll, table rows → cards, full-screen job detail with BACK, hide F-key hints\n- `contributors.jsx`: same single-column treatment\n\n## Testing\n\nPlaywright screenshots at 320/375/768/1024/1440; assert no horizontal overflow at mobile widths; verify drawer + full-screen detail + both tabs; confirm desktop 1440 unchanged.",
+      "excerpt": "## Problem The live site (`docs/index.html` + `docs/terminal/*.jsx`) is a desktop-only Bloomberg-terminal-style dashboard. On phones it forces horizontal scrolling and is effectively unusable. Blockers: - `#root { min...",
+      "issueState": "open",
+      "contentHash": "d3f1eff92aab7895ed057ea333b936c4c74dd330d9838c384995cca21ce9e6b5",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "intermediate",
+        "ui/ux"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-07-16T01:34:53Z",
+      "updatedAt": "2026-07-16T01:42:21Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/346",
+      "sourceType": "github-issue"
+    },
     "gh_f8bc48516ec4dff88cec9924": {
       "id": "gh_f8bc48516ec4dff88cec9924",
       "sourceId": "vanshb03/Summer2026-Internships#4536",
