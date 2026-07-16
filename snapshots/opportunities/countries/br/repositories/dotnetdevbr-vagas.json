@@ -1,16 +1,59 @@
 {
-  "generatedAt": "2026-07-15T21:52:15.283Z",
+  "generatedAt": "2026-07-16T13:26:00.250Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "dotnetdevbr/vagas",
   "totals": {
     "opportunities": 26,
-    "openIssues": 8,
-    "closedIssues": 18
+    "openIssues": 9,
+    "closedIssues": 17
   },
-  "dataHash": "905cbe1edb4effa2a18d06d48e14aacf612573470e3d0bca4e17a8345ab571e4",
+  "dataHash": "4ba34f0783826669e202287d764ae381859c6ec9f619f13dd7b5888d732542b8",
   "items": [
+    {
+      "id": "gh_1a941191e4752836c5c81470",
+      "sourceId": "dotnetdevbr/vagas#1063",
+      "title": "[Híbrido] Back-End Developer (ASP.NET Core) Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer (ASP.NET Core) nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com .NET/ASP.NET Core compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-net-asp-net-core-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "0593b33bb88d2b93b5386529cc69a7d0580a0c9f648af02cf1e5a2c800abe8e4",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-16T13:12:20Z",
+      "updatedAt": "2026-07-16T13:12:43Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1063",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ac9d2a190dca87b415fa96f3",
       "sourceId": "dotnetdevbr/vagas#1062",
@@ -1005,46 +1048,6 @@
       "createdAt": "2025-04-25T13:52:33Z",
       "updatedAt": "2025-08-28T01:02:23Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1029",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9887cf3c0ff9e92b23f25a2c",
-      "sourceId": "dotnetdevbr/vagas#1028",
-      "title": "[SP - Híbrido] Back-end Developer DotNet @ ITeam",
-      "description": "### Nossa empresa\n\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP,  realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. \nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado. \nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n\n### Descrição da vaga\n\nDesenvolvimento de APIs e integrações;\nGerenciamento de banco de dados;\nCorreção de bugs e evolução de aplicações;\nManutenção de componentes existentes;\nImplementação de segurança e otimização de desempenho.\n \n\n### Local\n\n\n Híbrido (2x por semana presencial – Zona Sul, SP) \n\n\n\n### Requisitos\n\nBanco de dados e arquitetura de sistemas;\nSegurança cibernética;\nExperiência com .NET 6+;\nC# com AspNetCore WebApi Restful;\nEntity Framework, IIS, Swagger;\nCamadas DDD e DDO;\nSQL Server (>= 2016);\nVisual Studio 2022.\n\n\n### Benefícios\n\nNão\n\n### Contratação\n\n2 meses PJ ou cooperado, com efetivação posterior como CLT\n\n### Como se candidatar\n\nPor favor, envie o currículo atualizado com a pretensão de taxa/hora PJ para: viviane.pereira@iteam.inf.br\n\n### Tempo médio de feedbacks\n\n1 semana\n\n### Keywords\n\n.Net\n.Net core\n\n### Alocação\n\n- [X] Alocado\n- [ ] Remoto\n- [ ] Presencial\n- [X] Híbrido\n\n### Regime\n\n- [ ] CLT\n- [ ] Estágio\n- [ ] Freela\n- [X] PJ\n- [X] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto",
-      "excerpt": "### Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções espe...",
-      "issueState": "closed",
-      "contentHash": "b835c91d8381e2029d04cabb3201644097470ea5bd149fdcd33a05965a3f6658",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "alocado",
-        "cooperado",
-        "stale",
-        "full time",
-        "híbrido",
-        "💰 nao informado"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "createdAt": "2025-03-28T21:15:25Z",
-      "updatedAt": "2025-06-03T01:08:17Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1028",
       "sourceType": "github-issue"
     },
     {
