@@ -1,23 +1,57 @@
 {
-  "generatedAt": "2026-07-16T01:53:20.646Z",
+  "generatedAt": "2026-07-16T05:33:19.755Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
     "opportunities": 10,
-    "openIssues": 1,
-    "closedIssues": 9
+    "openIssues": 0,
+    "closedIssues": 10
   },
-  "dataHash": "e85dd71d828c485036d4bd8920eb13752a32b96dfe1826f5607b52d8dae18453",
+  "dataHash": "28dabdfeb8a9a7321fc6cb06ee4c4a1cd4528e0f7fc2cc5be8ebf338620bc38c",
   "items": [
+    {
+      "id": "gh_6a37b33694dc9ddad7478358",
+      "sourceId": "ambicuity/New-Grad-Jobs#348",
+      "title": "Raise mobile breakpoint to 1180px so tablets reflow too",
+      "description": "Follow-up to #346.\n\nAt the current **760px** breakpoint, portrait tablets and landscape tablets in the 761–1180px band (iPad portrait 768, iPad landscape 1080, iPad mini 1133) fall into desktop mode and get the 3-column terminal, which has a **1180px min-width** and therefore scrolls horizontally on those screens.\n\n**Fix:** raise the breakpoint to the terminal's own min-width — reflow to single column whenever the viewport can't fit the 1180px desktop terminal. This eliminates the horizontal-scroll band entirely:\n\n- `≤ 1180px` → single-column mobile reflow (phones + all tablets)\n- `> 1180px` → desktop 3-column terminal (fits, no scroll)\n\nOne-line change: bump `MOBILE_MAX_PX` in `docs/terminal/use-viewport.jsx` (760 → 1180) and the matching `@media` in `index.html`; everything else derives from that constant.",
+      "excerpt": "Follow-up to #346. At the current **760px** breakpoint, portrait tablets and landscape tablets in the 761–1180px band (iPad portrait 768, iPad landscape 1080, iPad mini 1133) fall into desktop mode and get the 3-colum...",
+      "issueState": "closed",
+      "contentHash": "dfc0c0574c5d1db5a9823aa469d30028785ddadfe364e1e870b01dfbd2c81ba9",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "ui/ux"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-07-16T02:16:50Z",
+      "updatedAt": "2026-07-16T02:21:53Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/348",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_f84858769bf7bd65b7d9fa12",
       "sourceId": "ambicuity/New-Grad-Jobs#346",
       "title": "Make the terminal site mobile-friendly (single-column reflow)",
       "description": "## Problem\n\nThe live site (`docs/index.html` + `docs/terminal/*.jsx`) is a desktop-only Bloomberg-terminal-style dashboard. On phones it forces horizontal scrolling and is effectively unusable.\n\nBlockers:\n- `#root { min-width: 1180px }` forces a 1180px canvas on every viewport\n- `body { overflow-x: auto }` — the layout is designed to scroll sideways\n- Both tabs use fixed 3-column grids (`210px 1fr 460px` / `220px 1fr 460px`) + dense 8–9 column tabular rows\n- No responsive logic exists (`@media` / `matchMedia` / breakpoints all absent)\n\n## Goal\n\nSingle-column **reflow** below a 760px breakpoint, for **both** tabs (Hiring + Contributors). Desktop layout (≥760px) stays pixel-identical.\n\nBecause every component uses inline JS style objects (inline styles beat stylesheet rules), responsiveness is driven by a JS `matchMedia` hook (`useIsMobile`) that components branch on; only the `index.html` `<style>` block uses real `@media`.\n\n## Plan\n\n- New `docs/terminal/use-viewport.jsx` → `useIsMobile()` (`max-width: 760px`)\n- `index.html`: relax `#root` min-width + `body` overflow on mobile via media queries; cache-bust `?v=17`\n- `app.jsx`: TopBar wraps, tappable tabs, condensed meta; footer padding\n- `dashboard.jsx`: filters drawer accordion, stats strip horizontal-scroll, table rows → cards, full-screen job detail with BACK, hide F-key hints\n- `contributors.jsx`: same single-column treatment\n\n## Testing\n\nPlaywright screenshots at 320/375/768/1024/1440; assert no horizontal overflow at mobile widths; verify drawer + full-screen detail + both tabs; confirm desktop 1440 unchanged.",
       "excerpt": "## Problem The live site (`docs/index.html` + `docs/terminal/*.jsx`) is a desktop-only Bloomberg-terminal-style dashboard. On phones it forces horizontal scrolling and is effectively unusable. Blockers: - `#root { min...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "d3f1eff92aab7895ed057ea333b936c4c74dd330d9838c384995cca21ce9e6b5",
       "repository": "ambicuity/New-Grad-Jobs",
       "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
@@ -43,7 +77,7 @@
         "url": "https://github.com/ambicuity/New-Grad-Jobs"
       },
       "createdAt": "2026-07-16T01:34:53Z",
-      "updatedAt": "2026-07-16T01:42:21Z",
+      "updatedAt": "2026-07-16T02:07:48Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/346",
       "sourceType": "github-issue"
     },
@@ -80,44 +114,6 @@
       "createdAt": "2026-07-15T23:21:49Z",
       "updatedAt": "2026-07-15T23:32:06Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/344",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4a795bc5217ca32263bfde59",
-      "sourceId": "ambicuity/New-Grad-Jobs#335",
-      "title": "Feature Tailr as project sponsor (README + terminal site) + add a Support section",
-      "description": "## Summary\n\nThe project has a real sponsor — **[Tailr](https://www.tailr.uk)** — but it isn't credited anywhere. The README has no sponsor/support section, and the site only exposes the Buy Me a Coffee (☕ SPONSOR) button, which is the *inverse* relationship (visitors funding the maintainer).\n\nThis adds an honest sponsor credit for Tailr and formalizes the existing support channels.\n\n## Scope\n\n**Website (`docs/terminal/app.jsx`)**\n- New `SponsoredBy` badge — `◆ SPONSORED BY [T] tailr` with an inline SVG of Tailr's white-T mark, in the top-bar meta cluster **immediately left of** the existing ☕ SPONSOR button (unchanged).\n- Links to https://www.tailr.uk (new tab, `rel=noopener`).\n- Bump the `?v=` cache-bust token in `docs/index.html` so Pages serves the update.\n\n**README.md** (hand-edited, outside the auto-synced `<!-- COUNT:* -->` markers — CI-safe)\n- `## 💛 Sponsored by Tailr` block near the top (wordmark + honest one-liner + link).\n- `## 💖 Support This Project` section (GitHub Sponsors + Buy Me a Coffee), mirroring `.github/FUNDING.yml`.\n\n**Assets**\n- `docs/assets/tailr-mark.svg`, `docs/assets/tailr-wordmark.png`.\n\n## Honesty constraints\n- Tailr is the maintainer's sibling product; its positioning explicitly calls for cross-promotion via the New-Grad-Jobs projects, so the credit is intended and truthful.\n- Generic tech-company logos are **not** used as \"sponsors\". A separate, honest \"Companies Hiring\" logo wall is deferred to a follow-up.\n\n## Non-goals\n- Companies-hiring logo wall (follow-up PR).\n- No change to the ☕ SPONSOR button meaning, footer, scraper, or `jobs.json`.\n\n## Acceptance\n- [ ] Tailr badge visible left of SPONSOR on the site, links to tailr.uk\n- [ ] README has Sponsored-by-Tailr + Support sections\n- [ ] Full CI green (pytest, pre-commit, codeql, pages build)",
-      "excerpt": "## Summary The project has a real sponsor — **[Tailr](https://www.tailr.uk)** — but it isn't credited anywhere. The README has no sponsor/support section, and the site only exposes the Buy Me a Coffee (☕ SPONSOR) butt...",
-      "issueState": "closed",
-      "contentHash": "00b7adfd872527600da2cd88355766c420e6dc4c77415d28d1dd4e35aaa82526",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "type: docs",
-        "type: enhancement",
-        "help wanted",
-        "intermediate",
-        "ui/ux",
-        "community"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-07-15T19:06:21Z",
-      "updatedAt": "2026-07-15T19:27:28Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/335",
       "sourceType": "github-issue"
     },
     {
