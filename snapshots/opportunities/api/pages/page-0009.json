@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-17T05:34:55.732Z",
+  "generatedAt": "2026-07-17T10:40:35.190Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_013fc51e27303cd4f39e79f4",
+    "gh_be50acb92fd1e6f15d691634",
     "gh_d81794e5ab97bdb98979d656",
     "gh_469899e05e436a7c83bdffae",
     "gh_7151b2ccbb7fa087b2289ae3",
@@ -21,11 +23,82 @@
     "gh_aee09e92fadf8366a70512db",
     "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
-    "gh_0e98dad659c3df11a1cb1cc8",
-    "gh_5f066bed10486c20bcb3fc70",
-    "gh_84cd180e02db9815d917bcc4"
+    "gh_0e98dad659c3df11a1cb1cc8"
   ],
   "items": [
+    {
+      "id": "gh_013fc51e27303cd4f39e79f4",
+      "sourceId": "awesome-jobs/vietnam#4948",
+      "title": "Cartrack VN - Data Platform Engineer (ClickHouse, AI agents) - HCM - FT",
+      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n \n* Open Salary\n\n## Requirements \n\n* Strong proficiency in one or more of the following: C, C++, C#, Go, or Rust.\n* Proficiency in Python for scripting and automation.\n* Experience with Airflow and complex ETL processes involving large datasets.\n* Solid understanding of data architecture, database optimization, and monitoring best practices.\n* Hands-on experience with Docker, Linux environments, and version control systems.\n\n## Responsibilities \n\n* Design, build, and maintain data pipelines and ETL workflows using tools like Airflow.\n* Develop monitoring systems to detect upstream data changes and maintain data freshness.\n* Optimize relational and analytical databases for performance, including partitioning, indexing, and table design.\n* Implement data quality, data lineage, and source documentation standards.\n* Manage and tune analytics databases such as ClickHouse, Druid, StarRocks, or Doris.\n* Work with relational databases such as PostgreSQL, MySQL, SQL Server, or Oracle.\n* Leverage distributed query tools (e.g., Spark, Trino) to support scalable data analysis.\n* Build, deploy, and monitor services in Linux environments, including shell scripting and debugging.\n* Create and maintain Docker images, ensuring consistent environments for development and deployment.\n* Integrate data workflows with CI/CD pipelines using tools such as GitLab, GitHub, or Bitbucket.\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* Managing terabyte-scale data lake to ClickHouse on Kubernetes\n* Opportunities involving LLM Agents (LlamaIndex, LangChain, Qdrant, …)\n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
+      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Strong proficiency in one or more of the following: C, C++, C#, Go, or Rust. * Proficiency in Python for scripting an...",
+      "issueState": "open",
+      "contentHash": "f9354bbcb51e56cf70147812a4beb71175230fa204bbc98aad319c5d036259b4",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "python",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "giang-vu-2700",
+        "name": "giang-vu-2700",
+        "handle": "giang-vu-2700",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-17T07:01:34Z",
+      "updatedAt": "2026-06-17T07:01:34Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4948",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_be50acb92fd1e6f15d691634",
+      "sourceId": "awesome-jobs/vietnam#4947",
+      "title": "NAB Vietnam - Senior/Lead Java Developer - Hybrid/HCMC - FT",
+      "description": "## Location\n\n* HCMC, Vietnam\n* Hybrid (2 office days/week)\n\n## Salary Expectation \n\n* To be negotiated based on the interview performance\n\n## Skills\n\n### Must Have \n* Java 8+, Spring, Springboot\n* Designing & developing RESTful APIs and microservices-based system\n* Cloud computing and AWS and Container\n* DevOps and CI/CD pipelines\n* Strong English communication\n\n### Ideally\n\n* Experience in Javascript\n* Experience in the Banking or Financial Services industry\n\n## Responsibilities\n\n* Design, develop, review, implement, and manage Java applications and services for the production and pre-release environments; \n* Design, develop, review, implement, and manage continuous integration, build management and deployment scripts, systems, and any code as required; \n* Participate in Agile software development, prototyping, and code review with international development teams to build scalable microservices-based products and APIs using Java technologies on AWS Cloud architecture; \n* Fully understand the requirements of the customer or business and utilize this knowledge to develop applications that are consistent with this; \n* Work with delivery teams to achieve success through development using CI/CD and DevOps practices, processes, and tooling; \n* Provide robust coding practices, solid unit/component test coverage, and debugging code. \n\n\n## Contact\n* Mail: thao.vo3@nab.com.au\n* Zalo: 0939 236 757",
+      "excerpt": "## Location * HCMC, Vietnam * Hybrid (2 office days/week) ## Salary Expectation * To be negotiated based on the interview performance ## Skills ### Must Have * Java 8+, Spring, Springboot * Designing & developing REST...",
+      "issueState": "open",
+      "contentHash": "10a7d5d491212ae01de79e3cf3a783db466aa7e04a3206d7737876940c55b01e",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "hybrid",
+        "java",
+        "senior",
+        "devops",
+        "design"
+      ],
+      "author": {
+        "id": "thaovo1012",
+        "name": "thaovo1012",
+        "handle": "thaovo1012",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71322736?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-06-17T04:03:45Z",
+      "updatedAt": "2026-06-17T04:05:07Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4947",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d81794e5ab97bdb98979d656",
       "sourceId": "backend-br/vagas#12285",
@@ -706,73 +779,6 @@
       "createdAt": "2026-06-08T16:58:12Z",
       "updatedAt": "2026-06-08T16:58:12Z",
       "url": "https://github.com/nerdzao/vagas/issues/193",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5f066bed10486c20bcb3fc70",
-      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
-      "title": "Add Canada data/new-grad jobs companion resource?",
-      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
-      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
-      "issueState": "open",
-      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
-      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
-        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
-      },
-      "createdAt": "2026-06-05T19:14:10Z",
-      "updatedAt": "2026-06-05T19:14:10Z",
-      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_84cd180e02db9815d917bcc4",
-      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
-      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
-      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
-      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
-      "issueState": "open",
-      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
-      "repository": "jobright-ai/2026-Software-Engineer-Internship",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Software-Engineer-Internship",
-        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
-      },
-      "createdAt": "2026-06-05T14:28:49Z",
-      "updatedAt": "2026-06-05T14:28:49Z",
-      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
       "sourceType": "github-issue"
     }
   ]

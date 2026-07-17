@@ -1,16 +1,15 @@
 {
-  "generatedAt": "2026-07-16T13:26:00.250Z",
+  "generatedAt": "2026-07-17T10:40:35.190Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_5f066bed10486c20bcb3fc70",
+    "gh_84cd180e02db9815d917bcc4",
     "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
-    "gh_7bcd691815b883db937698fc",
     "gh_a2bf5d8b1ac2ec634b465f35",
     "gh_83b66ce2daefa84016b71185",
-    "gh_8ee64993911f93d90ce95023",
-    "gh_5bbf90a5dd403bda6fdd6036",
     "gh_70eda67c2285a24c2f32ca41",
     "gh_828a908398f893b1e0c6ca3d",
     "gh_28a89509442cf0e8c335df8d",
@@ -23,9 +22,77 @@
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
-    "gh_e9177ae252d1679b2e5d82c5"
+    "gh_e9177ae252d1679b2e5d82c5",
+    "gh_5708c7b7c69bc276f6fb8941"
   ],
   "items": [
+    {
+      "id": "gh_5f066bed10486c20bcb3fc70",
+      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
+      "title": "Add Canada data/new-grad jobs companion resource?",
+      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
+      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
+      "issueState": "open",
+      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
+      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
+      },
+      "createdAt": "2026-06-05T19:14:10Z",
+      "updatedAt": "2026-06-05T19:14:10Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_84cd180e02db9815d917bcc4",
+      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
+      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
+      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
+      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
+      "issueState": "open",
+      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
+      },
+      "createdAt": "2026-06-05T14:28:49Z",
+      "updatedAt": "2026-06-05T14:28:49Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_eca179323abe1309b96e6c74",
       "sourceId": "remote-es/remotes#192",
@@ -89,42 +156,6 @@
       "createdAt": "2026-06-04T11:24:11Z",
       "updatedAt": "2026-06-04T11:24:11Z",
       "url": "https://github.com/jobright-ai/2026-Engineer-Internship/issues/2",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7bcd691815b883db937698fc",
-      "sourceId": "awesome-jobs/vietnam#4941",
-      "title": "Cartrack VN - Senior AI Engineer (Computer Vision) - HCM - FT",
-      "description": "## Location \n\n* 408 Dien Bien Phu, Vuon Lai Ward, HCM\n\n## Salary Range \n\n* Open Salary\n\n## Requirements \n\n* Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing.\n* Proficient with Python, PyTorch, and a strong academic background in CS, Engineering, Mathematics, or Statistics.\n* A self-motivated engineer who prefers deep technical optimization over AI hype and enjoys collaborating in a fast-paced R&D hub.\n\n## Responsibilities \n\n* Conceptualize and develop computer vision models to model driver behavior, road detection, signal detection, in cabin characteristics, etc.\n* Provide signals based on video/image detection algorithms for other machine learning algorithms, such as road flow or traffic densities.\n* Develop signal processing models as to characterize the attributes to a time series matrix.\n* Test and put algorithms into a production ready state.\n* Constructing solution concepts from insights using familiar or unfamiliar data sources or complete or partial data.\n* Imputing the dependency between sensors and time series data.\n* Design and build machine/deep learning and optimization algorithms efficiently\n* Integrate, simulate, and test the impact of algorithms and features on the overall system\n* Develop and execute necessary analyses, simulations, etc. to validate models and identify improvement opportunities\n* Store, retrieve and visualize results in a manner that facilitates required analyses\n* Effectively conceptualize analyses to business/product stakeholders\n\n## Why it would be awesome to work with us\n\n* Attractive salary\n* Flat organization structure\n* Lean & Agile: No unnecessary red tape.\n* Quality First: We care about clean, scalable code.\n* Execution Mindset: We focus on getting the job done.\n    \n## Interesting Engineering Projects \n\n* We have worked on camera/ sensor related projects, but our Head has more interesting plans, I would prefer him to discuss further with you :P \n* Choose Cartrack VN if you prefer a fast-paced environment, love building robust, production-grade systems that handle massive real-world scale, and want to see your AI models directly impact global fleet safety and logistics efficiency.\n\n## Contact \n* if you are interested please feel free to reach out to Giang - Senior Recruiter at giang.vu@cartrack.com. Many thanks!",
-      "excerpt": "## Location * 408 Dien Bien Phu, Vuon Lai Ward, HCM ## Salary Range * Open Salary ## Requirements * Minimum 6+ years of relevant experience in video/image detection, prediction, classification, or signal processing. *...",
-      "issueState": "open",
-      "contentHash": "6329f597e5ebb48686f736bc3b7b4f7b9084c9a9176d8e1dee3e1d0b90e045ac",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "python",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "giang-vu-2700",
-        "name": "giang-vu-2700",
-        "handle": "giang-vu-2700",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67352094?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-06-04T10:55:16Z",
-      "updatedAt": "2026-06-04T10:57:58Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4941",
       "sourceType": "github-issue"
     },
     {
@@ -194,79 +225,6 @@
       "createdAt": "2026-06-03T17:57:21Z",
       "updatedAt": "2026-06-03T17:57:51Z",
       "url": "https://github.com/programadores-br/geral/issues/3077",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8ee64993911f93d90ce95023",
-      "sourceId": "awesome-jobs/vietnam#4940",
-      "title": "WAOHire - Senior Fullstack Developer (Golang) - Hybrid HCMC - FT",
-      "description": "**Responsibilities:**\n- Build and scale product experiences across backend and frontend systems.\n- Develop high-performance services using Go while collaborating across Java-based environments.\n- Deliver responsive and scalable user experiences using Angular and/or ReactJS.\n- Design and operate cloud-native infrastructure on AWS.\n- Collaborate closely with Product, Design, and Engineering teams globally.\n- Contribute to architecture decisions and improve engineering standards.\n- Work in a fast experimentation environment driven by customer and business feedback.\n- Use AI-enhanced engineering workflows to improve delivery velocity and quality.\n- Participate in improving reliability, observability, and operational excellence.\n\n**Requirements:**\n- 5+ years of software engineering experience in product environments.\n- Strong backend development experience with Go (preferred) and exposure to Java (nice-to-have).\n- Strong frontend experience with Angular and/or ReactJS.\n- Hands-on experience building and operating workloads on AWS.\n- Experience delivering end-to-end applications across backend and frontend layers.\n- Experience working with APIs, distributed systems, and modern engineering practices.\n- Exposure to Web3 ecosystems, blockchain products, or digital ownership platforms.\n- AI-first mentality and comfort using AI tools to improve productivity.\n- Be extremely active experimenting with AI-driven art pipelines. Heavily integrating AI into your work.\n- Strong communication skills in English, both written and verbal.\n\n**Benefits:**\n- Competitive salary upto $2500 (100% paid during probation).\n- Work on products used globally with talented international team.\n- 13th-month salary, annual performance review.\n- Annual health check-ups.\n- Full insurance (Social, Health, and Unemployment Insurance) in compliance with Vietnam Labor Law.\n- Location: District 1, HCMC\n\nPlease contact **+84 834033300 (Zalo/Whatsapp)** for more details",
-      "excerpt": "**Responsibilities:** - Build and scale product experiences across backend and frontend systems. - Develop high-performance services using Go while collaborating across Java-based environments. - Deliver responsive an...",
-      "issueState": "open",
-      "contentHash": "67f89e0c9a502efd35b09f737088bea94fc7814915f864d14e82333a1bd0b09c",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "frontend",
-        "backend",
-        "fullstack",
-        "react",
-        "golang",
-        "java",
-        "senior"
-      ],
-      "author": {
-        "id": "nhatruchr",
-        "name": "nhatruchr",
-        "handle": "nhatruchr",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/231218520?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-06-03T08:46:19Z",
-      "updatedAt": "2026-06-03T08:49:20Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4940",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5bbf90a5dd403bda6fdd6036",
-      "sourceId": "lukasz-madon/awesome-remote-job#1067",
-      "title": "远程AI工程师",
-      "description": "AI 效能官                                    📩 简历投递：@foya991\nAgent 架构师\n高级 AI 开发工程师\nAI 应用开发工程师\n\"高级/专家 AI 流程开发工程师\n（ Agent/自动化方向）\"\n高级/专家 AI 应用工程师（ Agent Ops ）\n高级产品经理\n高级后端工程师\nFlutter 高级开发工程师\n运维工程师\n高级 UI 设计师\n测试工程师\nAI 研发工程师\nai 产品经理\nAgent 架构师\nai 产品经理\nAI 增效前端工程师\nAI 应用工程师\nAI 设计师/ AI designer\nAI 效能工程师\nai 产品研发工程师\nAI 应用工程师\nAI 应用工程师\nAI 架构师\niOS 开发工程师\nAndroid 开发工程师\nAI 应用工程师\nAI 产品经理（ Agent / Skill 方向）",
-      "excerpt": "AI 效能官 📩 简历投递：@foya991 Agent 架构师 高级 AI 开发工程师 AI 应用开发工程师 \"高级/专家 AI 流程开发工程师 （ Agent/自动化方向）\" 高级/专家 AI 应用工程师（ Agent Ops ） 高级产品经理 高级后端工程师 Flutter 高级开发工程师 运维工程师 高级 UI 设计师 测试工程师 AI 研发工程师 ai 产品经理 Agent 架构师 ai 产品经理 AI 增效前端工程师...",
-      "issueState": "open",
-      "contentHash": "93d71b86268b23982a4ba18c0026c9011b9d60f42e27c5c4e1834092253bf27b",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "design"
-      ],
-      "author": {
-        "id": "DaphneWhit",
-        "name": "DaphneWhit",
-        "handle": "DaphneWhit",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/229247587?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-06-03T02:55:54Z",
-      "updatedAt": "2026-06-03T02:55:54Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1067",
       "sourceType": "github-issue"
     },
     {
@@ -727,6 +685,41 @@
       "createdAt": "2026-05-26T12:26:29Z",
       "updatedAt": "2026-05-26T12:26:29Z",
       "url": "https://github.com/devfsa/vagas/issues/2827",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5708c7b7c69bc276f6fb8941",
+      "sourceId": "devfsa/vagas#2826",
+      "title": "[Remoto] Analista de Suporte ao Produto na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-suporte-ao-produto-185619147?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\n**Objetivo do Cargo:**\n\n*   Ser o ponto focal entre clientes e o time interno da Arbitralis — recebendo, triando e encaminhando todos os suportes antes de chegar ao time de desenvolvimento\n    \n*   Ser responsável por todo o fluxo de suporte: receber a demanda, verificar, documentar e garantir que chegue ao time com contexto suficiente para execução\n    \n*   Conduzir reuniões e interações com clientes para levantar requisitos e configurações de agentes conversacionais de IA\n    \n*   Entender, documentar e traduzir necessidades técnicas e operacionais em tarefas claras para o time de desenvolvimento e produto\n    \n*   Gerenciar e priorizar demandas com base em impacto e urgência — sem precisar de empurrão para decidir\n    \n\n**Responsabilidades Principais:**\n\n*   Receber, verificar e triar todos os suportes e solicitações de clientes — sendo a primeira linha de contato antes de qualquer escalada ao time técnico\n    \n*   Ser o contato diário de clientes sobre bugs, suportes e solicitações — respondendo com agilidade e gerando confiança\n    \n*   Conduzir reuniões de levantamento com clientes para coletar informações necessárias à configuração e evolução de agentes de IA\n    \n*   Entender, verificar e documentar demandas de suporte técnico da secretaria e clientes, transformando em tarefas bem descritas no ClickUp\n    \n*   Gerenciar, organizar e priorizar demandas conforme impacto e urgência, alinhando expectativas com clientes e time interno\n    \n*   Identificar padrões de problemas recorrentes e propor melhorias de processo ou produto com base nas demandas recebidas\n    \n*   Colaborar ativamente com PM, Design e Desenvolvimento para garantir que as demandas cheguem ao time com contexto suficiente para execução\n    \n*   Documentar aprendizados, processos e histórico de atendimento de forma estruturada no ClickUp\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n## Local: \n Remota\n## Requisitos: \n - Experiência em atendimento B2B: condução de reuniões, coleta de requisitos, gestão de expectativas e comunicação clara em canais escritos e verbais \n- Capacidade de transformar conversas e demandas em tarefas bem descritas, organizadas e priorizadas. Domínio de ClickUp ou ferramenta similar \n- Sabe identificar urgência e impacto, priorizar sem depender de validação constante e manter o fluxo de trabalho do time desobstruído \n- Conforto para entender e categorizar bugs e problemas técnicos, mesmo sem capacidade de resolver sozinho — sabe o que perguntar e como descrever para o time de dev \n- Escreve com clareza, sem ruído e sem jargão desnecessário. Adapta o tom para cliente e para time interno\n## Diferenciais: \n - Experiência prévia em empresas que atuam com Inteligência Artificial, automações ou produtos orientados a IA \n- Conhecimento prático de ferramentas Vibe Coding (Lovable, v0, Cursor ou similares) para criação e validação rápida de soluções \n- Uso fluente de Claude, Claude Code, ChatGPT ou ferramentas similares no dia a dia de trabalho — não como curiosidade, mas como hábito \n- Familiaridade com agentes conversacionais: sabe o que são, como funcionam e como levantar requisitos para configurá-los\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Analista de Suporte ao Produto na Arbitralis](https://coodesh.com/jobs/analista-de-suporte-ao-produto-185619147?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nSuporte Técnico",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "f8f3a16683727307f26ddbdb648ba18b87033152ddef69a62354f87b7415ef3c",
+      "repository": "devfsa/vagas",
+      "repositoryUrl": "https://github.com/devfsa/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "devfsa",
+        "name": "devfsa",
+        "avatarUrl": "https://github.com/devfsa.png?size=80",
+        "repository": "devfsa/vagas",
+        "url": "https://github.com/devfsa/vagas"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-25T18:56:54Z",
+      "updatedAt": "2026-05-25T18:56:54Z",
+      "url": "https://github.com/devfsa/vagas/issues/2826",
       "sourceType": "github-issue"
     }
   ]
