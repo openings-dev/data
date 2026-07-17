@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-04-29T13:29:01.811Z",
+  "generatedAt": "2026-07-17T13:10:38.850Z",
   "country": "Angola",
   "countryCode": "AO",
   "region": "Africa",
   "totals": {
-    "opportunities": 47,
+    "opportunities": 45,
     "repositories": 2,
     "openIssues": 0,
-    "closedIssues": 47
+    "closedIssues": 45
   },
   "failedRepositories": [],
   "byRepository": [
     {
       "repository": "backend-ao/vagas",
-      "issues": 24,
-      "openIssues": 0,
-      "closedIssues": 24,
-      "file": "countries/ao/repositories/backend-ao-vagas.json",
-      "hash": "157ef097cc4dd336f1f1f1158a32b2ac367d0f9ed6ec9dd1c7038179dadfa100"
-    },
-    {
-      "repository": "frontend-ao/vagas",
       "issues": 23,
       "openIssues": 0,
       "closedIssues": 23,
+      "file": "countries/ao/repositories/backend-ao-vagas.json",
+      "hash": "25d1e0f96b63e4c635d2f4748c42d66f454ded1fad0e3fda4eb6028539707d6e"
+    },
+    {
+      "repository": "frontend-ao/vagas",
+      "issues": 22,
+      "openIssues": 0,
+      "closedIssues": 22,
       "file": "countries/ao/repositories/frontend-ao-vagas.json",
-      "hash": "01502da0412bce3da9cc46577bad158a472b5ba5bffcba2fe37abf2876961e09"
+      "hash": "31206fee5ef8c5f75252a95e9f7daa6f60a60cb1549ed2c53e94ff6df36cacf2"
     }
   ]
 }
