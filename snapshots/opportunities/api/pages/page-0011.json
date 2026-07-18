@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-17T16:09:26.999Z",
+  "generatedAt": "2026-07-18T01:47:15.651Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
     "gh_e9177ae252d1679b2e5d82c5",
@@ -22,10 +23,46 @@
     "gh_c33f944f0198dd7fdf21feba",
     "gh_04e16e2c007892d76818f4d4",
     "gh_ba4f8e13f468e4ef55d8683c",
-    "gh_08c2b289f0b0fbaf5bd9f142",
-    "gh_23e88f37c8cdd99dec55a249"
+    "gh_08c2b289f0b0fbaf5bd9f142"
   ],
   "items": [
+    {
+      "id": "gh_1f61de8de06b483a9a82d5f4",
+      "sourceId": "nerdzao/vagas#191",
+      "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
+      "description": "Nossa empresa\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\nRequisitos\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\nEvent Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nBenefícios\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\nContratação\nCooperativa\n\nComo se candidatar\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\nNível\nSênior\n\nRegime\nCooperado\n\nAlocação\nHíbrido",
+      "excerpt": "Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado...",
+      "issueState": "open",
+      "contentHash": "2fc01278c009d5c1f04db3ab1217bceecb1f162af09e7cadae08ac22860ffae9",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "java",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-05-26T18:22:15Z",
+      "updatedAt": "2026-05-26T18:22:15Z",
+      "url": "https://github.com/nerdzao/vagas/issues/191",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_9dbea54460036bccbb80c963",
       "sourceId": "programadores-br/geral#3074",
@@ -706,39 +743,6 @@
       "createdAt": "2026-05-05T18:56:03Z",
       "updatedAt": "2026-05-06T15:39:22Z",
       "url": "https://github.com/cncf/gitjobs/issues/383",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_23e88f37c8cdd99dec55a249",
-      "sourceId": "datascience-br/vagas#161",
-      "title": "Engenheiro de Dados ETL/ ELT Sênior na ZUP - 100% remoto",
-      "description": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!**\n\n**O que você fará por aqui**\n\n- Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, garantindo alta performance e qualidade dos dados.\n- Orquestrar rotinas complexas de processamento e integração de dados via AWS Step Functions.\n- Executar análises e validações robustas utilizando SQL e Athena, assegurando integridade e confiabilidade das informações.\n- Colaborar com times multidisciplinares para identificar necessidades de dados e propor soluções técnicas aderentes às demandas do negócio.\n- Investigar falhas, propor e implementar melhorias contínuas na arquitetura e nos processos de dados.\n- Documentar soluções, fluxos de dados e boas práticas para promover o alinhamento técnico entre as equipes.\n\n **O que esperamos que você saiba**\n\n- Excelência em desenvolvimento de pipelines usando PySpark no AWS Glue.\n- Domínio de AWS Step Functions para orquestração de pipelines e agendamento de processos.\n- Sólido conhecimento em SQL para consultas avançadas e validações em grandes volumes de dados.\n- Experiência no uso do Athena para exploração, análise e auditoria de dados.\n- Capacidade de monitorar qualidade dos dados e solucionar problemas complexos em ambientes críticos.\n\n **O que será um diferencial**\n\n- Prática com AWS QuickSight para criação de dashboards e visualização de dados.\n- Conhecimento em estratégias avançadas de monitoramento, observabilidade e automação de processos.\n- Experiência em ambientes de dados altamente regulados (LGPD, GDPR).\n- Familiaridade com novas ferramentas de data engineering no ecossistema AWS (como Lake Formation ou Glue DataBrew).\n- Atuação prévia em projetos de melhoria contínua com foco em performance ou escalabilidade.\n\nUm pouco de nossos beneficios:\n\nPLR : \n🍕 VR/VA Flash R$1.440,00\n📱 Plano de celular Vivo Easy ou Claro com reembolso \n🏡 Auxílio Home Office, ajuda de custo de internet \n📚 Capacitação anual  - a partir do 4º mês - para investir em livros, cursos, palestras. A Zup reembolsa 75% do valor dessas capacitações, dentro desse budget)\n🏥 Plano de Saúde SulAmérica ou Unimed\n🦷 Plano Odontológico SulAmérica\n👶 Auxílio creche / Licença paternidade até 90 dias / Licença maternidade até 180 dias\n⭐ Seguro de vida\n💪 Gympass\n💭 Telavita (psicólogo online com 5 sessões gratuitas por mês)\n💵 Bônus por indicação\n🚀 2 Days Off ao ano e Liberdade para trabalhar de onde quiser\ne mais!\n\n\nCandidate-se  enviando seu currículo para o seguinte email:  kauany.riotinto@zup.com.br\n**No título deve conter seu nome e o da vaga \" Engenheiro de Dados ETL/ELT Sênior\"**",
-      "excerpt": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!** **O que você fará por aqui** - Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, gara...",
-      "issueState": "open",
-      "contentHash": "76a9373fd1a6ec20ac048ad1423a63775d2f5b4f1922beaa564122d929065a50",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data"
-      ],
-      "author": {
-        "id": "KauanyFD",
-        "name": "KauanyFD",
-        "handle": "KauanyFD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2026-05-04T17:18:52Z",
-      "updatedAt": "2026-05-12T12:20:37Z",
-      "url": "https://github.com/datascience-br/vagas/issues/161",
       "sourceType": "github-issue"
     }
   ]

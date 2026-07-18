@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-17T16:09:26.999Z",
+  "generatedAt": "2026-07-18T01:47:15.651Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_60b297ea76f69119ead4a4d5",
     "gh_345438a912c4cb4b37d9e419",
     "gh_020d6f6dec261878af8d76eb",
     "gh_392870a4b63440945e50ff90",
@@ -22,10 +23,42 @@
     "gh_fee3b82a1c44adee0d0ed348",
     "gh_a13d0ae8be521bb72be77825",
     "gh_336c16230907727a60de2268",
-    "gh_0c18197f654361e1aa397e03",
-    "gh_ce803112440f8cd9c316f902"
+    "gh_0c18197f654361e1aa397e03"
   ],
   "items": [
+    {
+      "id": "gh_60b297ea76f69119ead4a4d5",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2939",
+      "title": "New Role",
+      "description": "### Link to Job Posting\n\nhttps://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp\n\n### Company Name\n\nSEACORP\n\n### Job Title\n\nSoftware Engineer - Data Analytics Team\n\n### Location\n\nManassas, VA | Middletown, RI\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nnolanplatt1@gmail.com\n\n### Extra Notes (Optional)\n\nWe are looking to hire ASAP! We haven't been getting a ton of candidates, so hoping this will help...",
+      "excerpt": "### Link to Job Posting https://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp ### Company Name SEACORP ### Job Title Software Engineer - Data Analytics Team ### Location Manassas, VA | Middletow...",
+      "issueState": "open",
+      "contentHash": "3afa042404deee41ed7ab645bfae96613b7b604381a7d66e09b5e8b684fdc322",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "nolanplatt",
+        "name": "nolanplatt",
+        "handle": "nolanplatt",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43970139?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-07-15T13:47:10Z",
+      "updatedAt": "2026-07-15T13:47:10Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2939",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_345438a912c4cb4b37d9e419",
       "sourceId": "speedyapply/2026-SWE-College-Jobs#44",
@@ -776,41 +809,6 @@
       "createdAt": "2026-07-13T18:30:42Z",
       "updatedAt": "2026-07-13T18:31:01Z",
       "url": "https://github.com/backend-br/vagas/issues/12335",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ce803112440f8cd9c316f902",
-      "sourceId": "awesome-jobs/vietnam#4965",
-      "title": "🚀 [HCM / Contractor] Backend Java Developer (Banking)",
-      "description": "- Tối thiểu 3 năm kinh nghiệm Java Backend.\n- Có kinh nghiệm dự án Banking/Financial Services.\n- Thành thạo Spring Boot, REST API và Microservices.\n- Có kinh nghiệm với Database, Message Queue, Redis.\n- Hiểu Docker/Kubernetes và quy trình CI/CD.\n- Có kiến thức về Application Security.\n--\nContact Zalo/Phone/Whatsapp: 0582839437",
-      "excerpt": "- Tối thiểu 3 năm kinh nghiệm Java Backend. - Có kinh nghiệm dự án Banking/Financial Services. - Thành thạo Spring Boot, REST API và Microservices. - Có kinh nghiệm với Database, Message Queue, Redis. - Hiểu Docker/Ku...",
-      "issueState": "open",
-      "contentHash": "8caaed37f3cf28ca9597f803f921c76274ad6f7f73fae61b383d25ce3bfb727c",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "backend",
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "PhuongVu-HR",
-        "name": "PhuongVu-HR",
-        "handle": "PhuongVu-HR",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-13T08:09:55Z",
-      "updatedAt": "2026-07-13T08:09:55Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4965",
       "sourceType": "github-issue"
     }
   ]
