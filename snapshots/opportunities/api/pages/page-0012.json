@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-18T01:47:15.651Z",
+  "generatedAt": "2026-07-18T05:18:14.232Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
   "ids": [
+    "gh_08c2b289f0b0fbaf5bd9f142",
     "gh_23e88f37c8cdd99dec55a249",
     "gh_d56bae7c6952a6aa314fa3f2",
     "gh_7e07f369e29e2a6bacb6d970",
@@ -22,10 +23,40 @@
     "gh_dcdf78cbd3dbfc81b414065f",
     "gh_86cf7c4c726a6cec1163d1fb",
     "gh_c01a0a3f6404a175991bbcce",
-    "gh_3cb49aacda2ec7dd8e38be24",
-    "gh_0f0495da862b94749892e684"
+    "gh_3cb49aacda2ec7dd8e38be24"
   ],
   "items": [
+    {
+      "id": "gh_08c2b289f0b0fbaf5bd9f142",
+      "sourceId": "cncf/gitjobs#383",
+      "title": "Ability to manually assign jobs to a foundation/project after submission",
+      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
+      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
+      "issueState": "open",
+      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamweswilson",
+        "name": "iamweswilson",
+        "handle": "iamweswilson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2026-05-05T18:56:03Z",
+      "updatedAt": "2026-05-06T15:39:22Z",
+      "url": "https://github.com/cncf/gitjobs/issues/383",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_23e88f37c8cdd99dec55a249",
       "sourceId": "datascience-br/vagas#161",
@@ -710,46 +741,6 @@
       "createdAt": "2026-03-18T20:37:25Z",
       "updatedAt": "2026-03-18T20:37:53Z",
       "url": "https://github.com/programadores-br/geral/issues/3060",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0f0495da862b94749892e684",
-      "sourceId": "react-native-drops/vagas#148",
-      "title": "[Curitiba] Senior React Native Developer para um cliente da Visionnaire",
-      "description": "## Nossa empresa\n\nFábrica de Software, desenvolvimento com IA.\n\n## Descrição da vaga\n\nBuscamos uma pessoa com experiência sólida em React Native, Expo, visão de produto e cuidado com qualidade técnica. Mais do que executar tarefas, queremos alguém que contribua com melhorias, decisões técnicas e evolução contínua da nossa stack mobile. Trabalho 100% presencial em Curitiba.\n\nAtividades\nVocê vai trabalhar na evolução de aplicativos digitais usados por milhares de pessoas, ajudando a construir experiências mobile mais estáveis, rápidas e relevantes para o nosso público;\nEvoluir aplicativos em produção com foco em performance, estabilidade e experiência do usuário;\nDesenvolver novas funcionalidades e integrações com APIs e serviços de back-end;\nAtuar em problemas reais de compatibilidade entre plataformas, qualidade de entrega e manutenção sustentável;\nTrabalhar com React Native, Expo e EAS no fluxo de configuração, build e publicação dos aplicativos;\nColaborar com designers, desenvolvedores e áreas de negócio na construção de produtos digitais relevantes;\nContribuir com decisões técnicas, melhoria contínua da arquitetura e boas práticas de engenharia.\n\n## Local\n\nPresencial em Curitiba/PR\n\n## Requisitos\n\n**Obrigatórios:**\n\nGraduação em Ciência da Computação, Engenharia de Software ou área relacionada;\nExperiência sólida com React Native;\nBoa base em TypeScript/JavaScript;\nExperiência prática com Expo/EAS, incluindo configuração de projeto, build e publicação;\nVivência com iOS e Android no contexto React Native;\nExperiência em desenvolvimento de Backend e APIs REST;\nConhecimento em autenticação JWT e oAuth2\nFamiliaridade com Git, code review e boas práticas de engenharia;\nCapacidade de investigar problemas, propor melhorias e atuar de forma colaborativa com o time.\nConhecimento em Banco de Dados SQL e No-SQL;\nDisponibilidade para residir em Curitiba/PR ou região metropolitana e atuar no sistema 100% presencial.\n\n**Diferenciais:**\n\nExperiência com CI/CD para apps mobile;\nConhecimento em AWS ou GCP;\nVivência com Node.js / NestJS;\nInteresse em arquitetura, observabilidade e evolução contínua de produto digital.\n\n## Benefícios\n\n- Assistência médica\n- Assistência odontológica\n- Seguro de vida\n- PLR\n- Vale transporte\n- Gympass\n- Auxílio creche\n- Vale Alimentação ou Refeição\n\n## Contratação\n\nCLT \n\n## Como se candidatar\n\nAtravés do link da vaga https://ats.abler.com.br/jobs/visionnaire?slug=desenvolvedor-a-react-native-senior-158167 ou por e-mail recrutamento_selecao@visionnaire.com.br com seu CV anexado - enviar no assunto: Vaga Senior React Native Developer\n\n## Labels\n\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Regime\n\n- CLT\n\n#### Nível\n\n- Sênior",
-      "excerpt": "## Nossa empresa Fábrica de Software, desenvolvimento com IA. ## Descrição da vaga Buscamos uma pessoa com experiência sólida em React Native, Expo, visão de produto e cuidado com qualidade técnica. Mais do que execut...",
-      "issueState": "open",
-      "contentHash": "47d394e3a68076103443aba008b607cd7256098851d3d533511920a0bf84d7b5",
-      "repository": "react-native-drops/vagas",
-      "repositoryUrl": "https://github.com/react-native-drops/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "react",
-        "typescript",
-        "node",
-        "java",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Vilcilaine",
-        "name": "Vilcilaine",
-        "handle": "Vilcilaine",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/62064964?v=4"
-      },
-      "community": {
-        "id": "react-native-drops",
-        "name": "react-native-drops",
-        "avatarUrl": "https://github.com/react-native-drops.png?size=80",
-        "repository": "react-native-drops/vagas",
-        "url": "https://github.com/react-native-drops/vagas"
-      },
-      "createdAt": "2026-03-10T13:05:56Z",
-      "updatedAt": "2026-03-10T13:05:56Z",
-      "url": "https://github.com/react-native-drops/vagas/issues/148",
       "sourceType": "github-issue"
     }
   ]
