@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-07-18T21:43:19.494Z",
+  "generatedAt": "2026-07-19T01:56:13.533Z",
   "page": 18,
   "pageSize": 20,
   "nextPage": "api/pages/page-0019.json",
   "ids": [
-    "gh_9f721eceb70186cf792352d6",
-    "gh_4151e7f977a7129ddadb1f75",
     "gh_c28141e5184dc43757bc8cc2",
     "gh_2ea031555124df79c56fac00",
     "gh_41c29be6f0ed9aa55bba60f2",
@@ -23,83 +21,11 @@
     "gh_18d1e672fe4959dd0f3f1147",
     "gh_37d4fbca63e20e104991a24e",
     "gh_62458a563a0020a9016b76c8",
-    "gh_ecedcc6f225b27b1e3721d8a"
+    "gh_ecedcc6f225b27b1e3721d8a",
+    "gh_6659525a2318e98f752de581",
+    "gh_fb2306ac219103e0929104e5"
   ],
   "items": [
-    {
-      "id": "gh_9f721eceb70186cf792352d6",
-      "sourceId": "datascience-br/vagas#143",
-      "title": "[Remote] Data Platform Engineer na Alternative Payments",
-      "description": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud data warehouse to building the initial ETL pipelines that bring raw data into shape—laying the groundwork for self-service analytics and data-driven decision making.\n\n### What You’ll Bring\n#### Cloud & Infrastructure Expertise\n\n- 5+ years in software or data engineering, with hands-on experience provisioning and maintaining cloud data warehouses (e.g., Snowflake, Amazon Redshift, Google BigQuery)\n- Proficiency with Infrastructure-as-Code tools (Terraform, CloudFormation, Pulumi) to automate data platform deployments\n\n#### ETL & Data Modeling\n\n- Strong SQL skills and experience building ETL pipelines in Python or Java/Scala\n- Familiarity with orchestration frameworks (Airflow, Prefect, Dagster) or transformation tools (dbt)\n- Solid understanding of data modeling patterns (star, snowflake schemas) and best practices for partitioning, clustering and indexing\n\n#### Platform Reliability & Security\n\n- Experience implementing data quality checks, monitoring (Datadog, Prometheus, Monte Carlo) and alerting for pipelines\n- Knowledge of data governance and security—IAM, encryption at rest/in transit, PII redaction\n\n#### Collaboration & Documentation\n\n- Excellent communicator—able to partner with analytics, product and engineering teams to translate requirements into scalable solutions\n- Strong documentation skills to define data platform standards, runbooks and onboarding guides\n\n### What You’ll Own\n\n#### Data Warehouse Provisioning\n\n- Architect and spin up our production and sandbox data warehouse environments using IaC\n- Define resource sizing, scaling policies and cost-optimization strategies\n\n#### ETL Pipeline Development\n\n- Build and deploy the first wave of ETL pipelines to ingest transactional, event and third-party data\n- Implement transformations, schema migrations and incremental workflows\n\n#### Platform Operations & Monitoring\n\n- Embed data quality tests and SLA tracking into every pipeline\n- Set up dashboards and alerts to proactively detect failures, latency spikes or data drift\n\n#### Standards & Enablement\n\n- Establish coding conventions, pipeline templates and best practices for all future data projects\n- Mentor other engineers and analysts on using the data platform, from query optimization to CI/CD for analytics code\n\n#### Cross-Functional Partnership\n\n- Work closely with BI/analytics teams to understand reporting needs and iterate on data models\n- Collaborate with application engineers to identify new data sources and automate their onboarding\n\n### About Us:\n\nAlternative Payments is a leading payments platform for service-based companies. Our innovative platform enables businesses to automate the entire accounts receivable process and reduce the overall expense of payment processing. We are dedicated to fostering growth and providing exceptional value to our clients.\n\n### Our Values\n\nTransparency & Honesty: We operate with transparency to our customers, investors, and other partners, every step of the way. \n\nDependability: We are dependable. We do what we say we are going to do and we do not cut corners. \n\nPartnership: We are partners to our customers, investors, and each other, and work together to solve exciting massive problems. \n\nRevolutionary & Boldness: We are revolutionary & bold. We break down barriers and walls to build our own walls in a stronger, safer, and simpler manner. \n\nDiversity & Inclusion: We work together with people of all backgrounds and seek different viewpoints to generate stronger partnerships and create a stronger, more inclusive company and world. \n\n### Como se candidatar\n\nAplique no link: https://www.alternativepayments.io/careers/?ashby_jid=a5e32e9d-dce0-4b04-beba-ae43cf2aeb76\n\nAceitamos apenas candidatos no Brasil, com currículos em Inglês.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- PJ\n\n#### Nível\n- Sênior\n- Especialista",
-      "excerpt": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud...",
-      "issueState": "open",
-      "contentHash": "1b7165e58c49442fe79d17bf12a14a4a810a9ec146691ceb0d449592c744e0b2",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "python",
-        "java",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "fernandobandeira",
-        "name": "fernandobandeira",
-        "handle": "fernandobandeira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8373980?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Alternative Payments",
-      "createdAt": "2025-06-03T14:57:52Z",
-      "updatedAt": "2025-06-03T14:57:52Z",
-      "url": "https://github.com/datascience-br/vagas/issues/143",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4151e7f977a7129ddadb1f75",
-      "sourceId": "devfsa/vagas#2808",
-      "title": "[Remoto] UX | UI Pleno na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/ux-or-ui-pleno-151010356?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\n<p><strong>Sobre a MIMO:</strong></p>\n<p>Somos uma empresa apaixonada pelo cuidado e por proporcionar experiências incríveis aos nossos clientes. Valorizamos inovação, empatia e a busca constante por soluções que encantam e facilitam a vida das pessoas. Se você gosta de desafios, tecnologia e sonha em construir um atendimento que faz diferença, vem com a gente!</p>\n<p></p>\n<p><strong>O que buscamos:</strong></p>\n<p>Queremos alguém com experiência prática no desenvolvimento de interfaces intuitivas e eficientes, que entenda a jornada do usuário e saiba traduzi-la em soluções digitais impactantes — especialmente em telas de aplicativo.&nbsp;</p>\n<p>Buscamos um perfil proativo, organizado, apaixonado por tecnologia e que coloque o usuário no centro de cada decisão.<br><br></p>\n<p><strong>Principais responsabilidades</strong></p>\n<ul>\n<li>Desenhar interfaces, desde conceitos, protótipos até layouts finais;</li>\n<li>Criar fluxos de navegação, wireframes, protótipos e interfaces visuais em ferramentas como Figma</li>\n<li>Apoiar na elaboração de telas de aplicativo, landing page/website</li>\n<li>Participar de processos de Discovery, trazendo a visão dos usuários</li>\n<li>Realizar testes de usabilidade</li>\n<li>Acompanhar o ciclo de desenvolvimento e de lançamento para verificar se a experiência desenhada atingiu o objetivo inicial</li>\n<li>Aprimorar e manter atualizado o Design System</li>\n<li>Garantir aderência aos princípios de design responsivo, acessível e escalável</li>\n<li>Apoiar com pesquisa de mercado referente a UX|UI Design</li>\n</ul>\n<p></p>\n<p></p>\n## MIMO Benefícios: \n <p>A MiMo Benefícios é uma empresa dedicada a democratizar o acesso à saúde de qualidade no Brasil. Nosso objetivo é superar barreiras geográficas e socioeconômicas, proporcionando atendimento inclusivo e eficiente para todos. Oferecemos uma ampla gama de serviços e planos que se adaptam às necessidades individuais e familiares. Conheça também o MiMo Empresas:</p>\n<p>Oferecemos soluções corporativas para cuidar da saúde dos colaboradores, aumentando a produtividade e bem-estar nas empresas. Nossos planos empresariais incluem todos os benefícios dos planos individuais e familiares, adaptados para atender às necessidades específicas das organizações.</p>\n\n ## Habilidades: \n - Figma \n- UX \n- UX Metrics \n- UX/UI \n- Design de Aplicativos\n## Local: \n Remota\n## Requisitos: \n - Foco em experiência do cliente, com capacidade de propor soluções criativas e eficientes \n- Experiência comprovada em UX/UI Design com entregas de produtos digitais \n- Domínio do Figma e Design System \n- Capacidade de se adaptar rapidamente às mudanças \n- Ter boa capacidade de comunicação e saber trabalhar em equipe \n- Ter um portfólio de trabalho\n## Diferenciais: \n - Experiência em startups, apps de tecnologia e/ou relacionados a saúde\n## Benefícios: \n - Horário Flexível \n- Ambiente de aprendizado \n- APP de benefícios com consulta 24h, assistência pet, residencial, entre outros...\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [UX | UI Pleno na MIMO Benefícios](https://coodesh.com/jobs/ux-or-ui-pleno-151010356?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UX",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "d5f98c4b674565eeb52d7a6ba34fd0a62e211c177ce3cfd7733665984c8d37b2",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-06-02T19:13:56Z",
-      "updatedAt": "2025-06-02T19:13:56Z",
-      "url": "https://github.com/devfsa/vagas/issues/2808",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_c28141e5184dc43757bc8cc2",
       "sourceId": "awesome-jobs/china#2",
@@ -779,6 +705,78 @@
       "createdAt": "2025-04-11T02:58:35Z",
       "updatedAt": "2025-04-11T02:58:35Z",
       "url": "https://github.com/Empregos-dev/Vagas-dev/issues/95",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_6659525a2318e98f752de581",
+      "sourceId": "datascience-br/vagas#141",
+      "title": "(Remoto) Data Analyst Senior",
+      "description": "## Descrição da vaga\n\nEstamos buscando um(a) Engenheiro(a) de Análise Sênior altamente qualificado(a) com experiência avançada em modelagem de dados e ferramentas de visualização. O(a) profissional ideal terá experiência comprovada trabalhando com estruturas de dados médias a complexas em um ambiente corporativo. Ele(a) deve ser proficiente em trabalhar com dados no Snowflake, transformando dados de várias fontes com DBT e visualizando-os eficientemente no Power BI para consumo do cliente. Além disso, valorizamos um(a) profissional disposto(a) a compartilhar suas habilidades e conhecimentos com outros membros da equipe.\n\nResponsabilidades Principais:\n\nColaborar efetivamente em equipes virtuais, contribuindo com ideias e soluções inovadoras de forma proativa.\nAutogerenciar a carga de trabalho, priorizando tarefas de forma eficiente e cumprindo prazos.\nDedicar parte do tempo ao compartilhamento de conhecimento e orientação de membros juniores da equipe, por meio de sessões de pareamento e mentorias.\n\nHabilidades e Experiência Necessárias:\n\nModelagem de Dados Avançada: Ampla experiência em projetar e implementar modelos de dados complexos, com forte compreensão de normalização, desnormalização e design de esquema.\nProcessos ETL: Proficiência no desenvolvimento e otimização de processos ETL (Extract, Transform, Load) utilizando ferramentas como DBT (Data Build Tool).\nData Warehousing: Conhecimento profundo dos conceitos e melhores práticas de data warehousing, especialmente com Snowflake.\nVisualização de Dados: Habilidades avançadas na criação de painéis e relatórios interativos e informativos utilizando Power BI.\nLinguagens de Programação: Proficiência em SQL e experiência com pelo menos uma linguagem de programação como Python ou R para manipulação e análise de dados.\nPlataformas de Nuvem: Experiência com plataformas de nuvem como AWS, Azure ou Google Cloud, especialmente em relação ao armazenamento e processamento de dados.\nAjuste de Desempenho: Capacidade de otimizar o desempenho do banco de dados, incluindo ajuste de consultas e estratégias de indexação.\nGovernança de Dados: Compreensão dos princípios de governança de dados, incluindo qualidade de dados, linhagem de dados e segurança de dados.\n\nQualificações Desejáveis:\n\nIA e Aprendizado de Máquina: Experiência com modelos de IA e aprendizado de máquina, incluindo a capacidade de trabalhar com conjuntos de dados relacionados.\nGerenciamento de Projetos: Experiência em gerenciamento de projetos de dados, incluindo planejamento, execução e entrega.\nCertificações: Certificações relevantes, como Snowflake SnowPro Core Certification, Microsoft Certified: Data Analyst Associate ou similar.\n\n\n## Local\n\nRemoto \n\n## Contratação\n\n- PJ ou CLT\n\n\n## Como se candidatar\n\nEntrar em contato com a recrutadora através do linkedin: https://www.linkedin.com/in/mariajuliaricosti/\n\n\n## Labels\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior\n- Especialista",
+      "excerpt": "## Descrição da vaga Estamos buscando um(a) Engenheiro(a) de Análise Sênior altamente qualificado(a) com experiência avançada em modelagem de dados e ferramentas de visualização. O(a) profissional ideal terá experiênc...",
+      "issueState": "open",
+      "contentHash": "f5d40bcaaaa8411ad9b6e7fea8760b369884bf356f75d77f8d15154926051ef0",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "junior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "Majuricosti",
+        "name": "Majuricosti",
+        "handle": "Majuricosti",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/207033287?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2025-04-10T12:05:53Z",
+      "updatedAt": "2025-04-10T12:22:05Z",
+      "url": "https://github.com/datascience-br/vagas/issues/141",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_fb2306ac219103e0929104e5",
+      "sourceId": "nodejs-tw/jobs#269",
+      "title": "#徵才#遊戲後端工程師(NodeJS Back-end engineer)",
+      "description": "勝皇電子現為台灣第二大線上遊戲公司，秉持著對遊戲的熱愛，於2011年11月成立前身-卡坦科技，現為台灣第二大線上遊戲公司，從線下的桌上遊戲開始，胼手胝足慢慢摸索並推出兩款作品，而後在環境趨動及人才到位下，一切水到渠成，於2019年轉而開發線上網路娛樂城遊戲，近年更積極投入手遊娛樂城市場\n\n遊戲後端工程師(NodeJS Back-end engineer)\n\n職務說明\n- Node.js開發遊戲後端伺服器\n- 遊戲後台維運網站相關開發\n- 與第三方廠商進行 API 串接\n- 雲端伺服器(AWS)相關維運\n\n基本條件：\n- 程式語言基礎邏輯撰寫\n- 資料庫基礎\n\n加分條件：\n- Typescript\n- 使用過React、Webpack相關套件\n- 使用過Electron相關套件\n- 熟悉Git版本控制\n- AWS相關管理經驗\n- Linux系統操作經驗\n- 資料庫相關經驗(MySQL、MongoDB、Redis等)\n\n公司福利：\n- 彈性上下班制度\n- 國內、外員工旅遊\n- 三節獎金、年終獎金、生日禮金\n-零食、每月午餐聚餐、桌遊及球類免費借閱、羽球社團…等福利。\n\n工作待遇\n月薪 50,000元 ~ 130,000元\n(固定或變動薪資因個人資歷或績效而異)\n\n上班地點\n新北市三重區重新路五段609巷(湯城園區)\n\n上班時段\n日班、09:00~18:00\n\n休假制度\n週休二日\n\n工作條件\n工作經驗 不拘\n學歷要求 高中以上\n\n擅長工具\nLinux\nGit\nPHP\nMySQL\nAWS\nNode.js\n\n公司穩定成長,目前積極擴編中,歡迎有志朋友一起加入!\n\n召募人資 : 林小姐\n勝皇電子股份有限公司 83812383\nTEL : (02)2999-5168#19\n\nhttps://www.104.com.tw/company/1a2x6bm3rc#info06",
+      "excerpt": "勝皇電子現為台灣第二大線上遊戲公司，秉持著對遊戲的熱愛，於2011年11月成立前身-卡坦科技，現為台灣第二大線上遊戲公司，從線下的桌上遊戲開始，胼手胝足慢慢摸索並推出兩款作品，而後在環境趨動及人才到位下，一切水到渠成，於2019年轉而開發線上網路娛樂城遊戲，近年更積極投入手遊娛樂城市場 遊戲後端工程師(NodeJS Back-end engineer) 職務說明 - Node.js開發遊戲後端伺服器 - 遊戲後台維運網站相關開發 ...",
+      "issueState": "open",
+      "contentHash": "d170b63d9bdcd571b95a3e7a1dc8202809148d35b67195045b15a534f9595508",
+      "repository": "nodejs-tw/jobs",
+      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "react",
+        "typescript",
+        "node"
+      ],
+      "author": {
+        "id": "Lisa71130",
+        "name": "Lisa71130",
+        "handle": "Lisa71130",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/205756994?v=4"
+      },
+      "community": {
+        "id": "nodejs-tw",
+        "name": "nodejs-tw",
+        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
+        "repository": "nodejs-tw/jobs",
+        "url": "https://github.com/nodejs-tw/jobs"
+      },
+      "createdAt": "2025-04-01T09:45:39Z",
+      "updatedAt": "2025-04-01T09:45:39Z",
+      "url": "https://github.com/nodejs-tw/jobs/issues/269",
       "sourceType": "github-issue"
     }
   ]
