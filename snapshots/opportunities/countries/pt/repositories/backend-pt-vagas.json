@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-07-17T16:09:26.999Z",
+  "generatedAt": "2026-07-19T15:50:58.787Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 22,
-    "openIssues": 5,
-    "closedIssues": 17
+    "openIssues": 6,
+    "closedIssues": 16
   },
-  "dataHash": "3b3467ab271b0df5f0c2939a7fba055a4cf19ffab68dedd4f5b24910f0ae70df",
+  "dataHash": "acf1dd51d4168d8596bf05b149e5164926bedb53033e9172ff1cfc2c69559db0",
   "items": [
+    {
+      "id": "gh_3f397fe05fb55742505692c4",
+      "sourceId": "backend-pt/vagas#142",
+      "title": "[Remoto] Java + .NET Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java + .NET Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 15.000 a 26.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 15.000–26.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-dotnet-senior-10-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "82460a090fa357eecab0aa14a8ba80b9c277f5db71abe47eeac3e5ec6d9efc0b",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 15000,
+        "max": 26000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-19T15:28:20Z",
+      "updatedAt": "2026-07-19T15:32:05Z",
+      "url": "https://github.com/backend-pt/vagas/issues/142",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ed00b8f2449863124678856d",
       "sourceId": "backend-pt/vagas#141",
@@ -852,41 +893,6 @@
       "createdAt": "2023-06-14T11:36:09Z",
       "updatedAt": "2023-08-20T00:47:40Z",
       "url": "https://github.com/backend-pt/vagas/issues/113",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_36e54a950675c4094c4e580f",
-      "sourceId": "backend-pt/vagas#109",
-      "title": "[Cidade] Título da Vaga @ Nome da Empresa",
-      "description": "### Nossa empresa\n\nOi! 👋\n\nTrabalhar em IT em Portugal é uma das tuas motivações? A INTEGER é a empresa ideal, então!\n\nO meu nome é Filipe Marques e faço parte da INTEGER! A INTEGER é uma empresa de consultoria, portuguesa, com foco em consultoria de IT (Outsourcing) e desenvolvimento de Software e Produto (internamente).\n\nSomos conhecidos no mercado, por darmos um ótimo acompanhamento aos nossos consultores, pela experiência que temos e pela ajuda que damos a profissionais de outros países que querem vir para Portugal!\n\n### Descrição da vaga\n\nAs vagas que tenho em aberto atualmente são:\n\n👉 Java Developer (+5 anos de exp);\n\n👉 QA de Automação (+5 anos de exp);\n\n👉 GoLang Developer (+3 anos de exp);\n\n👉 DevOps Engineer (+3 anos de exp).\n\nCandidatos com menos experiência do que aquela que está especificada, não serão considerados.\n\n### Local\n\nDeverá haver real interesse em vir para PORTUGAL, para garantirmos um acompanhamento  👍 \n\nContudo, o começo poderá ser remoto (+ou- 6 meses) 💯 \n\n### Requisitos\n\nhttps://integerconsulting.pt/opportunity/\n\n\n### Benefícios\n\n- Plano de saúde (para o candidato e família);\n\n- Alojamento nas primeiras duas semanas em PT;\n\n- Acompanhamento durante todo o processo de vinda para PT;\n\n- Acesso gratuito à Udemy;\n\n- Acesso gratuito a plataformas para o desenvolvimento da língua inglesa (e outras);\n\n- Acesso à nossa rede de parcerias - Descontos em serviços, academia, cosmética, restauração, etc...;\n\n### Contratação\n\nA combinar\n\n### Como se candidatar\n\nDescobre estas e mais opoEnvia o teu CV, atualizado e em inglês, para filipe.marques@integer.pt !   Falamos em breve :)\n\n### Tempo médio de feedbacks\n\n1/2 semanas\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [ ] Contrato\n- [ ] Freela\n- [ ] RV\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa Oi! 👋 Trabalhar em IT em Portugal é uma das tuas motivações? A INTEGER é a empresa ideal, então! O meu nome é Filipe Marques e faço parte da INTEGER! A INTEGER é uma empresa de consultoria, portugue...",
-      "issueState": "closed",
-      "contentHash": "8af1a53c40315c51a6aa784078c87b61bf3e3929dd4d1847bf3add8899faf86c",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "inválido",
-        "sem informações"
-      ],
-      "author": {
-        "id": "FilipeGM",
-        "name": "FilipeGM",
-        "handle": "FilipeGM",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/77100005?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2023-05-09T14:08:03Z",
-      "updatedAt": "2023-08-12T00:43:31Z",
-      "url": "https://github.com/backend-pt/vagas/issues/109",
       "sourceType": "github-issue"
     }
   ]

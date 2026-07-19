@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-07-19T05:44:39.459Z",
+  "generatedAt": "2026-07-19T15:50:58.787Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
   "ids": [
+    "gh_08c2b289f0b0fbaf5bd9f142",
+    "gh_23e88f37c8cdd99dec55a249",
+    "gh_d56bae7c6952a6aa314fa3f2",
+    "gh_7e07f369e29e2a6bacb6d970",
     "gh_42aec3e02f4705505e208eb2",
     "gh_4ea4dd77b7082cd6a55c6a18",
     "gh_97af14f3ec3ca62e7db4666f",
@@ -19,13 +23,140 @@
     "gh_c01a0a3f6404a175991bbcce",
     "gh_3cb49aacda2ec7dd8e38be24",
     "gh_0f0495da862b94749892e684",
-    "gh_d6f31a804dacbc548031ec5e",
-    "gh_1cb7700b20f4fcdce63c6f02",
-    "gh_e5a048bc61d56ec20e336489",
-    "gh_15fb9ec0047c0e7cc80ada55",
-    "gh_5903d3232c2f99d9ae568fe8"
+    "gh_d6f31a804dacbc548031ec5e"
   ],
   "items": [
+    {
+      "id": "gh_08c2b289f0b0fbaf5bd9f142",
+      "sourceId": "cncf/gitjobs#383",
+      "title": "Ability to manually assign jobs to a foundation/project after submission",
+      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
+      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
+      "issueState": "open",
+      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamweswilson",
+        "name": "iamweswilson",
+        "handle": "iamweswilson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2026-05-05T18:56:03Z",
+      "updatedAt": "2026-05-06T15:39:22Z",
+      "url": "https://github.com/cncf/gitjobs/issues/383",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_23e88f37c8cdd99dec55a249",
+      "sourceId": "datascience-br/vagas#161",
+      "title": "Engenheiro de Dados ETL/ ELT Sênior na ZUP - 100% remoto",
+      "description": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!**\n\n**O que você fará por aqui**\n\n- Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, garantindo alta performance e qualidade dos dados.\n- Orquestrar rotinas complexas de processamento e integração de dados via AWS Step Functions.\n- Executar análises e validações robustas utilizando SQL e Athena, assegurando integridade e confiabilidade das informações.\n- Colaborar com times multidisciplinares para identificar necessidades de dados e propor soluções técnicas aderentes às demandas do negócio.\n- Investigar falhas, propor e implementar melhorias contínuas na arquitetura e nos processos de dados.\n- Documentar soluções, fluxos de dados e boas práticas para promover o alinhamento técnico entre as equipes.\n\n **O que esperamos que você saiba**\n\n- Excelência em desenvolvimento de pipelines usando PySpark no AWS Glue.\n- Domínio de AWS Step Functions para orquestração de pipelines e agendamento de processos.\n- Sólido conhecimento em SQL para consultas avançadas e validações em grandes volumes de dados.\n- Experiência no uso do Athena para exploração, análise e auditoria de dados.\n- Capacidade de monitorar qualidade dos dados e solucionar problemas complexos em ambientes críticos.\n\n **O que será um diferencial**\n\n- Prática com AWS QuickSight para criação de dashboards e visualização de dados.\n- Conhecimento em estratégias avançadas de monitoramento, observabilidade e automação de processos.\n- Experiência em ambientes de dados altamente regulados (LGPD, GDPR).\n- Familiaridade com novas ferramentas de data engineering no ecossistema AWS (como Lake Formation ou Glue DataBrew).\n- Atuação prévia em projetos de melhoria contínua com foco em performance ou escalabilidade.\n\nUm pouco de nossos beneficios:\n\nPLR : \n🍕 VR/VA Flash R$1.440,00\n📱 Plano de celular Vivo Easy ou Claro com reembolso \n🏡 Auxílio Home Office, ajuda de custo de internet \n📚 Capacitação anual  - a partir do 4º mês - para investir em livros, cursos, palestras. A Zup reembolsa 75% do valor dessas capacitações, dentro desse budget)\n🏥 Plano de Saúde SulAmérica ou Unimed\n🦷 Plano Odontológico SulAmérica\n👶 Auxílio creche / Licença paternidade até 90 dias / Licença maternidade até 180 dias\n⭐ Seguro de vida\n💪 Gympass\n💭 Telavita (psicólogo online com 5 sessões gratuitas por mês)\n💵 Bônus por indicação\n🚀 2 Days Off ao ano e Liberdade para trabalhar de onde quiser\ne mais!\n\n\nCandidate-se  enviando seu currículo para o seguinte email:  kauany.riotinto@zup.com.br\n**No título deve conter seu nome e o da vaga \" Engenheiro de Dados ETL/ELT Sênior\"**",
+      "excerpt": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!** **O que você fará por aqui** - Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, gara...",
+      "issueState": "open",
+      "contentHash": "76a9373fd1a6ec20ac048ad1423a63775d2f5b4f1922beaa564122d929065a50",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "KauanyFD",
+        "name": "KauanyFD",
+        "handle": "KauanyFD",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-05-04T17:18:52Z",
+      "updatedAt": "2026-05-12T12:20:37Z",
+      "url": "https://github.com/datascience-br/vagas/issues/161",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d56bae7c6952a6aa314fa3f2",
+      "sourceId": "negarprh/Canadian-Tech-Internships-2026#243",
+      "title": "Suggestion",
+      "description": "hi,\n\ndid u think of making an email list? \n\nit would be a daily nice notifier for new positions\n\nu can use render, or any other service",
+      "excerpt": "hi, did u think of making an email list? it would be a daily nice notifier for new positions u can use render, or any other service",
+      "issueState": "open",
+      "contentHash": "d65ac7a54462a85b041c139de3d380d05e51bffecd66b6dd5200fd8a4683719c",
+      "repository": "negarprh/Canadian-Tech-Internships-2026",
+      "repositoryUrl": "https://github.com/negarprh/Canadian-Tech-Internships-2026",
+      "region": "North America",
+      "country": "Canada",
+      "tags": [],
+      "author": {
+        "id": "adssib",
+        "name": "adssib",
+        "handle": "adssib",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75389300?v=4"
+      },
+      "community": {
+        "id": "negarprh",
+        "name": "negarprh",
+        "avatarUrl": "https://github.com/negarprh.png?size=80",
+        "repository": "negarprh/Canadian-Tech-Internships-2026",
+        "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026"
+      },
+      "createdAt": "2026-05-04T01:05:23Z",
+      "updatedAt": "2026-05-04T01:05:23Z",
+      "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026/issues/243",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7e07f369e29e2a6bacb6d970",
+      "sourceId": "frontendbr/vagas#8471",
+      "title": "[São Caetano do Sul - São Paulo] Senior Front End Developer (Angular) na JPeF Consultoria de Recrutamento e Seleção",
+      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## JPeF Consultoria de Recrutamento e Seleção\n\nEspecialistas em recrutamento e headhunting de talentos apoiamos o crescimento de empresas através de pessoas. A JP&F vai além do recrutamento comum: aplicamos sourcing e mapeamento de talento avançado para identificar perfis C-Level e profissionais especializados para vagas estratégicas e táticas.\n\n## [Senior Front End Developer (Angular)](https://jpefconsultoria.com.br/vagas#collapse11996)\n\n## São Caetano do Sul - São Paulo, Centro\n\n**Obrigatórios:**\n- 3 anos de experiência Senior Front End Developer (Angular)\n\n## Benefícios\nSeguro Saúde, Assistência Médica / Medicina em grupo, Assistência Odontológica, Seguro de Vida em Grupo, Tíquete Refeição, Tíquete Alimentação, Auxílio Creche, Vale Transporte,\n\n## Descrição da vaga: 6+ years experience with software development, including expert knowledge of best practices, including code architectural patterns and code design principles and patterns with demonstrated ability to properly apply them as needed Solid understanding of large scale software systems 3+ years of experience in development Angular based front end development 2+ years of experience with ExpressJS backend Development Good experience with relational database systems (Postgres) Good understanding of working with REST APIs Very strong communication skills, both oral and written Clear understanding of Software Development Life Cycle stages and best practices around each stage Demonstrated ability to technically own the delivery of medium sized features, involving multiple people within the team Experience with basic cloud services for building and running cloud-native applications Technologies we use NODE-JS, TypeScript, Angular, Cypress AWS EC2, S3, Lambda, API Gateway and related services GIT.\n\n## CLT - Efetivo\n\n## Como se candidatar\n\nPor favor envie um email para rh@jpefconsultoria.com.br com seu CV anexado - enviar no assunto:[Senior Front End Developer (Angular)](https://jpefconsultoria.com.br/vagas#collapse11996)\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 04 dias após cada processo.\nE-mail para contato em caso de não haver resposta: rh@rh@jpefconsultoria.com.br \n\n\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n\n\n#### Nível\n- Pleno",
+      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
+      "issueState": "open",
+      "contentHash": "81146fbdca6a6d79d91e9237e832fe790e46901ae4af87f30d68eb42cf5763fa",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "clt",
+        "são paulo",
+        "híbrido"
+      ],
+      "author": {
+        "id": "123kjp",
+        "name": "123kjp",
+        "handle": "123kjp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85880607?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "createdAt": "2026-04-27T13:39:04Z",
+      "updatedAt": "2026-06-28T02:38:23Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8471",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_42aec3e02f4705505e208eb2",
       "sourceId": "qa-brasil/vagas#1252",
@@ -604,156 +735,6 @@
       "createdAt": "2026-03-09T15:07:04Z",
       "updatedAt": "2026-04-01T20:33:51Z",
       "url": "https://github.com/phpdevbr/vagas/issues/1324",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1cb7700b20f4fcdce63c6f02",
-      "sourceId": "programadores-br/geral#3059",
-      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "52d3395e780ad7bb85db9deb07c4508f8a8366b4a559df19fcc296f1c4bc81c4",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:55:35Z",
-      "updatedAt": "2026-03-06T12:56:00Z",
-      "url": "https://github.com/programadores-br/geral/issues/3059",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e5a048bc61d56ec20e336489",
-      "sourceId": "devfsa/vagas#2825",
-      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "6fc2c15d658a4ac2ab9098b53157bb8426e83dd9a819eaec0f4aaeaa0855ea1c",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "react",
-        "java",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:55:17Z",
-      "updatedAt": "2026-03-06T12:55:17Z",
-      "url": "https://github.com/devfsa/vagas/issues/2825",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_15fb9ec0047c0e7cc80ada55",
-      "sourceId": "programadores-br/geral#3058",
-      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "52d3395e780ad7bb85db9deb07c4508f8a8366b4a559df19fcc296f1c4bc81c4",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:54:58Z",
-      "updatedAt": "2026-03-06T12:55:21Z",
-      "url": "https://github.com/programadores-br/geral/issues/3058",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5903d3232c2f99d9ae568fe8",
-      "sourceId": "kotlin-br/vagas#42",
-      "title": "[Remoto] Kotlin Developer (Sênior) na ITeam",
-      "description": "### Nossa empresa\n\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP,  realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. \nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado. \nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n\n### Descrição da vaga\n\nDesenvolvedor Kotlin Back-end com sólida experiência em engenharia de software, com foco em soluções na AWS.\n\n### Local\n\n\nRemoto\nHorário: 09h às 18h\n\n### Requisitos: \n\nPossui conhecimento avançado em serviços AWS, como Lambda, ECS, SQS, S3 e EventBridge, entre outros.\nExperiência com padrões de projeto e Clean Architecture.\nVivência com bancos de dados SQL e NoSQL.\nFamiliaridade com ferramentas de observabilidade, como Splunk e CloudWatch.\nExperiência com Infra as Code (CloudFormation e Terraform).\nAtuação com versionamento de código utilizando Git.\n\n\n### Contratação\n\nPrazo de contrato: 12 meses (com possibilidade de efetivação)\nRegime: PJ (necessário empresa aberta) ou CLT\n\n### Como se candidatar\n\nPor favor, envie o currículo atualizado com a pretensão de taxa/hora PJ ou CLT para: viviane.pereira@iteam.inf.br\n\n### Tempo médio de feedbacks\n\n1 semana\n\n### Keywords\n\nKotlin\nAWS\nTerraform\nGit\n\n### Alocação\n\n- [X] Alocado\n- [X] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [X] CLT\n- [ ] Estágio\n- [ ] Freela\n- [X] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto",
-      "excerpt": "### Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções espe...",
-      "issueState": "open",
-      "contentHash": "ceb41344be5ed48efb9f1e54bc689921fcc7093f667706a866737cc747ed3e4e",
-      "repository": "kotlin-br/vagas",
-      "repositoryUrl": "https://github.com/kotlin-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "estágio",
-        "contrato",
-        "remoto",
-        "híbrido",
-        "presencial",
-        "júnior"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "kotlin-br",
-        "name": "kotlin-br",
-        "avatarUrl": "https://github.com/kotlin-br.png?size=80",
-        "repository": "kotlin-br/vagas",
-        "url": "https://github.com/kotlin-br/vagas"
-      },
-      "companyName": "ITeam",
-      "createdAt": "2026-03-03T14:46:28Z",
-      "updatedAt": "2026-03-03T14:46:47Z",
-      "url": "https://github.com/kotlin-br/vagas/issues/42",
       "sourceType": "github-issue"
     }
   ]

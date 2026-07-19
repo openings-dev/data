@@ -1,16 +1,59 @@
 {
-  "generatedAt": "2026-07-17T16:09:26.999Z",
+  "generatedAt": "2026-07-19T15:50:58.787Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "dotnetdevbr/vagas",
   "totals": {
     "opportunities": 26,
-    "openIssues": 10,
-    "closedIssues": 16
+    "openIssues": 11,
+    "closedIssues": 15
   },
-  "dataHash": "eb485fa5bce6fb9509751ddb11d06fa3d42f1edb34b323dbb075b8701d5eb0fa",
+  "dataHash": "b30dcefe0cf2876157f02eb38ba690e419e29466541eb3148a2e5f74af6c8077",
   "items": [
+    {
+      "id": "gh_95dfaec90b828a0dcf2308fe",
+      "sourceId": "dotnetdevbr/vagas#1066",
+      "title": "[Remoto] Back-End Developer .NET Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 15.000 a 26.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 15.000–26.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-dotnet-senior-10-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "f05e71390b3233e4950e78409caf4615dff5c9ecb694faf0289eae46b375c8ee",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 15000,
+        "max": 26000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-19T15:25:33Z",
+      "updatedAt": "2026-07-19T15:27:25Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1066",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_771e69b35a748d39b77d7307",
       "sourceId": "dotnetdevbr/vagas#1065",
@@ -1047,50 +1090,6 @@
       "createdAt": "2025-04-25T13:52:33Z",
       "updatedAt": "2025-08-28T01:02:23Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1029",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_49cd695aeb4f0bd52207e22e",
-      "sourceId": "dotnetdevbr/vagas#1027",
-      "title": "[Remoto] Desenvolvedor(a) Full-stack .NET Core Thunders Tecnologia",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END .NET OU FULLSTACK COM .NET NO BACK-END!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Back-End  .NET Developer\" ao invés de \"Desenvolvedor Back-End\" \\o/\n\nExemplo: `[São Paulo] Back-End Developer .NET @ NOME DA EMPRESA`\n==================================================\n-->\n\n## Descrição da vaga\n\nO Desenvolvedor Full Stack Sênior desempenhará um papel crucial no desenvolvimento e manutenção de diversas aplicações, contribuindo diretamente para o sucesso contínuo da empresa. Aqui, os desafios são constantes, garantindo que você não caia na rotina e tenha a oportunidade de enfrentar projetos diversificados.\n\n## Local\n\nRemoto\n\n## Requisitos\n\n**Obrigatórios:**\n- Formação em Ciências da Computação, Engenharia da Computação, Sistemas de Informação, Análise de Desenvolvimento de Sistemas  ou similares;\n\n- Experiência avançada desenvolvimento backend com .NET Core, Entity Framework;\n\n- Experiência avançada no desenvolvimento de Microserviços (reativas, síncronas e assíncronas) e Web API/Rest API;\n\n- Experiência avançada com Mensageria com RabbitMQ ou similares;\n\n- Experiência avançada com banco de dados relacional;\n\n- Utilização de Azure, Cloud AWS, MongoDB, S3, GraphQL, Redis, ElasticSearch, Grafana;\n\n- Experiência com Docker;\n\n- Conhecimento intermediário em Angular 6+;\n\n- Conhecimento avançado em Persistência Relacional (Preferência: SQL Server);\n\n- Conhecimento de design patterns, TDD e DDD;\n\n## Benefícios\n- Day Off de aniversário;\n- Bônus semestral de acordo com as entregas;\n- Auxílio Home Office.\n\n**Diferenciais:**\n- Trabalho remoto;\n- Contratação PJ;\n\n## Como se candidatar\n\nAcesse nosso site em https://thunderstecnologia.inhire.app/vagas/25420b5e-d813-46d8-9d7d-4ebd75085fea/desenvolvedora-full-stack-net-core-sr\n\n#### Regime\nPJ\n\n#### Nível\nSênior\n\n#### Período\nFull time\n\n#### Remuneração\nR$ 10k - R$ 14k\n\n\n## Nossa empresa\nSomos uma empresa líder no segmento ETRM (Energy Trading and Risk Management) com mais de 60 clientes do setor elétrico distribuídos em diversas regiões do país. A Thunders possui uma suíte de produtos que atendem à gestão de comercializadoras de energia, consumidores livres ou especiais, geradores, autoprodutores e distribuidores.\n\nEstamos em busca de talentos comprometidos com a excelência, qualidade e entrega em seu trabalho diário. Buscamos profissionais apaixonados pela tecnologia, comprometidos com a qualidade e comprometidos a enfrentar desafios constantes. Valorizamos a transparência em nossas relações, promovendo uma comunicação clara e empática para alcançarmos resultados exclusivos.\n\nAqui, os desafios são constantes, garantindo que você não caia na rotina e tenha a oportunidade de enfrentar projetos interessantes.\n\nConheça mais em: https://www.thunders.com.br/",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END .NET OU FULLSTACK COM .NET NO BACK-END! Não faça distinção de gênero no título da vaga. Use: \"Back-End .NET Devel...",
-      "issueState": "closed",
-      "contentHash": "67e174a96c193b27faf0a6db966d3fcb01f8be752147ea8f391e37f5dc252d0a",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "sênior",
-        "stale",
-        "full time",
-        "💰 10k-15k"
-      ],
-      "author": {
-        "id": "Cecilia-Santos",
-        "name": "Cecilia-Santos",
-        "handle": "Cecilia-Santos",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/203722843?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 10000,
-        "max": 14000,
-        "period": "month"
-      },
-      "createdAt": "2025-03-20T14:52:14Z",
-      "updatedAt": "2025-08-28T01:02:22Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1027",
       "sourceType": "github-issue"
     }
   ]
