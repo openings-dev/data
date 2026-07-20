@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-19T21:43:38.717Z",
+  "generatedAt": "2026-07-20T02:44:47.996Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_1c92e3783736e2a990e30ab5",
     "gh_4b4871e48bd32117e81c8c06",
     "gh_ef165c0b53e4e3bf05710db6",
     "gh_436c39f3e142335204f5ceab",
@@ -22,10 +23,52 @@
     "gh_72478d1135b9afe77507d1f6",
     "gh_fab93254cce0bcb42444c62f",
     "gh_6696fde1819557e47e58a36a",
-    "gh_ac9d2a190dca87b415fa96f3",
-    "gh_df12f54a598056622d50c755"
+    "gh_ac9d2a190dca87b415fa96f3"
   ],
   "items": [
+    {
+      "id": "gh_1c92e3783736e2a990e30ab5",
+      "sourceId": "backend-br/vagas#12354",
+      "title": "[Híbrido] Desenvolvedor(a) Fullstack .NET + Angular Pleno - Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Fullstack .NET + Angular Pleno para atuar em projetos de empresas parceiras da Sylision. Área de Fullstack, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Fullstack .NET + Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-net-angular-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Híbrido",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "89b77979e513e15ccbd7312a48b31887ded1db5f5f8649614692efa1a8a96fa1",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-17T13:02:48Z",
+      "updatedAt": "2026-07-17T13:03:02Z",
+      "url": "https://github.com/backend-br/vagas/issues/12354",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_4b4871e48bd32117e81c8c06",
       "sourceId": "backend-br/vagas#12353",
@@ -784,49 +827,6 @@
       "createdAt": "2026-07-15T20:27:00Z",
       "updatedAt": "2026-07-15T20:27:16Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1062",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_df12f54a598056622d50c755",
-      "sourceId": "dotnetdevbr/vagas#1061",
-      "title": "[Híbrido] Back-End Developer .NET Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "e9522429d2fafdf2f89caf97a242f79ad966d3c18fed714fa1bd2d26cc3de727",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "sênior",
-        "híbrido"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-15T20:25:56Z",
-      "updatedAt": "2026-07-15T20:26:21Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1061",
       "sourceType": "github-issue"
     }
   ]

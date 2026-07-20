@@ -1,16 +1,59 @@
 {
-  "generatedAt": "2026-07-19T15:50:58.787Z",
+  "generatedAt": "2026-07-20T02:44:47.996Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "dotnetdevbr/vagas",
   "totals": {
     "opportunities": 26,
-    "openIssues": 11,
-    "closedIssues": 15
+    "openIssues": 12,
+    "closedIssues": 14
   },
-  "dataHash": "b30dcefe0cf2876157f02eb38ba690e419e29466541eb3148a2e5f74af6c8077",
+  "dataHash": "3e41023039aecef883c92678eae0406ab26b54dffbaa44ce4ad56b4bb4356f37",
   "items": [
+    {
+      "id": "gh_e87de5e287f4761837751391",
+      "sourceId": "dotnetdevbr/vagas#1067",
+      "title": "[Remoto] Back-End Developer .NET Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "16a9700657cba95cd8d473d77075db7a29bf7f0063e0fb43f6935bf7ba3cef33",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "pleno",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-19T23:31:04Z",
+      "updatedAt": "2026-07-19T23:33:23Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1067",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_95dfaec90b828a0dcf2308fe",
       "sourceId": "dotnetdevbr/vagas#1066",
@@ -1053,43 +1096,6 @@
       "createdAt": "2025-04-28T13:17:05Z",
       "updatedAt": "2025-08-28T01:02:24Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1030",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f920d337e6380cf2346788b1",
-      "sourceId": "dotnetdevbr/vagas#1029",
-      "title": "[Hibrido / Barueri, Brasil] Desenvolvedor Full-Stack (.NET e React) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/desenvolvedor-full-stack-net-e-react-183827807?utm_source=github&utm_medium=dotnetdevbr-vagas&modal=open) para realizar a candidatura. 👋\n<p><strong>Requisitos mandatórios:</strong></p>\n<p>Experiencia com C# .Net (mais de 7 anos)</p>\n<p>Experiencia com React (TypeScript)</p>\n<p>JavaScript</p>\n<p>Html</p>\n<p>MongoDB ou SQL Server</p>\n<p>Git</p>\n<p></p>\n<p><strong>Diferenciais:</strong></p>\n<p>Vivência em ambiente Cloud (Aws e Azure);</p>\n<p>Vivência com testes unitários;</p>\n<p>Vivência com bancos relacionais e não relacionais;</p>\n<p>Conhecimento em Metodologias Ágeis;</p>\n<p>Conhecimentos em React com TypeScript;</p>\n<p>Conhecimentos em DEVOPS, TDD, BDD, Clean code, SOLID, YAGNI, DRY.</p>\n<p>Testes unitários (Jest, Cypress, etc);</p>\n<p>Trabalhar com CI/CD;</p>\n<p>Micro frontend;</p>\n<p>Docker e Nginx;</p>\n<p>Aplicações de alta performance.</p>\n## Capitani Group: \n <p>A Capitani é uma multinacional brasileira com mais de 25 anos de atuação no mercado, engajada com seus desafios, vivenciando um ciclo de sucesso entre os seus colaboradores, fornecedores e clientes.</p>\n\n<p>Vem apoiando seus clientes a desenvolver soluções com inovação e transformação digital.</p><a href='https://coodesh.com/companies/capitani-group'>Veja mais no site</a>\n\n## Local: \n Barueri, Brasil\n## Requisitos: \n - Git \n- C# \n- .NET \n- React \n- TypeScript \n- JavaScript \n- Html \n- MongoDB \n- SQL Server\n## Diferenciais: \n - Conhecimento em Metodologias Ágeis \n- DEVOPS\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Desenvolvedor Full-Stack (.NET e React) na Capitani Group](https://coodesh.com/jobs/desenvolvedor-full-stack-net-e-react-183827807?utm_source=github&utm_medium=dotnetdevbr-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "closed",
-      "contentHash": "2968761d735ae64cccb6e8f328714d7fed578301660f504c2a6b5b101400d2cc",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "alocado",
-        "stale",
-        "💰 nao informado"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2025-04-25T13:52:33Z",
-      "updatedAt": "2025-08-28T01:02:23Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1029",
       "sourceType": "github-issue"
     }
   ]
