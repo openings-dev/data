@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-20T16:21:41.715Z",
+  "generatedAt": "2026-07-20T19:28:36.817Z",
   "page": 16,
   "pageSize": 20,
   "nextPage": "api/pages/page-0017.json",
   "ids": [
+    "gh_54df3a793409f5375f18ab14",
+    "gh_d7e6926e861899ba437027cd",
     "gh_bdde55a4fa3b139d43a46db4",
     "gh_6284b68530bc4b1d4959e9c8",
     "gh_85e96ece37aa7c4072d4d09a",
@@ -21,11 +23,71 @@
     "gh_99150832107b847772cd7a87",
     "gh_926f3c14cae6e82e67bdbdbf",
     "gh_26085b80562d970f087f85db",
-    "gh_81aa8bfda8cd75209a233f69",
-    "gh_5e7c0ed3e21fb1a527ca77ca",
-    "gh_962eeb5d07c4cee43120e80f"
+    "gh_81aa8bfda8cd75209a233f69"
   ],
   "items": [
+    {
+      "id": "gh_54df3a793409f5375f18ab14",
+      "sourceId": "jobright-ai/2026-Software-Engineer-New-Grad#3",
+      "title": "The list is not updating",
+      "description": "The list is not updating.",
+      "excerpt": "The list is not updating.",
+      "issueState": "open",
+      "contentHash": "a38a85efa1a9653c896672f3c30272eca49876d61637211e8791849fd17bc4f9",
+      "repository": "jobright-ai/2026-Software-Engineer-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "Allenz5",
+        "name": "Allenz5",
+        "handle": "Allenz5",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76895714?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad"
+      },
+      "createdAt": "2025-11-04T00:13:11Z",
+      "updatedAt": "2025-11-04T00:13:11Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad/issues/3",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d7e6926e861899ba437027cd",
+      "sourceId": "vanshb03/Summer2026-Internships#4411",
+      "title": "Feature: Flag Support for Referrals",
+      "description": "With our current filtering, we parse and remove any sort of source/url origin tracking that is done with parameters followed by `?` which ends up removing referrals we try to append into our lists(e.g: `?gh_src`: Greenhouse Ref, `?source` : Workday Ref).\n\nOpen to have anyone contribute and add that implementation.",
+      "excerpt": "With our current filtering, we parse and remove any sort of source/url origin tracking that is done with parameters followed by `?` which ends up removing referrals we try to append into our lists(e.g: `?gh_src`: Gree...",
+      "issueState": "open",
+      "contentHash": "12e6482eaf7a0154a2a118e8bbfbf925959cc88bc68fc4eb1da8c1a0fbf7c1da",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "handle": "vanshb03",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48507154?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2025-10-27T15:13:42Z",
+      "updatedAt": "2026-07-14T22:19:23Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4411",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_bdde55a4fa3b139d43a46db4",
       "sourceId": "vanshb03/Summer2027-Internships#4411",
@@ -678,83 +740,6 @@
       "createdAt": "2025-08-21T12:47:19Z",
       "updatedAt": "2025-08-21T12:47:19Z",
       "url": "https://github.com/TechnologyMasters/jobs/issues/719",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5e7c0ed3e21fb1a527ca77ca",
-      "sourceId": "Empregos-dev/Vagas-dev#108",
-      "title": "🚀 Vaga Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟 📍 São Paulo - Barueri 🚀",
-      "description": "# Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟\n\n- 📍 Localização: São Paulo - Barueri\n- 📈 Nível: pleno\n- 📃 Contrato: clt\n- 💰 Salário: R$ 4.000,00 - R$ 5.000,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\nEmpresa de tecnologia que atua com inteligência artificial especializada em logística, oferecendo soluções para otimização e automação de operações, com foco em eficiência e sustentabilidade na cadeia de suprimentos. 🏢\n\n\n## Atividades e responsabilidade:\n• Desenvolver e implementar sistemas com C# e JavaScript\n• Criar e consumir APIs RESTful\n• Projetar e manter bancos de dados relacionais (ex: SQL Server)\n• Contribuir com interfaces e funcionalidades web\n• Garantir qualidade de código e entregas dentro dos prazos\n\n\n## Requisitos:\n✔ Experiência em C# e JavaScript\n✔ Conhecimento em APIs RESTful e desenvolvimento web\n✔ Vivência com bancos de dados relacionais\n✔ Organização e autonomia no trabalho\n✔ Boa comunicação com equipe e stakeholders\n✔ Disponibilidade para trabalho 100% presencial em Alphaville\n\n\n## Benefícios:\n• Vale Refeição (R$ 30,00/dia) \n• Plano de saúde e odontológico sem custo\n• Seguro de vida\n\n## Mais Informações:\n🔹 Experiência com ASP.NET Core\n🔹 Conhecimento em metodologias ágeis\n🔹 Capacidade de propor soluções criativas e escaláveis\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/desenvolvedora-backend-pleno-c-javascript-8249)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
-      "excerpt": "# Desenvolvedor(a) BackEnd Pleno – C# | JavaScript 🌟 - 📍 Localização: São Paulo - Barueri - 📈 Nível: pleno - 📃 Contrato: clt - 💰 Salário: R$ 4.000,00 - R$ 5.000,00 - 🏃‍♂️ Corre para se candidatar, ainda dá tempo...",
-      "issueState": "open",
-      "contentHash": "c2d8fe8733f02d6ca8788fa124158bbbe48ccab2129c27ceaae1230f548d891e",
-      "repository": "Empregos-dev/Vagas-dev",
-      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "c#",
-        "pleno",
-        "são paulo - barueri"
-      ],
-      "author": {
-        "id": "ecossistemadev",
-        "name": "ecossistemadev",
-        "handle": "ecossistemadev",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
-      },
-      "community": {
-        "id": "Empregos-dev",
-        "name": "Empregos-dev",
-        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
-        "repository": "Empregos-dev/Vagas-dev",
-        "url": "https://github.com/Empregos-dev/Vagas-dev"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 4000,
-        "max": 5000,
-        "period": "year"
-      },
-      "createdAt": "2025-08-08T00:46:06Z",
-      "updatedAt": "2025-08-08T00:46:06Z",
-      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/108",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_962eeb5d07c4cee43120e80f",
-      "sourceId": "TechnologyMasters/jobs#718",
-      "title": "Lean Analyst",
-      "description": "Apply @ rahul.g@laibatechnology.com\n\n**Position: Lean Analyst\n\nLocation: Houston, TX (Onsite)**\n\nExp: 6-15 Yrs\nMust have oil ang gas domain background\nThe Lean analyst will play a key role in driving process improvement projects by helping to facilitate and plan workshops with the Lean specialists and client team, analyzing and presenting pertinent data in the appropriate format, developing metrics and measurement tools to improve operating processes toward greater efficiency and effectiveness in all areas of oil and gas (upstream, downstream, chemicals, pipeline, etc.)\n\nTrack and record all relevant data for global Lean program, and refresh data for accuracy on monthly basis including but not limited to Lean Practitioner (LP) count, LP status, LP certification progress, yield rate, functional/job family representation, LP office location/geography, project tracking metrics, value tracking metrics, etc.\n\nAnalyze performance data/metrics, and develop appropriate presentations and dashboard tools to demonstrate Lean performance to client, including but not limited to SmartSheets, PowerBI, Tableau\n\nDevelop and build relevant process documents at the request of Lean specialists leveraging Visio, Mural, Zoom Whiteboard or Powerpoint\n\nConstruct and manage Microsoft SharePoint site for global Lean program and serve as site Admin to manage data storage, restricted access requests, subsite construction, etc.\n\nDesign, develop, and build HTML code using standard webpage design software (e.g. Figma) for professional Lean website\n\n\nApply @ rahul.g@laibatechnology.com",
-      "excerpt": "Apply @ rahul.g@laibatechnology.com **Position: Lean Analyst Location: Houston, TX (Onsite)** Exp: 6-15 Yrs Must have oil ang gas domain background The Lean analyst will play a key role in driving process improvement ...",
-      "issueState": "open",
-      "contentHash": "485a0c58c2b323cec4c33955d8c115ed5fad641c6a39964f1aa312d7b2c08c1c",
-      "repository": "TechnologyMasters/jobs",
-      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "onsite",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Rahul-garg60",
-        "name": "Rahul-garg60",
-        "handle": "Rahul-garg60",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/224111023?v=4"
-      },
-      "community": {
-        "id": "TechnologyMasters",
-        "name": "TechnologyMasters",
-        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
-        "repository": "TechnologyMasters/jobs",
-        "url": "https://github.com/TechnologyMasters/jobs"
-      },
-      "createdAt": "2025-08-01T20:50:49Z",
-      "updatedAt": "2025-08-01T20:50:49Z",
-      "url": "https://github.com/TechnologyMasters/jobs/issues/718",
       "sourceType": "github-issue"
     }
   ]
