@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T19:28:36.817Z",
+  "generatedAt": "2026-07-20T21:56:37.337Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
@@ -13,9 +13,6 @@
     "gh_9962c621fe973db4df52f673",
     "gh_0e4f45ffcc0c8274c45be2eb",
     "gh_22f89c3b0b886211403e0348",
-    "gh_064e385b1f55bb038a17ceea",
-    "gh_9a9805bb4384bdd38ce233f2",
-    "gh_b4caf8586f8638e955c17dfb",
     "gh_e87de5e287f4761837751391",
     "gh_6c8d110d2956da31da0c8aaf",
     "gh_2c0a3e0ee622822a2259ec94",
@@ -23,7 +20,10 @@
     "gh_95dfaec90b828a0dcf2308fe",
     "gh_b1af9148f987255fce3c6733",
     "gh_8352f51acf4192069856c66f",
-    "gh_12649a1a45e55c0369b0af7f"
+    "gh_bc70de4b4c8452b8bfe6b6c0",
+    "gh_ed00b8f2449863124678856d",
+    "gh_771e69b35a748d39b77d7307",
+    "gh_d4c8aac0ae4c7a583db4e6e8"
   ],
   "items": [
     {
@@ -332,137 +332,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_064e385b1f55bb038a17ceea",
-      "sourceId": "backend-br/vagas#12365",
-      "title": "[Remoto] Desenvolvedor(a) Java/Spring Boot Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Spring Boot Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Spring Boot compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-spring-boot-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "623e70227d71ab3f707dcce30d42970854cdc5f5d2eb79260b37c45730453913",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "java",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-20T11:37:24Z",
-      "updatedAt": "2026-07-20T13:02:06Z",
-      "url": "https://github.com/backend-br/vagas/issues/12365",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9a9805bb4384bdd38ce233f2",
-      "sourceId": "backend-br/vagas#12364",
-      "title": "[Híbrido] Desenvolvedor(a) PHP/Symfony Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) PHP/Symfony Pleno para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com PHP/Symfony compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-php-symfony-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Híbrido",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "caf5f90f459b110b8335d20cfeba8bc3496bd152e8857b35fc3dc6ba93fd4b0f",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "php",
-        "remoto",
-        "symfony",
-        "híbrido"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-20T11:36:22Z",
-      "updatedAt": "2026-07-20T11:36:39Z",
-      "url": "https://github.com/backend-br/vagas/issues/12364",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b4caf8586f8638e955c17dfb",
-      "sourceId": "backend-br/vagas#12363",
-      "title": "[Remoto] Desenvolvedor(a) Java/Kafka Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "50ff528b810ec24be5e1d5d13900828348bf9755851a20613491893fdc8bf52f",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "java",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-20T11:35:08Z",
-      "updatedAt": "2026-07-20T11:35:30Z",
-      "url": "https://github.com/backend-br/vagas/issues/12363",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_e87de5e287f4761837751391",
       "sourceId": "dotnetdevbr/vagas#1067",
       "title": "[Remoto] Back-End Developer .NET Pleno @ Sylision",
@@ -749,22 +618,53 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_12649a1a45e55c0369b0af7f",
-      "sourceId": "backend-br/vagas#12362",
-      "title": "[Remoto] Desenvolvedor(a) Java/Jakarta EE Pleno - Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Jakarta EE Pleno — 100% Remoto para atuar em projetos de empresas parceiras da Sylision. Área de Backend, nível Pleno.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Jakarta EE compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n- CLT\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "id": "gh_bc70de4b4c8452b8bfe6b6c0",
+      "sourceId": "datascience-br/vagas#167",
+      "title": "[São Paulo] Analista Data Analitycs Sr na [Assaí Atacadista]",
+      "description": "## Descrição da vaga\n\n- Coletar, organizar e analisar dados transacionais provenientes de adquirência, subadquirência e fluxos financeiros;\n- Monitorar indicadores-chave (ex.: taxa de aprovação, chargebacks, fraude, MDR) e criar relatórios regulares para stakeholders;\n- Identificar padrões e anomalias, propondo soluções para otimizar processos e reduzir custos;\n- Construir dashboards interativos que auxiliem equipes de produto e operações na tomada de decisões;\n- Colaborar com times de produto para analisar o impacto de mudanças nos fluxos de pagamento ou em parcerias estratégicas;\n- Acompanhar e desenvolver modelos estatisticos que tragam valor e provocações para o negócio através de análises e insights estratégicos;\n- Conduzir iniciativas de Machine Learning no Databricks com PySpark, focadas em modelos simples e aplicáveis (ex.: clusterização, segmentações, geração de features e experimentação);\n- Suportar análises financeiras para precificação dinâmica de taxas e promoções nos serviços de pagamento.\n- \n\n## Local\n\nEscritório, São Paulo - Vila Matilde (Zona Leste)\n\n## Benefícios\n\n🩺 Assistência Médica e Odontológica\n\n💳 Cartão Cesta Básica\n\n🍴 Refeição no local de trabalho\n\n👩‍🍼 Extensão da Licença Maternidade\n\n🚌 Vale Transporte\n\n🏋️‍♀️🏋️‍♂️ Parcerias com academias Wellhub e TotalPass\n\n🚗 Estacionamento gratuito nas dependências do Shopping\n\n📈 Participação Resultados\n\n\n## Requisitos\n\n#### Obrigatórios:\n\n- Proficiência em Databricks, com foco em modelagem e manipulação de dados;\n- Conhecimento nas linguagens SQL, Python e Spark;\n- Experiência com tratamento de grandes volumes de dados transacionais e financeiros;\n- Proficiência em SQL e Excel; conhecimento em ferramentas de visualização como Power BI ou Looker;\n- Conhecimento de ferramentas de IA tradicional e generativa.\n\n## Nossa empresa\n\nSomos uma empresa que cuida da Nossa Gente, zela pela simplicidade, valoriza o Ser Humano e acredita no poder da diversidade e inclusão. Estamos com uma posição de Analista Data Analytics Sr., também aberta para inscrição de Pessoa com Deficiência.\n\nJá pensou em trabalhar na empresa de atacado de autosserviço que mais cresce no Brasil, uma das maiores empregadoras do país, que também carrega uma das Marcas Mais Valiosas? E com o nosso processo de expansão acelerado estamos crescendo e trazendo cada vez mais pessoas para fazerem parte do nosso time.\n\nAfinal, o crescimento do nosso negócio significa o crescimento da Nossa Gente.\n\n#vemSerAssaí\n\n\n\n## Como se candidatar\n\nPor favor acesse nossa vaga em: https://assai.gupy.io/jobs/11405739\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\nE-mail para contato em caso de não haver resposta: michele.costa@assai.com.br\n\n#### Regime\n- CLT\n\n#### Nível\n- Sênior",
+      "excerpt": "## Descrição da vaga - Coletar, organizar e analisar dados transacionais provenientes de adquirência, subadquirência e fluxos financeiros; - Monitorar indicadores-chave (ex.: taxa de aprovação, chargebacks, fraude, MD...",
       "issueState": "open",
-      "contentHash": "e45b8c0136951ea27b9b9e2a4a794ef8f80b59777c4720337aec34ed66682285",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "contentHash": "7dad96bbca3f8eca358ed9bc55419444f343a480ea58c26806ef8fa677185604",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
       "region": "South America",
       "country": "Brazil",
       "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "java",
+        "python",
+        "data"
+      ],
+      "author": {
+        "id": "MicheleCosta55",
+        "name": "MicheleCosta55",
+        "handle": "MicheleCosta55",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/306319551?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-07-17T21:55:10Z",
+      "updatedAt": "2026-07-17T21:55:10Z",
+      "url": "https://github.com/datascience-br/vagas/issues/167",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ed00b8f2449863124678856d",
+      "sourceId": "backend-pt/vagas#141",
+      "title": "[Remoto] Java + .NET Backend Developer Especialista @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java + .NET Backend Developer nível Especialista para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 18.000 a 32.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Especialista\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 18.000–32.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/especialista-java-dotnet-13-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "bd2c0f80b71b270d056f93b2d67b0262e4a462ff97e23267bc3db3d3e691db8e",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "especialista",
         "remoto"
       ],
       "author": {
@@ -774,21 +674,109 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
       },
       "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
       },
       "salary": {
         "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
+        "min": 18000,
+        "max": 32000,
         "period": "month"
       },
-      "createdAt": "2026-07-19T15:22:31Z",
-      "updatedAt": "2026-07-19T15:22:49Z",
-      "url": "https://github.com/backend-br/vagas/issues/12362",
+      "createdAt": "2026-07-17T13:10:36Z",
+      "updatedAt": "2026-07-17T14:28:36Z",
+      "url": "https://github.com/backend-pt/vagas/issues/141",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_771e69b35a748d39b77d7307",
+      "sourceId": "dotnetdevbr/vagas#1065",
+      "title": "[Remoto] Back-End Developer .NET Especialista @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Especialista para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 18.000 a 32.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Especialista\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 18.000–32.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/especialista-java-dotnet-13-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "ad6ec086e069c2ebb333f74a4ff37597f7fd1cc9d33d5b663c7006e415e0d150",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "especialista"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 18000,
+        "max": 32000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-17T13:09:34Z",
+      "updatedAt": "2026-07-17T14:28:34Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1065",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d4c8aac0ae4c7a583db4e6e8",
+      "sourceId": "soujava/vagas-java#1914",
+      "title": "[Remoto] Desenvolvedor(a) Java + .NET Sênior (10+ anos) na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java + .NET Sênior (10+ anos) nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 15.000 a 26.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 15.000–26.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-dotnet-senior-10-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "99fb9ee4dff671b5f72f0d2f51e2d4fa53dbfded88a60ade4a460bc1d70ec495",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 15000,
+        "max": 26000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-17T13:08:28Z",
+      "updatedAt": "2026-07-17T13:08:44Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1914",
       "sourceType": "github-issue"
     }
   ]
