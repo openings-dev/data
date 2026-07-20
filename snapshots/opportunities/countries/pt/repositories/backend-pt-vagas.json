@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-07-19T15:50:58.787Z",
+  "generatedAt": "2026-07-20T13:52:21.868Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 22,
-    "openIssues": 6,
-    "closedIssues": 16
+    "openIssues": 7,
+    "closedIssues": 15
   },
-  "dataHash": "acf1dd51d4168d8596bf05b149e5164926bedb53033e9172ff1cfc2c69559db0",
+  "dataHash": "424cc901278d593738df7804ad604462f03e72ea0ead7c7e73313fa0f9940ee1",
   "items": [
+    {
+      "id": "gh_22f89c3b0b886211403e0348",
+      "sourceId": "backend-pt/vagas#143",
+      "title": "[Remoto] Java Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "bbe71db99377b3961faadfde80fcaf553d743de941bee831a1afc777da667101",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-20T11:38:38Z",
+      "updatedAt": "2026-07-20T11:39:04Z",
+      "url": "https://github.com/backend-pt/vagas/issues/143",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_3f397fe05fb55742505692c4",
       "sourceId": "backend-pt/vagas#142",
@@ -853,46 +894,6 @@
       "createdAt": "2023-07-17T10:40:25Z",
       "updatedAt": "2023-09-21T00:46:59Z",
       "url": "https://github.com/backend-pt/vagas/issues/114",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d65fa6b5e0ee08b9835673c3",
-      "sourceId": "backend-pt/vagas#113",
-      "title": "[Remoto] Pessoa Desenvolvedora Fullstack Sênior - PHP e Vue.JS @ Feedz",
-      "description": "### Nossa empresa\n\n🚀 A FEEDZ:\n\nSomos uma HRTech e nosso propósito é criar ambientes de trabalho mais felizes, tudo isso através de um software completo de gestão de pessoas humanizado! Por isso, começar pelo nosso próprio ninho é tão importante! Somos Parrots determinados e que se importam uns com os outros, a sede de resultado é latente e o feedback sincero é rotina.\n\nEstamos conquistando coisas incríveis! Crescemos quase 200% em 2022 e continuamos evoluindo em 2023, tudo isso através de um clima animado, com muito desenvolvimento e respeito para todos! (Se quiser conhecer melhor nosso ninho, voa pra cá: https://www.feedz.com.br/vagas/) 💙 Quer mais? Estamos no modelo totalmente remoto, então você pode fazer parte do nosso ninho no conforto da sua casa!!\n\nAqui na Feedz valorizamos muito a diversidade e queremos Parrots que queiram voar conosco, independente da etnia, gênero, sexualidade, nacionalidade, idade ou deficiência! Quer crescer com a gente? Vem pro ninho 💛\n\n### Descrição da vaga\n\n\n\n🔎 DESAFIOS DO TIME:\n\nEstamos buscando uma pessoa para o cargo de Pessoa Desenvolvedora Fullstack Sênior(PHP) que irá atuar no nosso time de Produto, trabalhando diretamente com nossos tech leads e CTO, resolvendo desafios que impactam mais de 150 mil usuários diretamente e nos ajudando a evoluir a senioridade do time.Aqui trabalhamos para construir um produto escalável e altamente focado na performance, sempre utilizando boas práticas de código e arquitetura limpa!\n\n📅 ETAPAS DO PROCESSO:\n\nPara essa posição, temos as seguintes etapas para avaliação:\n\nTriagem de currículo;\nBate papo técnico;\nBate papo cultural;\nContratação!\nPara entender melhor sobre cada etapa e como funciona nosso processo seletivo, acesse nosso playbook da pessoa candidata: https://bit.ly/3EWnroW\n\n📚Responsabilidades e atribuições:\n\nAplicar boas práticas alinhadas com o time no desenvolvimento (criando códigos coerentes e alinhados ao Clean Code; desenvolvendo com foco em segurança, patterns, CI/CD, automação, etc);\nDesenvolver novos módulos na plataforma e auxiliar nas definições de arquitetura;\nIdentificar pontos de melhoria na performance da base instalada;\nDesenvolvimento e aplicação de testes automatizados;\nMentorear o time de desenvolvimento em parceria com tech leads;\nFazer a gestão da informação das demandas atualizando o status dos projetos.\n\n💰 Salário a combinar (CLT)\n40 horas semanais\n\n\n\n\n### Local\n\nRemoto\n\n### Requisitos\n\n🎯Pré-requisitos:\n\nAproximadamente 7 anos de experiência com desenvolvimento web (Full stack com vivência em PHP e VueJS) em produtos digitais;\nExperiência com sistemas de alto volume de dados;\nVivência com testes automatizados (unitários, integração e/ou aceitação);\nVivência em times de tecnologia.\n\n### Benefícios\n\n✨Benefícios:\n\n100% Home Office (não iremos voltar ao trabalho presencial!!)\nVale Comida (R$700)\nPlano de Saúde Unimed(subsidiado pela Feedz)\nPlano odontológico Nacional da Bradesco Dental(subsidiado pela Feedz)\nAuxílio Parrot Feliz (R$100/mês de investimento no desenvolvimento pessoal, saúde física ou mental do Parrot)\nAuxílio Contas (R$160/mês)\nAuxílio Parrot Casamenteiro(R$250 quando Parrots casam)\nAuxílio Ninhada(R$250 no nascimento ou adoção de pequenos Parrots)\nHappy Bird(day) (um dia de folga no mês de aniversário)\nLicença paternidade estendida(21 dias)\nLicença maternidade estendida(6 meses)\nIfood Office(voucher para usar dentro do app em alguns eventos internos)\nPara você ter um voo com conforto, na Feedz oferecemos um auxílio de R$1.000 (pagamento único) para materiais, como mesa e cadeira, para seu home office e enviamos todos os equipamentos eletrônicos necessários!\n\n### Contratação\n\nCLT\n\n### Como se candidatar\n\nCandidate-se em: https://atracaodetalentos.totvs.app/feedz/job-opportunity/30\n\n### Tempo médio de feedbacks\n\n_No response_\n\n### Keywords\n\nVUE, PHP, Fullstack, Sênior, Testes\n\n### Alocação\n\n- [ ] Alocado\n- [X] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [X] Contrato\n- [ ] Freela\n- [ ] RV\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa 🚀 A FEEDZ: Somos uma HRTech e nosso propósito é criar ambientes de trabalho mais felizes, tudo isso através de um software completo de gestão de pessoas humanizado! Por isso, começar pelo nosso próp...",
-      "issueState": "closed",
-      "contentHash": "4e6a5881ffb0f022b88961f53293ad2a9ef80040e2c167a0cf32419e500ac408",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "alocado",
-        "especialista",
-        "freela",
-        "presencial",
-        "rv",
-        "híbrido",
-        "remoto"
-      ],
-      "author": {
-        "id": "larissaaguiar",
-        "name": "larissaaguiar",
-        "handle": "larissaaguiar",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51802608?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2023-06-14T11:36:09Z",
-      "updatedAt": "2023-08-20T00:47:40Z",
-      "url": "https://github.com/backend-pt/vagas/issues/113",
       "sourceType": "github-issue"
     }
   ]
