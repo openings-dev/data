@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-16T05:33:19.755Z",
+  "generatedAt": "2026-07-21T01:55:34.795Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 10,
+    "opportunities": 8,
     "openIssues": 0,
-    "closedIssues": 10
+    "closedIssues": 8
   },
-  "dataHash": "28dabdfeb8a9a7321fc6cb06ee4c4a1cd4528e0f7fc2cc5be8ebf338620bc38c",
+  "dataHash": "eff3a03f37c886abe38191b37400ace56e3505f425c5273e11dc4cc61f540684",
   "items": [
     {
       "id": "gh_6a37b33694dc9ddad7478358",
@@ -188,76 +188,6 @@
       "createdAt": "2026-04-03T17:07:25Z",
       "updatedAt": "2026-07-15T20:03:22Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/230",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bedaba9a8ab0024ee42827c4",
-      "sourceId": "ambicuity/New-Grad-Jobs#133",
-      "title": "[Good First Issue]: align ci.yml config validation with current config[\"apis\"] schema",
-      "description": "---\n## Welcome to New Grad Jobs! 🎓\n\nThis template creates a **Good First Issue** — a small, guided task that helps new\ncontributors learn the codebase and contribution workflow.\n\n**Good First Issues are pre-approved by the maintainer.** A contributor can claim it\nimmediately by commenting `/assign`.\n\n---\n\n### 🆕 Newcomer Friendly\n\nThis is a **Good First Issue** — a guided, well-scoped task designed for contributors\nwho are new to this repository.\n\n#### What you'll do\n- ✅ Read a small part of the codebase\n- ✅ Make a focused, well-defined change\n- ✅ Write or extend a test\n- ✅ Submit and merge a pull request\n\n#### Support\nThe maintainer actively monitors Good First Issues and will respond to questions\nwithin 24–48 hours.\n\n> [!IMPORTANT]\n> **This issue does not require prior scraping or API experience.**\n>\n> - Basic Python and Git are sufficient\n> - You must be assigned before starting — comment `/assign` to claim this issue\n> - Read [CONTRIBUTING.md](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTING.md)\n>   before opening a PR\n\n> [!NOTE]\n> ⏱️ **Typical time to complete:** 30–90 minutes (once local setup is done)\n> 🧩 **Difficulty:** Small, well-contained change\n> 🎓 **Best for:** First-time contributors\n\n**🏁 When this issue is complete, you will have:**\n- ✅ A merged PR in a real open-source project\n- ✅ Your name in the [Contributors Hall of Fame](https://github.com/ambicuity/New-Grad-Jobs/blob/main/CONTRIBUTORS.md)\n- ✅ Confidence to take on larger issues next\n\n> [!IMPORTANT]\n> #### 📋 What makes a Good First Issue in this repo?\n>\n> **Often a good fit:**\n> - Adding a missing company to `config.yml` (Greenhouse, Lever endpoint)\n> - Fixing a keyword in `categorize_job()` or `get_company_tier()`\n> - Correcting a typo or broken link in documentation\n> - Adding a test case for an existing, already-working function\n> - Small CSS/HTML improvements to `docs/`\n>\n> **Not a good fit for GFI:**\n> - Changes to `filter_jobs()`, `deduplicate_jobs()`, or date parsing\n> - New scraping source integrations (Workday, Google Careers)\n> - Architectural changes to `update_jobs.py`\n>\n> Those belong in **Beginner**, **Intermediate**, or **Advanced** issues.\n\n### 👾 Task Description\n\nThe `Validate config.yml structure` step in `.github/workflows/ci.yml` reads company counts from outdated key paths:\n\n- Current code reads `config.get(\"greenhouse\", {})` and `config.get(\"lever\", {})`\n- Actual schema stores these under `config[\"apis\"][\"greenhouse\"]` and `config[\"apis\"][\"lever\"]`\n\nBecause of this mismatch, the workflow prints incorrect counts and does not validate the nested schema as intended.\n\nPlease update the inline validation script to match the current config structure.\n\nSuggested scope:\n- Ensure required top-level keys include `filtering`, `apis`, and `readme`\n- Read company lists from `config[\"apis\"][\"greenhouse\"][\"companies\"]` and `config[\"apis\"][\"lever\"][\"companies\"]`\n- Keep behavior simple and non-breaking: fail only on true schema problems\n- Keep output logs clear for contributors debugging CI\n\n**Area touched:**\n- `.github/workflows/ci.yml`\n\n### ✅ Acceptance Criteria\n\n- [ ] CI validation step reads Greenhouse/Lever company counts from `config[\"apis\"]`\n- [ ] Required key checks include `apis`\n- [ ] Validation output reflects real company counts from current schema\n- [ ] Existing tests still pass (`make test`)\n- [ ] PR is linked to this issue with `Fixes #<number>`\n- [ ] PR title follows Conventional Commits format",
-      "excerpt": "--- ## Welcome to New Grad Jobs! 🎓 This template creates a **Good First Issue** — a small, guided task that helps new contributors learn the codebase and contribution workflow. **Good First Issues are pre-approved by...",
-      "issueState": "closed",
-      "contentHash": "20e732a73bb36a91b8c42b226287b00a4dcefadc81b19796ccf64b3ae283e964",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "good first issue",
-        "type: chore",
-        "needs-triage"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-07T05:41:24Z",
-      "updatedAt": "2026-07-15T20:01:55Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/133",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fd0c2689702672cf9211c572",
-      "sourceId": "ambicuity/New-Grad-Jobs#51",
-      "title": "[Beginner]: Add an `.editorconfig` file to standardize code formatting",
-      "description": "### Description\nCreate an `.editorconfig` at the root of the repository to enforce 4 spaces for Python, 2 spaces for JSON/YAML, UTF-8 charset, and final newlines.\n\n### Why it matters\nEnsures that all contributors automatically use the correct tab/space settings in their IDEs before they even hit pre-commit hooks.\n\n### Acceptance Criteria\n- [ ] Create `.editorconfig`\n- [ ] Define rules for `*.py`, `*.yml`, `*.md`\n- [ ] Ensure it enforces trim-trailing-whitespace and final newlines\n- [ ] Passes `pre-commit run --all-files`",
-      "excerpt": "### Description Create an `.editorconfig` at the root of the repository to enforce 4 spaces for Python, 2 spaces for JSON/YAML, UTF-8 charset, and final newlines. ### Why it matters Ensures that all contributors autom...",
-      "issueState": "closed",
-      "contentHash": "c9d9b770037216d5e9c2c8aaf30f541607aa2601d567aaba45971f2306866506",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "good first issue"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T23:39:37Z",
-      "updatedAt": "2026-07-15T20:01:58Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/51",
       "sourceType": "github-issue"
     },
     {
