@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-21T01:55:34.795Z",
+  "generatedAt": "2026-07-21T16:18:32.856Z",
   "page": 18,
   "pageSize": 20,
   "nextPage": "api/pages/page-0019.json",
   "ids": [
+    "gh_5c6fa83157f78b5fb109953b",
     "gh_18d1e672fe4959dd0f3f1147",
     "gh_37d4fbca63e20e104991a24e",
     "gh_62458a563a0020a9016b76c8",
@@ -22,10 +23,42 @@
     "gh_31072b7eb07f8515de34a041",
     "gh_b4c389988f0e5a389aabf3b3",
     "gh_a8804e9c31dabfe160161277",
-    "gh_529af6046ca6a2af0d52eeca",
-    "gh_a0d0697e0611db05ad0efa22"
+    "gh_529af6046ca6a2af0d52eeca"
   ],
   "items": [
+    {
+      "id": "gh_5c6fa83157f78b5fb109953b",
+      "sourceId": "cncf/gitjobs#245",
+      "title": "ASWF Job Board",
+      "description": "The https://www.aswf.io was interested in an embedded job board",
+      "excerpt": "The https://www.aswf.io was interested in an embedded job board",
+      "issueState": "open",
+      "contentHash": "6ad04730deb6da43ab5b3a7931e92de128906ac114fa145499f5769d632dddd1",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "integration"
+      ],
+      "author": {
+        "id": "caniszczyk",
+        "name": "caniszczyk",
+        "handle": "caniszczyk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63777?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2025-04-25T19:21:49Z",
+      "updatedAt": "2026-02-07T20:02:48Z",
+      "url": "https://github.com/cncf/gitjobs/issues/245",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_18d1e672fe4959dd0f3f1147",
       "sourceId": "datascience-br/vagas#142",
@@ -698,44 +731,6 @@
       "createdAt": "2025-02-14T18:46:00Z",
       "updatedAt": "2025-02-14T18:46:00Z",
       "url": "https://github.com/devssa/onde-codar-em-salvador/issues/3896",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a0d0697e0611db05ad0efa22",
-      "sourceId": "CangaceirosDevels/vagas_de_emprego#2797",
-      "title": "[Remote] Backend Senior Developer Node.js and Javascript (Fluent English) - Hunter",
-      "description": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents\n\nRemote.\n\nR$15k CLT.\n\nStays is the vacation rental software that increases your bookings on autopilot.\nOur solutions involve improving the performance of the Saas platform, as well as calendar management, task management, reservation management, payment gateways, messaging services, site builders, advanced API communications. We are a company at Despegar group\n\nWhat do you must have:\n\nMinimum of 7 years of professional software development experience\n\nAt least 5 years of hands-on experience with Node.js\n\nStrong Backend experience\n\nExperience with mongodb and Javascript\n\nFluent English\n\nExpericence requeried:\n\nNode.js, JavaScript (including closures, callbacks, promises, and async/await)\n\nMongoDB database (including schema design and optimization)\n\nAPI Design. Designing and implementing scalable and secure APIs.\n\nVersion Control. Advanced knowledge of Git, including branching strategies, pull requests, and code reviews.\n\nDevOps. CI/CD pipelines, containerization (Docker) and AWS cloud platform.\n\nTesting. Unit testing, integration testing using frameworks like Mocha, Jest, or similar.\n\nOur Benefits:\n\nhealth plan\n\nbonus\n\nfood allowance\n\nhome office allowance\n\nwellhub\n\n100% remote\n\nDay off.\n\n9h to 18h Brasília time zone.\n\nCompensation: R$15k CLT.\n\nSe tem interesse e os requisitos da oportunidade entre em contato pelo Linkedin abaixo, informando qual é a oportunidade:[https://www.linkedin.com/in/erickamarquesb/]",
-      "excerpt": "Senior Developer Node.js and Javascript (Fluent English) only Brazil residents Remote. R$15k CLT. Stays is the vacation rental software that increases your bookings on autopilot. Our solutions involve improving the pe...",
-      "issueState": "open",
-      "contentHash": "8e9c5370c4beafdf3db486b39ae40fed46b17b516470622f786ac4737c64bc17",
-      "repository": "CangaceirosDevels/vagas_de_emprego",
-      "repositoryUrl": "https://github.com/CangaceirosDevels/vagas_de_emprego",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt"
-      ],
-      "author": {
-        "id": "ErickaMB",
-        "name": "ErickaMB",
-        "handle": "ErickaMB",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/73557073?v=4"
-      },
-      "community": {
-        "id": "CangaceirosDevels",
-        "name": "CangaceirosDevels",
-        "avatarUrl": "https://github.com/CangaceirosDevels.png?size=80",
-        "repository": "CangaceirosDevels/vagas_de_emprego",
-        "url": "https://github.com/CangaceirosDevels/vagas_de_emprego"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 15000,
-        "period": "month"
-      },
-      "createdAt": "2025-02-14T18:45:32Z",
-      "updatedAt": "2025-02-14T18:45:56Z",
-      "url": "https://github.com/CangaceirosDevels/vagas_de_emprego/issues/2797",
       "sourceType": "github-issue"
     }
   ]

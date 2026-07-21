@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T11:00:01.847Z",
+  "generatedAt": "2026-07-21T16:18:32.856Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
@@ -22,8 +22,8 @@
     "gh_8efe119dc847f2d5d97185b1",
     "gh_9e4baa9ba521c0732719893f",
     "gh_0871ca1a0ecc002bf7e9c19a",
-    "gh_bf1a4481c55b8d80f89cba07",
-    "gh_88ea999c66efeb67b1469595"
+    "gh_5c0b3d4ad5e140c5d9cb92b3",
+    "gh_bf1a4481c55b8d80f89cba07"
   ],
   "items": [
     {
@@ -662,6 +662,47 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_5c0b3d4ad5e140c5d9cb92b3",
+      "sourceId": "backend-br/vagas#12288",
+      "title": "[Remoto] Full-stack Engineer (React.js, Python & AI Agents) USD - Strider",
+      "description": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (React.js, Python & AI Agents)\n🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Paraguai, Chile, Peru e Costa Rica\n\nEmpresa americana busca Full-stack Engineer com experiência em IA Generativa, AI Agents, Python e React para atuar em produtos inovadores e ambientes altamente escaláveis. 🚀\n\n💰 USD 3.5K–4.9K/mês\n📍 100% Remoto\n🗣 Inglês C1+\n⏰ Long-term | 40h semanais\n\n📩 Se inscreva agora!\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1lbmdpbmVlci0xN2E0YzU4Mj9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==",
+      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (React.js, Python & AI Agents) 🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Paraguai, Chile, Peru e Costa Rica Empresa americana busca Full-s...",
+      "issueState": "open",
+      "contentHash": "85aa0a6e541d5f5d104ca9eadaff9308fc7fecb1f0b842f74128ce690891c6d9",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "remoto",
+        "stale"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 3500,
+        "max": 4900,
+        "period": "month"
+      },
+      "createdAt": "2026-06-18T08:23:34Z",
+      "updatedAt": "2026-07-21T13:28:32Z",
+      "url": "https://github.com/backend-br/vagas/issues/12288",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_bf1a4481c55b8d80f89cba07",
       "sourceId": "f2etw/jobs#1168",
       "title": "[求職] 高雄 /現場、遠端、混合型/ | 具 Vue 3 & Angular 19 雙框架實作經驗的前端工程師 - 林家齊 (AtayalLin)",
@@ -695,44 +736,6 @@
       "createdAt": "2026-06-18T07:09:49Z",
       "updatedAt": "2026-06-29T06:26:57Z",
       "url": "https://github.com/f2etw/jobs/issues/1168",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_88ea999c66efeb67b1469595",
-      "sourceId": "frontendbr/vagas#8509",
-      "title": "[Rio Claro - São Paulo] Front-end Developer Pleno no Grupo MNGT",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Descrição da vaga\n\nBuscamos um(a) desenvolvedor(a) com foco em frontend e produto digital para atuar na construção e evolução de sites institucionais, landing pages e interfaces internas. O profissional trabalhará lado a lado com o time de TI e com as áreas de Marketing e Comercial, sendo responsável por entregar experiências digitais de qualidade, com boas práticas de SEO, analytics e performance. É uma vaga ideal para quem quer crescer em um ambiente dinâmico, com espaço para evoluir para Full Stack.\n\n## Local\n\nPresencial em Rio Claro - SP, com possibilidade de ser híbrido para quem mora em São Paulo, com idas a Rio Claro.\n\n## Requisitos\n\n### Responsabilidades\n- Desenvolver e manter sites institucionais e landing pages responsivas e de alto desempenho.\n- Implementar rastreamento e analytics (Google Tag Manager, Microsoft Clarity e similares).\n- Criar e manter componentes de interface reutilizáveis com React / Next.js.\n- Configurar redirecionamentos, páginas de erro e boas práticas de SEO técnico.\n- Colaborar com a área de Marketing para traduzir briefings em páginas e fluxos digitais.\n- Apoiar na evolução de ferramentas internas de geração de conteúdo com IA.\n- Participar das cerimônias ágeis e manter documentação atualizada.\n\n### O que você precisa ter\n- HTML / CSS / JS: domínio sólido, código semântico, responsividade e acessibilidade básica.\n- React / Next.js: experiência na construção de páginas e componentes; roteamento e SSR/SSG.\n- Git / GitHub: fluxo diário com branches e PRs.\n- Analytics & GTM: noção de implementação de tags, eventos e pixels de rastreamento.\n- Comunicação: capacidade de entender demandas de áreas não técnicas e transformá-las em código.\n- Vontade de aprender: disposição para usar LLMs no cotidiano de desenvolvimento.\n\n### Diferenciais\n- Experiência com TypeScript.\n- Noções de backend (Node.js ou Python) — desejo de evoluir para Full Stack.\n- Conhecimento em performance web (Core Web Vitals, Lighthouse).\n- Experiência com ferramentas de CMS headless ou construtores de landing page.\n- Portfólio com projetos publicados (sites, apps ou contribuições open source).\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nCandidate-se aqui:  https://oportunidades.mindsight.com.br/grupomngt/15\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
-      "issueState": "open",
-      "contentHash": "4641141db620cf2b8d0e32d024deef9e53ebeddb8c3ebcc476095b2359d75284",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "pj",
-        "alocado",
-        "são paulo",
-        "híbrido"
-      ],
-      "author": {
-        "id": "JuscelinoJunior",
-        "name": "JuscelinoJunior",
-        "handle": "JuscelinoJunior",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23690136?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Grupo MNGT",
-      "createdAt": "2026-06-18T04:45:52Z",
-      "updatedAt": "2026-06-18T04:46:18Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8509",
       "sourceType": "github-issue"
     }
   ]
