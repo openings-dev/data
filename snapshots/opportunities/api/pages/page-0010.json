@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-07-21T16:18:32.856Z",
+  "generatedAt": "2026-07-21T19:07:11.905Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_84cd180e02db9815d917bcc4",
+    "gh_eca179323abe1309b96e6c74",
+    "gh_66eaeb59684b31b56e56dc58",
+    "gh_a2bf5d8b1ac2ec634b465f35",
+    "gh_83b66ce2daefa84016b71185",
     "gh_70eda67c2285a24c2f32ca41",
     "gh_828a908398f893b1e0c6ca3d",
     "gh_28a89509442cf0e8c335df8d",
@@ -18,14 +23,176 @@
     "gh_e9177ae252d1679b2e5d82c5",
     "gh_5708c7b7c69bc276f6fb8941",
     "gh_5d54a463e13b23bbe38791ce",
-    "gh_24b11f8f8ff090708a67e44c",
-    "gh_2d895bac96564681581385bb",
-    "gh_bacefe5602e4e742e8cdf5f9",
-    "gh_3ca6bfcccb91efa2b245a1f6",
-    "gh_87ff6095a89da3f020be3eb8",
-    "gh_cb3234a96bffc3e0b5521d34"
+    "gh_24b11f8f8ff090708a67e44c"
   ],
   "items": [
+    {
+      "id": "gh_84cd180e02db9815d917bcc4",
+      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
+      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
+      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
+      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
+      "issueState": "open",
+      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
+      },
+      "createdAt": "2026-06-05T14:28:49Z",
+      "updatedAt": "2026-06-05T14:28:49Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_eca179323abe1309b96e6c74",
+      "sourceId": "remote-es/remotes#192",
+      "title": "Consider including a link to the company website in addition to their jobs page",
+      "description": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "excerpt": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "issueState": "open",
+      "contentHash": "9f264e57917d81d57c461931d8d62d9b64219de514d1659a74aa586a03257e79",
+      "repository": "remote-es/remotes",
+      "repositoryUrl": "https://github.com/remote-es/remotes",
+      "region": "Europe",
+      "country": "Spain",
+      "tags": [],
+      "author": {
+        "id": "alexpdp7",
+        "name": "alexpdp7",
+        "handle": "alexpdp7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
+      },
+      "community": {
+        "id": "remote-es",
+        "name": "remote-es",
+        "avatarUrl": "https://github.com/remote-es.png?size=80",
+        "repository": "remote-es/remotes",
+        "url": "https://github.com/remote-es/remotes"
+      },
+      "createdAt": "2026-06-04T18:38:01Z",
+      "updatedAt": "2026-06-04T18:38:01Z",
+      "url": "https://github.com/remote-es/remotes/issues/192",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_66eaeb59684b31b56e56dc58",
+      "sourceId": "jobright-ai/2026-Engineer-Internship#2",
+      "title": "Canada-specific engineering internship companion resource",
+      "description": "Hi Jobright team — I’m Hanzi, a recent McGill grad building Hanzilla Jobs.\n\nI noticed this tracker covers a broad set of engineering/development internships and includes some Canada-relevant roles. Would you be open to adding a small Canada-specific companion resource for students who want a daily-updated Canadian view?\n\nSuggested line:\n\n```md\n- [Hanzilla Jobs — Engineering internships and early-career roles in Canada](https://jobs.hanzilla.co/engineering/) — free daily-updated Canadian student/recent-grad job board covering engineering, software, data, environmental/energy, business-adjacent technical roles, internships/co-ops, new-grad, junior, and entry-level positions. Related: [internships/co-ops](https://jobs.hanzilla.co/internships/).\n```\n\nVerification/about page for link safety: https://jobs.hanzilla.co/about/\n\nNo pressure if external companion links are out of scope — I figured it may be useful for Canadian students using this repo alongside US-heavy internship lists.",
+      "excerpt": "Hi Jobright team — I’m Hanzi, a recent McGill grad building Hanzilla Jobs. I noticed this tracker covers a broad set of engineering/development internships and includes some Canada-relevant roles. Would you be open to...",
+      "issueState": "open",
+      "contentHash": "a23aaad91a034b33fff397c6c67408b7733e43cef74388401dce2074d8b3874f",
+      "repository": "jobright-ai/2026-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Engineer-Internship"
+      },
+      "createdAt": "2026-06-04T11:24:11Z",
+      "updatedAt": "2026-06-04T11:24:11Z",
+      "url": "https://github.com/jobright-ai/2026-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_a2bf5d8b1ac2ec634b465f35",
+      "sourceId": "jobright-ai/2026-Product-Management-Internship#2",
+      "title": "Consider adding a Canada-specific student/product jobs companion resource",
+      "description": "Hi Jobright team — thanks for maintaining this Product Management internship tracker.\n\nWould you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian student/new-grad coverage?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs – Canadian business, product-adjacent, and student jobs](https://jobs.hanzilla.co/business/) — free daily-updated Canadian student/recent-grad board covering business, product-adjacent, analyst, finance, engineering, tech, internships/co-ops, new-grad, junior, and entry-level roles. Internship-focused page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it seems relevant here:\n\n- this repo already surfaces Canada-relevant product/product-strategy roles such as Toronto/Oakville listings;\n- Hanzilla is Canada-specific and aimed at university students/recent grads, so it complements a broader global/Product Management tracker rather than replacing it;\n- the board is not CS-only: it includes business, finance, engineering, sciences, tech, internships/co-ops, new-grad, junior, and entry-level roles.\n\nFor trust/context, the project about/verification page is here: https://jobs.hanzilla.co/about/\n\nNo worries if external companion links are out of scope — just wanted to suggest it for Canadian students landing here from search.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this Product Management internship tracker. Would you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian stu...",
+      "issueState": "open",
+      "contentHash": "81aff8b9fb08757ba3e58bad9c9cf3f887bd1f39bdf761b80af334256a676134",
+      "repository": "jobright-ai/2026-Product-Management-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-Internship",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-Internship"
+      },
+      "createdAt": "2026-06-04T06:39:41Z",
+      "updatedAt": "2026-06-04T06:39:41Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_83b66ce2daefa84016b71185",
+      "sourceId": "programadores-br/geral#3077",
+      "title": "[Remoto] Full Cycle Developer (Júnior) na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-junior-175603413?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos contratando: **Pessoa Desenvolvedora Full Cycle**\n\nQuer fazer parte de um time que está transformando a logística por meio da tecnologia? Se você é apaixonado(a) por desenvolvimento, gosta de desafios e quer participar da construção de soluções que geram impacto real no negócio, essa oportunidade pode ser para você!\n\n**O que você vai fazer no dia a dia:**\n\nAtuar em todas as etapas do ciclo de desenvolvimento, desde a modelagem da solução até o acompanhamento em produção; Desenvolver soluções de ponta a ponta, colaborando com equipes multidisciplinares; Contribuir ativamente para a transformação digital da logística, elevando o nível de qualidade e eficiência dos nossos processos; Participar da construção de produtos e soluções inovadoras com impacto direto na operação.\n\n**O que oferecemos:**\n\n*   Ambiente promissor para crescimento pessoal e profissional;\n    \n*   Contato direto com um time de tecnologia altamente qualificado;\n    \n*   Espaço para inovação, aprendizado contínuo e desenvolvimento de carreira.\n    \n\nSe você gosta de desafios, inovação e quer crescer junto com um time que está construindo o futuro da logística, queremos conhecer você!\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n## Benefícios: \n - É disponibilizado o Onhappy\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Júnior) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-junior-175603413?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nCLT\n#### Categoria\nFull-Stack",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "b7aa86b86300c1f28e068bd2a2f0a7941b2fc6ef18a04c941e366c0f3d951c7d",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "júnior",
+        "clt"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-06-03T17:57:21Z",
+      "updatedAt": "2026-06-03T17:57:51Z",
+      "url": "https://github.com/programadores-br/geral/issues/3077",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_70eda67c2285a24c2f32ca41",
       "sourceId": "programadores-br/geral#3076",
@@ -550,184 +717,6 @@
       "createdAt": "2026-05-22T17:31:55Z",
       "updatedAt": "2026-05-22T17:32:17Z",
       "url": "https://github.com/programadores-br/geral/issues/3071",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2d895bac96564681581385bb",
-      "sourceId": "dotnetdevbr/vagas#1049",
-      "title": "[Remoto] Desenvolvedor .NET/Angular Sênior Nna DB1",
-      "description": "## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Descrição da vaga\n\nO que você vai fazer por aqui: \n\nDesenvolver e implementar funcionalidades novas e existentes em aplicativos .NET e Angular;\nColaborar com equipes multidisciplinares para entender requisitos e transformá-los em soluções técnicas;\nEscrever código limpo, eficiente e reutilizável;\nRealizar testes e depuração de aplicativos para garantir a qualidade e o desempenho;\n\n## Local\n\nRemoto\n\n## Requisitos\n\n✅ Experiência sólida com .NET\n✅ Experiência sólida com Angular.\n✅ Inglês fluente para comunicação no dia a dia.\n✅ Perfil colaborativo, que gosta de autonomia e vontade de construir soluções de alto impacto.\n\n**Diferenciais:**\nExperiência em projetos internacionais.\n\n## Benefícios\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nhttps://db1.inhire.app/vagas/d94ce7cf-3ef3-4954-90f2-697dff98dc09/desenvolvedor-netangular-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n- Sênior",
-      "excerpt": "## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida da...",
-      "issueState": "open",
-      "contentHash": "07bd7dbf894baa307af54617925fa44cff009f1ab285105d336a16f37bd1e7e7",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "sênior",
-        "💰 nao informado"
-      ],
-      "author": {
-        "id": "hadamaller",
-        "name": "hadamaller",
-        "handle": "hadamaller",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "createdAt": "2026-05-22T17:22:34Z",
-      "updatedAt": "2026-05-26T15:02:36Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1049",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bacefe5602e4e742e8cdf5f9",
-      "sourceId": "dotnetdevbr/vagas#1048",
-      "title": "[Remoto]Desenvolvedor .Net Sênior na DB1",
-      "description": "## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n\n## Descrição da vaga\n\nVocê vai ser nossa pessoa Sênior de .Net dentro de uma squad híbrida em um cliente DGS, um ambiente em que você é o ponto técnico DB1 do projeto, lado a lado com pessoas do cliente e de outros parceiros. O dia a dia alterna entre construir features novas em .Net (ASP.NET Core 6+, EF Core), evoluir APIs existentes, refatorar legado, integrar serviços e fazer troubleshoot em produção. Quando a demanda pede, você também encara o lado Apex/Salesforce: customização de fluxos, integração Salesforce.Net, automações e relatórios.\n\nVocê participa das cerimônias com o cliente (daily, planning, review) e conversa direto com PO e usuários, então tem espaço pra propor, questionar e influenciar a solução técnica. O foco é dev puro: sem responsabilidade por deploy, monitoramento ou on-call no seu escopo. E como o time acabou de entrar em um fluxo com IA (Copilot já liberado), saber usar bem essas ferramentas no codar do dia a dia é parte do jogo.\n\n## Local\n\nRemoto \n\n## Requisitos\n\n**Obrigatórios:**\nDomínio sólido de ASP.NET Core 6+ e EF Core\nExperiência com .NET Framework (legado)\nAplicação consistente de SOLID e Clean code em código real\nUso ativo de Copilot pra codar, gerar testes e revisar PRs\nDomínio prático de prompt engineering aplicado ao desenvolvimento\nApoia decisões técnicas conectadas às necessidades de negócio\nQuestiona o time de negócio pra garantir que a solução resolve o problema certo\nPesquisa e aplica novas tecnologias no dia a dia, sem esperar permissão\n\n**Diferenciais:**\nSalesforce/Apex (parte recorrente das demandas)\nJava (a sintaxe ajuda na transição pra Apex)\nOutras ferramentas de IA além do Copilot (Claude, Antigravity, Gemini)\n\n## Benefícios\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n## Contratação\nCLT\n\n## Como se candidatar\nhttps://db1.inhire.app/vagas/c3298b61-fe86-46a7-9052-bb4839b2732f/desenvolvedor-net-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n- Sênior",
-      "excerpt": "## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida da...",
-      "issueState": "open",
-      "contentHash": "9fc5c7dad500a645417b699d045b7a1178d5149ccd759ad8d6de8d57b86281c5",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "sênior",
-        "💰 nao informado"
-      ],
-      "author": {
-        "id": "hadamaller",
-        "name": "hadamaller",
-        "handle": "hadamaller",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "companyName": "DB1",
-      "createdAt": "2026-05-22T17:20:22Z",
-      "updatedAt": "2026-05-26T15:02:31Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1048",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3ca6bfcccb91efa2b245a1f6",
-      "sourceId": "lukasz-madon/awesome-remote-job#1053",
-      "title": "Add claudio: productivity tool for remote workers with voice dictation",
-      "description": "Repository: https://github.com/ayushkumar1808/claudio\n\nclaudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, terminal) to dictate text. Useful productivity tool for remote workers.",
-      "excerpt": "Repository: https://github.com/ayushkumar1808/claudio claudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, te...",
-      "issueState": "open",
-      "contentHash": "34f0812e9748512ef7767de54d589637ded444e3e146dc3f0b5d287767494cca",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "ayushkumar1808",
-        "name": "ayushkumar1808",
-        "handle": "ayushkumar1808",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/145252811?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-05-22T01:54:40Z",
-      "updatedAt": "2026-07-02T18:16:34Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_87ff6095a89da3f020be3eb8",
-      "sourceId": "qa-brasil/vagas#1255",
-      "title": "São Paulo QA na Act Digital| BMW",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nBuscamos um profissional com forte experiência em QA e liderança técnica de testes, atuando diretamente com o Test Manager, times de desenvolvimento ETL, Reporting e Scrum Master, garantindo a qualidade das entregas e o alinhamento entre áreas globais.\n\n📝 Responsabilidades\n• Liderar e coordenar atividades de testes do projeto ARPN\n• Atuar em conjunto com Test Manager, Development Leads e Scrum Master\n• Executar testes manuais e automat\n• Apoiar processos de UAT e gerenciamento de defeitos\n• Validar fluxos de dados, ETL e reporting\n• Garantir qualidade das entregas em ambientes de Data Warehouse\n• Participar de alinhamentos com times globais e stakeholders internacionais\n\n✅ Requisitos\n• Experiência como QA\n• Experiência com testes automatizado\n• Forte conhecimento em SQL Server\n• Experiência com ETL e Reporti\n• Vivência em projetos de Data Warehousing\n• Inglês avançado para conversação (nível B2/C1 obrigatório e validado em entrevista)\n• Boa comunicação e experiência atuando com times globais\n\n Local de trabalho\n- Híbrido. 3 dias remoto e 2 dias presencial no escritório no Morumbi - SP, chacará Santo Antonio\n\nRequisitos da vaga\n\n✅ Requisitos\n• Experiência como QA\n• Experiência com testes automatizado\n• Forte conhecimento em SQL Server\n• Experiência com ETL e Reporti\n• Vivência em projetos de Data Warehousing\n• Inglês avançado para conversação (nível B2/C1 obrigatório e validado em entrevista)\n• Boa comunicação e experiência atuando com times globais\n\n**Diferenciais**\nExperiência com Snowflake\n\nForma de contratação\n\nCLT\n\nBenefícios da empresa\n\n✔️Benefícios:\n🍔Vale Refeição\n🚗Vale Mobilidade\n🏥Convênio médico\n🦷Convênio Odontológico\n🗣️Parceria com idiomas\n🏋‍♀️Total Pass\n❤️Seguro de vida\n🫵🏻Indica e ganhe\n📚Programa de estudos\n🍼Auxílio Creche\n\n## Sobre a empresa\n\nA Act Digital, em parceria com a BMW, atua em projetos globais de transformação digital e inovação tecnológica no setor automotivo.\nA oportunidade oferece atuação em um ambiente internacional, com interação constante com times globais e tecnologias modernas.\nBuscamos profissionais com perfil colaborativo, visão analítica e foco em qualidade e entrega.\nO projeto possui metodologia ágil e forte integração entre áreas técnicas e de negócio.\nÉ uma excelente oportunidade para atuar em iniciativas estratégicas dentro de uma das maiores montadoras do mundo.\n\n## Como se candidatar\nMe chama aqui no WhatsApp: 21 98294-1257\nEnviar:\n[Vaga de interesse] – Nome – E-mail – Pretensão – LinkedIn – Nível de inglês\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 4 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: nathalyn.santos@actdigital.com\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- CLT\n- Especialista\n- Presencial\n- Remoto\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n- São Paulo\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "open",
-      "contentHash": "ce9250829ab0b75a655b2fd7139e10b667d74c60eb1045ee828fc2535ffd7c98",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "são paulo",
-        "presencial",
-        "especialista",
-        "inglês"
-      ],
-      "author": {
-        "id": "Nathalyn1811",
-        "name": "Nathalyn1811",
-        "handle": "Nathalyn1811",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/219899727?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "createdAt": "2026-05-21T11:12:53Z",
-      "updatedAt": "2026-05-21T11:13:18Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1255",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cb3234a96bffc3e0b5521d34",
-      "sourceId": "react-brasil/vagas#3010",
-      "title": "[ ZUP- 100% remoto]  Pessoa Desenvolvedora Fullstack (React, GenAI e .NET) Sênior ou Especialista",
-      "description": "Nosso propósito é criar tecnologias que desafiam as melhores do mundo e mudam o jogo para nossos clientes. Por isso, buscamos profissionais que desejam fazer parte de uma cultura pautada pela excelência e inovação. Se você se identifica com um ambiente de trabalho colaborativo e movido por curiosidade, venha construir o futuro da tecnologia conosco.\n\n\nO que você fará por aqui\n\n• Participar ativamente de toda a jornada de concepção e desenvolvimento das soluções, desde o processo de Discovery, ajudando a identificar o problema correto a ser resolvido\n• Contribuir em refinamentos técnicos para estruturar o desenho das soluções.\n• Interagir com squads interdependentes para garantir alinhamento e integração das soluções.\n• Desenvolver camadas Frontend (React) e backend (.NET Core) conforme demanda, incluindo testes unitários para garantir qualidade e segurança.\n• Garantir configurações adequadas para processos DevOps, planejamento e acompanhamento das implantações em produção.\n• Monitorar o ambiente pós-release para assegurar estabilidade e performance.\n• Aplicar técnicas avançadas de AI, utilizando ferramentas como Python (Langchain, Langgraph), RAG, engenharia de prompt e avaliação de agentes (EVALs).\n• Trabalhar com infraestrutura AWS (DocumentDB, Lambda, ECS, S3, Redis) e ferramentas de CI/CD (Github Actions, Terraform, Docker).\n• Colaborar no desenvolvimento e integração de agentes inteligentes, com conhecimento em MCP e Go Language sendo um diferencial.\n\n\n\nO que esperamos que você saiba\n\n•  Next com React 18+\n• Conhecimento em acessibilidade (normas WCAG).\n• Design responsivo.\n• .NET Core.\n• Versionamento de código (Gitlab/Github).\n• Orientação a objetos, padrões de projeto, SOLID e Clean Code.\n• Desenvolvimento e consumo de APIs REST.\n• Qualidade de código (SonarQube, Fortify, cobertura de testes unitários).\n• Técnicas avançadas de code review.\n• Conhecimento avançado do ecossistema AWS (CodePipeline, esteiras).\n• Arquitetura em Microfront-end (Web Components, Module Federation, Single SPA).\n• Conhecimentos avançados em AWS (domínio do ecossistema, esteiras, CodePipeline).\n• Conhecimento avançado em padrões de projeto.\n• Domínio em técnicas de observability (Splunk, Grafana, Prometheus).\n• Certificações Microsoft/.NET são um diferencial importante.\n• React 18+ com TypeScript — incluindo hooks nativos e patterns de composição (useCallback, useMemo, useReducer).\n• Experiência com Next.js (App Router, SSR/SSG/ISR, bundle otimization).\n• Conhecimento de Web Components e integração com React.\n• Criação e manutenção de custom hooks com responsabilidades bem definidas.\n• Context API / gerenciamento de estado sem libs externas.\n• Testes unitários com Testing Library e E2E com Cypress (cobertura de código).\n• Conventional Commits e boas práticas de Git.\n\n Se inscreva na vaga aqui: https://job-boards.greenhouse.io/zupinnovation/jobs/7661893003\n\nO que te oferecemos\n\nAtuamos em um modelo remoto por padrão, priorizando a sua liberdade e responsabilidade. Além disso, proporcionamos:\n\nCarreira\n\nLiberdade para trabalhar de onde quiser\nHorários flexíveis\nAuxílio Educação\nFerramenta própria de desenvolvimento de carreira\nGuildas internas e grupos de estudo e interesse\nSaúde e bem-estar\n\nPlano de saúde\nPlano odontológico\nParceria na compra de medicamentos\nTelemedicina disponível 24x7\nTerapia online gratuita\nWellhub\nLicença maternidade estendida\nLicença paternidade estendida\nCAZ – Central de Atendimento a zuppers\nConforto financeiro\n\nVale-refeição e alimentação\nSeguro de vida\nVale-transporte\nAuxílio home office\nAuxílio Creche\nAuxílio plano telefônico\nParticipação em Lucros e Resultados",
-      "excerpt": "Nosso propósito é criar tecnologias que desafiam as melhores do mundo e mudam o jogo para nossos clientes. Por isso, buscamos profissionais que desejam fazer parte de uma cultura pautada pela excelência e inovação. Se...",
-      "issueState": "open",
-      "contentHash": "2fdf3eae1d5a3a3bf29850fe055ff1b33d63b0894c11ec4b120a83cc31b2e3c1",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "🏢 remoto",
-        "stale"
-      ],
-      "author": {
-        "id": "KauanyFD",
-        "name": "KauanyFD",
-        "handle": "KauanyFD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-05-20T20:56:13Z",
-      "updatedAt": "2026-07-20T03:48:11Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3010",
       "sourceType": "github-issue"
     }
   ]

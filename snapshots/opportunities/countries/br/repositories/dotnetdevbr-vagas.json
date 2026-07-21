@@ -1,16 +1,59 @@
 {
-  "generatedAt": "2026-07-20T02:44:47.996Z",
+  "generatedAt": "2026-07-21T19:07:11.905Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "dotnetdevbr/vagas",
   "totals": {
     "opportunities": 26,
-    "openIssues": 12,
-    "closedIssues": 14
+    "openIssues": 13,
+    "closedIssues": 13
   },
-  "dataHash": "3e41023039aecef883c92678eae0406ab26b54dffbaa44ce4ad56b4bb4356f37",
+  "dataHash": "c41fd915cb73eecafcee5c645099b6226f14194c8281e198a4681a22b9e26118",
   "items": [
+    {
+      "id": "gh_f55b86fbebb7b39bcd8fe63e",
+      "sourceId": "dotnetdevbr/vagas#1068",
+      "title": "[Remoto] Back-End Developer (ASP.NET Core) Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer (ASP.NET Core) nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com .NET/ASP.NET Core compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-net-asp-net-core-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "93258bd6281da64f795e1500ec1ff7b431efe438f500100a84b2ee1ccbb39f93",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "pleno",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-21T17:45:44Z",
+      "updatedAt": "2026-07-21T17:47:25Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1068",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e87de5e287f4761837751391",
       "sourceId": "dotnetdevbr/vagas#1067",
@@ -1057,45 +1100,6 @@
       "createdAt": "2025-05-30T12:32:13Z",
       "updatedAt": "2025-08-28T01:02:25Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1031",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c293d034be1a5a0749aa51b6",
-      "sourceId": "dotnetdevbr/vagas#1030",
-      "title": "[100% Remote - USA] Mid/Senior Full-stack Engineer .NET and React na @Strider",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END .NET OU FULLSTACK COM .NET NO BACK-END!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Back-End  .NET Developer\" ao invés de \"Desenvolvedor Back-End\" \\o/\n\nExemplo: `[São Paulo] Back-End Developer .NET @ NOME DA EMPRESA`\n==================================================\n-->\n\n## Segmento da Empresa\n\nEmpresa dos Estados Unidos, no segmento de produtos e serviços relacionados à saúde de animais de estimação, que possui entre 51 a 200 empregados.\n\n## Descrição da vaga\n\nTrabalho 100% remoto, pagamento em dólar.\n\n## Local\n\nRemote - USA\n\n## Requirements\n\n**Must-haves**\n\n- 5+ years of full-stack developer experience\n- 50/50 distribution between front and back-end\n- Experience with backend APIs, databases, and implementing front-end interfaces\n- Experience with .NET Framework, .NET 6+, ASP.NET, .NET Core\n- Proficiency with React's core concepts like components, state, and lifecycle methods\n- Experience with Entity Framework and Entity Framework Core\n- Deep knowledge of SQL and relational databases\n- Adept in applying design patterns and best practices\n- Strong communication skills in both spoken and written English\n\n**Nice-to-haves**\n\n- Proficiency in Git, CI/CD tools, and workflows\n- Experience with NoSQL and SQL databases\n- Proficient in AWS cloud environments\n- Startup experience\n- Bachelor's Degree in Computer Engineering, Computer Science, or equivalent\n\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nDeixei seu perfil do LinkedIn nesse link: https://www.onstrider.com/jobs/mid-full-stack-engineer-.net-react.js-0e477afc?referral=danielasantos\n(super rápido: leva menos que 2 minutos!)\n\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno\n- Sênior\n\n#### Período\n- Full time\n\n#### Remuneração\n- R$ 20k+\n- USD 4k / month",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END .NET OU FULLSTACK COM .NET NO BACK-END! Não faça distinção de gênero no título da vaga. Use: \"Back-End .NET Devel...",
-      "issueState": "closed",
-      "contentHash": "fe1167fde923bad8a11f8c4dd4d196a3c9a4c196f5443f5ab79b2be6fc34ddbb",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "pleno",
-        "sênior",
-        "stale",
-        "full time",
-        "💰20k+"
-      ],
-      "author": {
-        "id": "danielasantosrh",
-        "name": "danielasantosrh",
-        "handle": "danielasantosrh",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/72946070?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "createdAt": "2025-04-28T13:17:05Z",
-      "updatedAt": "2025-08-28T01:02:24Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1030",
       "sourceType": "github-issue"
     }
   ]
