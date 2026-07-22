@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-22T01:54:21.162Z",
+  "generatedAt": "2026-07-22T05:41:39.198Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_a13d0ae8be521bb72be77825",
     "gh_336c16230907727a60de2268",
     "gh_ce803112440f8cd9c316f902",
     "gh_c88696a50154a458901b1a45",
@@ -11,8 +12,6 @@
     "gh_c865b994f75388a544ac06ca",
     "gh_32915f2f01cb0611e1b21676",
     "gh_7a3e8a6bf3e9aceb6e4d3c30",
-    "gh_4ba3953d3bc59aa851882f78",
-    "gh_e9db94dc7cb63051f437453c",
     "gh_fdca83cb0404a0baab1c3fa4",
     "gh_a971b0331e754ca00213a4e6",
     "gh_e323bf398e40b8ae1f8c59bc",
@@ -23,9 +22,56 @@
     "gh_8269c7605108986c1d55bed9",
     "gh_7b0790eab0e7e8741e23914a",
     "gh_f9b05570441c5238a96e1a2d",
-    "gh_deacd027702e1cb8c6ccb289"
+    "gh_deacd027702e1cb8c6ccb289",
+    "gh_5467ab05eff3efac04d00a4e"
   ],
   "items": [
+    {
+      "id": "gh_a13d0ae8be521bb72be77825",
+      "sourceId": "soujava/vagas-java#1904",
+      "title": "[Remoto] Desenvolvedor(a) Java Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1f1177ba4763d728ab9c9b9e39fb65ee0ed6a9f522d392bf026b32c7c2e7eafc",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-13T18:32:44Z",
+      "updatedAt": "2026-07-13T18:32:58Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1904",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_336c16230907727a60de2268",
       "sourceId": "soujava/vagas-java#1903",
@@ -302,98 +348,6 @@
       "createdAt": "2026-07-12T17:26:38Z",
       "updatedAt": "2026-07-17T10:49:29Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1057",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4ba3953d3bc59aa851882f78",
-      "sourceId": "soujava/vagas-java#1902",
-      "title": "[Remoto] Desenvolvedor(a) Java/Kafka Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "20f48e0363f24cf14a2adbf64399eee20111ebfc601f8309a9ff7a8aae7d2020",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "pj",
-        "remoto",
-        "backend",
-        "java",
-        "portugal"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:25:36Z",
-      "updatedAt": "2026-07-12T17:25:50Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1902",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e9db94dc7cb63051f437453c",
-      "sourceId": "soujava/vagas-java#1901",
-      "title": "[Remoto] Desenvolvedor(a) Java/Jakarta EE Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Jakarta EE nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Jakarta EE compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "15578731f414513eaa1fa074e46be36d184961e07fa2f9c25bd8443000738682",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "pj",
-        "remoto",
-        "backend",
-        "java",
-        "portugal"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:24:35Z",
-      "updatedAt": "2026-07-12T17:24:57Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1901",
       "sourceType": "github-issue"
     },
     {
@@ -830,6 +784,44 @@
       "createdAt": "2026-07-10T20:36:53Z",
       "updatedAt": "2026-07-10T20:37:07Z",
       "url": "https://github.com/react-brasil/vagas/issues/3019",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5467ab05eff3efac04d00a4e",
+      "sourceId": "pydevbr/vagas#46",
+      "title": "[Remoto] Python Developer - RPA @ Botcity",
+      "description": "### Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n### Descrição da vaga\n\nRole Overview\n\nThe Python Developer will be responsible for design, develop, and deliver automation projects that ensure performance, scalability, and customer impact for BotCity’s clients. This role is critical to maintaining high-quality code, smooth delivery, and strong customer experience across Professional Services engagements. The ideal professional is a passionate Python developer who builds clean, reliable automation solutions, communicates effectively while prioritizing the customer experience, and thrives as a collaborative, adaptable team player in a fast-changing environment.  This role reports to the Delivery Manager.\n\n \nResponsibilities\n\nGather and analyze client requirements, propose automation solutions, and design workflows aligned with business goals.\nDevelop, test, and deploy Python automations using BotCity’s platform and best practices.\nWrite clean, maintainable, and reusable code, following team standards, reviews, and version control processes (Git).\nMonitor, debug, and optimize automations to ensure reliability and performance in production.\nDocument processes, code, and architecture clearly for both technical and non-technical audiences.\nProvide technical support and training during project handover or customer onboarding.\nCollaborate closely with project managers, QA, and clients to ensure successful and timely project delivery.\nIdentify and implement improvements in development practices, tooling, and project workflows.\n\n\n\n### Local\n\nRemoto\n\n### Requisitos\n\nRequirements\nBachelor’s degree or equivalent experience in Computer Science, Information Systems, or related field.\nProfessional experience (2+ years) in Python development.\nRelevant hands-on experience with automation or RPA projects.\nProven experience with Git version control system and GitHub Flow.\nSolid understanding of APIs, data manipulation, error handling, and debugging.\nStrong problem-solving skills and ability to adapt quickly to new business contexts.\nExcellent communication and presentation skills with clients and internal stakeholders.\nExperience working with MS Office/Excel, Google Suite, Notion, Slack.\nAbility to travel as needed to support events and meet the team.\nPortuguese - Fluent.\nEnglish - Advanced.\n\nPreferred Qualifications\n\nExperience in professional services, IT consulting, or technical implementation.\nFamiliarity with BotCity tools.\nExperience with Agile methodologies.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n### Benefícios\n\nCartão flexível\nAuxilio Saúde\nAuxilio Idiomas\nSeguro de Vida\nWellhub\nConexa\nPolítica de Time off\n\n### Contratação\n\nPJ\n\n### Como se candidatar\n\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/6a19d88cd26f2200134fa876?src=Github\n\n### Tempo médio de feedbacks\n\nCostumamos enviar feedback até 15 dias depois da candidatura\n\n### Keywords\n\nRPA\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [x] PJ\n- [ ] CLT\n- [ ] Estágio\n- [ ] Cooperado\n- [ ] Freela\n\n### Nível\n\n- [ ] Júnior\n- [x] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
+      "excerpt": "### Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observab...",
+      "issueState": "open",
+      "contentHash": "b3c0c72ef0c95a64a008887c10f11039ea0cd15801a2bc7a694f134ad531267f",
+      "repository": "pydevbr/vagas",
+      "repositoryUrl": "https://github.com/pydevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "remoto",
+        "full time",
+        "sênior",
+        "pleno",
+        "💰 n/a"
+      ],
+      "author": {
+        "id": "FranPiresBotcity",
+        "name": "FranPiresBotcity",
+        "handle": "FranPiresBotcity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
+      },
+      "community": {
+        "id": "pydevbr",
+        "name": "pydevbr",
+        "avatarUrl": "https://github.com/pydevbr.png?size=80",
+        "repository": "pydevbr/vagas",
+        "url": "https://github.com/pydevbr/vagas"
+      },
+      "createdAt": "2026-07-10T20:31:33Z",
+      "updatedAt": "2026-07-17T10:49:57Z",
+      "url": "https://github.com/pydevbr/vagas/issues/46",
       "sourceType": "github-issue"
     }
   ]

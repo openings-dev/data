@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-07-22T01:54:21.162Z",
+  "generatedAt": "2026-07-22T05:41:39.198Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
-    "gh_5f066bed10486c20bcb3fc70",
-    "gh_84cd180e02db9815d917bcc4",
-    "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
     "gh_a2bf5d8b1ac2ec634b465f35",
     "gh_83b66ce2daefa84016b71185",
@@ -23,107 +20,12 @@
     "gh_566d86aa7ae946d501efb44f",
     "gh_e9177ae252d1679b2e5d82c5",
     "gh_5708c7b7c69bc276f6fb8941",
-    "gh_5d54a463e13b23bbe38791ce"
+    "gh_5d54a463e13b23bbe38791ce",
+    "gh_24b11f8f8ff090708a67e44c",
+    "gh_2d895bac96564681581385bb",
+    "gh_bacefe5602e4e742e8cdf5f9"
   ],
   "items": [
-    {
-      "id": "gh_5f066bed10486c20bcb3fc70",
-      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
-      "title": "Add Canada data/new-grad jobs companion resource?",
-      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
-      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
-      "issueState": "open",
-      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
-      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
-        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
-      },
-      "createdAt": "2026-06-05T19:14:10Z",
-      "updatedAt": "2026-06-05T19:14:10Z",
-      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_84cd180e02db9815d917bcc4",
-      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
-      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
-      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
-      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
-      "issueState": "open",
-      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
-      "repository": "jobright-ai/2026-Software-Engineer-Internship",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Software-Engineer-Internship",
-        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
-      },
-      "createdAt": "2026-06-05T14:28:49Z",
-      "updatedAt": "2026-06-05T14:28:49Z",
-      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_eca179323abe1309b96e6c74",
-      "sourceId": "remote-es/remotes#192",
-      "title": "Consider including a link to the company website in addition to their jobs page",
-      "description": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
-      "excerpt": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
-      "issueState": "open",
-      "contentHash": "9f264e57917d81d57c461931d8d62d9b64219de514d1659a74aa586a03257e79",
-      "repository": "remote-es/remotes",
-      "repositoryUrl": "https://github.com/remote-es/remotes",
-      "region": "Europe",
-      "country": "Spain",
-      "tags": [],
-      "author": {
-        "id": "alexpdp7",
-        "name": "alexpdp7",
-        "handle": "alexpdp7",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
-      },
-      "community": {
-        "id": "remote-es",
-        "name": "remote-es",
-        "avatarUrl": "https://github.com/remote-es.png?size=80",
-        "repository": "remote-es/remotes",
-        "url": "https://github.com/remote-es/remotes"
-      },
-      "createdAt": "2026-06-04T18:38:01Z",
-      "updatedAt": "2026-06-04T18:38:01Z",
-      "url": "https://github.com/remote-es/remotes/issues/192",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_66eaeb59684b31b56e56dc58",
       "sourceId": "jobright-ai/2026-Engineer-Internship#2",
@@ -716,6 +618,114 @@
       "createdAt": "2026-05-25T18:56:39Z",
       "updatedAt": "2026-05-25T18:57:04Z",
       "url": "https://github.com/programadores-br/geral/issues/3072",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_24b11f8f8ff090708a67e44c",
+      "sourceId": "programadores-br/geral#3071",
+      "title": "[Remoto] UX/UI Designer na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/uxui-designer-170434703?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\n  \nAtuar na interseção entre UX e UI — cobrindo desde a compreensão do problema até a entrega de interfaces prontas para implementação. Esta pessoa deve ter sensibilidade para fluxos e jornadas do usuário e rigor para execução visual: componentes bem construídos, estados mapeados e handoff sem ruído.\n\nBuscamos alguém que use IA como parte natural do processo de design — não como curiosidade, mas como hábito — e que entenda que velocidade e qualidade não são opostos.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Mapear fluxos de usuário, jornadas e pontos de fricção com base em dados, pesquisa e contexto de produto\n    \n*   Criar wireframes, protótipos e especificações de fluxo com clareza sobre o problema que estão resolvendo\n    \n*   Desenvolver e manter componentes no Design System da Arbitralis — com consistência visual, variantes bem definidas e documentação acessível\n    \n*   Produzir telas em alta fidelidade prontas para handoff, com estados, edge cases e especificações completas\n    \n*   Colaborar com Engenharia no handoff e acompanhar implementação para garantir fidelidade à intenção de design\n    \n*   Usar ferramentas de IA (Cursor, Claude Code, Make, Figma AI e similares) para acelerar prototipação, geração de variantes e automações de processo\n    \n*   Participar ativamente de sessões de discovery e refinamento com Produto e Engenharia\n    \n*   Contribuir para a evolução dos critérios de qualidade e processos do time de design\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - Criação de protótipos \n- Design de Interface (UI Design & Design System) \n- Figma AI \n- Wireframes \n- Hand Off\n## Local: \n Remota\n## Requisitos: \n - Experiência como UX/UI Designer em produto digital \n- Portfólio com casos que demonstrem processo completo — do problema à entrega visual — não apenas telas finais \n- Domínio de Figma: Auto Layout, componentes, variantes, prototipação e organização de arquivos \n- Experiência com Design Systems: uso, manutenção e evolução de componentes \n- Experiência de colaboração com times de Engenharia em handoff e acompanhamento de implementação \n- Uso de ferramentas de IA (Figma AI, Cursor, Claude Code, Make ou equivalentes) como parte do fluxo de trabalho \n- Capacidade de trabalhar com ambiguidade e ritmo acelerado — sabe priorizar mesmo quando tudo parece urgente \n- Conforto com produtos que envolvem IA, automação ou fluxos complexos \n- Visão de produto: Entende o problema antes de abrir o Figma — conecta decisão de design a impacto real \n- Execução com ritmo: Entrega com consistência, sem travar na busca pela tela perfeita \n- Autonomia: Conduz seu próprio ciclo sem depender de briefing detalhado para avançar \n- Curiosidade técnica: Experimenta ferramentas novas, aprende rápido e incorpora o que funciona no processo \n- Colaboração: Trabalha bem com Produto, Engenharia e CS; comunica decisões com clareza e sem ruído \n- Organização: Mantém arquivos, componentes e documentação organizados e acessíveis para o time\n## Diferenciais: \n - Experiência com design de interfaces que envolvem IA, agentes conversacionais ou fluxos automatizados \n- Uso fluente de Make ou n8n para automatizar partes do processo de design (geração de assets, notificações, pipelines de entrega) \n- Conhecimento básico de HTML/CSS ou familiaridade com código suficiente para conversar com precisão com o time de dev \n- Experiência com métricas de UX e análise de comportamento (Hotjar, Mixpanel ou similares) \n- Histórico de contribuição ativa para evolução de Design Systems em times de produto \n- Familiaridade com legaltech, fintechs ou produtos B2B com fluxos complexos e usuários não técnicos\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [UX/UI Designer na Arbitralis](https://coodesh.com/jobs/uxui-designer-170434703?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UI",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "dfd730b1374bb19d0eec2d94bcd966f0550d891531e779876abf7eaf83bfbb2f",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "pj"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-22T17:31:55Z",
+      "updatedAt": "2026-05-22T17:32:17Z",
+      "url": "https://github.com/programadores-br/geral/issues/3071",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2d895bac96564681581385bb",
+      "sourceId": "dotnetdevbr/vagas#1049",
+      "title": "[Remoto] Desenvolvedor .NET/Angular Sênior Nna DB1",
+      "description": "## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Descrição da vaga\n\nO que você vai fazer por aqui: \n\nDesenvolver e implementar funcionalidades novas e existentes em aplicativos .NET e Angular;\nColaborar com equipes multidisciplinares para entender requisitos e transformá-los em soluções técnicas;\nEscrever código limpo, eficiente e reutilizável;\nRealizar testes e depuração de aplicativos para garantir a qualidade e o desempenho;\n\n## Local\n\nRemoto\n\n## Requisitos\n\n✅ Experiência sólida com .NET\n✅ Experiência sólida com Angular.\n✅ Inglês fluente para comunicação no dia a dia.\n✅ Perfil colaborativo, que gosta de autonomia e vontade de construir soluções de alto impacto.\n\n**Diferenciais:**\nExperiência em projetos internacionais.\n\n## Benefícios\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nhttps://db1.inhire.app/vagas/d94ce7cf-3ef3-4954-90f2-697dff98dc09/desenvolvedor-netangular-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n- Sênior",
+      "excerpt": "## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida da...",
+      "issueState": "open",
+      "contentHash": "07bd7dbf894baa307af54617925fa44cff009f1ab285105d336a16f37bd1e7e7",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto",
+        "sênior",
+        "💰 nao informado"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "createdAt": "2026-05-22T17:22:34Z",
+      "updatedAt": "2026-05-26T15:02:36Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1049",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bacefe5602e4e742e8cdf5f9",
+      "sourceId": "dotnetdevbr/vagas#1048",
+      "title": "[Remoto]Desenvolvedor .Net Sênior na DB1",
+      "description": "## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n\n## Descrição da vaga\n\nVocê vai ser nossa pessoa Sênior de .Net dentro de uma squad híbrida em um cliente DGS, um ambiente em que você é o ponto técnico DB1 do projeto, lado a lado com pessoas do cliente e de outros parceiros. O dia a dia alterna entre construir features novas em .Net (ASP.NET Core 6+, EF Core), evoluir APIs existentes, refatorar legado, integrar serviços e fazer troubleshoot em produção. Quando a demanda pede, você também encara o lado Apex/Salesforce: customização de fluxos, integração Salesforce.Net, automações e relatórios.\n\nVocê participa das cerimônias com o cliente (daily, planning, review) e conversa direto com PO e usuários, então tem espaço pra propor, questionar e influenciar a solução técnica. O foco é dev puro: sem responsabilidade por deploy, monitoramento ou on-call no seu escopo. E como o time acabou de entrar em um fluxo com IA (Copilot já liberado), saber usar bem essas ferramentas no codar do dia a dia é parte do jogo.\n\n## Local\n\nRemoto \n\n## Requisitos\n\n**Obrigatórios:**\nDomínio sólido de ASP.NET Core 6+ e EF Core\nExperiência com .NET Framework (legado)\nAplicação consistente de SOLID e Clean code em código real\nUso ativo de Copilot pra codar, gerar testes e revisar PRs\nDomínio prático de prompt engineering aplicado ao desenvolvimento\nApoia decisões técnicas conectadas às necessidades de negócio\nQuestiona o time de negócio pra garantir que a solução resolve o problema certo\nPesquisa e aplica novas tecnologias no dia a dia, sem esperar permissão\n\n**Diferenciais:**\nSalesforce/Apex (parte recorrente das demandas)\nJava (a sintaxe ajuda na transição pra Apex)\nOutras ferramentas de IA além do Copilot (Claude, Antigravity, Gemini)\n\n## Benefícios\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n## Contratação\nCLT\n\n## Como se candidatar\nhttps://db1.inhire.app/vagas/c3298b61-fe86-46a7-9052-bb4839b2732f/desenvolvedor-net-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n- Sênior",
+      "excerpt": "## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida da...",
+      "issueState": "open",
+      "contentHash": "9fc5c7dad500a645417b699d045b7a1178d5149ccd759ad8d6de8d57b86281c5",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "remoto",
+        "sênior",
+        "💰 nao informado"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "companyName": "DB1",
+      "createdAt": "2026-05-22T17:20:22Z",
+      "updatedAt": "2026-05-26T15:02:31Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1048",
       "sourceType": "github-issue"
     }
   ]

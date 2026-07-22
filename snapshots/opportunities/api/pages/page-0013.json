@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-07-22T01:54:21.162Z",
+  "generatedAt": "2026-07-22T05:41:39.198Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
-    "gh_72cc354e7d9c38f999fa902a",
     "gh_dd237a978dba300d92eb4d35",
     "gh_9c27ccbbb027a757720e4a38",
     "gh_337dcc0369d8226aab4c836f",
@@ -12,6 +11,7 @@
     "gh_c9dd19586ec97ddb76143892",
     "gh_1bd5f8d6144fe120825c7a8c",
     "gh_62f08a2ae2deba541d87e195",
+    "gh_8e17475ccce44e680c92068f",
     "gh_d774a41259f652c1ea370252",
     "gh_26b7c402e14a59e43ad9828b",
     "gh_27ad1c5fa6ae31eaf8210333",
@@ -26,37 +26,6 @@
     "gh_018090ae0b51c7fe869fe122"
   ],
   "items": [
-    {
-      "id": "gh_72cc354e7d9c38f999fa902a",
-      "sourceId": "timqian/open-source-jobs#161",
-      "title": "Feature: Enhanced Search & Filtering",
-      "description": "### Issue : \nThe current job list is growing large. Users need better ways to find specific roles based on technical keywords or location.\n\n### Improvement : \n\nImplement a client-side search or multi-select filter for the JobListComponent using the tech stack information already available in the repos.csv.\n\n**File Path** :  `open-source-jobs/components/job-list.tsx`\n\n**Code Idea** :\n\n```\n// Inside Joblist Component\nconst [filter, setFilter] = useState('');\nconst filteredJobs = releases.filter(job => \n  job.name.toLowerCase().includes(filter.toLowerCase()) || \n  job.description.toLowerCase().includes(filter.toLowerCase())\n);\n```",
-      "excerpt": "### Issue : The current job list is growing large. Users need better ways to find specific roles based on technical keywords or location. ### Improvement : Implement a client-side search or multi-select filter for the...",
-      "issueState": "open",
-      "contentHash": "a1c8fd547da4ac6071a9133e81960256f5bd4898e7e1f6092b7563955e6a4f11",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "codeCraft-Ritik",
-        "name": "codeCraft-Ritik",
-        "handle": "codeCraft-Ritik",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/190937827?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2026-02-18T13:29:12Z",
-      "updatedAt": "2026-02-19T04:01:20Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/161",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_dd237a978dba300d92eb4d35",
       "sourceId": "timqian/open-source-jobs#160",
@@ -308,6 +277,47 @@
       "createdAt": "2026-02-04T15:14:46Z",
       "updatedAt": "2026-02-04T15:14:46Z",
       "url": "https://github.com/datascience-br/vagas/issues/156",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8e17475ccce44e680c92068f",
+      "sourceId": "soujava/vagas-java#1858",
+      "title": "[REMOTO] Desenvolvedor(a) Java Pleno na DB1",
+      "description": "## Descrição da vaga\n<!-- Informe mais detalhes sobre a vaga --> \n\nVocê será o responsável por participar das definições e evoluções da arquitetura de software, garantindo eficiência, escalabilidade  e segurança além, claro, do alinhamento com as necessidades do negócio e as melhores práticas de engenharia.\n\n## Local\n\nRemoto ou Escritório, São Paulo - Vila Olímpia\n\n## Benefícios\n\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nCrédito Consignado com as melhores taxas (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n## Diferenciais\n\n- 2 horas de almoço\n- Monte a sua máquina como desejar\n- Frigobar sempre cheio :P\n- Sala de jogos\n...\n\n## Requisitos\n\n#### Obrigatórios:\n<!-- Adicione os detalhes obrigatórios para a vaga -->\n\nPerfil que buscamos:\n\nExperiência com integração de API's (REST, SOAP e GraphQL) para o contexto de ERP (módulos pedido/produto/estoque) e Plataforma (e-commerce);\nExperiência com Java, Spring Boot, Angular (JS e 2+) e Liquibase;\nConhecimento avançado em Design Pattern, SOLID, Clean Code e Segurança;\nConhecimento em arquitetura distribuída com AWS, NGINX, Docker e Kubernetes;\nConhecimento em observabilidade de software com ferramentas como Kibana e/ou Grafana;\nConhecimento em fluxo de trabalho com Git e GitFlow;\nConceito de mensageria com ActiveMQ e Kafka;\nConceito de banco de dados com PostgreSQL, MongoDB e Redis; e\nExperiência no uso de Inteligência Artificial aplicado a rotina no trabalho.\n\n\n## Contratação\n\n- clt\n\n## Nossa empresa\n\nAqui na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldada por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n\n## Como se candidatar\n\nhttps://db1.inhire.app/vagas/707f0860-989b-4bd1-83ef-7168b4e81484/desenvolvedora-java-pleno?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n\n\n#### Nível\n\n- Especialista",
+      "excerpt": "## Descrição da vaga <!-- Informe mais detalhes sobre a vaga --> Você será o responsável por participar das definições e evoluções da arquitetura de software, garantindo eficiência, escalabilidade e segurança além, cl...",
+      "issueState": "open",
+      "contentHash": "f87723bc0449378e532c04f0d893d275f53e0a52fe0a23fa4dbada395555ce70",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "remoto",
+        "rest",
+        "spring",
+        "angular",
+        "docker",
+        "soap"
+      ],
+      "author": {
+        "id": "hadamaller",
+        "name": "hadamaller",
+        "handle": "hadamaller",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "DB1",
+      "createdAt": "2026-02-03T14:14:33Z",
+      "updatedAt": "2026-07-22T02:19:41Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1858",
       "sourceType": "github-issue"
     },
     {
