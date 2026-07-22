@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-21T19:07:11.905Z",
+  "generatedAt": "2026-07-22T01:54:21.162Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_d745286de58b9dcf439338bc",
     "gh_8efe119dc847f2d5d97185b1",
     "gh_9e4baa9ba521c0732719893f",
     "gh_0871ca1a0ecc002bf7e9c19a",
@@ -22,10 +23,42 @@
     "gh_aee09e92fadf8366a70512db",
     "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
-    "gh_0e98dad659c3df11a1cb1cc8",
-    "gh_5f066bed10486c20bcb3fc70"
+    "gh_0e98dad659c3df11a1cb1cc8"
   ],
   "items": [
+    {
+      "id": "gh_d745286de58b9dcf439338bc",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2930",
+      "title": "Project vNext Software Engineer I",
+      "description": "### Link to Job Posting\n\nhttps://www.projectvnext.com/software-engineer\n\n### Company Name\n\nProject vNext\n\n### Job Title\n\nSoftware Engineer\n\n### Location\n\nRemote (USA)\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nderek.rushing@projectvnext.com\n\n### Extra Notes (Optional)\n\nProject vNext builds software for both internal products and external clients, with a primary focus on financial technology.\n\nWe're a small team that values ownership, pragmatism, discipline, and execution. We care more about an engineer's ability to learn, solve problems, and consistently deliver quality work than whether they've worked with a specific framework or technology before.",
+      "excerpt": "### Link to Job Posting https://www.projectvnext.com/software-engineer ### Company Name Project vNext ### Job Title Software Engineer ### Location Remote (USA) ### What category does this job belong to? Software Engin...",
+      "issueState": "open",
+      "contentHash": "bf93b3d2f9accd21f8078ff08b5a344d3802954b063078100e70e8558c4ec371",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "drush211",
+        "name": "drush211",
+        "handle": "drush211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20804720?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-06-22T17:14:23Z",
+      "updatedAt": "2026-06-22T17:14:23Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2930",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8efe119dc847f2d5d97185b1",
       "sourceId": "programadores-br/geral#3083",
@@ -739,40 +772,6 @@
       "createdAt": "2026-06-08T16:58:12Z",
       "updatedAt": "2026-06-08T16:58:12Z",
       "url": "https://github.com/nerdzao/vagas/issues/193",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5f066bed10486c20bcb3fc70",
-      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
-      "title": "Add Canada data/new-grad jobs companion resource?",
-      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
-      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
-      "issueState": "open",
-      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
-      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
-        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
-      },
-      "createdAt": "2026-06-05T19:14:10Z",
-      "updatedAt": "2026-06-05T19:14:10Z",
-      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
       "sourceType": "github-issue"
     }
   ]

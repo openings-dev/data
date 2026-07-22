@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-21T19:07:11.905Z",
+  "generatedAt": "2026-07-22T01:54:21.162Z",
   "schemaVersion": 3,
   "pageSize": 20,
-  "dataHash": "5525368a476e116ba9294ae54519236fb047b8ffb8529558b0af5f15d90f504b",
+  "dataHash": "2c0163333a1f89b4c79aac267826e3e05ae896ea25240b5bba175c1abd432317",
   "totals": {
-    "openOpportunities": 740,
-    "pages": 37,
+    "openOpportunities": 741,
+    "pages": 38,
     "repositories": 102,
     "countries": 16,
     "regions": 5
@@ -76,7 +76,7 @@
       "js-hcm/job-board": 3,
       "kotlin-br/vagas": 2,
       "LinuxSuRen/remote-jobs-in-china": 3,
-      "lukasz-madon/awesome-remote-job": 3,
+      "lukasz-madon/awesome-remote-job": 4,
       "MacaeTech/vagas": 2,
       "matildaexp/remote-latam": 2,
       "MubeenMohammed/canada-2026-internships": 2,
@@ -125,7 +125,7 @@
     "regions": {
       "Asia": 140,
       "Europe": 18,
-      "Global": 66,
+      "Global": 67,
       "North America": 98,
       "South America": 418
     },
@@ -136,7 +136,7 @@
       "China": 10,
       "Colombia": 1,
       "Germany": 5,
-      "Global": 102,
+      "Global": 103,
       "Hong Kong": 4,
       "Italy": 2,
       "Mexico": 2,
@@ -247,7 +247,7 @@
       "react": 93,
       "react-native": 1,
       "recruited": 1,
-      "remote": 202,
+      "remote": 203,
       "remotely": 3,
       "remoteok-io": 16,
       "rio-grande-do-sul": 2,
@@ -292,7 +292,7 @@
       "alexpdp7": 1,
       "aliriojsp": 1,
       "alissongusmao": 16,
-      "allenshi16": 1,
+      "allenshi16": 2,
       "Allenz5": 1,
       "alvaropsc": 2,
       "alvarowolfx": 2,
@@ -593,6 +593,7 @@
       "zrack23": 1
     },
     "authorLabels": {
+      "allenshi16": "allenshi16",
       "GiovaniPole0": "GiovaniPole0",
       "PhuongVu-HR": "PhuongVu-HR",
       "Linh-IT-Recruiter": "Linh-IT-Recruiter",
@@ -613,7 +614,6 @@
       "Hungsiro506": "Hungsiro506",
       "FranPiresBotcity": "FranPiresBotcity",
       "DereC4": "DereC4",
-      "allenshi16": "allenshi16",
       "aprameyak": "aprameyak",
       "jazoomi": "jazoomi",
       "viphan28": "viphan28",
@@ -1098,6 +1098,11 @@
       "page": 37,
       "file": "api/pages/page-0037.json",
       "count": 20
+    },
+    {
+      "page": 38,
+      "file": "api/pages/page-0038.json",
+      "count": 1
     }
   ]
 }
