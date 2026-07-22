@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-22T01:54:21.162Z",
+  "generatedAt": "2026-07-22T13:25:42.346Z",
   "page": 17,
   "pageSize": 20,
   "nextPage": "api/pages/page-0018.json",
   "ids": [
+    "gh_c1831e0aa28abfdb11f05f3f",
+    "gh_5de22d4035a6a2ecd058daac",
     "gh_a9233bdfb914b0a5d4293e24",
     "gh_338622c06f4332345fe4f4ea",
     "gh_feb466ba4cbe4c6806ea058b",
@@ -21,11 +23,83 @@
     "gh_2ea031555124df79c56fac00",
     "gh_41c29be6f0ed9aa55bba60f2",
     "gh_8fc3381391202b6c84d44339",
-    "gh_75bcd6157f3119d27594a657",
-    "gh_64cfb91af959233fcc481c1b",
-    "gh_4e154d4fc7ecc61336e35b06"
+    "gh_75bcd6157f3119d27594a657"
   ],
   "items": [
+    {
+      "id": "gh_c1831e0aa28abfdb11f05f3f",
+      "sourceId": "Empregos-dev/Vagas-dev#104",
+      "title": "🚀 Vaga Vaga p/ Desenvolvedor Front-end (remoto) 🖥️ 📍 Remoto 🚀",
+      "description": "# Vaga p/ Desenvolvedor Front-end (remoto) 🖥️\n\n- 📍 Localização: Remoto\n- 📈 Nível: junior\n- 📃 Contrato: clt\n- 💰 Salário: R$ 8.840,00\n- 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗\n\n\n## Descrição da vaga:\nSe interessou? Encaminhe seu CV atualizado juntamente com sua pretensão salarial.\n\nExperiência com desenvolvimento mobile usando React Native (Android e IOS).\nExperiências com testes unitários, gestão de estado (Context API ou Redux) e hooks do React Native, geolocalização (visando a demandas de rotas do s663), sonar SonarQube, Jenkins, builds dos apks(Android)/IPA (IOS).\n\n\n## Atividades e responsabilidade:\nExperiência com autenticação (OAuth, JWT, SSO, Keycloack) (Desejável).\nConhecimento/Experiência com desenvolvimento offline (Desejável).\nPublicação de APP em loja (Desejável).\n\n\n## Requisitos:\nExperiência com React Native e ferramentas mencionadas na descrição.\n\n\n## Benefícios:\n💵 Salário: R$ 8.840,00 + Benefícios CLT\n🚀 Oportunidades de desenvolvimento profissional\n🍔 Vale Alimentação/Refeição | Wiipo Flex (cartão de crédito, podendo sacar o dinheiro)\n🚌 Vale Transporte (Opcional)\n🏋‍♀️ TotalPass (Bem-estar para todos os colaboradores, todos os dias)\n👓 Parceria com o SESC (Saúde, Lazer, Turismo & Esportes, Assistência Social e Alimentação)\n📕 Parcerias com Instituições Educacionais (Descontos em mensalidades de Graduação, Pós, Mestrado ou Doutorado)\n🤍 Plano de Saúde e Plano Odontológico\n\n## Mais Informações:\nNÃO SOU RESPONSÁVEL, COMPARTILHO PRA AJUDAR ❤️\n\n\n# [🔗 Clique aqui para se candidatar](https://empregos.dev/vaga/vaga-p-desenvolvedor-front-end-remoto-9017)\n\n\n**Use nosso site [Empregos.dev](https://empregos.dev) para buscar mais vagas de trabalho na área da programação, desenvolvimento, devops e tecnologia como está!**",
+      "excerpt": "# Vaga p/ Desenvolvedor Front-end (remoto) 🖥️ - 📍 Localização: Remoto - 📈 Nível: junior - 📃 Contrato: clt - 💰 Salário: R$ 8.840,00 - 🏃‍♂️ Corre para se candidatar, ainda dá tempo! 🕗 ## Descrição da vaga: Se int...",
+      "issueState": "open",
+      "contentHash": "e9de458a49997026b98691bd7d3cd279ad088852689d9e65e6d25d5bf78e9546",
+      "repository": "Empregos-dev/Vagas-dev",
+      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "clt",
+        "junior",
+        "react native"
+      ],
+      "author": {
+        "id": "ecossistemadev",
+        "name": "ecossistemadev",
+        "handle": "ecossistemadev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107730006?v=4"
+      },
+      "community": {
+        "id": "Empregos-dev",
+        "name": "Empregos-dev",
+        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
+        "repository": "Empregos-dev/Vagas-dev",
+        "url": "https://github.com/Empregos-dev/Vagas-dev"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 8840,
+        "period": "month"
+      },
+      "createdAt": "2025-07-11T23:22:59Z",
+      "updatedAt": "2025-12-20T15:22:13Z",
+      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/104",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5de22d4035a6a2ecd058daac",
+      "sourceId": "cncf/gitjobs#293",
+      "title": "Replace https://www.zephyrproject.org/careers/ with GitJobs",
+      "description": "https://www.zephyrproject.org/careers/ can use some GitJobs love!",
+      "excerpt": "https://www.zephyrproject.org/careers/ can use some GitJobs love!",
+      "issueState": "open",
+      "contentHash": "e5f66d2aa333253faa7301ed45f058f0b5ab7b0e35e9df8c9efa2672c095b9f0",
+      "repository": "cncf/gitjobs",
+      "repositoryUrl": "https://github.com/cncf/gitjobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "integration"
+      ],
+      "author": {
+        "id": "caniszczyk",
+        "name": "caniszczyk",
+        "handle": "caniszczyk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63777?v=4"
+      },
+      "community": {
+        "id": "cncf",
+        "name": "cncf",
+        "avatarUrl": "https://github.com/cncf.png?size=80",
+        "repository": "cncf/gitjobs",
+        "url": "https://github.com/cncf/gitjobs"
+      },
+      "createdAt": "2025-07-10T15:45:24Z",
+      "updatedAt": "2026-02-18T11:38:03Z",
+      "url": "https://github.com/cncf/gitjobs/issues/293",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a9233bdfb914b0a5d4293e24",
       "sourceId": "Empregos-dev/Vagas-dev#103",
@@ -694,75 +768,6 @@
       "createdAt": "2025-05-16T20:40:26Z",
       "updatedAt": "2025-05-16T20:40:26Z",
       "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/115",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_64cfb91af959233fcc481c1b",
-      "sourceId": "remotejobsbr/design-ux-vagas#114",
-      "title": "[Remoto] Igma | UX/UI Designer Sênior",
-      "description": "Estamos procurando uma pessoa UX&UI Designer Sênior para se juntar ao nosso time de Growth fortalecendo o chapter de Design para criarmos produtos digitais para as maiores empresas do Brasil. Buscamos uma pessoa com vivência em projetos complexos, pensamento estratégico e excelência na execução.\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Modelo de trabalho**\n- Regime: 100% remoto\n- Modelo de contratação: PJ\n- Escopo de trabalho: Alocação no cliente\n\n**Requisitos essenciais (nível Sênior)**\n- Conduzir investigações e processos de descoberta com autonomia, em parceria com clientes e tecnologia\n- Traduzir contextos e problemas complexos em jornadas, fluxos e experiências simples e elegantes\n- Liderar dinâmicas de ideação, alinhamentos com stakeholders e processos de priorização de hipóteses\n- Criar e prototipar interfaces com excelência visual e funcional, garantindo aderência as decisões já estabelecidas\n- Estabelecer boas práticas e rotinas de colaboração com desenvolvedores para garantir alta qualidade na entrega\n- Avaliar e propor melhorias contínuas com base em dados, pesquisas e indicadores de usabilidade\n- Ter domínio dos padrões e especificidades de interação Web e Mobile\n- Atuar como referência técnica e estratégica para outros designers e stakeholders\n\n**Ferramentas que utilizamos, mas não limitam nosso trabalho**\n- Figma\n- Framer\n- Maze\n- Google Firebase / Analytics / Data Studio\n- Hotjar\n\n**Responsabilidades e premissas para a posição**\nNa Igma, Designers desempenham um papel fundamental na definição da estratégia dos produtos que construímos junto a nossos clientes. Como UX/UI Designer Sênior, você:\n- Liderará, com o apoio dos Heads, o pilar de design no time de Growth, garantindo o desenvolvimento e escala de produtos valiosos, simples e impactantes\n- Será responsável por fortalecer a parceria com os clientes, compreendendo o negócio em profundidade e desdobrando a visão do produto em experiências digitais inspiradoras\n- Atuará de forma estratégica no roadmap e nas decisões de evolução do produto, com base em métricas, aprendizados de pesquisa e visão de longo prazo\n- Fomentará a cultura de design centrado em pessoas, promovendo boas práticas e contribuindo ativamente com o crescimento do time\n- É essencial ter fluidez na colaboração com diferentes perfis, boa comunicação e jogo de cintura para lidar com contextos ambíguos ou em constante mudança.\n\n**Premissas culturais**\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia para realizar\n\n**Etapas do processo**\n- Cadastro\n- Entrevista inicial\n- Fit Cultural\n- Entrevista técnica\n- Proposta\n- Contratação\n\n**Benefícios**\n✌️ Trabalho 100% remoto\n💙 Plano de Saúde individual\n🧘 Auxílio Cuidado e Desenvolvimento\n🏃 Incentivo à prática de esportes\n💳 Cartão multi-benefício através do Caju\n💻 Auxílio Remoto para investimento em equipamentos (R$ 2.000 anuais)\n🏖️ PJ - 30 dias de férias remuneradas\n\n**Como se candidatar**\nCandidate-se no [link](https://jobs.quickin.io/igma/jobs/68279c1f2ce23e0013971ca8)",
-      "excerpt": "Estamos procurando uma pessoa UX&UI Designer Sênior para se juntar ao nosso time de Growth fortalecendo o chapter de Design para criarmos produtos digitais para as maiores empresas do Brasil. Buscamos uma pessoa com v...",
-      "issueState": "open",
-      "contentHash": "5555740cd3bf301ad0f35266f465a70a8b5941eaa68a92f1fb4d177faf391b86",
-      "repository": "remotejobsbr/design-ux-vagas",
-      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "remotejobsbr",
-        "name": "remotejobsbr",
-        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
-        "repository": "remotejobsbr/design-ux-vagas",
-        "url": "https://github.com/remotejobsbr/design-ux-vagas"
-      },
-      "createdAt": "2025-05-16T20:20:49Z",
-      "updatedAt": "2025-05-16T20:20:49Z",
-      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/114",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4e154d4fc7ecc61336e35b06",
-      "sourceId": "nodejs-tw/jobs#270",
-      "title": "[遠端][React.js] 全遠端-React.js工程師火熱招聘中！",
-      "description": "ℹ️Hi,我們是專注於打造網頁小遊戲平台的團隊，我是HR專員。\n當前有個長期穩定的案件需要開發，希望您是以「全職」的身份加入我們。\n\nℹ️React.js 前端工程師ℹ️\n🛜全遠端作業\n🛜享有台灣假期\n🛜薪資10萬NTD起是保底\n\n您將參與整個遊戲平台從0到1的項目，將會處理 開發維護的作業，與UIUX設計師合作實現網頁動效豐富華麗的介面，RWD的響應式設計，使用 WebSocket 或類似技術實現即時數據推播。\n\nℹ️您需具備以下條件ℹ️\n1. 熟悉 React.js（包括 Hooks、Function Components）。\n2. 熟悉 HTML5、CSS3（熟悉 SCSS 或 CSS Modules 更佳）。\n3. 熟悉 JavaScript（ES6+）與基本的 TypeScript 認識。\n4. 熟悉 RESTful API 串接，理解前後端資料傳遞邏輯。\n🔺5. 熟悉動畫函式庫如 Framer Motion、GSAP者！你將可以插隊。\n\n![Image](https://github.com/user-attachments/assets/4507db73-0a3a-4083-9885-73765be6868a)\n\n![Image](https://github.com/user-attachments/assets/001b3793-95fb-4aac-b8be-ae4b9903102a)\n\n歡迎找我聊聊\n\n📍Telegram者加入我更快能回覆： @Candy8954",
-      "excerpt": "ℹ️Hi,我們是專注於打造網頁小遊戲平台的團隊，我是HR專員。 當前有個長期穩定的案件需要開發，希望您是以「全職」的身份加入我們。 ℹ️React.js 前端工程師ℹ️ 🛜全遠端作業 🛜享有台灣假期 🛜薪資10萬NTD起是保底 您將參與整個遊戲平台從0到1的項目，將會處理 開發維護的作業，與UIUX設計師合作實現網頁動效豐富華麗的介面，RWD的響應式設計，使用 WebSocket 或類似技術實現即時數據推播。 ℹ️您需具備以...",
-      "issueState": "open",
-      "contentHash": "d46c258548b690b62b52a7d9c6e725579e69e792bee9974065ad906c3fed724d",
-      "repository": "nodejs-tw/jobs",
-      "repositoryUrl": "https://github.com/nodejs-tw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "react",
-        "typescript",
-        "java"
-      ],
-      "author": {
-        "id": "Anna8954",
-        "name": "Anna8954",
-        "handle": "Anna8954",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/211060499?v=4"
-      },
-      "community": {
-        "id": "nodejs-tw",
-        "name": "nodejs-tw",
-        "avatarUrl": "https://github.com/nodejs-tw.png?size=80",
-        "repository": "nodejs-tw/jobs",
-        "url": "https://github.com/nodejs-tw/jobs"
-      },
-      "createdAt": "2025-05-09T21:26:26Z",
-      "updatedAt": "2025-05-09T21:43:25Z",
-      "url": "https://github.com/nodejs-tw/jobs/issues/270",
       "sourceType": "github-issue"
     }
   ]

@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-07-22T11:01:00.249Z",
+  "generatedAt": "2026-07-22T13:25:42.346Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 22,
-    "openIssues": 8,
-    "closedIssues": 14
+    "openIssues": 9,
+    "closedIssues": 13
   },
-  "dataHash": "885ab8d97c82d9a6def9e5ffbd9684327a406d20a3cb58703f85b8211de5ddba",
+  "dataHash": "4228ff5643d0dcb6f2759b61fac952d16a7befec733ca8cc7c81af73157d4f56",
   "items": [
+    {
+      "id": "gh_33d05217457732ee882415dd",
+      "sourceId": "backend-pt/vagas#145",
+      "title": "[Remoto] .NET/ASP.NET Core Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET/ASP.NET Core Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com .NET/ASP.NET Core compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-net-asp-net-core-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1b7615572a177ac0ced4626c42afaece0d1dd19c872e6f1d09461e92680e123c",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-22T11:34:09Z",
+      "updatedAt": "2026-07-22T11:35:32Z",
+      "url": "https://github.com/backend-pt/vagas/issues/145",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_80a8e5e773bc8c7021193f5f",
       "sourceId": "backend-pt/vagas#144",
@@ -852,46 +893,6 @@
       "createdAt": "2023-08-28T15:26:37Z",
       "updatedAt": "2024-01-01T00:55:59Z",
       "url": "https://github.com/backend-pt/vagas/issues/116",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6f3adbf4982dec1c9470e8cc",
-      "sourceId": "backend-pt/vagas#115",
-      "title": "[Porto] Backend Software Engineer - GO @ Mindera",
-      "description": "### Nossa empresa\n\nAt Mindera we use technology to build products we are proud of, with people we love 💛\n\nSoftware Engineering Applications, including Web and Mobile, are at the core of what we do at Mindera 💻\n\nWe partner with our clients, to understand their products and deliver high-performance, resilient, and scalable software systems that create an impact on their users and businesses across the world 🌐\n\nYou get to work with a bunch of great people, where the whole team owns the project together 🚀\n\nOur culture reflects our lean and self-management attitude. We encourage our colleagues to take risks, make decisions, work in a collaborative way and talk to everyone to enhance communication 🧭\n\nWe are proud of our work and we love to learn all and everything while navigating through an Agile, Lean and collaborative environment ⭐\n\nCheck out our [Blog](http://mindera.com/blog) and our [Handbook](http://bit.ly/MinderaHandbook)!\n\nOur offices are located: Porto, Aveiro, Coimbra - Portugal 🇵🇹 | Leicester - UK 🇬🇧 | San Diego, San Francisco - USA 🇺🇸 | Chennai, Bengaluru - India 🇮🇳 | Cluj-Napoca - Romania 🇷🇴 | Blumenau - Brazil 🇧🇷\n\n### Descrição da vaga\n\nWhat you will be doing:\n\n- Developing and maintaining features in a collaborative, Agile environment;\n- Writing testable code and ensuring the test coverage stays at the agreed level;\n- Documenting your code;\n- Take ownership of your code every step of the way - from development to deployment and maintenance;\n- Diagnose issues in production and devise solutions for them;\n- Work both autonomously and collaboratively to complete tasks;\n- Be an integral part of solutions design and implementation.\n\n\n### Local\n\nRemote or Office or Hybrid, your choice! Our offices are in Porto, Aveiro and Coimbra.\n\n### Requisitos\n\n- Service oriented architectures, design patterns and data structures\n- Test automation, continuous integration and continuous delivery\n- Operational aspects, building and running highly performant applications\n- Working with relational and non relational databases\n- Leveraging different cloud provider such as GCP or AWS\n- Agile methodologies such as Scrum, Kanban and DevOps\n\n- Being self-driven, self-organized and working with little supervision towards a common team and company purpose\n- Go programming language and least 1 other backend language, for example, Java\n- Building highly concurrent, transactional and resilient services\n- Working with different network and communication protocols, HTTP, gRPC, Pub/Sub, etc.\n- Building easily maintainable and robust APIs in GO\n\n\n### Benefícios\n\n- Health Insurance, because health comes first\n- Flexible working hours\n- Open holidays, take the time you need for yourself\n- Profit distribution for everyone\n- Mindera Annual Trip, Sports, and sharing groups to connect and have fun!\n- Training & conferences, create your own training plan\n- Child Care vouchers\n\n- Choose Laptop & Peripherals that best suit your needs\n- Hotspot with unlimited usage (PT), for work or Netflix ;)\n- We have amazing offices in Porto, Aveiro, and Coimbra if you want to physically connect with minders. Remote is also an option.\n- At the offices, we have a wide range of snacks to keep you fed and healthy\n- Partnerships with local businesses\n\n\n### Contratação\n\nFull-time\n\n### Como se candidatar\n\nPlease send an email with your CV to scout@mindera.com\n\n### Tempo médio de feedbacks\n\nWe normally respond within a week, our max is 14 days.\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [ ] Alocado\n- [X] Remoto\n- [X] Presencial\n- [X] Híbrido\n\n### Regime\n\n- [X] Contrato\n- [ ] Freela\n- [ ] RV\n\n### Nível\n\n- [ ] Júnior\n- [X] Pleno\n- [X] Sênior\n- [X] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa At Mindera we use technology to build products we are proud of, with people we love 💛 Software Engineering Applications, including Web and Mobile, are at the core of what we do at Mindera 💻 We part...",
-      "issueState": "closed",
-      "contentHash": "065109f06c1e025d00999d7eff24c95d82da38735061fb4a992a918ba9b39750",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "alocado",
-        "especialista",
-        "freela",
-        "presencial",
-        "rv",
-        "híbrido",
-        "remoto"
-      ],
-      "author": {
-        "id": "letiveiga",
-        "name": "letiveiga",
-        "handle": "letiveiga",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/111145368?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2023-07-17T10:46:08Z",
-      "updatedAt": "2023-09-21T00:47:00Z",
-      "url": "https://github.com/backend-pt/vagas/issues/115",
       "sourceType": "github-issue"
     }
   ]

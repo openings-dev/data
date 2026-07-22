@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-07-22T11:01:00.249Z",
+  "generatedAt": "2026-07-22T13:25:42.346Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_90494ab470094f1d5461b7d3",
+    "gh_d745286de58b9dcf439338bc",
     "gh_8efe119dc847f2d5d97185b1",
     "gh_9e4baa9ba521c0732719893f",
     "gh_0871ca1a0ecc002bf7e9c19a",
@@ -21,11 +23,82 @@
     "gh_ee71ad4e68f00372f334fae1",
     "gh_d2c11c8fc2357a8b0eef0f15",
     "gh_0e98dad659c3df11a1cb1cc8",
-    "gh_5f066bed10486c20bcb3fc70",
-    "gh_84cd180e02db9815d917bcc4",
-    "gh_eca179323abe1309b96e6c74"
+    "gh_5f066bed10486c20bcb3fc70"
   ],
   "items": [
+    {
+      "id": "gh_90494ab470094f1d5461b7d3",
+      "sourceId": "DevOps-Brasil/Vagas#465",
+      "title": "[Platform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma] DevOZ OZmap - Remto",
+      "description": "### 🎯 Cargo\n\nPlatform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma\n\n### 🏢 Empresa\n\nOZmap \n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nFlorianópolis (SC)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n18.000 - 20.000 (negociável)\n\n### 📋 Descrição da Vaga\n\nSe você constrói a base da plataforma e não apenas opera a que já existe, gosta de entender o que acontece por baixo da abstração e é a pessoa que assume os problemas que ninguém mais resolve em produção, essa vaga é para você.\n\nPara você entender nosso contexto: nossa stack roda em AWS EC2 com componentes autogerenciados: não é uma operação Kubernetes gerenciada. O dia a dia é operar a primitiva: Linux, redes, proxy reverso, observabilidade open-source. Se a sua experiência é mais na camada de configuração de serviços gerenciados, sem ter operado o que está por baixo, talvez não seja o encaixe mais aderente neste momento e isso não diz nada sobre o seu valor como profissional.\n\nSobre a Ozmap 💚\n\nSomos uma empresa de tecnologia especializada em planejamento, gestão e documentação de redes de telecomunicações. Nossa plataforma ajuda provedores de internet e operadores de telecom a projetar, expandir e operar suas redes, o que significa que confiabilidade não é abstrata aqui: quando algo cai, redes reais de clientes reais sentem. Estamos em crescimento, com atuação internacional e desafios constantes de escala, criticidade e evolução de produto.\n\nProblemas, aqui, não são ignorados nem empurrados para frente: são discutidos, investigados e transformados em melhoria concreta. Nossa cultura é autonomia, senso de dono, comunicação transparente e aprendizado contínuo.\n\n🚀 O Que Você Vai Encontrar Por Aqui\n\nEspaço para atuar de forma estratégica e prática: construir observabilidade do zero, evoluir a entrega contínua, conduzir as investigações complexas de produção e influenciar tecnicamente os times de desenvolvimento. Mais do que manter ambientes, queremos quem ajude a definir os próximos passos da nossa engenharia.\n\n🚩 O que você vai fazer\n\nProjetar, operar e evoluir ambientes AWS (EC2) e on-premises com containers (Docker), garantindo disponibilidade, segurança e escalabilidade;\nOperar e administrar ambientes Linux em produção (systemd, tuning de kernel/rede, I/O, troubleshooting de processo);\nConstruir e evoluir pipelines de CI/CD do zero, com gates de qualidade e segurança;\nDesenvolver observabilidade ponta a ponta (instrumentação, exporters, PromQL, SLI/SLO, alertas);\nConduzir troubleshooting avançado, RCA e post-mortem blameless — com mudança estrutural depois, não só o relatório;\nImplementar automação via Infraestrutura como Código;\nAnalisar e otimizar custos em cloud: rightsizing, análise de uso e proposta de alternativas com dados.\nSer referência técnica para devs e engenheiros, influenciando arquitetura sem depender de autoridade formal.\n\n### ✅ Requisitos Técnicos\n\n```markdown\n🔍 O que esperamos de você:\n\nO que define o nível desta vaga é profundidade + protagonismo. Buscamos quem construiu do zero, definiu a arquitetura, liderou tecnicamente, foi responsável por, resolveu o incidente que ninguém resolvia. Menos sobre ter feito parte de times que fizeram isso, e mais sobre o que você conduziu na linha de frente. A senioridade será avaliada pela complexidade do que você resolveu e pela responsabilidade que assumiu, comprovada por história concreta de mão na massa, mais do que por uma lista de ferramentas.\n\nObrigatório: experiência operando a primitiva em produção:\n\n AWS (~4+ anos): EC2, VPC/redes, IAM e segurança: EC2, VPC/redes, IAM e segurança — operação e decisão técnica em produção; certificação é bem-vinda, mas, sozinha, não substitui essa vivência;\nLinux e redes (~4+ anos): administração de servidores, troubleshooting em produção — disco cheio, OOM killer, diagnóstico de rede. Processos, memória e I/O;\nCI/CD construído do zero (~3+ anos): pipelines criados e evoluídos por você (GitHub Actions, Jenkins, runners self-hosted, secrets, cache, gates) ;\nObservabilidade open-source ponta a ponta (~2+ anos): Prometheus, Grafana, Loki, VictoriaMetrics ou equivalentes — configurados e mantidos por você, não só utilizados.\nOpenTelemetry — com instrumentação, exporters, PromQL e definição de SLI/SLO;\nOperação sob a camada gerenciada: histórico concreto com nginx/HAProxy/Envoy, Linux por baixo, e resolução de incidentes críticos que você conduziu.\nDocker: Docker em produção (~3+ anos): operação real de containers em ambientes críticos — volumes, redes, recursos, encerramento controlado de serviços.\n\nPerfil\n\nAutonomia alta: recebe um problema ambíguo (\"nossa observabilidade está fraca\") e entrega ponta a ponta;\nOwnership e proatividade : enxerga o problema antes de virar incidente;\nComunicação clara e influência técnica, conectando times de desenvolvimento, infraestrutura e negócio. Conduz post-mortems orientados à causa raiz, aprendizado organizacional e melhoria contínua, sem cultura de culpabilização.;\nMaturidade para se autogerir em remoto.\n\nNosso processo\n\nCandidatura → Entrevista técnica assistida por IA (~35 min) → Conversa com o time de People → Entrevista com o Diretor da área → Bar Raiser → Carta oferta\n```\n\n### 🎁 Benefícios\n\n🎁 O Que Oferecemos Para Você\n\n💻 Auxílio Equipamento - pra garantir uma estrutura de trabalho confortável;\n💚 Incentivo à saúde - porque seu bem-estar importa;\n📚 Incentivo aos estudos - apoiamos sua jornada de desenvolvimento contínuo;\n🎂 Presente de aniversário - porque gostamos de comemorar juntos;\n🏅 Reconhecimento por tempo de casa - sua história aqui é valorizada;\n🗣️ Incentivo a idiomas - para você ir além das fronteiras;\n🏋️ TotalPass (uso exclusivo do colaborador);\n🌴 Recesso remunerado após 12 meses de contrato;\n🎉 Eventos online de integração e confraternizações.\n\n### 🛠️ Stack/Tecnologias\n\nCloud: AWS — EC2, VPC/redes, IAM e segurança (camada de primitiva, não só serviço gerenciado).\nSistema e redes: Linux + redes — administração de servidor, troubleshooting real (disco, OOM, I/O, diagnóstico de rede).\nContainers: Docker em produção — volumes, redes, recursos, encerramento controlado.\nCI/CD: GitHub Actions, Jenkins, runners self-hosted (secrets, cache, gates).\nObservabilidade: Prometheus, Grafana, Loki, VictoriaMetrics + OpenTelemetry, PromQL, SLI/SLO.\nProxy / load balancing: nginx, HAProxy, Envoy (operação sob a camada gerenciada).\n\n### 📧 Como se Candidatar\n\nCandidate se pelo link: https://jobs.quickin.io/ozmap/jobs/6a30025db5ba9a0013b3f162?src=LinkedIn%20Limited%20Listings\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://jobs.quickin.io/ozmap/jobs/6a30025db5ba9a0013b3f162?src=LinkedIn%20Limited%20Listings\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Platform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma ### 🏢 Empresa OZmap ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Florianópoli...",
+      "issueState": "open",
+      "contentHash": "62862d3c90cf0b6d473f10e75ee448127237729cd9b5a137478af9b070e0dcb0",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "devops",
+        "sre",
+        "platform",
+        "infra",
+        "security",
+        "aws"
+      ],
+      "author": {
+        "id": "pfariaoz",
+        "name": "pfariaoz",
+        "handle": "pfariaoz",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/296626513?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "createdAt": "2026-06-24T19:14:32Z",
+      "updatedAt": "2026-06-24T19:15:32Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/465",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d745286de58b9dcf439338bc",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2930",
+      "title": "Project vNext Software Engineer I",
+      "description": "### Link to Job Posting\n\nhttps://www.projectvnext.com/software-engineer\n\n### Company Name\n\nProject vNext\n\n### Job Title\n\nSoftware Engineer\n\n### Location\n\nRemote (USA)\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nderek.rushing@projectvnext.com\n\n### Extra Notes (Optional)\n\nProject vNext builds software for both internal products and external clients, with a primary focus on financial technology.\n\nWe're a small team that values ownership, pragmatism, discipline, and execution. We care more about an engineer's ability to learn, solve problems, and consistently deliver quality work than whether they've worked with a specific framework or technology before.",
+      "excerpt": "### Link to Job Posting https://www.projectvnext.com/software-engineer ### Company Name Project vNext ### Job Title Software Engineer ### Location Remote (USA) ### What category does this job belong to? Software Engin...",
+      "issueState": "open",
+      "contentHash": "bf93b3d2f9accd21f8078ff08b5a344d3802954b063078100e70e8558c4ec371",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "drush211",
+        "name": "drush211",
+        "handle": "drush211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20804720?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-06-22T17:14:23Z",
+      "updatedAt": "2026-06-22T17:14:23Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2930",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8efe119dc847f2d5d97185b1",
       "sourceId": "programadores-br/geral#3083",
@@ -703,70 +776,6 @@
       "createdAt": "2026-06-05T19:14:10Z",
       "updatedAt": "2026-06-05T19:14:10Z",
       "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_84cd180e02db9815d917bcc4",
-      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
-      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
-      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
-      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
-      "issueState": "open",
-      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
-      "repository": "jobright-ai/2026-Software-Engineer-Internship",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Software-Engineer-Internship",
-        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
-      },
-      "createdAt": "2026-06-05T14:28:49Z",
-      "updatedAt": "2026-06-05T14:28:49Z",
-      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_eca179323abe1309b96e6c74",
-      "sourceId": "remote-es/remotes#192",
-      "title": "Consider including a link to the company website in addition to their jobs page",
-      "description": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
-      "excerpt": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
-      "issueState": "open",
-      "contentHash": "9f264e57917d81d57c461931d8d62d9b64219de514d1659a74aa586a03257e79",
-      "repository": "remote-es/remotes",
-      "repositoryUrl": "https://github.com/remote-es/remotes",
-      "region": "Europe",
-      "country": "Spain",
-      "tags": [],
-      "author": {
-        "id": "alexpdp7",
-        "name": "alexpdp7",
-        "handle": "alexpdp7",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
-      },
-      "community": {
-        "id": "remote-es",
-        "name": "remote-es",
-        "avatarUrl": "https://github.com/remote-es.png?size=80",
-        "repository": "remote-es/remotes",
-        "url": "https://github.com/remote-es/remotes"
-      },
-      "createdAt": "2026-06-04T18:38:01Z",
-      "updatedAt": "2026-06-04T18:38:01Z",
-      "url": "https://github.com/remote-es/remotes/issues/192",
       "sourceType": "github-issue"
     }
   ]
