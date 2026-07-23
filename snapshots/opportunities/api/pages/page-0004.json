@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-22T13:25:42.346Z",
+  "generatedAt": "2026-07-23T11:03:12.012Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_a03d32efd2752d6d4c66083e",
     "gh_ca0239ac42a490e561211a86",
     "gh_799b61edb0c98791af431e2e",
     "gh_a78e67dcd4ad5ddc1fffbb10",
@@ -22,10 +23,44 @@
     "gh_094d438d4112cfc66e7c43d3",
     "gh_2d8aa4402dd1dbaa2cdb4420",
     "gh_8893caf0dcd6d3c7237916c8",
-    "gh_8269c7605108986c1d55bed9",
-    "gh_7b0790eab0e7e8741e23914a"
+    "gh_8269c7605108986c1d55bed9"
   ],
   "items": [
+    {
+      "id": "gh_a03d32efd2752d6d4c66083e",
+      "sourceId": "datascience-br/vagas#166",
+      "title": "[Belo Horizonte/MG - Híbrido] Cientista de Dados na BHS",
+      "description": "## Descrição da vaga\n\nProjeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics.\n\nSuas atividades serão:\n· Interpretar todo universo de dados da empresa;\n· Criar, treinar e validar modelos preditivos e prescritivos utilizando técnicas de IA tradicional (como machine learning) e IA generativa (como deep learning);\n· Interpretar os resultados dos modelos e análises para gerar insights acionáveis que suportem a tomada de decisão estratégica;\n· Desenvolvimento de modelos preditivos utilizando técnicas estatísticas e algoritmos de aprendizado de máquina (ex.: regressão logística, gradient boosting e modelos aplicados a Marketing Mix Modeling – MMM);\n· Realização de análises exploratórias, testes de hipóteses e estudos analíticos para apoiar iniciativas de risco, marketing e tomada de decisão.\n· Participação na descoberta e no desenho de soluções de Marketing Mix Modeling (MMM), incluindo análise de fontes de dados, definição de variáveis de mídia e avaliação de estruturas estatísticas e bayesianas;\n· Automação de pipelines de dados e rotinas diárias de scoring em ambiente de nuvem;\n· Documentação de metodologias, métricas de validação, processos de monitoramento de desempenho e definições analíticas para iniciativas de modelagem;\n· Trabalho em parceria com equipes de negócios, marketing, engenharia e produto.\n\n## Local\n\nHíbrido/BH (2x na semana)\n\n## Benefícios\n\n- Plano de saúde e Assistência Odontológica;\n- Vale Refeição/Alimentação no cartão Flash;\n- Auxílio Híbrido;\n- Gympass / Wellhub;\n- Seguro de vida;\n- Licença Maternidade/Paternidade estendida;\n- Parcerias e convênios diversos em educação, saúde e lazer (Universidades, escolas de Idioma, academias, clínicas de saúde...);\n\n...\n## Requisitos\n\n#### Obrigatórios:\n\n· Graduação em Ciência da Computação ou áreas afins;\n· Google Cloud;\n· Big query;\n· Linguagem de programação Python;\n· MLOPS (de maneira geral);\n· Estatística clássica\n· Data pipelines;\n· Docker (Conteiners).\n\n#### Desejáveis:\n\n· Vertex e cortex;\n· Keras/tensorflow;\n· Pytorch;\n· Scikit;\n· Xgboosd;\n· Kedro;\n· Streamlit.\n\n\n## Contratação\n\n- CLT\n\n## Nossa empresa\n\nNós somos a BHS!\nCom 31 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀\n\nSomos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.\n\n## Como se candidatar\n\n- https://bhs.gupy.io/jobs/11562751?jobBoardSource=gupy_public_page\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Alocado\n- Hibrido\n\n#### Regime\n- CLT\n\n#### Nível\n\n- Sênior",
+      "excerpt": "## Descrição da vaga Projeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics. Suas atividades serão: · Interpretar todo universo de dados da empresa; · Criar, treinar e validar mo...",
+      "issueState": "open",
+      "contentHash": "ac00b30acbbb9ae2adaeb701987026be40cab03fa307a97905ed6ccf7b34bd5a",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "data"
+      ],
+      "author": {
+        "id": "thothismybro",
+        "name": "thothismybro",
+        "handle": "thothismybro",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118479053?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "BHS",
+      "createdAt": "2026-07-14T12:53:20Z",
+      "updatedAt": "2026-07-14T12:56:35Z",
+      "url": "https://github.com/datascience-br/vagas/issues/166",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ca0239ac42a490e561211a86",
       "sourceId": "awesome-jobs/vietnam#4966",
@@ -776,44 +811,6 @@
       "createdAt": "2026-07-12T05:43:10Z",
       "updatedAt": "2026-07-12T07:10:03Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4960",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7b0790eab0e7e8741e23914a",
-      "sourceId": "remotejobsbr/design-ux-vagas#121",
-      "title": "[Remoto] UX Designer na Botcity",
-      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nRole Overview\n\nThe UX Designer will own the end-to-end design of features across our three product surfaces — platform, agent, and web portal — turning complex business and technical challenges into intuitive, responsive user experiences. This is a hands-on, generalist role for someone who thrives in the fast-paced, high-uncertainty environment of an early-stage B2B SaaS product. You will design from sketches and wireframes through high-fidelity prototypes and developer-ready specs, help us build our first Design System from the ground up, and support discovery alongside the team when opportunities arise. In this position, you will work closely with our UX Lead and partner directly with the PM (who is also our CTO)\n\n \nResponsibilities\n\nDesign end-to-end: from initial sketches and wireframes to high-fidelity, responsive prototypes across the platform, agent, and web portal.\nProduce high-fidelity screens and detailed specifications in Figma (English and pt-BR), ensuring the development team has everything needed for precise implementation.\nHelp build and evolve BotCity's first Design System — components, patterns, and tokens — in partnership with the UX Lead and the front-end team.\nAnalyze existing functionalities and propose UX improvements to reduce friction and enhance user efficiency.\nBuild interactive prototypes to test usability and communicate complex flows to stakeholders.\nSupport discovery alongside the UX Lead and the PM: run qualitative interviews, map user journeys, and validate hypotheses and prototypes with B2B clients when needed.\nTransform findings into clear UX artifacts (User Journey Maps, Personas) and documented insights shared with the team.\nPartner with Product, Engineering, and Customer Success to ensure design solutions align with technical constraints and business goals.\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperience (3+ years) as a UX/Product Designer working end-to-end on digital products.\nDemonstrable portfolio featuring end-to-end UX projects (from problem to delivered interface).\nStrong UI and high-fidelity prototyping in Figma, at a level that supports end-to-end delivery.\nAbility to design responsive interfaces across web (and mobile where applicable).\nExperience building or contributing to Design Systems (components, patterns, tokens, libraries).\nComfortable supporting discovery: qualitative interviews, usability testing (remote or A/B), and mapping\nCritical User Journeys.\nAbility to translate findings into clear insights, opportunities, and recommendations.\nExperience with Design Thinking and agile methodologies.\nUX/usability tools (Figma, UserTesting, Maze); MS Office/Excel, Google Suite, Notion.\nAbility to travel as needed to support events and meet the team.\nPortuguese — Fluent.\nEnglish — Intermediary/Advanced.\n\n**Desejáveis:**\nPrior experience with B2B products.\nPrior experience in an early-stage, high-growth, fast-paced startup environment.\nFamiliarity with technical products (developer tooling, automation, Python, or AI a plus).\nProven experience leading research, thematic analysis, and A/B testing.\n\n\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/6a482f8d0ad5470013bb28b3?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\nE-mail para contato em caso de não haver resposta: recruiting@botcity.dev\n\n## Labels\n- Remoto\n- PJ\n- Pleno",
-      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
-      "issueState": "open",
-      "contentHash": "62969468120b53d02c95d6517b26878dff8000b0e8bbfbbb7c735a17bea01568",
-      "repository": "remotejobsbr/design-ux-vagas",
-      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "python",
-        "pleno",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "remotejobsbr",
-        "name": "remotejobsbr",
-        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
-        "repository": "remotejobsbr/design-ux-vagas",
-        "url": "https://github.com/remotejobsbr/design-ux-vagas"
-      },
-      "companyName": "Botcity",
-      "createdAt": "2026-07-10T20:45:44Z",
-      "updatedAt": "2026-07-10T20:45:44Z",
-      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/121",
       "sourceType": "github-issue"
     }
   ]
