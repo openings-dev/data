@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T16:22:18.892Z",
+  "generatedAt": "2026-07-23T19:02:58.842Z",
   "schemaVersion": 2,
-  "dataHash": "876f73b8e173eb1751a06d177a810d334e5429cca8507071386948102cb338fd",
+  "dataHash": "2b903d5d1b981ffe04bcf3241a216a9cbba2757c6ab09d1225f1f1f92f2caef1",
   "catalogGeneratedAt": "2026-04-24",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 173,
   "repositoriesScanned": 173,
   "totals": {
-    "opportunities": 2030,
+    "opportunities": 2031,
     "uniqueRepositories": 173,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -308,6 +308,7 @@
       "api/pages/page-0035.json",
       "api/pages/page-0036.json",
       "api/pages/page-0037.json",
+      "api/pages/page-0038.json",
       "api/search-index.json"
     ]
   },
@@ -348,8 +349,8 @@
       "region": "South America",
       "opportunities": 1191,
       "repositories": 64,
-      "openIssues": 388,
-      "closedIssues": 803,
+      "openIssues": 390,
+      "closedIssues": 801,
       "indexFile": "countries/br/index.json"
     },
     {
@@ -438,8 +439,8 @@
       "region": "Global",
       "opportunities": 262,
       "repositories": 32,
-      "openIssues": 104,
-      "closedIssues": 158,
+      "openIssues": 106,
+      "closedIssues": 156,
       "indexFile": "countries/global/index.json"
     },
     {
@@ -486,9 +487,9 @@
       "country": "Portugal",
       "countryCode": "PT",
       "region": "Europe",
-      "opportunities": 44,
+      "opportunities": 45,
       "repositories": 6,
-      "openIssues": 11,
+      "openIssues": 12,
       "closedIssues": 33,
       "indexFile": "countries/pt/index.json"
     },
