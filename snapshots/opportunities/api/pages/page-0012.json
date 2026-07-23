@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T05:47:00.021Z",
+  "generatedAt": "2026-07-23T16:22:18.892Z",
   "page": 12,
   "pageSize": 20,
   "nextPage": "api/pages/page-0013.json",
@@ -20,10 +20,10 @@
     "gh_bf70dc9f783bd9e91215da56",
     "gh_72cc354e7d9c38f999fa902a",
     "gh_dd237a978dba300d92eb4d35",
+    "gh_8ca6cfcc5f869a8b9471b21b",
     "gh_9c27ccbbb027a757720e4a38",
     "gh_337dcc0369d8226aab4c836f",
-    "gh_549fb47e62e78432e6e7af86",
-    "gh_c9dd19586ec97ddb76143892"
+    "gh_549fb47e62e78432e6e7af86"
   ],
   "items": [
     {
@@ -614,6 +614,39 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_8ca6cfcc5f869a8b9471b21b",
+      "sourceId": "remoteintech/remote-jobs#2113",
+      "title": "Generate dynamic OG images for company profiles",
+      "description": "## Summary\n\nCompany profile pages currently use the generic site-wide OG image for social sharing. Blog posts already have dynamic per-post OG images generated via an SVG → JPEG pipeline. We should extend this to company profiles.\n\n## Current System (Blog Posts)\n\n1. `src/common/og-images.njk` generates an SVG per blog post using Eleventy pagination\n2. `src/_config/events/svg-to-jpeg.js` converts SVGs to JPEGs using Sharp (via `@11ty/eleventy-img`)\n3. JPEGs are committed to `src/assets/og-images/` — the converter skips files that already exist\n4. Only runs in serve mode, not production builds\n\n## Considerations\n\n- **850+ company profiles** — this is a much larger scale than ~10 blog posts\n- **~30MB of images in git** if we commit them all (~35KB each) — not ideal\n- **Build time** — 850 extra SVG files generated per build adds overhead\n- **Font dependency** — the SVG-to-JPEG conversion requires fonts to be installed locally (Red Hat Display, Atkinson Hyperlegible)\n\n## Suggested Approach\n\nRather than committing images to the repo like blog posts do:\n\n1. **Generate at deploy time** — run the SVG-to-JPEG conversion in the `eleventy.after` event for production builds (not just serve mode), outputting directly to `dist/`\n2. **Keep it simple** — company name + remote policy/region on the branded background\n3. **Cache on Netlify** — use `netlify-plugin-cache` (already a dependency) to cache generated images between deploys so only new/changed companies trigger regeneration\n4. **Incremental** — skip conversion if the output file already exists (the current blog pipeline already does this)\n\nThis avoids bloating the git repo while still giving each company a unique social card.\n\n## Alternative\n\nIf deploy-time generation proves too slow or complex, an external OG image service (e.g. Vercel OG, Cloudinary) could generate images on-demand via URL parameters. This would add an external dependency but remove all build-time overhead.",
+      "excerpt": "## Summary Company profile pages currently use the generic site-wide OG image for social sharing. Blog posts already have dynamic per-post OG images generated via an SVG → JPEG pipeline. We should extend this to compa...",
+      "issueState": "open",
+      "contentHash": "5e0731ea53399dd19b387b172c31f98c47d2a79b26c5255a44ce17acabd132f1",
+      "repository": "remoteintech/remote-jobs",
+      "repositoryUrl": "https://github.com/remoteintech/remote-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "dougaitken",
+        "name": "dougaitken",
+        "handle": "dougaitken",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52214?v=4"
+      },
+      "community": {
+        "id": "remoteintech",
+        "name": "remoteintech",
+        "avatarUrl": "https://github.com/remoteintech.png?size=80",
+        "repository": "remoteintech/remote-jobs",
+        "url": "https://github.com/remoteintech/remote-jobs"
+      },
+      "createdAt": "2026-02-15T18:03:51Z",
+      "updatedAt": "2026-07-23T14:22:48Z",
+      "url": "https://github.com/remoteintech/remote-jobs/issues/2113",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_9c27ccbbb027a757720e4a38",
       "sourceId": "nerdzao/vagas#189",
       "title": "[Híbrido-São Paulo/SP] Back-end Developer (NestJS) na Viaflow",
@@ -727,42 +760,6 @@
       "createdAt": "2026-02-06T18:40:41Z",
       "updatedAt": "2026-02-06T18:40:41Z",
       "url": "https://github.com/nerdzao/vagas/issues/187",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c9dd19586ec97ddb76143892",
-      "sourceId": "datascience-br/vagas#157",
-      "title": "[REMOTO] Engenheiro (a) de Dados Sênior na DB1",
-      "description": "## Descrição da vaga\n\nEstamos em busca de um(a) Engenheiro(a) de Dados Sênior motivado(a) por grandes desafios e que queira impactar diretamente a evolução do nosso produto de e-commerce. Você fará parte de um time dedicado a construir e evoluir soluções de dados que apoiam nossos clientes a compreender melhor seu negócio e tomar decisões mais assertivas. Sua missão será ser a referência técnica de engenharia de dados, garantindo que nossas soluções sejam escaláveis, confiáveis e seguras.\n\nNo dia a dia, você será responsável por:\n\nProjetar, manter e evoluir pipelines de dados robustos e monitoráveis.\nGarantir a qualidade, consistência e confiabilidade dos dados.\nAtuar em segurança de acesso, extração, transformação, carregamento e documentação.\nApoiar a integração de diferentes fontes, interoperabilidade e padronização dos dados.\nConduzir boas práticas de modelagem de dados, data lakes e data warehouses.\nTrabalhar em conjunto com equipes de produto, engenharia e negócio para gerar valor com dados.\nBuscamos alguém com sólida experiência em engenharia de dados, domínio em ETL/ELT, tratamento de grandes volumes de dados e forte base em arquitetura de dados moderna. Se você é disciplinado(a), proativo(a) e engajado(a) em atingir grandes objetivos, essa vaga é para você!\n## Local\n\nRemoto \n\n## Benefícios\n\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n...\n\n## Requisitos\n\n#### Obrigatórios:\n\nEnsino superior completo em áreas relacionadas (Engenharia, Ciência da Computação, Sistemas de Informação ou similares);\nExperiência sólida em gerenciamento e arquitetura de Data Lake e Data Warehouse;\nDomínio de plataformas em nuvem (preferencialmente AWS);\nExperiência prática com DBT para modelagem e transformação de dados;\nProficiência em pelo menos um banco de dados relacional (PostgreSQL, Aurora);\nVivência com ferramentas de ETL/ELT;\nConhecimento avançado em Python para manipulação e orquestração de dados;\n\n\n\n#### Diferenciais:\n\nPós-graduação em Ciência de Dados, Engenharia de Dados ou Data Analytics;\nProficiência em pelo menos um banco de dados não relacional (MongoDB, Redis);\nExperiência com ferramentas de Data Visualization (ex.: Power BI, Tableau);\nExperiência com ambiente de e-commerce e dados transacionais de alto volume;\nConhecimento em arquitetura de Lakehouse (ex.: Delta Lake, Apache Iceberg, Hudi);\nFamiliaridade com streaming de dados (Kafka, Kinesis, Spark Streaming, Flink);\nExperiência em Data Governance, segurança de dados e LGPD;\nVivência em projetos de alta escalabilidade e performance;\nInglês intermediário/avançado (leitura técnica e conversação);\nAtuação como referência técnica em times multidisciplinares;\nExperiência em definição de padrões, guidelines e boas práticas de engenharia de dados;\nCapacidade de influenciar decisões de arquitetura e orientar times de produto/negócio no uso de dados. \n## Contratação\n\nCLT\n## Nossa empresa\n\nAqui na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso, esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Como se candidatar\n\nLink https://db1.inhire.app/vagas/ae03a1bb-8be2-49b0-a73e-5356423da1be/engenheiro-a-de-dados-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7 \n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n\n- Sênior\n- Especialista",
-      "excerpt": "## Descrição da vaga Estamos em busca de um(a) Engenheiro(a) de Dados Sênior motivado(a) por grandes desafios e que queira impactar diretamente a evolução do nosso produto de e-commerce. Você fará parte de um time ded...",
-      "issueState": "open",
-      "contentHash": "f7f9c35c1173a6d8808ec23b64111a1853f5996190a9fa2ade605962bcb4cb26",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "hadamaller",
-        "name": "hadamaller",
-        "handle": "hadamaller",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "DB1",
-      "createdAt": "2026-02-05T00:10:36Z",
-      "updatedAt": "2026-02-05T00:10:36Z",
-      "url": "https://github.com/datascience-br/vagas/issues/157",
       "sourceType": "github-issue"
     }
   ]
