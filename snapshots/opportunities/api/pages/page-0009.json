@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-23T21:59:32.692Z",
+  "generatedAt": "2026-07-24T05:43:26.030Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_7e0bbe167dafba943e077f78",
     "gh_7f17e8c9d9df8aa157a6dce5",
     "gh_500d6b7ba64e6211969670e0",
     "gh_be874e73d5522ddaf47e1034",
@@ -16,16 +17,48 @@
     "gh_5c0b3d4ad5e140c5d9cb92b3",
     "gh_bf1a4481c55b8d80f89cba07",
     "gh_88ea999c66efeb67b1469595",
+    "gh_c396744a66b9b12760764d63",
     "gh_0fe275533f5da07f8d0c9026",
     "gh_9bab610327418a0955bd2b33",
     "gh_e2b9353ac1307526e438b23d",
     "gh_adccbfbc72a6a1772058e2da",
     "gh_fbd7897fa7cdf7f1f95d0f6f",
-    "gh_1c0afba85af9b58d3bdb9fae",
-    "gh_aee09e92fadf8366a70512db",
-    "gh_ee71ad4e68f00372f334fae1"
+    "gh_1c0afba85af9b58d3bdb9fae"
   ],
   "items": [
+    {
+      "id": "gh_7e0bbe167dafba943e077f78",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9605",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931\n\n### Company Name\n\nHARMAN \n\n### Internship Title\n\nIntern – Software Engineering\n\n### Location\n\nSunnyvale, CA\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931 ### Company Name HARMAN ### Internship Title Intern – Software Engineering ### Location Sunnyvale, ...",
+      "issueState": "open",
+      "contentHash": "761bb7d8f1b3a34987547f1e05e222c8e7524589c20347f93974be7cc277823f",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-06-26T09:25:23Z",
+      "updatedAt": "2026-06-26T09:25:23Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9605",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_7f17e8c9d9df8aa157a6dce5",
       "sourceId": "SimplifyJobs/Summer2026-Internships#9604",
@@ -470,6 +503,47 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_c396744a66b9b12760764d63",
+      "sourceId": "backend-br/vagas#12287",
+      "title": "[Rio Claro - São Paulo] Developer Pleno/Sênior — Backend & Integrações no Grupo MNGT",
+      "description": "## Descrição da vaga\n\nBuscamos dois desenvolvedores com sólida experiência em backend Python e integração entre sistemas corporativos para reforçar nosso time de TI. Você será responsável por conectar plataformas de gestão, construir automações financeiras e operacionais, evoluir agentes de IA em produção e garantir a estabilidade e qualidade das entregas. Trabalhará de forma autônoma dentro de um time enxuto, colaborando diretamente com o gestor de TI e com as áreas de negócio para traduzir requisitos em soluções concretas.\n\n## Local\n\nPreferencialmente presencial em Rio Claro - SP, com possibilidade de ser híbrido para quem mora em São Paulo, com idas a Rio Claro.\n\n## Requisitos\n\n### Responsabilidades\n- Desenvolver e manter integrações entre sistemas corporativos via API REST e webhooks.\n- Criar e evoluir rotinas de automação financeira e operacional (leitura, transformação e carga de dados entre ERPs).\n- Construir e melhorar agentes e pipelines de IA utilizando LLMs, com foco em automação de processos internos.\n- Participar das cerimônias ágeis (dailies, plannings, retrospectivas) e colaborar ao longo de todo o ciclo de entrega.\n- Contribuir para documentação técnica, code review e boas práticas de desenvolvimento.\n- Apoiar deploy, monitoramento e manutenção dos ambientes e serviços em produção.\n- Interagir com áreas não técnicas para levantamento e refinamento de requisitos.\n\n### O que você precisa ter\n- Python: domínio sólido; experiência com FastAPI ou Flask para construção de APIs e serviços.\n- Integrações: consumo e desenho de APIs REST, autenticação OAuth2/JWT, manipulação de JSON/XML.\n- Banco de dados: SQL e modelagem relacional (PostgreSQL / Supabase); noção de performance e índices.\n- Git / GitHub: fluxo diário com branches, PRs e code review.\n- Autonomia: capacidade de resolver problemas com autogerenciamento e comunicação clara.\n- IA / LLMs: experiência prática utilizando modelos de linguagem em automações ou produtos.\n\n### Diferenciais\n- Experiência com orquestração de agentes (multi-agent, human-in-the-loop).\n- Conhecimento de conteinerização (Docker) e práticas básicas de DevOps/CI-CD.\n- Familiaridade com ERPs do mercado de construção civil ou logística.\n- Testes automatizados com pytest.\n- Leitura técnica em inglês.\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nCandidate-se aqui: https://oportunidades.mindsight.com.br/grupomngt/16\n\n### Nível\n\n- Pleno\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Presencial",
+      "excerpt": "## Descrição da vaga Buscamos dois desenvolvedores com sólida experiência em backend Python e integração entre sistemas corporativos para reforçar nosso time de TI. Você será responsável por conectar plataformas de ge...",
+      "issueState": "open",
+      "contentHash": "05510e1e01345e20923a7105bbc30be06954a2d1cf955877c04569efdcb953e2",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "sênior",
+        "python",
+        "flask",
+        "presencial",
+        "testes automatizados",
+        "postgresql"
+      ],
+      "author": {
+        "id": "JuscelinoJunior",
+        "name": "JuscelinoJunior",
+        "handle": "JuscelinoJunior",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23690136?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "companyName": "Grupo MNGT",
+      "createdAt": "2026-06-18T04:37:16Z",
+      "updatedAt": "2026-07-24T02:24:18Z",
+      "url": "https://github.com/backend-br/vagas/issues/12287",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_0fe275533f5da07f8d0c9026",
       "sourceId": "qa-brasil/vagas#1264",
       "title": "[REMOTO] QA Sênior (Foco em Automação) na MaisMei",
@@ -697,78 +771,6 @@
       "createdAt": "2026-06-09T14:32:47Z",
       "updatedAt": "2026-06-16T15:43:41Z",
       "url": "https://github.com/pydevbr/vagas/issues/45",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_aee09e92fadf8366a70512db",
-      "sourceId": "frontendbr/vagas#8479",
-      "title": "[Florianópolis] Fullstack Developer na Tributo Devido",
-      "description": "**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n**Requisitos obrigatórios**\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n## Informações gerais da oportunidade:\n\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\nEstamos localizados no bairro Estreito — Florianópolis.\n\n\n## Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno\n- Sênior",
-      "excerpt": "**DESENVOLVEDOR FULL-STACK** Presencial | Florianópolis Buscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. V...",
-      "issueState": "open",
-      "contentHash": "9d077a8a780f3b575bb94709525aa52ca2ba9196c89a5efad708134a7ed6e344",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "sênior",
-        "pj",
-        "alocado",
-        "santa catarina"
-      ],
-      "author": {
-        "id": "mayarahasegawa-td",
-        "name": "mayarahasegawa-td",
-        "handle": "mayarahasegawa-td",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Tributo Devido",
-      "createdAt": "2026-06-09T14:07:02Z",
-      "updatedAt": "2026-07-23T01:25:39Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8479",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ee71ad4e68f00372f334fae1",
-      "sourceId": "jobright-ai/2026-Data-Analysis-Internship#3",
-      "title": "Add Canada-specific data/analytics internship companion resource?",
-      "description": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker.\n\nI noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Modelling roles in Montréal/Ottawa/Toronto, Seaspan in North Vancouver, Stripe in Toronto, Bombardier in Dorval, Hitachi Rail in Toronto, and ProCogia in Vancouver.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students using this tracker?\n\nSuggested links:\n\n```md\n- [Hanzilla Jobs — Data, analytics, AI/ML student jobs in Canada](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad board for data, analytics, AI/ML, software, finance, engineering, business, sciences, internships/co-ops, new-grad, junior, and entry-level roles.\n- [Hanzilla Jobs — Canadian internships and co-ops](https://jobs.hanzilla.co/internships/) — broader internship/co-op view across fields and Canadian cities.\n```\n\nDisclosure: I help operate Hanzilla Jobs. It is a free board and the about/verification page is here if useful: https://jobs.hanzilla.co/about/\n\nTotally fine if this is outside the repo's resource policy — sharing because it may help Canadian students who find this list but want a Canada-specific daily-updated companion source.",
-      "excerpt": "Hi Jobright team — thanks for maintaining this data-analysis internship tracker. I noticed the current list includes several Canada-relevant data/analytics internship rows, including CMHC/SCHL Data Analytics and Model...",
-      "issueState": "open",
-      "contentHash": "03413c2ee1b041eeedfb2371ef07072efcfcc6c0f78c5425a4ed01fee8ca32fb",
-      "repository": "jobright-ai/2026-Data-Analysis-Internship",
-      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-Internship",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "junior",
-        "data"
-      ],
-      "author": {
-        "id": "hanzili",
-        "name": "hanzili",
-        "handle": "hanzili",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
-      },
-      "community": {
-        "id": "jobright-ai",
-        "name": "jobright-ai",
-        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
-        "repository": "jobright-ai/2026-Data-Analysis-Internship",
-        "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship"
-      },
-      "createdAt": "2026-06-08T21:49:18Z",
-      "updatedAt": "2026-06-08T21:49:18Z",
-      "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/3",
       "sourceType": "github-issue"
     }
   ]
