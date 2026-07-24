@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-07-24T05:43:26.030Z",
+  "generatedAt": "2026-07-24T10:56:36.434Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
     "gh_463c93946049aa0a91ffd3b4",
-    "gh_e37dfc80c9658337251db388",
-    "gh_6b62d39f75185196fa38cd56",
     "gh_4c5d9e743b2d05d639e66dbc",
     "gh_2b7c3203605c1628a3acd5eb",
     "gh_9edee6feb18bfea0630fef79",
@@ -23,7 +21,9 @@
     "gh_f55b86fbebb7b39bcd8fe63e",
     "gh_39839d9b974ed279482f4d41",
     "gh_82f67eb263925053dbd84dce",
-    "gh_a6cd612c720b1596632ca8b7"
+    "gh_a6cd612c720b1596632ca8b7",
+    "gh_bc2a57ae5a63bf867cb1da0b",
+    "gh_83d5cf0395428e0559933440"
   ],
   "items": [
     {
@@ -64,72 +64,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_e37dfc80c9658337251db388",
-      "sourceId": "vanshb03/Summer2026-Internships#4549",
-      "title": "Close Internship",
-      "description": "### Company Name\n\nRakuten International\n\n### Role Title\n\nSoftware Engineering Intern\n\n### Job URL (Optional)\n\n_No response_\n\n### Reason for closing\n\nOther\n\n### Additional Information (Optional)\n\nI clicked on the link, and when I went to the internship posting, it says that the link doesn't exist.",
-      "excerpt": "### Company Name Rakuten International ### Role Title Software Engineering Intern ### Job URL (Optional) _No response_ ### Reason for closing Other ### Additional Information (Optional) I clicked on the link, and when...",
-      "issueState": "open",
-      "contentHash": "68d0507df7997d33e8c97f2cf8c0c0c3498ca3df4d5f667609f0ad57b8b085d8",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "close_internship"
-      ],
-      "author": {
-        "id": "SRamkumar190",
-        "name": "SRamkumar190",
-        "handle": "SRamkumar190",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121784277?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-23T17:45:09Z",
-      "updatedAt": "2026-07-23T17:45:09Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4549",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6b62d39f75185196fa38cd56",
-      "sourceId": "vanshb03/Summer2027-Internships#4549",
-      "title": "Close Internship",
-      "description": "### Company Name\n\nRakuten International\n\n### Role Title\n\nSoftware Engineering Intern\n\n### Job URL (Optional)\n\n_No response_\n\n### Reason for closing\n\nOther\n\n### Additional Information (Optional)\n\nI clicked on the link, and when I went to the internship posting, it says that the link doesn't exist.",
-      "excerpt": "### Company Name Rakuten International ### Role Title Software Engineering Intern ### Job URL (Optional) _No response_ ### Reason for closing Other ### Additional Information (Optional) I clicked on the link, and when...",
-      "issueState": "open",
-      "contentHash": "68d0507df7997d33e8c97f2cf8c0c0c3498ca3df4d5f667609f0ad57b8b085d8",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "close_internship"
-      ],
-      "author": {
-        "id": "SRamkumar190",
-        "name": "SRamkumar190",
-        "handle": "SRamkumar190",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121784277?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-23T17:45:09Z",
-      "updatedAt": "2026-07-23T17:45:09Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4549",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_4c5d9e743b2d05d639e66dbc",
       "sourceId": "backend-pt/vagas#146",
       "title": "[Remoto] PHP/Laravel Backend Developer Sênior @ Sylision",
@@ -143,8 +77,7 @@
       "country": "Portugal",
       "tags": [
         "remoto",
-        "sênior",
-        "🚦 awaiting triage"
+        "sênior"
       ],
       "author": {
         "id": "GiovaniPole0",
@@ -166,7 +99,7 @@
         "period": "month"
       },
       "createdAt": "2026-07-23T17:40:55Z",
-      "updatedAt": "2026-07-23T17:44:23Z",
+      "updatedAt": "2026-07-24T09:35:58Z",
       "url": "https://github.com/backend-pt/vagas/issues/146",
       "sourceType": "github-issue"
     },
@@ -188,7 +121,8 @@
         "remoto",
         "pleno",
         "híbrido",
-        "🚦 awaiting triage"
+        "💰 5k-10k",
+        "💰 10k-15k"
       ],
       "author": {
         "id": "GiovaniPole0",
@@ -210,7 +144,7 @@
         "period": "month"
       },
       "createdAt": "2026-07-23T17:39:47Z",
-      "updatedAt": "2026-07-23T17:40:12Z",
+      "updatedAt": "2026-07-24T09:35:35Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1070",
       "sourceType": "github-issue"
     },
@@ -830,6 +764,72 @@
       "createdAt": "2026-07-21T10:48:51Z",
       "updatedAt": "2026-07-21T10:48:51Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4975",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bc2a57ae5a63bf867cb1da0b",
+      "sourceId": "awesome-jobs/vietnam#4974",
+      "title": "🚀 [HN] iOS Developer | Banking Project | Up to 1.05M/day",
+      "description": "📍 Địa điểm: Hà Nội (Onsite)\n💰 Rate: Up to 1.05M/ngày\n📄 Contract: 3 tháng (có khả năng gia hạn)\n\n_Yêu cầu_\n- Từ 3 năm kinh nghiệm phát triển ứng dụng iOS.\n- Có kinh nghiệm làm dự án Banking/Fintech.\n--\nContact phone/zalo: 0582839437",
+      "excerpt": "📍 Địa điểm: Hà Nội (Onsite) 💰 Rate: Up to 1.05M/ngày 📄 Contract: 3 tháng (có khả năng gia hạn) _Yêu cầu_ - Từ 3 năm kinh nghiệm phát triển ứng dụng iOS. - Có kinh nghiệm làm dự án Banking/Fintech. -- Contact phone/...",
+      "issueState": "open",
+      "contentHash": "5b85b5a1138c44786fca041f4eecd381b41be0cefc51714ce13feaa158b86abe",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite"
+      ],
+      "author": {
+        "id": "PhuongVu-HR",
+        "name": "PhuongVu-HR",
+        "handle": "PhuongVu-HR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-21T08:45:07Z",
+      "updatedAt": "2026-07-21T08:45:07Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4974",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_83d5cf0395428e0559933440",
+      "sourceId": "awesome-jobs/vietnam#4973",
+      "title": "🚀 [𝐇𝐀 𝐍𝐎𝐈] 𝐌𝐈𝐃𝐃𝐋𝐄 𝐄𝐌𝐁𝐄𝐃𝐃𝐄𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 (𝐂/𝐂++)",
+      "description": "Bạn có từ 3+ năm kinh nghiệm phát triển Embedded Software và mong muốn tham gia các dự án IoT, Embedded Systems? Đây là cơ hội dành cho bạn!\n\n**🔎 Yêu cầu**\n- Từ 3 năm kinh nghiệm phát triển Embedded Software bằng C/C++.\n- Thành thạo vi điều khiển STM32, Renesas, NXP, ESP32 hoặc tương đương.\n- Có kinh nghiệm với RTOS (FreeRTOS, Zephyr...) hoặc Embedded Linux.\n- Hiểu và làm việc với các giao thức UART, SPI, I2C, CAN, TCP/IP, MQTT.\n- Có kinh nghiệm phát triển sản phẩm IoT từ firmware đến tích hợp thiết bị.\n- Có khả năng đọc schematic, datasheet và phối hợp debug giữa Hardware & Firmware.\n- Thành thạo Git và quy trình phát triển phần mềm.\n- Tiếng Anh đọc hiểu tài liệu kỹ thuật; kinh nghiệm làm dự án với khách hàng Nhật là một lợi thế.\n\n**🌟 Bạn sẽ có cơ hội**\n- Tham gia phát triển các sản phẩm Embedded/IoT hiện đại.\n- Làm việc với đội ngũ kỹ sư giàu kinh nghiệm.\n- Tiếp cận các dự án quốc tế và công nghệ mới.\n- Môi trường chuyên nghiệp, nhiều cơ hội học hỏi và phát triển.\n\n===\nỨng tuyển ngay!\n💌 Email: linh.tran@dikshatek.vn\n📞 Phone/Zalo: 0817 377 143 (Ms. Linh)",
+      "excerpt": "Bạn có từ 3+ năm kinh nghiệm phát triển Embedded Software và mong muốn tham gia các dự án IoT, Embedded Systems? Đây là cơ hội dành cho bạn! **🔎 Yêu cầu** - Từ 3 năm kinh nghiệm phát triển Embedded Software bằng C/C+...",
+      "issueState": "open",
+      "contentHash": "920e575ad8948dd2614c0cabf00fcdfb752a4d8845177a58f66f7767eaeeb0d6",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "Linh-IT-Recruiter",
+        "name": "Linh-IT-Recruiter",
+        "handle": "Linh-IT-Recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-21T07:22:00Z",
+      "updatedAt": "2026-07-21T07:22:00Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4973",
       "sourceType": "github-issue"
     }
   ]

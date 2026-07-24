@@ -1,550 +1,31 @@
 {
-  "generatedAt": "2026-07-24T05:43:26.030Z",
+  "generatedAt": "2026-07-24T10:56:36.434Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
-    "gh_e323bf398e40b8ae1f8c59bc",
-    "gh_f70bca3063fbfbf2f82a823e",
-    "gh_094d438d4112cfc66e7c43d3",
-    "gh_2d8aa4402dd1dbaa2cdb4420",
-    "gh_8893caf0dcd6d3c7237916c8",
-    "gh_8269c7605108986c1d55bed9",
-    "gh_7b0790eab0e7e8741e23914a",
-    "gh_f9b05570441c5238a96e1a2d",
-    "gh_deacd027702e1cb8c6ccb289",
-    "gh_5467ab05eff3efac04d00a4e",
-    "gh_d0cb412687230cff9d910921",
-    "gh_6d5689f4221f6a75feb8805d",
-    "gh_1de6eab80d6ee81a8870fb0a",
-    "gh_306fa7b0edc9ddfd58e12a06",
     "gh_cc32a84f2d03e5e0e0ecb208",
     "gh_4b594a7d7eb5f1c1e0fa9560",
     "gh_e31c6baba0c061eec88a0c36",
     "gh_20fca550faa5d34e3c08e740",
     "gh_4a45fc3615c9cbad915d9562",
-    "gh_2ec496c1f74f2f9f69e4701e"
+    "gh_2ec496c1f74f2f9f69e4701e",
+    "gh_c504ec55953d8f2124be1dc5",
+    "gh_ead8ba8284a4f04d2a4dc9e1",
+    "gh_d47b0366cac4b6f58030c0ab",
+    "gh_db74dd1b82fe473907b5def5",
+    "gh_b7ede3a11865e77416641411",
+    "gh_223d8a07db3b64914a623f10",
+    "gh_4d44f7a50aa5f8dcfda456b5",
+    "gh_00335f1a47c2e08d4a9ddaf4",
+    "gh_0e15ee0472e4c88a493ca314",
+    "gh_0d00013886ca2e7b953b2464",
+    "gh_2016043a828fdd0dbbcd7345",
+    "gh_967ea6bb3e4d65d78b391105",
+    "gh_d4d167f732334aca336677fd",
+    "gh_1ae1c5f1e7122c69faad9e99"
   ],
   "items": [
-    {
-      "id": "gh_e323bf398e40b8ae1f8c59bc",
-      "sourceId": "frontendbr/vagas#8520",
-      "title": "[Híbrido] Angular Front-End Developer Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "891222bae44f8ac5111129ed84ebc325c86c9614deb730dd63b57ca42b43e439",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "pj",
-        "remoto",
-        "híbrido"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:21:20Z",
-      "updatedAt": "2026-07-12T17:21:42Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8520",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f70bca3063fbfbf2f82a823e",
-      "sourceId": "awesome-jobs/vietnam#4964",
-      "title": "VinMotion - Robotics System Engineer - Junior/Senior/Expert - Onsite/Hanoi - FTE",
-      "description": "**Department: Application Deployment\nLocation: Gia Lam, Ha Noi\nReports to: Head of System integration.**\n\n**Job Summary:**\n\nAs a Software Engineer, you will be responsible for designing, developing, and implementing solutions for SLAM programs, localization, and navigation for robots …. \n\n**Responsibilities:\nSenior:** \n- Define the overall architecture of robotic systems, including hardware, software, and communication frameworks.\n- Ensure modularity and scalability in design for future upgrades and integrations\n- Select appropriate computing platforms, middleware (e.g., ROS2), and networking solutions.\n- Design and optimize advanced SLAM architectures (e.g., graph-based SLAM, deep learning-based SLAM).\n- Lead the integration of multiple SLAM approaches (e.g., visual SLAM + LiDAR SLAM).\n- Develop high-performance, scalable, and modular robotics software solutions.\n- Architect real-time sensor fusion frameworks to enhance localization accuracy.\n- Improve parallel computing and GPU acceleration for SLAM-related tasks.\n- Mentor and guide junior engineers, conduct code reviews and technical training.\n- Contribute to research and development by evaluating state-of-the-art SLAM techniques.\n- Optimize robotics software for real-world deployment in harsh environments.\n- Collaborate with cross-functional teams to define long-term SLAM strategies.\n- Document code and write technical reports on development progress.\n\n**Requirements:\nCommon:**\n\n- Education: Bachelor's or higher in Robotics, Computer Science, Electrical/Mechanical Engineering, or a related field.\n- SLAM Knowledge: Understanding of SLAM techniques (e.g., Visual SLAM, LiDAR SLAM, Graph-Based SLAM).\n- Programming: Strong proficiency in Python (and optionally C++ for performance-critical tasks).\n- Linux Development: Experience with Ubuntu, Bash scripting, system administration, and debugging tools.\n- Robotics Frameworks: Experience with ROS2 (Robot Operating System), Gazebo, OpenCV, PCL.\n- Algorithms & Mathematics: Understanding of linear algebra, optimization, and probability theory related to SLAM.\n- Version Control: Familiarity with Git, GitHub/GitLab, and CI/CD workflows\n- Testing: Writing unit tests and integration tests for robotic applications.\n\n**Senior:**\n\n- Advanced SLAM Expertise: Deep knowledge of SLAM backends, graph optimization, sensor fusion \n- Linux System Optimization: Experience with real-time Linux kernels, networking, and system performance tuning.\n- High-Performance Computing: Knowledge of multithreading, GPU acceleration (CUDA, OpenCL)\n- C++ Expertise: Strong proficiency in C++ (memory management, performance optimization, templates).\n- Machine Learning in SLAM: Experience with deep learning-based SLAM (e.g., DeepVO, DROID-SLAM, SuperGlue, reinforcement learning)\n- Project Leadership: Ability to architect, plan, and execute complex robotics projects.\n- Mentorship & Code Review: Experience mentoring junior engineers and conducting rigorous code reviews.\n- Industry Experience: Familiarity with real-world robot deployments in industrial, automotive, or research settings.\n- Experience: 5+ years of experience in robotics software engineering, SLAM, or autonomous systems.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
-      "excerpt": "**Department: Application Deployment Location: Gia Lam, Ha Noi Reports to: Head of System integration.** **Job Summary:** As a Software Engineer, you will be responsible for designing, developing, and implementing sol...",
-      "issueState": "open",
-      "contentHash": "34350ea961546dcadf13cf00c4e1e2cabfab6e3e6543222fd4a218dcddba1409",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "onsite",
-        "backend",
-        "python",
-        "senior",
-        "junior",
-        "design"
-      ],
-      "author": {
-        "id": "thuyntpt0211",
-        "name": "thuyntpt0211",
-        "handle": "thuyntpt0211",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T11:20:25Z",
-      "updatedAt": "2026-07-12T11:20:25Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4964",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_094d438d4112cfc66e7c43d3",
-      "sourceId": "awesome-jobs/vietnam#4963",
-      "title": "VinMotion - Full Stack Engineer, Robotics Simulation - Onsite/Hanoi - FTE",
-      "description": "**Position Overview**\n\nWe are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development.\n\n**Key Responsibilities**\n\n- Design, develop, and maintain fullstack applications supporting humanoid robot development.\n- Build web-based platforms for robot simulation, monitoring, visualization, and experiment management.\n- Develop backend services and APIs for robotics workflows and simulation pipelines.\n- Integrate with robotics simulation environments such as: Isaac Sim, MuJoCo\n- Optimize software performance, scalability, and reliability for large-scale simulation workloads.\n- Collaborate with AI and Robotics teams to translate research requirements into production-ready software solutions.\n- Build tools for simulation data management, experiment tracking, and analytics.\n- Improve system architecture and software engineering best practices across the robotics platform ecosystem.\n\n**Requirements**\n\n- Bachelor's degree in Computer Science, Software Engineering, Robotics, or a related field.\n- Core Languages: Proficiency in C++ AND Python, Java (Hybrid architecture experience is highly preferred).\n- Networking & Protocols: Strong experience in Socket Programming, specifically with UDP network bridges and WebSockets for real-time data streaming.\n- Web 3D Graphics: Strong experience with React.js and modern state management libraries (e.g., Zustand, Redux, or Recoil) optimized for handling high-frequency, real-time data streaming; and WebGL, Three.js, or Python-based 3D visualization tools (e.g., Viser). Familiarity with Server-Side Rendering (SSR) and/or Client-side Rendering (CSR) and optimizing server-client channels for 3D scenes.\n- Robotics (Plus): Experience with MuJoCo (MJCF/XML syntax), and optionally ROS 2.\n- Data & Config: Familiarity with parsing runtime configurations (YAML) and handling high-density event logging formats (JSONL).\n\n**Contact**:\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
-      "excerpt": "**Position Overview** We are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development. **K...",
-      "issueState": "open",
-      "contentHash": "f86b83cfcc31d7235804c1b29c4d2661645ac98af466bc54065ded27d7a5fff1",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "onsite",
-        "backend",
-        "fullstack",
-        "react",
-        "python",
-        "java",
-        "data"
-      ],
-      "author": {
-        "id": "thuyntpt0211",
-        "name": "thuyntpt0211",
-        "handle": "thuyntpt0211",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T11:08:42Z",
-      "updatedAt": "2026-07-12T11:08:42Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4963",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2d8aa4402dd1dbaa2cdb4420",
-      "sourceId": "awesome-jobs/vietnam#4962",
-      "title": "VinMotion - Machine Learning Scientist (VLA) - Senior/Expert - Onsite/Hanoi - FTE",
-      "description": "**About the job\nOverview**\n\nWe're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments.\n\nAs a Senior / Staff Machine Learning Engineer, Vision-Language-Action (VLA), you will help build the intelligence stack that connects vision, language, and action. You'll design, train, and deploy multimodal robot policies that allow humanoid robots to understand natural-language commands, interpret complex scenes, and take reliable actions in industrial and logistics settings.\n\nThis is a hands-on role at the intersection of multimodal model development, robot learning, teleoperation data, simulation, and real-world deployment. A core challenge of the role is learning robust robot behavior from limited real-world teleoperation data, while using simulation and synthetic data to improve generalization and close the sim-to-real gap.\n\nYou'll work closely with Teleoperation, Simulation, RL & Controls, and Platform teams to turn embodied AI research into robot capabilities that run on physical hardware.\n\n**Key Responsibilities**\n\n- Design, train, and improve vision-language-action (VLA) models for humanoid robots using visual observations, language instructions, and robot state\n- Build and fine-tune multimodal robot policies using RGB (and optionally depth), language, proprioception, and task history\n- Improve policy robustness, instruction following, manipulation reliability, and generalization to new tasks and environments\n- Work with the Teleoperation team to improve data quality, dataset curation, logging standards, and episode QA\n- Develop training strategies for limited-data settings, including augmentation, pretraining, imitation learning, and offline RL where appropriate\n- Use simulation and synthetic data to improve robustness and sim-to-real transfer\n- Define evaluation metrics for task success, robustness, and safety, and use ablations / failure analysis to guide model improvements\n- Collaborate with Platform and Controls teams to integrate policies into the on-robot inference stack under latency and memory constraints\n\nFor Senior-level hires: independently own a workstream from experimentation through deployment iteration\n\nFor Staff-level hires: help shape technical direction across policy learning, data strategy, evaluation, and sim-to-real roadmap\n\n**Required Qualifications:\n\nCore skill**\n\n- Strong background in deep learning for vision, multimodal learning, sequence modeling, or robot learning\n- Hands-on experience training models in PyTorch\n- Strong Python engineering skills, including training pipelines, experiment management, debugging, and reproducibility\n\n**Experience in at least one of the following:**\n\n+ Vision-language / multimodal model training\n+ Imitation learning / behavior cloning / offline reinforcement learning\n+ Robot learning from demonstration, teleoperation, or real-world interaction data\n\n**General**\n\n- Ability to work effectively across ML, robotics, controls, hardware, and platform teams\n- Experience owning technical problems end-to-end, from experimentation through evaluation and iteration\n- BS / MS / PhD in Computer Science, Robotics, Electrical Engineering, or a related field — or equivalent industry experience\n\n**Preferred Qualifications**\n\n- Experience training policies for real robots, especially manipulation or articulated systems\n- Experience working with teleoperation or demonstration data\n- Experience with simulation / synthetic-data pipelines for robotics\n- Familiarity with modern VLA and robot-policy approaches such as VLM-backbone policies (Pi0-, GR00T-, or OpenVLA-class), diffusion policy / flow-matching action heads, or ACT-style action chunking\n- Experience deploying models under production constraints such as latency, memory, mixed precision, or on-device / on-robot inference\n- Prior experience in humanoid robotics, embodied AI, robot manipulation, or applied multimodal systems\n- Tech stack includes: PyTorch, ROS 2, Isaac Sim / Isaac Lab, MuJoCo, GPU training infrastructure, and on-robot inference optimization.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
-      "excerpt": "**About the job Overview** We're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments. As a Senior / Staff Machine Learning Engineer, Vis...",
-      "issueState": "open",
-      "contentHash": "84d6d6d0947fb1333ac7f4dc8ffb34abe78aedcb0ed1cdbb61d6e6ab34737896",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "onsite",
-        "python",
-        "senior",
-        "staff",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "thuyntpt0211",
-        "name": "thuyntpt0211",
-        "handle": "thuyntpt0211",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T11:01:09Z",
-      "updatedAt": "2026-07-12T11:01:09Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4962",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8893caf0dcd6d3c7237916c8",
-      "sourceId": "awesome-jobs/vietnam#4961",
-      "title": "VinMotion - Software Automation Test - Onsite/Hanoi - FT",
-      "description": "**Job Description**\n\n**Functional Testing**\n\n- Develop and implement test plans to ensure the functionality, performance, and quality of robotic products.\n- Analyze product requirements and technical specifications to design comprehensive test cases and testing scenarios.\n- Execute testing activities, evaluate results, and prepare test reports.\n- Identify, document, and track defects; collaborate with relevant stakeholders to analyze root causes and drive corrective actions.\n- Validate system functionality and performance against defined requirements and quality standards.\n\n**Test Automation**\n\n- Develop and maintain automated testing tools and frameworks to improve testing efficiency and coverage.\n- Support continuous improvement initiatives for test processes and quality assurance methodologies.\n\n**Cross-functional Collaboration**\n\n- Work closely with product team to ensure product quality throughout the development lifecycle.\n- Coordinate with internal departments, external partners, and stakeholders to resolve quality-related issues.\n- Provide quality feedback and recommendations to support product enhancements.\n\n**Other Responsibilities**\n\nPerform additional tasks and assignments as directed by the line manager.\n\n**Your Skills and Experience\n\nEducation**\n\n- Bachelor's degree or higher in Electrical Engineering, Electronics Engineering, Automation, Mechatronics, Computer Science, Embedded Systems, Robotics, or related fields\n\n**Experience**\n\n- Minimum 3 years of experience in software, robotics, electronics, or automation testing\n- Experience in developing test plans and test cases based on product requirements and technical specifications\n- hands-on experience in functional testing, product validation, and quality assurance processes\n- Familiarity with quality management and defect tracking tools such as Jira, Confluence, or equivalent platforms\n- Experience in developing automation testing solutions is a strong advantage\n\n**Why You'll Love Working Here\n\nWhy Join Us?**\n\n- Be part of a groundbreaking team shaping the future of robotics and AI\n- Work in a dynamic, fast-paced environment with opportunities for growth\n- Competitive compensation and benefits package\n\nContact:\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
-      "excerpt": "**Job Description** **Functional Testing** - Develop and implement test plans to ensure the functionality, performance, and quality of robotic products. - Analyze product requirements and technical specifications to d...",
-      "issueState": "open",
-      "contentHash": "14a4f201d88a9c0a97c85bd8a0d9530e3b9f8b64938e9b905792a8e7128d83db",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "onsite",
-        "design"
-      ],
-      "author": {
-        "id": "thuyntpt0211",
-        "name": "thuyntpt0211",
-        "handle": "thuyntpt0211",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T10:57:25Z",
-      "updatedAt": "2026-07-12T10:57:25Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4961",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8269c7605108986c1d55bed9",
-      "sourceId": "awesome-jobs/vietnam#4960",
-      "title": "[HCM] Senior | Tech Lead Full Stack Software Engineer  - Full Time - Hybrid working",
-      "description": "## About BonBon\n\nBacked by a major corporation, Bonbon is a funded startup in the mobility sector. We have huge market potential \n\nWe are a small, high-trust team building product that matters for the garage and car-owner ecosystem. In our first two years we are intentionally staying small - growing from a couple of engineers to around five - and optimizing for execution speed, ownership, and product quality over headcount. This is a founding-engineer role: you will own a meaningful product area end to end and help set the technical and cultural bar for everyone who joins after you.\n\n## Work Location\n\nThis role is based out of our Ho Chi Minh City office and follows a hybrid schedule: onsite Tuesday through Friday and remote on Mondays, unless an approved accommodation applies. We place a high value on in-person collaboration and building a strong in-office culture.\n\n## What You Bring\n\n- Strong fundamentals and around 6+ years of professional software development, or a clear track record of comparable ownership and impact. We weigh evidence of judgment, ownership, and speed over years and company logos.\n- Experience designing and delivering highly-available, scalable cloud-based systems.\n- Backend in at least one managed language such as Go, Java, Scala, C#, or similar (we build the backend in Go).\n- Comfort across the front end - building product UI with a modern framework such as React / Next.js. ( Mobile experienced is a plus )\n- Experience integrating AI-assisted development tools into real engineering workflows, with a habit of verifying their output.\n- A strong sense of how AI can improve developer productivity, system design, and operational efficiency.\n- High ownership, low ego, clear written communication, and the ability to thrive in ambiguity and shifting priorities.\n- Genuine customer empathy - you understand why the product matters and let that guide tradeoffs.\n\n\nDetails JD: https://succulent-dewberry-6d4.notion.site/Senior-Full-Stack-Engineer-Founding-Team-38a6bc8451658171872ec2b52df6f80d?source=copy_link\n\n\n### Open salary\n\nContact: \n- email: bonbondevvn@gmail.com \n- slack ( webuild ) : @hung.vu",
-      "excerpt": "## About BonBon Backed by a major corporation, Bonbon is a funded startup in the mobility sector. We have huge market potential We are a small, high-trust team building product that matters for the garage and car-owne...",
-      "issueState": "open",
-      "contentHash": "9af97e7324173588af03968b1fc6ba99ae1da3130cb7b33c870a05c64ca82f28",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "onsite",
-        "backend",
-        "react",
-        "java",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "Hungsiro506",
-        "name": "Hungsiro506",
-        "handle": "Hungsiro506",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/10346923?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T05:43:10Z",
-      "updatedAt": "2026-07-12T07:10:03Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4960",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7b0790eab0e7e8741e23914a",
-      "sourceId": "remotejobsbr/design-ux-vagas#121",
-      "title": "[Remoto] UX Designer na Botcity",
-      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nRole Overview\n\nThe UX Designer will own the end-to-end design of features across our three product surfaces — platform, agent, and web portal — turning complex business and technical challenges into intuitive, responsive user experiences. This is a hands-on, generalist role for someone who thrives in the fast-paced, high-uncertainty environment of an early-stage B2B SaaS product. You will design from sketches and wireframes through high-fidelity prototypes and developer-ready specs, help us build our first Design System from the ground up, and support discovery alongside the team when opportunities arise. In this position, you will work closely with our UX Lead and partner directly with the PM (who is also our CTO)\n\n \nResponsibilities\n\nDesign end-to-end: from initial sketches and wireframes to high-fidelity, responsive prototypes across the platform, agent, and web portal.\nProduce high-fidelity screens and detailed specifications in Figma (English and pt-BR), ensuring the development team has everything needed for precise implementation.\nHelp build and evolve BotCity's first Design System — components, patterns, and tokens — in partnership with the UX Lead and the front-end team.\nAnalyze existing functionalities and propose UX improvements to reduce friction and enhance user efficiency.\nBuild interactive prototypes to test usability and communicate complex flows to stakeholders.\nSupport discovery alongside the UX Lead and the PM: run qualitative interviews, map user journeys, and validate hypotheses and prototypes with B2B clients when needed.\nTransform findings into clear UX artifacts (User Journey Maps, Personas) and documented insights shared with the team.\nPartner with Product, Engineering, and Customer Success to ensure design solutions align with technical constraints and business goals.\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperience (3+ years) as a UX/Product Designer working end-to-end on digital products.\nDemonstrable portfolio featuring end-to-end UX projects (from problem to delivered interface).\nStrong UI and high-fidelity prototyping in Figma, at a level that supports end-to-end delivery.\nAbility to design responsive interfaces across web (and mobile where applicable).\nExperience building or contributing to Design Systems (components, patterns, tokens, libraries).\nComfortable supporting discovery: qualitative interviews, usability testing (remote or A/B), and mapping\nCritical User Journeys.\nAbility to translate findings into clear insights, opportunities, and recommendations.\nExperience with Design Thinking and agile methodologies.\nUX/usability tools (Figma, UserTesting, Maze); MS Office/Excel, Google Suite, Notion.\nAbility to travel as needed to support events and meet the team.\nPortuguese — Fluent.\nEnglish — Intermediary/Advanced.\n\n**Desejáveis:**\nPrior experience with B2B products.\nPrior experience in an early-stage, high-growth, fast-paced startup environment.\nFamiliarity with technical products (developer tooling, automation, Python, or AI a plus).\nProven experience leading research, thematic analysis, and A/B testing.\n\n\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/6a482f8d0ad5470013bb28b3?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\nE-mail para contato em caso de não haver resposta: recruiting@botcity.dev\n\n## Labels\n- Remoto\n- PJ\n- Pleno",
-      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
-      "issueState": "open",
-      "contentHash": "62969468120b53d02c95d6517b26878dff8000b0e8bbfbbb7c735a17bea01568",
-      "repository": "remotejobsbr/design-ux-vagas",
-      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "python",
-        "pleno",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "remotejobsbr",
-        "name": "remotejobsbr",
-        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
-        "repository": "remotejobsbr/design-ux-vagas",
-        "url": "https://github.com/remotejobsbr/design-ux-vagas"
-      },
-      "companyName": "Botcity",
-      "createdAt": "2026-07-10T20:45:44Z",
-      "updatedAt": "2026-07-10T20:45:44Z",
-      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/121",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f9b05570441c5238a96e1a2d",
-      "sourceId": "qa-brasil/vagas#1265",
-      "title": "[REMOTO] QA Lead na Botcity",
-      "description": "## Descrição da vaga\n\n\nRole Overview\n\nThe QA Lead will be responsible for scaling the entire quality assurance function, blending strategic people leadership with a hands-on technical approach to drive excellence across every product delivery. You will be responsible for expanding automated test coverage, reducing the lead time between development completion and validated delivery, and defining the QA processes that keep our team both rigorous and agile. This role is built for someone obsessed with quality and product excellence, who brings strong organizational discipline, a comprehensive automation mindset, and the ability to lead a team while staying deeply connected to the technical work, measuring what matters through clear KPIs and continuously raising the bar for how great software ships. This role will report to the VP of Engineering.\n\n \nResponsibilities\n\nLead, mentor, and coach the QA team, conducting regular 1:1s and career development planning.\nManage the distribution of QA engineers across squads, implementing a rotation strategy.\nDesign and implement a robust automation roadmap, prioritizing regression testing to maximize platform stability.\nBuild and maintain automated flows that simulate real user behavior across web and desktop environments (using Python or Java).\nContinuously increase automated test coverage to proactively identify edge cases and prevent production incidents.\nOptimize the \"development-to-delivery\" window by refining validation processes without compromising quality standards.\nAct as a focal point for incident management, triaging bugs alongside developers and ensuring swift resolution and root-cause analysis.\nCollaborate closely with engineering team to ensure the QA process is mature, solid, and aligned with agile delivery cycles.\nDefine and monitor key performance indicators (KPIs) through Jira, such as response times, validation cycles, and defect leakage.\nEvangelize QA best practices within the engineering team to ensure quality is a shared responsibility.\nProvide regular reports to senior management regarding the health of the area, automation progress, and product stability.\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\nRequired Qualifications \n\nBachelor's degree in Information Technology, Computer Science or related field.\nPrior hands-on experience with software testing automation ( 5+ years).\nProven experience in leading and scaling QA teams.\nExperience in at least one programming/scripting language (Python or Java).\nExperience testing both Web and Desktop applications.\nCommunicates with clarity and collaborative humility.\nDrives action with bold decisiveness and consistently insisting on high standards to deliver with speed and confidence.\nFamiliarity with Behavior-driven development (BDD).\nFamiliarity with test automation tools such as Postman, Selenium, Playwright, Behave.\nExperience with development of Automated Pipelines (preferably with GitHub Actions).\nExperience with Atlassian Jira.\nExperience working with MS Office/Excel, Google Suite, Notion.\nPortuguese - Fluent.\nEnglish - Advanced.\nAbility to travel as needed to support events and meet the team.\n\nPreferred Qualifications\n\nFamiliarity with Agile/Scrum methodologies.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\nExperience with version control systems (e.g., Git).\n\n\n## Forma de contratação\n\nPJ\n\n\n## Sobre a empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n\n## Como se candidatar\n\nEnviar candidatura pela nossa página de carreiras: https://jobs.quickin.io/botcity/jobs/6a1dee39952eb0001301e941?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: recruiting@botcity.dev\n\n## Labels\n- PJ\n- Especialista\n- Remoto",
-      "excerpt": "## Descrição da vaga Role Overview The QA Lead will be responsible for scaling the entire quality assurance function, blending strategic people leadership with a hands-on technical approach to drive excellence across ...",
-      "issueState": "open",
-      "contentHash": "d1a90f08b965103a625acb2176c4549cd953691a98cbf19e6eeb830b3ce82014",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "especialista",
-        "inglês"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Botcity",
-      "createdAt": "2026-07-10T20:42:41Z",
-      "updatedAt": "2026-07-10T20:43:04Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1265",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_deacd027702e1cb8c6ccb289",
-      "sourceId": "react-brasil/vagas#3019",
-      "title": "[Remoto] Frontend Engineer @Botcity",
-      "description": "Company Overview\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n \nRole Overview\n\nThis Frontend Engineer will be responsible for driving the development of intuitive, high-performance user interfaces that simplify how developers manage increasingly complex frontend applications. By consistently deploying user-friendly features and maintaining a high-quality codebase, this role ensures the delivery of performant products that directly enhance user satisfaction and align with our long-term strategic growth. We are looking for a resilient and autonomous professional with a proven track record in product-focused companies, specifically one who has experience working on core product features and thrives in highly collaborative environments alongside UX and Engineering teams. This role will report to the CTO.\n\n \nResponsibilities\n\nDevelop, deploy, and maintain scalable, responsive web applications using modern front-end technologies (focus on desktop with some mobile, which could evolve with time).\nCollaborate with product managers and UX/UI designers to understand requirements, ensure its technical feasibility, and translate them into technical, user-friendly solutions.\nMaintain and improve the company’s front-end codebase by refactoring legacy code and implementing best practices ensuring performance across multiple devices and browsers.\nParticipate in code reviews, ensuring best practices in front-end development.\nIdentify and troubleshoot front-end issues to ensure a seamless user experience.\nWrite reusable code and libraries for future use, optimizing components for maximum speed.\n \n\nRequirements\nRequired Qualifications\n\nBachelor's degree in Computer Science, Computer Engineering, or related technical discipline.\nProven professional experience (3+ years) in front-end development, preferably in product-focused companies and working in complex projects alongside Product/UX/UI teams.\nProficiency in HTML, CSS, JavaScript and TypeScript, with expertise on React\nFamiliarity with RESTful APIs and working alongside back-end development teams.\nExperience working with authentication and authorization mechanisms using OAuth, JWT, or SAML.\nExperience with testing frameworks (e.g., Jest, Cypress) for front-end applications.\nExperience with version control and project management systems, particularly Git and GitHub.\nAbility to work independently as well as part of a team, with strong problem-solving skills and attention to detail.\nExperience working with modern async communication and documentation tools (e.g., Slack, Notion)\nAbility to travel as needed to meet the team.\nEnglish - Advanced (Reading, Comprehension, and Writing).\nPortuguese - Fluent\n \nPreferred Qualifications\n\nRelevant hands-on experience with desktop-first products in a tech-intensive industry, such as dashboards featuring complex data visualizations and interactive charts\nExperience with Vite, Webpack, Babel, and other build tools for optimizing front-end workflows.\nExperience in building responsive layouts and ensuring cross-browser compatibility.\nExperience with SSR-capable frameworks (eg., Next.js, Remix\nExperience with secure data storage and handling sensitive information (e.g., encryption, tokenization).\nExperience implementing secure front-end authentication/session patterns to protect user data, including proper input sanitization, secure JWT/cookie handling, safe browser storage choices and alignment with OWASP guidance.\nPrior experience in an early-stage, high-growth and fast-paced startup (or similar) environment.\n\nApply to https://jobs.quickin.io/botcity/jobs/69fa295871686e001273d170?src=Github",
-      "excerpt": "Company Overview BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
-      "issueState": "open",
-      "contentHash": "b8b1b7b208826f6ea5b9e65e5e798125fa28d77699eac47167f06fbd80785509",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "frontend",
-        "react",
-        "typescript",
-        "python",
-        "java",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-07-10T20:36:53Z",
-      "updatedAt": "2026-07-10T20:37:07Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3019",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5467ab05eff3efac04d00a4e",
-      "sourceId": "pydevbr/vagas#46",
-      "title": "[Remoto] Python Developer - RPA @ Botcity",
-      "description": "### Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n### Descrição da vaga\n\nRole Overview\n\nThe Python Developer will be responsible for design, develop, and deliver automation projects that ensure performance, scalability, and customer impact for BotCity’s clients. This role is critical to maintaining high-quality code, smooth delivery, and strong customer experience across Professional Services engagements. The ideal professional is a passionate Python developer who builds clean, reliable automation solutions, communicates effectively while prioritizing the customer experience, and thrives as a collaborative, adaptable team player in a fast-changing environment.  This role reports to the Delivery Manager.\n\n \nResponsibilities\n\nGather and analyze client requirements, propose automation solutions, and design workflows aligned with business goals.\nDevelop, test, and deploy Python automations using BotCity’s platform and best practices.\nWrite clean, maintainable, and reusable code, following team standards, reviews, and version control processes (Git).\nMonitor, debug, and optimize automations to ensure reliability and performance in production.\nDocument processes, code, and architecture clearly for both technical and non-technical audiences.\nProvide technical support and training during project handover or customer onboarding.\nCollaborate closely with project managers, QA, and clients to ensure successful and timely project delivery.\nIdentify and implement improvements in development practices, tooling, and project workflows.\n\n\n\n### Local\n\nRemoto\n\n### Requisitos\n\nRequirements\nBachelor’s degree or equivalent experience in Computer Science, Information Systems, or related field.\nProfessional experience (2+ years) in Python development.\nRelevant hands-on experience with automation or RPA projects.\nProven experience with Git version control system and GitHub Flow.\nSolid understanding of APIs, data manipulation, error handling, and debugging.\nStrong problem-solving skills and ability to adapt quickly to new business contexts.\nExcellent communication and presentation skills with clients and internal stakeholders.\nExperience working with MS Office/Excel, Google Suite, Notion, Slack.\nAbility to travel as needed to support events and meet the team.\nPortuguese - Fluent.\nEnglish - Advanced.\n\nPreferred Qualifications\n\nExperience in professional services, IT consulting, or technical implementation.\nFamiliarity with BotCity tools.\nExperience with Agile methodologies.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n### Benefícios\n\nCartão flexível\nAuxilio Saúde\nAuxilio Idiomas\nSeguro de Vida\nWellhub\nConexa\nPolítica de Time off\n\n### Contratação\n\nPJ\n\n### Como se candidatar\n\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/6a19d88cd26f2200134fa876?src=Github\n\n### Tempo médio de feedbacks\n\nCostumamos enviar feedback até 15 dias depois da candidatura\n\n### Keywords\n\nRPA\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [x] PJ\n- [ ] CLT\n- [ ] Estágio\n- [ ] Cooperado\n- [ ] Freela\n\n### Nível\n\n- [ ] Júnior\n- [x] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observab...",
-      "issueState": "open",
-      "contentHash": "b3c0c72ef0c95a64a008887c10f11039ea0cd15801a2bc7a694f134ad531267f",
-      "repository": "pydevbr/vagas",
-      "repositoryUrl": "https://github.com/pydevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "full time",
-        "sênior",
-        "pleno",
-        "💰 n/a"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "pydevbr",
-        "name": "pydevbr",
-        "avatarUrl": "https://github.com/pydevbr.png?size=80",
-        "repository": "pydevbr/vagas",
-        "url": "https://github.com/pydevbr/vagas"
-      },
-      "createdAt": "2026-07-10T20:31:33Z",
-      "updatedAt": "2026-07-17T10:49:57Z",
-      "url": "https://github.com/pydevbr/vagas/issues/46",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d0cb412687230cff9d910921",
-      "sourceId": "vanshb03/Summer2026-Internships#4543",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake&utm_source=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake\n\n### Company Name\n\nBeltways\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nHebron, KY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handsha...",
-      "issueState": "open",
-      "contentHash": "167c427fa017566c614d49b96504ab96992baf19b78d86d8ebd99860441d1dd3",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:52Z",
-      "updatedAt": "2026-07-10T10:53:52Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4543",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6d5689f4221f6a75feb8805d",
-      "sourceId": "vanshb03/Summer2027-Internships#4543",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake&utm_source=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake\n\n### Company Name\n\nBeltways\n\n### Internship Title\n\nSoftware Engineer Intern\n\n### Location\n\nHebron, KY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.beltways.com/careers/software-engineer-intern?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handsha...",
-      "issueState": "open",
-      "contentHash": "167c427fa017566c614d49b96504ab96992baf19b78d86d8ebd99860441d1dd3",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:52Z",
-      "updatedAt": "2026-07-10T10:53:52Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4543",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1de6eab80d6ee81a8870fb0a",
-      "sourceId": "vanshb03/Summer2026-Internships#4542",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US\n\n### Company Name\n\nPalantir \n\n### Internship Title\n\nForward Deployed Software Engineer, Internship - Commercial\n\n### Location\n\nNew York, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US ### Company Name Palantir ### Internship Title ...",
-      "issueState": "open",
-      "contentHash": "26358b61ac40ab416d0331e6ecac60bc0986cb5f5845be3d2c6518aff5903609",
-      "repository": "vanshb03/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2026-Internships",
-        "url": "https://github.com/vanshb03/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:30Z",
-      "updatedAt": "2026-07-10T10:53:30Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4542",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_306fa7b0edc9ddfd58e12a06",
-      "sourceId": "vanshb03/Summer2027-Internships#4542",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US\n\n### Company Name\n\nPalantir \n\n### Internship Title\n\nForward Deployed Software Engineer, Internship - Commercial\n\n### Location\n\nNew York, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/?lever-origin=applied&lever-source%5B%5D=Job%20Board:%20Handshake%20US ### Company Name Palantir ### Internship Title ...",
-      "issueState": "open",
-      "contentHash": "26358b61ac40ab416d0331e6ecac60bc0986cb5f5845be3d2c6518aff5903609",
-      "repository": "vanshb03/Summer2027-Internships",
-      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
-      "region": "North America",
-      "country": "Global",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "DereC4",
-        "name": "DereC4",
-        "handle": "DereC4",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
-      },
-      "community": {
-        "id": "vanshb03",
-        "name": "vanshb03",
-        "avatarUrl": "https://github.com/vanshb03.png?size=80",
-        "repository": "vanshb03/Summer2027-Internships",
-        "url": "https://github.com/vanshb03/Summer2027-Internships"
-      },
-      "createdAt": "2026-07-10T10:53:30Z",
-      "updatedAt": "2026-07-10T10:53:30Z",
-      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4542",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_cc32a84f2d03e5e0e0ecb208",
       "sourceId": "vanshb03/Summer2026-Internships#4541",
@@ -741,6 +222,477 @@
       "createdAt": "2026-07-10T10:50:24Z",
       "updatedAt": "2026-07-10T10:50:24Z",
       "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4539",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_c504ec55953d8f2124be1dc5",
+      "sourceId": "lukasz-madon/awesome-remote-job#1106",
+      "title": "Add HomeOffice AI",
+      "description": "## Add: HomeOffice AI\n    \n**Link:** https://homeoffice-ai.com\n\n**Description:** AI-powered tools and resources for remote workers and home office productivity\n\n**Category:** Other Resources\n\n**Why it fits this list:**\nCurates the best AI tools, automation workflows, and productivity resources for remote workers. Features AI writing assistants, virtual meeting tools, smart scheduling, and home office setup recommendations.\n\n---\n_I believe this resource would be a valuable addition to this awesome list._",
+      "excerpt": "## Add: HomeOffice AI **Link:** https://homeoffice-ai.com **Description:** AI-powered tools and resources for remote workers and home office productivity **Category:** Other Resources **Why it fits this list:** Curate...",
+      "issueState": "open",
+      "contentHash": "c3f0bb4300ec16515a213fef7deb66b56341d64bebc4b23fa5d3ffc7f7d952f4",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "allenshi16",
+        "name": "allenshi16",
+        "handle": "allenshi16",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192084100?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-07-10T08:50:12Z",
+      "updatedAt": "2026-07-10T08:50:12Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1106",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ead8ba8284a4f04d2a4dc9e1",
+      "sourceId": "vanshb03/Summer2026-Internships#4538",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://www.janestreet.com/join-jane-street/position/8498547002/\n\n### Company Name\n\nJane Street\n\n### Internship Title\n\nQuantitative Researcher Internship\n\n### Location\n\nNew York, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\naprameyakannan@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://www.janestreet.com/join-jane-street/position/8498547002/ ### Company Name Jane Street ### Internship Title Quantitative Researcher Internship ### Location New York, NY ### What s...",
+      "issueState": "open",
+      "contentHash": "cac58a5c03ed45dc3fd79d888471f48ba292ad289c172e210d297a5c5ef4ec1d",
+      "repository": "vanshb03/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2026-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "aprameyak",
+        "name": "aprameyak",
+        "handle": "aprameyak",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101409453?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2026-Internships",
+        "url": "https://github.com/vanshb03/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-10T08:26:29Z",
+      "updatedAt": "2026-07-10T08:26:29Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4538",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d47b0366cac4b6f58030c0ab",
+      "sourceId": "vanshb03/Summer2027-Internships#4538",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://www.janestreet.com/join-jane-street/position/8498547002/\n\n### Company Name\n\nJane Street\n\n### Internship Title\n\nQuantitative Researcher Internship\n\n### Location\n\nNew York, NY\n\n### What season is this internship for?\n\nSummer\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Email associated with your GitHub account (Optional)\n\naprameyakannan@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://www.janestreet.com/join-jane-street/position/8498547002/ ### Company Name Jane Street ### Internship Title Quantitative Researcher Internship ### Location New York, NY ### What s...",
+      "issueState": "open",
+      "contentHash": "cac58a5c03ed45dc3fd79d888471f48ba292ad289c172e210d297a5c5ef4ec1d",
+      "repository": "vanshb03/Summer2027-Internships",
+      "repositoryUrl": "https://github.com/vanshb03/Summer2027-Internships",
+      "region": "North America",
+      "country": "Global",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "aprameyak",
+        "name": "aprameyak",
+        "handle": "aprameyak",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101409453?v=4"
+      },
+      "community": {
+        "id": "vanshb03",
+        "name": "vanshb03",
+        "avatarUrl": "https://github.com/vanshb03.png?size=80",
+        "repository": "vanshb03/Summer2027-Internships",
+        "url": "https://github.com/vanshb03/Summer2027-Internships"
+      },
+      "createdAt": "2026-07-10T08:26:29Z",
+      "updatedAt": "2026-07-10T08:26:29Z",
+      "url": "https://github.com/vanshb03/Summer2027-Internships/issues/4538",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_db74dd1b82fe473907b5def5",
+      "sourceId": "awesome-jobs/vietnam#4959",
+      "title": "[Remote / Contractor] Senior AI Engineer | LangChain/LangGraph | Eng Fluent",
+      "description": "- Tech stack: TypeScript, JavaScript, LangGraph\n- 5+ năm kinh nghiệm phát triển phần mềm, chủ yếu stack TypeScript\n- Kinh nghiệm mạnh xây dựng backend với Node.js + Express\n- 2+ năm kinh nghiệm làm AI application/wrapper\n- Kinh nghiệm thực chiến với LangChain/LangGraph\n- Hiểu sâu về agent design pattern, tool use, memory handling, graph orchestration\n- Kinh nghiệm tích hợp LLM provider API (OpenAI, Anthropic, ...)\n- Kinh nghiệm triển khai RAG pipeline với embeddings + vector database\n- Kiến thức thực tế về prompt design, structured output, evaluation framework\n\nContact: 0582839437",
+      "excerpt": "- Tech stack: TypeScript, JavaScript, LangGraph - 5+ năm kinh nghiệm phát triển phần mềm, chủ yếu stack TypeScript - Kinh nghiệm mạnh xây dựng backend với Node.js + Express - 2+ năm kinh nghiệm làm AI application/wrap...",
+      "issueState": "open",
+      "contentHash": "be4a28e530f528657b31b15632fcc85414c0cb6abf60abb4c2af75ae1aa7d6f3",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "backend",
+        "typescript",
+        "node",
+        "java",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "PhuongVu-HR",
+        "name": "PhuongVu-HR",
+        "handle": "PhuongVu-HR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-10T04:15:30Z",
+      "updatedAt": "2026-07-10T04:16:13Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4959",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_b7ede3a11865e77416641411",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9625",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.bombardier.com/job/St-Laurent-Intern,-Data-analyst-(Fall-2026)-Qu%C3%A9b-H4R-1K2/14114-en_US/\n\n### Company Name\n\nBombardier\n\n### Internship Title\n\nIntern, Data analyst\n\n### Location\n\nSt-Laurent, QC, CAN, H4R 1K2 \n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nData Science, AI & Machine Learning\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nsadiqazmi0@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.bombardier.com/job/St-Laurent-Intern,-Data-analyst-(Fall-2026)-Qu%C3%A9b-H4R-1K2/14114-en_US/ ### Company Name Bombardier ### Internship Title Intern, Data analyst ### Locat...",
+      "issueState": "open",
+      "contentHash": "4b369cd8b19141e08ae965b9629e33972c3af0aff62d4d3528ed2e2a3367e40c",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "jazoomi",
+        "name": "jazoomi",
+        "handle": "jazoomi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62959765?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T23:31:07Z",
+      "updatedAt": "2026-07-09T23:31:07Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9625",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_223d8a07db3b64914a623f10",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9624",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.dayforcehcm.com/en-US/fng/CANDIDATEPORTAL/jobs/12869?src=LinkedIn\n\n### Company Name\n\nFlex-N-Gate \n\n### Internship Title\n\nEngineering Intern\n\n### Location\n\nDetroit, MI\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.dayforcehcm.com/en-US/fng/CANDIDATEPORTAL/jobs/12869?src=LinkedIn ### Company Name Flex-N-Gate ### Internship Title Engineering Intern ### Location Detroit, MI ### What term...",
+      "issueState": "open",
+      "contentHash": "754e33de12af3754719bf10f0e87285c28c805dc3fd20efbcf3fec6e00eb361a",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T11:21:30Z",
+      "updatedAt": "2026-07-09T11:21:30Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9624",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4d44f7a50aa5f8dcfda456b5",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9623",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/honehealth/jobs/5308958008?gh_src=xcb5pejc8us\n\n### Company Name\n\nHone \n\n### Internship Title\n\nData Engineering Intern (Fall 2026)\n\n### Location\n\nRemote\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nData Science, AI & Machine Learning\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/honehealth/jobs/5308958008?gh_src=xcb5pejc8us ### Company Name Hone ### Internship Title Data Engineering Intern (Fall 2026) ### Location Remote ### What...",
+      "issueState": "open",
+      "contentHash": "3081eae722375512b97450b28cc92bb4e5fef9a5f96a1ad42feb9fc937519897",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T11:20:48Z",
+      "updatedAt": "2026-07-09T11:20:48Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9623",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_00335f1a47c2e08d4a9ddaf4",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9622",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12227b8b-77fe-4843-a506-856cf6e9b32b&ccId=19000101_000001&jobId=941778&source=LR&lang=en_US&source=LI&source=LI\n\n### Company Name\n\nStenger & Stenger\n\n### Internship Title\n\nSoftware Developer Intern \n\n### Location\n\nGrand Rapids, MI\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12227b8b-77fe-4843-a506-856cf6e9b32b&ccId=19000101_000001&jobId=941778&source=LR&lang=en_US&source=LI&sou...",
+      "issueState": "open",
+      "contentHash": "562e3b7b6d45aad44260dfddfe29f5ff2b3ec37d4a432af565cb221fc87cd964",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T11:20:31Z",
+      "updatedAt": "2026-07-09T11:20:31Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9622",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0e15ee0472e4c88a493ca314",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9621",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9827?utm_medium=jobboard&utm_source=linkedin\n\n### Company Name\n\nStandardAero\n\n### Internship Title\n\nEngineering Intern (Summer/Fall/Winter 2026)\n\n### Location\n\nDallas, TX\n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9827?utm_medium=jobboard&utm_source=linkedin ### Company Name StandardAero ### Internship Title Engineering...",
+      "issueState": "open",
+      "contentHash": "a459eda2c51a888ba7b798dd3f09f574dbceb6e9bf9423e1033e404b4f844060",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T11:20:00Z",
+      "updatedAt": "2026-07-09T11:20:00Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9621",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0d00013886ca2e7b953b2464",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9620",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=c6e383c7-a3fe-4170-abb7-22ab3bc0cfe5&source=LinkedIn\n\n### Company Name\n\nFintech \n\n### Internship Title\n\nSoftware Engineering Intern\n\n### Location\n\nTampa, FL\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=c6e383c7-a3fe-4170-abb7-22ab3bc0cfe5&source=LinkedIn ### Company ...",
+      "issueState": "open",
+      "contentHash": "b1c11672b492c2b2dcbe9f95cfdb5e3c33d5ea4cbf7a4869903b207d480721fb",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T11:19:35Z",
+      "updatedAt": "2026-07-09T11:19:35Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9620",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2016043a828fdd0dbbcd7345",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9619",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com\n\n### Company Name\n\nAmazon\n\n### Internship Title\n\nRobotics - Software Development Engineer Intern/Co-op - 2026\n\n### Location\n\nAustin, TX\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_med...",
+      "issueState": "open",
+      "contentHash": "1f9530b275dc36b9615607c8d964661673d11002a047ad7736d71db541b65d71",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T11:19:16Z",
+      "updatedAt": "2026-07-09T11:19:16Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9619",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_967ea6bb3e4d65d78b391105",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9618",
+      "title": "New Internship",
+      "description": "### Link to Internship Posting\n\nhttps://jobs.baesystems.com/global/en/job/BAE1US126218BREXTERNAL/Systems-Software-Engineering-Intern-Embedded-Systems?utm_source=linkedin&utm_medium=phenom-feeds\n\n### Company Name\n\nBAE Systems\n\n### Internship Title\n\nSystems Software Engineering Intern – Embedded Systems\n\n### Location\n\nHuntsville\n\n### What term(s) is this internship offered for?\n\nSummer 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nderex1987@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://jobs.baesystems.com/global/en/job/BAE1US126218BREXTERNAL/Systems-Software-Engineering-Intern-Embedded-Systems?utm_source=linkedin&utm_medium=phenom-feeds ### Company Name BAE Sys...",
+      "issueState": "open",
+      "contentHash": "8b8c6361a1aaa90bc771cfa184914f8905fea5fbabcb7bc220abea3625d78cbb",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-07-09T11:18:52Z",
+      "updatedAt": "2026-07-09T11:18:52Z",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/9618",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d4d167f732334aca336677fd",
+      "sourceId": "awesome-jobs/vietnam#4958",
+      "title": "[HCM - Quận 7] Hiring Senior Backend Developer (Contractor)",
+      "description": "Yêu cầu:\nTừ 5 năm kinh nghiệm Backend (Java/Spring Boot, Python hoặc Node.js)\nThành thạo Docker & Kubernetes (K8s Manifest, Helm Chart)\nCó kinh nghiệm triển khai ứng dụng trên Cloud và hiểu kiến trúc Cloud-native\nPlus:\nĐã tham gia dự án migrate hệ thống từ On-prem/VMware lên AWS, Azure hoặc GCP\nHoặc có kinh nghiệm trong các lĩnh vực Retail, POS hoặc Pharmacy (Chuỗi nhà thuốc)\n\nContact Phone/Zalo: 0582839437",
+      "excerpt": "Yêu cầu: Từ 5 năm kinh nghiệm Backend (Java/Spring Boot, Python hoặc Node.js) Thành thạo Docker & Kubernetes (K8s Manifest, Helm Chart) Có kinh nghiệm triển khai ứng dụng trên Cloud và hiểu kiến trúc Cloud-native Plus...",
+      "issueState": "open",
+      "contentHash": "8f61f1eeffb8636b6b9ddfd64d2219ba08f76b2e54e25cacf51216f496711226",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "backend",
+        "node",
+        "python",
+        "java",
+        "senior"
+      ],
+      "author": {
+        "id": "PhuongVu-HR",
+        "name": "PhuongVu-HR",
+        "handle": "PhuongVu-HR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-09T11:04:37Z",
+      "updatedAt": "2026-07-09T11:04:37Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4958",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1ae1c5f1e7122c69faad9e99",
+      "sourceId": "speedyapply/2026-AI-College-Jobs#11",
+      "title": "New Position",
+      "description": "### Position Title\n\nAI Research Scientist - Internship [2027 Summer]\n\n### Position Application Link\n\nhttps://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022?source=LinkedIn\n\n### Company Name\n\nTwo Sigma\n\n### Company Link\n\nhttps://www.twosigma.com/\n\n### Location\n\nNew York\n\n### Is this a new grad position or an internship?\n\nInternship\n\n### Is this position based in the USA?\n\nYes, it's based in the USA.\n\n### Your GitHub Email\n\nderex1987@gmail.com",
+      "excerpt": "### Position Title AI Research Scientist - Internship [2027 Summer] ### Position Application Link https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Su...",
+      "issueState": "open",
+      "contentHash": "cb2130d41162da2244b42f6d933c54851a6b5b3025a83b85bea196ccbcb6eb1f",
+      "repository": "speedyapply/2026-AI-College-Jobs",
+      "repositoryUrl": "https://github.com/speedyapply/2026-AI-College-Jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "speedyapply",
+        "name": "speedyapply",
+        "avatarUrl": "https://github.com/speedyapply.png?size=80",
+        "repository": "speedyapply/2026-AI-College-Jobs",
+        "url": "https://github.com/speedyapply/2026-AI-College-Jobs"
+      },
+      "createdAt": "2026-07-09T11:00:03Z",
+      "updatedAt": "2026-07-09T11:00:03Z",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs/issues/11",
       "sourceType": "github-issue"
     }
   ]
