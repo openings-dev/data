@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-27T21:58:57.384Z",
+  "generatedAt": "2026-07-28T01:50:10.246Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_7ba652a44a8de9edef28588e",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
@@ -22,10 +23,42 @@
     "gh_3074e9f6173315eedc1a54e6",
     "gh_1064af9b7fc9aca6eda2af2d",
     "gh_04e16e2c007892d76818f4d4",
-    "gh_ba4f8e13f468e4ef55d8683c",
-    "gh_08c2b289f0b0fbaf5bd9f142"
+    "gh_ba4f8e13f468e4ef55d8683c"
   ],
   "items": [
+    {
+      "id": "gh_7ba652a44a8de9edef28588e",
+      "sourceId": "tramcar/awesome-job-boards#278",
+      "title": "Suggestion: add Hanzilla Jobs to Canada job boards",
+      "description": "Hi — thanks for maintaining this list.\n\nCould you consider adding Hanzilla Jobs to the Canada section?\n\nSuggested entry:\n\n```md\n* [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.\n```\n\nWhy I think it fits:\n\n- It is Canada-specific.\n- It is a job board, free to browse.\n- It focuses on university students and recent grads across multiple early-career fields, not only software.\n\nDisclosure: I help build/operate Hanzilla Jobs, so please only include it if it fits your curation standards.",
+      "excerpt": "Hi — thanks for maintaining this list. Could you consider adding Hanzilla Jobs to the Canada section? Suggested entry: ```md * [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-gra...",
+      "issueState": "open",
+      "contentHash": "07f39f6c4e835d45acdc77481e0c72112564db61ec9c73ee9e7d93e506c791e5",
+      "repository": "tramcar/awesome-job-boards",
+      "repositoryUrl": "https://github.com/tramcar/awesome-job-boards",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "tramcar",
+        "name": "tramcar",
+        "avatarUrl": "https://github.com/tramcar.png?size=80",
+        "repository": "tramcar/awesome-job-boards",
+        "url": "https://github.com/tramcar/awesome-job-boards"
+      },
+      "createdAt": "2026-05-28T10:47:17Z",
+      "updatedAt": "2026-05-28T10:47:17Z",
+      "url": "https://github.com/tramcar/awesome-job-boards/issues/278",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1f61de8de06b483a9a82d5f4",
       "sourceId": "nerdzao/vagas#191",
@@ -725,37 +758,6 @@
       "createdAt": "2026-05-14T11:23:47Z",
       "updatedAt": "2026-05-14T11:24:06Z",
       "url": "https://github.com/programadores-br/geral/issues/3067",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_08c2b289f0b0fbaf5bd9f142",
-      "sourceId": "cncf/gitjobs#383",
-      "title": "Ability to manually assign jobs to a foundation/project after submission",
-      "description": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusion, submitters may be thinking of it as the specific upstream project rather than the foundation umbrella.\n\nThis week we had 3 companies submit roles where this happened. One example:\nhttps://gitjobs.dev/?job_id=a33c9906-aec4-4d7b-91b8-c41d783b8f5e\n\nI'm unclear whether they missed something when adding the job or if there is a bug here. Either way, is there a way for foundation admins to manually update existing job posts to assign them to the correct project/foundation bucket after submission? This would let us pull in roles that should have been associated with OpenInfra but weren't tagged correctly at submission time.\n\nIt might also be worth looking at the submission UX around the \"project\" field, clarifying the distinction between foundation and project (or letting submitters select both) could reduce these mis-assignments going forward.\n\nHappy to discuss further or provide additional examples if useful.",
-      "excerpt": "Some companies submitting roles to GitJobs aren't selecting \"OpenInfra\" as the project, which means their posts don't appear in the OpenInfra Foundation's bucket. I suspect the \"project\" terminology is causing confusi...",
-      "issueState": "open",
-      "contentHash": "1c7eb10758546ab0042c001133a70a66965593411af04471115ee856d20bd5ce",
-      "repository": "cncf/gitjobs",
-      "repositoryUrl": "https://github.com/cncf/gitjobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "iamweswilson",
-        "name": "iamweswilson",
-        "handle": "iamweswilson",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/214968?v=4"
-      },
-      "community": {
-        "id": "cncf",
-        "name": "cncf",
-        "avatarUrl": "https://github.com/cncf.png?size=80",
-        "repository": "cncf/gitjobs",
-        "url": "https://github.com/cncf/gitjobs"
-      },
-      "createdAt": "2026-05-05T18:56:03Z",
-      "updatedAt": "2026-05-06T15:39:22Z",
-      "url": "https://github.com/cncf/gitjobs/issues/383",
       "sourceType": "github-issue"
     }
   ]
