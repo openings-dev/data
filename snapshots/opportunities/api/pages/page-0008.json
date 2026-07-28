@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-07-28T19:12:13.196Z",
+  "generatedAt": "2026-07-28T21:57:45.277Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
-    "gh_674716f49c075f02f7ac62d5",
-    "gh_dc9be57bac65e04edbf010e2",
     "gh_31771006fb197da7d3ea896f",
     "gh_03e1ed1f70d913dbf9112931",
     "gh_c21fe4f8cf97111ea9a277bf",
@@ -18,90 +16,16 @@
     "gh_8e21776bfd1dc032003ed037",
     "gh_45aece0e457d44d9135946e7",
     "gh_7e0bbe167dafba943e077f78",
+    "gh_9dcaafdb25ea23ef3bfbc8ef",
     "gh_90494ab470094f1d5461b7d3",
     "gh_cb2ee2711308cdd4a5a45c69",
     "gh_d745286de58b9dcf439338bc",
     "gh_8efe119dc847f2d5d97185b1",
     "gh_9e4baa9ba521c0732719893f",
-    "gh_87bb27ffa16c5faf9b5559d2"
+    "gh_87bb27ffa16c5faf9b5559d2",
+    "gh_0871ca1a0ecc002bf7e9c19a"
   ],
   "items": [
-    {
-      "id": "gh_674716f49c075f02f7ac62d5",
-      "sourceId": "frontendbr/vagas#8514",
-      "title": "[Remoto] Angular Front-End Developer Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "f38d026be6f213948d07bbff02245b7d69d2fa33bf80becdb672a7daf8bc8937",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-07T13:10:50Z",
-      "updatedAt": "2026-07-07T13:11:20Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8514",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dc9be57bac65e04edbf010e2",
-      "sourceId": "lukasz-madon/awesome-remote-job#1103",
-      "title": "Review PR #1102 — Remote Signal API (JSON jobs + Show HN feed)",
-      "description": "**Merge request — Remote Signal API listing**\n\nPR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache).\n\n- Live: https://intellectual-close-wages-west.trycloudflare.com/pricing\n- Free: 10 req/day | Pro: $5 USDC/mo | Agents: x402 $0.02/req on Base\n- Docs: https://gist.github.com/reckoning89/d87818b2020bbc27590df1fa0c42f175\n- Verified: 138+ API calls from 40+ external IPs this week\n\nHappy to adjust copy/format. Ready to merge when convenient — thanks for maintaining this list!",
-      "excerpt": "**Merge request — Remote Signal API listing** PR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache). - Live: https://intellectual-close-wages-west.trycloudflare.com/pri...",
-      "issueState": "open",
-      "contentHash": "ab62bc1a66b1fce40ffd39e5e06a8ceb9316d5822243f9fe455228ef73a967f2",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "reckoning89",
-        "name": "reckoning89",
-        "handle": "reckoning89",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216601217?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-07-07T00:03:28Z",
-      "updatedAt": "2026-07-07T13:57:26Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1103",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_31771006fb197da7d3ea896f",
       "sourceId": "programadores-br/geral#3084",
@@ -559,6 +483,43 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_9dcaafdb25ea23ef3bfbc8ef",
+      "sourceId": "backend-br/vagas#12294",
+      "title": "[100% Remoto]  - Python Developer - BotCity",
+      "description": "## Nossa empresa\n\nCompany Overview\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nThe Python Developer will be responsible for design, develop, and deliver automation projects that ensure performance, scalability, and customer impact for BotCity’s clients. This role is critical to maintaining high-quality code, smooth delivery, and strong customer experience across Professional Services engagements. The ideal professional is a passionate Python developer who builds clean, reliable automation solutions, communicates effectively while prioritizing the customer experience, and thrives as a collaborative, adaptable team player in a fast-changing environment.  This role reports to the Delivery Manager.\n\n## Local\n\nOportunidade 100% Remota.\n\n## Requisitos\n\n- Bachelor’s degree or equivalent experience in Computer Science, Information Systems, or related field.\n- Professional experience (2+ years) in Python development.\n- Relevant hands-on experience with automation or RPA projects.\n- Proven experience with Git version control system and GitHub Flow.\n- Solid understanding of APIs, data manipulation, error handling, and debugging.\n- Strong problem-solving skills and ability to adapt quickly to new business contexts.\n- Excellent communication and presentation skills with clients and internal stakeholders.\n- Experience working with MS Office/Excel, Google Suite, Notion, Slack.\n- Ability to travel as needed to support events and meet the team.\n- Portuguese - Fluent.\n- English - Advanced.\n\nPreferred Qualifications\n\n- Experience in professional services, IT consulting, or technical implementation.\n- Familiarity with BotCity tools.\n- Experience with Agile methodologies.\n- Prior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n## Benefícios\n\nCompetitive compensation.\nPaid time off (30 days per year).\n100% remote and flexible hours.\nCaju benefits card.\nConexa health benefits.\nOpportunity to work in a global team with teams in San Francisco and São Paulo.\n\n## Contratação\n\nContratação PJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/botcity/jobs/6a19d88cd26f2200134fa876?src=Github",
+      "excerpt": "## Nossa empresa Company Overview BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, contr...",
+      "issueState": "open",
+      "contentHash": "27983de8bcbc8a60d87db2ae937cea050909a3322c06b7afa1259766963891af",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "python",
+        "remoto",
+        "git",
+        "solid"
+      ],
+      "author": {
+        "id": "Claudia-S-O-M",
+        "name": "Claudia-S-O-M",
+        "handle": "Claudia-S-O-M",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/269568568?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-06-26T03:49:39Z",
+      "updatedAt": "2026-07-28T19:51:19Z",
+      "url": "https://github.com/backend-br/vagas/issues/12294",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_90494ab470094f1d5461b7d3",
       "sourceId": "DevOps-Brasil/Vagas#465",
       "title": "[Platform Engineer Sênior (DevOps) / Especialista em Infraestrutura e Plataforma] DevOZ OZmap - Remto",
@@ -786,6 +747,45 @@
       "createdAt": "2026-06-18T08:38:19Z",
       "updatedAt": "2026-07-24T14:05:03Z",
       "url": "https://github.com/backend-br/vagas/issues/12290",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0871ca1a0ecc002bf7e9c19a",
+      "sourceId": "frontendbr/vagas#8510",
+      "title": "[Remoto] Full-stack Developer (Next.js & Claude Code) - USD-Strider",
+      "description": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Developer (Next.js & Claude Code)\n🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Paraguai, Chile, Peru e Costa Rica\n\nEmpresa americana busca Full-stack Developer com experiência em Next.js, React, AWS e desenvolvimento acelerado por IA para atuar em projeto internacional. 🚀\n\n💰 USD 2.8K–3.85K/mês\n📍 100% Remoto\n🗣 Inglês C1+\n⏰ Projeto de 3 meses | 40h semanais\n\n📩 Se inscreva agora!\nhttps://app.onstrider.com/r/claudiaantunes?job=ZnVsbC1zdGFjay1kZXZlbG9wZXItM2I1ZmQwYzE/cmVmZXJyYWw9Y2xhdWRpYWFudHVuZXM=",
+      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Developer (Next.js & Claude Code) 🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Paraguai, Chile, Peru e Costa Rica Empresa americana busca Full-stack D...",
+      "issueState": "open",
+      "contentHash": "62c09c789b3db1c3efa9cef55aa755d805fb859a38873a307e80dc4fd3d7b736",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto"
+      ],
+      "author": {
+        "id": "Claudiaantunesdelima",
+        "name": "Claudiaantunesdelima",
+        "handle": "Claudiaantunesdelima",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 2800,
+        "max": 3850,
+        "period": "month"
+      },
+      "createdAt": "2026-06-18T08:32:24Z",
+      "updatedAt": "2026-07-21T05:37:06Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8510",
       "sourceType": "github-issue"
     }
   ]
