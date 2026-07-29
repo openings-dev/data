@@ -1,16 +1,49 @@
 {
-  "generatedAt": "2026-07-23T02:02:05.667Z",
+  "generatedAt": "2026-07-29T21:53:25.534Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "SimplifyJobs/New-Grad-Positions",
   "totals": {
     "opportunities": 29,
-    "openIssues": 4,
-    "closedIssues": 25
+    "openIssues": 5,
+    "closedIssues": 24
   },
-  "dataHash": "a5ba7f9756798d64e583376876bc2a45608f8c56d6b6fed6ca190de84e34235d",
+  "dataHash": "b0cfbd68ed5e1192cafa8623808e8bc17cb555bef7d1a0db98f5ea151058d982",
   "items": [
+    {
+      "id": "gh_7aed6f9d9b165e7131417660",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2948",
+      "title": "New Feature Request: Security clearence marker",
+      "description": "### Improvement\n\nSome jobs I am noticing need security clearance, some people might not be able to do that and it would be nice if the jobs that do need a security clearance have some sort of icon like the USA citizenship or FAANG company emoji's.",
+      "excerpt": "### Improvement Some jobs I am noticing need security clearance, some people might not be able to do that and it would be nice if the jobs that do need a security clearance have some sort of icon like the USA citizens...",
+      "issueState": "open",
+      "contentHash": "7b9ead516bd416b82a00c5cb6a1ac3ec4caaca1446fc46a6e7906da9f08d3d84",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "Amandaleeanne",
+        "name": "Amandaleeanne",
+        "handle": "Amandaleeanne",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145935534?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-07-29T20:26:41Z",
+      "updatedAt": "2026-07-29T20:26:41Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2948",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_80c60cdf0429e31a9fe9ba6c",
       "sourceId": "SimplifyJobs/New-Grad-Positions#2947",
@@ -953,40 +986,6 @@
       "createdAt": "2026-06-08T20:08:15Z",
       "updatedAt": "2026-06-09T11:20:25Z",
       "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2916",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cb99885e587e00e60d4ade63",
-      "sourceId": "SimplifyJobs/New-Grad-Positions#2915",
-      "title": "Bulk Marking Roles as Inactive",
-      "description": "### Job Posting URLs\n\nhttps://ralliant.eightfold.ai/careers/job/1133912499916?domain=ralliant.com&utm_source=Simplify&ref=Simplify\n\n### Reason for marking as inactive\n\ninactive\n\n\n### Email associated with your GitHub account (Optional)\n\n_No response_",
-      "excerpt": "### Job Posting URLs https://ralliant.eightfold.ai/careers/job/1133912499916?domain=ralliant.com&utm_source=Simplify&ref=Simplify ### Reason for marking as inactive inactive ### Email associated with your GitHub accou...",
-      "issueState": "closed",
-      "contentHash": "3cee647274aebcdf395459e325b34b2d29b26a5c56a909c2282e6469c5c1d28e",
-      "repository": "SimplifyJobs/New-Grad-Positions",
-      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "approved",
-        "bulk_mark_inactive"
-      ],
-      "author": {
-        "id": "AlmondCroffle",
-        "name": "AlmondCroffle",
-        "handle": "AlmondCroffle",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216906262?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/New-Grad-Positions",
-        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
-      },
-      "createdAt": "2026-06-08T06:44:45Z",
-      "updatedAt": "2026-06-08T06:45:07Z",
-      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2915",
       "sourceType": "github-issue"
     }
   ]
