@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-29T13:50:57.710Z",
+  "generatedAt": "2026-07-29T16:17:39.597Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_7557e8348cc3ee95670cabc5",
     "gh_19b5fdf75df6ae77bffa86f6",
     "gh_ee3bf5f551a3955bd095b63e",
     "gh_dc9be57bac65e04edbf010e2",
@@ -22,10 +23,55 @@
     "gh_9dcaafdb25ea23ef3bfbc8ef",
     "gh_90494ab470094f1d5461b7d3",
     "gh_cb2ee2711308cdd4a5a45c69",
-    "gh_d745286de58b9dcf439338bc",
-    "gh_8efe119dc847f2d5d97185b1"
+    "gh_d745286de58b9dcf439338bc"
   ],
   "items": [
+    {
+      "id": "gh_7557e8348cc3ee95670cabc5",
+      "sourceId": "backend-br/vagas#12323",
+      "title": "[Remoto] Desenvolvedor(a) Full-Stack Sênior (TypeScript/React/Node) - Grupo Apex (EUA)",
+      "description": "## Sobre nós\n\nGrupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros\ncom DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de\nserviços de construção (riseconstruction.us). Os três produtos estão em produção, com clientes\nreais e receita real.\n\n## A vaga\n\nOs três produtos foram construídos majoritariamente com agentes de IA (Claude Code). Você vai\ntrabalhar COM esses agentes — eles revisam seus PRs, você revisa os deles. Procuramos alguém\nque use IA como alavanca e traga o que ela não traz: julgamento sênior sobre edge cases,\nintegridade de dados, migração segura e deploy sem susto. Os produtos estão ~80% prontos; o\ntrabalho é levá-los a 100% — a parte que separa produto de demo.\n\n## O que você vai fazer\n\n- Cutover de redesigns de staging para produção, incluindo migrações de schema manuais (MySQL)\n- Features de dashboard: fluxos de financiamento, pipeline de ofertas com SLA, portais por\n  papel (comprador/colaborador), chat interno, motores de orçamento e comissão\n- Integrações: Stripe (go-live), QuickBooks two-way, telefonia (Twilio), APIs de terceiros\n- Hardening: checagens multi-tenant, bugs de cálculo de folha (nível centavo), schema drift\n\n## Stack (igual nos 3 produtos)\n\nTypeScript, React, Vite, tRPC, Drizzle ORM, MySQL, Tailwind/Radix, Node.js em VPS Linux\n(nginx), Cloudflare R2. Integrações: Stripe, Twilio, QuickBooks, APIs Meta/Google.\n\n## Local\n\nRemoto (Brasil) — PJ\n\n## Requisitos\n\n- **Experiência:** 5+ anos levando TypeScript full-stack a produção; React + Node + SQL\n  profundos (o peso maior é backend)\n- **Produção de verdade:** já operou app em Linux puro (nginx, systemd, SSH, backup) — sem\n  rede de segurança de PaaS\n- **Cicatriz de integração:** Stripe, OAuth, webhooks (inclusive entrega duplicada)\n- **Inglês:** técnico de leitura/escrita (código e docs em inglês; dia a dia em português)\n- **Perfil:** autonomia, conforto genuíno em revisar código escrito por IA e ser revisado\n  por agentes\n- **Diferencial forte:** React Native/Expo — temos 3 apps mobile (Expo Router) na fila\n  depois da web, incluindo publicação nas lojas\n\n## Contratação\n\nPJ — **R$ 12.000 a R$ 18.000/mês**, conforme senioridade · full-time ou 30h+/semana\n- Cliente americano direto (sem agência no meio), pagamento em dia via Deel, longo prazo\n- Demo semanal · começa com **trial pago de 1 semana** (tarefa real do backlog, no seu rate)\n\n## Como se candidatar\n\nEmail para **alex@theapexauto.com** com assunto **[FULLSTACK] Seu Nome** contendo:\n1. A integração de produção mais cabeluda que você já entregou — o que quebrou e como descobriu\n2. Links de código seu com histórico real de commits\n3. Pretensão (R$/mês PJ) e disponibilidade\n\nPropostas genéricas são descartadas. Sem agências, por favor.",
+      "excerpt": "## Sobre nós Grupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros com DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de serviços de construç...",
+      "issueState": "open",
+      "contentHash": "25265dcfbb891324ce5612e04a8a67a004b8a049eb352bd1a880003ec771d542",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "node.js",
+        "go",
+        "remoto",
+        "mysql",
+        "typescript",
+        "sql"
+      ],
+      "author": {
+        "id": "matheu555",
+        "name": "matheu555",
+        "handle": "matheu555",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/221351562?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 18000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-08T18:36:05Z",
+      "updatedAt": "2026-07-21T18:24:43Z",
+      "url": "https://github.com/backend-br/vagas/issues/12323",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_19b5fdf75df6ae77bffa86f6",
       "sourceId": "DevOps-Brasil/Vagas#468",
@@ -743,43 +789,6 @@
       "createdAt": "2026-06-22T17:14:23Z",
       "updatedAt": "2026-06-22T17:14:23Z",
       "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2930",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8efe119dc847f2d5d97185b1",
-      "sourceId": "programadores-br/geral#3083",
-      "title": "[Remoto] Cloud Security Analyst (Sênior) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\n**Atividades:**\n\n*   Projetar, implementar e gerenciar controles de segurança para ambientes em nuvem (AWS, Azure, GCP).\n    \n*   Realizar avaliações de segurança em infraestruturas e aplicações.\n    \n*   Monitorar e responder a eventos e incidentes de segurança em ambientes cloud.\n    \n*   Colaborar com as equipes de desenvolvimento, DevOps e infraestrutura para implementar práticas de segurança na nuvem.\n    \n*   Automatizar tarefas de segurança na nuvem.\n    \n*   Manter-se atualizado sobre as últimas ameaças e vulnerabilidades.\n    \n*   Apoiar na definição e implementação de políticas de segurança específicas para a nuvem.\n    \n*   Realizar testes de segurança e simulações de ataque em ambientes cloud.\n    \n*   Documentar procedimentos e configurações de segurança na nuvem.\n## TruckPag: \n <p>Somos uma empresa de meios de pagamento especializada em gestão de frotas, com nosso cartão TruckPag, o cliente abastece com economia, facilidade e total controle. Com a CIOTPag, o cliente tem soluções completas para a sua gestão de frete a partir da emissão de CIOT e pagamento eletrônico de frete (PEF) . Além disso, a PagPedágio possibilita que as viagens sejam bem mais rápidas, sem precisar enfrentar filas de pedágios, em todo território nacional.</p>\n<p>Somos 100% TruckPag: sem bancos, sem fundos, sem intermediadores e sem burocracia.</p><a href='https://coodesh.com/companies/truckpag-meios-de-pagamento'>Veja mais no site</a>\n\n ## Habilidades: \n - AWS \n- Azure \n- GCP\n## Local: \n Remota\n## Requisitos: \n - Ensino superior completo \n- Experiência comprovada em segurança de ambientes de nuvem (AWS, Azure, GCP). \n- Experiência com ferramentas de segurança específicas para nuvem (CSPM, CWPP, etc.). \n- Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD. \n- Conhecimento em segurança de contêineres e orquestradores (Docker, Kubernetes).\n## Diferenciais: \n - Conhecimento em IaC (Infrastructure as Code) e segurança em pipelines de CI/CD.\n## Benefícios: \n - Horários Flexíveis \n- Descanso Remunerado  \n- Incentivo aos estudos (Descontos em faculdades)\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Cloud Security Analyst (Sênior) na TruckPag](https://coodesh.com/jobs/analista-de-seguranca-da-informacao-senior-seguranca-em-nuvem-125511322?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nCyber Segurança",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "7f4e3621d1ec2fc28367f9d359316deb87767353a5e898c583cb23bfd8d92a2f",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "pj",
-        "sênior",
-        "devops"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-06-22T13:21:36Z",
-      "updatedAt": "2026-06-22T13:22:02Z",
-      "url": "https://github.com/programadores-br/geral/issues/3083",
       "sourceType": "github-issue"
     }
   ]

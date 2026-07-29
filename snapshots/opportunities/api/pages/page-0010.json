@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-29T13:50:57.710Z",
+  "generatedAt": "2026-07-29T16:17:39.597Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_a2bf5d8b1ac2ec634b465f35",
     "gh_83b66ce2daefa84016b71185",
     "gh_70eda67c2285a24c2f32ca41",
     "gh_828a908398f893b1e0c6ca3d",
@@ -22,10 +23,42 @@
     "gh_2d895bac96564681581385bb",
     "gh_bacefe5602e4e742e8cdf5f9",
     "gh_3ca6bfcccb91efa2b245a1f6",
-    "gh_87ff6095a89da3f020be3eb8",
-    "gh_73e0c5d98159d349f10f4fa9"
+    "gh_87ff6095a89da3f020be3eb8"
   ],
   "items": [
+    {
+      "id": "gh_a2bf5d8b1ac2ec634b465f35",
+      "sourceId": "jobright-ai/2026-Product-Management-Internship#2",
+      "title": "Consider adding a Canada-specific student/product jobs companion resource",
+      "description": "Hi Jobright team — thanks for maintaining this Product Management internship tracker.\n\nWould you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian student/new-grad coverage?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs – Canadian business, product-adjacent, and student jobs](https://jobs.hanzilla.co/business/) — free daily-updated Canadian student/recent-grad board covering business, product-adjacent, analyst, finance, engineering, tech, internships/co-ops, new-grad, junior, and entry-level roles. Internship-focused page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it seems relevant here:\n\n- this repo already surfaces Canada-relevant product/product-strategy roles such as Toronto/Oakville listings;\n- Hanzilla is Canada-specific and aimed at university students/recent grads, so it complements a broader global/Product Management tracker rather than replacing it;\n- the board is not CS-only: it includes business, finance, engineering, sciences, tech, internships/co-ops, new-grad, junior, and entry-level roles.\n\nFor trust/context, the project about/verification page is here: https://jobs.hanzilla.co/about/\n\nNo worries if external companion links are out of scope — just wanted to suggest it for Canadian students landing here from search.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this Product Management internship tracker. Would you consider adding a small Canada-specific companion resource link for students who use this repo but want more Canadian stu...",
+      "issueState": "open",
+      "contentHash": "81aff8b9fb08757ba3e58bad9c9cf3f887bd1f39bdf761b80af334256a676134",
+      "repository": "jobright-ai/2026-Product-Management-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-Internship",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-Internship"
+      },
+      "createdAt": "2026-06-04T06:39:41Z",
+      "updatedAt": "2026-06-04T06:39:41Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_83b66ce2daefa84016b71185",
       "sourceId": "programadores-br/geral#3077",
@@ -716,41 +749,6 @@
       "createdAt": "2026-05-21T11:12:53Z",
       "updatedAt": "2026-07-25T03:11:36Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1255",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_73e0c5d98159d349f10f4fa9",
-      "sourceId": "programadores-br/geral#3070",
-      "title": "[Remoto] Product Designer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/product-designer-133541639?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar na interseção entre pesquisa, design e produto — transformando problemas reais de usuários em experiências claras, funcionais e bem acabadas. Esta pessoa deve cobrir todo o ciclo de design: entender o problema, explorar soluções, validar hipóteses e entregar interfaces prontas para implementação.\n\nBuscamos uma pessoa com visão de produto, rigor de pesquisa e domínio de UI — que não espere o problema chegar pronto e entenda que design bem feito é design que resolve.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Conduzir pesquisas com usuários — entrevistas, testes de usabilidade, análise de comportamento — e transformar achados em decisões de produto\n    \n*   Participar ativamente de sessões de discovery junto com Produto e Engenharia, trazendo perspectiva de usuário e viabilidade de experiência\n    \n*   Criar e iterar wireframes, protótipos e fluxos de navegação com clareza de escopo e hipótese a testar\n    \n*   Validar soluções com usuários antes e depois da entrega, documentando aprendizados de forma reutilizável\n    \n*   Desenvolver e manter componentes no Design System da Arbitralis, garantindo consistência visual e coerência de padrões\n    \n*   Produzir telas em alta fidelidade prontas para handoff — com especificações claras, estados mapeados e edge cases cobertos\n    \n*   Colaborar com o time de Desenvolvimento no handoff e acompanhar a implementação para garantir fidelidade à intenção de design\n    \n*   Contribuir para a evolução dos processos de design do time, incluindo critérios de qualidade, templates e documentação\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - Figma \n- Prototipação \n- UX/UI \n-  Design de Interface (UI Design & Design System)\n## Local: \n Remota\n## Requisitos: \n - Experiência como Product Designer ou UX/UI Designer em produto digital \n- Portfólio com casos que demonstrem processo — do problema à entrega — não apenas telas finais \n- Domínio de Figma: componentes, Auto Layout, prototipação e organização de arquivos \n- Experiência com pesquisa com usuários: entrevistas, testes de usabilidade e síntese de insights \n- Familiaridade com Design Systems: uso, manutenção e evolução de componentes \n- Experiência de colaboração com times de Engenharia em handoff e acompanhamento de implementação \n- Visão de produto: Entende o problema antes de abrir o Figma — conecta decisão de design a impacto real \n- Autonomia: Conduz seu próprio ciclo de trabalho sem depender de briefing detalhado para avançar \n- Rigor sem perfeccionismo: Sabe quando iterar e quando entregar — não trava na busca pela tela perfeita \n- Colaboração: Trabalha bem com Produto, Engenharia e CS; comunica decisões de design com clareza \n- Organização: Mantém arquivos, componentes e documentação organizados e acessíveis para o time \n- Curiosidade: Busca entender o usuário de verdade — não assume, pesquisa\n## Diferenciais: \n - Experiência prévia em design de produtos com IA, agentes conversacionais ou interfaces de chat \n- Uso fluente de Figma AI, v0, Galileo ou ferramentas similares para acelerar exploração e prototipação \n- Familiaridade com legaltech, fintechs ou produtos B2B voltados a fluxos complexos e usuários não técnicos \n- Experiência com métricas de UX e análise de dados de comportamento (Hotjar, Mixpanel ou similares) \n- Histórico de contribuição para evolução de Design Systems em times de produto\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Product Designer na Arbitralis](https://coodesh.com/jobs/product-designer-133541639?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UX",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "53a8960cec32cf9c334263854505d3dccdd0a33bb94b319c4b9c24b2598e3019",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-19T17:34:15Z",
-      "updatedAt": "2026-05-19T17:34:38Z",
-      "url": "https://github.com/programadores-br/geral/issues/3070",
       "sourceType": "github-issue"
     }
   ]
