@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-07-30T13:41:42.618Z",
+  "generatedAt": "2026-07-30T22:01:09.995Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_78bd5ed6303a4f36ae15da78",
     "gh_31d3c208b2b39f35424db09f",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
@@ -22,10 +23,49 @@
     "gh_3074e9f6173315eedc1a54e6",
     "gh_1064af9b7fc9aca6eda2af2d",
     "gh_04e16e2c007892d76818f4d4",
-    "gh_ba4f8e13f468e4ef55d8683c",
-    "gh_046e40a5a4aaffa9b0373703"
+    "gh_ba4f8e13f468e4ef55d8683c"
   ],
   "items": [
+    {
+      "id": "gh_78bd5ed6303a4f36ae15da78",
+      "sourceId": "backend-br/vagas#12247",
+      "title": "[Remoto] Desenvolvedor(a) Back-end .NET — Junior/Pleno - PJ",
+      "description": "## Nossa empresa\nA StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como um centro tecnológico dos nossos parceiros — com foco total em resultados e comprometimento com os objetivos de cada cliente.\n\nNossa stack é primordialmente Microsoft, e temos expertise consolidada na integração de intranets e extranets com sistemas de ERP, CRM e outros legados. Contamos com equipes multidisciplinares que cobrem desde arquitetura de informação e design até desenvolvimento front-end (Angular, HTML5, CSS, SEO) e back-end (MVC, .NET, C#).\n\nUma carteira sólida de projetos de sucesso e muito retorno para nossos clientes é o que resume nossa trajetória: construída com trabalho, dedicação e entrega de verdade.\n\n## Descrição da vaga\nBuscamos um(a) **Desenvolvedor(a) Back-end .NET Junior/Pleno** para integrar nosso time de engenharia. Você será responsável pelo desenvolvimento e manutenção de APIs REST, modelagem de dados e evolução de sistemas — incluindo produtos modernos e legados em .NET Framework.\n\nJúnior: Esperamos uma base conceitual firme em C# e SQL, proatividade para investigar bugs, fazer perguntas essenciais e, principalmente, dedicação para acelerar a curva de aprendizado nas ferramentas que ainda não domina.\n\n## Local\n🌐 Remoto\n\n## Requisitos\n**Obrigatórios**\n- .NET Core / .NET 6 ou superior\n- Desenvolvimento de APIs REST com ASP.NET Core\n- Bancos de dados relacionais (SQL Server ou PostgreSQL)\n- Modelagem de dados e escrita de queries SQL\n- Versionamento com Git\n\n**Diferenciais**\n- .NET Framework (manutenção de sistemas legados)\n- ASP.NET MVC ou Web Forms\n- Noções de arquitetura em camadas ou Clean Architecture\n\n## Benefícios\n- Horário flexível\n\n## Contratação\n- PJ\n\n## Como se candidatar\nEnvie seu currículo com pretensão salarial para: **recrutamento@starcorp.com.br**",
+      "excerpt": "## Nossa empresa A StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como...",
+      "issueState": "open",
+      "contentHash": "98bc7bfbe97f0c7525dbc8f4a767ad31541443bf1fad73ddf9982a5e167994d4",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "sênior",
+        "júnior",
+        ".net",
+        "remoto",
+        "postgresql",
+        "sql"
+      ],
+      "author": {
+        "id": "RaulFerreiraSilva",
+        "name": "RaulFerreiraSilva",
+        "handle": "RaulFerreiraSilva",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/105366476?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-28T18:32:38Z",
+      "updatedAt": "2026-07-30T02:03:50Z",
+      "url": "https://github.com/backend-br/vagas/issues/12247",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_31d3c208b2b39f35424db09f",
       "sourceId": "react-brasil/vagas#3011",
@@ -726,46 +766,6 @@
       "createdAt": "2026-05-14T11:23:47Z",
       "updatedAt": "2026-05-14T11:24:06Z",
       "url": "https://github.com/programadores-br/geral/issues/3067",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_046e40a5a4aaffa9b0373703",
-      "sourceId": "backend-br/vagas#12232",
-      "title": "[Remoto] Desenvolvedor Full-Stack Pleno - Igma",
-      "description": "## **Nossa empresa**\n\nA **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n## **Descrição da vaga**\n\nNa **Igma**, como **Dev Full-Stack,** você será responsável por:\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação\n\n## Local\n\n100% Remoto\n\n## **Requisitos**\n\n- Experiência comprovada de ao menos 2 anos com desenvolvimento fullstack.\n- Experiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\n- Experiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\n- Conhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\n- Experiência com integração de APIs REST e/ou GraphQL.\n- Conhecimento em bancos de dados relacionais e não relacionais.\n- Controle de versão com Git.\n- Boas práticas de testes automatizados (unitários e integração).\n- Familiaridade com pipelines de CI/CD.\n- Conhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n## **Benefícios**\n\n- Trabalho 100% remoto\n- Plano de Saúde individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## **Contratação**\n\nPJ\n\n## **Como se candidatar**\n\nhttps://jobs.quickin.io/igma/jobs/69fc945c7999060013a0d997\n\n\n### **Nível**\n\n- Pleno\n\n### **Regime**\n\n- PJ\n\n### **Alocação**\n\n- Remoto",
-      "excerpt": "## **Nossa empresa** A **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado t...",
-      "issueState": "open",
-      "contentHash": "1df3a1842044574352bfca20ba7a04372b868bf6662de36159c1e445a4cb7b26",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "node.js",
-        "remoto",
-        "testes automatizados",
-        "git",
-        "stale",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-07T13:54:55Z",
-      "updatedAt": "2026-07-28T19:48:44Z",
-      "url": "https://github.com/backend-br/vagas/issues/12232",
       "sourceType": "github-issue"
     }
   ]
