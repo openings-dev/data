@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-07-31T02:03:00.720Z",
+  "generatedAt": "2026-07-31T05:58:49.865Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_78bd5ed6303a4f36ae15da78",
+    "gh_31d3c208b2b39f35424db09f",
+    "gh_1f61de8de06b483a9a82d5f4",
+    "gh_9dbea54460036bccbb80c963",
     "gh_566d86aa7ae946d501efb44f",
     "gh_e9177ae252d1679b2e5d82c5",
     "gh_5708c7b7c69bc276f6fb8941",
     "gh_5d54a463e13b23bbe38791ce",
     "gh_2d9849eace549284f519bf16",
     "gh_24b11f8f8ff090708a67e44c",
-    "gh_2d895bac96564681581385bb",
-    "gh_bacefe5602e4e742e8cdf5f9",
     "gh_3ca6bfcccb91efa2b245a1f6",
     "gh_87ff6095a89da3f020be3eb8",
     "gh_73e0c5d98159d349f10f4fa9",
@@ -21,11 +23,156 @@
     "gh_04e16e2c007892d76818f4d4",
     "gh_ba4f8e13f468e4ef55d8683c",
     "gh_046e40a5a4aaffa9b0373703",
-    "gh_08c2b289f0b0fbaf5bd9f142",
-    "gh_23e88f37c8cdd99dec55a249",
-    "gh_42aec3e02f4705505e208eb2"
+    "gh_08c2b289f0b0fbaf5bd9f142"
   ],
   "items": [
+    {
+      "id": "gh_78bd5ed6303a4f36ae15da78",
+      "sourceId": "backend-br/vagas#12247",
+      "title": "[Remoto] Desenvolvedor(a) Back-end .NET — Junior/Pleno - PJ",
+      "description": "## Nossa empresa\nA StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como um centro tecnológico dos nossos parceiros — com foco total em resultados e comprometimento com os objetivos de cada cliente.\n\nNossa stack é primordialmente Microsoft, e temos expertise consolidada na integração de intranets e extranets com sistemas de ERP, CRM e outros legados. Contamos com equipes multidisciplinares que cobrem desde arquitetura de informação e design até desenvolvimento front-end (Angular, HTML5, CSS, SEO) e back-end (MVC, .NET, C#).\n\nUma carteira sólida de projetos de sucesso e muito retorno para nossos clientes é o que resume nossa trajetória: construída com trabalho, dedicação e entrega de verdade.\n\n## Descrição da vaga\nBuscamos um(a) **Desenvolvedor(a) Back-end .NET Junior/Pleno** para integrar nosso time de engenharia. Você será responsável pelo desenvolvimento e manutenção de APIs REST, modelagem de dados e evolução de sistemas — incluindo produtos modernos e legados em .NET Framework.\n\nJúnior: Esperamos uma base conceitual firme em C# e SQL, proatividade para investigar bugs, fazer perguntas essenciais e, principalmente, dedicação para acelerar a curva de aprendizado nas ferramentas que ainda não domina.\n\n## Local\n🌐 Remoto\n\n## Requisitos\n**Obrigatórios**\n- .NET Core / .NET 6 ou superior\n- Desenvolvimento de APIs REST com ASP.NET Core\n- Bancos de dados relacionais (SQL Server ou PostgreSQL)\n- Modelagem de dados e escrita de queries SQL\n- Versionamento com Git\n\n**Diferenciais**\n- .NET Framework (manutenção de sistemas legados)\n- ASP.NET MVC ou Web Forms\n- Noções de arquitetura em camadas ou Clean Architecture\n\n## Benefícios\n- Horário flexível\n\n## Contratação\n- PJ\n\n## Como se candidatar\nEnvie seu currículo com pretensão salarial para: **recrutamento@starcorp.com.br**",
+      "excerpt": "## Nossa empresa A StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como...",
+      "issueState": "open",
+      "contentHash": "98bc7bfbe97f0c7525dbc8f4a767ad31541443bf1fad73ddf9982a5e167994d4",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "sênior",
+        "júnior",
+        ".net",
+        "remoto",
+        "postgresql",
+        "sql"
+      ],
+      "author": {
+        "id": "RaulFerreiraSilva",
+        "name": "RaulFerreiraSilva",
+        "handle": "RaulFerreiraSilva",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/105366476?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-28T18:32:38Z",
+      "updatedAt": "2026-07-30T02:03:50Z",
+      "url": "https://github.com/backend-br/vagas/issues/12247",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_31d3c208b2b39f35424db09f",
+      "sourceId": "react-brasil/vagas#3011",
+      "title": "Desenvolvedor(a) Mobile iOS/Android (React Native/Expo) no Instituto Conhecimento Liberta",
+      "description": "## Descrição da vaga\n\nO Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, estabilidade e experiência do usuário.\n\nBuscamos perfis com boa autonomia, pensamento analítico e capacidade de construir soluções robustas, atuando de forma integrada com backend, produto e design.\n\n## Responsabilidades\n\n**Desenvolvimento e manutenção**\n\n- Desenvolver e manter aplicativos mobile utilizando React Native e Expo\n- Implementar experiências híbridas com WebView, criando pontes entre camadas nativa e web\n- Garantir compatibilidade e performance em iOS e Android\n- Evoluir a arquitetura dos aplicativos com foco em escalabilidade\n\n**Integrações e funcionalidades**\n\n- Integrar APIs externas e serviços de backend\n- Implementar notificações push e estratégias de engajamento\n- Desenvolver funcionalidades nativas quando necessário (câmera, geolocalização, biometria, armazenamento local)\n\n**Qualidade e publicação**\n\n- Gerenciar builds, testes e processos de publicação nas lojas\n- Monitorar crashes, performance e métricas de uso\n- Atuar em conjunto com backend e produto na definição de soluções técnicas\n\n## Requisitos\n\n**Desenvolvimento mobile**\n\n- Experiência sólida com React Native e Expo\n- Conhecimento do ciclo completo de publicação em App Store e Google Play\n- Experiência com implementação de push notifications\n- Domínio de navegação, gerenciamento de estado e consumo de APIs REST\n\n**Dados e armazenamento**\n\n- Experiência com armazenamento local e bancos de dados embarcados\n- Conhecimento em estratégias de cache e funcionamento offline\n\n**Autenticação e segurança**\n\n- Experiência com OAuth, JWT e login social (Google/Apple)\n- Boas práticas de armazenamento seguro de tokens e credenciais\n\n**Tecnologias base**\n\n- Proficiência em JavaScript e/ou TypeScript moderno\n- Familiaridade com Git e fluxos de CI/CD\n- Conhecimento em deep linking e universal links\n\n## Competências comportamentais\n\n- Autodidatismo e aprendizado contínuo\n- Proatividade na resolução de problemas\n- Boa comunicação com equipes multidisciplinares\n- Organização e autonomia para trabalho remoto\n- Adaptabilidade a novas tecnologias\n- Compromisso com prazos e entregas\n\n## Como se candidatar\n\nAcesse o link da vaga: https://editoraelivrariaconhecimentolibertaltda.pandape.infojobs.com.br/Detail?id=3155110\n\n## Labels\n\n- 🏢 Remoto",
+      "excerpt": "## Descrição da vaga O Instituto Conhecimento Liberta (ICL) busca Desenvolvedores(as) Mobile com experiência em React Native/Expo para atuar na criação, evolução e manutenção de aplicativos, com foco em performance, e...",
+      "issueState": "open",
+      "contentHash": "955ee11ccbb1bcb5273cd87ccdeb2b01b66784d1d40ac93cd6a26753ef49a407",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "🏢 remoto",
+        "stale"
+      ],
+      "author": {
+        "id": "luismda",
+        "name": "luismda",
+        "handle": "luismda",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88680118?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "companyName": "Instituto Conhecimento Liberta",
+      "createdAt": "2026-05-28T15:21:46Z",
+      "updatedAt": "2026-07-29T02:47:18Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3011",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1f61de8de06b483a9a82d5f4",
+      "sourceId": "nerdzao/vagas#191",
+      "title": "[Híbrido/SP] Pessoa Desenvolvedora Backend Sr (JAVA) - Viaflow",
+      "description": "Nossa empresa\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado em projetos de modernização em larga escala e soluções SaaS do zero (greenfield).\n\nSe você tem domínio profundo em Java 21, Quarkus e arquitetura de microsserviços orientada a eventos, #VemPraViaflow!\n\n✨ Se identificou? Então vem com a gente!\n\nLocal\nHíbrido - 3x por semana presencial na região da Av. Paulista-SP\n\nRequisitos\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em ambientes Enterprise.\nDomínio de Java: Experiência prática com Java 21, incluindo Streams, programação funcional e assíncrona (Futures/CompletableFutures).\nFrameworks e ORM: Experiência com Quarkus, JDBC e frameworks de ORM.\nArquitetura Moderna: Sólido conhecimento em Microsserviços e padrões de design orientados a eventos.\nDados: Experiência com bancos de dados baseados em documentos, especificamente MongoDB.\nCloud: Familiaridade com GCP (preferencial), AWS ou outras nuvens de mercado.\nProcessos: Familiaridade com metodologias Ágeis (Scrum/Kanban) e controle de versão com Git.\nEvent Driven Architecture\n\n🏆 Diferenciais (O que valorizamos)\nExperiência com Google Pub/Sub e Kafka.\nFamiliaridade com Azure DevOps e construção de Pipelines.\nVivência prévia em projetos SaaS de escala global ou modernização de sistemas legados.\n\n🤝 Soft Skills\nCapacidade de adaptação a desafios únicos e entrega de soluções classe \"Enterprise\".\nHabilidade de comunicação e apresentação para sessões de desenho técnico.\nPerfil mentor para guiar membros remotos ou offshore.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nBenefícios\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus e Starbem\n\nContratação\nCooperativa\n\nComo se candidatar\nSe inscreve através do link: https://viaflow.gupy.io/jobs/11365530?jobBoardSource=gupy_public_page\n\nNível\nSênior\n\nRegime\nCooperado\n\nAlocação\nHíbrido",
+      "excerpt": "Nossa empresa Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Desenvolvedora Java Backend Sênior de altíssimo nível para atuar em um cliente global, focado...",
+      "issueState": "open",
+      "contentHash": "2fc01278c009d5c1f04db3ab1217bceecb1f162af09e7cadae08ac22860ffae9",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "java",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-05-26T18:22:15Z",
+      "updatedAt": "2026-05-26T18:22:15Z",
+      "url": "https://github.com/nerdzao/vagas/issues/191",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_9dbea54460036bccbb80c963",
+      "sourceId": "programadores-br/geral#3074",
+      "title": "[São Paulo, Brasil] Designer Gráfico na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/designer-grafico-120813593?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa criativa, proativa e com perfil “hands on” para atuar no desenvolvimento de materiais visuais e apoiar a construção da comunicação da marca. Procuramos alguém que goste de ambientes dinâmicos, tenha olhar estratégico para design e queira crescer junto com um time colaborativo e em constante evolução.\n\n#### Responsabilidades:\n\n*   Desenvolver materiais gráficos para canais digitais e offline;\n    \n*   Criar peças para redes sociais, campanhas, e-mails e apresentações institucionais/comerciais;\n    \n*   Garantir consistência visual da marca em diferentes pontos de contato;\n    \n*   Participar ativamente da construção criativa dos projetos, trazendo ideias e sugestões;\n    \n*   Apoiar na organização e evolução dos materiais e identidade visual.\n    \n\n \n\n#### O que esperamos:\n\n*   Pessoa organizada, proativa e com bom senso de prioridade;\n    \n*   Boa comunicação e facilidade de relacionamento interpessoal;\n    \n*   Perfil colaborativo e adaptável a ambientes dinâmicos;\n    \n*   Capacidade de atuar com autonomia e em parceria com diferentes áreas;\n    \n*   Criatividade aliada à atenção aos detalhes;\n    \n*   Interesse em contribuir com processos e evolução contínua.\n## Coodesh Carreiras: \n <p>Nós somos a Coodesh, uma plataforma que conecta pessoas da área de tecnologia em oportunidades 100% remotas de nossas empresas parceiras.</p>\n<p>Em nossa plataforma você encontra posições de diversos níveis, tecnologias e modelos de contratação, de variadas empresas com diversas culturas e que oferecem diversos desafios, pensando sempre em atender as expectativas e objetivos de nossas pessoas candidatas.</p><a href='https://coodesh.com/companies/coodesh-selected'>Veja mais no site</a>\n\n## Local: \n São Paulo, Brasil\n## Requisitos: \n - Experiência com design gráfico para materiais digitais e offline; \n- Domínio do pacote Adobe (Photoshop, Illustrator e InDesign); \n- Experiência na criação de apresentações institucionais e comerciais; \n- Conhecimento em composição visual, tipografia e identidade de marca; \n- Organização para gestão de múltiplas demandas; \n- Conhecimento em Figma.\n## Diferenciais: \n - Conhecimento em motion design e edição de vídeo; \n- Vivência com Design Systems; \n- Experiência em ambientes e equipes em crescimento; \n- Conhecimento em branding e comunicação digital.\n## Benefícios: \n - Day off de aniversário; \n- Telemedicina; \n- Convênio médico e odontológico; \n- Seguro de vida; \n- Descontos em farmácias; \n- Benefícios educacionais e parcerias; \n- Acesso a programas de bem-estar e qualidade de vida.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Designer Gráfico na Coodesh Carreiras](https://coodesh.com/jobs/designer-grafico-120813593?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nGestão",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "07eadcd5bf02b07b4e8d4c82bcfa25c0e13d2a0cf8ac9e85ebb385d800c8bf16",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-26T12:37:31Z",
+      "updatedAt": "2026-05-26T12:37:31Z",
+      "url": "https://github.com/programadores-br/geral/issues/3074",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_566d86aa7ae946d501efb44f",
       "sourceId": "programadores-br/geral#3073",
@@ -245,81 +392,6 @@
       "createdAt": "2026-05-22T17:31:55Z",
       "updatedAt": "2026-05-22T17:32:17Z",
       "url": "https://github.com/programadores-br/geral/issues/3071",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2d895bac96564681581385bb",
-      "sourceId": "dotnetdevbr/vagas#1049",
-      "title": "[Remoto] Desenvolvedor .NET/Angular Sênior Nna DB1",
-      "description": "## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Descrição da vaga\n\nO que você vai fazer por aqui: \n\nDesenvolver e implementar funcionalidades novas e existentes em aplicativos .NET e Angular;\nColaborar com equipes multidisciplinares para entender requisitos e transformá-los em soluções técnicas;\nEscrever código limpo, eficiente e reutilizável;\nRealizar testes e depuração de aplicativos para garantir a qualidade e o desempenho;\n\n## Local\n\nRemoto\n\n## Requisitos\n\n✅ Experiência sólida com .NET\n✅ Experiência sólida com Angular.\n✅ Inglês fluente para comunicação no dia a dia.\n✅ Perfil colaborativo, que gosta de autonomia e vontade de construir soluções de alto impacto.\n\n**Diferenciais:**\nExperiência em projetos internacionais.\n\n## Benefícios\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nhttps://db1.inhire.app/vagas/d94ce7cf-3ef3-4954-90f2-697dff98dc09/desenvolvedor-netangular-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n- Sênior",
-      "excerpt": "## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida da...",
-      "issueState": "open",
-      "contentHash": "07bd7dbf894baa307af54617925fa44cff009f1ab285105d336a16f37bd1e7e7",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "sênior",
-        "stale",
-        "💰 nao informado"
-      ],
-      "author": {
-        "id": "hadamaller",
-        "name": "hadamaller",
-        "handle": "hadamaller",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "createdAt": "2026-05-22T17:22:34Z",
-      "updatedAt": "2026-07-26T02:06:10Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1049",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bacefe5602e4e742e8cdf5f9",
-      "sourceId": "dotnetdevbr/vagas#1048",
-      "title": "[Remoto]Desenvolvedor .Net Sênior na DB1",
-      "description": "## Nossa empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n\n## Descrição da vaga\n\nVocê vai ser nossa pessoa Sênior de .Net dentro de uma squad híbrida em um cliente DGS, um ambiente em que você é o ponto técnico DB1 do projeto, lado a lado com pessoas do cliente e de outros parceiros. O dia a dia alterna entre construir features novas em .Net (ASP.NET Core 6+, EF Core), evoluir APIs existentes, refatorar legado, integrar serviços e fazer troubleshoot em produção. Quando a demanda pede, você também encara o lado Apex/Salesforce: customização de fluxos, integração Salesforce.Net, automações e relatórios.\n\nVocê participa das cerimônias com o cliente (daily, planning, review) e conversa direto com PO e usuários, então tem espaço pra propor, questionar e influenciar a solução técnica. O foco é dev puro: sem responsabilidade por deploy, monitoramento ou on-call no seu escopo. E como o time acabou de entrar em um fluxo com IA (Copilot já liberado), saber usar bem essas ferramentas no codar do dia a dia é parte do jogo.\n\n## Local\n\nRemoto \n\n## Requisitos\n\n**Obrigatórios:**\nDomínio sólido de ASP.NET Core 6+ e EF Core\nExperiência com .NET Framework (legado)\nAplicação consistente de SOLID e Clean code em código real\nUso ativo de Copilot pra codar, gerar testes e revisar PRs\nDomínio prático de prompt engineering aplicado ao desenvolvimento\nApoia decisões técnicas conectadas às necessidades de negócio\nQuestiona o time de negócio pra garantir que a solução resolve o problema certo\nPesquisa e aplica novas tecnologias no dia a dia, sem esperar permissão\n\n**Diferenciais:**\nSalesforce/Apex (parte recorrente das demandas)\nJava (a sintaxe ajuda na transição pra Apex)\nOutras ferramentas de IA além do Copilot (Claude, Antigravity, Gemini)\n\n## Benefícios\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n## Contratação\nCLT\n\n## Como se candidatar\nhttps://db1.inhire.app/vagas/c3298b61-fe86-46a7-9052-bb4839b2732f/desenvolvedor-net-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7\n\n\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n\n\n#### Nível\n- Sênior",
-      "excerpt": "## Nossa empresa Na DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida da...",
-      "issueState": "open",
-      "contentHash": "9fc5c7dad500a645417b699d045b7a1178d5149ccd759ad8d6de8d57b86281c5",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "sênior",
-        "stale",
-        "💰 nao informado"
-      ],
-      "author": {
-        "id": "hadamaller",
-        "name": "hadamaller",
-        "handle": "hadamaller",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "companyName": "DB1",
-      "createdAt": "2026-05-22T17:20:22Z",
-      "updatedAt": "2026-07-26T02:06:08Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1048",
       "sourceType": "github-issue"
     },
     {
@@ -690,73 +762,6 @@
       "createdAt": "2026-05-05T18:56:03Z",
       "updatedAt": "2026-05-06T15:39:22Z",
       "url": "https://github.com/cncf/gitjobs/issues/383",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_23e88f37c8cdd99dec55a249",
-      "sourceId": "datascience-br/vagas#161",
-      "title": "Engenheiro de Dados ETL/ ELT Sênior na ZUP - 100% remoto",
-      "description": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!**\n\n**O que você fará por aqui**\n\n- Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, garantindo alta performance e qualidade dos dados.\n- Orquestrar rotinas complexas de processamento e integração de dados via AWS Step Functions.\n- Executar análises e validações robustas utilizando SQL e Athena, assegurando integridade e confiabilidade das informações.\n- Colaborar com times multidisciplinares para identificar necessidades de dados e propor soluções técnicas aderentes às demandas do negócio.\n- Investigar falhas, propor e implementar melhorias contínuas na arquitetura e nos processos de dados.\n- Documentar soluções, fluxos de dados e boas práticas para promover o alinhamento técnico entre as equipes.\n\n **O que esperamos que você saiba**\n\n- Excelência em desenvolvimento de pipelines usando PySpark no AWS Glue.\n- Domínio de AWS Step Functions para orquestração de pipelines e agendamento de processos.\n- Sólido conhecimento em SQL para consultas avançadas e validações em grandes volumes de dados.\n- Experiência no uso do Athena para exploração, análise e auditoria de dados.\n- Capacidade de monitorar qualidade dos dados e solucionar problemas complexos em ambientes críticos.\n\n **O que será um diferencial**\n\n- Prática com AWS QuickSight para criação de dashboards e visualização de dados.\n- Conhecimento em estratégias avançadas de monitoramento, observabilidade e automação de processos.\n- Experiência em ambientes de dados altamente regulados (LGPD, GDPR).\n- Familiaridade com novas ferramentas de data engineering no ecossistema AWS (como Lake Formation ou Glue DataBrew).\n- Atuação prévia em projetos de melhoria contínua com foco em performance ou escalabilidade.\n\nUm pouco de nossos beneficios:\n\nPLR : \n🍕 VR/VA Flash R$1.440,00\n📱 Plano de celular Vivo Easy ou Claro com reembolso \n🏡 Auxílio Home Office, ajuda de custo de internet \n📚 Capacitação anual  - a partir do 4º mês - para investir em livros, cursos, palestras. A Zup reembolsa 75% do valor dessas capacitações, dentro desse budget)\n🏥 Plano de Saúde SulAmérica ou Unimed\n🦷 Plano Odontológico SulAmérica\n👶 Auxílio creche / Licença paternidade até 90 dias / Licença maternidade até 180 dias\n⭐ Seguro de vida\n💪 Gympass\n💭 Telavita (psicólogo online com 5 sessões gratuitas por mês)\n💵 Bônus por indicação\n🚀 2 Days Off ao ano e Liberdade para trabalhar de onde quiser\ne mais!\n\n\nCandidate-se  enviando seu currículo para o seguinte email:  kauany.riotinto@zup.com.br\n**No título deve conter seu nome e o da vaga \" Engenheiro de Dados ETL/ELT Sênior\"**",
-      "excerpt": "**Desafio para atuar alocado em um dos maiores e mais inovadores bancos da América Latina!** **O que você fará por aqui** - Desenvolver e manter pipelines de dados escaláveis utilizando PySpark no AWS Glue e EMR, gara...",
-      "issueState": "open",
-      "contentHash": "76a9373fd1a6ec20ac048ad1423a63775d2f5b4f1922beaa564122d929065a50",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data"
-      ],
-      "author": {
-        "id": "KauanyFD",
-        "name": "KauanyFD",
-        "handle": "KauanyFD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2026-05-04T17:18:52Z",
-      "updatedAt": "2026-05-12T12:20:37Z",
-      "url": "https://github.com/datascience-br/vagas/issues/161",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_42aec3e02f4705505e208eb2",
-      "sourceId": "qa-brasil/vagas#1252",
-      "title": "[Brasília] QA Jr na Devvo Tecnologia",
-      "description": "**Descrição da vaga**\nAqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente dinâmico e repleto de oportunidades de crescimento, sua busca termina aqui! Sediados em Brasília, nossa missão é impulsionar a sociedade por meio de soluções de ponta, conduzindo a transformação digital de empresas de todos os portes.\n\nJunte-se a nós e colabore ativamente no fortalecimento e aprimoramento da nossa equipe de tecnologia. Você terá a oportunidade de participar do desenvolvimento e manutenção de soluções de software de alto desempenho, trabalhando lado a lado com equipes multidisciplinares que garantem a excelência na execução e entrega de projetos ambiciosos.\n\n\n**Responsabilidades:**\n\n\n\nAuxílio na realização de testes de qualidade para assegurar a boa performance dos sistemas;\nHabilidade em identificar e reportar bugs de forma clara e precisa;\nContribuição no desenvolvimento de projetos web e mobile;\nColaboração na melhoria contínua dos processos internos de gestão e desenvolvimento de projetos.\n\n\n**Requisitos:**\n\n\n\nProficiência em metodologias ágeis;\nBoas habilidades de comunicação e trabalho em equipe;\nConhecimento básico de Javascript / Typescript;\nExperiência prévia em meio corporativo como analista de qualidade (min 6 meses);\n\n\n**Diferenciais:**\n\n\n\nConhecimento básico de Javascript / Typescript;\nConhecimento em ferramentas de automação de testes, como Selenium, Cypress ou Playwright.\n\n\n**Junte-se a Nós:**\n\n\n\nSe você está pronto(a) para um desafio estimulante em um ambiente colaborativo e inovador, este é o momento! Venha fazer parte da nossa equipe dedicada e impulsione sua carreira conosco na Devvo Tecnologia.\n\n\n**Como se candidatar:\n\nEnvie seu Currículo atualizado para o e-mail contato@devvo.com.br \n\nPor favor, inclua no assunto do e-mail \"[Nome] - Analista de qualidade Jr.\". Aguardamos ansiosamente para conhecer você e discutir mais sobre essa oportunidade de trabalho.**\n\n\nRegime do trabalho:\n\nHibrido (2~3x no escritório);",
-      "excerpt": "**Descrição da vaga** Aqui na Devvo Tecnologia, estamos em busca de mentes inovadoras e apaixonadas por tecnologia que desejam trilhar um caminho de crescimento profissional e pessoal. Se você anseia por um ambiente d...",
-      "issueState": "open",
-      "contentHash": "3e9a1c78f3ed16b22ca7f62b9389594fcb6d6cec319b6608cc166eb07effaf71",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "brasília"
-      ],
-      "author": {
-        "id": "LucasCamposDevvo",
-        "name": "LucasCamposDevvo",
-        "handle": "LucasCamposDevvo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/191256669?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Devvo Tecnologia",
-      "createdAt": "2026-04-27T13:01:42Z",
-      "updatedAt": "2026-06-16T22:51:30Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1252",
       "sourceType": "github-issue"
     }
   ]

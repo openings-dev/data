@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-07-31T02:03:00.720Z",
+  "generatedAt": "2026-07-31T05:58:49.865Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_6d98037090e2b732742d2b11",
+    "gh_27c2250541f3aca4b4982d3d",
+    "gh_71e10b291f6b95046c3c84fa",
+    "gh_60b297ea76f69119ead4a4d5",
+    "gh_345438a912c4cb4b37d9e419",
     "gh_020d6f6dec261878af8d76eb",
     "gh_392870a4b63440945e50ff90",
     "gh_004b49621bd20b2dde844a3d",
@@ -18,14 +23,177 @@
     "gh_ce803112440f8cd9c316f902",
     "gh_c88696a50154a458901b1a45",
     "gh_b3efd79673d6278d2b7657e8",
-    "gh_c865b994f75388a544ac06ca",
-    "gh_32915f2f01cb0611e1b21676",
-    "gh_7a3e8a6bf3e9aceb6e4d3c30",
-    "gh_fdca83cb0404a0baab1c3fa4",
-    "gh_a971b0331e754ca00213a4e6",
-    "gh_e323bf398e40b8ae1f8c59bc"
+    "gh_c865b994f75388a544ac06ca"
   ],
   "items": [
+    {
+      "id": "gh_6d98037090e2b732742d2b11",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2940",
+      "title": "Create a Separate List for 2027 New Grad Roles",
+      "description": "### Improvement\n\n2027 new graduate roles have started opening, but they are currently mixed with roles intended for earlier graduating classes.\n\nIt would be helpful to create a separate section, page, or table specifically for **2027 New Grad positions**.\n\n### Suggested changes\n\n- Add a dedicated list for roles targeting students graduating in 2027.\n- Clearly display the eligible graduation year or graduation window for each position.\n- Keep 2026 and 2027 roles separated so applicants can quickly find relevant opportunities.\n- Optionally add a graduation-year filter if maintaining separate lists becomes difficult.\n\nThis would make the repository easier to navigate and prevent students from applying to roles for which they are not eligible.",
+      "excerpt": "### Improvement 2027 new graduate roles have started opening, but they are currently mixed with roles intended for earlier graduating classes. It would be helpful to create a separate section, page, or table specifica...",
+      "issueState": "open",
+      "contentHash": "1cc801524089525f82fcaea1890cd29622cab3985eca8eafdd8422cba6f69fc6",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "jatinS-dev",
+        "name": "jatinS-dev",
+        "handle": "jatinS-dev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66058203?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-07-15T15:28:36Z",
+      "updatedAt": "2026-07-15T15:28:36Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2940",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_27c2250541f3aca4b4982d3d",
+      "sourceId": "nerdzao/vagas#195",
+      "title": "[São Paulo]  Pessoa Engenheira de Python Sênior na Viaflow",
+      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Python Sênior de altíssimo nível para integrar nosso time de ML/AI.\n\n\nVocê ajudará a moldar a próxima geração de produtos inteligentes, tirando o aprendizado de máquina e a IA Generativa do laboratório e colocando-os nas mãos de usuários reais.\n\nSe você ama trabalhar na intersecção entre engenharia de software e Inteligência Artificial, e quer construir sistemas escaláveis desde o protótipo até a produção em Google Cloud Platform (GCP), #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nDesenvolvimento de Produtos IA: Projetar, desenvolver e implantar serviços de ML/AI de ponta a ponta, desde a integração de modelos até APIs voltadas para o cliente final.\nArquitetura Cloud Native: Construir arquiteturas orientadas a eventos e em tempo real utilizando Cloud Run, Kubernetes (GKE), Cloud Functions e Pub/Sub no ecossistema GCP.\nIntegração de LLMs: Integrar modelos baseados em transformers e LLMs em pipelines de inferência escaláveis, lidando com prompt engineering, formatação de saída e recuperação de erros.\nLiderança Técnica: Liderar sessões de design e whiteboarding, traduzindo requisitos de negócio em arquiteturas técnicas robustas, escaláveis e tolerantes a falhas.\nExcelência em Engenharia: Defender as melhores práticas: SOLID, CI/CD, observabilidade, testes rigorosos e infraestrutura como código (IaC).\nColaboração Multidisciplinar: Atuar em parceria com cientistas de dados, POs e outros engenheiros para alinhar prioridades e entregar de forma iterativa.\nVisão Full-Stack: Compreender como cada camada da stack se conecta (front-end, banco de dados, infra) para garantir a melhor performance e experiência do usuário.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\n\nSólida Experiência em Python: focada em desenvolvimento backend ou full-stack com Python.\nDomínio de Cloud: Histórico comprovado no design e implantação de aplicações nativas da nuvem (GCP preferencial; AWS/Azure considerados).\nSistemas Modernos: Experiência com microsserviços resilientes, arquiteturas orientadas a eventos e APIs RESTful/gRPC.\nContainerização: Experiência prática com Docker e Kubernetes.\nPadrões de Design: Domínio profundo de princípios SOLID e padrões de arquitetura.\nFerramentas de IA: Conforto no uso de ferramentas de IA para acelerar o throughput de desenvolvimento.\n🏆 Diferenciais (O que valorizamos)\n\nExperiência servindo modelos de ML ou LLMs em produção.\nFamiliaridade com RAG (Retrieval-Augmented Generation), busca vetorial (vector search) ou fluxos de fine-tuning.\nExposição a frameworks de orquestração de IA (LangChain, Google ADK, etc.).\nConhecimento em Terraform ou Pulumi e pipelines de CI/CD.\n🤝 Soft Skills\n\nAprendizado Implacável: Capacidade de aprender novas tecnologias rapidamente e Masterizar novos desafios.\nMentalidade de Dono (Ownership): Orgulho pelo código entregue, garantindo que esteja bem testado, documentado e monitorado.\nTeam Multiplier: Perfil colaborativo que eleva o nível das pessoas ao redor através de feedback sincero e troca de conhecimento.\nFoco em Entrega: Acredita que um protótipo funcional vale mais que mil apresentações.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nInformações adicionais\nContratação via modelo cooperativa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nClube do iFood gratuito\nTreinamentos e Certificações\nPacote Colab+ com acesso a WellHub, Avus e Starbem\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nTem interesse? Se inscreva através do link: https://viaflow.gupy.io/jobs/11637998?jobBoardSource=gupy_public_page",
+      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Python Sênior de altíssimo nível para integrar nosso time de ML/AI. Você aj...",
+      "issueState": "open",
+      "contentHash": "914f76c70e144b9ffbfc8e5129b11dca9f316da67e53655b239b8b32c57244c7",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "python",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "companyName": "Viaflow",
+      "createdAt": "2026-07-15T14:22:41Z",
+      "updatedAt": "2026-07-15T14:22:41Z",
+      "url": "https://github.com/nerdzao/vagas/issues/195",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_71e10b291f6b95046c3c84fa",
+      "sourceId": "speedyapply/2026-SWE-College-Jobs#45",
+      "title": "New Position",
+      "description": "### Position Title\n\nSoftware Engineer - Data Analytics Team\n\n### Position Application Link\n\nhttps://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp\n\n### Company Name\n\nSEACORP\n\n### Company Link\n\nhttps://www.seacorp.com/\n\n### Location\n\nManassas, VA | Middletown, RI\n\n### Is this a new grad position or an internship?\n\nNew Grad\n\n### Is this position based in the USA?\n\nYes, it's based in the USA.\n\n### Your GitHub Email\n\nnolanplatt1@gmail.com",
+      "excerpt": "### Position Title Software Engineer - Data Analytics Team ### Position Application Link https://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp ### Company Name SEACORP ### Company Link https://w...",
+      "issueState": "open",
+      "contentHash": "bc36a3975f42b4e14a293be0d57447a9689ed8a922ee416c977130ea7d3e1d30",
+      "repository": "speedyapply/2026-SWE-College-Jobs",
+      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "new"
+      ],
+      "author": {
+        "id": "nolanplatt",
+        "name": "nolanplatt",
+        "handle": "nolanplatt",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43970139?v=4"
+      },
+      "community": {
+        "id": "speedyapply",
+        "name": "speedyapply",
+        "avatarUrl": "https://github.com/speedyapply.png?size=80",
+        "repository": "speedyapply/2026-SWE-College-Jobs",
+        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
+      },
+      "createdAt": "2026-07-15T13:51:45Z",
+      "updatedAt": "2026-07-15T13:51:45Z",
+      "url": "https://github.com/speedyapply/2027-SWE-College-Jobs/issues/45",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_60b297ea76f69119ead4a4d5",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2939",
+      "title": "New Role",
+      "description": "### Link to Job Posting\n\nhttps://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp\n\n### Company Name\n\nSEACORP\n\n### Job Title\n\nSoftware Engineer - Data Analytics Team\n\n### Location\n\nManassas, VA | Middletown, RI\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nnolanplatt1@gmail.com\n\n### Extra Notes (Optional)\n\nWe are looking to hire ASAP! We haven't been getting a ton of candidates, so hoping this will help...",
+      "excerpt": "### Link to Job Posting https://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp ### Company Name SEACORP ### Job Title Software Engineer - Data Analytics Team ### Location Manassas, VA | Middletow...",
+      "issueState": "open",
+      "contentHash": "3afa042404deee41ed7ab645bfae96613b7b604381a7d66e09b5e8b684fdc322",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "nolanplatt",
+        "name": "nolanplatt",
+        "handle": "nolanplatt",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43970139?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-07-15T13:47:10Z",
+      "updatedAt": "2026-07-15T13:47:10Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2939",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_345438a912c4cb4b37d9e419",
+      "sourceId": "speedyapply/2026-SWE-College-Jobs#44",
+      "title": "New Position",
+      "description": "### Position Title\n\nTechnology Intern\n\n### Position Application Link\n\nhttps://grnh.se/wyfef0fb2us\n\n### Company Name\n\nMarshall Wace\n\n### Company Link\n\nhttps://www.mwam.com\n\n### Location\n\nNew York\n\n### Is this a new grad position or an internship?\n\nInternship\n\n### Is this position based in the USA?\n\nYes, it's based in the USA.\n\n### Your GitHub Email\n\n_No response_",
+      "excerpt": "### Position Title Technology Intern ### Position Application Link https://grnh.se/wyfef0fb2us ### Company Name Marshall Wace ### Company Link https://www.mwam.com ### Location New York ### Is this a new grad position...",
+      "issueState": "open",
+      "contentHash": "84e1321b21f2509f3433e124dfab1ed2a4476b4008df6c7af951893244557d69",
+      "repository": "speedyapply/2026-SWE-College-Jobs",
+      "repositoryUrl": "https://github.com/speedyapply/2026-SWE-College-Jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "new"
+      ],
+      "author": {
+        "id": "zrack23",
+        "name": "zrack23",
+        "handle": "zrack23",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/230143543?v=4"
+      },
+      "community": {
+        "id": "speedyapply",
+        "name": "speedyapply",
+        "avatarUrl": "https://github.com/speedyapply.png?size=80",
+        "repository": "speedyapply/2026-SWE-College-Jobs",
+        "url": "https://github.com/speedyapply/2026-SWE-College-Jobs"
+      },
+      "createdAt": "2026-07-15T12:01:43Z",
+      "updatedAt": "2026-07-15T12:01:43Z",
+      "url": "https://github.com/speedyapply/2027-SWE-College-Jobs/issues/44",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_020d6f6dec261878af8d76eb",
       "sourceId": "SimplifyJobs/New-Grad-Positions#2938",
@@ -588,221 +756,6 @@
       "createdAt": "2026-07-12T17:28:40Z",
       "updatedAt": "2026-07-17T10:28:07Z",
       "url": "https://github.com/backend-pt/vagas/issues/136",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_32915f2f01cb0611e1b21676",
-      "sourceId": "dotnetdevbr/vagas#1058",
-      "title": "[Remoto] Fullstack .NET + Angular Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack .NET + Angular Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Fullstack .NET + Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-net-angular-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "5b488d28b8cfb07c5ea840090772e78621dbf78c7e876d0825c67599a842823c",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:27:39Z",
-      "updatedAt": "2026-07-17T10:49:25Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1058",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7a3e8a6bf3e9aceb6e4d3c30",
-      "sourceId": "dotnetdevbr/vagas#1057",
-      "title": "[Remoto] Back-End Developer .NET Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "74b242d6ab2ca86ecdf7fd733d6e021186b49134f7afed6f0f09c43ba7dd3438",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:26:38Z",
-      "updatedAt": "2026-07-17T10:49:29Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1057",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fdca83cb0404a0baab1c3fa4",
-      "sourceId": "frontendbr/vagas#8522",
-      "title": "[Híbrido] Angular Front-End Developer Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Pleno",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "43fae9f08c48adfce4a0ee4f4a9d0a985e8b512e02da08745f38587d82bd6d78",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "clt",
-        "pj",
-        "remoto",
-        "híbrido"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:23:30Z",
-      "updatedAt": "2026-07-24T13:44:25Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8522",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a971b0331e754ca00213a4e6",
-      "sourceId": "frontendbr/vagas#8521",
-      "title": "[Remoto] Angular Front-End Developer Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Pleno",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "e7f192962eb9774cb427a593193d0993fc1a05a7d059b878375062f00796e03b",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "clt",
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:22:30Z",
-      "updatedAt": "2026-07-12T17:22:59Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8521",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e323bf398e40b8ae1f8c59bc",
-      "sourceId": "frontendbr/vagas#8520",
-      "title": "[Híbrido] Angular Front-End Developer Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Híbrido\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "891222bae44f8ac5111129ed84ebc325c86c9614deb730dd63b57ca42b43e439",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "pj",
-        "remoto",
-        "híbrido"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-12T17:21:20Z",
-      "updatedAt": "2026-07-12T17:21:42Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8520",
       "sourceType": "github-issue"
     }
   ]
