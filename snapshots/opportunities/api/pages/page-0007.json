@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-01T02:03:55.904Z",
+  "generatedAt": "2026-08-01T05:48:11.913Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_6cecacce85af40d5807f5d81",
     "gh_ef165c0b53e4e3bf05710db6",
     "gh_436c39f3e142335204f5ceab",
     "gh_f67d9cb98c7df392629587d1",
@@ -22,10 +23,54 @@
     "gh_020d6f6dec261878af8d76eb",
     "gh_392870a4b63440945e50ff90",
     "gh_004b49621bd20b2dde844a3d",
-    "gh_80e983f9f8c906cbe424c23d",
-    "gh_a03d32efd2752d6d4c66083e"
+    "gh_80e983f9f8c906cbe424c23d"
   ],
   "items": [
+    {
+      "id": "gh_6cecacce85af40d5807f5d81",
+      "sourceId": "soujava/vagas-java#1913",
+      "title": "[Remoto] Especialista Java + .NET (13+ anos) na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Especialista Java + .NET (13+ anos) nível Especialista para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 18.000 a 32.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Especialista\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 18.000–32.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/especialista-java-dotnet-13-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1ae38fa2a679a67abae5ff7166fc0d2b82f4ce0064448977bf00d2d0d7b2057f",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 18000,
+        "max": 32000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-17T13:07:27Z",
+      "updatedAt": "2026-07-17T13:07:40Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1913",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ef165c0b53e4e3bf05710db6",
       "sourceId": "awesome-jobs/vietnam#4972",
@@ -717,41 +762,6 @@
       "createdAt": "2026-07-14T17:25:36Z",
       "updatedAt": "2026-07-14T17:27:42Z",
       "url": "https://github.com/DevOps-Brasil/Vagas/issues/469",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a03d32efd2752d6d4c66083e",
-      "sourceId": "datascience-br/vagas#166",
-      "title": "[Belo Horizonte/MG - Híbrido] Cientista de Dados na BHS",
-      "description": "## Descrição da vaga\n\nProjeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics.\n\nSuas atividades serão:\n· Interpretar todo universo de dados da empresa;\n· Criar, treinar e validar modelos preditivos e prescritivos utilizando técnicas de IA tradicional (como machine learning) e IA generativa (como deep learning);\n· Interpretar os resultados dos modelos e análises para gerar insights acionáveis que suportem a tomada de decisão estratégica;\n· Desenvolvimento de modelos preditivos utilizando técnicas estatísticas e algoritmos de aprendizado de máquina (ex.: regressão logística, gradient boosting e modelos aplicados a Marketing Mix Modeling – MMM);\n· Realização de análises exploratórias, testes de hipóteses e estudos analíticos para apoiar iniciativas de risco, marketing e tomada de decisão.\n· Participação na descoberta e no desenho de soluções de Marketing Mix Modeling (MMM), incluindo análise de fontes de dados, definição de variáveis de mídia e avaliação de estruturas estatísticas e bayesianas;\n· Automação de pipelines de dados e rotinas diárias de scoring em ambiente de nuvem;\n· Documentação de metodologias, métricas de validação, processos de monitoramento de desempenho e definições analíticas para iniciativas de modelagem;\n· Trabalho em parceria com equipes de negócios, marketing, engenharia e produto.\n\n## Local\n\nHíbrido/BH (2x na semana)\n\n## Benefícios\n\n- Plano de saúde e Assistência Odontológica;\n- Vale Refeição/Alimentação no cartão Flash;\n- Auxílio Híbrido;\n- Gympass / Wellhub;\n- Seguro de vida;\n- Licença Maternidade/Paternidade estendida;\n- Parcerias e convênios diversos em educação, saúde e lazer (Universidades, escolas de Idioma, academias, clínicas de saúde...);\n\n...\n## Requisitos\n\n#### Obrigatórios:\n\n· Graduação em Ciência da Computação ou áreas afins;\n· Google Cloud;\n· Big query;\n· Linguagem de programação Python;\n· MLOPS (de maneira geral);\n· Estatística clássica\n· Data pipelines;\n· Docker (Conteiners).\n\n#### Desejáveis:\n\n· Vertex e cortex;\n· Keras/tensorflow;\n· Pytorch;\n· Scikit;\n· Xgboosd;\n· Kedro;\n· Streamlit.\n\n\n## Contratação\n\n- CLT\n\n## Nossa empresa\n\nNós somos a BHS!\nCom 31 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀\n\nSomos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.\n\n## Como se candidatar\n\n- https://bhs.gupy.io/jobs/11562751?jobBoardSource=gupy_public_page\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Alocado\n- Hibrido\n\n#### Regime\n- CLT\n\n#### Nível\n\n- Sênior",
-      "excerpt": "## Descrição da vaga Projeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics. Suas atividades serão: · Interpretar todo universo de dados da empresa; · Criar, treinar e validar mo...",
-      "issueState": "open",
-      "contentHash": "ac00b30acbbb9ae2adaeb701987026be40cab03fa307a97905ed6ccf7b34bd5a",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "thothismybro",
-        "name": "thothismybro",
-        "handle": "thothismybro",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/118479053?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "BHS",
-      "createdAt": "2026-07-14T12:53:20Z",
-      "updatedAt": "2026-07-14T12:56:35Z",
-      "url": "https://github.com/datascience-br/vagas/issues/166",
       "sourceType": "github-issue"
     }
   ]

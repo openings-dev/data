@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T02:03:55.904Z",
+  "generatedAt": "2026-08-01T05:48:11.913Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
@@ -14,7 +14,6 @@
     "gh_711783b1e589482d26973823",
     "gh_2c6305b33aff78c3ef09ce99",
     "gh_ae241d65a08eb0b2c7258d0c",
-    "gh_78bd5ed6303a4f36ae15da78",
     "gh_31d3c208b2b39f35424db09f",
     "gh_1f61de8de06b483a9a82d5f4",
     "gh_9dbea54460036bccbb80c963",
@@ -23,7 +22,8 @@
     "gh_5708c7b7c69bc276f6fb8941",
     "gh_5d54a463e13b23bbe38791ce",
     "gh_2d9849eace549284f519bf16",
-    "gh_24b11f8f8ff090708a67e44c"
+    "gh_24b11f8f8ff090708a67e44c",
+    "gh_3ca6bfcccb91efa2b245a1f6"
   ],
   "items": [
     {
@@ -353,7 +353,8 @@
         "sênior",
         "presencial",
         "especialista",
-        "inglês"
+        "inglês",
+        "stale"
       ],
       "author": {
         "id": "jesspinheiro93",
@@ -370,48 +371,8 @@
       },
       "companyName": "Viaflow",
       "createdAt": "2026-05-29T18:24:37Z",
-      "updatedAt": "2026-05-29T18:25:11Z",
+      "updatedAt": "2026-08-01T03:23:06Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1256",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_78bd5ed6303a4f36ae15da78",
-      "sourceId": "backend-br/vagas#12247",
-      "title": "[Remoto] Desenvolvedor(a) Back-end .NET — Junior/Pleno - PJ",
-      "description": "## Nossa empresa\nA StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como um centro tecnológico dos nossos parceiros — com foco total em resultados e comprometimento com os objetivos de cada cliente.\n\nNossa stack é primordialmente Microsoft, e temos expertise consolidada na integração de intranets e extranets com sistemas de ERP, CRM e outros legados. Contamos com equipes multidisciplinares que cobrem desde arquitetura de informação e design até desenvolvimento front-end (Angular, HTML5, CSS, SEO) e back-end (MVC, .NET, C#).\n\nUma carteira sólida de projetos de sucesso e muito retorno para nossos clientes é o que resume nossa trajetória: construída com trabalho, dedicação e entrega de verdade.\n\n## Descrição da vaga\nBuscamos um(a) **Desenvolvedor(a) Back-end .NET Junior/Pleno** para integrar nosso time de engenharia. Você será responsável pelo desenvolvimento e manutenção de APIs REST, modelagem de dados e evolução de sistemas — incluindo produtos modernos e legados em .NET Framework.\n\nJúnior: Esperamos uma base conceitual firme em C# e SQL, proatividade para investigar bugs, fazer perguntas essenciais e, principalmente, dedicação para acelerar a curva de aprendizado nas ferramentas que ainda não domina.\n\n## Local\n🌐 Remoto\n\n## Requisitos\n**Obrigatórios**\n- .NET Core / .NET 6 ou superior\n- Desenvolvimento de APIs REST com ASP.NET Core\n- Bancos de dados relacionais (SQL Server ou PostgreSQL)\n- Modelagem de dados e escrita de queries SQL\n- Versionamento com Git\n\n**Diferenciais**\n- .NET Framework (manutenção de sistemas legados)\n- ASP.NET MVC ou Web Forms\n- Noções de arquitetura em camadas ou Clean Architecture\n\n## Benefícios\n- Horário flexível\n\n## Contratação\n- PJ\n\n## Como se candidatar\nEnvie seu currículo com pretensão salarial para: **recrutamento@starcorp.com.br**",
-      "excerpt": "## Nossa empresa A StarCorp é uma agência digital com mais de 26 anos de mercado, especializada no desenvolvimento de websites, intranets, extranets e aplicativos web. Diferente das agências tradicionais, atuamos como...",
-      "issueState": "open",
-      "contentHash": "98bc7bfbe97f0c7525dbc8f4a767ad31541443bf1fad73ddf9982a5e167994d4",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "sênior",
-        "júnior",
-        ".net",
-        "remoto",
-        "postgresql",
-        "sql"
-      ],
-      "author": {
-        "id": "RaulFerreiraSilva",
-        "name": "RaulFerreiraSilva",
-        "handle": "RaulFerreiraSilva",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/105366476?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-05-28T18:32:38Z",
-      "updatedAt": "2026-07-30T02:03:50Z",
-      "url": "https://github.com/backend-br/vagas/issues/12247",
       "sourceType": "github-issue"
     },
     {
@@ -740,6 +701,39 @@
       "createdAt": "2026-05-22T17:31:55Z",
       "updatedAt": "2026-05-22T17:32:17Z",
       "url": "https://github.com/programadores-br/geral/issues/3071",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3ca6bfcccb91efa2b245a1f6",
+      "sourceId": "lukasz-madon/awesome-remote-job#1053",
+      "title": "Add claudio: productivity tool for remote workers with voice dictation",
+      "description": "Repository: https://github.com/ayushkumar1808/claudio\n\nclaudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, terminal) to dictate text. Useful productivity tool for remote workers.",
+      "excerpt": "Repository: https://github.com/ayushkumar1808/claudio claudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, te...",
+      "issueState": "open",
+      "contentHash": "34f0812e9748512ef7767de54d589637ded444e3e146dc3f0b5d287767494cca",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "ayushkumar1808",
+        "name": "ayushkumar1808",
+        "handle": "ayushkumar1808",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145252811?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-05-22T01:54:40Z",
+      "updatedAt": "2026-07-02T18:16:34Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
       "sourceType": "github-issue"
     }
   ]

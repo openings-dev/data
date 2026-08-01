@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-01T02:03:55.904Z",
+  "generatedAt": "2026-08-01T05:48:11.913Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_a03d32efd2752d6d4c66083e",
     "gh_ca0239ac42a490e561211a86",
     "gh_799b61edb0c98791af431e2e",
     "gh_a78e67dcd4ad5ddc1fffbb10",
@@ -21,11 +22,45 @@
     "gh_094d438d4112cfc66e7c43d3",
     "gh_2d8aa4402dd1dbaa2cdb4420",
     "gh_8893caf0dcd6d3c7237916c8",
-    "gh_8269c7605108986c1d55bed9",
     "gh_7b0790eab0e7e8741e23914a",
     "gh_f9b05570441c5238a96e1a2d"
   ],
   "items": [
+    {
+      "id": "gh_a03d32efd2752d6d4c66083e",
+      "sourceId": "datascience-br/vagas#166",
+      "title": "[Belo Horizonte/MG - Híbrido] Cientista de Dados na BHS",
+      "description": "## Descrição da vaga\n\nProjeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics.\n\nSuas atividades serão:\n· Interpretar todo universo de dados da empresa;\n· Criar, treinar e validar modelos preditivos e prescritivos utilizando técnicas de IA tradicional (como machine learning) e IA generativa (como deep learning);\n· Interpretar os resultados dos modelos e análises para gerar insights acionáveis que suportem a tomada de decisão estratégica;\n· Desenvolvimento de modelos preditivos utilizando técnicas estatísticas e algoritmos de aprendizado de máquina (ex.: regressão logística, gradient boosting e modelos aplicados a Marketing Mix Modeling – MMM);\n· Realização de análises exploratórias, testes de hipóteses e estudos analíticos para apoiar iniciativas de risco, marketing e tomada de decisão.\n· Participação na descoberta e no desenho de soluções de Marketing Mix Modeling (MMM), incluindo análise de fontes de dados, definição de variáveis de mídia e avaliação de estruturas estatísticas e bayesianas;\n· Automação de pipelines de dados e rotinas diárias de scoring em ambiente de nuvem;\n· Documentação de metodologias, métricas de validação, processos de monitoramento de desempenho e definições analíticas para iniciativas de modelagem;\n· Trabalho em parceria com equipes de negócios, marketing, engenharia e produto.\n\n## Local\n\nHíbrido/BH (2x na semana)\n\n## Benefícios\n\n- Plano de saúde e Assistência Odontológica;\n- Vale Refeição/Alimentação no cartão Flash;\n- Auxílio Híbrido;\n- Gympass / Wellhub;\n- Seguro de vida;\n- Licença Maternidade/Paternidade estendida;\n- Parcerias e convênios diversos em educação, saúde e lazer (Universidades, escolas de Idioma, academias, clínicas de saúde...);\n\n...\n## Requisitos\n\n#### Obrigatórios:\n\n· Graduação em Ciência da Computação ou áreas afins;\n· Google Cloud;\n· Big query;\n· Linguagem de programação Python;\n· MLOPS (de maneira geral);\n· Estatística clássica\n· Data pipelines;\n· Docker (Conteiners).\n\n#### Desejáveis:\n\n· Vertex e cortex;\n· Keras/tensorflow;\n· Pytorch;\n· Scikit;\n· Xgboosd;\n· Kedro;\n· Streamlit.\n\n\n## Contratação\n\n- CLT\n\n## Nossa empresa\n\nNós somos a BHS!\nCom 31 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀\n\nSomos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.\n\n## Como se candidatar\n\n- https://bhs.gupy.io/jobs/11562751?jobBoardSource=gupy_public_page\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Alocado\n- Hibrido\n\n#### Regime\n- CLT\n\n#### Nível\n\n- Sênior",
+      "excerpt": "## Descrição da vaga Projeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics. Suas atividades serão: · Interpretar todo universo de dados da empresa; · Criar, treinar e validar mo...",
+      "issueState": "open",
+      "contentHash": "ac00b30acbbb9ae2adaeb701987026be40cab03fa307a97905ed6ccf7b34bd5a",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "data"
+      ],
+      "author": {
+        "id": "thothismybro",
+        "name": "thothismybro",
+        "handle": "thothismybro",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118479053?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "BHS",
+      "createdAt": "2026-07-14T12:53:20Z",
+      "updatedAt": "2026-07-14T12:56:35Z",
+      "url": "https://github.com/datascience-br/vagas/issues/166",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ca0239ac42a490e561211a86",
       "sourceId": "awesome-jobs/vietnam#4966",
@@ -703,46 +738,6 @@
       "createdAt": "2026-07-12T10:57:25Z",
       "updatedAt": "2026-07-12T10:57:25Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4961",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8269c7605108986c1d55bed9",
-      "sourceId": "awesome-jobs/vietnam#4960",
-      "title": "[HCM] Senior | Tech Lead Full Stack Software Engineer  - Full Time - Hybrid working",
-      "description": "## About BonBon\n\nBacked by a major corporation, Bonbon is a funded startup in the mobility sector. We have huge market potential \n\nWe are a small, high-trust team building product that matters for the garage and car-owner ecosystem. In our first two years we are intentionally staying small - growing from a couple of engineers to around five - and optimizing for execution speed, ownership, and product quality over headcount. This is a founding-engineer role: you will own a meaningful product area end to end and help set the technical and cultural bar for everyone who joins after you.\n\n## Work Location\n\nThis role is based out of our Ho Chi Minh City office and follows a hybrid schedule: onsite Tuesday through Friday and remote on Mondays, unless an approved accommodation applies. We place a high value on in-person collaboration and building a strong in-office culture.\n\n## What You Bring\n\n- Strong fundamentals and around 6+ years of professional software development, or a clear track record of comparable ownership and impact. We weigh evidence of judgment, ownership, and speed over years and company logos.\n- Experience designing and delivering highly-available, scalable cloud-based systems.\n- Backend in at least one managed language such as Go, Java, Scala, C#, or similar (we build the backend in Go).\n- Comfort across the front end - building product UI with a modern framework such as React / Next.js. ( Mobile experienced is a plus )\n- Experience integrating AI-assisted development tools into real engineering workflows, with a habit of verifying their output.\n- A strong sense of how AI can improve developer productivity, system design, and operational efficiency.\n- High ownership, low ego, clear written communication, and the ability to thrive in ambiguity and shifting priorities.\n- Genuine customer empathy - you understand why the product matters and let that guide tradeoffs.\n\n\nDetails JD: https://succulent-dewberry-6d4.notion.site/Senior-Full-Stack-Engineer-Founding-Team-38a6bc8451658171872ec2b52df6f80d?source=copy_link\n\n\n### Open salary\n\nContact: \n- email: bonbondevvn@gmail.com \n- slack ( webuild ) : @hung.vu",
-      "excerpt": "## About BonBon Backed by a major corporation, Bonbon is a funded startup in the mobility sector. We have huge market potential We are a small, high-trust team building product that matters for the garage and car-owne...",
-      "issueState": "open",
-      "contentHash": "9af97e7324173588af03968b1fc6ba99ae1da3130cb7b33c870a05c64ca82f28",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "hybrid",
-        "onsite",
-        "backend",
-        "react",
-        "java",
-        "senior",
-        "design"
-      ],
-      "author": {
-        "id": "Hungsiro506",
-        "name": "Hungsiro506",
-        "handle": "Hungsiro506",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/10346923?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-12T05:43:10Z",
-      "updatedAt": "2026-07-12T07:10:03Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4960",
       "sourceType": "github-issue"
     },
     {
