@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-07-24T21:59:15.675Z",
+  "generatedAt": "2026-08-01T18:58:09.181Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 24,
-    "openIssues": 11,
-    "closedIssues": 13
+    "openIssues": 12,
+    "closedIssues": 12
   },
-  "dataHash": "9fba15de525a77943f33f8286e426df49f1b3f3dde044c9f7cf03af53996e4c8",
+  "dataHash": "28b8bc9ea05e319cae4d54edd6c83858e1c99918ca7b9fbaa061eb0d79ae05ad",
   "items": [
+    {
+      "id": "gh_211190a487c5b05675d86403",
+      "sourceId": "backend-pt/vagas#148",
+      "title": "[Remoto] Elixir/Phoenix Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Elixir/Phoenix Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações concorrentes em Elixir\n- Construir APIs e interfaces em tempo real com Phoenix\n- Cuidar de tolerância a falhas com OTP\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Elixir/Phoenix (5 anos ou mais)\n- Elixir e OTP (GenServer, Supervisor)\n- Phoenix e Ecto\n- PostgreSQL\n- Testes com ExUnit\n\n**Diferenciais:**\n- Phoenix LiveView\n- Kubernetes\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-elixir-phoenix-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "3af45a9cefe9d33ec4e23bf0e40decf672d468895a1c096485ad6ec5ee54ec1b",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T18:09:53Z",
+      "updatedAt": "2026-08-01T18:10:14Z",
+      "url": "https://github.com/backend-pt/vagas/issues/148",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_fc1f63232f98258e183299f3",
       "sourceId": "backend-pt/vagas#147",
@@ -886,46 +927,6 @@
       "createdAt": "2023-09-07T19:31:03Z",
       "updatedAt": "2023-11-12T00:52:56Z",
       "url": "https://github.com/backend-pt/vagas/issues/118",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a2d40713bb52aba4495738d1",
-      "sourceId": "backend-pt/vagas#117",
-      "title": "[Lisboa] BackEnd Developer - PHP/Symphony @YellowIpe",
-      "description": "### Nossa empresa\n\nOur mission is to inspire the connection between technology and people, we foster the best of our professionals through our expertise in finding and attracting the best talent for the best projects. The Focus on People, Collaboration and Commitment are the pillars that guide us in this trajectory.\n\n### Descrição da vaga\n\nJoin the yellow team as our new PHP/Symfony Senior Developer!\n\n\n\n### Local\n\nLisbon\n\n### Requisitos\n\n- Strong experience with PHP 7.x and Symfony\n- At least 4 years’ experience with Symfony.\n- Strong HTML/CSS skills.\n\nSome experience with:\n\n- Angular/Ember/Vue\n- Docker (swarm)/Kubernetes\n- SASS/ SCSS\n- SOAP, Rest/JSON\n- Python\n- Gitlab CI/CD or other new technologies\n\n### Contratação\n\nRV ou CTI\n\n### Como se candidatar\n\nCandidate-se para essa oportunidade enviando o seu CV para: recrutamento@yellowipe.io ou pelo Link: https://yellowipe.io/vacancies/763171242/\n\n### Tempo médio de feedbacks\n\n1 Semana\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [X] Alocado\n- [ ] Remoto\n- [ ] Presencial\n- [X] Híbrido\n\n### Regime\n\n- [X] Contrato\n- [ ] Freela\n- [X] RV\n\n### Nível\n\n- [ ] Júnior\n- [X] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa Our mission is to inspire the connection between technology and people, we foster the best of our professionals through our expertise in finding and attracting the best talent for the best projects. ...",
-      "issueState": "closed",
-      "contentHash": "8e8a6674792ffe85b921b5d694484a4e2ce86627b83822dcc7c1bbc84a44d97f",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "alocado",
-        "especialista",
-        "freela",
-        "presencial",
-        "rv",
-        "híbrido",
-        "remoto"
-      ],
-      "author": {
-        "id": "YellowIpe",
-        "name": "YellowIpe",
-        "handle": "YellowIpe",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/93403121?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2023-09-05T10:15:39Z",
-      "updatedAt": "2023-11-11T00:48:22Z",
-      "url": "https://github.com/backend-pt/vagas/issues/117",
       "sourceType": "github-issue"
     },
     {

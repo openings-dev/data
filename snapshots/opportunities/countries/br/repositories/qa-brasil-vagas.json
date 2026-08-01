@@ -1,16 +1,58 @@
 {
-  "generatedAt": "2026-08-01T05:48:11.913Z",
+  "generatedAt": "2026-08-01T18:58:09.181Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 8,
-    "closedIssues": 22
+    "openIssues": 9,
+    "closedIssues": 21
   },
-  "dataHash": "4483e8602a15ed6ab612f867bf838823b87d4bc99b3e821f43c7f1277b382792",
+  "dataHash": "30ecb6cd322333ac0722328f1d4cef4a24fe5f722be735025181102b20892df8",
   "items": [
+    {
+      "id": "gh_5d87367c4f7d456d1f8095fa",
+      "sourceId": "qa-brasil/vagas#1267",
+      "title": "[Remoto] QA/Automação Sênior na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA/Automação nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local de trabalho\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA/Automação (5 anos ou mais)\n- Automação web (Cypress, Playwright ou Selenium)\n- Uma linguagem de programação\n- Teste de API (Postman ou RestAssured)\n- CI/CD\n\n**Diferenciais:**\n- Teste de performance (k6 ou JMeter)\n- Teste mobile\n- Contract testing\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 12.000 e R$ 22.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-automacao-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA/Automação nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 12.000 a 22.000/mês, conforme experiência. ## Local de trabalho 100% r...",
+      "issueState": "open",
+      "contentHash": "86ff328556760cc06df1027cfda1fa0f52b6459765908c607974cb0ec7068405",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T18:05:24Z",
+      "updatedAt": "2026-08-01T18:05:56Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1267",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_26c4f960884c36cb1975213d",
       "sourceId": "qa-brasil/vagas#1266",
@@ -1106,44 +1148,6 @@
       "createdAt": "2025-11-19T19:29:20Z",
       "updatedAt": "2026-04-11T02:41:51Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1229",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e078fa45c81d561ba8b85610",
-      "sourceId": "qa-brasil/vagas#1228",
-      "title": "[qa-brasil/vagas] (Home Office) QA na Consultoria Approvata",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\nAtuar no desenvolvimento, execução e automação de testes para os sistemas que sustentam os produtos de dados da Big Data — como OCO, Pricing e módulos analíticos — garantindo qualidade, robustez, performance e escalabilidade.\nEssa posição está diretamente conectada ao momento estratégico de produtização e reconstrução da plataforma, o que exige um olhar criterioso sobre qualidade, automação e segurança técnica nas entregas.\n\n## Local de trabalho\n<!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->\n- 100% Remoto\n\n## Requisitos da vaga\n\n**Obrigatórios**\nExperiência em qualidade de software;\nVivência em empresas de dados ou produtos baseados em dados;\nConhecimento em Python. Pode ser avaliado conhecimento em Ruby.\nExperiência com testes automatizados (integração e e2e);\nNoções de Cloud (AWS ou similar) e versionamento (Git);\nExperiência com Spark ou pipelines de dados;\nConhecimento em Docker, Kubernetes e CI/CD;\nExperiência com ferramentas de automação (Cypress, Selenium, Pytest);\nFamiliaridade com monitoramento (Grafana, Prometheus).\n\n**Responsabilidades e atribuições:**\nCriar testes (manuais e/ou automatizados) pós geração da release (sanity, integração, e2e, etc..)\nGarantir a qualidade das entregas desde a concepção da feature até a implantação;\nDefinir e acompanhar métricas de cobertura, confiabilidade e performance;\nColaborar com desenvolvedores, produto e dados para antecipar riscos e melhorar a experiência do usuário;\nContribuir com a estruturação e automação de QA no contexto da nova plataforma\n\n\n## Forma de contratação\n\nPJ\n\n## Sobre a empresa\n\nA Approvata é uma consultoria de TI com foco forte em alocação de talentos, squads de tecnologia e qualidade de software, que valoriza o profissional e busca entregar soluções tecnológicas alinhadas ao negócio dos clientes.\n\n## Como se candidatar\n\n- Por favor envie um email para rh@approvata.com.br com seu CV anexado - Enviar no assunto: Vaga do GithubQA-Brasil\n\n\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n\n- PJ\n- Pleno\n- Sênior\n\n<!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->\n- Remoto\n\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "closed",
-      "contentHash": "346a8a5028e1a06b28922c357416f0a3b7ee453ec0889ce4c246e9c1117a151d",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "remoto",
-        "sênior",
-        "stale"
-      ],
-      "author": {
-        "id": "Approvata-Consultoria",
-        "name": "Approvata-Consultoria",
-        "handle": "Approvata-Consultoria",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/219038886?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Consultoria Approvata",
-      "createdAt": "2025-11-12T17:26:48Z",
-      "updatedAt": "2026-04-11T02:41:50Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1228",
       "sourceType": "github-issue"
     }
   ]
