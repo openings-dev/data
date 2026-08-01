@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-01T18:58:09.181Z",
+  "generatedAt": "2026-08-01T21:47:10.649Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
+    "gh_615cd5b5c01016e20e631b0c",
     "gh_79546b5940192c13dad52334",
     "gh_8bbc2d1fbf260ff495b6debe",
     "gh_b5220ce704e9136f8724e349",
@@ -22,10 +23,40 @@
     "gh_eae48d87a90e3ffbeb60afaf",
     "gh_349305368c4768961f805995",
     "gh_bf70dc9f783bd9e91215da56",
-    "gh_72cc354e7d9c38f999fa902a",
-    "gh_dd237a978dba300d92eb4d35"
+    "gh_72cc354e7d9c38f999fa902a"
   ],
   "items": [
+    {
+      "id": "gh_615cd5b5c01016e20e631b0c",
+      "sourceId": "timqian/open-source-jobs#173",
+      "title": "Feature: Add Email Alert for Recent Update",
+      "description": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "excerpt": "When there is a new update (recent job commit), alert a subscribed user via email.",
+      "issueState": "open",
+      "contentHash": "a8ef46de2f893b78eb34cc3076865df60ce7da46346945d3f344be7848c5c7eb",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "iamkalio",
+        "name": "iamkalio",
+        "handle": "iamkalio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89003403?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-04-21T10:30:11Z",
+      "updatedAt": "2026-04-21T10:30:30Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/173",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_79546b5940192c13dad52334",
       "sourceId": "datascience-br/vagas#160",
@@ -716,37 +747,6 @@
       "createdAt": "2026-02-18T13:29:12Z",
       "updatedAt": "2026-02-19T04:01:20Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/161",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dd237a978dba300d92eb4d35",
-      "sourceId": "timqian/open-source-jobs#160",
-      "title": "chaos-genius repo is archived",
-      "description": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table ,\nfix : might remove it or add another new one which is alternative to it ig?",
-      "excerpt": "[chaos-genius repo](https://github.com/chaos-genius/chaos_genius) is archived, which is linked in thee repo to contribute in the table , fix : might remove it or add another new one which is alternative to it ig?",
-      "issueState": "open",
-      "contentHash": "8fa49b441c78bded9b3b3f265b273b1c1cbcac0e78160ac409226673fadcb2d0",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "wasup-yash",
-        "name": "wasup-yash",
-        "handle": "wasup-yash",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112958086?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2026-02-17T18:15:36Z",
-      "updatedAt": "2026-02-17T18:15:36Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/160",
       "sourceType": "github-issue"
     }
   ]

@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-01T18:58:09.181Z",
+  "generatedAt": "2026-08-01T21:47:10.649Z",
   "page": 18,
   "pageSize": 20,
   "nextPage": "api/pages/page-0019.json",
   "ids": [
+    "gh_338622c06f4332345fe4f4ea",
     "gh_feb466ba4cbe4c6806ea058b",
     "gh_2dd307ccb8f3ad7b24c5d38b",
     "gh_1230e0e80450a8e3313a1981",
@@ -22,10 +23,43 @@
     "gh_64cfb91af959233fcc481c1b",
     "gh_4e154d4fc7ecc61336e35b06",
     "gh_73f3507b952d2a8b09d86fea",
-    "gh_a30547f5853d337ea89895e9",
-    "gh_7e923ca8233bc921db05ea5b"
+    "gh_a30547f5853d337ea89895e9"
   ],
   "items": [
+    {
+      "id": "gh_338622c06f4332345fe4f4ea",
+      "sourceId": "golangtw/jobs#225",
+      "title": "[苗栗/竹南][月薪 90k 起] 群聯電子 雲原生平台工程師",
+      "description": "## 工作地點\n- 群聯電子竹南總部 (苗栗縣竹南鎮群義路1號)\n\n## 工作內容\n- 使用 Golang 開發 Kubernetes Operator 與高效能後端服務。\n- 開發多叢集管理平台，整合反向隧道、API 閘道與統一資源操作介面。\n- 基於 Kubernetes、Rook/Ceph 與 Istio 服務網格，建構雲原生基礎設施。\n- 設計與實作平台安全機制，包含 OIDC 身份驗證、mTLS 憑證管理、Kubernetes RBAC 與多租戶隔離。\n- 開發 LLM 模型服務基礎設施，透過 KServe 與 Gateway API Inference Extension 管理模型的打包、部署與推論生命週期。\n- 設計與實作 Kubernetes CRD 及 Controller，管理叢集、工作負載、租戶隔離與模型生命週期。\n- 使用 ConnectRPC / gRPC 設計跨叢集 API，搭配 Protobuf 定義服務介面。\n- 與前端（SvelteKit）、DevOps 及 QA 團隊合作，確保程式碼品質與安全性。\n- 參與技術研究，探索 AI 推論優化、Gateway API 與雲原生新技術。\n\n## 能力需求\n- Go 經驗：3 年以上 Go 開發經驗，熟悉 Goroutine 與 Channel。\n- Kubernetes：熟悉 Kubernetes 架構，具備 Operator / controller-runtime 開發經驗。\n- 開源貢獻：參與過 GitHub 開源專案，熟悉 Pull Request 與程式碼審查。\n- Linux 技能：精通 Linux 系統操作、Shell 腳本、系統監控與效能優化。\n- 容器化技術：熟悉 Docker，具備撰寫多階段 Dockerfile 與容器部署經驗。\n- API 設計：熟悉 ConnectRPC / gRPC、Protobuf 與 RESTful API 設計。\n- 軟實力：優秀的問題解決能力、團隊合作精神與溝通技巧。\n\n## 加分項目\n- 熟悉 Kubernetes RBAC、NetworkPolicy 或 Admission Webhook 等安全機制。\n- 具備 OIDC / OAuth 2.0 身份驗證或 mTLS 憑證管理實作經驗。\n- 具備 AI/ML 模型服務經驗（如 KServe、vLLM 或類似推論框架）。\n- 熟悉 Istio 服務網格或 Envoy Gateway。\n- 熟悉 Gateway API 與 Kubernetes 網路模型。\n- 熟悉 CI/CD 工具（如 GitHub Actions）與 GitOps 流程（如 Flux CD）。\n- 具備 Helm Chart 開發與管理經驗。\n- 熟悉 OpenTelemetry 分散式追蹤與可觀測性實踐。\n- 熟悉前端技術（如 SvelteKit、TypeScript）。\n\n## 團隊技術\n- 程式語言：Go、TypeScript、Protobuf\n- 前端框架：SvelteKit、Tailwind CSS\n- 通訊協定：ConnectRPC、gRPC\n- 容器與叢集：Kubernetes、Docker、Helm\n- 儲存與網路：Rook/Ceph、Istio、Gateway API\n- AI/ML 推論：KServe、llm-d、Gateway API Inference Extension\n- 安全機制：OIDC、mTLS、Kubernetes RBAC、多租戶隔離\n- 監控與可觀測性：Prometheus、Grafana、OpenTelemetry\n- CI/CD：GitHub Actions、Flux CD\n\n## 薪資與福利\n  - 基本底薪：每月 90,000 - 110,000 元。\n  - 年薪保證 14 個月，另加績效獎金與公司分紅。\n\n## 職涯發展\n- 技術專家：深入 Kubernetes Operator、多叢集架構與 AI 推論基礎設施，成為雲原生平台專家。\n- 技術管理：帶領技術團隊，參與產品策略制定。\n- 跨領域成長：參與前端、AI/ML 推論或基礎設施自動化專案。\n\n## 應徵方式\n請將履歷寄至 [paul_tsai@phison.com](mailto:paul_tsai@phison.com) ，並簡述您的後端開發、Kubernetes 或雲原生技術經驗。",
+      "excerpt": "## 工作地點 - 群聯電子竹南總部 (苗栗縣竹南鎮群義路1號) ## 工作內容 - 使用 Golang 開發 Kubernetes Operator 與高效能後端服務。 - 開發多叢集管理平台，整合反向隧道、API 閘道與統一資源操作介面。 - 基於 Kubernetes、Rook/Ceph 與 Istio 服務網格，建構雲原生基礎設施。 - 設計與實作平台安全機制，包含 OIDC 身份驗證、mTLS 憑證管理、Kubernet...",
+      "issueState": "open",
+      "contentHash": "fd2d0c5383bbd3a92e29f99abb4d9e780b24b944b2784284c76aa9de8a311fee",
+      "repository": "golangtw/jobs",
+      "repositoryUrl": "https://github.com/golangtw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "90k以上",
+        "苗栗"
+      ],
+      "author": {
+        "id": "iasthc",
+        "name": "iasthc",
+        "handle": "iasthc",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40525303?v=4"
+      },
+      "community": {
+        "id": "golangtw",
+        "name": "golangtw",
+        "avatarUrl": "https://github.com/golangtw.png?size=80",
+        "repository": "golangtw/jobs",
+        "url": "https://github.com/golangtw/jobs"
+      },
+      "createdAt": "2025-07-08T07:48:12Z",
+      "updatedAt": "2026-04-09T02:47:13Z",
+      "url": "https://github.com/golangtw/jobs/issues/225",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_feb466ba4cbe4c6806ea058b",
       "sourceId": "f2etw/jobs#1154",
@@ -728,40 +762,6 @@
       "createdAt": "2025-05-05T15:17:56Z",
       "updatedAt": "2025-05-05T15:17:56Z",
       "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/113",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7e923ca8233bc921db05ea5b",
-      "sourceId": "remotejobsbr/design-ux-vagas#112",
-      "title": "[Remoto] Igma | Product Designer Sênior",
-      "description": "Estamos procurando uma pessoa Product Designer Sênior para se juntar ao nosso time de Produto e fortalecer o chapter de Design.\nBuscamos uma pessoa com vivência em projetos complexos, pensamento estratégico e excelência na execução. Você atuará alocado(a) em uma das maiores construtoras da América Latina, colaborando com um time multidisciplinar para criar soluções digitais com alto impacto.\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n**Modelo de trabalho**\n- Regime: 100% remoto\n- Modelo de contratação: PJ\n- Escopo de trabalho: Alocação no cliente\n\n**Ferramentas que utilizamos, mas não limitam nosso trabalho**\n- Figma\n- Framer\n- Maze\n- Google Firebase / Analytics / Data Studio\n- Hotjar\n\n**Responsabilidades e premissas para a posição**\nNa Igma, Product Designers desempenham um papel fundamental na definição da estratégia dos produtos que construímos junto a nossos clientes. Como Product Designer Sênior, você:\n- Liderará, com o apoio dos Heads, o pilar de design de produto em uma squad, garantindo a criação de produtos valiosos, simples e impactante desde a concepção até sua evolução em escala\n- Será responsável por fortalecer a parceria com o PO, compreender o negócio em profundidade e desdobrar a visão do produto em experiências digitais inspiradoras\n- Atuará de forma estratégica no roadmap e nas decisões de evolução do produto, com base em métricas, aprendizados de pesquisa e visão de longo prazo\n- Fomentará a cultura de design centrado em pessoas, promovendo boas práticas e contribuindo ativamente com o crescimento do time\n- É essencial ter fluidez na colaboração com diferentes perfis, boa comunicação e jogo de cintura para lidar com contextos ambíguos ou em constante mudança.\n\n**Requisitos**\n- Conduzir investigações e processos de descoberta com autonomia, em parceria com Produto e Tecnologia\n- Traduzir contextos e problemas complexos em jornadas, fluxos e experiências simples e elegantes\n- Liderar dinâmicas de ideação, alinhamentos com stakeholders e processos de priorização de hipóteses\n- Criar interfaces com excelência visual e funcional, garantindo aderência ao design system e evolução constante\n- Estabelecer boas práticas e rotinas de colaboração com desenvolvedores para garantir alta qualidade na entrega\n- Avaliar e propor melhorias contínuas com base em dados, pesquisas e indicadores de usabilidade\n- Ter domínio dos padrões e especificidades de interação Web e Mobile\n- Atuar como referência técnica e estratégica para outros designers e stakeholders\n\n**Premissas culturais**\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia para realizar\n\n**Etapas do processo**\n- Cadastro\n- Entrevista inicial\n- Fit Cultural\n- Entrevista técnica\n- Entrevista específica\n- Proposta\n- Contratação\n\n**Benefícios**\n✌️ Trabalho 100% remoto\n💙 Plano de Saúde individual\n🧘 Auxílio Cuidado e Desenvolvimento\n🏃 Incentivo à prática esportiva\n💳 Cartão multibenefício através do Caju\n💻 Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n🏖️ PJ - 30 dias de férias remuneradas\n\n**Como se candidatar**\nCandidato-se no [link](https://jobs.quickin.io/igma/jobs/6818d22460e8bc001385c335)",
-      "excerpt": "Estamos procurando uma pessoa Product Designer Sênior para se juntar ao nosso time de Produto e fortalecer o chapter de Design. Buscamos uma pessoa com vivência em projetos complexos, pensamento estratégico e excelênc...",
-      "issueState": "open",
-      "contentHash": "beda73ba94bdc7c76052c0f29ccc37a9a64c2032074819049dc3a9d47ea12344",
-      "repository": "remotejobsbr/design-ux-vagas",
-      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "remotejobsbr",
-        "name": "remotejobsbr",
-        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
-        "repository": "remotejobsbr/design-ux-vagas",
-        "url": "https://github.com/remotejobsbr/design-ux-vagas"
-      },
-      "createdAt": "2025-05-05T15:12:31Z",
-      "updatedAt": "2025-05-05T15:12:58Z",
-      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/112",
       "sourceType": "github-issue"
     }
   ]
