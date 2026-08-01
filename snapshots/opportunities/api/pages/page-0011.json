@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-01T05:48:11.913Z",
+  "generatedAt": "2026-08-01T13:03:54.588Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_d2c11c8fc2357a8b0eef0f15",
+    "gh_0e98dad659c3df11a1cb1cc8",
+    "gh_5f066bed10486c20bcb3fc70",
     "gh_84cd180e02db9815d917bcc4",
     "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
@@ -20,12 +23,115 @@
     "gh_566d86aa7ae946d501efb44f",
     "gh_e9177ae252d1679b2e5d82c5",
     "gh_5708c7b7c69bc276f6fb8941",
-    "gh_5d54a463e13b23bbe38791ce",
-    "gh_2d9849eace549284f519bf16",
-    "gh_24b11f8f8ff090708a67e44c",
-    "gh_3ca6bfcccb91efa2b245a1f6"
+    "gh_5d54a463e13b23bbe38791ce"
   ],
   "items": [
+    {
+      "id": "gh_d2c11c8fc2357a8b0eef0f15",
+      "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
+      "title": "Add Canada-specific product/new-grad companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker.\n\nI noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifesciences in Mississauga, Uplifter in Toronto, Evertz in Burlington, and AlphaSense remote Canada product/data roles.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this tracker?\n\nSuggested resource links:\n\n- Product/business/student roles in Canada: https://jobs.hanzilla.co/business/\n- New-grad/junior/entry-level Canadian roles: https://jobs.hanzilla.co/new-grad/\n- About/verification: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m Hanzi, the builder of Hanzilla Jobs. It’s a free, daily-updated Canadian student/recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across business/product, tech, finance, engineering, sciences, and related fields. If external companion links do not fit this repo’s policy, totally fine to close.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker. I noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifescience...",
+      "issueState": "open",
+      "contentHash": "88a93cc3f7673785e659bbfb5654110119a14a332a69f3cc39f849aba03032c2",
+      "repository": "jobright-ai/2026-Product-Management-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad"
+      },
+      "createdAt": "2026-06-08T18:33:33Z",
+      "updatedAt": "2026-06-08T18:33:33Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad/issues/1",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0e98dad659c3df11a1cb1cc8",
+      "sourceId": "nerdzao/vagas#193",
+      "title": "[São Paulo] Pessoa Engenheira de Cloud Sênior (Gestão de APIS) - Viaflow",
+      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado.\n\n\nEstamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de conexão estratégico entre serviços de backend e aplicações consumidoras, garantindo segurança, escalabilidade e performance no ciclo de vida de APIs.\n\n\nSe você tem domínio profundo na plataforma Apigee (Google Cloud), gestão de API Marketplace e arquitetura de microsserviços, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nDesenho e Implementação de APIs: Projetar e configurar proxies de API, políticas de segurança e regras de tráfego utilizando Apigee (Edge ou X).\nGestão de API Marketplace: Gerenciar plataformas de marketplace para facilitar a descoberta, documentação e autoatendimento de desenvolvedores.\nAutomação e CI/CD: Automatizar pipelines de implantação de APIs utilizando ferramentas como Terraform, GitHub Actions ou Jenkins, garantindo agilidade e confiabilidade.\nSegurança e Compliance: Implementar uma postura rigorosa de segurança (proteção contra ameaças, rate limiting) e padrões de criptografia (OAuth2, OIDC, JWT).\nExcelência Operacional: Monitorar performance, latência e taxas de erro, implementando alertas proativos e estratégias avançadas de troubleshooting.\nColaboração Técnica: Trabalhar em conjunto com times de aplicação para definir contratos de API (OpenAPI/Swagger) e práticas de transformação.\nDocumentação Técnica: Desenvolver e manter documentação de alta qualidade, incluindo especificações de API e conteúdos para portais de desenvolvedores.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\n\nExperiência Especializada: em Cloud Engineering, com foco em API Gateway ou plataformas de gestão de APIs.\nEspecialista em Apigee: Conhecimento avançado em configuração de políticas Apigee, Shared Flows e extensões customizadas (Javascript/Java callouts).\nExpertise em Cloud (GCP): Experiência prática comprovada com Google Cloud Platform.\nArquitetura Moderna: Conhecimento em conteinerização (Docker, Kubernetes) e design de microsserviços.\nPadrões de API: Domínio de RESTful API design e OpenAPI Specification (OAS).\nSegurança: Domínio de OAuth 2.0, OpenID Connect e protocolos TLS.\nInfraestrutura como Código (IaC): Proficiência em Terraform, Crossplane ou Pulumi.\nProgramação: Capacidade de escrever scripts de automação em Python, [Node.js](http://node.js/) ou Go.\n🏆 Diferenciais (O que valorizamos)\n\nExperiência em configurar Portais de Desenvolvedor e ecossistemas de API Marketplace.\nSólido conhecimento de redes (DNS, Load Balancing, VPCs e Firewalls).\nCapacidade analítica para diagnosticar problemas em ambientes complexos e multi-tier.\n🤝 Soft Skills\n\nExcelente capacidade de resolução de problemas e diagnóstico técnico.\nHabilidade de comunicação para conectar requisitos técnicos complexos aos objetivos de negócio.\nPerfil analítico e proativo na melhoria de processos de integração.\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nInformações adicionais\nContratação via modelo cooperativa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e DASA\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nFaz sentido para você? Se inscreva através do link: https://viaflow.gupy.io/jobs/11442319?jobBoardSource=gupy_public_page",
+      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de co...",
+      "issueState": "open",
+      "contentHash": "a222a178c6a199bf4350640ba8a635482b267922be3238e1bc4087350444a6ba",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "node",
+        "python",
+        "java",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-06-08T16:58:12Z",
+      "updatedAt": "2026-06-08T16:58:12Z",
+      "url": "https://github.com/nerdzao/vagas/issues/193",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5f066bed10486c20bcb3fc70",
+      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
+      "title": "Add Canada data/new-grad jobs companion resource?",
+      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
+      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
+      "issueState": "open",
+      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
+      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
+      },
+      "createdAt": "2026-06-05T19:14:10Z",
+      "updatedAt": "2026-06-05T19:14:10Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_84cd180e02db9815d917bcc4",
       "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
@@ -620,120 +726,6 @@
       "createdAt": "2026-05-25T18:56:39Z",
       "updatedAt": "2026-05-25T18:57:04Z",
       "url": "https://github.com/programadores-br/geral/issues/3072",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2d9849eace549284f519bf16",
-      "sourceId": "backend-br/vagas#12245",
-      "title": "[Remoto] Full-stack Engineer (Net+React)",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET + React)\n🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai\n\nVocê é apaixonado(a) por desenvolvimento Full-stack e busca uma oportunidade internacional recebendo em dólar? 💻🌍\n\nUma empresa americana do segmento Pet Health está buscando um(a) Full-stack Engineer com forte experiência em .NET e React para atuar em projetos globais de alta escala e impacto.\n\n💰 Salário: USD 5K–6.5K/mês\n🏢 Empresa dos EUA | 51-250 colaboradores\n📍 100% Remoto\n🗣 Inglês B2+\n\n🔥 Stack Principal:\n✔ .NET Framework\n✔ .NET Core / .NET 6+\n✔ ASP.NET\n✔ React.js\n✔ Entity Framework & EF Core\n✔ SQL & Relational Databases\n✔ APIs Back-end\n✔ Front-end Development\n✔ UI Styling\n✔ NoSQL\n\n🎯 Requisitos:\n✅ +5 anos de experiência Full-stack\n✅ Forte experiência com APIs, bancos de dados e interfaces front-end\n✅ Domínio em React (components, state, lifecycle)\n✅ Conhecimento profundo em SQL e modelagem relacional\n✅ Experiência com padrões de projeto e boas práticas de desenvolvimento\n✅ Inglês avançado para comunicação internacional\n\nDiferenciais:\n Startup Experience\n Git & CI/CD Workflows\nAWS Cloud\nExperiência com bancos NoSQL\n Vivência em ambientes escaláveis e modernos\n\nEssa oportunidade é perfeita para profissionais que desejam crescimento internacional, projetos desafiadores e atuação em um ambiente inovador e global. 🚀\n\n📩 Cadastre-se agora e faça parte de um time internacional de tecnologia!\nhttps://app.onstrider.com/r/claudiaantunes?job=bWlkLWZ1bGwtc3RhY2stZW5naW5lZXItLm5ldC1yZWFjdC5qcy0wZTQ3N2FmYz9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET + React) 🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai Você é apaixonado(a) por desenvolvimento Full-...",
-      "issueState": "open",
-      "contentHash": "c55474b45116f4814e98970eee59fa3a56f57d2417e543c6348bd9d25283d6c1",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        ".net",
-        "remoto",
-        "aws",
-        "sql",
-        "git",
-        "asp",
-        "stale",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 5000,
-        "max": 6500,
-        "period": "month"
-      },
-      "createdAt": "2026-05-25T16:54:47Z",
-      "updatedAt": "2026-07-23T19:39:47Z",
-      "url": "https://github.com/backend-br/vagas/issues/12245",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_24b11f8f8ff090708a67e44c",
-      "sourceId": "programadores-br/geral#3071",
-      "title": "[Remoto] UX/UI Designer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/uxui-designer-170434703?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\n  \nAtuar na interseção entre UX e UI — cobrindo desde a compreensão do problema até a entrega de interfaces prontas para implementação. Esta pessoa deve ter sensibilidade para fluxos e jornadas do usuário e rigor para execução visual: componentes bem construídos, estados mapeados e handoff sem ruído.\n\nBuscamos alguém que use IA como parte natural do processo de design — não como curiosidade, mas como hábito — e que entenda que velocidade e qualidade não são opostos.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Mapear fluxos de usuário, jornadas e pontos de fricção com base em dados, pesquisa e contexto de produto\n    \n*   Criar wireframes, protótipos e especificações de fluxo com clareza sobre o problema que estão resolvendo\n    \n*   Desenvolver e manter componentes no Design System da Arbitralis — com consistência visual, variantes bem definidas e documentação acessível\n    \n*   Produzir telas em alta fidelidade prontas para handoff, com estados, edge cases e especificações completas\n    \n*   Colaborar com Engenharia no handoff e acompanhar implementação para garantir fidelidade à intenção de design\n    \n*   Usar ferramentas de IA (Cursor, Claude Code, Make, Figma AI e similares) para acelerar prototipação, geração de variantes e automações de processo\n    \n*   Participar ativamente de sessões de discovery e refinamento com Produto e Engenharia\n    \n*   Contribuir para a evolução dos critérios de qualidade e processos do time de design\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - Criação de protótipos \n- Design de Interface (UI Design & Design System) \n- Figma AI \n- Wireframes \n- Hand Off\n## Local: \n Remota\n## Requisitos: \n - Experiência como UX/UI Designer em produto digital \n- Portfólio com casos que demonstrem processo completo — do problema à entrega visual — não apenas telas finais \n- Domínio de Figma: Auto Layout, componentes, variantes, prototipação e organização de arquivos \n- Experiência com Design Systems: uso, manutenção e evolução de componentes \n- Experiência de colaboração com times de Engenharia em handoff e acompanhamento de implementação \n- Uso de ferramentas de IA (Figma AI, Cursor, Claude Code, Make ou equivalentes) como parte do fluxo de trabalho \n- Capacidade de trabalhar com ambiguidade e ritmo acelerado — sabe priorizar mesmo quando tudo parece urgente \n- Conforto com produtos que envolvem IA, automação ou fluxos complexos \n- Visão de produto: Entende o problema antes de abrir o Figma — conecta decisão de design a impacto real \n- Execução com ritmo: Entrega com consistência, sem travar na busca pela tela perfeita \n- Autonomia: Conduz seu próprio ciclo sem depender de briefing detalhado para avançar \n- Curiosidade técnica: Experimenta ferramentas novas, aprende rápido e incorpora o que funciona no processo \n- Colaboração: Trabalha bem com Produto, Engenharia e CS; comunica decisões com clareza e sem ruído \n- Organização: Mantém arquivos, componentes e documentação organizados e acessíveis para o time\n## Diferenciais: \n - Experiência com design de interfaces que envolvem IA, agentes conversacionais ou fluxos automatizados \n- Uso fluente de Make ou n8n para automatizar partes do processo de design (geração de assets, notificações, pipelines de entrega) \n- Conhecimento básico de HTML/CSS ou familiaridade com código suficiente para conversar com precisão com o time de dev \n- Experiência com métricas de UX e análise de comportamento (Hotjar, Mixpanel ou similares) \n- Histórico de contribuição ativa para evolução de Design Systems em times de produto \n- Familiaridade com legaltech, fintechs ou produtos B2B com fluxos complexos e usuários não técnicos\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [UX/UI Designer na Arbitralis](https://coodesh.com/jobs/uxui-designer-170434703?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nDesign/UI",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "dfd730b1374bb19d0eec2d94bcd966f0550d891531e779876abf7eaf83bfbb2f",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-22T17:31:55Z",
-      "updatedAt": "2026-05-22T17:32:17Z",
-      "url": "https://github.com/programadores-br/geral/issues/3071",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3ca6bfcccb91efa2b245a1f6",
-      "sourceId": "lukasz-madon/awesome-remote-job#1053",
-      "title": "Add claudio: productivity tool for remote workers with voice dictation",
-      "description": "Repository: https://github.com/ayushkumar1808/claudio\n\nclaudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, terminal) to dictate text. Useful productivity tool for remote workers.",
-      "excerpt": "Repository: https://github.com/ayushkumar1808/claudio claudio is a free, open-source macOS tool that enables system-wide voice dictation using your Claude subscription. Hold Space in any app (Slack, email, browser, te...",
-      "issueState": "open",
-      "contentHash": "34f0812e9748512ef7767de54d589637ded444e3e146dc3f0b5d287767494cca",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "ayushkumar1808",
-        "name": "ayushkumar1808",
-        "handle": "ayushkumar1808",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/145252811?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-05-22T01:54:40Z",
-      "updatedAt": "2026-07-02T18:16:34Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1053",
       "sourceType": "github-issue"
     }
   ]
