@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-01T13:03:54.588Z",
+  "generatedAt": "2026-08-01T15:55:48.679Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_f70bca3063fbfbf2f82a823e",
+    "gh_094d438d4112cfc66e7c43d3",
+    "gh_2d8aa4402dd1dbaa2cdb4420",
     "gh_8893caf0dcd6d3c7237916c8",
     "gh_7b0790eab0e7e8741e23914a",
     "gh_f9b05570441c5238a96e1a2d",
@@ -20,12 +23,125 @@
     "gh_dc9be57bac65e04edbf010e2",
     "gh_31771006fb197da7d3ea896f",
     "gh_03e1ed1f70d913dbf9112931",
-    "gh_c21fe4f8cf97111ea9a277bf",
-    "gh_ffe16aeba48ee05bf8013d15",
-    "gh_50557775750b90b91b2f6863",
-    "gh_c0671970e9661218f7affa0d"
+    "gh_c21fe4f8cf97111ea9a277bf"
   ],
   "items": [
+    {
+      "id": "gh_f70bca3063fbfbf2f82a823e",
+      "sourceId": "awesome-jobs/vietnam#4964",
+      "title": "VinMotion - Robotics System Engineer - Junior/Senior/Expert - Onsite/Hanoi - FTE",
+      "description": "**Department: Application Deployment\nLocation: Gia Lam, Ha Noi\nReports to: Head of System integration.**\n\n**Job Summary:**\n\nAs a Software Engineer, you will be responsible for designing, developing, and implementing solutions for SLAM programs, localization, and navigation for robots …. \n\n**Responsibilities:\nSenior:** \n- Define the overall architecture of robotic systems, including hardware, software, and communication frameworks.\n- Ensure modularity and scalability in design for future upgrades and integrations\n- Select appropriate computing platforms, middleware (e.g., ROS2), and networking solutions.\n- Design and optimize advanced SLAM architectures (e.g., graph-based SLAM, deep learning-based SLAM).\n- Lead the integration of multiple SLAM approaches (e.g., visual SLAM + LiDAR SLAM).\n- Develop high-performance, scalable, and modular robotics software solutions.\n- Architect real-time sensor fusion frameworks to enhance localization accuracy.\n- Improve parallel computing and GPU acceleration for SLAM-related tasks.\n- Mentor and guide junior engineers, conduct code reviews and technical training.\n- Contribute to research and development by evaluating state-of-the-art SLAM techniques.\n- Optimize robotics software for real-world deployment in harsh environments.\n- Collaborate with cross-functional teams to define long-term SLAM strategies.\n- Document code and write technical reports on development progress.\n\n**Requirements:\nCommon:**\n\n- Education: Bachelor's or higher in Robotics, Computer Science, Electrical/Mechanical Engineering, or a related field.\n- SLAM Knowledge: Understanding of SLAM techniques (e.g., Visual SLAM, LiDAR SLAM, Graph-Based SLAM).\n- Programming: Strong proficiency in Python (and optionally C++ for performance-critical tasks).\n- Linux Development: Experience with Ubuntu, Bash scripting, system administration, and debugging tools.\n- Robotics Frameworks: Experience with ROS2 (Robot Operating System), Gazebo, OpenCV, PCL.\n- Algorithms & Mathematics: Understanding of linear algebra, optimization, and probability theory related to SLAM.\n- Version Control: Familiarity with Git, GitHub/GitLab, and CI/CD workflows\n- Testing: Writing unit tests and integration tests for robotic applications.\n\n**Senior:**\n\n- Advanced SLAM Expertise: Deep knowledge of SLAM backends, graph optimization, sensor fusion \n- Linux System Optimization: Experience with real-time Linux kernels, networking, and system performance tuning.\n- High-Performance Computing: Knowledge of multithreading, GPU acceleration (CUDA, OpenCL)\n- C++ Expertise: Strong proficiency in C++ (memory management, performance optimization, templates).\n- Machine Learning in SLAM: Experience with deep learning-based SLAM (e.g., DeepVO, DROID-SLAM, SuperGlue, reinforcement learning)\n- Project Leadership: Ability to architect, plan, and execute complex robotics projects.\n- Mentorship & Code Review: Experience mentoring junior engineers and conducting rigorous code reviews.\n- Industry Experience: Familiarity with real-world robot deployments in industrial, automotive, or research settings.\n- Experience: 5+ years of experience in robotics software engineering, SLAM, or autonomous systems.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**Department: Application Deployment Location: Gia Lam, Ha Noi Reports to: Head of System integration.** **Job Summary:** As a Software Engineer, you will be responsible for designing, developing, and implementing sol...",
+      "issueState": "open",
+      "contentHash": "34350ea961546dcadf13cf00c4e1e2cabfab6e3e6543222fd4a218dcddba1409",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "backend",
+        "python",
+        "senior",
+        "junior",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:20:25Z",
+      "updatedAt": "2026-07-12T11:20:25Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4964",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_094d438d4112cfc66e7c43d3",
+      "sourceId": "awesome-jobs/vietnam#4963",
+      "title": "VinMotion - Full Stack Engineer, Robotics Simulation - Onsite/Hanoi - FTE",
+      "description": "**Position Overview**\n\nWe are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development.\n\n**Key Responsibilities**\n\n- Design, develop, and maintain fullstack applications supporting humanoid robot development.\n- Build web-based platforms for robot simulation, monitoring, visualization, and experiment management.\n- Develop backend services and APIs for robotics workflows and simulation pipelines.\n- Integrate with robotics simulation environments such as: Isaac Sim, MuJoCo\n- Optimize software performance, scalability, and reliability for large-scale simulation workloads.\n- Collaborate with AI and Robotics teams to translate research requirements into production-ready software solutions.\n- Build tools for simulation data management, experiment tracking, and analytics.\n- Improve system architecture and software engineering best practices across the robotics platform ecosystem.\n\n**Requirements**\n\n- Bachelor's degree in Computer Science, Software Engineering, Robotics, or a related field.\n- Core Languages: Proficiency in C++ AND Python, Java (Hybrid architecture experience is highly preferred).\n- Networking & Protocols: Strong experience in Socket Programming, specifically with UDP network bridges and WebSockets for real-time data streaming.\n- Web 3D Graphics: Strong experience with React.js and modern state management libraries (e.g., Zustand, Redux, or Recoil) optimized for handling high-frequency, real-time data streaming; and WebGL, Three.js, or Python-based 3D visualization tools (e.g., Viser). Familiarity with Server-Side Rendering (SSR) and/or Client-side Rendering (CSR) and optimizing server-client channels for 3D scenes.\n- Robotics (Plus): Experience with MuJoCo (MJCF/XML syntax), and optionally ROS 2.\n- Data & Config: Familiarity with parsing runtime configurations (YAML) and handling high-density event logging formats (JSONL).\n\n**Contact**:\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**Position Overview** We are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development. **K...",
+      "issueState": "open",
+      "contentHash": "f86b83cfcc31d7235804c1b29c4d2661645ac98af466bc54065ded27d7a5fff1",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "hybrid",
+        "onsite",
+        "backend",
+        "fullstack",
+        "react",
+        "python",
+        "java",
+        "data"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:08:42Z",
+      "updatedAt": "2026-07-12T11:08:42Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4963",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2d8aa4402dd1dbaa2cdb4420",
+      "sourceId": "awesome-jobs/vietnam#4962",
+      "title": "VinMotion - Machine Learning Scientist (VLA) - Senior/Expert - Onsite/Hanoi - FTE",
+      "description": "**About the job\nOverview**\n\nWe're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments.\n\nAs a Senior / Staff Machine Learning Engineer, Vision-Language-Action (VLA), you will help build the intelligence stack that connects vision, language, and action. You'll design, train, and deploy multimodal robot policies that allow humanoid robots to understand natural-language commands, interpret complex scenes, and take reliable actions in industrial and logistics settings.\n\nThis is a hands-on role at the intersection of multimodal model development, robot learning, teleoperation data, simulation, and real-world deployment. A core challenge of the role is learning robust robot behavior from limited real-world teleoperation data, while using simulation and synthetic data to improve generalization and close the sim-to-real gap.\n\nYou'll work closely with Teleoperation, Simulation, RL & Controls, and Platform teams to turn embodied AI research into robot capabilities that run on physical hardware.\n\n**Key Responsibilities**\n\n- Design, train, and improve vision-language-action (VLA) models for humanoid robots using visual observations, language instructions, and robot state\n- Build and fine-tune multimodal robot policies using RGB (and optionally depth), language, proprioception, and task history\n- Improve policy robustness, instruction following, manipulation reliability, and generalization to new tasks and environments\n- Work with the Teleoperation team to improve data quality, dataset curation, logging standards, and episode QA\n- Develop training strategies for limited-data settings, including augmentation, pretraining, imitation learning, and offline RL where appropriate\n- Use simulation and synthetic data to improve robustness and sim-to-real transfer\n- Define evaluation metrics for task success, robustness, and safety, and use ablations / failure analysis to guide model improvements\n- Collaborate with Platform and Controls teams to integrate policies into the on-robot inference stack under latency and memory constraints\n\nFor Senior-level hires: independently own a workstream from experimentation through deployment iteration\n\nFor Staff-level hires: help shape technical direction across policy learning, data strategy, evaluation, and sim-to-real roadmap\n\n**Required Qualifications:\n\nCore skill**\n\n- Strong background in deep learning for vision, multimodal learning, sequence modeling, or robot learning\n- Hands-on experience training models in PyTorch\n- Strong Python engineering skills, including training pipelines, experiment management, debugging, and reproducibility\n\n**Experience in at least one of the following:**\n\n+ Vision-language / multimodal model training\n+ Imitation learning / behavior cloning / offline reinforcement learning\n+ Robot learning from demonstration, teleoperation, or real-world interaction data\n\n**General**\n\n- Ability to work effectively across ML, robotics, controls, hardware, and platform teams\n- Experience owning technical problems end-to-end, from experimentation through evaluation and iteration\n- BS / MS / PhD in Computer Science, Robotics, Electrical Engineering, or a related field — or equivalent industry experience\n\n**Preferred Qualifications**\n\n- Experience training policies for real robots, especially manipulation or articulated systems\n- Experience working with teleoperation or demonstration data\n- Experience with simulation / synthetic-data pipelines for robotics\n- Familiarity with modern VLA and robot-policy approaches such as VLM-backbone policies (Pi0-, GR00T-, or OpenVLA-class), diffusion policy / flow-matching action heads, or ACT-style action chunking\n- Experience deploying models under production constraints such as latency, memory, mixed precision, or on-device / on-robot inference\n- Prior experience in humanoid robotics, embodied AI, robot manipulation, or applied multimodal systems\n- Tech stack includes: PyTorch, ROS 2, Isaac Sim / Isaac Lab, MuJoCo, GPU training infrastructure, and on-robot inference optimization.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**About the job Overview** We're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments. As a Senior / Staff Machine Learning Engineer, Vis...",
+      "issueState": "open",
+      "contentHash": "84d6d6d0947fb1333ac7f4dc8ffb34abe78aedcb0ed1cdbb61d6e6ab34737896",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "python",
+        "senior",
+        "staff",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:01:09Z",
+      "updatedAt": "2026-07-12T11:01:09Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4962",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8893caf0dcd6d3c7237916c8",
       "sourceId": "awesome-jobs/vietnam#4961",
@@ -658,140 +774,6 @@
       "createdAt": "2026-07-06T13:10:49Z",
       "updatedAt": "2026-07-06T13:11:07Z",
       "url": "https://github.com/DevOps-Brasil/Vagas/issues/467",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ffe16aeba48ee05bf8013d15",
-      "sourceId": "DevOps-Brasil/Vagas#466",
-      "title": "[DevOps Engineer (AWS) Sênior] Sylision - Remoto",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (AWS)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n12.000 - 22.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (AWS) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência sólida com DevOps/AWS compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n### 🎁 Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/AWS\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-aws-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-aws-senior-remoto",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (AWS) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portugal (re...",
-      "issueState": "open",
-      "contentHash": "cab45690a163d099a7dca3948997d0b9ab8f4f60b2b9a70fc2939a4d1b777436",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "aws",
-        "pa",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:09:37Z",
-      "updatedAt": "2026-07-06T13:09:55Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/466",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_50557775750b90b91b2f6863",
-      "sourceId": "react-brasil/vagas#3018",
-      "title": "[Remoto] React Native Developer Pleno na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React Native compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-native-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👨 Pleno\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 5k-10k",
-      "excerpt": "## Descrição da vaga Vaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência. ## Local 100% remoto, de qualqu...",
-      "issueState": "open",
-      "contentHash": "fe9c9ea9c8aa5b945c732f487f88b4d920543d21aa912a74a28c40ed257fdc28",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ clt",
-        "🏢 remoto",
-        "⚖️ pj",
-        "👨 pleno",
-        "💰 5k-10k"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:08:37Z",
-      "updatedAt": "2026-07-06T13:09:06Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3018",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c0671970e9661218f7affa0d",
-      "sourceId": "react-brasil/vagas#3017",
-      "title": "[Remoto] React Developer Sênior na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👴 Sênior\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 15k+",
-      "excerpt": "## Descrição da vaga Vaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência. ## Local 100% remoto, de qualquer lu...",
-      "issueState": "open",
-      "contentHash": "069f296b7a9cb47711a888104e274b5909bf82e8b3984115ac58c305c1ea5dcb",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ clt",
-        "🏢 remoto",
-        "⚖️ pj",
-        "👴 senior",
-        "💰 15k+"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:07:36Z",
-      "updatedAt": "2026-07-07T02:50:51Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3017",
       "sourceType": "github-issue"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T02:03:55.904Z",
+  "generatedAt": "2026-08-01T15:55:48.679Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,8 +9,50 @@
     "openIssues": 26,
     "closedIssues": 4
   },
-  "dataHash": "39df6803ba70923022e0f3ad358c0be50ad49691a62953aaa11fdfd5b9b828fc",
+  "dataHash": "8890be479472ed600e0e71d0ec973ad0d1c02dc95024f0516d604cc7ec1d8126",
   "items": [
+    {
+      "id": "gh_27aa26d7bb21a1ebb52dd5c4",
+      "sourceId": "datascience-br/vagas#171",
+      "title": "[Remoto] Engenharia de Dados Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Engenharia de Dados nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Construir e manter pipelines de ingestão e transformação\n- Garantir qualidade, linhagem e disponibilidade dos dados\n- Modelar camadas do data warehouse\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Engenharia de Dados (5 anos ou mais)\n- Python e SQL avançado\n- Orquestração (Airflow, Dagster ou similar)\n- Spark ou processamento distribuído\n- Cloud (AWS, GCP ou Azure)\n\n**Diferenciais:**\n- dbt\n- Kafka\n- Databricks ou Snowflake\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-engenharia-de-dados-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1e5caac727e929c1866487dfe5c282609d5bcd1c7fc2c5ca24ac5946c5980ed1",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T15:11:52Z",
+      "updatedAt": "2026-08-01T15:11:52Z",
+      "url": "https://github.com/datascience-br/vagas/issues/171",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_7fbe0c0a98337ce9a890ffbb",
       "sourceId": "datascience-br/vagas#170",
@@ -1045,45 +1087,6 @@
       "createdAt": "2024-10-16T20:09:26Z",
       "updatedAt": "2024-10-16T20:09:26Z",
       "url": "https://github.com/datascience-br/vagas/issues/138",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4880d50611121076a0917e09",
-      "sourceId": "datascience-br/vagas#137",
-      "title": "[Flexível][Campinas/SP] Data Engineer na AB-Inbev",
-      "description": "## Descrição da vaga\n\nA Share People Hub em parceria com a ABI Growth Group | AB InBev, busca por uma Pessoa Engenheira de Dados (Plena ou Sênior), para atuação flexível, 1x presencial em Campinas/SP.\n\n## Local\n\nFlexível, Campinas - SP\n\n## Benefícios\n\n- Bônus por desempenho*\n- Bônus de assiduidade*\n- Plano de previdência privada\n- Auxílio refeição\n- Ambiente e código de vestimenta casual\n- Dias de folga*\n- Seguro saúde, odontológico e de vida\n- Descontos em medicamentos\n- Parceria com Wellhub\n- Subsídios para creche\n- Descontos em produtos da Ambev*\n- Parceria com o Clube Ben\n- Bolsa de estudos*\n- Material escolar\n- Plataformas de idiomas e treinamentos\n- Auxílio transporte\n\n*Regras aplicadas\n## Requisitos\n\n#### Obrigatórios:\n\n- Experiência sólida em Python e Spark.\n- Conhecimento avançado em SQL.\n- Experiência com Azure Data Factory e Azure Databricks.\n- Compreensão de modelagem dimensional e conceitos de BI.\n- Experiência prévia em engenharia de dados em um nível sênior.\n- Inglês avançado (escrita e conversação).\n- Formação preferencialmente em Tecnologia da Informação, Ciência da Computação, Engenharia de Dados ou áreas relacionadas.\n\n#### Desejáveis:\n\n- Experiência com outras ferramentas e serviços do Azure.\n- Conhecimento em outras linguagens de programação como Scala ou Java.\n- Experiência com ferramentas de visualização de dados (por exemplo, Power BI).\n- Certificações em Azure ou outras tecnologias relevantes.\n\n#### Diferenciais:\n\n- Experiência em empresas financeiras\n\n## Contratação\n\n- CLT\n\n## Nossa empresa\n\nAB InBev é uma extensão da Ambev, mas com uma estrutura global mais estratégica. A Ambev, ao longo dos anos, cresceu principalmente através de aquisições. Um exemplo é a aquisição da cervejaria americana Anheuser-Busch, produtora da Budweiser (AB). Outro marco foi a compra da Interbrew (In), conhecida pela Stella Artois, o que os levaram a unir essas iniciais, e a parte final Bev de Ambev. Assim, a AB InBev representa a estrutura global, focada em estratégias internacionais e na gestão de mais de 500 marcas em todo o mundo. Hoje é a maior cervejaria do mundo, presente em cerca de 50 países. O ABI Growth Group (Divisão de Crescimento da ABI) unifica as equipes business-to-business (B2B), direct- to-consumer (DTC), Sales & Distribution e Marketing para acelerar de forma mais eficiente a transformação digital da AB InBev. O grupo abriga um robusto conjunto de produtos, incluindo BEES, Zé Delivery, TaDa Delivery e PerfectDraft.\n\n## Como se candidatar\n\nLink para inscrição: \n[Senior Data Engineer](https://sharepeoplehub.inhire.app/vagas/31bd2d99-f3e0-494f-b1f4-53dccae6dfb5/senior-data-engineer)\n[Data Engineer](https://sharepeoplehub.inhire.app/vagas/a36da0df-4559-486d-86a3-e2c66b2feb3d/data-engineer)\n\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 30 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: vinicius.sartori@sharepeoplehub.com com o assunto [Processo Seletivo - Data Engineer ABI]\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n- Hibrido\n\n#### Regime\n- CLT\n\n\n#### Nível\n\n- Pleno\n- Sênior",
-      "excerpt": "## Descrição da vaga A Share People Hub em parceria com a ABI Growth Group | AB InBev, busca por uma Pessoa Engenheira de Dados (Plena ou Sênior), para atuação flexível, 1x presencial em Campinas/SP. ## Local Flexível...",
-      "issueState": "open",
-      "contentHash": "63ff1a8934bdf19a30cc873cf54662ce7c7d5deb7ef7c87cc76224cc53288f95",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "java",
-        "senior",
-        "pleno",
-        "principal",
-        "data"
-      ],
-      "author": {
-        "id": "Vinaum",
-        "name": "Vinaum",
-        "handle": "Vinaum",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12704400?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "AB-Inbev",
-      "createdAt": "2024-10-16T19:32:09Z",
-      "updatedAt": "2024-10-16T19:33:54Z",
-      "url": "https://github.com/datascience-br/vagas/issues/137",
       "sourceType": "github-issue"
     }
   ]
