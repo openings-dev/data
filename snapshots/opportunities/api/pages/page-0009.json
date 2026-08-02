@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-02T13:04:02.009Z",
+  "generatedAt": "2026-08-02T18:59:00.424Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_a78e67dcd4ad5ddc1fffbb10",
     "gh_64faa26d0aeb1dfcd73da5e9",
     "gh_fee3b82a1c44adee0d0ed348",
     "gh_ce803112440f8cd9c316f902",
@@ -22,10 +23,49 @@
     "gh_f9b05570441c5238a96e1a2d",
     "gh_deacd027702e1cb8c6ccb289",
     "gh_5467ab05eff3efac04d00a4e",
-    "gh_c504ec55953d8f2124be1dc5",
-    "gh_0882bda36918150e31447eee"
+    "gh_c504ec55953d8f2124be1dc5"
   ],
   "items": [
+    {
+      "id": "gh_a78e67dcd4ad5ddc1fffbb10",
+      "sourceId": "backend-pt/vagas#137",
+      "title": "[Remoto] Java/Jakarta EE Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java/Jakarta EE Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Jakarta EE compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "b2254db1868b4e59f6266d2ccb047235ae8c07cfb6f8c2226508cb2c33e18364",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-13T18:35:45Z",
+      "updatedAt": "2026-07-17T10:26:49Z",
+      "url": "https://github.com/backend-pt/vagas/issues/137",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_64faa26d0aeb1dfcd73da5e9",
       "sourceId": "dotnetdevbr/vagas#1060",
@@ -775,46 +815,6 @@
       "createdAt": "2026-07-10T08:50:12Z",
       "updatedAt": "2026-07-10T08:50:12Z",
       "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1106",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0882bda36918150e31447eee",
-      "sourceId": "backend-br/vagas#12324",
-      "title": "[Remoto] C++ Developer - BHS",
-      "description": "## Nossa empresa\n\nNós somos a BHS!\n\nCom 31 anos de experiência no mercado, proporcionamos soluções modernas de TI. \n\nSomos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.\n\n## Descrição da vaga\n\n· Atuar no desenvolvimento de sistemas de sistemas gerência de frota, assistência ao operador e automação para mineração;  \n· Desenvolvimento e manutenção de aplicações embarcadas, backend, frontend;  \n· Desenvolver produtos utilizando diversas tecnologias e linguagens de programação;\n· Atuar em todo o ciclo de vida de desenvolvimento de software, desde a coleta de requisitos planejamento, execução, testes e entrega;   \n· Preparação e execução de testes de integração software/hardware.\n\n## Local\n\nBelo Horizonte/MG\n\n## Requisitos\n\n· Experiência em desenvolvimento de software utilizando programação orientada  a objetos;   \n· Experiência em desenvolvimento com C/C++;\n· Conhecimento de configuração e programação em ambientes Linux embarcado; \n· Familiaridade com sistemas de controle de versão (Git);  \n· Experiência com práticas ágeis (Scrum, Kanban, etc.);  \n· Inglês avançado ou fluente (leitura, escrita e conversação);\n· Disponibilidade para atuar em Belo Horizonte esporadicamente.\n\n🎯 Diferenciais:\n· Conhecimento em redes IP e protocolos de comunicação (TCP, UDP, etc.);  \n· Conhecimento em Yocto;\n· Conhecimento em Docker;\n· Experiência com testes unitários e de integração;   \n· Familiaridade com sistemas georreferenciados e tecnologias GNSS;  \n· Experiência em integração de hardware e desenvolvimento de drivers para sistemas embarcados.  \n\n## Benefícios\n\nPlano de saúde e Assistência Odontológica;\nVale Refeição/Alimentação no cartão Flash de R$40,26 por dia;\nAuxílio remoto;\nGympass / Wellhub;\nSeguro de vida;\nLicença Maternidade/Paternidade estendida;\nParcerias e convênios diversos em educação, saúde e lazer (Universidades, escolas de Idioma, academias, clínicas de saúde...);\nCultura de Feedback contínuo, com: Feedbacks semestrais, 1:1, PDI (Plano de Desenvolvimento Individual) e BHS Experience.\n\n## Contratação\nCLT\n\n## Como se candidatar\n\nAtravés do link https://bhs.gupy.io/jobs/11407538\n\n## Labels\n\n- C++\n- C\n- Embedded\n- Inglês\n\n### Nível\n- Pleno/Sênior\n\n### Regime\nCLT \n### Alocação\n- Remoto (vindas esporádicas para Belo Horizonte/MG)",
-      "excerpt": "## Nossa empresa Nós somos a BHS! Com 31 anos de experiência no mercado, proporcionamos soluções modernas de TI. Somos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place ...",
-      "issueState": "open",
-      "contentHash": "f286ee801e3c1233e11687b8268aadc45a65492f7bd9b8c075a3ad720e0b0d25",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pleno",
-        "sênior",
-        "remoto",
-        "git",
-        "linux",
-        "docker",
-        "híbrido"
-      ],
-      "author": {
-        "id": "thothismybro",
-        "name": "thothismybro",
-        "handle": "thothismybro",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/118479053?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-07-09T17:39:12Z",
-      "updatedAt": "2026-07-31T15:24:47Z",
-      "url": "https://github.com/backend-br/vagas/issues/12324",
       "sourceType": "github-issue"
     }
   ]

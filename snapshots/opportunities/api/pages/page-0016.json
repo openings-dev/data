@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-02T13:04:02.009Z",
+  "generatedAt": "2026-08-02T18:59:00.424Z",
   "page": 16,
   "pageSize": 20,
   "nextPage": "api/pages/page-0017.json",
   "ids": [
+    "gh_903b11b11902557631119931",
     "gh_fb4ec6f93d17afcf44bb3e60",
     "gh_4f932f9132ac743803a990ff",
     "gh_e69a66e5d4446a6782d444c6",
@@ -22,10 +23,40 @@
     "gh_e2bf92920267625501ec5bdc",
     "gh_ff871b03fcabd20a93060047",
     "gh_6f7c8c640891ada1a0682607",
-    "gh_cc2635eac6a5c5fa4675bbb4",
-    "gh_d193c4164f738b737229e88e"
+    "gh_cc2635eac6a5c5fa4675bbb4"
   ],
   "items": [
+    {
+      "id": "gh_903b11b11902557631119931",
+      "sourceId": "PrepAIJobs/New-Grad-2026#5",
+      "title": "List is not being updated",
+      "description": "",
+      "excerpt": "List is not being updated",
+      "issueState": "open",
+      "contentHash": "e8ec27fccca6b1e252f4621275aa87a3999f3850eba9d2bfc279fa9f1e925f2a",
+      "repository": "PrepAIJobs/New-Grad-2026",
+      "repositoryUrl": "https://github.com/PrepAIJobs/New-Grad-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "ZachPlotkin",
+        "name": "ZachPlotkin",
+        "handle": "ZachPlotkin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/160683758?v=4"
+      },
+      "community": {
+        "id": "PrepAIJobs",
+        "name": "PrepAIJobs",
+        "avatarUrl": "https://github.com/PrepAIJobs.png?size=80",
+        "repository": "PrepAIJobs/New-Grad-2026",
+        "url": "https://github.com/PrepAIJobs/New-Grad-2026"
+      },
+      "createdAt": "2025-11-24T13:39:45Z",
+      "updatedAt": "2025-11-24T13:39:45Z",
+      "url": "https://github.com/PrepAIJobs/New-Grad-2026/issues/5",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_fb4ec6f93d17afcf44bb3e60",
       "sourceId": "ios-taipei/MobileJobs#6",
@@ -710,42 +741,6 @@
       "createdAt": "2025-10-07T21:11:28Z",
       "updatedAt": "2025-10-07T21:11:28Z",
       "url": "https://github.com/datascience-br/vagas/issues/147",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d193c4164f738b737229e88e",
-      "sourceId": "MubeenMohammed/canada-2026-internships#46",
-      "title": "Issue: Feature: linkedin/JobBoard scrapper",
-      "description": "### Select a category\n\nSuggestion\n\n### Issue/Question/Closed Internship\n\nI need a Python/NodeJS script that does the following things:\n1. Scrapes LinkedIn Jobs or any other job boards for recently posted Canadian internships in that particular date.\n2. Check if that job already exists in the listings.json file\n3. Updates the listing.json file accordingly\n4. If possible, add a GitHub workflow that runs this script every day\n\nI am already in the process of writing the script. I need someone to help me. \n\nThank you in advance.",
-      "excerpt": "### Select a category Suggestion ### Issue/Question/Closed Internship I need a Python/NodeJS script that does the following things: 1. Scrapes LinkedIn Jobs or any other job boards for recently posted Canadian interns...",
-      "issueState": "open",
-      "contentHash": "0bfb4d37c0f25a6cb5a0e9adc3fa565e2402cc08501d1e2d24e04c4e0c1e00ad",
-      "repository": "MubeenMohammed/canada-2026-internships",
-      "repositoryUrl": "https://github.com/MubeenMohammed/canada-2026-internships",
-      "region": "North America",
-      "country": "Canada",
-      "tags": [
-        "enhancement",
-        "good first issue",
-        "beginner",
-        "help-wanted"
-      ],
-      "author": {
-        "id": "MubeenMohammed",
-        "name": "MubeenMohammed",
-        "handle": "MubeenMohammed",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/146858479?v=4"
-      },
-      "community": {
-        "id": "MubeenMohammed",
-        "name": "MubeenMohammed",
-        "avatarUrl": "https://github.com/MubeenMohammed.png?size=80",
-        "repository": "MubeenMohammed/canada-2026-internships",
-        "url": "https://github.com/MubeenMohammed/canada-2026-internships"
-      },
-      "createdAt": "2025-10-05T05:36:59Z",
-      "updatedAt": "2025-10-05T05:37:44Z",
-      "url": "https://github.com/MubeenMohammed/canada-2026-internships/issues/46",
       "sourceType": "github-issue"
     }
   ]
