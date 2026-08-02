@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-28T11:11:37.326Z",
+  "generatedAt": "2026-08-02T08:09:35.314Z",
   "country": "Taiwan",
   "countryCode": "TW",
   "region": "Asia",
   "repository": "golangtw/jobs",
   "totals": {
     "opportunities": 29,
-    "openIssues": 9,
-    "closedIssues": 20
+    "openIssues": 8,
+    "closedIssues": 21
   },
-  "dataHash": "5e0e9b11e54be98c257ae40bcc668c18c9d0f14d68607b92128cae854ffd5032",
+  "dataHash": "56eeb3c6443f43337d2e28919bf05feba521a9192dad58c51c54b789fcffbab7",
   "items": [
     {
       "id": "gh_a3c53b8e6a01587253c809b1",
@@ -24,8 +24,9 @@
       "region": "Asia",
       "country": "Taiwan",
       "tags": [
-        "backend",
-        "golang"
+        "遠端",
+        "台北",
+        "90k以上"
       ],
       "author": {
         "id": "jocelyngu-bit",
@@ -47,7 +48,7 @@
         "period": "hour"
       },
       "createdAt": "2026-07-28T09:06:35Z",
-      "updatedAt": "2026-07-28T09:07:52Z",
+      "updatedAt": "2026-08-02T06:12:44Z",
       "url": "https://github.com/golangtw/jobs/issues/233",
       "sourceType": "github-issue"
     },
@@ -319,40 +320,6 @@
       "createdAt": "2025-01-06T07:57:38Z",
       "updatedAt": "2025-03-15T12:08:36Z",
       "url": "https://github.com/golangtw/jobs/issues/220",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_83b439b3147fb792636dee2a",
-      "sourceId": "golangtw/jobs#219",
-      "title": "[遠端]Golang後端工程師 80-130K",
-      "description": "跨國技術團隊\n產業性質：網際網路相關業\n工時：單休 (8小時工時)\n薪資：新台幣 80-130K/月\n產品名稱：GoEdge\n相關網站：https://goedge.cloud/\n團隊規模：50人以內（技術為主）\n\n工作內容：\n1.負責CDN技術安全維護升級和後端服務開發\n2.解決業務邏輯和數據產品相關業務\n3.負責完善和維護後台服務。\n\n能力要求：\n1.3年以上後端服務及2年Golang開發經驗，至少熟悉一個常見的HTTP框架\n2.熟悉網路編程，熟悉TCP、HTTP等通訊協議，正確掌握Golang併發\n3.精通Linux系統結構，並熟練使用各種Linux操作系統命令，具有豐富安全相關經驗\n4.編寫安全代碼，代碼整潔，對技術有熱情，具debug能力。\n\n聯繫方式：\n信箱\n[lucas@marsconsult.com.tw](mailto:lucas@marsconsult.com.tw)\nTG\nhttps://t.me/Mars_Lucas",
-      "excerpt": "跨國技術團隊 產業性質：網際網路相關業 工時：單休 (8小時工時) 薪資：新台幣 80-130K/月 產品名稱：GoEdge 相關網站：https://goedge.cloud/ 團隊規模：50人以內（技術為主） 工作內容： 1.負責CDN技術安全維護升級和後端服務開發 2.解決業務邏輯和數據產品相關業務 3.負責完善和維護後台服務。 能力要求： 1.3年以上後端服務及2年Golang開發經驗，至少熟悉一個常見的HTTP框架 2....",
-      "issueState": "open",
-      "contentHash": "d0dcb2abd4d04049d0c5f0be7cd734c5f8ab5c9806c0268083542a71682f4803",
-      "repository": "golangtw/jobs",
-      "repositoryUrl": "https://github.com/golangtw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "遠端",
-        "80k以上"
-      ],
-      "author": {
-        "id": "MarsLucas003",
-        "name": "MarsLucas003",
-        "handle": "MarsLucas003",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/166805053?v=4"
-      },
-      "community": {
-        "id": "golangtw",
-        "name": "golangtw",
-        "avatarUrl": "https://github.com/golangtw.png?size=80",
-        "repository": "golangtw/jobs",
-        "url": "https://github.com/golangtw/jobs"
-      },
-      "createdAt": "2024-09-11T06:10:45Z",
-      "updatedAt": "2024-12-12T17:07:11Z",
-      "url": "https://github.com/golangtw/jobs/issues/219",
       "sourceType": "github-issue"
     },
     {
@@ -973,6 +940,40 @@
       "createdAt": "2017-08-30T06:06:42Z",
       "updatedAt": "2025-03-15T12:05:56Z",
       "url": "https://github.com/golangtw/jobs/issues/11",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2956958ba2c7f99abc87a7e7",
+      "sourceId": "golangtw/jobs#3",
+      "title": "[台北] [80K以上] [17 直播] Backend Engineer / Architect",
+      "description": "# 17 Media - Backend Engineer / Architect\n\n## 公司簡介\n17 Media（英屬維京群島商麻吉一七股份有限公司臺灣分公司）創立於 2015 年，旗下最知名產品「17 直播」，是一個能夠讓明星藝人、各領域名人、網紅與素人進行直播、錄製節目，以及分享生活點滴的應用程式與社交平台，讓全世界的人即時觀看並參與互動。\n\n## 工作內容\n17media 市場遍佈全球，目前後台流量約為數千QPS。我們的工作是在日漸增長的流量下快速迭代開發，同時兼顧系統穩定。讓我們一起創造改變世界的產品！\n\nAs a backend software engineer, you work on a small team as our fast-paced business grows and evolves. We need our engineers to be versatile and passionate to tackle new problems as we continue to push technology forward. You design, develop, test, deploy, maintain, and enhance software solutions. You will be in charge of:\n- Design large scale, fault tolerant cloud based service infrastructure.\n- Analyze and improve efficiency, scalability, and stability of various system resources.\n- Deployment of new product features and installations to facilitate our rapid iteration and constant growth. \n\n## 招募人數與能力需求\n團隊編制為 14 位工程師，目前有 9 位，還需要 5 位\n\n#### :rocket: Junior Engineer\n##### Must have\n- Strong analytical and coding skill.\n- Open minded, and creative thinking to create new ideas. \n\n##### Nice to have\n- Go programming language.\n- Algorithms, Architecture, Cloud Computing, Database, Distributed Systems, Networking.\n- Previous experience with filesystems, concurrency, multithreading, server architectures, and distributed systems.\n- UNIX/Linux systems knowledge and/or systems administration background.\n\n#### :rocket: Senior Engineer\n##### Additional requirements\n- Ability to work independently with minimal guidance.\n- Experience of system design.\n\n#### :rocket: Architect\n##### Additional requirements\n- Good at large scale system design.\n\n## 薪資範圍\n- Architect：面議\n- Senior：年薪 100 萬新台幣以上\n- Junior：年薪 70 萬新台幣以上\n\n## 工時與休假\n- 無打卡制度，彈性上下班（表定時間為09:00 至 18:00）\n- 週休二日，依國定假日休假\n- 特休極優於勞基法\n- 不扣薪病假 12 天 / 年\n- 生日假\n\n## 公司福利\n- 提供 iMac / MacBook Pro + 外接顯示器 擇一\n- 公司提供免費午餐、健康零食、咖啡、飲料\n- 年終獎金保證 2 個月，以全薪計；中秋、端午禮金\n- 每月運動健身補助最高 3,000 新台幣\n- 年度職能進修補助最高 30,000 新台幣\n- 年度健康檢查補助 2,000 新台幣\n- 年度員工旅遊\n- 不定期員工聚餐\n- 麻吉大哥帶你去看 M17 戰隊的電競比賽\n\n## 團隊福利\n- 如果輸出穩定，每週可有一天 Work from home\n\n## 工作地點\n台北市信義區\n\n## 面試流程\n- 第一階段：HR，2 分鐘\n  - 親切又可愛的 HR 帶您參觀工作環境\n- 第二階段：Backend Team，約 2 ~ 3 個小時\n  - 向您介紹公司、團隊、工作內容\n  - 請您在白板，白紙或您的筆記型電腦上寫一段程式\n  - 請您解決演算法問題，討論複雜度，優化，以及實作\n  - 請您解決系統設計問題，討論優缺點\n  - 由您提問\n  - 細節可參照 https://goo.gl/ShAVps\n- 第三階段：HR，約 0.5 小時\n  - 向您介紹公司制度、福利\n  - 自我介紹\n  - 解答您對 17 Media 的各種問題\n- 第四階段：HR\n  - 1 ~ 7 個工作日內通知面試結果\n  - 錄取的後續聯繫：說明 Offer、可答覆時間、報到時間、設備選擇\n\n## 聯絡方式\n1. 您的履歷中，除了姓名、連絡電話和 Email，請盡量不要提供與學經歷無關的個人資訊，例如照片、性別、生日、身高、婚姻家庭狀況等，謝謝您。\n1. 若有附加履歷檔案，請勿使用 .doc 格式。\n1. 請將您的履歷寄至 [careers.tech@17.media](mailto:careers.tech@17.media)。\n1. 如果你不習慣手寫程式，面試可攜帶筆記型電腦。\n\n## Q&A\n- 是否有招募實習或研發替代役？\n  - 無。\n- 履歷怎麼篩選？\n  - 每一封履歷都會由 Team Lead 親自看過，並回覆 HR 是否邀約面試。\n- 福利是真的嗎？\n  - 是真的！\n- 一直徵才是流動率很高嗎？\n  - 不是。擴編了兩次。",
+      "excerpt": "# 17 Media - Backend Engineer / Architect ## 公司簡介 17 Media（英屬維京群島商麻吉一七股份有限公司臺灣分公司）創立於 2015 年，旗下最知名產品「17 直播」，是一個能夠讓明星藝人、各領域名人、網紅與素人進行直播、錄製節目，以及分享生活點滴的應用程式與社交平台，讓全世界的人即時觀看並參與互動。 ## 工作內容 17media 市場遍佈全球，目前後台流量約為數千QPS。我們的工...",
+      "issueState": "closed",
+      "contentHash": "60aadc3c9558cb9334f355f24fd526312b4078d9d73d3e23d42a6ca1dbbcad10",
+      "repository": "golangtw/jobs",
+      "repositoryUrl": "https://github.com/golangtw/jobs",
+      "region": "Asia",
+      "country": "Taiwan",
+      "tags": [
+        "台北",
+        "80k以上"
+      ],
+      "author": {
+        "id": "roylou",
+        "name": "roylou",
+        "handle": "roylou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5996145?v=4"
+      },
+      "community": {
+        "id": "golangtw",
+        "name": "golangtw",
+        "avatarUrl": "https://github.com/golangtw.png?size=80",
+        "repository": "golangtw/jobs",
+        "url": "https://github.com/golangtw/jobs"
+      },
+      "createdAt": "2017-06-20T10:55:20Z",
+      "updatedAt": "2026-08-02T06:15:11Z",
+      "url": "https://github.com/golangtw/jobs/issues/3",
       "sourceType": "github-issue"
     }
   ]
