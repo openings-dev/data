@@ -1,16 +1,59 @@
 {
-  "generatedAt": "2026-08-01T15:55:48.679Z",
+  "generatedAt": "2026-08-02T13:04:02.009Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "nodejsdevbr/vagas",
   "totals": {
     "opportunities": 28,
-    "openIssues": 4,
-    "closedIssues": 24
+    "openIssues": 5,
+    "closedIssues": 23
   },
-  "dataHash": "5d4e7ea73de88cff39722b1b55617eeb28814858569ae4599a7e7497a026cb87",
+  "dataHash": "9ab6ed9407c8d9931ded78623f0636b6e8905b6f6c864d71ba93b47a8f32dfb3",
   "items": [
+    {
+      "id": "gh_2b40ebfdf92589b10e006de1",
+      "sourceId": "nodejsdevbr/vagas#74",
+      "title": "[Remoto] Fullstack JavaScript (Node.js) Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack JavaScript (Node.js) Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Entregar funcionalidades de ponta a ponta, do banco à tela\n- Manter API e interface evoluindo juntas\n- Participar das decisões de arquitetura do produto\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Fullstack JavaScript (de 2 a 5 anos)\n- TypeScript no backend e no frontend\n- Node.js (NestJS, Express ou Fastify)\n- React ou Next.js\n- SQL e Git\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Testes automatizados end-to-end\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-javascript-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "2e566060fd74e9446decb362196e833df28bf188504098d635737351d31be2e4",
+      "repository": "nodejsdevbr/vagas",
+      "repositoryUrl": "https://github.com/nodejsdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "clt",
+        "pleno",
+        "remoto",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "nodejsdevbr",
+        "name": "nodejsdevbr",
+        "avatarUrl": "https://github.com/nodejsdevbr.png?size=80",
+        "repository": "nodejsdevbr/vagas",
+        "url": "https://github.com/nodejsdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-02T12:21:32Z",
+      "updatedAt": "2026-08-02T12:22:34Z",
+      "url": "https://github.com/nodejsdevbr/vagas/issues/74",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_8694ae720d764a9800ac4d26",
       "sourceId": "nodejsdevbr/vagas#73",
@@ -1090,43 +1133,6 @@
       "createdAt": "2024-09-16T16:34:47Z",
       "updatedAt": "2024-11-21T01:03:21Z",
       "url": "https://github.com/nodejsdevbr/vagas/issues/41",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f53cc07b93e48b8058467d59",
-      "sourceId": "nodejsdevbr/vagas#4",
-      "title": "[Remoto] Dev. Back-End Sr. (Node.Js) @ GOING2",
-      "description": "## Nossa Empresa\n\nA Going2 é uma startup que nasceu em 2012, com o propósito de levar tecnologia de ponta para todo o Brasil, focada em criar produtos que tenham como premissa, facilitar a vida das pessoas e empresas, através do desenvolvimento de Aplicativos, Sistemas e dos princípios de IOT (internet das coisas). Hoje, além de atender clientes nacionais também oferecemos nossos serviços para clientes internacionais, como por exemplo no Canada, Suíça e Estados Unidos.\n\n## Descrição da vaga\n\n**Atividades**\n\n- Pode assumir processo completos, desde o início do desenvolvimento até o lançamento;\n- Capacidade de construir e implementar um sistema a partir do zero;\n- Habilidade analítica de encontrar brechas em grandes projetos;\n- Assume os riscos mais altos dentro do time;\n- Fazer revisões regulares do código;\n- Pode resolver problemas diferentes e de forma independente devido sua experiência;\n- Extenso conhecimento teórico e prático sobre os mais diversos assuntos de tecnologia;\n- Participar do processo de criação e evolução dos produtos e sistemas;\n- Analisar problemas e propor soluções;\n- Implementar provas de conceito e protótipos;\n- Especificar sistemas, processos e APIs;\n- Modelagem de dados;\n- Planejamento e estimativa de desenvolvimento;\n- Desenvolvimento e Testes;\n- Versionamento organizado no Git;\n- Participar dos rituais do time (SCRUM);\n- Manutenção dos produtos e sistemas;\n- Alinhamento com pares;\n- Participar de comitês e grupos de acordo com suas especialidades;\n- Cumprir entregas no prazo e com alta qualidade;\n- Liderar e ajudar desenvolvedores do time.\n\n**Requisitos**\n\n- (Geralmente mais de 6 anos de experiência com desenvolvimento de software);\n- Inglês avançado;\n- Alto nível de autoconhecimento e autodesenvolvimento;\n- Experiência na resolução de problemas e tarefas de alta complexidade;\n- Mentalidade de cientista, busca experiências e inovações cotidianamente;\n- Especialista em mentoria e desenvolvimento de novos talentos;\n- Conhecimento e experiência em todos os aspectos da engenharia de software;\n- Capacidade em delegar tarefas com assertividade;\n- Capacidade de justificar processos e valores usando dados e bom poder de convencimento;\n- Tem uma visão do bigpicture e, ao mesmo tempo, profunda do negócio;\n- Conhecimento sólido de Javascript (Node.JS), Express, NestJS, TypeORM, MySQL;\n- Experiência avançadas de Arquitetura em Camadas;\n- Conhecimento proficiente em Git;\n- CI/CD;\n- Docker;\n- Kubernetes (desejável);\n- Conhecimentos em banco de dados não-relacionais, preferencialmente MongoDB;\n- Experiência com testes automatizados;\n- Tempo de experiência em projetos iniciado do zero com a equipe até entrega.\n\n**Benefícios**\n\nConvênio Médico Sul-América (sem custo para titular);\nConvênio Odontológico Sul-América (sem custo para titular);\nGympass;\nConvênio com plataforma de idiomas (Fluency Academy);\nDay-Off de aniversário;\n15 dias de descanso remunerado;\nPlano de carreira.\n\n**Outras Informações**\nPJ\nHorário: 09h às 18h\nContrato de prazo indeterminado\nCaso tenha interesse encaminhar CV e pretensão salarial para o e-mail: mariajulia.ricosti@going2.com.br com o assunto BACK END SENIOR \n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n\n- Sênior\n\n\n### Regime\n\n- PJ\n\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa Empresa A Going2 é uma startup que nasceu em 2012, com o propósito de levar tecnologia de ponta para todo o Brasil, focada em criar produtos que tenham como premissa, facilitar a vida das pessoas e empresas, ...",
-      "issueState": "closed",
-      "contentHash": "27123c12afc531a6356888dccc5e352caf63cfe519744f5883eed4216d7d5750",
-      "repository": "nodejsdevbr/vagas",
-      "repositoryUrl": "https://github.com/nodejsdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "especialista",
-        "pj",
-        "remoto",
-        "sênior",
-        "💰 nao informado"
-      ],
-      "author": {
-        "id": "api-br-vagas[bot]",
-        "name": "api-br-vagas[bot]",
-        "handle": "api-br-vagas[bot]",
-        "avatarUrl": "https://avatars.githubusercontent.com/in/384052?v=4"
-      },
-      "community": {
-        "id": "nodejsdevbr",
-        "name": "nodejsdevbr",
-        "avatarUrl": "https://github.com/nodejsdevbr.png?size=80",
-        "repository": "nodejsdevbr/vagas",
-        "url": "https://github.com/nodejsdevbr/vagas"
-      },
-      "createdAt": "2023-08-31T23:54:53Z",
-      "updatedAt": "2024-10-07T08:55:51Z",
-      "url": "https://github.com/nodejsdevbr/vagas/issues/4",
       "sourceType": "github-issue"
     }
   ]

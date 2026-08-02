@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-02T05:48:48.381Z",
+  "generatedAt": "2026-08-02T13:04:02.009Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
+    "gh_1064af9b7fc9aca6eda2af2d",
+    "gh_04e16e2c007892d76818f4d4",
+    "gh_ba4f8e13f468e4ef55d8683c",
+    "gh_046e40a5a4aaffa9b0373703",
     "gh_08c2b289f0b0fbaf5bd9f142",
     "gh_23e88f37c8cdd99dec55a249",
     "gh_42aec3e02f4705505e208eb2",
@@ -19,13 +23,167 @@
     "gh_3cb49aacda2ec7dd8e38be24",
     "gh_0f0495da862b94749892e684",
     "gh_d6f31a804dacbc548031ec5e",
-    "gh_1cb7700b20f4fcdce63c6f02",
-    "gh_e5a048bc61d56ec20e336489",
-    "gh_15fb9ec0047c0e7cc80ada55",
-    "gh_5903d3232c2f99d9ae568fe8",
-    "gh_eae48d87a90e3ffbeb60afaf"
+    "gh_1cb7700b20f4fcdce63c6f02"
   ],
   "items": [
+    {
+      "id": "gh_1064af9b7fc9aca6eda2af2d",
+      "sourceId": "DevOps-Brasil/Vagas#461",
+      "title": "[Senior DevOps Engineer] DWS Brazil - Remoto",
+      "description": "### 🎯 Cargo\n\nSenior DevOps Engineer\n\n### 🏢 Empresa\n\ndentsu world services brazil [DWS Brazil]\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nSede em Porto Alegre - RS [vaga remota para residentes no Brasil]\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\nR$11.000-12.000 - podemos conversar melhor :)\n\n### 📋 Descrição da Vaga\n\nEstamos em busca de uma pessoa Engenheira de DevOps para participar de iniciativas de infraestrutura e automação em ambientes em núvem. Essa pessoa atuará de forma prática no desenvolvimento de soluções escaláveis, além de garantir a qualidade das entregas em ambientes distribuídos e altamente dinâmicos.\n\n**Responsabilidades e atribuições\n\nVocê será responsável por:**\n• Projetar e construir pipelines de CI/CD seguros para múltiplos sistemas de destino.\n• Desenvolver e gerenciar pipelines usando principalmente GitHub Actions, além de outras ferramentas como Jenkins, Bamboo e Travis.\n• Automatizar processos manuais e desenvolver ferramentas que aumentem a eficiência operacional.\n• Colaborar com os times de desenvolvimento para apoiar a adoção de ferramentas e práticas DevOps.\n• Garantir o uso de padrões seguros e boas práticas em pipelines e infraestrutura.\n• Escrever e manter infraestrutura como código (IaC), preferencialmente com Terraform (conhecimento em Ansible será considerado um diferencial).\n• Trabalhar em parceria com as equipes de infraestrutura para entregar soluções robustas e confiáveis.\n• Solucionar problemas e otimizar os ambientes de desenvolvimento, homologação e produção.\n• Contribuir para estratégias técnicas e apoiar a evolução da plataforma.\n• Compartilhar conhecimento e atuar como referência técnica para outros membros do time.\n\n### ✅ Requisitos Técnicos\n\n```markdown\nRequisitos e qualificações\nPara essa posição, é importante que você tenha:\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com azure, preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\nSerá legal se você tiver:\n\n• Experiência com Helm e criação de charts.\n• Familiaridade com Kubernetes (não é obrigatório — oferecemos treinamento).\n• Conhecimentos em segurança de aplicações e infraestrutura, redes (TCP/IP) e PKI.\n• Experiência com ferramentas de qualidade de código, como SonarQube.\n• Experiência com repositórios privados de pacotes (npm, PyPI, NuGet).\n• Habilidade para troubleshooting em ambientes com [Node.js](http://node.js/) e Python.\n• Conhecimento em scripts (bash/sh/ksh).\n```\n\n### 🎁 Benefícios\n\n**Aqui você vai encontrar (Nossos benefícios):**\n\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n-  Aulas de inglês com professor particular;\n-  Awesomeness - envio de mimos temáticos e exclusivos;\n-  Gympass;\n-  Horário flexível (40h semanais);\n-  Day off de aniversário;\n-  Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n-  Atuação 100% remota ou híbrida (a sua escolha).\n\n### 🛠️ Stack/Tecnologias\n\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com **azure,** preferencialmente)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\n### 📧 Como se Candidatar\n\nInscreva-se na vaga: https://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\nou envie um email com seu CV atualizado em inglês, pretensão salarial e nível de inglês para: debora.dalbem@dentsu.com\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://dwsbrazil.gupy.io/jobs/11258209?jobBoardSource=gupy_public_page\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Senior DevOps Engineer ### 🏢 Empresa dentsu world services brazil [DWS Brazil] ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Sede em Porto Alegre - RS [vaga r...",
+      "issueState": "open",
+      "contentHash": "1eb2d8c742d0703939ec8387ca516c7afb00dc8890ae2d4203f3078f488e4cf2",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "stale",
+        "sre",
+        "platform",
+        "infra",
+        "security",
+        "azure"
+      ],
+      "author": {
+        "id": "dwsbrazil",
+        "name": "dwsbrazil",
+        "handle": "dwsbrazil",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 11000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-05-18T13:44:20Z",
+      "updatedAt": "2026-07-18T03:16:25Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/461",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_04e16e2c007892d76818f4d4",
+      "sourceId": "nerdzao/vagas#190",
+      "title": "Vagas Tecnologia",
+      "description": "A [3 Pontos](https://3pontos.com/l) é um ecossistema que une solução e conhecimento em um único lugar.\n\nEstamos sempre em busca de profissionais talentosos da área de tecnologia para fazer parte do nosso time. Se você gosta de inovação, resolver problemas complexos e trabalhar em um ambiente colaborativo, queremos conhecer você.\n\nAo se inscrever em nosso Banco de Talentos, seu perfil poderá ser considerado para futuras oportunidades alinhadas à sua experiência e interesses.\n\n**Áreas que buscamos**\nBuscamos profissionais de diferentes níveis (Júnior, Pleno e Sênior) nas seguintes áreas:\n\n- Desenvolvimento Back-end\n- Desenvolvimento Front-end\n- Full Stack\n- UI/UX Design\n- Product Management\n- QA / Testes\n- DevOps / Cloud\n- Data / Analytics\n- Segurança da Informação\n\n**O que esperamos:**\n\nExperiência com desenvolvimento de produtos digitais\nPerfil colaborativo e orientado à resolução de problemas\nBoa comunicação e trabalho em equipe\n\nSe aplique pela nossa página de carreiras: https://recrutamento.3pontos.com/vagas/banco-de-talentos-tecnologia-ybhf\n\n\nEsperamos por vocês!!",
+      "excerpt": "A [3 Pontos](https://3pontos.com/l) é um ecossistema que une solução e conhecimento em um único lugar. Estamos sempre em busca de profissionais talentosos da área de tecnologia para fazer parte do nosso time. Se você ...",
+      "issueState": "open",
+      "contentHash": "6ba11401c8db862457eccbaf0211033babb805a4290caae22bef9a44c7e2ca1a",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "Malu3pontos",
+        "name": "Malu3pontos",
+        "handle": "Malu3pontos",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/282318656?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-05-15T15:16:11Z",
+      "updatedAt": "2026-05-15T15:16:11Z",
+      "url": "https://github.com/nerdzao/vagas/issues/190",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ba4f8e13f468e4ef55d8683c",
+      "sourceId": "programadores-br/geral#3067",
+      "title": "[Remoto] Product Owner Jr na Coodesh",
+      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nBuscamos uma mente curiosa, organizada e apaixonada por resolver problemas para se juntar ao nosso time de Produto. Como **PO Júnior**, você será a ponte fundamental entre as necessidades dos nossos usuários e a execução técnica do time de desenvolvimento.\n\nEste é o lugar ideal para quem deseja consolidar seus conhecimentos em metodologias ágeis e aprender na prática como transformar uma visão de negócio em funcionalidades de alto impacto.\n## Credifit SCD: \n <p>A Credifit é uma FinTech do tipo SCD - Sociedade de Crédito Direto. Isto significa que somos uma Instituição Financeira regulada pelo Banco Central, e por isso, não precisamos de intermediários para fazer nossas operações de crédito. Temos o coração Tech e já nascemos com a metodologia ágil no sangue. Queremos mais que desenvolvedores, e sim pessoas que façam parte do nosso negócio, e conheçam sobre as áreas da empresa. Estamos aqui para crescer!</p></p>\n\n ## Habilidades: \n - Backlog \n- Contabilidade \n- Estabelecer KPIs \n- Gestão de prioridade \n- Organização \n- Comunicação\n## Local: \n Remota\n## Requisitos: \n - Mentalidade Analítica: Capacidade de ler dados e transformá-los em hipóteses de melhoria. \n- Comunicação: Você precisará explicar o contexto das necessidades para times dev e backoffice interno. \n- Organização: Facilidade para lidar com prazos e prioridades mutáveis. \n- Conhecimento Base: Entendimento de metodologias Ágeis (Scrum/Kanban). \n- Diferencial: Conhecimento em ferramentas de gestão (Jira, Trello ou ClickUp) e noções de UX/UI.\n## Diferenciais: \n - Conhecimento em Contabilidade será considerado um diferencial.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Product Owner Jr na Credifit SCD](https://coodesh.com/jobs/product-owner-jr-112318609?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nGestão",
+      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
+      "issueState": "open",
+      "contentHash": "57ede4f24b18292f780c6932eae42e3d162e35796c910f956cbab42c585cec79",
+      "repository": "programadores-br/geral",
+      "repositoryUrl": "https://github.com/programadores-br/geral",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remoto",
+        "júnior",
+        "pj"
+      ],
+      "author": {
+        "id": "FrancieleGhizzoni",
+        "name": "FrancieleGhizzoni",
+        "handle": "FrancieleGhizzoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
+      },
+      "community": {
+        "id": "programadores-br",
+        "name": "programadores-br",
+        "avatarUrl": "https://github.com/programadores-br.png?size=80",
+        "repository": "programadores-br/geral",
+        "url": "https://github.com/programadores-br/geral"
+      },
+      "companyName": "Coodesh",
+      "createdAt": "2026-05-14T11:23:47Z",
+      "updatedAt": "2026-05-14T11:24:06Z",
+      "url": "https://github.com/programadores-br/geral/issues/3067",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_046e40a5a4aaffa9b0373703",
+      "sourceId": "backend-br/vagas#12232",
+      "title": "[Remoto] Desenvolvedor Full-Stack Pleno - Igma",
+      "description": "## **Nossa empresa**\n\nA **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n## **Descrição da vaga**\n\nNa **Igma**, como **Dev Full-Stack,** você será responsável por:\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\n**Premissas culturais**\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n**Etapas do processo**\n\n1. Cadastro\n2. Entrevista inicial\n3. Fit Cultural\n4. Entrevista técnica\n5. Proposta\n6. Contratação\n\n## Local\n\n100% Remoto\n\n## **Requisitos**\n\n- Experiência comprovada de ao menos 2 anos com desenvolvimento fullstack.\n- Experiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\n- Experiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\n- Conhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\n- Experiência com integração de APIs REST e/ou GraphQL.\n- Conhecimento em bancos de dados relacionais e não relacionais.\n- Controle de versão com Git.\n- Boas práticas de testes automatizados (unitários e integração).\n- Familiaridade com pipelines de CI/CD.\n- Conhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n## **Benefícios**\n\n- Trabalho 100% remoto\n- Plano de Saúde individual\n- Auxílio Cuidado e Desenvolvimento\n- Incentivo à prática de esportes\n- Seguro de vida\n- Cartão multi-benefício através do Caju\n- Auxílio Remoto para investimento em equipamentos (R$2.000 anual)\n- PJ - 30 dias de férias remuneradas\n\n## **Contratação**\n\nPJ\n\n## **Como se candidatar**\n\nhttps://jobs.quickin.io/igma/jobs/69fc945c7999060013a0d997\n\n\n### **Nível**\n\n- Pleno\n\n### **Regime**\n\n- PJ\n\n### **Alocação**\n\n- Remoto",
+      "excerpt": "## **Nossa empresa** A **Igma** é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado t...",
+      "issueState": "open",
+      "contentHash": "1df3a1842044574352bfca20ba7a04372b868bf6662de36159c1e445a4cb7b26",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "node.js",
+        "remoto",
+        "testes automatizados",
+        "git",
+        "stale",
+        "ci/cd"
+      ],
+      "author": {
+        "id": "mcfo-contato",
+        "name": "mcfo-contato",
+        "handle": "mcfo-contato",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-05-07T13:54:55Z",
+      "updatedAt": "2026-07-28T19:48:44Z",
+      "url": "https://github.com/backend-br/vagas/issues/12232",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_08c2b289f0b0fbaf5bd9f142",
       "sourceId": "cncf/gitjobs#383",
@@ -593,157 +751,6 @@
       "createdAt": "2026-03-06T12:55:35Z",
       "updatedAt": "2026-03-06T12:56:00Z",
       "url": "https://github.com/programadores-br/geral/issues/3059",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e5a048bc61d56ec20e336489",
-      "sourceId": "devfsa/vagas#2825",
-      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=devfsa-vagas&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=devfsa-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "6fc2c15d658a4ac2ab9098b53157bb8426e83dd9a819eaec0f4aaeaa0855ea1c",
-      "repository": "devfsa/vagas",
-      "repositoryUrl": "https://github.com/devfsa/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "react",
-        "java",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "devfsa",
-        "name": "devfsa",
-        "avatarUrl": "https://github.com/devfsa.png?size=80",
-        "repository": "devfsa/vagas",
-        "url": "https://github.com/devfsa/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:55:17Z",
-      "updatedAt": "2026-03-06T12:55:17Z",
-      "url": "https://github.com/devfsa/vagas/issues/2825",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_15fb9ec0047c0e7cc80ada55",
-      "sourceId": "programadores-br/geral#3058",
-      "title": "[Remoto] Full Cycle Developer (Pleno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos em busca de uma pessoa Desenvolvedora Full Cycle para integrar nosso time de tecnologia! \nSe você é apaixonado por tecnologia, adora desafios e quer construir o futuro da logística conosco, essa oportunidade é para você!\nResponsabilidades:\n\nParticipar de todas as etapas do ciclo de desenvolvimento, desde a modelagem inicial da solução até o acompanhamento em produção;\nTrabalhar de ponta a ponta, colaborando com equipes multidisciplinares para entregar soluções inovadoras e de alto impacto;\nContribuir para a transformação digital da logística, elevando o padrão de qualidade e eficiência em nossos processos.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Nest.JS \n- React.js \n- AWS \n- SQL\n## Local: \n Remota\n## Requisitos: \n - Experiência em desenvolvimento full cycle utilizando tecnologias javascript (nest.js / React.js) \n- Conhecimento e experiência AWS \n- SQL\n\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Full Cycle Developer (Pleno) na BeTruck](https://coodesh.com/jobs/full-cycle-developer-pleno-125313605?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "52d3395e780ad7bb85db9deb07c4508f8a8366b4a559df19fcc296f1c4bc81c4",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-03-06T12:54:58Z",
-      "updatedAt": "2026-03-06T12:55:21Z",
-      "url": "https://github.com/programadores-br/geral/issues/3058",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5903d3232c2f99d9ae568fe8",
-      "sourceId": "kotlin-br/vagas#42",
-      "title": "[Remoto] Kotlin Developer (Sênior) na ITeam",
-      "description": "### Nossa empresa\n\n\nHá 20 anos no mercado a ITeam é especializada em soluções SAP,  realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções específicas. \nReunimos capital intelectual especializado por profissionais experientes e capacitados a prestar os melhores serviços nas diferentes áreas de atuação, submetidos a treinamentos constantes para estarem sempre atualizados com as melhores práticas de mercado. \nO relacionamento da ITeam é baseado no amplo comprometimento com os valores e objetivos dos nossos Clientes, fornecendo soluções e serviços de TI que contribuam para a realização de seus objetivos.\n\n\n### Descrição da vaga\n\nDesenvolvedor Kotlin Back-end com sólida experiência em engenharia de software, com foco em soluções na AWS.\n\n### Local\n\n\nRemoto\nHorário: 09h às 18h\n\n### Requisitos: \n\nPossui conhecimento avançado em serviços AWS, como Lambda, ECS, SQS, S3 e EventBridge, entre outros.\nExperiência com padrões de projeto e Clean Architecture.\nVivência com bancos de dados SQL e NoSQL.\nFamiliaridade com ferramentas de observabilidade, como Splunk e CloudWatch.\nExperiência com Infra as Code (CloudFormation e Terraform).\nAtuação com versionamento de código utilizando Git.\n\n\n### Contratação\n\nPrazo de contrato: 12 meses (com possibilidade de efetivação)\nRegime: PJ (necessário empresa aberta) ou CLT\n\n### Como se candidatar\n\nPor favor, envie o currículo atualizado com a pretensão de taxa/hora PJ ou CLT para: viviane.pereira@iteam.inf.br\n\n### Tempo médio de feedbacks\n\n1 semana\n\n### Keywords\n\nKotlin\nAWS\nTerraform\nGit\n\n### Alocação\n\n- [X] Alocado\n- [X] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [X] CLT\n- [ ] Estágio\n- [ ] Freela\n- [X] PJ\n- [ ] Cooperado\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto",
-      "excerpt": "### Nossa empresa Há 20 anos no mercado a ITeam é especializada em soluções SAP, realizando projetos de Implementação, Rollout, Integração de Sistemas e em Serviços de Outsourcing e em desenvolvimento de soluções espe...",
-      "issueState": "open",
-      "contentHash": "ceb41344be5ed48efb9f1e54bc689921fcc7093f667706a866737cc747ed3e4e",
-      "repository": "kotlin-br/vagas",
-      "repositoryUrl": "https://github.com/kotlin-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "estágio",
-        "contrato",
-        "remoto",
-        "híbrido",
-        "presencial",
-        "júnior"
-      ],
-      "author": {
-        "id": "ITeam-oportunidades",
-        "name": "ITeam-oportunidades",
-        "handle": "ITeam-oportunidades",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121249868?v=4"
-      },
-      "community": {
-        "id": "kotlin-br",
-        "name": "kotlin-br",
-        "avatarUrl": "https://github.com/kotlin-br.png?size=80",
-        "repository": "kotlin-br/vagas",
-        "url": "https://github.com/kotlin-br/vagas"
-      },
-      "companyName": "ITeam",
-      "createdAt": "2026-03-03T14:46:28Z",
-      "updatedAt": "2026-03-03T14:46:47Z",
-      "url": "https://github.com/kotlin-br/vagas/issues/42",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_eae48d87a90e3ffbeb60afaf",
-      "sourceId": "qa-brasil/vagas#1243",
-      "title": "[Remoto] QA Pleno na BLIS",
-      "description": "## Descrição da vaga\n\nSomos o primeiro aplicativo do mundo que dá acesso legal a Cannabis Medicinal. Com mais de 500 mil downloads, a blis está presente em mais de 800 cidades brasileiras, realizando todo o passo a passo necessário para que qualquer pessoa encontre a sua melhor versão.\n\nhttps://apps.apple.com/br/app/blis-da-consulta-%C3%A0-entrega/id6474689421\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\n• Experiência como QA Pleno (mínimo 2 anos)\n• Escrita estruturada de cenários de teste\n• Documentação\n• Jira\n• Testes manuais estruturados\n• Testes exploratórios e regressivos\n• Testes automatizados\n\nConhecimento em:\n\n• Noções de testes de API (Postman ou similar)\n• Noções de SQL para validação de dados\n• Experiência validando fluxos entre Web e App\n\nPerfil Comportamental:\n\n• Perfil analítico (questiona regras, não testa apenas botões)\n• Proativo na identificação de riscos\n• Comunicação clara com time técnico\n• Organização na documentação\n• Visão sistêmica (entende impactos entre telas, status e integrações)\n\n**Diferenciais**\n• Experiência com automação E2E (Maestro Studio)\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- 30 dias de descanso remunerado\n- Wellhub\n- 10% do salário de bônus com metas batidas \n\n## Como se candidatar\n\n- Enviar e-mail para big@appblis.com com pretensão salarial PJ e o currículo.\n\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- PJ\n- Pleno\n- Sênior\n- Remoto",
-      "excerpt": "## Descrição da vaga Somos o primeiro aplicativo do mundo que dá acesso legal a Cannabis Medicinal. Com mais de 500 mil downloads, a blis está presente em mais de 800 cidades brasileiras, realizando todo o passo a pas...",
-      "issueState": "open",
-      "contentHash": "e1f96b2b843dc90452cae5ac516eb4cd7479441cff3d4d3932f5c0e0d6467bf1",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "marceloblis",
-        "name": "marceloblis",
-        "handle": "marceloblis",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/219734845?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "30 dias de descanso remunerado",
-      "createdAt": "2026-03-02T16:16:49Z",
-      "updatedAt": "2026-06-05T13:16:11Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1243",
       "sourceType": "github-issue"
     }
   ]
