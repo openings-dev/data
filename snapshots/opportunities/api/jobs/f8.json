@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-08-01T02:03:55.904Z",
+  "generatedAt": "2026-08-03T06:12:50.041Z",
   "items": {
+    "gh_f83ab72e76fc4802a6079563": {
+      "id": "gh_f83ab72e76fc4802a6079563",
+      "sourceId": "timqian/open-source-jobs#181",
+      "title": "Script/workflow bug",
+      "description": "The workflow can be run multiple times, creating duplicated items in RSS and updates.json\n. Example: https://github.com/timqian/open-source-jobs/pull/180\n\nThis should only appear when repos.csv is updated:\n  1 workflow awaiting approval\n  This workflow requires approval from a maintainer. \n\nthe script should prevent duplicted items in RSS and updates.json",
+      "excerpt": "The workflow can be run multiple times, creating duplicated items in RSS and updates.json . Example: https://github.com/timqian/open-source-jobs/pull/180 This should only appear when repos.csv is updated: 1 workflow a...",
+      "issueState": "open",
+      "contentHash": "9b4614a453c22ea025c7c23462b630b6c954b405a55e2d2573979aedf1ef9c0d",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "timqian",
+        "name": "timqian",
+        "handle": "timqian",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5512552?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-08-03T03:51:27Z",
+      "updatedAt": "2026-08-03T03:51:27Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/181",
+      "sourceType": "github-issue"
+    },
     "gh_f8c0eaaa4dadee8da0d607e5": {
       "id": "gh_f8c0eaaa4dadee8da0d607e5",
       "sourceId": "SimplifyJobs/Summer2026-Internships#9655",

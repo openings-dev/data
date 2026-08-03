@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T18:59:00.424Z",
+  "generatedAt": "2026-08-03T06:12:50.041Z",
   "country": "Global",
   "countryCode": "GLOBAL",
   "region": "Global",
@@ -9,15 +9,46 @@
     "openIssues": 6,
     "closedIssues": 6
   },
-  "dataHash": "5928474949980eb4d412b7b856adfdd2fe20695d75ddf2c170ba1f742ea39680",
+  "dataHash": "16cc4ad96d40cfaac5a7ab55c26ad9598cfd8b2adbccc575565868ac5b176056",
   "items": [
+    {
+      "id": "gh_f83ab72e76fc4802a6079563",
+      "sourceId": "timqian/open-source-jobs#181",
+      "title": "Script/workflow bug",
+      "description": "The workflow can be run multiple times, creating duplicated items in RSS and updates.json\n. Example: https://github.com/timqian/open-source-jobs/pull/180\n\nThis should only appear when repos.csv is updated:\n  1 workflow awaiting approval\n  This workflow requires approval from a maintainer. \n\nthe script should prevent duplicted items in RSS and updates.json",
+      "excerpt": "The workflow can be run multiple times, creating duplicated items in RSS and updates.json . Example: https://github.com/timqian/open-source-jobs/pull/180 This should only appear when repos.csv is updated: 1 workflow a...",
+      "issueState": "open",
+      "contentHash": "9b4614a453c22ea025c7c23462b630b6c954b405a55e2d2573979aedf1ef9c0d",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "timqian",
+        "name": "timqian",
+        "handle": "timqian",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5512552?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-08-03T03:51:27Z",
+      "updatedAt": "2026-08-03T03:51:27Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/181",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_96d3acfa35ab841fd1e993a8",
       "sourceId": "timqian/open-source-jobs#179",
       "title": "[New Repo]: Adding zed-industries as they also have job openings on their website.",
       "description": "### Repository\n\nhttps://github.com/zed-industries/zed\n\n### Company Name\n\nZed\n\n### Company URL\n\nhttps://zed.dev/\n\n### Career/Job Page URL\n\nhttps://zed.dev/jobs\n\n### Repository Description\n\nCode at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\n\n### Primary Language\n\nRust\n\n### Tags\n\ntext-editor, developer-tooling\n\n### Verification\n\n- [x] This repository is actively maintained and the company is currently hiring\n- [x] I have verified that the career/job page URL is correct and active\n- [x] This repository is not already in the list",
       "excerpt": "### Repository https://github.com/zed-industries/zed ### Company Name Zed ### Company URL https://zed.dev/ ### Career/Job Page URL https://zed.dev/jobs ### Repository Description Code at the speed of thought – Zed is ...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "867ff6bf33067e4ab1712239b30377c0ad7d1bd5db3c8a0d8421dc2ccd082748",
       "repository": "timqian/open-source-jobs",
       "repositoryUrl": "https://github.com/timqian/open-source-jobs",
@@ -38,7 +69,7 @@
         "url": "https://github.com/timqian/open-source-jobs"
       },
       "createdAt": "2026-08-02T16:08:29Z",
-      "updatedAt": "2026-08-02T16:08:29Z",
+      "updatedAt": "2026-08-03T04:06:02Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/179",
       "sourceType": "github-issue"
     },
@@ -103,7 +134,7 @@
         "url": "https://github.com/timqian/open-source-jobs"
       },
       "createdAt": "2026-04-21T10:30:11Z",
-      "updatedAt": "2026-04-21T10:30:30Z",
+      "updatedAt": "2026-08-03T03:52:53Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/173",
       "sourceType": "github-issue"
     },
@@ -357,39 +388,6 @@
       "createdAt": "2025-11-28T01:44:23Z",
       "updatedAt": "2025-11-28T01:53:06Z",
       "url": "https://github.com/timqian/open-source-jobs/issues/152",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_728305e60f7f7ebcb94319af",
-      "sourceId": "timqian/open-source-jobs#150",
-      "title": "[New Repo]: https://github.com/openedx/edx-platform",
-      "description": "### Repository\n\nopenedx/edx-platform\n\n### Company Name\n\nOpenCraft\n\n### Company URL\n\nhttps://opencraft.com/\n\n### Career/Job Page URL\n\nhttps://opencraft.com/jobs/\n\n### Repository Description\n\nThe Open edX LMS & Studio, powering education sites around the world!\n\n### Primary Language\n\npython\n\n### Tags\n\nedx, education\n\n### Verification\n\n- [x] This repository is actively maintained and the company is currently hiring\n- [x] I have verified that the career/job page URL is correct and active\n- [x] This repository is not already in the list",
-      "excerpt": "### Repository openedx/edx-platform ### Company Name OpenCraft ### Company URL https://opencraft.com/ ### Career/Job Page URL https://opencraft.com/jobs/ ### Repository Description The Open edX LMS & Studio, powering ...",
-      "issueState": "closed",
-      "contentHash": "cee13ff761f55384caf9e661aed1bbdb7bc12495bb99296da4a3678d847fb0c2",
-      "repository": "timqian/open-source-jobs",
-      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "python"
-      ],
-      "author": {
-        "id": "timqian",
-        "name": "timqian",
-        "handle": "timqian",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5512552?v=4"
-      },
-      "community": {
-        "id": "timqian",
-        "name": "timqian",
-        "avatarUrl": "https://github.com/timqian.png?size=80",
-        "repository": "timqian/open-source-jobs",
-        "url": "https://github.com/timqian/open-source-jobs"
-      },
-      "createdAt": "2025-11-26T13:47:19Z",
-      "updatedAt": "2025-11-27T02:42:54Z",
-      "url": "https://github.com/timqian/open-source-jobs/issues/150",
       "sourceType": "github-issue"
     }
   ]
