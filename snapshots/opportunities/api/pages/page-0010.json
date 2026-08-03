@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-03T12:15:07.924Z",
+  "generatedAt": "2026-08-03T17:05:42.008Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_f70bca3063fbfbf2f82a823e",
+    "gh_094d438d4112cfc66e7c43d3",
+    "gh_2d8aa4402dd1dbaa2cdb4420",
+    "gh_7b0790eab0e7e8741e23914a",
     "gh_f9b05570441c5238a96e1a2d",
     "gh_deacd027702e1cb8c6ccb289",
     "gh_5467ab05eff3efac04d00a4e",
@@ -19,13 +23,163 @@
     "gh_31771006fb197da7d3ea896f",
     "gh_03e1ed1f70d913dbf9112931",
     "gh_c21fe4f8cf97111ea9a277bf",
-    "gh_ffe16aeba48ee05bf8013d15",
-    "gh_50557775750b90b91b2f6863",
-    "gh_c0671970e9661218f7affa0d",
-    "gh_c16a9b067fa99b03ac968205",
-    "gh_aec2ffeef8cf33d58c1411b3"
+    "gh_ffe16aeba48ee05bf8013d15"
   ],
   "items": [
+    {
+      "id": "gh_f70bca3063fbfbf2f82a823e",
+      "sourceId": "awesome-jobs/vietnam#4964",
+      "title": "VinMotion - Robotics System Engineer - Junior/Senior/Expert - Onsite/Hanoi - FTE",
+      "description": "**Department: Application Deployment\nLocation: Gia Lam, Ha Noi\nReports to: Head of System integration.**\n\n**Job Summary:**\n\nAs a Software Engineer, you will be responsible for designing, developing, and implementing solutions for SLAM programs, localization, and navigation for robots …. \n\n**Responsibilities:\nSenior:** \n- Define the overall architecture of robotic systems, including hardware, software, and communication frameworks.\n- Ensure modularity and scalability in design for future upgrades and integrations\n- Select appropriate computing platforms, middleware (e.g., ROS2), and networking solutions.\n- Design and optimize advanced SLAM architectures (e.g., graph-based SLAM, deep learning-based SLAM).\n- Lead the integration of multiple SLAM approaches (e.g., visual SLAM + LiDAR SLAM).\n- Develop high-performance, scalable, and modular robotics software solutions.\n- Architect real-time sensor fusion frameworks to enhance localization accuracy.\n- Improve parallel computing and GPU acceleration for SLAM-related tasks.\n- Mentor and guide junior engineers, conduct code reviews and technical training.\n- Contribute to research and development by evaluating state-of-the-art SLAM techniques.\n- Optimize robotics software for real-world deployment in harsh environments.\n- Collaborate with cross-functional teams to define long-term SLAM strategies.\n- Document code and write technical reports on development progress.\n\n**Requirements:\nCommon:**\n\n- Education: Bachelor's or higher in Robotics, Computer Science, Electrical/Mechanical Engineering, or a related field.\n- SLAM Knowledge: Understanding of SLAM techniques (e.g., Visual SLAM, LiDAR SLAM, Graph-Based SLAM).\n- Programming: Strong proficiency in Python (and optionally C++ for performance-critical tasks).\n- Linux Development: Experience with Ubuntu, Bash scripting, system administration, and debugging tools.\n- Robotics Frameworks: Experience with ROS2 (Robot Operating System), Gazebo, OpenCV, PCL.\n- Algorithms & Mathematics: Understanding of linear algebra, optimization, and probability theory related to SLAM.\n- Version Control: Familiarity with Git, GitHub/GitLab, and CI/CD workflows\n- Testing: Writing unit tests and integration tests for robotic applications.\n\n**Senior:**\n\n- Advanced SLAM Expertise: Deep knowledge of SLAM backends, graph optimization, sensor fusion \n- Linux System Optimization: Experience with real-time Linux kernels, networking, and system performance tuning.\n- High-Performance Computing: Knowledge of multithreading, GPU acceleration (CUDA, OpenCL)\n- C++ Expertise: Strong proficiency in C++ (memory management, performance optimization, templates).\n- Machine Learning in SLAM: Experience with deep learning-based SLAM (e.g., DeepVO, DROID-SLAM, SuperGlue, reinforcement learning)\n- Project Leadership: Ability to architect, plan, and execute complex robotics projects.\n- Mentorship & Code Review: Experience mentoring junior engineers and conducting rigorous code reviews.\n- Industry Experience: Familiarity with real-world robot deployments in industrial, automotive, or research settings.\n- Experience: 5+ years of experience in robotics software engineering, SLAM, or autonomous systems.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**Department: Application Deployment Location: Gia Lam, Ha Noi Reports to: Head of System integration.** **Job Summary:** As a Software Engineer, you will be responsible for designing, developing, and implementing sol...",
+      "issueState": "open",
+      "contentHash": "34350ea961546dcadf13cf00c4e1e2cabfab6e3e6543222fd4a218dcddba1409",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "backend",
+        "python",
+        "senior",
+        "junior",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:20:25Z",
+      "updatedAt": "2026-07-12T11:20:25Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4964",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_094d438d4112cfc66e7c43d3",
+      "sourceId": "awesome-jobs/vietnam#4963",
+      "title": "VinMotion - Full Stack Engineer, Robotics Simulation - Onsite/Hanoi - FTE",
+      "description": "**Position Overview**\n\nWe are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development.\n\n**Key Responsibilities**\n\n- Design, develop, and maintain fullstack applications supporting humanoid robot development.\n- Build web-based platforms for robot simulation, monitoring, visualization, and experiment management.\n- Develop backend services and APIs for robotics workflows and simulation pipelines.\n- Integrate with robotics simulation environments such as: Isaac Sim, MuJoCo\n- Optimize software performance, scalability, and reliability for large-scale simulation workloads.\n- Collaborate with AI and Robotics teams to translate research requirements into production-ready software solutions.\n- Build tools for simulation data management, experiment tracking, and analytics.\n- Improve system architecture and software engineering best practices across the robotics platform ecosystem.\n\n**Requirements**\n\n- Bachelor's degree in Computer Science, Software Engineering, Robotics, or a related field.\n- Core Languages: Proficiency in C++ AND Python, Java (Hybrid architecture experience is highly preferred).\n- Networking & Protocols: Strong experience in Socket Programming, specifically with UDP network bridges and WebSockets for real-time data streaming.\n- Web 3D Graphics: Strong experience with React.js and modern state management libraries (e.g., Zustand, Redux, or Recoil) optimized for handling high-frequency, real-time data streaming; and WebGL, Three.js, or Python-based 3D visualization tools (e.g., Viser). Familiarity with Server-Side Rendering (SSR) and/or Client-side Rendering (CSR) and optimizing server-client channels for 3D scenes.\n- Robotics (Plus): Experience with MuJoCo (MJCF/XML syntax), and optionally ROS 2.\n- Data & Config: Familiarity with parsing runtime configurations (YAML) and handling high-density event logging formats (JSONL).\n\n**Contact**:\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**Position Overview** We are seeking a highly capable Software Developer (Fullstack) to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development. **K...",
+      "issueState": "open",
+      "contentHash": "f86b83cfcc31d7235804c1b29c4d2661645ac98af466bc54065ded27d7a5fff1",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "hybrid",
+        "onsite",
+        "backend",
+        "fullstack",
+        "react",
+        "python",
+        "java",
+        "data"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:08:42Z",
+      "updatedAt": "2026-07-12T11:08:42Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4963",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2d8aa4402dd1dbaa2cdb4420",
+      "sourceId": "awesome-jobs/vietnam#4962",
+      "title": "VinMotion - Machine Learning Scientist (VLA) - Senior/Expert - Onsite/Hanoi - FTE",
+      "description": "**About the job\nOverview**\n\nWe're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments.\n\nAs a Senior / Staff Machine Learning Engineer, Vision-Language-Action (VLA), you will help build the intelligence stack that connects vision, language, and action. You'll design, train, and deploy multimodal robot policies that allow humanoid robots to understand natural-language commands, interpret complex scenes, and take reliable actions in industrial and logistics settings.\n\nThis is a hands-on role at the intersection of multimodal model development, robot learning, teleoperation data, simulation, and real-world deployment. A core challenge of the role is learning robust robot behavior from limited real-world teleoperation data, while using simulation and synthetic data to improve generalization and close the sim-to-real gap.\n\nYou'll work closely with Teleoperation, Simulation, RL & Controls, and Platform teams to turn embodied AI research into robot capabilities that run on physical hardware.\n\n**Key Responsibilities**\n\n- Design, train, and improve vision-language-action (VLA) models for humanoid robots using visual observations, language instructions, and robot state\n- Build and fine-tune multimodal robot policies using RGB (and optionally depth), language, proprioception, and task history\n- Improve policy robustness, instruction following, manipulation reliability, and generalization to new tasks and environments\n- Work with the Teleoperation team to improve data quality, dataset curation, logging standards, and episode QA\n- Develop training strategies for limited-data settings, including augmentation, pretraining, imitation learning, and offline RL where appropriate\n- Use simulation and synthetic data to improve robustness and sim-to-real transfer\n- Define evaluation metrics for task success, robustness, and safety, and use ablations / failure analysis to guide model improvements\n- Collaborate with Platform and Controls teams to integrate policies into the on-robot inference stack under latency and memory constraints\n\nFor Senior-level hires: independently own a workstream from experimentation through deployment iteration\n\nFor Staff-level hires: help shape technical direction across policy learning, data strategy, evaluation, and sim-to-real roadmap\n\n**Required Qualifications:\n\nCore skill**\n\n- Strong background in deep learning for vision, multimodal learning, sequence modeling, or robot learning\n- Hands-on experience training models in PyTorch\n- Strong Python engineering skills, including training pipelines, experiment management, debugging, and reproducibility\n\n**Experience in at least one of the following:**\n\n+ Vision-language / multimodal model training\n+ Imitation learning / behavior cloning / offline reinforcement learning\n+ Robot learning from demonstration, teleoperation, or real-world interaction data\n\n**General**\n\n- Ability to work effectively across ML, robotics, controls, hardware, and platform teams\n- Experience owning technical problems end-to-end, from experimentation through evaluation and iteration\n- BS / MS / PhD in Computer Science, Robotics, Electrical Engineering, or a related field — or equivalent industry experience\n\n**Preferred Qualifications**\n\n- Experience training policies for real robots, especially manipulation or articulated systems\n- Experience working with teleoperation or demonstration data\n- Experience with simulation / synthetic-data pipelines for robotics\n- Familiarity with modern VLA and robot-policy approaches such as VLM-backbone policies (Pi0-, GR00T-, or OpenVLA-class), diffusion policy / flow-matching action heads, or ACT-style action chunking\n- Experience deploying models under production constraints such as latency, memory, mixed precision, or on-device / on-robot inference\n- Prior experience in humanoid robotics, embodied AI, robot manipulation, or applied multimodal systems\n- Tech stack includes: PyTorch, ROS 2, Isaac Sim / Isaac Lab, MuJoCo, GPU training infrastructure, and on-robot inference optimization.\n\n**Contact:**\nHomepage: https://vinmotion.net/career/software-tester-automation\nEmail: v.thuyntp35@vinmotion.net\nPhone number (Zalo/WhatsApp): +84 336 736 258",
+      "excerpt": "**About the job Overview** We're building humanoid robots that can understand instructions, perceive the world, and perform useful physical work in real environments. As a Senior / Staff Machine Learning Engineer, Vis...",
+      "issueState": "open",
+      "contentHash": "84d6d6d0947fb1333ac7f4dc8ffb34abe78aedcb0ed1cdbb61d6e6ab34737896",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "python",
+        "senior",
+        "staff",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "thuyntpt0211",
+        "name": "thuyntpt0211",
+        "handle": "thuyntpt0211",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169239346?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-12T11:01:09Z",
+      "updatedAt": "2026-07-12T11:01:09Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4962",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_7b0790eab0e7e8741e23914a",
+      "sourceId": "remotejobsbr/design-ux-vagas#121",
+      "title": "[Remoto] UX Designer na Botcity",
+      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nRole Overview\n\nThe UX Designer will own the end-to-end design of features across our three product surfaces — platform, agent, and web portal — turning complex business and technical challenges into intuitive, responsive user experiences. This is a hands-on, generalist role for someone who thrives in the fast-paced, high-uncertainty environment of an early-stage B2B SaaS product. You will design from sketches and wireframes through high-fidelity prototypes and developer-ready specs, help us build our first Design System from the ground up, and support discovery alongside the team when opportunities arise. In this position, you will work closely with our UX Lead and partner directly with the PM (who is also our CTO)\n\n \nResponsibilities\n\nDesign end-to-end: from initial sketches and wireframes to high-fidelity, responsive prototypes across the platform, agent, and web portal.\nProduce high-fidelity screens and detailed specifications in Figma (English and pt-BR), ensuring the development team has everything needed for precise implementation.\nHelp build and evolve BotCity's first Design System — components, patterns, and tokens — in partnership with the UX Lead and the front-end team.\nAnalyze existing functionalities and propose UX improvements to reduce friction and enhance user efficiency.\nBuild interactive prototypes to test usability and communicate complex flows to stakeholders.\nSupport discovery alongside the UX Lead and the PM: run qualitative interviews, map user journeys, and validate hypotheses and prototypes with B2B clients when needed.\nTransform findings into clear UX artifacts (User Journey Maps, Personas) and documented insights shared with the team.\nPartner with Product, Engineering, and Customer Success to ensure design solutions align with technical constraints and business goals.\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperience (3+ years) as a UX/Product Designer working end-to-end on digital products.\nDemonstrable portfolio featuring end-to-end UX projects (from problem to delivered interface).\nStrong UI and high-fidelity prototyping in Figma, at a level that supports end-to-end delivery.\nAbility to design responsive interfaces across web (and mobile where applicable).\nExperience building or contributing to Design Systems (components, patterns, tokens, libraries).\nComfortable supporting discovery: qualitative interviews, usability testing (remote or A/B), and mapping\nCritical User Journeys.\nAbility to translate findings into clear insights, opportunities, and recommendations.\nExperience with Design Thinking and agile methodologies.\nUX/usability tools (Figma, UserTesting, Maze); MS Office/Excel, Google Suite, Notion.\nAbility to travel as needed to support events and meet the team.\nPortuguese — Fluent.\nEnglish — Intermediary/Advanced.\n\n**Desejáveis:**\nPrior experience with B2B products.\nPrior experience in an early-stage, high-growth, fast-paced startup environment.\nFamiliarity with technical products (developer tooling, automation, Python, or AI a plus).\nProven experience leading research, thematic analysis, and A/B testing.\n\n\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/6a482f8d0ad5470013bb28b3?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\nE-mail para contato em caso de não haver resposta: recruiting@botcity.dev\n\n## Labels\n- Remoto\n- PJ\n- Pleno",
+      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
+      "issueState": "open",
+      "contentHash": "62969468120b53d02c95d6517b26878dff8000b0e8bbfbbb7c735a17bea01568",
+      "repository": "remotejobsbr/design-ux-vagas",
+      "repositoryUrl": "https://github.com/remotejobsbr/design-ux-vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "remote",
+        "python",
+        "pleno",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "FranPiresBotcity",
+        "name": "FranPiresBotcity",
+        "handle": "FranPiresBotcity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
+      },
+      "community": {
+        "id": "remotejobsbr",
+        "name": "remotejobsbr",
+        "avatarUrl": "https://github.com/remotejobsbr.png?size=80",
+        "repository": "remotejobsbr/design-ux-vagas",
+        "url": "https://github.com/remotejobsbr/design-ux-vagas"
+      },
+      "companyName": "Botcity",
+      "createdAt": "2026-07-10T20:45:44Z",
+      "updatedAt": "2026-07-10T20:45:44Z",
+      "url": "https://github.com/remotejobsbr/design-ux-vagas/issues/121",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_f9b05570441c5238a96e1a2d",
       "sourceId": "qa-brasil/vagas#1265",
@@ -632,174 +786,6 @@
       "createdAt": "2026-07-06T13:09:37Z",
       "updatedAt": "2026-07-06T13:09:55Z",
       "url": "https://github.com/DevOps-Brasil/Vagas/issues/466",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_50557775750b90b91b2f6863",
-      "sourceId": "react-brasil/vagas#3018",
-      "title": "[Remoto] React Native Developer Pleno na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React Native compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-native-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👨 Pleno\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 5k-10k",
-      "excerpt": "## Descrição da vaga Vaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência. ## Local 100% remoto, de qualqu...",
-      "issueState": "open",
-      "contentHash": "fe9c9ea9c8aa5b945c732f487f88b4d920543d21aa912a74a28c40ed257fdc28",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ clt",
-        "🏢 remoto",
-        "⚖️ pj",
-        "👨 pleno",
-        "💰 5k-10k"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:08:37Z",
-      "updatedAt": "2026-07-06T13:09:06Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3018",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c0671970e9661218f7affa0d",
-      "sourceId": "react-brasil/vagas#3017",
-      "title": "[Remoto] React Developer Sênior na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👴 Sênior\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 15k+",
-      "excerpt": "## Descrição da vaga Vaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência. ## Local 100% remoto, de qualquer lu...",
-      "issueState": "open",
-      "contentHash": "069f296b7a9cb47711a888104e274b5909bf82e8b3984115ac58c305c1ea5dcb",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ clt",
-        "🏢 remoto",
-        "⚖️ pj",
-        "👴 senior",
-        "💰 15k+"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-06T13:07:36Z",
-      "updatedAt": "2026-07-07T02:50:51Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3017",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c16a9b067fa99b03ac968205",
-      "sourceId": "backend-br/vagas#12309",
-      "title": "[Remoto] PHP/Python Software Engineer - F2AI",
-      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Sobre a F2AI\n\nSomos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permitir que organizações rodem LLMs em seus próprios ambientes, com controle total sobre dados e recursos.\n\nInfos sobre o produto: https://f2ai.com.br/\n\n## Descrição da vaga\n\nDesenvolver e manter aplicações full-stack com Laravel e Python/FastAPI\nIntegrar o control plane da plataforma com clusters Kubernetes via API\nConstruir interfaces para gerenciamento de deployments de modelos de IA\nTrabalhar com containerização, APIs REST e arquiteturas de microsserviços\nColaborar na evolução de features como fine-tuning, RAG e bibliotecas de prompts\n\n## Local\n\nTrabalho remoto, escritório em São Paulo, capital.\n\n## Requisitos\n\nFundamentos sólidos:\n\n    Estruturas de dados e algoritmos\n    Sistemas operacionais e redes\n    Bancos de dados relacionais e modelagem de dados\n\nExperiência prática:\n\n    PHP (Laravel) ou Python (FastAPI/Flask)\n    Desenvolvimento full-stack\n    Docker e containerização\n    APIs REST e integrações entre sistemas\n    Git e práticas de versionamento\n\nPerfil:\n\n    Autonomia e capacidade de resolver problemas com pouca orientação\n    Comunicação clara em português\n\nDiferenciais:\n\n    Kubernetes\n    Projetos envolvendo IA/ML\n    Bancos vetoriais ou arquiteturas RAG\n    Infraestrutura on-premises\n\n## Benefícios\n\n* Trabalho 100% remoto\n* Atuação direta com tecnologias de IA generativa em ambiente enterprise\n* Ambiente de startup com autonomia e impacto\n* Crescimento técnico em um domínio em expansão\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar currículo para emanuel.huber@f2ai.com.br\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
-      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Sobre a F2AI Somos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permiti...",
-      "issueState": "open",
-      "contentHash": "596dff5d722d9685cff607dc83ba1b9310dc763c638e52ffdbb0cae9152b4c48",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "php",
-        "python",
-        "flask",
-        "remoto",
-        "git",
-        "docker"
-      ],
-      "author": {
-        "id": "huberemanuel",
-        "name": "huberemanuel",
-        "handle": "huberemanuel",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6238718?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-07-03T19:01:50Z",
-      "updatedAt": "2026-08-03T02:30:48Z",
-      "url": "https://github.com/backend-br/vagas/issues/12309",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_aec2ffeef8cf33d58c1411b3",
-      "sourceId": "backend-br/vagas#12302",
-      "title": "[Remoto] Developer ASP.NET/C# Senior - Dimensa",
-      "description": "## Nossa empresa\nA Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.\n\nTodas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟\n\n## Descrição da vaga\n\n**DESAFIO**\nParticipar do desenvolvimento e manutenção de aplicações web utilizando ASP.NET, C#, JavaScript, e outras tecnologias relacionadas.\nImplementar e otimizar soluções utilizando HTML, CSS, Bootstrap, e JSon, garantindo alta performance e usabilidade.\nDesenvolver e manter banco de dados SQL Server, incluindo a criação e otimização de triggers, stored procedures e aplicação de regras de normalização.\nIntegrar e consumir WebServices (SOAP e REST) nas aplicações desenvolvidas.\nControlar as mudanças no desenvolvimento de software para assegurar a estabilidade e evolução contínua dos projetos.\nIdentificar e corrigir problemas no código, bem como propor melhorias e oportunidades de refatoração para manter a qualidade do software.\nColaborar com equipes multifuncionais para garantir que as soluções atendam aos requisitos de negócios e qualidade.\n\n## Local\nRemoto.\n\n## Requisitos\n\n**O que você precisa ter:**\n\n- Ensino superior completo ou em andamento em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas. \n- Entendimento de processos de desenvolvimento, qualidade e maturidade de software.\n- Experiência e conhecimento em Linguagem de programação: domínio de aplicação e entendimento de sintaxe e desempenho de linguagens como ASP.NET C#, Java script, Json, Bootstrap \n- Experiência com WEB JS/Jquery/Ajax, Webforms, Bootstrap, HTML, JSon e CSS, SQL Server, incluindo normalização, triggers, e stored procedures. \n- Conhecimento em SOAP e REST. \n- Habilidade analítica para detectar problemas e propor soluções eficazes. \n- Proatividade e boa comunicação para colaborar com diferentes equipes.\n\n## Benefícios\n🍽️ Auxílio Alimentação: para você escolher suas refeições com liberdade.\n👶Auxílio Creche: Para ajudar nas despesas dos pequenos.\n👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.\n🏥 Assistência Médica SulAmérica: Cuidado completo para você e sua família.\n🛡️ Seguro de Vida e Funeral: Proteção garantida.\n🏡 Auxílio Home Office: Apoio financeiro para montar e manter seu espaço de trabalho em casa, com conforto e eficiência.\n💊 Descontos em Farmácias: Economize com o Univers.\n🎉 Day Off: Dia de folga no mês do seu aniversário para celebrar em grande estilo!\n\n## Contratação\nCLT.\n\n## Como se candidatar\nCurtiu o desafio e quer fazer parte do nosso time?\n\nPara se candidatar, basta enviar o seu currículo atualizado para o e-mail, **informando sua pretensão salarial**:\n📧 kerolayne.fbarros@dimensa.com.br\n\nDica: Coloque no assunto do e-mail: **Vaga ASP .NET Senior** para localizarmos sua mensagem mais rápido!\n\n### Nível\n- Senior\n\n### Regime\n- CLT\n\n### Alocação\n- Remoto",
-      "excerpt": "## Nossa empresa A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para ...",
-      "issueState": "open",
-      "contentHash": "ed9cb08c2175bedd2ba51879f90fa6e27e2e8402941a26fd15feb8f30d579025",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "javascript",
-        ".net",
-        "java",
-        "remoto",
-        "sql",
-        "asp",
-        "stale"
-      ],
-      "author": {
-        "id": "kerol-barros",
-        "name": "kerol-barros",
-        "handle": "kerol-barros",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110194786?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-07-02T20:49:11Z",
-      "updatedAt": "2026-08-02T02:28:15Z",
-      "url": "https://github.com/backend-br/vagas/issues/12302",
       "sourceType": "github-issue"
     }
   ]

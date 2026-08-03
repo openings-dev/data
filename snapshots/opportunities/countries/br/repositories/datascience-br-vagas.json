@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T02:02:47.261Z",
+  "generatedAt": "2026-08-03T17:05:42.008Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,8 +9,92 @@
     "openIssues": 26,
     "closedIssues": 4
   },
-  "dataHash": "224284f48fa07e5a38a1aa1548d8ea3a9589ba9b45ea4136055041cf2367d83c",
+  "dataHash": "a6837a1a50374f0b3bcc3e8409b82bada80837bf6dad983b24106d317c5d2d81",
   "items": [
+    {
+      "id": "gh_58d71ef2f10f492b44babfb6",
+      "sourceId": "datascience-br/vagas#176",
+      "title": "[Híbrido] Engenharia de Dados Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Engenharia de Dados nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Construir e manter pipelines de ingestão e transformação\n- Garantir qualidade, linhagem e disponibilidade dos dados\n- Modelar camadas do data warehouse\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Engenharia de Dados (5 anos ou mais)\n- Python e SQL avançado\n- Orquestração (Airflow, Dagster ou similar)\n- Spark ou processamento distribuído\n- Cloud (AWS, GCP ou Azure)\n\n**Diferenciais:**\n- dbt\n- Kafka\n- Databricks ou Snowflake\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-engenharia-de-dados-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "c3344aaa9b2c96050b4e5ccb91ca65be9221b82b4cadd690e6f70b68dbd636b0",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-03T15:26:00Z",
+      "updatedAt": "2026-08-03T15:26:00Z",
+      "url": "https://github.com/datascience-br/vagas/issues/176",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_9ff99307750c2c3ca0da0b75",
+      "sourceId": "datascience-br/vagas#175",
+      "title": "[Híbrido] Dados/SQL Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (5 anos ou mais)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "54809e1b0be13b27b61e074451fb4d40769c1761cb2e3692d6f38117da77780e",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-03T15:18:02Z",
+      "updatedAt": "2026-08-03T15:18:02Z",
+      "url": "https://github.com/datascience-br/vagas/issues/175",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b927de9b9d3ace586bbfa16d",
       "sourceId": "datascience-br/vagas#174",
@@ -1032,79 +1116,6 @@
       "createdAt": "2025-06-03T14:57:52Z",
       "updatedAt": "2025-06-03T14:57:52Z",
       "url": "https://github.com/datascience-br/vagas/issues/143",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_18d1e672fe4959dd0f3f1147",
-      "sourceId": "datascience-br/vagas#142",
-      "title": "[São Paulo] - Senior Data Engineer [AB-Inbev]",
-      "description": "## Descrição da vaga\n\n**About the role**\n\nWe're seeking a highly skilled and passionate Data Engineer to join our expanding Data Intelligence Platform team. In this pivotal role, you'll be instrumental in architecting, building, and optimizing our data pipelines and overall data architecture. You'll also be crucial in ensuring seamless data flow and collection for various cross-functional teams.\n\nAs an ideal candidate, you possess a strong background in constructing robust data pipelines and are adept at data wrangling. You thrive on optimizing data systems and have a knack for building solutions from the ground up. We are a \"code-first\" Data Engineering team, meaning we develop reusable solutions through code. If you're fueled by a passion for both code and data, this is the perfect environment for you to excel.\n\nYou should be a self-starter, comfortable navigating the data requirements of diverse teams, systems, and products. The opportunity to optimize and even re-envision our company's data architecture to support our next wave of products and data-driven initiatives should excite you.\n\n**What you'll do:**\n- Design, build, and maintain scalable and efficient data pipelines.\n- Optimize existing data pipelines and data flow for performance and reliability.\n- Develop and implement data collection strategies across various sources.\n- Collaborate with cross-functional teams to understand their data needs and deliver solutions.\n- Build data transformations, data structures, metadata, dependency, and workload management.\n- Implement and enforce data quality and data governance processes.\n- Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.  \n- Troubleshoot and resolve data-related issues.\n- Stay up-to-date with the latest data engineering technologies and best practices.\n- Contribute to the design and evolution of our data warehouse and data lake architecture.\n\n## Local\n\nOn-site - Campinas/SP\n\n## Benefícios\n\n- Performance based bonus*\n- Attendance Bonus* \n- Private pension plan\n- Meal Allowance\n- Casual office and dress code\n- Days off*\n- Health, dental, and life insurance\n- Medicines discounts\n- WellHub partnership\n- Childcare subsidies\n- Discounts on Ambev products*\n- Clube Ben partnership\n- Scholarship*\n- School materials assurance\n- Language and training platforms\n- Transport allowance\n\n*Rules applied\n\n## Requisitos\n\n- Proven experience as a Data Engineer or in a similar role.\n- Strong proficiency in programming languages relevant to data engineering (Python/pyspark).\n- Experience with Databricks.\n- Experience with data warehousing solutions (e.g., Snowflake, Redshift, BigQuery).\n- Experience with ETL/ELT tools and frameworks.\n- Solid understanding of database technologies (both SQL and NoSQL).\n- Experience with cloud platforms and their data services (AWS, Azure).\n- Familiarity with data pipeline and workflow management tools (Apache Airflow, Databricks Workflow).\n- Excellent problem-solving and analytical skills.\n- Strong communication and collaboration abilities.\n- A proactive and self-directed approach to work.\n- A passion for building and optimizing data systems.\n\n**If you're a highly motivated Data Engineer who loves to code and shape data infrastructure, we encourage you to apply and become a key contributor to our Data Intelligence Platform!**\n\n## Contratação\n\nCLT\n\n## Nossa empresa\n\n**About us**\n\nAB InBev is the leading global brewer and one of the world’s top 5 consumer product companies. With over 500 beer brands, we’re number one or two in many of the world’s top beer markets, including North America, Latin America, Europe, Asia, and Africa.\n\n**About AB InBev Growth Group**\n\nCreated in 2022, the Growth Group unifies our business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution, and Marketing teams. By bringing together global tech and commercial functions, the Growth Group allows us to fully leverage data and drive digital transformation and organic growth for AB InBev around the world.\n\nIn addition to supporting well known global beer brands like Corona, Budweiser and Michelob Ultra, the Growth Group is home to a robust suite of digital products including our B2B digital commerce platform BEES, on-demand delivery services Ze Delivery and TaDa Delivery, and table top beer keg PerfectDraft.\n\nWe are an exceptional team, focused on understanding and supporting consumer and customer needs, harnessing new technology, and scaling growth opportunities.\n\n## Como se candidatar\n\nApplication here: https://job-boards.greenhouse.io/abinbev/jobs/7959352002\n\n#### Alocação\n\nOn-site\n\n#### Regime\n- CLT\n\n#### Nível\n- Sênior",
-      "excerpt": "## Descrição da vaga **About the role** We're seeking a highly skilled and passionate Data Engineer to join our expanding Data Intelligence Platform team. In this pivotal role, you'll be instrumental in architecting, ...",
-      "issueState": "open",
-      "contentHash": "a97b4d998412c8a95f05373ecbc2baac189bb72f8e7bd95d44e17b3c4cf4c299",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "1996-luana",
-        "name": "1996-luana",
-        "handle": "1996-luana",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67555956?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-04-22T18:53:54Z",
-      "updatedAt": "2025-04-22T18:53:54Z",
-      "url": "https://github.com/datascience-br/vagas/issues/142",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6659525a2318e98f752de581",
-      "sourceId": "datascience-br/vagas#141",
-      "title": "(Remoto) Data Analyst Senior",
-      "description": "## Descrição da vaga\n\nEstamos buscando um(a) Engenheiro(a) de Análise Sênior altamente qualificado(a) com experiência avançada em modelagem de dados e ferramentas de visualização. O(a) profissional ideal terá experiência comprovada trabalhando com estruturas de dados médias a complexas em um ambiente corporativo. Ele(a) deve ser proficiente em trabalhar com dados no Snowflake, transformando dados de várias fontes com DBT e visualizando-os eficientemente no Power BI para consumo do cliente. Além disso, valorizamos um(a) profissional disposto(a) a compartilhar suas habilidades e conhecimentos com outros membros da equipe.\n\nResponsabilidades Principais:\n\nColaborar efetivamente em equipes virtuais, contribuindo com ideias e soluções inovadoras de forma proativa.\nAutogerenciar a carga de trabalho, priorizando tarefas de forma eficiente e cumprindo prazos.\nDedicar parte do tempo ao compartilhamento de conhecimento e orientação de membros juniores da equipe, por meio de sessões de pareamento e mentorias.\n\nHabilidades e Experiência Necessárias:\n\nModelagem de Dados Avançada: Ampla experiência em projetar e implementar modelos de dados complexos, com forte compreensão de normalização, desnormalização e design de esquema.\nProcessos ETL: Proficiência no desenvolvimento e otimização de processos ETL (Extract, Transform, Load) utilizando ferramentas como DBT (Data Build Tool).\nData Warehousing: Conhecimento profundo dos conceitos e melhores práticas de data warehousing, especialmente com Snowflake.\nVisualização de Dados: Habilidades avançadas na criação de painéis e relatórios interativos e informativos utilizando Power BI.\nLinguagens de Programação: Proficiência em SQL e experiência com pelo menos uma linguagem de programação como Python ou R para manipulação e análise de dados.\nPlataformas de Nuvem: Experiência com plataformas de nuvem como AWS, Azure ou Google Cloud, especialmente em relação ao armazenamento e processamento de dados.\nAjuste de Desempenho: Capacidade de otimizar o desempenho do banco de dados, incluindo ajuste de consultas e estratégias de indexação.\nGovernança de Dados: Compreensão dos princípios de governança de dados, incluindo qualidade de dados, linhagem de dados e segurança de dados.\n\nQualificações Desejáveis:\n\nIA e Aprendizado de Máquina: Experiência com modelos de IA e aprendizado de máquina, incluindo a capacidade de trabalhar com conjuntos de dados relacionados.\nGerenciamento de Projetos: Experiência em gerenciamento de projetos de dados, incluindo planejamento, execução e entrega.\nCertificações: Certificações relevantes, como Snowflake SnowPro Core Certification, Microsoft Certified: Data Analyst Associate ou similar.\n\n\n## Local\n\nRemoto \n\n## Contratação\n\n- PJ ou CLT\n\n\n## Como se candidatar\n\nEntrar em contato com a recrutadora através do linkedin: https://www.linkedin.com/in/mariajuliaricosti/\n\n\n## Labels\n\n#### Alocação\n- Remoto\n\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior\n- Especialista",
-      "excerpt": "## Descrição da vaga Estamos buscando um(a) Engenheiro(a) de Análise Sênior altamente qualificado(a) com experiência avançada em modelagem de dados e ferramentas de visualização. O(a) profissional ideal terá experiênc...",
-      "issueState": "open",
-      "contentHash": "f5d40bcaaaa8411ad9b6e7fea8760b369884bf356f75d77f8d15154926051ef0",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior",
-        "junior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "Majuricosti",
-        "name": "Majuricosti",
-        "handle": "Majuricosti",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/207033287?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-04-10T12:05:53Z",
-      "updatedAt": "2025-04-10T12:22:05Z",
-      "url": "https://github.com/datascience-br/vagas/issues/141",
       "sourceType": "github-issue"
     }
   ]
