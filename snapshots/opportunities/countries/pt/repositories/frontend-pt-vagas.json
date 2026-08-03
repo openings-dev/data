@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-08-03T12:15:07.924Z",
+  "generatedAt": "2026-08-03T19:22:21.743Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "frontend-pt/vagas",
   "totals": {
     "opportunities": 21,
-    "openIssues": 4,
-    "closedIssues": 17
+    "openIssues": 5,
+    "closedIssues": 16
   },
-  "dataHash": "d3504b3469dd166ec3029876212b43de12c404fffbcdb9f14f53cc5e400e39c0",
+  "dataHash": "bcf4fb6249c25662211cb5b54fc1077dd97387859b5b7a19d7c189e754091303",
   "items": [
+    {
+      "id": "gh_bdf41ed8e269740a5ad43a17",
+      "sourceId": "frontend-pt/vagas#107",
+      "title": "[Remoto] TypeScript Frontend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de TypeScript Frontend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Frontend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações tipadas de ponta a ponta\n- Definir contratos e tipos compartilhados\n- Elevar a qualidade da base\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com TypeScript (5 anos ou mais)\n- TypeScript avançado (generics, utility types)\n- React, Angular ou Node.js\n- Testes automatizados\n- Git\n\n**Diferenciais:**\n- Monorepo (Nx ou Turborepo)\n- GraphQL\n- CI/CD\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-typescript-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "60d6fb0f22810c0fed340a3316d132f22e2a8bf98354310a3f916040d6b4d51c",
+      "repository": "frontend-pt/vagas",
+      "repositoryUrl": "https://github.com/frontend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontend-pt",
+        "name": "frontend-pt",
+        "avatarUrl": "https://github.com/frontend-pt.png?size=80",
+        "repository": "frontend-pt/vagas",
+        "url": "https://github.com/frontend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-03T18:08:45Z",
+      "updatedAt": "2026-08-03T18:10:45Z",
+      "url": "https://github.com/frontend-pt/vagas/issues/107",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b26dea1eadba581bed785ece",
       "sourceId": "frontend-pt/vagas#105",
@@ -770,42 +811,6 @@
       "createdAt": "2022-11-11T14:37:29Z",
       "updatedAt": "2023-01-18T00:43:52Z",
       "url": "https://github.com/frontend-pt/vagas/issues/79",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6e9675126b9624dff0b30e7c",
-      "sourceId": "frontend-pt/vagas#78",
-      "title": "[REMOTO] Pessoa Desenvolvedora Fullstack Sênior - PHP e JS @ [Feedz]",
-      "description": "🚀 A FEEDZ:\nSomos uma HRTech e nosso propósito é criar ambientes de trabalho mais felizes, tudo isso através de um software completo de gestão de pessoas humanizado! Por isso, começar pelo nosso próprio ninho é tão importante!\n\nCrescemos mais de 400% em 2021 e continuamos evoluindo em 2022, tudo isso através de um clima animado, com muito desenvolvimento e respeito para todos! (Se quiser conhecer melhor nosso ninho, voa pra cá: https://www.feedz.com.br/vagas/) 💙 Quer mais? Estamos no modelo totalmente remoto, então você pode fazer parte do nosso ninho no conforto da sua casa!!\n\nEstamos buscando uma pessoa para o cargo de Pessoa Desenvolvedora Fullstack Sênior(PHP e JS) que irá atuar no nosso time de Produto, em uma squad multidisciplinar(5 a 8 membros) e trabalhando diretamente com nosso gerente de produto em um time de alta performance, desenvolvendo sistemas que impactam mais de 100 mil usuários diretamente.\n\nNo dia a dia você vai ter bastante contato com SlimPHP, Eloquent, PHPUnit, Twig, Vue.js, MySQL, Docker, entre outras. Trabalhamos com projetos ágeis, sempre prezando a comunicação e a colaboração entre os membros do time.\n\nAqui na Feedz valorizamos muito a diversidade e queremos Parrots que queiram voar conosco, independente da etnia, gênero, sexualidade, nacionalidade, idade ou deficiência! Quer crescer com a gente? Vem pro ninho 💛\n\n📚 RESPONSABILIDADES E ATIVIDADES:\nDesenvolvimento backend com PHP (Com conhecimentos no framework Laravel) ;\nDesenvolvimento de frontend com CSS, HTML e JS (Com conhecimento em Vue.JS aplicando nosso design system)\nAplicar boas práticas alinhadas com o time no desenvolvimento (criando códigos coerentes e alinhados ao Clean Code; desenvolvendo com foco em segurança, patterns, automação, etc);\nDesenvolver novos módulos na plataforma;\nDesenvolvimento e aplicação de testes automatizados;\nFazer a gestão da informação das demandas atualizando o status dos projetos.\n\n🥇 PRÉ-REQUISITOS:\n\nA partir de 7 anos de experiência em desenvolvimento web com produtos digitais(preferencialmente SaaS);\nExperiência a partir de 3 anos com PHP;\nExperiência a partir de 1 ano com Javascript;\nExperiência com sistema de alto volume de dados;\nExperiência com testes unitários ou de integração;\nEstar trabalhando atualmente com as tecnologias de nossa stack;\nExperiência com banco de dados relacional (Atualmente usamos MySQL 8);\nConhecimento em boas práticas de código e vivência com times de tecnologia ágeis!\n🎯DIFERENCIAIS:\nConhecimento com Slim, Laravel ou e Vue.JS.\n\n✨ BENEFÍCIOS:\n\n100% Home Office (não iremos voltar ao trabalho presencial!!)\nVale Comida (R$700)\nPlano de Saúde Unimed(subsidiado pela Feedz)\nPlano odontológico Nacional da Bradesco Dental(subsidiado pela Feedz)\nAuxílio Parrot Feliz (R$100/mês de investimento no desenvolvimento pessoal, saúde física ou mental do Parrot)\nAuxílio Contas (R$160/mês)\nAuxílio Parrot Casamenteiro(R$250 quando Parrots casam)\nAuxílio Ninhada(R$250 no nascimento ou adoção de pequenos Parrots)\nHappy Bird(day) (um dia de folga no mês de aniversário)\nLicença paternidade estendida(21 dias)\nLicença maternidade estendida(6 meses)\nIfood Office(voucher para usar dentro do app em alguns eventos internos)\nPara você ter um voo com conforto, na Feedz oferecemos um auxílio de R$1.000 para materiais, como mesa e cadeira, para seu home office e enviamos todos os equipamentos eletrônicos necessários!\n\n💰 SALÁRIO 7.500 A 9.500 (CLT)*\n*A depender do tempo de experiência | 40 horas semanais\n\n📅 ETAPAS DO PROCESSO:\nPara essa posição, temos as seguintes etapas para avaliação:\n\nTriagem de currículo;\nBate papo técnico;\nBate papo cultural;\nContratação!\n\nPara entender melhor sobre cada etapa e como funciona nosso processo seletivo, acesse nosso playbook da pessoa candidata: https://bit.ly/3EWnroW\n\nCandidate-se em: https://enliztjob.app.link/9oAwIGlnBub",
-      "excerpt": "🚀 A FEEDZ: Somos uma HRTech e nosso propósito é criar ambientes de trabalho mais felizes, tudo isso através de um software completo de gestão de pessoas humanizado! Por isso, começar pelo nosso próprio ninho é tão im...",
-      "issueState": "closed",
-      "contentHash": "54f884342475c70e517b642f4d0b65023522d2da64e05480c5d958339ddaeeb0",
-      "repository": "frontend-pt/vagas",
-      "repositoryUrl": "https://github.com/frontend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "remoto",
-        "presencial",
-        "sênior"
-      ],
-      "author": {
-        "id": "larissaaguiar",
-        "name": "larissaaguiar",
-        "handle": "larissaaguiar",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51802608?v=4"
-      },
-      "community": {
-        "id": "frontend-pt",
-        "name": "frontend-pt",
-        "avatarUrl": "https://github.com/frontend-pt.png?size=80",
-        "repository": "frontend-pt/vagas",
-        "url": "https://github.com/frontend-pt/vagas"
-      },
-      "createdAt": "2022-11-01T14:59:07Z",
-      "updatedAt": "2023-01-14T00:40:15Z",
-      "url": "https://github.com/frontend-pt/vagas/issues/78",
       "sourceType": "github-issue"
     },
     {
