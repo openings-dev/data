@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-04T01:48:44.273Z",
+  "generatedAt": "2026-08-04T05:41:37.802Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_2536c3c612236cf113d6f054",
     "gh_0efcf8a825dff70e78cfe9bc",
     "gh_313f1f028c4484af9bc95eb6",
     "gh_888e68f3472e058fd086dc13",
@@ -22,10 +23,55 @@
     "gh_fb1d6b0bc76495cfbc71bfb9",
     "gh_02639b5d30624af5760b16e1",
     "gh_e0be42313695863a7be771d3",
-    "gh_dbbdc8ff906291fbec06386f",
-    "gh_5785e611680b5a017f944305"
+    "gh_dbbdc8ff906291fbec06386f"
   ],
   "items": [
+    {
+      "id": "gh_2536c3c612236cf113d6f054",
+      "sourceId": "DevOps-Brasil/Vagas#472",
+      "title": "[DevOps Engineer (AWS) Sênior] Sylision - Híbrido",
+      "description": "### 🎯 Cargo\n\nDevOps Engineer (AWS)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nA combinar com a empresa contratante\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n12.000 - 22.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (AWS) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência sólida com DevOps/AWS compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n### 🎁 Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/AWS\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-aws-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-aws-senior",
+      "excerpt": "### 🎯 Cargo DevOps Engineer (AWS) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização A combinar com a empresa cont...",
+      "issueState": "open",
+      "contentHash": "3be16261c9b2bdeec749f4f64de0a0a9856c105bdae8879ba49a8325ff3e6f58",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "devops",
+        "platform",
+        "aws",
+        "pa",
+        "sênior",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-30T21:12:45Z",
+      "updatedAt": "2026-07-30T21:13:13Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/472",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_0efcf8a825dff70e78cfe9bc",
       "sourceId": "react-brasil/vagas#3025",
@@ -825,46 +871,6 @@
       "createdAt": "2026-07-28T15:12:24Z",
       "updatedAt": "2026-07-28T15:13:04Z",
       "url": "https://github.com/react-brasil/vagas/issues/3021",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5785e611680b5a017f944305",
-      "sourceId": "backend-br/vagas#12367",
-      "title": "[Remoto] Desenvolvedor Back-end Sênior - Igma",
-      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n👀 O que buscamos? \n\nEstamos em busca de uma pessoa desenvolvedora Backend para se juntar ao nosso Chapter de desenvolvimento e criarmos produtos digitais para as maiores empresas do Brasil.\nUnimos tecnologia e design para resolver problemas complexos de empresas.\nCriamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n\n📅 Sua rotina será: \n\n- Desenhar e construir APIs e serviços back-end de alta performance (arquitetura e infra)\n- Modelar dados em PostgreSQL/Azure SQL pensando em escala desde o início\n- Escrever testes automatizados como parte da entrega\n- Pensar testabilidade, observabilidade e segurança enquanto desenha\n- Integrar com sistemas legados enterprise sem quebrar a operação\n- Trabalhar com IA no fluxo de planejamento, código, teste e debug\n- Comunicar com clareza de forma assíncrona\n- Assumir o que se comprometeu e avisar cedo quando algo travar\n- Configuração de worflows de CI/CD\n- Trabalhar em equipe em times multidisiciplinares\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperiência comprovada de atuação como backend de, pelo menos, 4 anos.\nDomínio avançado em Python OU C# / .NET (ASP.NET Core).\nExperiência com bancos relacionais, especificamente PostgreSQL ou Azure SQL.\nFamiliaridade com:\n     - React / React Native\n     - Next.js\n     - PostgreSQL ou Azure SQL\n     - Docker / docker-compose\n     - GitHub ou Gitlab\n     - Testes automatizados\n     - Claude Code\nNão cobramos que você já domine tudo, mas que você tenha interesse em aprender rápido o que faltar.\n\n\n✨ Você irá se destacar, se: \n\nAzure (Service Bus, Event Grid, Key Vault, Blob Storage, Application Insights)\nGCP (Cloud Run, Compute Engine)\nAWS (ECS, Developer Tools, EC2, S3)\nKubernetes (AKS)\nRedis\nKeycloak\nSonarQube\n\n## Benefícios\n🏠 Oportunidade 100% remota \n\n💙 Plano de Saúde e Odonto com coparticipação\n\n🧘 Auxílio Cuidado e Desenvolvimento por meio de reembolsos \n\n🏃 Wellhub e incentivos de à práticas de esportes\n\n💳 Cartão multi-benefício Caju\n\n💻 Auxílio Remoto para investimento em equipamentos \n\n🏖️  30 dias de férias remuneradas\n\n## Contratação\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/igma/jobs/6a63c77a9e37d900132a2d81\n\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico d...",
-      "issueState": "open",
-      "contentHash": "91d7c18437836998ab09682eb9d4f0c87c56e592b361b2f7b2f5382fb4729678",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "python",
-        ".net",
-        "remoto",
-        "aws",
-        "testes automatizados",
-        "postgresql"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-07-28T14:58:32Z",
-      "updatedAt": "2026-07-28T14:58:48Z",
-      "url": "https://github.com/backend-br/vagas/issues/12367",
       "sourceType": "github-issue"
     }
   ]
