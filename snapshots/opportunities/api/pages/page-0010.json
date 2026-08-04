@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-04T16:48:22.043Z",
+  "generatedAt": "2026-08-04T22:06:11.043Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_80e983f9f8c906cbe424c23d",
     "gh_a03d32efd2752d6d4c66083e",
     "gh_ca0239ac42a490e561211a86",
     "gh_799b61edb0c98791af431e2e",
@@ -22,10 +23,55 @@
     "gh_094d438d4112cfc66e7c43d3",
     "gh_7b0790eab0e7e8741e23914a",
     "gh_f9b05570441c5238a96e1a2d",
-    "gh_deacd027702e1cb8c6ccb289",
-    "gh_5467ab05eff3efac04d00a4e"
+    "gh_deacd027702e1cb8c6ccb289"
   ],
   "items": [
+    {
+      "id": "gh_80e983f9f8c906cbe424c23d",
+      "sourceId": "DevOps-Brasil/Vagas#469",
+      "title": "Senior DevOps Engineer - DWS Brazil",
+      "description": "### 🎯 Cargo\n\nSenior DevOps Engineer\n\n### 🏢 Empresa\n\ndentsu world services brazil [DWS Brazil]\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nSede em Porto Alegre - RS [vaga remota para residentes no Brasil]\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\nR$11.000-12.000 - podemos conversar melhor :)\n\n### 📋 Descrição da Vaga\n\n**Você será responsável por:**\n• Projetar e construir pipelines de CI/CD seguros para múltiplos sistemas de destino.\n• Desenvolver e gerenciar pipelines usando principalmente GitHub Actions, além de outras ferramentas como Jenkins, Bamboo e Travis.\n• Automatizar processos manuais e desenvolver ferramentas que aumentem a eficiência operacional.\n• Colaborar com os times de desenvolvimento para apoiar a adoção de ferramentas e práticas DevOps.\n• Garantir o uso de padrões seguros e boas práticas em pipelines e infraestrutura.\n• Escrever e manter infraestrutura como código (IaC), preferencialmente com Terraform (conhecimento em Ansible será considerado um diferencial).\n• Trabalhar em parceria com as equipes de infraestrutura para entregar soluções robustas e confiáveis.\n• Solucionar problemas e otimizar os ambientes de desenvolvimento, homologação e produção.\n• Contribuir para estratégias técnicas e apoiar a evolução da plataforma.\n• Compartilhar conhecimento e atuar como referência técnica para outros membros do time\n\n### ✅ Requisitos Técnicos\n\n```markdown\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com azure, preferencialmente, ou AWS ou GCP)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\nSerá legal se você tiver:\n• Experiência com Helm e criação de charts.\n• Familiaridade com Kubernetes (não é obrigatório — oferecemos treinamento).\n• Conhecimentos em segurança de aplicações e infraestrutura, redes (TCP/IP) e PKI.\n• Experiência com ferramentas de qualidade de código, como SonarQube.\n• Experiência com repositórios privados de pacotes (npm, PyPI, NuGet).\n• Habilidade para troubleshooting em ambientes com Node.js e Python.\n• Conhecimento em scripts (bash/sh/ksh).\n```\n\n### 🎁 Benefícios\n\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n-  Aulas de inglês com professor particular;\n-  Awesomeness - envio de mimos temáticos e exclusivos;\n-  Gympass;\n-  Horário flexível (40h semanais);\n-  Day off de aniversário;\n-  Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n-  Atuação 100% remota ou híbrida (a sua escolha).\n\n\n### 🛠️ Stack/Tecnologias\n\n- Azure\n- pipelines de CI/CD\n- GitHub Actions\n- Jenkins\n- Terraform (conhecimento em Ansible será considerado um diferencial).\n\n### 📧 Como se Candidatar\n\nInscreva-se na vaga: https://dwsbrazil.gupy.io/jobs/11584984?jobBoardSource=gupy_public_page\nou envie um email com seu CV atualizado em inglês, pretensão salarial e nível de inglês para: debora.dalbem@dentsu.com\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://dwsbrazil.gupy.io/jobs/11584984?jobBoardSource=gupy_public_page\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
+      "excerpt": "### 🎯 Cargo Senior DevOps Engineer ### 🏢 Empresa dentsu world services brazil [DWS Brazil] ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Sede em Porto Alegre - RS [vaga r...",
+      "issueState": "open",
+      "contentHash": "a0cbec59b33a0127b8018b5aa87963a36f14394bd018d0d841d22a2d0a63db67",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "devops",
+        "sre",
+        "platform",
+        "infra",
+        "security",
+        "aws",
+        "azure"
+      ],
+      "author": {
+        "id": "dwsbrazil",
+        "name": "dwsbrazil",
+        "handle": "dwsbrazil",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 11000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-14T17:25:36Z",
+      "updatedAt": "2026-07-14T17:27:42Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/469",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a03d32efd2752d6d4c66083e",
       "sourceId": "datascience-br/vagas#166",
@@ -781,44 +827,6 @@
       "createdAt": "2026-07-10T20:36:53Z",
       "updatedAt": "2026-07-10T20:37:07Z",
       "url": "https://github.com/react-brasil/vagas/issues/3019",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5467ab05eff3efac04d00a4e",
-      "sourceId": "pydevbr/vagas#46",
-      "title": "[Remoto] Python Developer - RPA @ Botcity",
-      "description": "### Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n### Descrição da vaga\n\nRole Overview\n\nThe Python Developer will be responsible for design, develop, and deliver automation projects that ensure performance, scalability, and customer impact for BotCity’s clients. This role is critical to maintaining high-quality code, smooth delivery, and strong customer experience across Professional Services engagements. The ideal professional is a passionate Python developer who builds clean, reliable automation solutions, communicates effectively while prioritizing the customer experience, and thrives as a collaborative, adaptable team player in a fast-changing environment.  This role reports to the Delivery Manager.\n\n \nResponsibilities\n\nGather and analyze client requirements, propose automation solutions, and design workflows aligned with business goals.\nDevelop, test, and deploy Python automations using BotCity’s platform and best practices.\nWrite clean, maintainable, and reusable code, following team standards, reviews, and version control processes (Git).\nMonitor, debug, and optimize automations to ensure reliability and performance in production.\nDocument processes, code, and architecture clearly for both technical and non-technical audiences.\nProvide technical support and training during project handover or customer onboarding.\nCollaborate closely with project managers, QA, and clients to ensure successful and timely project delivery.\nIdentify and implement improvements in development practices, tooling, and project workflows.\n\n\n\n### Local\n\nRemoto\n\n### Requisitos\n\nRequirements\nBachelor’s degree or equivalent experience in Computer Science, Information Systems, or related field.\nProfessional experience (2+ years) in Python development.\nRelevant hands-on experience with automation or RPA projects.\nProven experience with Git version control system and GitHub Flow.\nSolid understanding of APIs, data manipulation, error handling, and debugging.\nStrong problem-solving skills and ability to adapt quickly to new business contexts.\nExcellent communication and presentation skills with clients and internal stakeholders.\nExperience working with MS Office/Excel, Google Suite, Notion, Slack.\nAbility to travel as needed to support events and meet the team.\nPortuguese - Fluent.\nEnglish - Advanced.\n\nPreferred Qualifications\n\nExperience in professional services, IT consulting, or technical implementation.\nFamiliarity with BotCity tools.\nExperience with Agile methodologies.\nPrior experience in an early-stage, high-growth, and fast-paced startup environment.\n\n### Benefícios\n\nCartão flexível\nAuxilio Saúde\nAuxilio Idiomas\nSeguro de Vida\nWellhub\nConexa\nPolítica de Time off\n\n### Contratação\n\nPJ\n\n### Como se candidatar\n\nEnviar candidatura pela página de carreiras: https://jobs.quickin.io/botcity/jobs/6a19d88cd26f2200134fa876?src=Github\n\n### Tempo médio de feedbacks\n\nCostumamos enviar feedback até 15 dias depois da candidatura\n\n### Keywords\n\nRPA\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [x] PJ\n- [ ] CLT\n- [ ] Estágio\n- [ ] Cooperado\n- [ ] Freela\n\n### Nível\n\n- [ ] Júnior\n- [x] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observab...",
-      "issueState": "open",
-      "contentHash": "b3c0c72ef0c95a64a008887c10f11039ea0cd15801a2bc7a694f134ad531267f",
-      "repository": "pydevbr/vagas",
-      "repositoryUrl": "https://github.com/pydevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "full time",
-        "sênior",
-        "pleno",
-        "💰 n/a"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "pydevbr",
-        "name": "pydevbr",
-        "avatarUrl": "https://github.com/pydevbr.png?size=80",
-        "repository": "pydevbr/vagas",
-        "url": "https://github.com/pydevbr/vagas"
-      },
-      "createdAt": "2026-07-10T20:31:33Z",
-      "updatedAt": "2026-07-17T10:49:57Z",
-      "url": "https://github.com/pydevbr/vagas/issues/46",
       "sourceType": "github-issue"
     }
   ]
