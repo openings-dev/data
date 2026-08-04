@@ -1,16 +1,100 @@
 {
-  "generatedAt": "2026-08-03T17:05:42.008Z",
+  "generatedAt": "2026-08-04T13:52:58.476Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "datascience-br/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 26,
-    "closedIssues": 4
+    "openIssues": 27,
+    "closedIssues": 3
   },
-  "dataHash": "a6837a1a50374f0b3bcc3e8409b82bada80837bf6dad983b24106d317c5d2d81",
+  "dataHash": "9ced70a35a611eb11a0e2de1748dcff1decc41b1d639543983051edd014d6d1e",
   "items": [
+    {
+      "id": "gh_51e483ebb34d54e2febabf8f",
+      "sourceId": "datascience-br/vagas#178",
+      "title": "[Remoto] Analytics/BI Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Analytics/BI nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Construir painéis e relatórios para as áreas de negócio\n- Definir e documentar métricas\n- Traduzir pergunta de negócio em análise\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Analytics/BI (de 2 a 5 anos)\n- Power BI, Looker ou Tableau\n- SQL avançado\n- Modelagem dimensional\n- Comunicação com áreas de negócio\n\n**Diferenciais:**\n- dbt\n- Python\n- Cloud\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-analytics-bi-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "54cf3a2d6739c4e2cd85d5103f0b87ae7019a5e6bba096a3f3927b63b21ad23f",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-04T12:37:19Z",
+      "updatedAt": "2026-08-04T12:37:19Z",
+      "url": "https://github.com/datascience-br/vagas/issues/178",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3b0fb17013f605ffae1ecffc",
+      "sourceId": "datascience-br/vagas#177",
+      "title": "[Híbrido] Machine Learning Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Machine Learning nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Treinar, avaliar e colocar modelos em produção\n- Monitorar deriva e desempenho dos modelos\n- Automatizar o ciclo de vida do modelo\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Machine Learning (5 anos ou mais)\n- Python (scikit-learn, PyTorch ou TensorFlow)\n- Engenharia de features\n- Métricas de avaliação\n- SQL\n\n**Diferenciais:**\n- MLflow ou Kubeflow\n- Cloud\n- Docker e Kubernetes\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-machine-learning-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "b686fb37af446b154a232a939b34d76857977645a986ac9fc1744e2341a93b7c",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-04T12:32:25Z",
+      "updatedAt": "2026-08-04T12:32:25Z",
+      "url": "https://github.com/datascience-br/vagas/issues/177",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_58d71ef2f10f492b44babfb6",
       "sourceId": "datascience-br/vagas#176",
@@ -1047,75 +1131,6 @@
       "createdAt": "2025-07-09T19:22:49Z",
       "updatedAt": "2025-07-25T14:24:41Z",
       "url": "https://github.com/datascience-br/vagas/issues/145",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_749026dea46f51d311dd47c8",
-      "sourceId": "datascience-br/vagas#144",
-      "title": "Vaga fechada",
-      "description": "",
-      "excerpt": "Vaga fechada",
-      "issueState": "closed",
-      "contentHash": "893dd61baf6e65ea58323b3adc02335127a4ebe9771092083ea69748c152ba98",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [],
-      "author": {
-        "id": "KauanyFD",
-        "name": "KauanyFD",
-        "handle": "KauanyFD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216776835?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "createdAt": "2025-06-20T19:09:26Z",
-      "updatedAt": "2025-07-09T19:25:38Z",
-      "url": "https://github.com/datascience-br/vagas/issues/144",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9f721eceb70186cf792352d6",
-      "sourceId": "datascience-br/vagas#143",
-      "title": "[Remote] Data Platform Engineer na Alternative Payments",
-      "description": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud data warehouse to building the initial ETL pipelines that bring raw data into shape—laying the groundwork for self-service analytics and data-driven decision making.\n\n### What You’ll Bring\n#### Cloud & Infrastructure Expertise\n\n- 5+ years in software or data engineering, with hands-on experience provisioning and maintaining cloud data warehouses (e.g., Snowflake, Amazon Redshift, Google BigQuery)\n- Proficiency with Infrastructure-as-Code tools (Terraform, CloudFormation, Pulumi) to automate data platform deployments\n\n#### ETL & Data Modeling\n\n- Strong SQL skills and experience building ETL pipelines in Python or Java/Scala\n- Familiarity with orchestration frameworks (Airflow, Prefect, Dagster) or transformation tools (dbt)\n- Solid understanding of data modeling patterns (star, snowflake schemas) and best practices for partitioning, clustering and indexing\n\n#### Platform Reliability & Security\n\n- Experience implementing data quality checks, monitoring (Datadog, Prometheus, Monte Carlo) and alerting for pipelines\n- Knowledge of data governance and security—IAM, encryption at rest/in transit, PII redaction\n\n#### Collaboration & Documentation\n\n- Excellent communicator—able to partner with analytics, product and engineering teams to translate requirements into scalable solutions\n- Strong documentation skills to define data platform standards, runbooks and onboarding guides\n\n### What You’ll Own\n\n#### Data Warehouse Provisioning\n\n- Architect and spin up our production and sandbox data warehouse environments using IaC\n- Define resource sizing, scaling policies and cost-optimization strategies\n\n#### ETL Pipeline Development\n\n- Build and deploy the first wave of ETL pipelines to ingest transactional, event and third-party data\n- Implement transformations, schema migrations and incremental workflows\n\n#### Platform Operations & Monitoring\n\n- Embed data quality tests and SLA tracking into every pipeline\n- Set up dashboards and alerts to proactively detect failures, latency spikes or data drift\n\n#### Standards & Enablement\n\n- Establish coding conventions, pipeline templates and best practices for all future data projects\n- Mentor other engineers and analysts on using the data platform, from query optimization to CI/CD for analytics code\n\n#### Cross-Functional Partnership\n\n- Work closely with BI/analytics teams to understand reporting needs and iterate on data models\n- Collaborate with application engineers to identify new data sources and automate their onboarding\n\n### About Us:\n\nAlternative Payments is a leading payments platform for service-based companies. Our innovative platform enables businesses to automate the entire accounts receivable process and reduce the overall expense of payment processing. We are dedicated to fostering growth and providing exceptional value to our clients.\n\n### Our Values\n\nTransparency & Honesty: We operate with transparency to our customers, investors, and other partners, every step of the way. \n\nDependability: We are dependable. We do what we say we are going to do and we do not cut corners. \n\nPartnership: We are partners to our customers, investors, and each other, and work together to solve exciting massive problems. \n\nRevolutionary & Boldness: We are revolutionary & bold. We break down barriers and walls to build our own walls in a stronger, safer, and simpler manner. \n\nDiversity & Inclusion: We work together with people of all backgrounds and seek different viewpoints to generate stronger partnerships and create a stronger, more inclusive company and world. \n\n### Como se candidatar\n\nAplique no link: https://www.alternativepayments.io/careers/?ashby_jid=a5e32e9d-dce0-4b04-beba-ae43cf2aeb76\n\nAceitamos apenas candidatos no Brasil, com currículos em Inglês.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Remoto\n\n#### Regime\n- PJ\n\n#### Nível\n- Sênior\n- Especialista",
-      "excerpt": "As our Data Platform Engineer, you will design, provision, and operate the foundational data infrastructure that powers analytics and reporting across the organization. You’ll own everything from spinning up our cloud...",
-      "issueState": "open",
-      "contentHash": "1b7165e58c49442fe79d17bf12a14a4a810a9ec146691ceb0d449592c744e0b2",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "python",
-        "java",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "fernandobandeira",
-        "name": "fernandobandeira",
-        "handle": "fernandobandeira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8373980?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Alternative Payments",
-      "createdAt": "2025-06-03T14:57:52Z",
-      "updatedAt": "2025-06-03T14:57:52Z",
-      "url": "https://github.com/datascience-br/vagas/issues/143",
       "sourceType": "github-issue"
     }
   ]

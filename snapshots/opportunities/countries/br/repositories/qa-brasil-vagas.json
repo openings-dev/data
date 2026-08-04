@@ -1,16 +1,58 @@
 {
-  "generatedAt": "2026-08-03T17:05:42.008Z",
+  "generatedAt": "2026-08-04T13:52:58.476Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 11,
-    "closedIssues": 19
+    "openIssues": 12,
+    "closedIssues": 18
   },
-  "dataHash": "45a175f11936826c45d1333c8f3bed17df5fca65c5d8ad082e644eeab8660f56",
+  "dataHash": "e1d785a6929269c983c07595bebce7d59e40b3a0f2cd03e29efe79d61aa18f95",
   "items": [
+    {
+      "id": "gh_4b477283ff274db145cfb7e6",
+      "sourceId": "qa-brasil/vagas#1270",
+      "title": "[Híbrido] QA Manual Sênior na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA Manual nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local de trabalho\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA Manual (5 anos ou mais)\n- Elaboração de casos e planos de teste\n- Teste exploratório e de regressão\n- Ferramenta de gestão de defeitos (Jira ou similar)\n- Noções de SQL\n\n**Diferenciais:**\n- Início em automação\n- Teste de API\n- Certificação CTFL\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 12.000 e R$ 22.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-manual-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA Manual nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 12.000 a 22.000/mês, conforme experiência. ## Local de trabalho Híbrido o...",
+      "issueState": "open",
+      "contentHash": "663a060ba65ff5ed68350fb1b66ecf75b9ef6362a55d3e2ef9422278f7dd02f3",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-04T12:45:15Z",
+      "updatedAt": "2026-08-04T12:45:46Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1270",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_eb388bf6be6e9bd63b7f0a26",
       "sourceId": "qa-brasil/vagas#1269",
@@ -1113,45 +1155,6 @@
       "createdAt": "2025-11-27T17:34:59Z",
       "updatedAt": "2026-04-18T02:49:34Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1234",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a3c1bb7e194b034002ebabaa",
-      "sourceId": "qa-brasil/vagas#1233",
-      "title": "[Goiânia-GO] QA na DB4SERV",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nEstamos buscando um Analista de QA Pleno, para contratação PJ pela DB4SERV. O profissional ficará alocado como terceiro em uma grande empresa de tecnologia.\n\n## Local de trabalho\n<!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->\n- Híbrido. 3 dias remoto e 2 dias presencial no escritório em Goiânia - GO, bairro Jardim Goiás\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Mais de 2 anos de experiência como QA\n- Experiência com testes manuais e automatizados (WEB ou DESKTOP)\n- Superior completo em tecnologia e áreas correlatas afins\n\n**Desejáveis**\n- Conhecimento prático com pelo menos uma linguagem de programação (Javascript, Typescript, Delphi, Java, C#, Ruby, etc)\n- Conhecimento nas ferramentas Jira, Zephyr e Azure DevOps\n\n**Diferenciais**\n- Conhecimento no ERP Winthor\n- Certificação CTFL ou correlatas a área de atuação\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- Contrato PJ sem benefícios\n\n## Range Salarial\n\nA vaga paga entre 5.500,00 e 7.500,00 reais. O valor será definido de acordo com a pretensão do candidato, dentro desse limite informado.\n\n## Sobre a empresa\n\nA DB4SERV é uma consultoria especializada no fornecimento de soluções corporativas de Tecnologia da Informação. Temos mais de 15 anos de mercado, atuando em grandes empresas, com profissionais alocados em todo território nacional.\n\n## Como se candidatar\n\n- Por favor envie um e-mail para vagas@db4serv.com.br com seu CV anexado - Enviar no assunto: Vaga do QA-Brasil.\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 5 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: rafael.mendes@db4serv.com.br\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- PJ\n- Pleno\n<!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->\n- Presencial\n- Remoto\n<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->\n- Goiás\n<!--- Se sua vaga não for do Brasil, apague a linha de estado acima e deixe a de baixo --->\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "closed",
-      "contentHash": "4ad816705eb9c52db08b62e6392aab6c2f3a4a876fd0357b84d90c78f956abb5",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "goiás",
-        "pj",
-        "pleno",
-        "remoto",
-        "presencial",
-        "stale"
-      ],
-      "author": {
-        "id": "rafa-mendes87",
-        "name": "rafa-mendes87",
-        "handle": "rafa-mendes87",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/246359068?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Contrato PJ sem benefícios",
-      "createdAt": "2025-11-26T19:27:30Z",
-      "updatedAt": "2026-04-11T02:41:53Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1233",
       "sourceType": "github-issue"
     }
   ]
