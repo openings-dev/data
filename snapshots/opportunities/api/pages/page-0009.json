@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-08-05T16:28:10.814Z",
+  "generatedAt": "2026-08-05T19:18:20.924Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_15b745deb0f93e4b7ae1b91c",
+    "gh_954665aad060b2ba2cbc9299",
+    "gh_80a8e5e773bc8c7021193f5f",
+    "gh_f55b86fbebb7b39bcd8fe63e",
+    "gh_39839d9b974ed279482f4d41",
+    "gh_82f67eb263925053dbd84dce",
+    "gh_a6cd612c720b1596632ca8b7",
     "gh_bc2a57ae5a63bf867cb1da0b",
     "gh_83d5cf0395428e0559933440",
     "gh_22f89c3b0b886211403e0348",
@@ -16,16 +23,292 @@
     "gh_ed00b8f2449863124678856d",
     "gh_771e69b35a748d39b77d7307",
     "gh_ef165c0b53e4e3bf05710db6",
-    "gh_436c39f3e142335204f5ceab",
-    "gh_f67d9cb98c7df392629587d1",
-    "gh_1a941191e4752836c5c81470",
-    "gh_b8d2f0293ae6def50d968181",
-    "gh_72478d1135b9afe77507d1f6",
-    "gh_fab93254cce0bcb42444c62f",
-    "gh_6696fde1819557e47e58a36a",
-    "gh_ac9d2a190dca87b415fa96f3"
+    "gh_436c39f3e142335204f5ceab"
   ],
   "items": [
+    {
+      "id": "gh_15b745deb0f93e4b7ae1b91c",
+      "sourceId": "awesome-jobs/vietnam#4976",
+      "title": "🔥🔥 [HN] Mời gấp UV Fullstack Dev (React/TypeScript/AWS) -  Lương upto 45M 🔥🔥",
+      "description": "**I. Nhiệm vụ chính/ Key Responsibilities**\n● Quản lí và dẫn dắt đội nhóm, phân công và cố vấn đội ngũ kỹ sư phần mềm, đảm bảo chất\nlượng sản phẩm và tuân thủ các tiêu chuẩn phát triển phần mềm.\n● Phối hợp với Product Manager, AI Engineer, QA và các bên liên quan để thúc đẩy tiến độ dự\nán và xây dựng văn hóa làm việc hiệu quả, hợp tác.\n● Review và cải thiện code (bao gồm AI-generated code) trước khi merge, đảm bảo chất lượng\nvề kiến trúc, bảo mật, hiệu năng và khả năng bảo trì.\n● Refactor và tối ưu frontend, backend, database và infrastructure để đáp ứng tiêu chuẩn\nproduction.\n● Thiết kế, phát triển và triển khai các tính năng phức tạp một cách độc lập.\n● Thiết lập và duy trì các engineering best practices: code review, testing, CI/CD và release\nmanagement.\n● Thực hiện security review, triển khai các cơ chế bảo mật như Row Level Security (RLS),\naccess control và bảo vệ dữ liệu nhạy cảm.\n● Quản lý và tối ưu hạ tầng AWS, CI/CD pipeline, Infrastructure as Code và môi trường\nproduction.\n● Tối ưu PostgreSQL (schema, query, migration, performance) và kiểm soát technical debt.\n● Xây dựng và duy trì automated testing (unit, integration, end-to-end).\n\n**II.Yêu cầu công việc/ Job Requirements**\n● Tối thiểu 6+ năm kinh nghiệm phát triển phần mềm, có ít nhất 1 năm kinh nghiệm quản lí\nteam kỹ thuật\n● Thành thạo Frontend: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui\n● Thành thạo Backend & Database: PostgreSQL, Supabase, Supabase Edge Functions\n● Thành thạo Cloud & DevOps: AWS ECS Fargate, AWS RDS PostgreSQL (Multi-AZ), AWS\nCloudFront, AWS WAF, AWS GuardDuty, Terraform hoặc AWS CDK, GitHub Actions\n● Thành thạo AI & Development Tools: OpenAI, Anthropic, Google AI, Cursor, Claude Code,\nGitHub Copilot hoặc các AI coding assistants tương tự\n● Có kinh nghiệm xây dựng và vận hành hệ thống production trên AWS.\n● Hiểu biết vững về software architecture, secure coding, performance optimization và\nscalability.\n● Thành thạo database design, migration, indexing, query optimization và access control.\n● Có kinh nghiệm xây dựng CI/CD, automated testing và release management.\n● Có khả năng review code, refactor codebase lớn và xử lý technical debt.\n● Có kinh nghiệm làm việc với AI-assisted development và đánh giá chất lượng AI-generated\ncode.\n● Tiếng Anh giao tiếp thành thạo, có khả năng làm việc trực tiếp với khách hàng và đội ngũ kỹ\nthuật quốc tế.\n_Ưu tiên đã có:_\n● Kinh nghiệm trong Healthcare, HealthTech hoặc các ngành có yêu cầu compliance.\n● Hiểu biết về HIPAA, HL7, FHIR hoặc ISO 27001.\n● Có kinh nghiệm migrate từ Supabase sang AWS/PostgreSQL.\n● Có kinh nghiệm xử lý các vấn đề bảo mật sau penetration testing.\n● Có kinh nghiệm phát triển AI-enabled products hoặc tối ưu chi phí hạ tầng AWS.\n\n**III. Quyền lợi và phúc lợi/ Benefits:**\n● Range lương upto 45M Gross\n● Thử việc: 02 tháng, 100% lương\n● Lương tháng 13, thưởng hiệu suất công việc\n● Chế độ BHXH, nghỉ phép, nghỉ lễ tết & các chế độ khác theo quy định của Luật lao động\n● Cung cấp trang thiết bị, công cụ hỗ trợ công việc\n\n**IV. Thông tin và cách thức ứng tuyển/ Call to action**\n● Ứng tuyển xin vui lòng gửi CV & Portfolio (nếu có) về địa chỉ email:\nthuongdt@mindsupernova.com hoặc liên hệ Ms Thương 0325.060.777 để được hỗ trợ",
+      "excerpt": "**I. Nhiệm vụ chính/ Key Responsibilities** ● Quản lí và dẫn dắt đội nhóm, phân công và cố vấn đội ngũ kỹ sư phần mềm, đảm bảo chất lượng sản phẩm và tuân thủ các tiêu chuẩn phát triển phần mềm. ● Phối hợp với Product...",
+      "issueState": "open",
+      "contentHash": "c89421abab52b51542ec27969d0fbba6753977a018ad45f09e288f11c791d7f6",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "frontend",
+        "backend",
+        "fullstack",
+        "react",
+        "typescript",
+        "devops",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "thuongdt14",
+        "name": "thuongdt14",
+        "handle": "thuongdt14",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/119025103?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-22T04:56:11Z",
+      "updatedAt": "2026-07-22T04:56:11Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4976",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_954665aad060b2ba2cbc9299",
+      "sourceId": "lukasz-madon/awesome-remote-job#1118",
+      "title": "Add HomeOffice AI: AI-powered productivity tools and resources for remote work. Guides on using AI ",
+      "description": "## HomeOffice AI\n\n**URL:** https://homeoffice-ai.com\n**Description:** AI-powered productivity tools and resources for remote work. Guides on using AI for workflow automation, writing, and business efficiency.\n**Category:** AI Tools & Productivity\n**Tags:** ai, productivity, remote-work, tools\n\n---\n\nHi! I'd like to suggest adding HomeOffice AI to this list. It's a valuable resource for anyone interested in AI productivity.\n\nPlease let me know if any additional information is needed. Thank you!",
+      "excerpt": "## HomeOffice AI **URL:** https://homeoffice-ai.com **Description:** AI-powered productivity tools and resources for remote work. Guides on using AI for workflow automation, writing, and business efficiency. **Categor...",
+      "issueState": "open",
+      "contentHash": "71d8338b58d9aea70a37b08d300180ef6fa45f14c2428a0750585f6d794961cd",
+      "repository": "lukasz-madon/awesome-remote-job",
+      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote"
+      ],
+      "author": {
+        "id": "allenshi16",
+        "name": "allenshi16",
+        "handle": "allenshi16",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192084100?v=4"
+      },
+      "community": {
+        "id": "lukasz-madon",
+        "name": "lukasz-madon",
+        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
+        "repository": "lukasz-madon/awesome-remote-job",
+        "url": "https://github.com/lukasz-madon/awesome-remote-job"
+      },
+      "createdAt": "2026-07-21T22:03:51Z",
+      "updatedAt": "2026-07-21T22:03:51Z",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1118",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_80a8e5e773bc8c7021193f5f",
+      "sourceId": "backend-pt/vagas#144",
+      "title": "[Remoto] Java/Spring Boot Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java/Spring Boot Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Spring Boot compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-spring-boot-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "ff07bc2f83e5b45b3dcea35f3dcc88fa503dbc07362b6ee4b39368e87e5cc475",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-21T17:46:46Z",
+      "updatedAt": "2026-07-22T09:36:26Z",
+      "url": "https://github.com/backend-pt/vagas/issues/144",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f55b86fbebb7b39bcd8fe63e",
+      "sourceId": "dotnetdevbr/vagas#1068",
+      "title": "[Remoto] Back-End Developer (ASP.NET Core) Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer (ASP.NET Core) nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com .NET/ASP.NET Core compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-net-asp-net-core-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "93258bd6281da64f795e1500ec1ff7b431efe438f500100a84b2ee1ccbb39f93",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "pleno"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-21T17:45:44Z",
+      "updatedAt": "2026-07-22T09:36:24Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1068",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_39839d9b974ed279482f4d41",
+      "sourceId": "soujava/vagas-java#1919",
+      "title": "[Remoto] Desenvolvedor(a) Java/Kafka Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "354bbc5da2f7fbf5f661ddb53b159e2203b1a440ff38f3965e1771afa45dcc4e",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-21T17:44:33Z",
+      "updatedAt": "2026-07-21T17:44:50Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1919",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_82f67eb263925053dbd84dce",
+      "sourceId": "soujava/vagas-java#1918",
+      "title": "[Remoto] Desenvolvedor(a) Java/Jakarta EE Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Jakarta EE nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Jakarta EE compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "f06736cc06feda91f25b9efbf73e46c4fa6b5e3d74836095ea4e16183c1c2ace",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-21T17:43:32Z",
+      "updatedAt": "2026-07-21T17:43:51Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1918",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_a6cd612c720b1596632ca8b7",
+      "sourceId": "awesome-jobs/vietnam#4975",
+      "title": "🚀 [HCM] Senior Backend Developer (Core Banking | C/C++) | Up to 32M Gross",
+      "description": "💰 Salary: Up to 32M Gross\n📍 Location: HCM (Quận 2 cũ) – Onsite\n⏳ Contract: 6 months (Có cơ hội extend)\n\n🔎 Yêu cầu:\n\nTừ 3 năm kinh nghiệm\nThành thạo C/C++\nCó kinh nghiệm **Core Banking / Banking / Fintech**\nThành thạo Oracle SQL/PLSQL, tối ưu database\nLàm việc trên môi trường Linux/Unix\nHiểu biết về ISO8583, payment gateway protocols, or system integration is an \nadvantage\n\n💼 Công việc:\n\nPhát triển, bảo trì và tối ưu hệ thống Core Banking\nXử lý sự cố, tối ưu hiệu năng hệ thống\nPhát triển backend bằng C/C++\nTham gia tích hợp Payment Gateway, Napas, eWallet...\nViết tài liệu kỹ thuật, code review và hỗ trợ production",
+      "excerpt": "💰 Salary: Up to 32M Gross 📍 Location: HCM (Quận 2 cũ) – Onsite ⏳ Contract: 6 months (Có cơ hội extend) 🔎 Yêu cầu: Từ 3 năm kinh nghiệm Thành thạo C/C++ Có kinh nghiệm **Core Banking / Banking / Fintech** Thành thạo...",
+      "issueState": "open",
+      "contentHash": "cd2219c3877b735147ef8dde48e7923a7ca8206cb6573e23e7503c91dc46e355",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "onsite",
+        "backend",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "PhuongVu-HR",
+        "name": "PhuongVu-HR",
+        "handle": "PhuongVu-HR",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-21T10:48:51Z",
+      "updatedAt": "2026-07-21T10:48:51Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4975",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_bc2a57ae5a63bf867cb1da0b",
       "sourceId": "awesome-jobs/vietnam#4974",
@@ -531,271 +814,6 @@
       "createdAt": "2026-07-17T09:24:09Z",
       "updatedAt": "2026-07-17T09:24:09Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4971",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f67d9cb98c7df392629587d1",
-      "sourceId": "backend-pt/vagas#139",
-      "title": "[Remoto] Java/Quarkus Backend Developer Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java/Quarkus Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Quarkus compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-quarkus-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "1c15e427cf679f1933abf97b7c6cdfe86fc1457b3b108c14e398aa2f7456b0f9",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-16T13:13:21Z",
-      "updatedAt": "2026-07-16T13:13:37Z",
-      "url": "https://github.com/backend-pt/vagas/issues/139",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1a941191e4752836c5c81470",
-      "sourceId": "dotnetdevbr/vagas#1063",
-      "title": "[Híbrido] Back-End Developer (ASP.NET Core) Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer (ASP.NET Core) nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com .NET/ASP.NET Core compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-net-asp-net-core-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "0593b33bb88d2b93b5386529cc69a7d0580a0c9f648af02cf1e5a2c800abe8e4",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "sênior",
-        "híbrido"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-16T13:12:20Z",
-      "updatedAt": "2026-07-16T13:12:43Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1063",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b8d2f0293ae6def50d968181",
-      "sourceId": "awesome-jobs/vietnam#4970",
-      "title": "📢 [HÀ NỘI] Junior QC Game Engineer",
-      "description": "- **Địa điểm:** Phường Đại Mỗ, Thành phố Hà Nội\n---\n**Mô tả công việc (Responsibilities)**\n\n- Thực hiện QC cho SDK và nền tảng phát hành game dựa trên các kịch bản kiểm thử (Test Scenario) được cung cấp.\n- Kiểm thử việc tích hợp (Integration) SDK vào dự án game để xác minh tính năng, khả năng tương thích và tính ổn định.\n- Thực hiện kiểm thử Build Verification và Compatibility Test đối với SDK trên môi trường PC (Unity/Unreal) và Mobile.\n- Kiểm thử các chức năng đăng nhập, xác thực tài khoản, thanh toán và kết nối API.\n- Thực hiện Functional Test, Regression Test, Smoke Test và xác minh lại các lỗi sau khi được khắc phục.\n- Kiểm thử trên nhiều thiết bị, hệ điều hành và môi trường mạng khác nhau; tái hiện, theo dõi và quản lý lỗi phát sinh.\n- Lập Test Report, Bug Report; ghi nhận và chia sẻ kết quả kiểm thử với các bên liên quan trong dự án.\n- Thực hiện Cross Validation nhằm đánh giá ảnh hưởng của các tính năng SDK mới đối với các chức năng hiện có.\n- Kiểm thử giao diện UI/UX và chức năng trên web và ứng dụng.\n- Phối hợp với đội ngũ phát triển và PM để quản lý rủi ro chất lượng trước khi phát hành (Release).\n\n**Yêu cầu (Requirements)**\n\n- Có tối thiểu 1,5+ năm kinh nghiệm ở vị trí liên quan.\n- Có hiểu biết về quy trình kiểm thử phần mềm như Functional Test, Regression Test và các quy trình kiểm thử cơ bản.\n- Có kinh nghiệm kiểm thử trên các nền tảng: PC, Mobile hoặc Console.\n- Có hiểu biết cơ bản về môi trường Windows, Android và iOS.\n- Có kinh nghiệm sử dụng các công cụ quản lý lỗi và cộng tác như Jira, Confluence, TestRail, Redmine,...\n- Có khả năng phân tích và phân loại lỗi theo mức độ ưu tiên (Priority) và mức độ nghiêm trọng (Severity).\n- Có khả năng sử dụng tiếng Anh để đọc hiểu tài liệu kỹ thuật và trao đổi công việc với QA Leader và đội ngũ phát triển. \n- Có tư duy logic, cẩn thận và khả năng phân tích, tái hiện lỗi tốt.\n\n**Ưu tiên (Preferred Qualifications)**\n\n- Có kinh nghiệm kiểm thử game hoặc SDK.\n- Có hiểu biết về Unity, Unreal Engine hoặc các nền tảng phát hành game.\n- Có kinh nghiệm về SDK Integration, API Validation và Build Verification.\n- Có kinh nghiệm phân tích lỗi bằng Android Logcat, iOS Console, Unity Log hoặc Unreal Log.\n- Có kinh nghiệm kiểm thử REST API (Postman hoặc công cụ tương đương).\n- Có kinh nghiệm kiểm thử trên nhiều dòng thiết bị Android/iOS của các nhà sản xuất khác nhau.\n- Có kinh nghiệm QA/QC trong quá trình phát hành (Release) game hoặc ứng dụng.\n---\nLiên hệ mình để trao đổi chi tiết hơn nha:\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
-      "excerpt": "- **Địa điểm:** Phường Đại Mỗ, Thành phố Hà Nội --- **Mô tả công việc (Responsibilities)** - Thực hiện QC cho SDK và nền tảng phát hành game dựa trên các kịch bản kiểm thử (Test Scenario) được cung cấp. - Kiểm thử việ...",
-      "issueState": "open",
-      "contentHash": "add03f7f44be17c432696386e74ce01d8fff04ea0fb4d4436c8dd7a51cdf703f",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "junior"
-      ],
-      "author": {
-        "id": "Linh-IT-Recruiter",
-        "name": "Linh-IT-Recruiter",
-        "handle": "Linh-IT-Recruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-16T06:05:00Z",
-      "updatedAt": "2026-07-16T06:05:00Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4970",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_72478d1135b9afe77507d1f6",
-      "sourceId": "awesome-jobs/vietnam#4969",
-      "title": "📢 [HCM] BUSINESS ANALYST (Banking/Payment Domain) - UP TO 30M",
-      "description": "- Địa điểm: Quận 3 hoặc Tân Bình, TP.HCM\n- Range lương: up to 30M\n---\n**MÔ TẢ CÔNG VIỆC**\n- Chịu trách nhiệm phân tích yêu cầu nghiệp vụ, phối hợp với đội kĩ thuật để thống nhất phạm vi, luồng xử lý, quy tắc nghiệp vụ, yêu cầu chức năng/phi chức năng và các điểm tích hợp hệ thống. Xây dựng, cập nhật tài liệu theo yêu cầu. Phối hợp với các bên liên quan để quản lý thay đổi yêu cầu, đánh giá tác động đến phạm vi, chất lượng.\n- Thu thập, phân tích và xác nhận yêu cầu từ các đơn vị nghiệp vụ.\n- Chuyển đổi yêu cầu nghiệp vụ thành tài liệu đặc tả chức năng, yêu cầu hệ thống.\n- Phối hợp với TA/SA để phân tích, thiết kế và xây dựng giải pháp, nền tảng hệ thống ứng dụng KHDN.\n- Chịu trách nhiệm xây dựng các tài liệu theo phân công:\n                 + Software Requirements Specification (SRS)\n                 + Architecture Design\n                 + Detail Design Document\n                 + Quản lý các phiên bản cập nhật (nếu có)\n- Phối hợp với Nghiệp vụ, Team UI/UX và QC để đảm bảo giải pháp đáp ứng đúng yêu cầu.\n- Đảm bảo tính đầy đủ, nhất quán và khả thi của yêu cầu trong suốt vòng đời dự án.\n- Hỗ trợ xây dựng quy trình nghiệp vụ, wireframe, luồng xử lý và tiêu chí nghiệm thu.\n- Hỗ trợ UAT, quản lý thay đổi yêu cầu và theo dõi tiến độ thực hiện.\n\n**YÊU CẦU**\n- Tốt nghiệp Đại học trở lên chuyên ngành Công nghệ thông tin, Toán Tin, Tài Chính – Ngân hàng.\n- Có ít nhất 03 năm kinh nghiệm trong phát triển phần mềm.\n- Ưu tiên ứng viên có kinh nghiệm domain Banking, hoặc đã từng triển khai hệ thống Notification (quản lý luồng đăng ký nhận thông báo, quản lý template, và cơ chế gửi notification dựa trên template.)\n- Có kinh nghiệm tổ chức đội dự án theo mô hình Agile/Scrum Master là một lợi thế.\n- Có kinh nghiệm/am hiểu hoặc khả năng tiếp cận tốt các framework, các best practice đang được sử dụng phổ biến trong lĩnh vực phần mềm.\n- Có kinh nghiệm về phân tích và triển khai tích hợp hệ thống phần mềm.\n- Có kinh nghiệm về tích hợp hệ thống, giao diện kết nối với hệ thống bên ngoài, phát triển ứng dụng trên nền tảng middleware, làm việc về kho dữ liệu, khai thác dữ liệu.\n- Có kinh nghiệm thiết kế và phát triển phần mềm ứng dụng.\n- Có kiến thức về kiến trúc SOA, BPM, Cloud, Microservice.\n- Có kiến thức về nghiệp vụ, các hệ thống ứng dụng Ngân hàng, Core Banking T24.\n- Có khả năng giao tiếp bằng Tiếng Anh.\n\n**Yêu cầu ưu tiên** \n- Ưu tiên ứng viên có một trong những chứng chỉ sau:\n              + PSPO I (Professional Scrum Product Owner I)\n              + CCBA (Certification of Capability in Business Analysis)\n              + CBAP (Certified Business Analysis Professional)\n              + PMI-PBA (Professional in Business Analysis)\n- Tính cách sôi nổi, hòa đồng, quyết liệt trong công việc\n---\nLiên hệ em để trao đổi chi tiết hơn nha:\n💌Email: [linh.tran@dikshatek.vn](mailto:linh.tran@dikshatek.vn)\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
-      "excerpt": "- Địa điểm: Quận 3 hoặc Tân Bình, TP.HCM - Range lương: up to 30M --- **MÔ TẢ CÔNG VIỆC** - Chịu trách nhiệm phân tích yêu cầu nghiệp vụ, phối hợp với đội kĩ thuật để thống nhất phạm vi, luồng xử lý, quy tắc nghiệp vụ...",
-      "issueState": "open",
-      "contentHash": "dbe70847c4d49673b0c55c2dec48bec98936a4a28e3ce8b45a43e6157646d0d4",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "design"
-      ],
-      "author": {
-        "id": "Linh-IT-Recruiter",
-        "name": "Linh-IT-Recruiter",
-        "handle": "Linh-IT-Recruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-16T04:45:46Z",
-      "updatedAt": "2026-07-16T04:45:46Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4969",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fab93254cce0bcb42444c62f",
-      "sourceId": "awesome-jobs/vietnam#4968",
-      "title": "🔥 [HÀ NỘI / CONTRACTOR] DATA ENGINEER | UP TO 25M",
-      "description": "- 1-3 năm, ưu tiên ứng viên có kinh nghiệm làm trong lĩnh vực Ngân hàng/Tài chính (Banking/Finance)\n- Có kinh nghiệm với dự án Salesforce\n- Thành thạo SQL\n- Thành thạo Python\n- Có kinh nghiệm với Spark SQL\n- Có kinh nghiệm sử dụng Airflow\n- Nắm vững kiến thức cơ bản về Database\n- Không yêu cầu tiếng Anh\n---\nLiên hệ mình để trao đổi chi tiết hơn nha:\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
-      "excerpt": "- 1-3 năm, ưu tiên ứng viên có kinh nghiệm làm trong lĩnh vực Ngân hàng/Tài chính (Banking/Finance) - Có kinh nghiệm với dự án Salesforce - Thành thạo SQL - Thành thạo Python - Có kinh nghiệm với Spark SQL - Có kinh n...",
-      "issueState": "open",
-      "contentHash": "1b8feaca4490f7f1ef03caf6da2157e8e11ba1d4f0d907002ee63df525f57a32",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "Linh-IT-Recruiter",
-        "name": "Linh-IT-Recruiter",
-        "handle": "Linh-IT-Recruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-16T04:35:42Z",
-      "updatedAt": "2026-07-16T04:35:42Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4968",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6696fde1819557e47e58a36a",
-      "sourceId": "backend-pt/vagas#138",
-      "title": "[Remoto] Java/Kafka Backend Developer Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java/Kafka Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "948665be32c99717999935e9f4ab8f703d34855e8628ef066583a620f8712f23",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-15T20:28:01Z",
-      "updatedAt": "2026-07-15T20:28:21Z",
-      "url": "https://github.com/backend-pt/vagas/issues/138",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ac9d2a190dca87b415fa96f3",
-      "sourceId": "dotnetdevbr/vagas#1062",
-      "title": "[Remoto] Fullstack .NET + Angular Pleno @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack .NET + Angular Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Fullstack .NET + Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-net-angular-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "1d977a7513627aa7b74cd6c7f58d530d206a2d25d1a6cd894b58b6f7452432d9",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "pleno"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-15T20:27:00Z",
-      "updatedAt": "2026-07-15T20:27:16Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1062",
       "sourceType": "github-issue"
     }
   ]
