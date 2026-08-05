@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-05T08:23:20.658Z",
+  "generatedAt": "2026-08-05T11:13:35.801Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_df12f54a598056622d50c755",
+    "gh_6d98037090e2b732742d2b11",
     "gh_27c2250541f3aca4b4982d3d",
     "gh_71e10b291f6b95046c3c84fa",
     "gh_60b297ea76f69119ead4a4d5",
     "gh_345438a912c4cb4b37d9e419",
     "gh_020d6f6dec261878af8d76eb",
-    "gh_392870a4b63440945e50ff90",
     "gh_004b49621bd20b2dde844a3d",
     "gh_80e983f9f8c906cbe424c23d",
     "gh_a03d32efd2752d6d4c66083e",
-    "gh_ca0239ac42a490e561211a86",
     "gh_799b61edb0c98791af431e2e",
     "gh_a78e67dcd4ad5ddc1fffbb10",
     "gh_64faa26d0aeb1dfcd73da5e9",
@@ -26,6 +26,82 @@
     "gh_a971b0331e754ca00213a4e6"
   ],
   "items": [
+    {
+      "id": "gh_df12f54a598056622d50c755",
+      "sourceId": "dotnetdevbr/vagas#1061",
+      "title": "[Híbrido] Back-End Developer .NET Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "e9522429d2fafdf2f89caf97a242f79ad966d3c18fed714fa1bd2d26cc3de727",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior",
+        "híbrido"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-15T20:25:56Z",
+      "updatedAt": "2026-07-15T20:26:21Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1061",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_6d98037090e2b732742d2b11",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2940",
+      "title": "Create a Separate List for 2027 New Grad Roles",
+      "description": "### Improvement\n\n2027 new graduate roles have started opening, but they are currently mixed with roles intended for earlier graduating classes.\n\nIt would be helpful to create a separate section, page, or table specifically for **2027 New Grad positions**.\n\n### Suggested changes\n\n- Add a dedicated list for roles targeting students graduating in 2027.\n- Clearly display the eligible graduation year or graduation window for each position.\n- Keep 2026 and 2027 roles separated so applicants can quickly find relevant opportunities.\n- Optionally add a graduation-year filter if maintaining separate lists becomes difficult.\n\nThis would make the repository easier to navigate and prevent students from applying to roles for which they are not eligible.",
+      "excerpt": "### Improvement 2027 new graduate roles have started opening, but they are currently mixed with roles intended for earlier graduating classes. It would be helpful to create a separate section, page, or table specifica...",
+      "issueState": "open",
+      "contentHash": "1cc801524089525f82fcaea1890cd29622cab3985eca8eafdd8422cba6f69fc6",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "jatinS-dev",
+        "name": "jatinS-dev",
+        "handle": "jatinS-dev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66058203?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-07-15T15:28:36Z",
+      "updatedAt": "2026-07-15T15:28:36Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2940",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_27c2250541f3aca4b4982d3d",
       "sourceId": "nerdzao/vagas#195",
@@ -195,37 +271,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_392870a4b63440945e50ff90",
-      "sourceId": "awesome-jobs/vietnam#4967",
-      "title": "🔥 [HCM / CONTRACTOR] MIDDLE BUSINESS ANALYST (ERP) | UP TO 25M NET | ENGLISH",
-      "description": "**Yêu cầu**\n- 2–4 năm kinh nghiệm Business Analyst (ưu tiên khoảng 3 năm).\n- Thành thạo BRD, SRS, User Stories, Use Cases.\n- Có kinh nghiệm trong lĩnh vực Fintech, E-commerce hoặc SaaS.\n- Có kinh nghiệm làm việc theo Agile/Scrum.\n- Tiếng Anh giao tiếp tốt.\n--\n**Contact Phone/Zalo:** 0582839437",
-      "excerpt": "**Yêu cầu** - 2–4 năm kinh nghiệm Business Analyst (ưu tiên khoảng 3 năm). - Thành thạo BRD, SRS, User Stories, Use Cases. - Có kinh nghiệm trong lĩnh vực Fintech, E-commerce hoặc SaaS. - Có kinh nghiệm làm việc theo ...",
-      "issueState": "open",
-      "contentHash": "aa113c9378a2b305847671f5d3aa029adb5bafb52e71af4bfaa3e46b3bab892d",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [],
-      "author": {
-        "id": "PhuongVu-HR",
-        "name": "PhuongVu-HR",
-        "handle": "PhuongVu-HR",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-15T04:42:12Z",
-      "updatedAt": "2026-07-15T04:42:12Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4967",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_004b49621bd20b2dde844a3d",
       "sourceId": "backend-br/vagas#12337",
       "title": "[REMOTO] Analista Desenvolvedor Back-end Pleno - Norus",
@@ -343,40 +388,6 @@
       "createdAt": "2026-07-14T12:53:20Z",
       "updatedAt": "2026-07-14T12:56:35Z",
       "url": "https://github.com/datascience-br/vagas/issues/166",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ca0239ac42a490e561211a86",
-      "sourceId": "awesome-jobs/vietnam#4966",
-      "title": "[HÀ NỘI / CONTRACTOR] DATA ENGINEER | UP TO 25M | BANKING PROJECT | ASAP",
-      "description": "**Requirements**\n- 1–3 năm kinh nghiệm ở vị trí Data Engineer hoặc ETL Developer.\n- Có kinh nghiệm làm việc với Salesforce Data hoặc các dự án tích hợp dữ liệu từ Salesforce.\n- Thành thạo SQL (JOIN, Window Functions, CTE, Query Optimization).\n- Thành thạo Python để xây dựng ETL và xử lý dữ liệu.\n- Có kinh nghiệm với Spark SQL hoặc PySpark.\n- Có kinh nghiệm sử dụng Apache Airflow để xây dựng và vận hành Data Pipeline.\n- Nắm vững kiến thức về Database và Data Modeling.\n- Ưu tiên ứng viên đã tham gia các dự án Banking.\n\n--\nContact Zalo/Phone: 0582839437",
-      "excerpt": "**Requirements** - 1–3 năm kinh nghiệm ở vị trí Data Engineer hoặc ETL Developer. - Có kinh nghiệm làm việc với Salesforce Data hoặc các dự án tích hợp dữ liệu từ Salesforce. - Thành thạo SQL (JOIN, Window Functions, ...",
-      "issueState": "open",
-      "contentHash": "3fac56e8be3db9796f773fe3621fc02d073af99aa80e18ac7e63666d9f038a6a",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "PhuongVu-HR",
-        "name": "PhuongVu-HR",
-        "handle": "PhuongVu-HR",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-14T07:27:22Z",
-      "updatedAt": "2026-07-14T07:27:22Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4966",
       "sourceType": "github-issue"
     },
     {
