@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-05T22:08:19.021Z",
+  "generatedAt": "2026-08-06T01:50:48.034Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_d5ce5a5c2fe2c54164720b3b",
     "gh_c527259356534caa2a8a779c",
     "gh_3d3410272972cbebd0c48794",
     "gh_6f9f41364a2380bc94de8a7a",
@@ -22,10 +23,50 @@
     "gh_e83d5e822f424bbbe4de5761",
     "gh_6c2f20dee6f01cb5c724a974",
     "gh_9e90a2c18e820ac802849230",
-    "gh_8c890980e94de3f7d52998a2",
-    "gh_2c1597c79f517c221f92ad87"
+    "gh_8c890980e94de3f7d52998a2"
   ],
   "items": [
+    {
+      "id": "gh_d5ce5a5c2fe2c54164720b3b",
+      "sourceId": "frontend-pt/vagas#109",
+      "title": "[Remoto] Next.js Frontend Developer Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Next.js Frontend Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Frontend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações com renderização no servidor\n- Otimizar Core Web Vitals e SEO técnico\n- Integrar APIs e rotas do App Router\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Next.js (de 2 a 5 anos)\n- Next.js (App Router) e React\n- TypeScript\n- SSR, SSG e ISR\n- CSS moderno\n\n**Diferenciais:**\n- Vercel\n- Testes automatizados\n- GraphQL\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-next-js-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "fcbd300247832e05fdbbfc0cb1df311ec1e4d245aee20485c0d45b6ddd7b16f7",
+      "repository": "frontend-pt/vagas",
+      "repositoryUrl": "https://github.com/frontend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "pleno",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontend-pt",
+        "name": "frontend-pt",
+        "avatarUrl": "https://github.com/frontend-pt.png?size=80",
+        "repository": "frontend-pt/vagas",
+        "url": "https://github.com/frontend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-06T00:16:53Z",
+      "updatedAt": "2026-08-06T00:20:11Z",
+      "url": "https://github.com/frontend-pt/vagas/issues/109",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c527259356534caa2a8a779c",
       "sourceId": "backend-pt/vagas#153",
@@ -714,42 +755,6 @@
       "createdAt": "2026-08-05T04:52:08Z",
       "updatedAt": "2026-08-05T04:54:24Z",
       "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2950",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2c1597c79f517c221f92ad87",
-      "sourceId": "awesome-jobs/vietnam#4992",
-      "title": "🗽[ $ 3,040 ] AI Developer [4+ yoe] - HN - Domain Edtech",
-      "description": "2+ yoe LLM | Đã trực tiếp vận hành ít nhất 1 hệ thống AI chạy production có người dùng thật | Domain Edtech | TA lưu loát | Upto 80tr/tháng.\n\n**MÔ TẢ CÔNG VIỆC**\n\n1. Sở hữu mảng AI của sản phẩm\nChịu trách nhiệm chính về kiến trúc, chất lượng và hiệu quả của toàn bộ các tính năng AI trên nền tảng.\nCùng Founder xác định roadmap AI: làm bài toán nào trước, làm đến đâu, đo bằng chỉ số gì.\nTrực tiếp code những phần khó nhất, không chỉ thiết kế trên giấy.\n\n2. Agentic AI & hệ thống multi-agent (trọng tâm của vị trí)\nThiết kế và phát triển hệ thống multi-agent: nhiều agent chuyên biệt phối hợp để thực thi trọn vẹn một nghiệp vụ — không dừng ở việc trả lời câu hỏi.\nTriển khai function calling / tool use và tích hợp MCP (Model Context Protocol) để agent thao tác trực tiếp trên hệ thống, dữ liệu và công cụ bên ngoài.\nXây dựng agent memory (short-term / long-term), state management, orchestration và cơ chế human-in-the-loop ở những điểm cần người duyệt.\nPhát triển agent có khả năng reasoning, planning, self-correction (ReAct, Chain-of-Thought, Reflection) và tự phục hồi khi gặp lỗi.\nXây dựng và tối ưu pipeline RAG cùng cơ chế xử lý học liệu phục vụ kiến trúc agentic.\n\n3. Vận hành ở quy mô production\nLựa chọn mô hình AI phù hợp cho từng tác vụ, cân đối giữa chất lượng đầu ra và chi phí vận hành.\nThiết lập cách đo lường và kiểm soát chất lượng đầu ra của AI.\nĐảm bảo hệ thống chạy ổn định, nhanh và không gián đoạn khi lượng người dùng tăng.\nĐảm bảo an toàn dữ liệu người học và tuân thủ quy định bảo vệ dữ liệu cá nhân tại các thị trường triển khai.\n\n4. Dẫn dắt đội ngũ\nĐịnh hướng chuyên môn, review code và đặt chuẩn kỹ thuật cho các thành viên trong mảng AI.\nMentor và onboard Junior/Middle AI Engineer khi team mở rộng.\nCùng Founder đánh giá chuyên môn ứng viên trong quá trình tuyển dụng.\nPhối hợp với team Product, Frontend, DevOps và đội ngũ chuyên gia giáo dục.\n\nUV qtam liên hệ mình zl 0332.022.055 hoặc techdy.vn@gmail.com nhé.",
-      "excerpt": "2+ yoe LLM | Đã trực tiếp vận hành ít nhất 1 hệ thống AI chạy production có người dùng thật | Domain Edtech | TA lưu loát | Upto 80tr/tháng. **MÔ TẢ CÔNG VIỆC** 1. Sở hữu mảng AI của sản phẩm Chịu trách nhiệm chính về...",
-      "issueState": "open",
-      "contentHash": "29151e1add9022ced02c0d0311c6fa57c15a07a232ab02eef1a947c15c6ad4bb",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "frontend",
-        "react",
-        "junior",
-        "devops"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-08-05T03:14:35Z",
-      "updatedAt": "2026-08-05T03:14:35Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4992",
       "sourceType": "github-issue"
     }
   ]
