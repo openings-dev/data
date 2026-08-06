@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-08-06T01:50:48.034Z",
+  "generatedAt": "2026-08-06T13:46:11.352Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_8352f51acf4192069856c66f",
+    "gh_bc70de4b4c8452b8bfe6b6c0",
+    "gh_ed00b8f2449863124678856d",
+    "gh_771e69b35a748d39b77d7307",
     "gh_ef165c0b53e4e3bf05710db6",
     "gh_436c39f3e142335204f5ceab",
     "gh_f67d9cb98c7df392629587d1",
     "gh_1a941191e4752836c5c81470",
     "gh_b8d2f0293ae6def50d968181",
     "gh_72478d1135b9afe77507d1f6",
-    "gh_fab93254cce0bcb42444c62f",
     "gh_6696fde1819557e47e58a36a",
     "gh_ac9d2a190dca87b415fa96f3",
     "gh_df12f54a598056622d50c755",
@@ -20,12 +23,171 @@
     "gh_60b297ea76f69119ead4a4d5",
     "gh_345438a912c4cb4b37d9e419",
     "gh_020d6f6dec261878af8d76eb",
-    "gh_004b49621bd20b2dde844a3d",
-    "gh_80e983f9f8c906cbe424c23d",
-    "gh_a03d32efd2752d6d4c66083e",
-    "gh_799b61edb0c98791af431e2e"
+    "gh_004b49621bd20b2dde844a3d"
   ],
   "items": [
+    {
+      "id": "gh_8352f51acf4192069856c66f",
+      "sourceId": "soujava/vagas-java#1915",
+      "title": "[Híbrido] Desenvolvedor(a) Java Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1487e6e1e0fc5c8b04c3c54bf9f040d24264ad32b3339846aaaa94195c8bad58",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-19T15:23:31Z",
+      "updatedAt": "2026-07-19T15:23:45Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1915",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_bc70de4b4c8452b8bfe6b6c0",
+      "sourceId": "datascience-br/vagas#167",
+      "title": "[São Paulo] Analista Data Analitycs Sr na [Assaí Atacadista]",
+      "description": "## Descrição da vaga\n\n- Coletar, organizar e analisar dados transacionais provenientes de adquirência, subadquirência e fluxos financeiros;\n- Monitorar indicadores-chave (ex.: taxa de aprovação, chargebacks, fraude, MDR) e criar relatórios regulares para stakeholders;\n- Identificar padrões e anomalias, propondo soluções para otimizar processos e reduzir custos;\n- Construir dashboards interativos que auxiliem equipes de produto e operações na tomada de decisões;\n- Colaborar com times de produto para analisar o impacto de mudanças nos fluxos de pagamento ou em parcerias estratégicas;\n- Acompanhar e desenvolver modelos estatisticos que tragam valor e provocações para o negócio através de análises e insights estratégicos;\n- Conduzir iniciativas de Machine Learning no Databricks com PySpark, focadas em modelos simples e aplicáveis (ex.: clusterização, segmentações, geração de features e experimentação);\n- Suportar análises financeiras para precificação dinâmica de taxas e promoções nos serviços de pagamento.\n- \n\n## Local\n\nEscritório, São Paulo - Vila Matilde (Zona Leste)\n\n## Benefícios\n\n🩺 Assistência Médica e Odontológica\n\n💳 Cartão Cesta Básica\n\n🍴 Refeição no local de trabalho\n\n👩‍🍼 Extensão da Licença Maternidade\n\n🚌 Vale Transporte\n\n🏋️‍♀️🏋️‍♂️ Parcerias com academias Wellhub e TotalPass\n\n🚗 Estacionamento gratuito nas dependências do Shopping\n\n📈 Participação Resultados\n\n\n## Requisitos\n\n#### Obrigatórios:\n\n- Proficiência em Databricks, com foco em modelagem e manipulação de dados;\n- Conhecimento nas linguagens SQL, Python e Spark;\n- Experiência com tratamento de grandes volumes de dados transacionais e financeiros;\n- Proficiência em SQL e Excel; conhecimento em ferramentas de visualização como Power BI ou Looker;\n- Conhecimento de ferramentas de IA tradicional e generativa.\n\n## Nossa empresa\n\nSomos uma empresa que cuida da Nossa Gente, zela pela simplicidade, valoriza o Ser Humano e acredita no poder da diversidade e inclusão. Estamos com uma posição de Analista Data Analytics Sr., também aberta para inscrição de Pessoa com Deficiência.\n\nJá pensou em trabalhar na empresa de atacado de autosserviço que mais cresce no Brasil, uma das maiores empregadoras do país, que também carrega uma das Marcas Mais Valiosas? E com o nosso processo de expansão acelerado estamos crescendo e trazendo cada vez mais pessoas para fazerem parte do nosso time.\n\nAfinal, o crescimento do nosso negócio significa o crescimento da Nossa Gente.\n\n#vemSerAssaí\n\n\n\n## Como se candidatar\n\nPor favor acesse nossa vaga em: https://assai.gupy.io/jobs/11405739\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\nE-mail para contato em caso de não haver resposta: michele.costa@assai.com.br\n\n#### Regime\n- CLT\n\n#### Nível\n- Sênior",
+      "excerpt": "## Descrição da vaga - Coletar, organizar e analisar dados transacionais provenientes de adquirência, subadquirência e fluxos financeiros; - Monitorar indicadores-chave (ex.: taxa de aprovação, chargebacks, fraude, MD...",
+      "issueState": "open",
+      "contentHash": "7dad96bbca3f8eca358ed9bc55419444f343a480ea58c26806ef8fa677185604",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "data"
+      ],
+      "author": {
+        "id": "MicheleCosta55",
+        "name": "MicheleCosta55",
+        "handle": "MicheleCosta55",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/306319551?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-07-17T21:55:10Z",
+      "updatedAt": "2026-07-17T21:55:10Z",
+      "url": "https://github.com/datascience-br/vagas/issues/167",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ed00b8f2449863124678856d",
+      "sourceId": "backend-pt/vagas#141",
+      "title": "[Remoto] Java + .NET Backend Developer Especialista @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Java + .NET Backend Developer nível Especialista para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 18.000 a 32.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Especialista\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 18.000–32.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/especialista-java-dotnet-13-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "bd2c0f80b71b270d056f93b2d67b0262e4a462ff97e23267bc3db3d3e691db8e",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "especialista",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 18000,
+        "max": 32000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-17T13:10:36Z",
+      "updatedAt": "2026-07-17T14:28:36Z",
+      "url": "https://github.com/backend-pt/vagas/issues/141",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_771e69b35a748d39b77d7307",
+      "sourceId": "dotnetdevbr/vagas#1065",
+      "title": "[Remoto] Back-End Developer .NET Especialista @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Especialista para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 18.000 a 32.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java + .NET compatível com o nível Especialista\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 18.000–32.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/especialista-java-dotnet-13-anos-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "ad6ec086e069c2ebb333f74a4ff37597f7fd1cc9d33d5b663c7006e415e0d150",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "especialista"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 18000,
+        "max": 32000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-17T13:09:34Z",
+      "updatedAt": "2026-07-17T14:28:34Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1065",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ef165c0b53e4e3bf05710db6",
       "sourceId": "awesome-jobs/vietnam#4972",
@@ -241,40 +403,6 @@
       "createdAt": "2026-07-16T04:45:46Z",
       "updatedAt": "2026-07-16T04:45:46Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4969",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fab93254cce0bcb42444c62f",
-      "sourceId": "awesome-jobs/vietnam#4968",
-      "title": "🔥 [HÀ NỘI / CONTRACTOR] DATA ENGINEER | UP TO 25M",
-      "description": "- 1-3 năm, ưu tiên ứng viên có kinh nghiệm làm trong lĩnh vực Ngân hàng/Tài chính (Banking/Finance)\n- Có kinh nghiệm với dự án Salesforce\n- Thành thạo SQL\n- Thành thạo Python\n- Có kinh nghiệm với Spark SQL\n- Có kinh nghiệm sử dụng Airflow\n- Nắm vững kiến thức cơ bản về Database\n- Không yêu cầu tiếng Anh\n---\nLiên hệ mình để trao đổi chi tiết hơn nha:\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
-      "excerpt": "- 1-3 năm, ưu tiên ứng viên có kinh nghiệm làm trong lĩnh vực Ngân hàng/Tài chính (Banking/Finance) - Có kinh nghiệm với dự án Salesforce - Thành thạo SQL - Thành thạo Python - Có kinh nghiệm với Spark SQL - Có kinh n...",
-      "issueState": "open",
-      "contentHash": "1b8feaca4490f7f1ef03caf6da2157e8e11ba1d4f0d907002ee63df525f57a32",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "Linh-IT-Recruiter",
-        "name": "Linh-IT-Recruiter",
-        "handle": "Linh-IT-Recruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-16T04:35:42Z",
-      "updatedAt": "2026-07-16T04:35:42Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4968",
       "sourceType": "github-issue"
     },
     {
@@ -640,127 +768,6 @@
       "createdAt": "2026-07-14T20:20:26Z",
       "updatedAt": "2026-07-27T19:23:03Z",
       "url": "https://github.com/backend-br/vagas/issues/12337",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_80e983f9f8c906cbe424c23d",
-      "sourceId": "DevOps-Brasil/Vagas#469",
-      "title": "Senior DevOps Engineer - DWS Brazil",
-      "description": "### 🎯 Cargo\n\nSenior DevOps Engineer\n\n### 🏢 Empresa\n\ndentsu world services brazil [DWS Brazil]\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nSede em Porto Alegre - RS [vaga remota para residentes no Brasil]\n\n### 📝 Tipo de Contratação\n\nCLT\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\nR$11.000-12.000 - podemos conversar melhor :)\n\n### 📋 Descrição da Vaga\n\n**Você será responsável por:**\n• Projetar e construir pipelines de CI/CD seguros para múltiplos sistemas de destino.\n• Desenvolver e gerenciar pipelines usando principalmente GitHub Actions, além de outras ferramentas como Jenkins, Bamboo e Travis.\n• Automatizar processos manuais e desenvolver ferramentas que aumentem a eficiência operacional.\n• Colaborar com os times de desenvolvimento para apoiar a adoção de ferramentas e práticas DevOps.\n• Garantir o uso de padrões seguros e boas práticas em pipelines e infraestrutura.\n• Escrever e manter infraestrutura como código (IaC), preferencialmente com Terraform (conhecimento em Ansible será considerado um diferencial).\n• Trabalhar em parceria com as equipes de infraestrutura para entregar soluções robustas e confiáveis.\n• Solucionar problemas e otimizar os ambientes de desenvolvimento, homologação e produção.\n• Contribuir para estratégias técnicas e apoiar a evolução da plataforma.\n• Compartilhar conhecimento e atuar como referência técnica para outros membros do time\n\n### ✅ Requisitos Técnicos\n\n```markdown\n• Experiência com GitHub Actions\n• Experiência com Git e fluxos de trabalho colaborativos de desenvolvimento.\n• Proficiência em pelo menos uma linguagem de programação\n• Conhecimento em infraestrutura como código, especialmente com Terraform.\n• Experiência com plataformas de nuvem (experiência com azure, preferencialmente, ou AWS ou GCP)\n• Sólida compreensão dos princípios de CI/CD e automação de testes.\n• Familiaridade com estratégias de deploy sem tempo de inatividade (zero-downtime).\n• Inglês avançado (leitura, escrita e conversação).\n\nSerá legal se você tiver:\n• Experiência com Helm e criação de charts.\n• Familiaridade com Kubernetes (não é obrigatório — oferecemos treinamento).\n• Conhecimentos em segurança de aplicações e infraestrutura, redes (TCP/IP) e PKI.\n• Experiência com ferramentas de qualidade de código, como SonarQube.\n• Experiência com repositórios privados de pacotes (npm, PyPI, NuGet).\n• Habilidade para troubleshooting em ambientes com Node.js e Python.\n• Conhecimento em scripts (bash/sh/ksh).\n```\n\n### 🎁 Benefícios\n\n- Todo o equipamento necessário para seu trabalho (notebook e periféricos);\n- Plano de saúde e odontológico;\n- Seguro de vida;\n- Mental health program;\n- Anywhere office - flexibilidade para trabalhar de onde precisar;\n- VR/VA (cartão de benefícios Flash);\n- Auxílio home office (cartão de benefícios Flash);\n- Auxílio mobilidade (cartão de benefícios Flash);\n- Programa de mentoria para desenvolvimento e acompanhamento de carreira;\n- Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;\n-  Aulas de inglês com professor particular;\n-  Awesomeness - envio de mimos temáticos e exclusivos;\n-  Gympass;\n-  Horário flexível (40h semanais);\n-  Day off de aniversário;\n-  Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;\n-  Atuação 100% remota ou híbrida (a sua escolha).\n\n\n### 🛠️ Stack/Tecnologias\n\n- Azure\n- pipelines de CI/CD\n- GitHub Actions\n- Jenkins\n- Terraform (conhecimento em Ansible será considerado um diferencial).\n\n### 📧 Como se Candidatar\n\nInscreva-se na vaga: https://dwsbrazil.gupy.io/jobs/11584984?jobBoardSource=gupy_public_page\nou envie um email com seu CV atualizado em inglês, pretensão salarial e nível de inglês para: debora.dalbem@dentsu.com\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://dwsbrazil.gupy.io/jobs/11584984?jobBoardSource=gupy_public_page\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
-      "excerpt": "### 🎯 Cargo Senior DevOps Engineer ### 🏢 Empresa dentsu world services brazil [DWS Brazil] ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Sede em Porto Alegre - RS [vaga r...",
-      "issueState": "open",
-      "contentHash": "a0cbec59b33a0127b8018b5aa87963a36f14394bd018d0d841d22a2d0a63db67",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "devops",
-        "sre",
-        "platform",
-        "infra",
-        "security",
-        "aws",
-        "azure"
-      ],
-      "author": {
-        "id": "dwsbrazil",
-        "name": "dwsbrazil",
-        "handle": "dwsbrazil",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/109535139?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 11000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-14T17:25:36Z",
-      "updatedAt": "2026-07-14T17:27:42Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/469",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a03d32efd2752d6d4c66083e",
-      "sourceId": "datascience-br/vagas#166",
-      "title": "[Belo Horizonte/MG - Híbrido] Cientista de Dados na BHS",
-      "description": "## Descrição da vaga\n\nProjeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics.\n\nSuas atividades serão:\n· Interpretar todo universo de dados da empresa;\n· Criar, treinar e validar modelos preditivos e prescritivos utilizando técnicas de IA tradicional (como machine learning) e IA generativa (como deep learning);\n· Interpretar os resultados dos modelos e análises para gerar insights acionáveis que suportem a tomada de decisão estratégica;\n· Desenvolvimento de modelos preditivos utilizando técnicas estatísticas e algoritmos de aprendizado de máquina (ex.: regressão logística, gradient boosting e modelos aplicados a Marketing Mix Modeling – MMM);\n· Realização de análises exploratórias, testes de hipóteses e estudos analíticos para apoiar iniciativas de risco, marketing e tomada de decisão.\n· Participação na descoberta e no desenho de soluções de Marketing Mix Modeling (MMM), incluindo análise de fontes de dados, definição de variáveis de mídia e avaliação de estruturas estatísticas e bayesianas;\n· Automação de pipelines de dados e rotinas diárias de scoring em ambiente de nuvem;\n· Documentação de metodologias, métricas de validação, processos de monitoramento de desempenho e definições analíticas para iniciativas de modelagem;\n· Trabalho em parceria com equipes de negócios, marketing, engenharia e produto.\n\n## Local\n\nHíbrido/BH (2x na semana)\n\n## Benefícios\n\n- Plano de saúde e Assistência Odontológica;\n- Vale Refeição/Alimentação no cartão Flash;\n- Auxílio Híbrido;\n- Gympass / Wellhub;\n- Seguro de vida;\n- Licença Maternidade/Paternidade estendida;\n- Parcerias e convênios diversos em educação, saúde e lazer (Universidades, escolas de Idioma, academias, clínicas de saúde...);\n\n...\n## Requisitos\n\n#### Obrigatórios:\n\n· Graduação em Ciência da Computação ou áreas afins;\n· Google Cloud;\n· Big query;\n· Linguagem de programação Python;\n· MLOPS (de maneira geral);\n· Estatística clássica\n· Data pipelines;\n· Docker (Conteiners).\n\n#### Desejáveis:\n\n· Vertex e cortex;\n· Keras/tensorflow;\n· Pytorch;\n· Scikit;\n· Xgboosd;\n· Kedro;\n· Streamlit.\n\n\n## Contratação\n\n- CLT\n\n## Nossa empresa\n\nNós somos a BHS!\nCom 31 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀\n\nSomos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.\n\n## Como se candidatar\n\n- https://bhs.gupy.io/jobs/11562751?jobBoardSource=gupy_public_page\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 10 dias após cada processo.\n\n## Labels\n<!-- retire os labels que não fazem sentido à vaga -->\n\n#### Alocação\n- Alocado\n- Hibrido\n\n#### Regime\n- CLT\n\n#### Nível\n\n- Sênior",
-      "excerpt": "## Descrição da vaga Projeto em um cliente do segmento de engenharia civil, para atuação no time de Data Analytics. Suas atividades serão: · Interpretar todo universo de dados da empresa; · Criar, treinar e validar mo...",
-      "issueState": "open",
-      "contentHash": "ac00b30acbbb9ae2adaeb701987026be40cab03fa307a97905ed6ccf7b34bd5a",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "data"
-      ],
-      "author": {
-        "id": "thothismybro",
-        "name": "thothismybro",
-        "handle": "thothismybro",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/118479053?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "BHS",
-      "createdAt": "2026-07-14T12:53:20Z",
-      "updatedAt": "2026-07-14T12:56:35Z",
-      "url": "https://github.com/datascience-br/vagas/issues/166",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_799b61edb0c98791af431e2e",
-      "sourceId": "frontend-pt/vagas#102",
-      "title": "[Remoto] Angular Frontend Developer Pleno @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Angular Frontend Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Frontend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "19888d99f96b34d960b888cb77c35c6f6d8fdb6d3a77a473bd200cfa69693d1a",
-      "repository": "frontend-pt/vagas",
-      "repositoryUrl": "https://github.com/frontend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "remoto",
-        "pleno"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "frontend-pt",
-        "name": "frontend-pt",
-        "avatarUrl": "https://github.com/frontend-pt.png?size=80",
-        "repository": "frontend-pt/vagas",
-        "url": "https://github.com/frontend-pt/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-13T18:36:46Z",
-      "updatedAt": "2026-07-17T10:24:39Z",
-      "url": "https://github.com/frontend-pt/vagas/issues/102",
       "sourceType": "github-issue"
     }
   ]
