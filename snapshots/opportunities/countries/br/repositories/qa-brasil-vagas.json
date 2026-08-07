@@ -1,16 +1,58 @@
 {
-  "generatedAt": "2026-08-07T15:47:13.006Z",
+  "generatedAt": "2026-08-07T18:43:13.993Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 15,
-    "closedIssues": 15
+    "openIssues": 16,
+    "closedIssues": 14
   },
-  "dataHash": "1aa24266d6a55778370414e63c9cac220da8b27fc6137b9df10162e12073b7d0",
+  "dataHash": "68d3263ec24cd642689d31080a93dd6c31ac3777d2e0063addda58bb9cfda1d9",
   "items": [
+    {
+      "id": "gh_c565af5bbccc6823a2585551",
+      "sourceId": "qa-brasil/vagas#1274",
+      "title": "[Híbrido] QA Performance Sênior na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA Performance nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local de trabalho\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA Performance (5 anos ou mais)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 12.000 e R$ 22.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-performance-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA Performance nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 12.000 a 22.000/mês, conforme experiência. ## Local de trabalho Híbr...",
+      "issueState": "open",
+      "contentHash": "e3d4000fb7ad2585f41aa18656dfe10a157df81bd4e192b04c61c3efa740ba38",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-07T18:01:20Z",
+      "updatedAt": "2026-08-07T18:01:46Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1274",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d915e03215873a31b26c0aec",
       "sourceId": "qa-brasil/vagas#1273",
@@ -1125,43 +1167,6 @@
       "createdAt": "2025-12-10T17:29:06Z",
       "updatedAt": "2026-04-25T02:51:45Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1238",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_58b369e7e9082449a2d7bba6",
-      "sourceId": "qa-brasil/vagas#1237",
-      "title": "[VAGA FECHADA] [REMOTO] Analista de Testes Sênior na DB1",
-      "description": "<!-- IMPORTANTE:\n\n1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:\n    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.\n    1.2. Fechar qualquer issue.\n\nSe alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.\n\n2. Só poste vaga de QA.\n3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.\n4. Não faça distinção de gênero.\n5. Respeite o código de conduta -->\n\n## Descrição da vaga\n\nAtuar como guardião da qualidade em sistemas de alta complexidade, garantindo robustez, confiabilidade e excelência técnica por meio de estratégias sólidas de testes, automação e melhoria contínua.\n## Local de trabalho\n- 100% Remoto\n\n\n## Requisitos da vaga\n\n**Obrigatórios**\nExperiência em automação de testes frontend (Playwright, Cypress etc.).\nDomínio em automação de testes de API (RestAssured).\nConhecimento prático em testes de carga e performance (K6, JMeter etc.).\nExperiência com testes em sistemas de mensageria (Kafka), tanto manuais quanto automatizados.\nVivência em metodologias ágeis e integração contínua.\nCapacidade de elaborar estratégias de teste e planos de QA.\nExperiência com monitoramento e análise de resultados de testes. \n\n**Desejáveis**\nTestes de segurança e descoberta de vulnerabilidades (OWASP, SAST/DAST).\nFerramentas de observabilidade e monitoring (Grafana, Prometheus, Datadog).\nTestes em aplicações rodando em clusters Kubernetes.\nCultura shift-left e práticas de testes integradas ao pipeline de DevOps.\n\n**Diferenciais**\n Certificações em qualidade de software (ISTQB, CTFL etc.).\nConhecimento em Java ou JavaScript para automações avançadas.\nVivência com ferramentas de gerenciamento de testes (TestRail, Xray, Zephyr, Azure Test Plans).\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\nCartão de benefícios flexíveis (Alimentação, Mobilidade, Qualidade de Vida, entre outras categorias);\nPlano de Saúde Unimed;\nSeguro de Vida;\nPlano odontológico (opcional);\nAplicativo de benefícios e descontos (Mixtra);\nGift Aniversário;\nBem-estar: parceria com plataforma de acesso a academias e outras atividades físicas, parceria para atendimento psicológico;\nEvolução de carreira: Parceria com plataformas e instituições de ensino, tanto para idiomas quanto para graduação, pós-graduação e cursos livres, Plano de Desenvolvimento Individual (PDI), feedbacks constantes, Programa de Mentoria, eventos internos, subsídio para treinamentos, universidade corporativa e muito mais;\nProgramas de recompensa: bônus para indicação de novos colaboradores e bônus anual atrelado a metas;\nEspaço para assumir desafios e se desenvolver.\n\n\n## Sobre a empresa\n\nNa DB1, cada linha de código, teste ou insight é uma chance de criar impacto real. Somos movidos pela curiosidade e pelo desejo de transformar problemas complexos em soluções que simplificam a vida das pessoas. Gostamos de experimentar, aprender e inovar, e por isso esse é o lugar para colocar seu talento à prova.\n\nSe você combina inteligência com uma vontade incansável de aprender e evoluir, e tem uma postura resiliente moldado por superações, já carrega muito da essência DB1. Aqui, cada desafio é oportunidade de crescimento, cada erro é uma lição para voltar mais forte e cada vitória é combustível para seguir adiante com uma missão clara e valores sólidos que dão sentido a cada passo. Na DB1, superação não é exceção e sim parte da jornada.\n## Como se candidatar\n\n- Candidatar através do site (https://db1.inhire.app/vagas/4baa808d-7d76-433f-9ae0-0f58841ff6e2/analista-de-testes-senior?r=43941dbb-f183-4c7c-a931-f64828e11cf7)\n\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- CLT\n- Sênior",
-      "excerpt": "<!-- IMPORTANTE: 1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como: 1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo. 1.2. Fechar qualquer issue. Se alguma issu...",
-      "issueState": "closed",
-      "contentHash": "a7accda2d13c8442f56ff5d35e0cb48dd3f4de50731e6ca5a8d9e196fe1c0ca6",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "sênior",
-        "stale"
-      ],
-      "author": {
-        "id": "hadamaller",
-        "name": "hadamaller",
-        "handle": "hadamaller",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/248000577?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "DB1",
-      "createdAt": "2025-12-05T13:46:40Z",
-      "updatedAt": "2026-04-25T02:51:44Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1237",
       "sourceType": "github-issue"
     }
   ]

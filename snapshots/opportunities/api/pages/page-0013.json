@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-07T15:47:13.006Z",
+  "generatedAt": "2026-08-07T18:43:13.993Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
+    "gh_c16a9b067fa99b03ac968205",
     "gh_1186d3e482f83ac5c65f6cd5",
     "gh_cd09e9e171b8c3faac0a8e63",
     "gh_b58d8e19c5708f146ef494b5",
@@ -22,10 +23,49 @@
     "gh_e2b9353ac1307526e438b23d",
     "gh_adccbfbc72a6a1772058e2da",
     "gh_fbd7897fa7cdf7f1f95d0f6f",
-    "gh_1c0afba85af9b58d3bdb9fae",
-    "gh_aee09e92fadf8366a70512db"
+    "gh_1c0afba85af9b58d3bdb9fae"
   ],
   "items": [
+    {
+      "id": "gh_c16a9b067fa99b03ac968205",
+      "sourceId": "backend-br/vagas#12309",
+      "title": "[Remoto] PHP/Python Software Engineer - F2AI",
+      "description": "<!-- Por favor, poste apenas vagas para backend. -->\n\n## Sobre a F2AI\n\nSomos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permitir que organizações rodem LLMs em seus próprios ambientes, com controle total sobre dados e recursos.\n\nInfos sobre o produto: https://f2ai.com.br/\n\n## Descrição da vaga\n\nDesenvolver e manter aplicações full-stack com Laravel e Python/FastAPI\nIntegrar o control plane da plataforma com clusters Kubernetes via API\nConstruir interfaces para gerenciamento de deployments de modelos de IA\nTrabalhar com containerização, APIs REST e arquiteturas de microsserviços\nColaborar na evolução de features como fine-tuning, RAG e bibliotecas de prompts\n\n## Local\n\nTrabalho remoto, escritório em São Paulo, capital.\n\n## Requisitos\n\nFundamentos sólidos:\n\n    Estruturas de dados e algoritmos\n    Sistemas operacionais e redes\n    Bancos de dados relacionais e modelagem de dados\n\nExperiência prática:\n\n    PHP (Laravel) ou Python (FastAPI/Flask)\n    Desenvolvimento full-stack\n    Docker e containerização\n    APIs REST e integrações entre sistemas\n    Git e práticas de versionamento\n\nPerfil:\n\n    Autonomia e capacidade de resolver problemas com pouca orientação\n    Comunicação clara em português\n\nDiferenciais:\n\n    Kubernetes\n    Projetos envolvendo IA/ML\n    Bancos vetoriais ou arquiteturas RAG\n    Infraestrutura on-premises\n\n## Benefícios\n\n* Trabalho 100% remoto\n* Atuação direta com tecnologias de IA generativa em ambiente enterprise\n* Ambiente de startup com autonomia e impacto\n* Crescimento técnico em um domínio em expansão\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nEnviar currículo para emanuel.huber@f2ai.com.br\n\n## Labels\n\n<!-- Retire os labels que não fazem sentido à vaga. -->\n\n### Nível\n\n- Sênior\n\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
+      "excerpt": "<!-- Por favor, poste apenas vagas para backend. --> ## Sobre a F2AI Somos uma startup que desenvolve uma plataforma enterprise para inferência de modelos de IA generativa em infraestrutura local. Nosso foco é permiti...",
+      "issueState": "open",
+      "contentHash": "596dff5d722d9685cff607dc83ba1b9310dc763c638e52ffdbb0cae9152b4c48",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "php",
+        "python",
+        "flask",
+        "remoto",
+        "git",
+        "docker"
+      ],
+      "author": {
+        "id": "huberemanuel",
+        "name": "huberemanuel",
+        "handle": "huberemanuel",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6238718?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-07-03T19:01:50Z",
+      "updatedAt": "2026-08-04T02:10:14Z",
+      "url": "https://github.com/backend-br/vagas/issues/12309",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1186d3e482f83ac5c65f6cd5",
       "sourceId": "backend-br/vagas#12303",
@@ -750,44 +790,6 @@
       "createdAt": "2026-06-09T14:32:47Z",
       "updatedAt": "2026-06-16T15:43:41Z",
       "url": "https://github.com/pydevbr/vagas/issues/45",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_aee09e92fadf8366a70512db",
-      "sourceId": "frontendbr/vagas#8479",
-      "title": "[Florianópolis] Fullstack Developer na Tributo Devido",
-      "description": "**DESENVOLVEDOR FULL-STACK**\nPresencial | Florianópolis\n\nBuscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. Valorizamos autonomia, curiosidade técnica e capacidade de resolver problemas de ponta a ponta.\n\n**Requisitos obrigatórios**\n\nPython — Experiência sólida no desenvolvimento de aplicações\n\nDjango ou FastAPI — Experiência com pelo menos um dos frameworks para desenvolvimento web\n\nPostgreSQL — Modelagem, queries e otimização em bancos relacionais\n\nJavaScript / HTML / CSS — Desenvolvimento frontend e integração com backend\n\nGit — Controle de versão e boas práticas de versionamento\n\nAPIs REST — Desenvolvimento, consumo e documentação\n\nMensageria — Experiência com filas e processamento assíncrono (RabbitMQ, Celery, Kafka ou similares)\n\n**Requisitos desejáveis**\n\nReact — Desenvolvimento de interfaces com componentes\n\nTailwind / Bootstrap — Frameworks CSS para prototipação e responsividade\n\nAWS — Serviços essenciais (EC2, S3, RDS, Lambda)\n\nMonitoramento — Logs, métricas e observabilidade (Sentry, Grafana, CloudWatch)\n\nBancos NoSQL — Redis, MongoDB ou DynamoDB\n\n**Diferenciais**\n\nFerramentas de IA para desenvolvimento — Utilização avançada de assistentes de código como Claude Code, Cursor, GitHub Copilot ou similares para acelerar o fluxo de trabalho\n\nNoções de Machine Learning — Integração de modelos e uso de APIs de IA\n\nAutomações web / RPAs — Experiência com web scraping, bots e automação de processos (Selenium, Playwright ou similares)\n\nContribuições em projetos open source\n\n## Informações gerais da oportunidade:\n\nPessoa Jurídica (PJ);\nValor contratual: 8k a 10k mensal\nBônus de performance;\nPresencial;\nSegunda a sexta;\nCozinha equipada;\nFrutas e sucos naturais disponíveis todos os dias;\nDay off de aniversário;\nPausa final de ano;\nEstamos localizados no bairro Estreito — Florianópolis.\n\n\n## Como se candidatar\n\nhttps://tributodevido.enlizt.me/vagas/desenvolvedor-a-_full-stack-280426\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno\n- Sênior",
-      "excerpt": "**DESENVOLVEDOR FULL-STACK** Presencial | Florianópolis Buscamos alguém versátil, com capacidade de transitar entre diferentes frentes — backend, frontend, integrações, automações — sem depender de um caminho único. V...",
-      "issueState": "open",
-      "contentHash": "9d077a8a780f3b575bb94709525aa52ca2ba9196c89a5efad708134a7ed6e344",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "sênior",
-        "pj",
-        "alocado",
-        "santa catarina"
-      ],
-      "author": {
-        "id": "mayarahasegawa-td",
-        "name": "mayarahasegawa-td",
-        "handle": "mayarahasegawa-td",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/280393640?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Tributo Devido",
-      "createdAt": "2026-06-09T14:07:02Z",
-      "updatedAt": "2026-07-23T01:25:39Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8479",
       "sourceType": "github-issue"
     }
   ]
