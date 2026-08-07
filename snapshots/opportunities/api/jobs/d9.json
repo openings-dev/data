@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-07-31T19:12:40.314Z",
+  "generatedAt": "2026-08-07T15:47:13.006Z",
   "items": {
+    "gh_d915e03215873a31b26c0aec": {
+      "id": "gh_d915e03215873a31b26c0aec",
+      "sourceId": "qa-brasil/vagas#1273",
+      "title": "Analista de Qualidade de Software (QA)",
+      "description": "# Vaga: Analista de Qualidade de Software (QA)\n\n## O Cenário\n\nAmpla carteira de produtos digitais de missão crítica, com alto grau de exigência de confiabilidade, desempenho e conformidade.\n\n## A Missão\n\nProfissional **hands-on**, responsável pela **implementação** de **rotinas automatizadas de qualidade**. O foco não é inspeção manual: é **construir e operar automações** que garantam a qualidade de forma contínua, em duas frentes:\n\n1. **Quality Gates no CI/CD** — barreiras automatizadas e bloqueantes que impedem código fora do padrão de avançar.\n2. **Análise automatizada de logs** — rotinas que identificam bugs e problemas de performance nos logs do OpenSearch, de forma proativa.\n\n## Responsabilidades\n\n- **Implementar Quality Gates** como etapas bloqueantes no pipeline de CI/CD (GitLab CI): cobertura de testes, análise estática, segurança e conformidade.\n- **Definir os critérios objetivos** de aprovação/reprovação de cada portão (limiares de cobertura, complexidade, duplicação, vulnerabilidades, dívida técnica).\n- **Integrar ferramentas de qualidade** ao pipeline (SonarQube, SAST/DAST, análise de dependências).\n- **Desenvolver suítes de testes automatizados** (unitários, integração, contrato, E2E, regressão e API).\n- **Criar rotinas automatizadas de análise de logs no OpenSearch** para detectar bugs, exceções, erros recorrentes e degradações de performance em produção.\n- **Construir queries, alertas e dashboards no OpenSearch** que evidenciem padrões anômalos (picos de latência, taxas de erro, gargalos, falhas intermitentes).\n- **Padronizar** as automações via templates reutilizáveis entre os produtos da carteira.\n\n## Requisitos Obrigatórios\n\n- Experiência **prática** em automação de testes e integração de testes em pipelines de CI/CD.\n- Configuração de **Quality Gates** com ferramenta de análise estática (SonarQube ou equivalente).\n- Experiência com **GitLab CI** (ou equivalente) e pipeline como código.\n- Uso prático de **OpenSearch/Elasticsearch**: queries, dashboards e alertas.\n- Proficiência em linguagem de automação (Python, JavaScript/TypeScript ou similar).\n- Testes de API (Postman/Newman, Playwright, pytest, etc.).\n- Domínio de **Git** e fluxos de merge request com verificações automatizadas.\n\n## Diferenciais\n\n- SAST/DAST e análise de composição de software (SCA).\n- Testes de performance/carga (k6, JMeter, Locust).\n- Ambientes containerizados (Docker) e Kubernetes.\n- Práticas de DevSecOps.\n- Sistemas críticos ou ambientes regulados.\n\n---\n\n*As condições de vínculo, regime de contratação e benefícios serão detalhados no processo seletivo.*",
+      "excerpt": "# Vaga: Analista de Qualidade de Software (QA) ## O Cenário Ampla carteira de produtos digitais de missão crítica, com alto grau de exigência de confiabilidade, desempenho e conformidade. ## A Missão Profissional **ha...",
+      "issueState": "open",
+      "contentHash": "d3f0b7879ed08a602997fa3e112a011f6dd014142675bb38a8118307bfc83552",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "typescript",
+        "python",
+        "java"
+      ],
+      "author": {
+        "id": "gloriagalembeck",
+        "name": "gloriagalembeck",
+        "handle": "gloriagalembeck",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/256614960?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "createdAt": "2026-08-07T13:33:25Z",
+      "updatedAt": "2026-08-07T13:42:01Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1273",
+      "sourceType": "github-issue"
+    },
     "gh_d9f31b40b046d9fb1c9512c3": {
       "id": "gh_d9f31b40b046d9fb1c9512c3",
       "sourceId": "TechnologyMasters/jobs#721",
