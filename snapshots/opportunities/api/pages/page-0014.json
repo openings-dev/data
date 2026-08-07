@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-07T09:54:14.815Z",
+  "generatedAt": "2026-08-07T12:44:28.966Z",
   "page": 14,
   "pageSize": 20,
   "nextPage": "api/pages/page-0015.json",
   "ids": [
+    "gh_84cd180e02db9815d917bcc4",
+    "gh_eca179323abe1309b96e6c74",
     "gh_66eaeb59684b31b56e56dc58",
     "gh_a2bf5d8b1ac2ec634b465f35",
     "gh_83b66ce2daefa84016b71185",
@@ -21,11 +23,73 @@
     "gh_2d9849eace549284f519bf16",
     "gh_24b11f8f8ff090708a67e44c",
     "gh_3ca6bfcccb91efa2b245a1f6",
-    "gh_73e0c5d98159d349f10f4fa9",
-    "gh_3537ba57897dbc655d648955",
-    "gh_3074e9f6173315eedc1a54e6"
+    "gh_73e0c5d98159d349f10f4fa9"
   ],
   "items": [
+    {
+      "id": "gh_84cd180e02db9815d917bcc4",
+      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
+      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
+      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
+      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
+      "issueState": "open",
+      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
+      },
+      "createdAt": "2026-06-05T14:28:49Z",
+      "updatedAt": "2026-06-05T14:28:49Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_eca179323abe1309b96e6c74",
+      "sourceId": "remote-es/remotes#192",
+      "title": "Consider including a link to the company website in addition to their jobs page",
+      "description": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "excerpt": "Frequently, companies link directly to their HR product (e.g. Greenhouse), but later they switch, the link is broken and... in companies with generic names, it becomes impossible to track them down again.",
+      "issueState": "open",
+      "contentHash": "9f264e57917d81d57c461931d8d62d9b64219de514d1659a74aa586a03257e79",
+      "repository": "remote-es/remotes",
+      "repositoryUrl": "https://github.com/remote-es/remotes",
+      "region": "Europe",
+      "country": "Spain",
+      "tags": [],
+      "author": {
+        "id": "alexpdp7",
+        "name": "alexpdp7",
+        "handle": "alexpdp7",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1150630?v=4"
+      },
+      "community": {
+        "id": "remote-es",
+        "name": "remote-es",
+        "avatarUrl": "https://github.com/remote-es.png?size=80",
+        "repository": "remote-es/remotes",
+        "url": "https://github.com/remote-es/remotes"
+      },
+      "createdAt": "2026-06-04T18:38:01Z",
+      "updatedAt": "2026-06-04T18:38:01Z",
+      "url": "https://github.com/remote-es/remotes/issues/192",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_66eaeb59684b31b56e56dc58",
       "sourceId": "jobright-ai/2026-Engineer-Internship#2",
@@ -670,80 +734,6 @@
       "createdAt": "2026-05-19T17:34:15Z",
       "updatedAt": "2026-05-19T17:34:38Z",
       "url": "https://github.com/programadores-br/geral/issues/3070",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3537ba57897dbc655d648955",
-      "sourceId": "programadores-br/geral#3069",
-      "title": "[Remoto] Software Engineer Sênior na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/software-engineer-senior-165419895?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar como referência técnica na evolução da arquitetura, das práticas de engenharia e da capacidade da Arbitralis de entregar software com velocidade, confiabilidade e qualidade. Esta pessoa deve navegar problemas ambíguos, quebrar complexidade em entregas incrementais e influenciar decisões técnicas com boa comunicação, critério e contexto — conectando decisões técnicas a impacto real de negócio.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Atuar como referência técnica em iniciativas de plataforma, backend e integrações\n    \n*   Trabalhar em parceria com liderança e Produto na definição de roadmap, escopo técnico e priorização trimestral\n    \n*   Transformar problemas ambíguos em soluções técnicas claras, sustentáveis e incrementais\n    \n*   Projetar, desenvolver, testar e evoluir sistemas com foco em confiabilidade, manutenção e impacto para o negócio\n    \n*   Tomar decisões de arquitetura considerando trade-offs entre velocidade de entrega, custo operacional, complexidade e dívida técnica\n    \n*   Elevar a qualidade técnica do time por meio de boas práticas, revisões de código, documentação objetiva e mentoria\n    \n*   Melhorar continuamente processos de engenharia, incluindo CI/CD, testes, observabilidade e padrões de desenvolvimento\n    \n*   Usar ferramentas de AI coding com critério para acelerar o trabalho, mantendo revisão técnica, verificação e responsabilidade sobre o resultado\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - CI/CD \n- Javascript \n- Python \n- SOLID \n- TDD \n- Typescript \n- AI Coding\n## Local: \n Remota\n## Requisitos: \n - Experiência sólida em engenharia de software \n- Profundidade em desenvolvimento backend com JavaScript, TypeScript ou Python \n- Bons conhecimentos de arquitetura de software, design de sistemas, SOLID, Clean Code e Clean Architecture \n- Experiência com testes automatizados, TDD quando fizer sentido, e pipelines de CI/CD \n- Capacidade de diagnosticar problemas, propor caminhos e executar com autonomia \n- Boa comunicação para influenciar decisões técnicas e alinhar trade-offs com Produto, Engenharia e liderança \n- Pragmatismo para equilibrar qualidade, velocidade e contexto de negócio \n- Uso fluente de ferramentas de AI coding no workflow diário, com julgamento crítico sobre quando confiar, revisar e validar outputs\n## Diferenciais: \n - Experiência construindo ou evoluindo plataformas internas, ferramentas para desenvolvedores ou sistemas de alta criticidade \n- Vivência com arquitetura orientada a eventos, filas, mensageria, APIs e sistemas distribuídos \n- Experiência com observabilidade, métricas, tracing, logs estruturados e resposta a incidentes \n- Histórico de mentoria técnica, definição de padrões de engenharia ou liderança técnica informal \n- Capacidade de atuar bem em contextos de alta ambiguidade, com autonomia e foco em resultado\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Software Engineer Sênior na Arbitralis](https://coodesh.com/jobs/software-engineer-senior-165419895?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "3ee524925d6156b2e5fbede932d8974888a992b7138d3368062de6261552b5d3",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto",
-        "pj",
-        "sênior",
-        "backend"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-19T17:33:45Z",
-      "updatedAt": "2026-05-19T17:34:14Z",
-      "url": "https://github.com/programadores-br/geral/issues/3069",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3074e9f6173315eedc1a54e6",
-      "sourceId": "programadores-br/geral#3068",
-      "title": "[Remoto] Software Engineer Pleno na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/software-engineer-pleno-170727036?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nA Arbitralis existe para construir a nova justiça do Brasil. Isso só é possível quando cada pessoa vive a cultura, não só lê sobre ela. Nossa cultura é simples: confiança, clareza, velocidade, responsabilidade e coragem para fazer diferente.\n\nEsperamos que cada pessoa reconheça, celebre e reforce esses princípios em comportamentos concretos, diariamente.\n\nAtuar na construção e evolução de sistemas internos, APIs, integrações e componentes de plataforma com boa base técnica, energia para executar e senso de ownership. Transformar problemas bem definidos em soluções simples, testáveis e sustentáveis, participando ativamente das discussões técnicas do time.\n\n**RESPONSABILIDADES PRINCIPAIS**\n\n*   Desenvolver, testar e manter sistemas backend, APIs, integrações e componentes de plataforma\n    \n*   Participar do refinamento técnico de iniciativas junto com Engenharia, Produto e liderança técnica\n    \n*   Quebrar problemas em entregas incrementais, com clareza sobre escopo, riscos e dependências\n    \n*   Contribuir para a qualidade do código por meio de boas práticas, testes automatizados e revisões de código\n    \n*   Apoiar a evolução de processos de engenharia, incluindo CI/CD, observabilidade, documentação e padrões de desenvolvimento\n    \n*   Diagnosticar problemas em produção ou ambientes internos, propondo correções e melhorias\n    \n*   Colaborar com pessoas mais seniores em decisões de arquitetura, entendendo trade-offs entre velocidade, dívida técnica e manutenção\n    \n*   Usar ferramentas de AI coding com critério para acelerar o trabalho, revisando, testando e validando o que for gerado\n## Arbitralis: \n Na Arbitralis, acreditamos que a justiça pode ser rápida, acessível e eficiente. \n\n<p>&nbsp;</p>\n\nSomos a Câmara de Arbitragem mais tecnológica do Brasil, focada em proporcionar soluções de conflitos contratuais com a mesma validade legal dos processos judiciais — porém, de forma muito mais ágil e econômica.\n\n<p>&nbsp;</p><a href='https://coodesh.com/companies/arbitralis'>Veja mais no site</a>\n\n ## Habilidades: \n - GIT \n- Javascript \n- Python \n- Typescript \n- CI/CD\n## Local: \n Remota\n## Requisitos: \n - Experiência em engenharia de software \n- Boa experiência em desenvolvimento backend com JavaScript, TypeScript ou Python \n- Conhecimento prático de APIs, bancos de dados, testes automatizados e boas práticas de desenvolvimento \n- Familiaridade com Git, pull requests e colaboração em times de engenharia \n- Noções de CI/CD e operação de sistemas em produção \n- Boa comunicação para alinhar escopo e antecipar riscos com Produto e liderança técnica \n- Conforto com ambiguidade e ritmo acelerado — sabe priorizar mesmo quando tudo parece urgente \n- Uso de ferramentas de AI coding no dia a dia, com julgamento crítico sobre quando revisar e validar \n- Velocidade é justiça: Entrega de forma consistente e sem depender de microgestão \n- Linguagem de gente: Comunica decisões técnicas de forma clara para Produto e liderança \n- Decisões guiadas por dados: Usa contexto e evidências para propor soluções, não achismos \n- Confiança é produto final: Entrega o que compromete, com qualidade e sem surpresas \n- Simplicidade como excelência: Evita complexidade desnecessária — o código mais simples que resolve o problema \n- Construir para durar: Escreve código testável, documentado e que o time consegue manter\n## Diferenciais: \n - Experiência com plataformas internas, ferramentas para desenvolvedores ou sistemas usados por outros times técnicos \n- Vivência com filas, mensageria, arquitetura orientada a eventos ou sistemas distribuídos \n- Experiência com Docker, cloud, infraestrutura como código ou ambientes de deploy automatizado \n- Interesse em design de sistemas, arquitetura de software e evolução de bases de código \n- Histórico de contribuição para melhoria de processos, documentação técnica ou padrões do time\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Software Engineer Pleno na Arbitralis](https://coodesh.com/jobs/software-engineer-pleno-170727036?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "2fcb51018aed76fa4a6e98b6d7f83530ef3227e4e1cdcf447bb095bb59034782",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "remoto",
-        "pj",
-        "backend"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-05-19T17:33:19Z",
-      "updatedAt": "2026-05-19T17:33:52Z",
-      "url": "https://github.com/programadores-br/geral/issues/3068",
       "sourceType": "github-issue"
     }
   ]
