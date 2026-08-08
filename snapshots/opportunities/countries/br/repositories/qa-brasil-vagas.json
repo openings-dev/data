@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-07T21:31:36.360Z",
+  "generatedAt": "2026-08-08T04:07:23.979Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 16,
-    "closedIssues": 14
+    "openIssues": 14,
+    "closedIssues": 16
   },
-  "dataHash": "c700e0c1425ab8b63bb9a32066e530ad732d43a06dd8167d78748ba9ac6d1fdf",
+  "dataHash": "1f6372934ce8d4e482d078d21c61341a5390b7447ea74557674dd0bae0ea734c",
   "items": [
     {
       "id": "gh_c565af5bbccc6823a2585551",
@@ -495,7 +495,7 @@
       "title": "[São Paulo] QA na Viaflow",
       "description": "## Descrição da vaga\n\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\" para atuar em um cliente global. Você não irá apenas \"testar\" código; você projetará e manterá frameworks de automação sofisticados para validar microsserviços complexos, orientados a eventos, em uma stack moderna de Java 21 e Google Cloud Platform (GCP).\n\n\nSe você possui experiência sólida em engenharia de qualidade e quer atuar em ambientes de alta escala, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\n## Local de trabalho\n\n- Híbrido. 2 dias remoto e 3 dias presencial no escritório em São Paulo-SP, bairro Jardins (região da Av. Paulista)\n\n## Requisitos da vaga\n\n**Obrigatórios**\nExperiência Sólida: 10+ anos em Engenharia de Qualidade de Software com foco principal em frameworks de automação baseados em Java.\nDomínio de Java: Expertise em Java 21 (Streams, Threads Virtuais) para scripts de alta performance.\nFerramentas de Automação: Proficiência em Selenium e/ou Playwright, JUnit ou TestNG.\nArquitetura Moderna: Conhecimento profundo em microsserviços e sistemas event-driven.\nFrameworks: Experiência com Quarkus ou Spring Boot para aplicações cloud-native.\nInfraestrutura: Conhecimento em CI/CD (Azure DevOps), GCP e gerenciamento de infraestrutura como código.\n\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\n**Diferenciais**\nExperiência com testes de Performance e Carga em microsserviços Java.\nConhecimento em conteinerização (Docker/Kubernetes).\nFamiliaridade com ferramentas nativas de monitoramento e logging do Google Cloud.\n\n**Soft Skill**\nCapacidade de se adaptar a desafios únicos, entregando soluções de nível \"Enterprise\".\nExcelentes habilidades de comunicação e apresentação para conduzir sessões de desenho técnico e arquitetural.\nPerfil mentor com disposição para treinar e guiar membros de times remotos ou offshore.\n\n## Forma de contratação\n\nCooperado\n\n## Benefícios da empresa\n\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e Dasa\n\n## Sobre a empresa\n\nA VIAFLOW é uma consultoria de tecnologia com foco em acelerar a transformação de negócios na América Latina. A empresa utiliza design, produtos digitais e hiperautomação para entregar soluções completas e personalizadas. Seus valores, resumidos no acrônimo MAP (Mindset de Inovação, Atitude Colaborativa e Pensamento de Dono), guiam a sua atuação. O propósito da VIAFLOW é melhorar os resultados das empresas e, ao mesmo tempo, otimizar o tempo das pessoas.\n\nA ViaFlow tem algumas frentes e dentre elas está a frente de Cosourcing onde se encontram os projetos por alocação que é o caso dessa vaga.\n\n## Como se candidatar\n\n- Candidatar através da nossa [Página de Carreiras](https://viaflow.gupy.io/jobs/11390220?jobBoardSource=gupy_public_page)\n\nE-mail para contato em caso de não haver resposta: jessica.pinheiro@viaflow.com.br\n\n## Labels\n\n- Sênior\n- Especialista\n\n- Presencial\n- Remoto\n\n- São Paulo",
       "excerpt": "## Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Automação de Testes Sênior com mindset de \"Engenheiro em Primeiro Lugar\"...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "fb92b12412106c3e64d59b53c12ade216544a3499756cf147878c954f9c01032",
       "repository": "qa-brasil/vagas",
       "repositoryUrl": "https://github.com/qa-brasil/vagas",
@@ -525,7 +525,7 @@
       },
       "companyName": "Viaflow",
       "createdAt": "2026-05-29T18:24:37Z",
-      "updatedAt": "2026-08-01T03:23:06Z",
+      "updatedAt": "2026-08-08T01:54:27Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1256",
       "sourceType": "github-issue"
     },
@@ -811,7 +811,8 @@
       "tags": [
         "pj",
         "remoto",
-        "inglês"
+        "inglês",
+        "stale"
       ],
       "author": {
         "id": "jokapoa",
@@ -828,7 +829,7 @@
       },
       "companyName": "HUNT IT",
       "createdAt": "2026-03-29T20:14:52Z",
-      "updatedAt": "2026-06-06T03:55:12Z",
+      "updatedAt": "2026-08-08T01:54:26Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1248",
       "sourceType": "github-issue"
     },
@@ -838,7 +839,7 @@
       "title": "[VAGA FECHADA] QA na <db>",
       "description": "## Descrição da vaga\n\n**Responsabilities**\n\n- Design and develop robust test automation framework architectures for RFID system validation, with a focus on scalability, maintainability, and performance.\n- Implement Python-based interfaces for controlling and communicating with RFID readers to enable test execution, diagnostics, and data collection.\n- Integrate test hardware (e.g., signal generators, spectrum analyzers, emulated tags) into the automation framework for fully automated test execution and data acquisition.\n- Develop and optimize system performance test scripts based on engineering specifications, enabling data logging, system validation, and post-test analytics.\n- Implement and manage relational database systems (e.g., SQL) for organizing and storing test results; implement automated data pipelines for ingestion, parsing, and aggregation of large-scale datasets.\n- Troubleshoot and debug complex system-level issues involving interactions between RFID hardware, automation software, and test environments, ensuring alignment with product requirements.\n- This position requires onsite presence three times a week.\n\n**Requirements added by the job poster**\n\n• Working in a hybrid setting\n• Authorized to work in the United States\n\n## Local de trabalho\n\n- Hybrid twice or three times in San Diego - CA;\n\n## Requisitos da vaga\n\n**Requirements and qualifications\n\nSoftware Development**\n\n- Strong proficiency in Python, including test framework and automation script development\n- Experience with embedded software stacks and hardware-software integration\n- Familiarity with REST APIs and backend service automation\n- Proficiency with Linux tools, shell scripting, and development best practices\n- Experience with data parsing, processing, and visualization for test analysis\n- Understanding of test-driven development (TDD), continuous integration (CI), and deployment practices\n\n**Automation System Development**\n\n- Deep experience with Linux terminal operations, including BASH scripting, process management, and system diagnostics.\n- Familiarity with virtual environments using Docker and virtual machines.\n- Experience with Linux package management (e.g., apt, yum, dnf for installation, updates, and dependency handling).\n- Familiarity with remote debugging and access tools (SSH, Telnet, Remote Desktop).\n- Strong log analysis and troubleshooting skills in complex automation environments.\n- Software Version Control & Repository Management:\n- Proficiency with Git command-line operations and version control best practices.\n- Understanding of trunk-based development, monorepo structures, and multi-distribution paradigms.\n- Experience with code review workflows, pull requests (PRs), and branching strategies.\n- Familiarity with software packaging tools (e.g., pip, npm, cargo, Linux distro packages).\n\n**RF System Testing:**\n\n- Experience using RF test equipment, including High-speed oscilloscopes, Signal generators, RF power meters, Spectrum analyzers, Vector network analyzers (VNA), etc.\n- Knowledge on RF principles and measurement techniques, including Signal-to-noise ratio (SNR), Sensitivity analysis, RF power and emission analysis, Interference detection and spectrum analysis\n- Experience with WiFi, LTE, RFID or other System Testing is a plus\n\n## Forma de contratação\n\n- PJ\n\n## Benefícios da empresa\n\n- Pension plan, Medical insurance.\n\n## Sobre a empresa\n\n- We are a consulting firm based in Rio Grande do Sul that works on national and international projects, serving clients in the financial and retail sectors.\n- We have an opening for a System Validation Engineer in the United States, working in a hybrid model in San Diego 🇺🇸.\n- We are looking for professionals who want to be part of an environment that values people, encourages continuous development, and prioritizes quality and excellence in code.\n- If you want to take your career global and work on challenging projects, this could be the perfect opportunity 🚀\n\n## Como se candidatar\n\n- Por favor envie um email para pessoas_terra@db.tec.br com seu CV anexado - Enviar no assunto: Vaga do QA-Brasil\n- Candidatar através do site (https://www.linkedin.com/jobs/view/4388111738/?trk=mcm)\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 3 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: luana.leal@db.tec.br\n\n- PJ\n- Pleno\n- Sênior\n- Especialista\n- 3 dias Presencial\n- Remoto\n- Exterior\n\n## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.",
       "excerpt": "## Descrição da vaga **Responsabilities** - Design and develop robust test automation framework architectures for RFID system validation, with a focus on scalability, maintainability, and performance. - Implement Pyth...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "e7be4bb8b5da357d15704cc7a8d831fa4f7179fac76b0d3d992273629f897c4d",
       "repository": "qa-brasil/vagas",
       "repositoryUrl": "https://github.com/qa-brasil/vagas",
@@ -869,7 +870,7 @@
       },
       "companyName": "Pension plan, Medical insurance.",
       "createdAt": "2026-03-20T12:35:51Z",
-      "updatedAt": "2026-08-01T03:23:03Z",
+      "updatedAt": "2026-08-08T01:54:25Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1247",
       "sourceType": "github-issue"
     },
@@ -961,7 +962,8 @@
         "pj",
         "pleno",
         "remoto",
-        "sênior"
+        "sênior",
+        "stale"
       ],
       "author": {
         "id": "marceloblis",
@@ -978,7 +980,7 @@
       },
       "companyName": "30 dias de descanso remunerado",
       "createdAt": "2026-03-02T16:16:49Z",
-      "updatedAt": "2026-06-05T13:16:11Z",
+      "updatedAt": "2026-08-08T01:54:24Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1243",
       "sourceType": "github-issue"
     },
