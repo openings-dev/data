@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-07T21:31:36.360Z",
+  "generatedAt": "2026-08-08T01:01:50.393Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_f7709ca68bc9448bbc13d5d7",
     "gh_27aa26d7bb21a1ebb52dd5c4",
     "gh_8694ae720d764a9800ac4d26",
     "gh_e2dd47836ca98a0506a50467",
@@ -22,10 +23,51 @@
     "gh_667f89c033e17510cbaf953b",
     "gh_31b6361b2797bec54f636c20",
     "gh_8f6acbc7503a309cd947e8b2",
-    "gh_de693fd09040ecc3e1010aff",
-    "gh_8030eb047a9a25e042c38e30"
+    "gh_de693fd09040ecc3e1010aff"
   ],
   "items": [
+    {
+      "id": "gh_f7709ca68bc9448bbc13d5d7",
+      "sourceId": "datascience-br/vagas#172",
+      "title": "[Remoto] Machine Learning Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Machine Learning nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Treinar, avaliar e colocar modelos em produção\n- Monitorar deriva e desempenho dos modelos\n- Automatizar o ciclo de vida do modelo\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Machine Learning (5 anos ou mais)\n- Python (scikit-learn, PyTorch ou TensorFlow)\n- Engenharia de features\n- Métricas de avaliação\n- SQL\n\n**Diferenciais:**\n- MLflow ou Kubeflow\n- Cloud\n- Docker e Kubernetes\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-machine-learning-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "a28e200dd0de6ec719a8b7da1db77860dafffbb04a010f6d0932af57fe0a67f5",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T18:00:03Z",
+      "updatedAt": "2026-08-01T18:00:03Z",
+      "url": "https://github.com/datascience-br/vagas/issues/172",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_27aa26d7bb21a1ebb52dd5c4",
       "sourceId": "datascience-br/vagas#171",
@@ -732,39 +774,6 @@
       "createdAt": "2026-07-31T22:03:31Z",
       "updatedAt": "2026-07-31T22:03:31Z",
       "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9657",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8030eb047a9a25e042c38e30",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9656",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890\n\n### Company Name\n\nD. E. Shaw\n\n### Internship Title\n\nQuantitative Analyst Intern\n\n### Location\n\nNew York, NY\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nQuantitative Finance\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890 ### Company Name D. E. Shaw ### Internship Title Quantitative Analyst Intern ### Location New York, N...",
-      "issueState": "open",
-      "contentHash": "69c069df2ab67879c6949c589318e21dea65a1f9cd6cc1fa84da5727ae3c7b8a",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:03:24Z",
-      "updatedAt": "2026-07-31T22:03:24Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9656",
       "sourceType": "github-issue"
     }
   ]

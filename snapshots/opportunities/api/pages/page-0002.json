@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-07T21:31:36.360Z",
+  "generatedAt": "2026-08-08T01:01:50.393Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_30a12b03e2314bf4a78ac745",
     "gh_5545cf93e65fdd927b49fc2d",
     "gh_d5ce5a5c2fe2c54164720b3b",
     "gh_c527259356534caa2a8a779c",
@@ -22,10 +23,51 @@
     "gh_9e90a2c18e820ac802849230",
     "gh_8c890980e94de3f7d52998a2",
     "gh_2c1597c79f517c221f92ad87",
-    "gh_eedc0ca3c146d2fc634ba74f",
-    "gh_a3b2b40e0bc085ad7bc03c77"
+    "gh_eedc0ca3c146d2fc634ba74f"
   ],
   "items": [
+    {
+      "id": "gh_30a12b03e2314bf4a78ac745",
+      "sourceId": "datascience-br/vagas#182",
+      "title": "[Remoto] Machine Learning Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Machine Learning nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Treinar, avaliar e colocar modelos em produção\n- Monitorar deriva e desempenho dos modelos\n- Automatizar o ciclo de vida do modelo\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Machine Learning (de 2 a 5 anos)\n- Python (scikit-learn, PyTorch ou TensorFlow)\n- Engenharia de features\n- Métricas de avaliação\n- SQL\n\n**Diferenciais:**\n- MLflow ou Kubeflow\n- Cloud\n- Docker e Kubernetes\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-machine-learning-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "7b54f019cb672678d2c09605a0e816f4e3d4fc2000e4f23e955b8d53506c1079",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-06T12:03:46Z",
+      "updatedAt": "2026-08-06T12:03:46Z",
+      "url": "https://github.com/datascience-br/vagas/issues/182",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_5545cf93e65fdd927b49fc2d",
       "sourceId": "datascience-br/vagas#181",
@@ -730,39 +772,6 @@
       "createdAt": "2026-08-04T21:18:29Z",
       "updatedAt": "2026-08-04T21:18:29Z",
       "url": "https://github.com/jobright-ai/2026-Software-Engineer-New-Grad/issues/6",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a3b2b40e0bc085ad7bc03c77",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9670",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://apply.careers.microsoft.com/careers/job/1970393556922929?domain=microsoft.com&hl=en\n\n### Company Name\n\nMicrosoft\n\n### Internship Title\n\nSoftware Engineer: AI/ML & LLM Intern\n\n### Location\n\nRedmond, WA\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nbingznnn@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://apply.careers.microsoft.com/careers/job/1970393556922929?domain=microsoft.com&hl=en ### Company Name Microsoft ### Internship Title Software Engineer: AI/ML & LLM Intern ### Loca...",
-      "issueState": "open",
-      "contentHash": "3525b75d78b0bf2aa01f39c2054e43d3a47f13e1e02bd716f8f118a8927615fe",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "xzhongMM",
-        "name": "xzhongMM",
-        "handle": "xzhongMM",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/129787511?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-08-04T17:07:35Z",
-      "updatedAt": "2026-08-04T17:07:35Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9670",
       "sourceType": "github-issue"
     }
   ]
