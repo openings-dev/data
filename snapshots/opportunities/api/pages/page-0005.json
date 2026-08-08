@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-08T04:07:23.979Z",
+  "generatedAt": "2026-08-08T18:25:50.459Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_ef964aaf7c8c71d4f70be82b",
+    "gh_b9919d6cdd70f93f43792161",
+    "gh_3eb9f611811af5462acbc474",
+    "gh_211190a487c5b05675d86403",
     "gh_5d87367c4f7d456d1f8095fa",
     "gh_f7709ca68bc9448bbc13d5d7",
     "gh_27aa26d7bb21a1ebb52dd5c4",
@@ -19,13 +23,183 @@
     "gh_b7a42250f675b2467047d1dc",
     "gh_93a78bff613662d6912e1a5d",
     "gh_c063c058cafe16d8fef2c6d2",
-    "gh_9a38e616418fe21cd0f01d7e",
-    "gh_7fbe0c0a98337ce9a890ffbb",
-    "gh_667f89c033e17510cbaf953b",
-    "gh_31b6361b2797bec54f636c20",
-    "gh_8f6acbc7503a309cd947e8b2"
+    "gh_9a38e616418fe21cd0f01d7e"
   ],
   "items": [
+    {
+      "id": "gh_ef964aaf7c8c71d4f70be82b",
+      "sourceId": "DevOps-Brasil/Vagas#478",
+      "title": "[DevOps Engineer (Kubernetes) Pleno] Sylision - Remoto",
+      "description": "### 🎯 Cargo\n\nDevOps Engineer (Kubernetes)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (Kubernetes) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com Kubernetes (de 2 a 5 anos)\n- Kubernetes (deployments, services, ingress, RBAC)\n- Helm\n- Docker\n- Linux e redes\n\n**Diferenciais:**\n- GitOps (ArgoCD ou Flux)\n- Service mesh (Istio)\n- Terraform\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- Kubernetes\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-kubernetes-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-kubernetes-pleno-remoto",
+      "excerpt": "### 🎯 Cargo DevOps Engineer (Kubernetes) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portug...",
+      "issueState": "open",
+      "contentHash": "7cfe3b7049cc45cabdde14e98619a06ac9d346b7cf67e0eea989af95d4dc8a9d",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "devops",
+        "platform",
+        "kubernetes",
+        "terraform",
+        "docker",
+        "pa"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-02T12:11:22Z",
+      "updatedAt": "2026-08-02T12:11:46Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/478",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_b9919d6cdd70f93f43792161",
+      "sourceId": "DevOps-Brasil/Vagas#477",
+      "title": "[DevOps Engineer (Azure) Pleno] Sylision - Remoto",
+      "description": "### 🎯 Cargo\n\nDevOps Engineer (Azure)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (Azure) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com DevOps/Azure (de 2 a 5 anos)\n- Azure (App Service, AKS, Storage, Entra ID)\n- Terraform ou Bicep\n- Docker\n- Azure DevOps ou GitHub Actions\n\n**Diferenciais:**\n- Kubernetes (AKS)\n- Observabilidade\n- Governança e políticas\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/Azure\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-azure-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-azure-pleno-remoto",
+      "excerpt": "### 🎯 Cargo DevOps Engineer (Azure) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portugal (r...",
+      "issueState": "open",
+      "contentHash": "7559816e3bbe97901e1ae7cfdcca3ef9cd146998602b3c893bb29074c00a5b57",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "devops",
+        "platform",
+        "azure",
+        "kubernetes",
+        "terraform",
+        "docker"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-02T12:05:43Z",
+      "updatedAt": "2026-08-02T12:05:59Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/477",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3eb9f611811af5462acbc474",
+      "sourceId": "frontend-pt/vagas#104",
+      "title": "[Remoto] Next.js Frontend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Next.js Frontend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Frontend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações com renderização no servidor\n- Otimizar Core Web Vitals e SEO técnico\n- Integrar APIs e rotas do App Router\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Next.js (5 anos ou mais)\n- Next.js (App Router) e React\n- TypeScript\n- SSR, SSG e ISR\n- CSS moderno\n\n**Diferenciais:**\n- Vercel\n- Testes automatizados\n- GraphQL\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-next-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "05d86e4e087f7de2a57376f8f6f35c26471fb90831fe31f0f873c799a1c37fa3",
+      "repository": "frontend-pt/vagas",
+      "repositoryUrl": "https://github.com/frontend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontend-pt",
+        "name": "frontend-pt",
+        "avatarUrl": "https://github.com/frontend-pt.png?size=80",
+        "repository": "frontend-pt/vagas",
+        "url": "https://github.com/frontend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T21:00:04Z",
+      "updatedAt": "2026-08-01T21:02:43Z",
+      "url": "https://github.com/frontend-pt/vagas/issues/104",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_211190a487c5b05675d86403",
+      "sourceId": "backend-pt/vagas#148",
+      "title": "[Remoto] Elixir/Phoenix Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Elixir/Phoenix Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações concorrentes em Elixir\n- Construir APIs e interfaces em tempo real com Phoenix\n- Cuidar de tolerância a falhas com OTP\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Elixir/Phoenix (5 anos ou mais)\n- Elixir e OTP (GenServer, Supervisor)\n- Phoenix e Ecto\n- PostgreSQL\n- Testes com ExUnit\n\n**Diferenciais:**\n- Phoenix LiveView\n- Kubernetes\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-elixir-phoenix-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "3af45a9cefe9d33ec4e23bf0e40decf672d468895a1c096485ad6ec5ee54ec1b",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T18:09:53Z",
+      "updatedAt": "2026-08-01T18:10:14Z",
+      "url": "https://github.com/backend-pt/vagas/issues/148",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_5d87367c4f7d456d1f8095fa",
       "sourceId": "qa-brasil/vagas#1267",
@@ -642,147 +816,6 @@
       "createdAt": "2026-08-01T01:25:19Z",
       "updatedAt": "2026-08-01T01:25:19Z",
       "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9661",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_7fbe0c0a98337ce9a890ffbb",
-      "sourceId": "datascience-br/vagas#170",
-      "title": "[Remoto] Dados/SQL Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (5 anos ou mais)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "78d8c3d1dec862d6a969a69b8a1437a5df89606bbd6e38c5983823f4c27e487e",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-01T00:05:51Z",
-      "updatedAt": "2026-08-01T00:05:51Z",
-      "url": "https://github.com/datascience-br/vagas/issues/170",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_667f89c033e17510cbaf953b",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9660",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007\n\n### Company Name\n\nTransMarket Group\n\n### Internship Title\n\nDevOps/SRE Intern\n\n### Location\n\nChicago, IL\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007 ### Company Name TransMarket Group ### Internship Title DevOps/SRE Intern ### Location Chicago, IL ###...",
-      "issueState": "open",
-      "contentHash": "b699cb7189e369dcb06430a40b82594af2690a282b81a6ca65ea214cfa7099eb",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:06:47Z",
-      "updatedAt": "2026-07-31T22:06:47Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9660",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_31b6361b2797bec54f636c20",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9659",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4226247009\n\n### Company Name\n\nVoloridge Investment Management\n\n### Internship Title\n\nQuantitative Research Intern\n\n### Location\n\nJupiter, FL\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nQuantitative Finance\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4226247009 ### Company Name Voloridge Investment Management ### Internship Title Quantitative Research Intern ### Location Ju...",
-      "issueState": "open",
-      "contentHash": "1e87819300a5024510eb0c952fa824dc8f05c947335c2f852a03feaaf87b6fb1",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:05:43Z",
-      "updatedAt": "2026-07-31T22:05:43Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9659",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8f6acbc7503a309cd947e8b2",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9658",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224862009\n\n### Company Name\n\nVoloridge Investment Management\n\n### Internship Title\n\nQuantitative Developer Intern\n\n### Location\n\nJupiter, FL\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nQuantitative Finance\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224862009 ### Company Name Voloridge Investment Management ### Internship Title Quantitative Developer Intern ### Location J...",
-      "issueState": "open",
-      "contentHash": "8e6ef6e58585f26ae9c5c4004339851a803297dd50c23ee6332d54d6e37a9d88",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:05:19Z",
-      "updatedAt": "2026-07-31T22:05:19Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9658",
       "sourceType": "github-issue"
     }
   ]
