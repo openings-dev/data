@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-08T18:25:50.459Z",
+  "generatedAt": "2026-08-08T21:23:01.260Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_e28ab400211c8c30f90763e6",
     "gh_66567127e38a6d84bdcb2194",
     "gh_d60682e9047937ab3c16440c",
     "gh_f7f5e01513b6b24188a7de73",
@@ -22,10 +23,53 @@
     "gh_d153714a4675d0e9559fe5e0",
     "gh_a0b79bcbb61d3dbab86b9dba",
     "gh_909635552e43694739d981b9",
-    "gh_b45dffa30b18b04bbb4d85ce",
-    "gh_9b597d27be2c20cffa6d2995"
+    "gh_b45dffa30b18b04bbb4d85ce"
   ],
   "items": [
+    {
+      "id": "gh_e28ab400211c8c30f90763e6",
+      "sourceId": "dotnetdevbr/vagas#1072",
+      "title": "[Híbrido] Back-End Developer (ASP.NET Core) Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer (ASP.NET Core) nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com .NET/ASP.NET Core compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-net-asp-net-core-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "c37fc822415ccaf4b4b3bd721a71e4a62a57750f7dd4c40a8c6cb10c643a58bb",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "pleno",
+        "híbrido",
+        "💰 nao informado"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-31T18:03:39Z",
+      "updatedAt": "2026-07-31T18:08:20Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1072",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_66567127e38a6d84bdcb2194",
       "sourceId": "soujava/vagas-java#1932",
@@ -833,44 +877,6 @@
       "createdAt": "2026-07-30T00:42:39Z",
       "updatedAt": "2026-07-30T00:42:53Z",
       "url": "https://github.com/DevOps-Brasil/Vagas/issues/470",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9b597d27be2c20cffa6d2995",
-      "sourceId": "awesome-jobs/vietnam#4986",
-      "title": "[$4,500] Senior Backend Software Engineer (Python & AI)",
-      "description": "Remote | Contractor | SEA Time Zone\n\nI'm recruiting for an Australian company building AI-powered systems that transform long-form interviews into structured, reviewable knowledge.\n\nThis is not another chatbot or prompt engineering role.\n\nYou'll be solving real backend engineering challenges around processing large volumes of unstructured text, preserving data provenance, validating AI outputs, and building reliable production systems.\n\n**Tech Stack**\nPython\nFastAPI / Django / Flask\nPostgreSQL\nREST APIs\nAsync jobs & workers\nJSON Schema & structured validation\nLLM integrations\n\n**Nice to have**\nRAG\nNLP\nEntity Extraction\nTranscript / Document Processing\nKnowledge Graphs\nHuman-in-the-loop AI systems\n\n**We're looking for engineers who have:**\n5+ years of Python backend experience\nBuilt production-grade backend systems\nStrong API and database design skills\nExperience with asynchronous processing and scalable architectures\nEngineering-first mindset (not just AI demos or prompt engineering)\n\nIf this sounds like you, or someone in your network, feel free to reach out or send me your GitHub, LinkedIn, and CV. I'd love to connect.",
-      "excerpt": "Remote | Contractor | SEA Time Zone I'm recruiting for an Australian company building AI-powered systems that transform long-form interviews into structured, reviewable knowledge. This is not another chatbot or prompt...",
-      "issueState": "open",
-      "contentHash": "7f5fb4ce3f9e85ca9edf6f503e6e5859873cdd77d7366d84b5bfa8114e5762bc",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "backend",
-        "python",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "trinh-truong-ll",
-        "name": "trinh-truong-ll",
-        "handle": "trinh-truong-ll",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/310801240?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-30T00:20:36Z",
-      "updatedAt": "2026-07-30T00:20:36Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4986",
       "sourceType": "github-issue"
     }
   ]
