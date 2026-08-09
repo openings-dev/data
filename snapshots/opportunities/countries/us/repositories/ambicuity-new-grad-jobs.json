@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-21T01:55:34.795Z",
+  "generatedAt": "2026-08-09T15:23:39.828Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
   "repository": "ambicuity/New-Grad-Jobs",
   "totals": {
-    "opportunities": 8,
+    "opportunities": 9,
     "openIssues": 0,
-    "closedIssues": 8
+    "closedIssues": 9
   },
-  "dataHash": "eff3a03f37c886abe38191b37400ace56e3505f425c5273e11dc4cc61f540684",
+  "dataHash": "a771af19356c1fc560198d67d62bc540f1d649d209295be2f40a37167e62a407",
   "items": [
     {
       "id": "gh_6a37b33694dc9ddad7478358",
@@ -188,6 +188,40 @@
       "createdAt": "2026-04-03T17:07:25Z",
       "updatedAt": "2026-07-15T20:03:22Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/230",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_fd0c2689702672cf9211c572",
+      "sourceId": "ambicuity/New-Grad-Jobs#51",
+      "title": "[Beginner]: Add an `.editorconfig` file to standardize code formatting",
+      "description": "### Description\nCreate an `.editorconfig` at the root of the repository to enforce 4 spaces for Python, 2 spaces for JSON/YAML, UTF-8 charset, and final newlines.\n\n### Why it matters\nEnsures that all contributors automatically use the correct tab/space settings in their IDEs before they even hit pre-commit hooks.\n\n### Acceptance Criteria\n- [ ] Create `.editorconfig`\n- [ ] Define rules for `*.py`, `*.yml`, `*.md`\n- [ ] Ensure it enforces trim-trailing-whitespace and final newlines\n- [ ] Passes `pre-commit run --all-files`",
+      "excerpt": "### Description Create an `.editorconfig` at the root of the repository to enforce 4 spaces for Python, 2 spaces for JSON/YAML, UTF-8 charset, and final newlines. ### Why it matters Ensures that all contributors autom...",
+      "issueState": "closed",
+      "contentHash": "c9d9b770037216d5e9c2c8aaf30f541607aa2601d567aaba45971f2306866506",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "help wanted",
+        "good first issue"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-03-02T23:39:37Z",
+      "updatedAt": "2026-07-15T20:01:58Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/51",
       "sourceType": "github-issue"
     },
     {
