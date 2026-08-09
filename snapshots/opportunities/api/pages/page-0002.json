@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-09T18:28:54.887Z",
+  "generatedAt": "2026-08-09T21:23:50.901Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_ee99b1b96814aba12ca27a62",
+    "gh_3c0b060a40ac19206619a1ff",
     "gh_afd34bb14b31cc27d6ec7e69",
     "gh_081a3585ffa8cfe4597d9e81",
     "gh_14e0c38cdd9f8ba3af099eac",
@@ -21,11 +23,91 @@
     "gh_e7bde92acf5bddd5ab15d538",
     "gh_aab1efa0506bca04ee83cbc2",
     "gh_1e66778c37afdee63da9a3b6",
-    "gh_02eb9f28c8b61c7cdd76239e",
-    "gh_b07642a67b0fa60676a50f8a",
-    "gh_0165269b67098fd568168ad7"
+    "gh_02eb9f28c8b61c7cdd76239e"
   ],
   "items": [
+    {
+      "id": "gh_ee99b1b96814aba12ca27a62",
+      "sourceId": "backend-pt/vagas#156",
+      "title": "[Remoto] Python/FastAPI Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Python/FastAPI Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Python/FastAPI (5 anos ou mais)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-python-fastapi-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "3471e20b05c200d1f3984c7dcb1c5275ae5b589266c98f3abef7bd61405716c7",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-09T00:08:38Z",
+      "updatedAt": "2026-08-09T19:38:54Z",
+      "url": "https://github.com/backend-pt/vagas/issues/156",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_3c0b060a40ac19206619a1ff",
+      "sourceId": "qa-brasil/vagas#1275",
+      "title": "[Remoto] QA Manual Pleno na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA Manual nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local de trabalho\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA Manual (de 2 a 5 anos)\n- Elaboração de casos e planos de teste\n- Teste exploratório e de regressão\n- Ferramenta de gestão de defeitos (Jira ou similar)\n- Noções de SQL\n\n**Diferenciais:**\n- Início em automação\n- Teste de API\n- Certificação CTFL\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 7.000 e R$ 12.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-manual-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA Manual nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 7.000 a 12.000/mês, conforme experiência. ## Local de trabalho 100% remoto...",
+      "issueState": "open",
+      "contentHash": "f4da71122172511e7b4089e1e9060712cfc96e26216b295e4fc4db93f56490d2",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-08T21:00:12Z",
+      "updatedAt": "2026-08-08T21:00:41Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1275",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_afd34bb14b31cc27d6ec7e69",
       "sourceId": "datascience-br/vagas#186",
@@ -283,8 +365,7 @@
       "country": "Portugal",
       "tags": [
         "remoto",
-        "sênior",
-        "🚦 awaiting triage"
+        "sênior"
       ],
       "author": {
         "id": "GiovaniPole0",
@@ -306,7 +387,7 @@
         "period": "month"
       },
       "createdAt": "2026-08-07T21:16:47Z",
-      "updatedAt": "2026-08-09T16:15:19Z",
+      "updatedAt": "2026-08-09T19:38:44Z",
       "url": "https://github.com/backend-pt/vagas/issues/155",
       "sourceType": "github-issue"
     },
@@ -747,76 +828,6 @@
       "createdAt": "2026-08-07T04:38:30Z",
       "updatedAt": "2026-08-07T04:38:30Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4999",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b07642a67b0fa60676a50f8a",
-      "sourceId": "awesome-jobs/vietnam#4998",
-      "title": "[ $inbox - attractive ] Technical Lead (SaaS core platform ) [5+ yoe] - Da Nang, HN",
-      "description": "5+ years of backend engineering experience, with 2+ years in a Tech Lead or equivalent role | AI-first engineering mindset | Ưu tiên kinh nghiệm từ product-based companies.\n\nWe are looking for a Tech Lead to anchor the technical direction of our Core squad — the most used, most business-critical part of our platform\n\nWhat makes this role unique is breadth. Core's teams span backend, frontend, mobile, and DevOps — and you'll need to provide meaningful technical oversight across all of them. You don't need to be an expert in every discipline, but you should be fluent enough to guide architecture decisions, challenge technical trade-offs, and earn the trust of engineers regardless of their stack. Your primary depth is backend — that's where the hardest system design problems live. But your awareness of how mobile, frontend, and DevOps connect to the backend is what makes you effective as the technical anchor for Core\n\nYou will drive technical excellence, lead the adoption of AI across engineering workflows and products, mentor and grow our developers, and help build a high-performance engineering culture. Working closely with product, design, and leadership teams across Vietnam and the US, you will align technical execution with business goals and ensure the team delivers impactful solutions with speed, quality, and scalability\n\nYour impact\nTechnical Direction & Architecture\n- Own the architectural patterns and technical standards for Core's backend systems — workout programming engines, scheduling logic, nutrition tracking, multi-tenant platform infrastructure, notification pipelines, and third-party integrations\n- Drive solution design for complex features: new product areas, cross-squad integrations, platform-level changes, and performance-critical systems\n- Make architectural decisions that balance delivery velocity with long-term maintainability — Core is a high-frequency product and tech debt accumulates fast\n- Define and uphold engineering standards across all six Core sub-squads: API design, data modeling, testing practices, code review culture, and documentation\n- Proactively identify and lead reduction of technical debt in coordination with Engineering Management and Product\n\nUV qtam liên hệ mình zl 0332.022.055 hoặc techdy.vn@gmail.com với jobID là IT-542 nhé.",
-      "excerpt": "5+ years of backend engineering experience, with 2+ years in a Tech Lead or equivalent role | AI-first engineering mindset | Ưu tiên kinh nghiệm từ product-based companies. We are looking for a Tech Lead to anchor the...",
-      "issueState": "open",
-      "contentHash": "b66be2bc647c48986e2b7cce77824676b58c498c4e2c889994d98ef816d2b570",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "frontend",
-        "backend",
-        "devops",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-08-07T03:12:59Z",
-      "updatedAt": "2026-08-07T03:12:59Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4998",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0165269b67098fd568168ad7",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9674",
-      "title": "Robotics Engineering Intern - Fall 2026",
-      "description": "### Link to Internship Posting\n\nhttps://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307\n\n### Company Name\n\nNiantic Spatial \n\n### Internship Title\n\nRobotics Engineering Intern\n\n### Location\n\nSan Francisco \n\n### What term(s) is this internship offered for?\n\nFall 2026\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\n_No response_\n\n### Extra Notes (Optional)\n\nPokemon go company, spun out of google",
-      "excerpt": "### Link to Internship Posting https://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307 ### Company Name Niantic Spatial ### Internship Title Robotics Engineering Intern ### Location San Francisco...",
-      "issueState": "open",
-      "contentHash": "c935a26daa4b428562e382ee77ee7bf5dabcc4cbd0771e33cf4f8e4a6ad54e4c",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "lianaxsv",
-        "name": "lianaxsv",
-        "handle": "lianaxsv",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/134800532?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-08-06T23:41:12Z",
-      "updatedAt": "2026-08-06T23:41:12Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9674",
       "sourceType": "github-issue"
     }
   ]
