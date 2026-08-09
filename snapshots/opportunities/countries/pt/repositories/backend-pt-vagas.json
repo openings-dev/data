@@ -1,16 +1,56 @@
 {
-  "generatedAt": "2026-08-07T21:31:36.360Z",
+  "generatedAt": "2026-08-09T01:05:43.304Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 26,
-    "openIssues": 18,
-    "closedIssues": 8
+    "openIssues": 19,
+    "closedIssues": 7
   },
-  "dataHash": "9527bc4b63b7c3dd4066fc52dae35bc9db4b01e7c08668adf32547d0b4f0b77a",
+  "dataHash": "2e9ceccaa5b136b697bc437f9bad877d971f5971a76a5afef05f675fa03b8841",
   "items": [
+    {
+      "id": "gh_ee99b1b96814aba12ca27a62",
+      "sourceId": "backend-pt/vagas#156",
+      "title": "[Remoto] Python/FastAPI Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Python/FastAPI Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Python/FastAPI (5 anos ou mais)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-python-fastapi-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "3471e20b05c200d1f3984c7dcb1c5275ae5b589266c98f3abef7bd61405716c7",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-09T00:08:38Z",
+      "updatedAt": "2026-08-09T00:08:52Z",
+      "url": "https://github.com/backend-pt/vagas/issues/156",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_0398b7d06f374399e4d38c1e",
       "sourceId": "backend-pt/vagas#155",
@@ -1004,46 +1044,6 @@
       "createdAt": "2024-05-28T17:35:46Z",
       "updatedAt": "2024-10-06T01:09:05Z",
       "url": "https://github.com/backend-pt/vagas/issues/127",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2e7e92915253fec993040f3b",
-      "sourceId": "backend-pt/vagas#125",
-      "title": "[Lisboa] Rust Developer @YellowIpe",
-      "description": "### Nossa empresa\n\nYellowIpe\n\n### Descrição da vaga\n\nJoin the yellow team as our new Rust Developer!\n\n### Local\n\nLisbon\n\n### Requisitos\n\n**Responsibilities:**\n\n- Develop and maintain back-end applications and APIs using Rust.\n- Collaborate with designers and other developers to translate project requirements into efficient and elegant solutions.\n- Implement agile development practices, including automated testing and continuous integration.\n- Work with multidisciplinary teams to ensure the delivery of high-quality products.\n\n**Requirements:**\n\n- Bachelor's Degree in Computer Science/Engineering or equivalent experience.\n- Proficiency in back-end development using Rust.\n- Ability to write maintainable code using the latest language conventions.\n- Familiarity with SQL/NoSQL databases and CI/CD pipelines.\n- Knowledge and practical experience with a major cloud platform (e.g., Azure, AWS, GCP).\n- Strong English communication skills.\n- Experience with Python development is a plus.\n\n### Benefícios\n\n- Plano de saúde\n- Seguro de vida\n\n\n### Contratação\n\nRV ou CTI\n\n### Como se candidatar\n\nEnvie CV para: recrutamento@yellowipe.io\n\n### Tempo médio de feedbacks\n\n15 dias\n\n### Keywords\n\n_No response_\n\n### Alocação\n\n- [X] Alocado\n- [ ] Remoto\n- [ ] Presencial\n- [X] Híbrido\n\n### Regime\n\n- [X] Contrato\n- [ ] Freela\n- [X] RV\n\n### Nível\n\n- [ ] Júnior\n- [X] Pleno\n- [X] Sênior\n- [ ] Especialista\n\n### Período\n\n- [X] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa YellowIpe ### Descrição da vaga Join the yellow team as our new Rust Developer! ### Local Lisbon ### Requisitos **Responsibilities:** - Develop and maintain back-end applications and APIs using Rust....",
-      "issueState": "closed",
-      "contentHash": "93093bbc8c9e2a2d84493137a7a7a3e08fd97bdf1c26528676a32def58365c55",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "alocado",
-        "especialista",
-        "freela",
-        "presencial",
-        "rv",
-        "híbrido",
-        "remoto"
-      ],
-      "author": {
-        "id": "YellowIpe",
-        "name": "YellowIpe",
-        "handle": "YellowIpe",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/93403121?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2024-04-23T15:11:24Z",
-      "updatedAt": "2024-06-29T00:54:05Z",
-      "url": "https://github.com/backend-pt/vagas/issues/125",
       "sourceType": "github-issue"
     }
   ]
