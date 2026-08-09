@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-09T15:23:39.828Z",
+  "generatedAt": "2026-08-09T18:28:54.887Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_7fbe0c0a98337ce9a890ffbb",
     "gh_667f89c033e17510cbaf953b",
     "gh_31b6361b2797bec54f636c20",
     "gh_8f6acbc7503a309cd947e8b2",
@@ -22,10 +23,51 @@
     "gh_a8459f6c6ff5bec3f1d057e6",
     "gh_804dc2fa064755e7b0affa8e",
     "gh_2e582da148413eccda00e99a",
-    "gh_e28ab400211c8c30f90763e6",
-    "gh_66567127e38a6d84bdcb2194"
+    "gh_e28ab400211c8c30f90763e6"
   ],
   "items": [
+    {
+      "id": "gh_7fbe0c0a98337ce9a890ffbb",
+      "sourceId": "datascience-br/vagas#170",
+      "title": "[Remoto] Dados/SQL Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (5 anos ou mais)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "78d8c3d1dec862d6a969a69b8a1437a5df89606bbd6e38c5983823f4c27e487e",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T00:05:51Z",
+      "updatedAt": "2026-08-01T00:05:51Z",
+      "url": "https://github.com/datascience-br/vagas/issues/170",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_667f89c033e17510cbaf953b",
       "sourceId": "SimplifyJobs/Summer2026-Internships#9660",
@@ -680,53 +722,6 @@
       "createdAt": "2026-07-31T18:03:39Z",
       "updatedAt": "2026-07-31T18:08:20Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1072",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_66567127e38a6d84bdcb2194",
-      "sourceId": "soujava/vagas-java#1932",
-      "title": "[Híbrido] Desenvolvedor(a) Java/Spring Boot Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Spring Boot nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Spring Boot compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-spring-boot-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "c400079d94a227330eef080d390a4b0f95f9406abeabdae1c27b73033f4806a5",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "remoto",
-        "backend",
-        "spring",
-        "java",
-        "portugal"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-31T18:00:18Z",
-      "updatedAt": "2026-07-31T18:00:41Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1932",
       "sourceType": "github-issue"
     }
   ]
