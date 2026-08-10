@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-10T15:53:32.563Z",
+  "generatedAt": "2026-08-10T18:45:23.235Z",
   "page": 18,
   "pageSize": 20,
   "nextPage": "api/pages/page-0019.json",
   "ids": [
+    "gh_8ca6cfcc5f869a8b9471b21b",
+    "gh_cbbd9c70b7250bcddbcaf3be",
     "gh_9c27ccbbb027a757720e4a38",
     "gh_337dcc0369d8226aab4c836f",
     "gh_549fb47e62e78432e6e7af86",
@@ -21,11 +23,82 @@
     "gh_03fa03119cda6972a7f24c60",
     "gh_018090ae0b51c7fe869fe122",
     "gh_f1495b68fe7d4f8349ceb1b6",
-    "gh_bf09c7d748b34bd02d2443a5",
-    "gh_90da04043225a0b75c5b63f5",
-    "gh_d9f31b40b046d9fb1c9512c3"
+    "gh_bf09c7d748b34bd02d2443a5"
   ],
   "items": [
+    {
+      "id": "gh_8ca6cfcc5f869a8b9471b21b",
+      "sourceId": "remoteintech/remote-jobs#2113",
+      "title": "Generate dynamic OG images for company profiles",
+      "description": "## Summary\n\nCompany profile pages currently use the generic site-wide OG image for social sharing. Blog posts already have dynamic per-post OG images generated via an SVG → JPEG pipeline. We should extend this to company profiles.\n\n## Current System (Blog Posts)\n\n1. `src/common/og-images.njk` generates an SVG per blog post using Eleventy pagination\n2. `src/_config/events/svg-to-jpeg.js` converts SVGs to JPEGs using Sharp (via `@11ty/eleventy-img`)\n3. JPEGs are committed to `src/assets/og-images/` — the converter skips files that already exist\n4. Only runs in serve mode, not production builds\n\n## Considerations\n\n- **850+ company profiles** — this is a much larger scale than ~10 blog posts\n- **~30MB of images in git** if we commit them all (~35KB each) — not ideal\n- **Build time** — 850 extra SVG files generated per build adds overhead\n- **Font dependency** — the SVG-to-JPEG conversion requires fonts to be installed locally (Red Hat Display, Atkinson Hyperlegible)\n\n## Suggested Approach\n\nRather than committing images to the repo like blog posts do:\n\n1. **Generate at deploy time** — run the SVG-to-JPEG conversion in the `eleventy.after` event for production builds (not just serve mode), outputting directly to `dist/`\n2. **Keep it simple** — company name + remote policy/region on the branded background\n3. **Cache on Netlify** — use `netlify-plugin-cache` (already a dependency) to cache generated images between deploys so only new/changed companies trigger regeneration\n4. **Incremental** — skip conversion if the output file already exists (the current blog pipeline already does this)\n\nThis avoids bloating the git repo while still giving each company a unique social card.\n\n## Alternative\n\nIf deploy-time generation proves too slow or complex, an external OG image service (e.g. Vercel OG, Cloudinary) could generate images on-demand via URL parameters. This would add an external dependency but remove all build-time overhead.",
+      "excerpt": "## Summary Company profile pages currently use the generic site-wide OG image for social sharing. Blog posts already have dynamic per-post OG images generated via an SVG → JPEG pipeline. We should extend this to compa...",
+      "issueState": "open",
+      "contentHash": "5e0731ea53399dd19b387b172c31f98c47d2a79b26c5255a44ce17acabd132f1",
+      "repository": "remoteintech/remote-jobs",
+      "repositoryUrl": "https://github.com/remoteintech/remote-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "dougaitken",
+        "name": "dougaitken",
+        "handle": "dougaitken",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52214?v=4"
+      },
+      "community": {
+        "id": "remoteintech",
+        "name": "remoteintech",
+        "avatarUrl": "https://github.com/remoteintech.png?size=80",
+        "repository": "remoteintech/remote-jobs",
+        "url": "https://github.com/remoteintech/remote-jobs"
+      },
+      "createdAt": "2026-02-15T18:03:51Z",
+      "updatedAt": "2026-07-23T14:22:48Z",
+      "url": "https://github.com/remoteintech/remote-jobs/issues/2113",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_cbbd9c70b7250bcddbcaf3be",
+      "sourceId": "awesome-jobs/vietnam#4892",
+      "title": "Hiring Remote - Senior Fullstack AI & QA Engineer | Up to $6000 Gross",
+      "description": "**[HIRING] AI Agent Engineers & QA | $6,000 Gross | Remote (VN)**\n\nJoin a fast-growing startup building with LangGraph and agentic AI. We are looking for senior talent (4+ YOE) ready to ship high-impact features in an AI-first environment.\n\n**The Stack & Roles:**\n- Frontend/Backend: TypeScript, React, Node.js\n- Core Tech: LangGraph / Agentic Frameworks\n- QA: Performance and reliability for AI-driven systems\n\n**What You Need:**\n- Seniority: 4+ years of experience.\n- Language: Professional English fluency.\n- Bonus: Prior experience in AI or B2B SaaS startups.\n- Good communication in English.\n\nPing me for more information: 0834424446 (Zalo - Lâm)",
+      "excerpt": "**[HIRING] AI Agent Engineers & QA | $6,000 Gross | Remote (VN)** Join a fast-growing startup building with LangGraph and agentic AI. We are looking for senior talent (4+ YOE) ready to ship high-impact features in an ...",
+      "issueState": "open",
+      "contentHash": "cd271bd2c5d74f4114049b6c8fdecfcfcce7c527201d682e860c2d29b09f4984",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "frontend",
+        "backend",
+        "fullstack",
+        "react",
+        "typescript",
+        "node",
+        "senior"
+      ],
+      "author": {
+        "id": "thanhlam1405",
+        "name": "thanhlam1405",
+        "handle": "thanhlam1405",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/130440297?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-02-10T10:01:56Z",
+      "updatedAt": "2026-07-27T19:26:48Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4892",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_9c27ccbbb027a757720e4a38",
       "sourceId": "nerdzao/vagas#189",
@@ -669,78 +742,6 @@
       "createdAt": "2025-12-30T13:45:25Z",
       "updatedAt": "2026-06-16T13:16:24Z",
       "url": "https://github.com/react-brasil/vagas/issues/2993",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_90da04043225a0b75c5b63f5",
-      "sourceId": "f2etw/jobs#1163",
-      "title": "[徵才][台北] 期天資訊 React 前端工程師",
-      "description": "**職缺: 前端工程師**\n\n**能力經歷要求:**\n\n* 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js)\n* 基礎 UI / UX 設計規劃能力\n* 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整\n* 獨立自主學習能力，積極主動\n\n**工作內容：**\n\n開發與維護 React TypeScript 相關專案，包含但不限於：\n\n* 金融交易數據可視化界面 UI/UX\n* 程式交易管理系統\n* 上線金流串接與會員管理系統\n* 電子商務前後台管理系統\n\n**適合此職缺的人格特質：**\n\n* 對金融投資有興趣 (台股期權為主)\n* 喜歡理解新事物，能快速動手實做\n* 善於安排任務優先順序，能靈活應變各類狀況\n* 客戶導向思維，釐清並解決實際問題 (非單純以程式面向考量)\n\n**不適合此職缺的人格特質：**\n\n* 只喜歡獨自埋頭寫程式，排斥溝通討論\n* 不喜歡接觸客戶 ( email / 線上會議 / 實體拜訪)\n* 數字敏銳度低或邏輯推理較差\n\n**薪資(月薪):** 50,000 - 80,000\n\n\n**工作環境與該職缺團隊介紹:**\n\n團隊規模約10人，屬於年輕新創小公司風格，組織扁平，每個人都具有影響力。主要產品為證券期貨交易相關資訊系統，提供即時量化數據網站及自動化程式交易相關技術，客戶包含國內多家大型證券期貨商、顧問公司等。\n\n**工作福利:**\n\n* 職務上手熟悉後，可視情況每週1-2天遠端 WFH\n* 每週兩天免費午餐，另有不定時老闆請客聚餐\n* 各式零食咖啡飲料\n* 每週團體運動時間 (目前是2小時羽球)\n* 公司有兩隻貓會不定時跑來蹭你 (?)\n\n**公司分紅與獎金:** 依年度盈餘及個人考績分紅\n\n**聯絡方式:** Cory / service@futures-ai.com",
-      "excerpt": "**職缺: 前端工程師** **能力經歷要求:** * 2-3年以上前端 React / TypeScript 開發經驗 (目前公司主專案框架是用 Next.js) * 基礎 UI / UX 設計規劃能力 * 善於理解業務邏輯，找出合適實做方式，根據客戶反饋進行調整 * 獨立自主學習能力，積極主動 **工作內容：** 開發與維護 React TypeScript 相關專案，包含但不限於： * 金融交易數據可視化界面 UI/UX *...",
-      "issueState": "open",
-      "contentHash": "c6211660e67dd99ff6f3718043a8fb2cf05d0b43e925ff1940932d0338810b0f",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "缺休假資訊",
-        "求才",
-        "[b] nodejs",
-        "[f] react",
-        "缺特/彈休資訊",
-        "[f] typescript"
-      ],
-      "author": {
-        "id": "cory8249",
-        "name": "cory8249",
-        "handle": "cory8249",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7524724?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "createdAt": "2025-12-20T08:51:33Z",
-      "updatedAt": "2025-12-20T10:19:07Z",
-      "url": "https://github.com/f2etw/jobs/issues/1163",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d9f31b40b046d9fb1c9512c3",
-      "sourceId": "TechnologyMasters/jobs#721",
-      "title": "WebBoxes - Sr. AI Engineer - Remote/LatAm - $50,000 USD/Year",
-      "description": "## What You'll get\n\n### Salary Expectation\n\n- $50.000/year\n- Contract / Full Time\n\n### Benefits\n\n- choose your own custom setup\n- new macbook\n\n### Location\n- Candidate will work from home\n\n## What You'll Do _(Job Description)_\n\nWe need a senior AI engineer that will build our new developer assistant SaaS\n\n## What You Need to Be Successful _(Skills)_\n\n### Must Have\n\n- 3+ years working as an AI engineer\n\n### Nice to Have\n\n- full-stack development\n\n## About Our company\n\nhttps://web-boxes.com\n\n## How to apply\n\nPlease send an email to [i@web-boxes..com](i@web-boxes..com) with your resume\n\n---\n\n## Meta\n\n<!--\n  These meta tickboxes automatically apply labels to your post\n  Learn more in the README https://github.com/TechnologyMasters/jobs/blob/master/README.md#label-definitions\n\n  Note, you must fill in the checkboxes correctly in order for them to appear as checked in Markdown\n\n  Unfilled examples:\n  - [ ] Full Time\n  - [ x] Full Time\n  - [x ] Full Time\n\n  Filled example:\n  - [x] Full Time\n-->\n\n- [ ] Full Time\n- [ ] Part Time\n- [x] Contract\n- [ ] Internship\n- [x] Remote Worldwide\n- [ ] Remote Regional\n- [x] Remote OK",
-      "excerpt": "## What You'll get ### Salary Expectation - $50.000/year - Contract / Full Time ### Benefits - choose your own custom setup - new macbook ### Location - Candidate will work from home ## What You'll Do _(Job Descriptio...",
-      "issueState": "open",
-      "contentHash": "3ca3a01661be2c7fac30412750a3fcb06c7c1532ef93b9ccd62d6761c957da02",
-      "repository": "TechnologyMasters/jobs",
-      "repositoryUrl": "https://github.com/TechnologyMasters/jobs",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote",
-        "senior"
-      ],
-      "author": {
-        "id": "fu11stackdev",
-        "name": "fu11stackdev",
-        "handle": "fu11stackdev",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/204783689?v=4"
-      },
-      "community": {
-        "id": "TechnologyMasters",
-        "name": "TechnologyMasters",
-        "avatarUrl": "https://github.com/TechnologyMasters.png?size=80",
-        "repository": "TechnologyMasters/jobs",
-        "url": "https://github.com/TechnologyMasters/jobs"
-      },
-      "createdAt": "2025-12-06T16:55:35Z",
-      "updatedAt": "2025-12-07T04:05:58Z",
-      "url": "https://github.com/TechnologyMasters/jobs/issues/721",
       "sourceType": "github-issue"
     }
   ]
