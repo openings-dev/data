@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-10T10:10:40.678Z",
+  "generatedAt": "2026-08-10T12:51:14.950Z",
   "page": 6,
   "pageSize": 20,
   "nextPage": "api/pages/page-0007.json",
   "ids": [
+    "gh_f83ab72e76fc4802a6079563",
+    "gh_fe8d30bfc8c1ac1573e442a9",
     "gh_b26dea1eadba581bed785ece",
     "gh_f2c6ad8ddbb570d902bed361",
     "gh_75e91e41a1fff3f59a91baa2",
@@ -21,11 +23,73 @@
     "gh_27aa26d7bb21a1ebb52dd5c4",
     "gh_8694ae720d764a9800ac4d26",
     "gh_e2dd47836ca98a0506a50467",
-    "gh_5e9ec74d486601b91458f8ed",
-    "gh_322e43c52c4dc474b9de092d",
-    "gh_8037478966ad64b0fcc09260"
+    "gh_5e9ec74d486601b91458f8ed"
   ],
   "items": [
+    {
+      "id": "gh_f83ab72e76fc4802a6079563",
+      "sourceId": "timqian/open-source-jobs#181",
+      "title": "Script/workflow bug",
+      "description": "The workflow can be run multiple times, creating duplicated items in RSS and updates.json\n. Example: https://github.com/timqian/open-source-jobs/pull/180\n\nThis should only appear when repos.csv is updated:\n  1 workflow awaiting approval\n  This workflow requires approval from a maintainer. \n\nthe script should prevent duplicted items in RSS and updates.json",
+      "excerpt": "The workflow can be run multiple times, creating duplicated items in RSS and updates.json . Example: https://github.com/timqian/open-source-jobs/pull/180 This should only appear when repos.csv is updated: 1 workflow a...",
+      "issueState": "open",
+      "contentHash": "9b4614a453c22ea025c7c23462b630b6c954b405a55e2d2573979aedf1ef9c0d",
+      "repository": "timqian/open-source-jobs",
+      "repositoryUrl": "https://github.com/timqian/open-source-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "timqian",
+        "name": "timqian",
+        "handle": "timqian",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5512552?v=4"
+      },
+      "community": {
+        "id": "timqian",
+        "name": "timqian",
+        "avatarUrl": "https://github.com/timqian.png?size=80",
+        "repository": "timqian/open-source-jobs",
+        "url": "https://github.com/timqian/open-source-jobs"
+      },
+      "createdAt": "2026-08-03T03:51:27Z",
+      "updatedAt": "2026-08-03T03:51:27Z",
+      "url": "https://github.com/timqian/open-source-jobs/issues/181",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_fe8d30bfc8c1ac1573e442a9",
+      "sourceId": "awesome-jobs/vietnam#4990",
+      "title": "[ $2.2k ] Data Engineer [3+ yoe] - HN - KHÔNG yc Tiếng Anh",
+      "description": "Làm dự án LLM, dự kiến teamsize DE có 5 mems | 0.5+ yoe Data Platform/Big Data platform quy mô từ mức Terabyte trở lên\n\n**Công việc:**\nTham gia thiết kế, phát triển và vận hành các luồng xử lý dữ liệu (batch & streaming) trên nền tảng Big Data\nPhối hợp xây dựng và tối ưu hệ thống xử lý dữ liệu thời gian thực, đảm bảo độ ổn định và hiệu năng\nXây dựng và quản lý quy trình điều phối dữ liệu (orchestration), đảm bảo dữ liệu được xử lý đúng hạn và có thể theo dõi\nThực hiện các hoạt động đảm bảo chất lượng dữ liệu, giám sát và cảnh báo khi có sự cố\nPhối hợp thiết kế mô hình dữ liệu và truy vấn dữ liệu, phục vụ nhu cầu phân tích, báo cáo và các hệ thống downstream\nTuân thủ và triển khai các yêu cầu về data governance: phân quyền truy cập, quản lý metadata, truy vết dữ liệu\nChuẩn hoá và mô tả dữ liệu để phục vụ các ứng dụng AI/Chatbot, đảm bảo dữ liệu được sử dụng đúng ngữ cảnh và an toàn\nPhối hợp với các team liên quan (Product, AI, BI, Infra) để triển khai các dự án dữ liệu\nTham gia chia sẻ kiến thức và mentor cho các thành viên level thấp hơn.\n\nUV qtam liên hệ mình zl 0332.022.055 hoặc techdy.vn@gmail.com nhé (JobID: DT-367)",
+      "excerpt": "Làm dự án LLM, dự kiến teamsize DE có 5 mems | 0.5+ yoe Data Platform/Big Data platform quy mô từ mức Terabyte trở lên **Công việc:** Tham gia thiết kế, phát triển và vận hành các luồng xử lý dữ liệu (batch & streamin...",
+      "issueState": "open",
+      "contentHash": "550f23806bc9158dc304a2ea3229bf7dc61b79e2273f58edeab0a5b14c484c67",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "techdyvn",
+        "name": "techdyvn",
+        "handle": "techdyvn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-08-03T03:46:45Z",
+      "updatedAt": "2026-08-03T03:47:27Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4990",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_b26dea1eadba581bed785ece",
       "sourceId": "frontend-pt/vagas#105",
@@ -780,98 +844,6 @@
       "createdAt": "2026-08-01T12:18:13Z",
       "updatedAt": "2026-08-01T12:18:13Z",
       "url": "https://github.com/androiddevbr/vagas/issues/2243",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_322e43c52c4dc474b9de092d",
-      "sourceId": "DevOps-Brasil/Vagas#476",
-      "title": "[DevOps Engineer (AWS) Pleno] Sylision - Remoto",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (AWS)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (AWS) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com DevOps/AWS (de 2 a 5 anos)\n- AWS (EC2, S3, RDS, IAM, VPC)\n- Terraform ou CloudFormation\n- Docker\n- CI/CD (GitHub Actions, GitLab CI ou Jenkins)\n\n**Diferenciais:**\n- Kubernetes (EKS)\n- Observabilidade (Prometheus, Grafana)\n- FinOps\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/AWS\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-aws-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-aws-pleno-remoto",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (AWS) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portugal (rem...",
-      "issueState": "open",
-      "contentHash": "c74c7b302b528878bea1d29f8e33c4e1fb9c3deb1ac6b1d705f6f27b814113e1",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "finops",
-        "aws",
-        "kubernetes",
-        "terraform"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-01T12:11:57Z",
-      "updatedAt": "2026-08-01T12:12:11Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/476",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8037478966ad64b0fcc09260",
-      "sourceId": "DevOps-Brasil/Vagas#475",
-      "title": "[Site Reliability Engineer Sênior] Sylision - Híbrido",
-      "description": "### 🎯 Cargo\n\nSite Reliability Engineer\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nA combinar com a empresa contratante\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n12.000 - 22.000\n\n### 📋 Descrição da Vaga\n\nVaga de Site Reliability Engineer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com SRE (5 anos ou mais)\n- Linux e redes\n- Observabilidade (Prometheus, Grafana, tracing)\n- Kubernetes\n- Automação (Python, Go ou Bash)\n\n**Diferenciais:**\n- Terraform\n- Engenharia de caos\n- Gestão de incidentes em escala\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- SRE\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-sre-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-sre-senior",
-      "excerpt": "### 🎯 Cargo Site Reliability Engineer ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização A combinar com a empresa ...",
-      "issueState": "open",
-      "contentHash": "ed68ea454926cc655ff361d5ded85b096f5972a802cd4dde8b3ba341d2036df7",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sre",
-        "platform",
-        "kubernetes",
-        "terraform",
-        "pa",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-01T12:06:36Z",
-      "updatedAt": "2026-08-01T12:06:56Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/475",
       "sourceType": "github-issue"
     }
   ]
