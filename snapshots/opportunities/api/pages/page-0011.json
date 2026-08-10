@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-10T04:24:37.305Z",
+  "generatedAt": "2026-08-10T07:15:38.962Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_4c5d9e743b2d05d639e66dbc",
     "gh_2b7c3203605c1628a3acd5eb",
     "gh_9edee6feb18bfea0630fef79",
     "gh_67e531ccb53702de02d7454c",
@@ -12,7 +13,6 @@
     "gh_f4e54c7e47ab1b1a0b0403cf",
     "gh_53a184cf8e1d638ba46a534f",
     "gh_cd8926a8d89514d26d0d4d59",
-    "gh_f22832913ebf77fa857a252a",
     "gh_954665aad060b2ba2cbc9299",
     "gh_80a8e5e773bc8c7021193f5f",
     "gh_f55b86fbebb7b39bcd8fe63e",
@@ -26,6 +26,46 @@
     "gh_ed00b8f2449863124678856d"
   ],
   "items": [
+    {
+      "id": "gh_4c5d9e743b2d05d639e66dbc",
+      "sourceId": "backend-pt/vagas#146",
+      "title": "[Remoto] PHP/Laravel Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de PHP/Laravel Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com PHP/Laravel compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-php-laravel-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "7f669d3cd1a1ff2dc2d242f67b28fef5e160df53efa1f7c5260b467360f9adde",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-23T17:40:55Z",
+      "updatedAt": "2026-07-24T09:35:58Z",
+      "url": "https://github.com/backend-pt/vagas/issues/146",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_2b7c3203605c1628a3acd5eb",
       "sourceId": "dotnetdevbr/vagas#1070",
@@ -371,39 +411,6 @@
       "createdAt": "2026-07-22T11:31:07Z",
       "updatedAt": "2026-07-22T11:31:24Z",
       "url": "https://github.com/soujava/vagas-java/issues/1923",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f22832913ebf77fa857a252a",
-      "sourceId": "awesome-jobs/vietnam#4977",
-      "title": "[HÀ NỘI] TÌM GẤP BUSINESS ANALYST TỪ 6YOE+ | DỰ ÁN GOV | UPTO 35M",
-      "description": "* RESPONSIBILITIES\n- Khai thác, thu thập và phân tích yêu cầu từ khách hàng/người dùng; chuyển đổi yêu cầu nghiệp vụ thành tài liệu đặc tả chi tiết (SRS, User Story, Use Case) để đội ngũ Dev/Test thực hiện.\n- Thiết kế và mô tả chi tiết giao diện màn hình (UI/UX cơ bản), luồng xử lý, business rules, validate dữ liệu và các trạng thái hồ sơ/giao dịch.\n- Phối hợp chặt chẽ với team Dev/Test để làm rõ nghiệp vụ, xác định tiêu chí nghiệm thu; hỗ trợ PM/BA Lead kiểm soát phạm vi và cập nhật tài liệu khi có thay đổi.\n- Trực tiếp hỗ trợ các quá trình Demo, kiểm thử người dùng (UAT), ghi nhận lỗi nghiệp vụ và xác nhận kết quả fix lỗi\n* REQUIREMENTS\n- Có từ 3 năm kinh nghiệm ở vị trí BA phần mềm, từng trực tiếp làm việc, trao đổi lấy yêu cầu từ khách hàng/người dùng nghiệp vụ.\n- Thành thạo kỹ năng phân tích và viết tài liệu mô tả quy trình, biểu mẫu, trường dữ liệu và phân quyền hệ thống.\n- Nắm vững kiến thức nền tảng về các mô hình phát triển phần mềm (Agile/Waterfall cơ bản); sử dụng tốt các công cụ quản lý dự án/tài liệu (Jira, Azure DevOps, Redmine, Confluence...).\n- Có khả năng đọc hiểu API và truy vấn SQL ở mức độ phục vụ nghiệp vụ là một lợi thế lớn.\n* Nice to have:\n- Kinh nghiệm tích hợp hệ thống, dữ liệu, nền tảng số, chuyển đổi số\n- Kinh nghiệm quản lý chương trình/danh mục dự án\n- Từng làm việc với Bộ/ngành, cơ quan nhà nước hoặc doanh nghiệp lớn\n- Ứng viên đã từng tham gia phát triển các hệ thống web nghiệp vụ phức tạp hoặc các bài toán tích hợp dữ liệu.\nOnboard ASAP, phỏng vấn offline 1 vòng, làm việc trong dự án chuyển đổi số.\n\nApply now: anhhtt@unitrust.com.vn\nPhone/Zalo: 0382 062 630",
-      "excerpt": "* RESPONSIBILITIES - Khai thác, thu thập và phân tích yêu cầu từ khách hàng/người dùng; chuyển đổi yêu cầu nghiệp vụ thành tài liệu đặc tả chi tiết (SRS, User Story, Use Case) để đội ngũ Dev/Test thực hiện. - Thiết kế...",
-      "issueState": "open",
-      "contentHash": "91280e9f1f76e2ad295d0583d288fcc777b40236233677e8a296b404f1507190",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "devops"
-      ],
-      "author": {
-        "id": "TUANH452",
-        "name": "TUANH452",
-        "handle": "TUANH452",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/155928707?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-22T08:41:01Z",
-      "updatedAt": "2026-07-22T08:41:01Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4977",
       "sourceType": "github-issue"
     },
     {
