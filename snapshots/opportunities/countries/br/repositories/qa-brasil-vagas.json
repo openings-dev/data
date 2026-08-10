@@ -1,16 +1,58 @@
 {
-  "generatedAt": "2026-08-09T18:28:54.887Z",
+  "generatedAt": "2026-08-10T15:53:32.563Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 16,
-    "closedIssues": 14
+    "openIssues": 17,
+    "closedIssues": 13
   },
-  "dataHash": "100e781e67bbd6565205f7e47077188f609c585f59517c80ab39f281ad2f9ccd",
+  "dataHash": "5be52c20c89576118877e0927b2cb925690205ff7e06daa9446b7391544f52a2",
   "items": [
+    {
+      "id": "gh_9257ea8e7b2f16d7c06f44c9",
+      "sourceId": "qa-brasil/vagas#1277",
+      "title": "[Híbrido] QA/Automação Pleno na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA/Automação nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local de trabalho\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA/Automação (de 2 a 5 anos)\n- Automação web (Cypress, Playwright ou Selenium)\n- Uma linguagem de programação\n- Teste de API (Postman ou RestAssured)\n- CI/CD\n\n**Diferenciais:**\n- Teste de performance (k6 ou JMeter)\n- Teste mobile\n- Contract testing\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 7.000 e R$ 12.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-automacao-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA/Automação nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 7.000 a 12.000/mês, conforme experiência. ## Local de trabalho Híbrido ...",
+      "issueState": "open",
+      "contentHash": "2b91534f5e5cb7a30ceb5107c377b46f684f986ebe52fda0c0b96382087bdf6a",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-10T13:24:24Z",
+      "updatedAt": "2026-08-10T13:24:50Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1277",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_37c9426f293800588664d8de",
       "sourceId": "qa-brasil/vagas#1276",
@@ -1140,45 +1182,6 @@
       "createdAt": "2026-01-19T15:28:41Z",
       "updatedAt": "2026-06-13T04:13:24Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1241",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f2100cea776c8f26b7ce2d10",
-      "sourceId": "qa-brasil/vagas#1240",
-      "title": "[São Paulo/SP] QA Pleno na Loop",
-      "description": "## Descrição da vaga\n\nBuscamos um Analista de QA Pleno para atuar de forma autônoma no ciclo de vida do desenvolvimento de software. Você será o guardião da qualidade, responsável por planejar e executar testes, com foco na expansão e manutenção da nossa cobertura de automação. Se você tem conhecimento sólido em automação e sabe como mitigar riscos de forma proativa, garantindo a integridade dos nossos sistemas de alto volume transacional, esta vaga é para você.\n\n### Principais Responsabilidades\n\n- Desenhar, implementar e executar estratégias de testes (funcionais, regressão, integração e exploratórios) para garantir a qualidade das entregas.\n- Desenvolver e manter frameworks de automação de testes (Web, Mobile e API).\n- Integrar testes automatizados em pipelines de CI/CD para garantir a entrega contínua.\n- Identificar, analisar e documentar bugs de forma clara, colaborando com o time de desenvolvimento para a rápida correção.\n- Colaborar ativamente com equipes multidisciplinares: Desenvolvedores (Devs), Gerentes de Produto (PMs), Designers de UX/UI e outros QAs.\n- Mapear riscos de qualidade e priorizar testes com base nos objetivos do negócio e no impacto para o usuário.\n\n## Local de trabalho\n- Híbrido. O trabalho na Loop inclui funções remotas e no escritório em São Paulo/SP - Água Funda.\n\n## Requisitos da vaga\n\n**Obrigatórios**\n- Experiência sólida (mínimo de 3 anos) em Quality Assurance e testes de software.\n- Domínio na criação e execução de planos e estratégias de testes.\n- Experiência comprovada em automação de testes (Web, Mobile ou API) utilizando ferramentas/frameworks como Selenium, Cypress, Playwright, Appium, ou similares.\n- Conhecimento em linguagens de programação relevantes para automação (ex: Python, Java, JavaScript, C#).\n- Conhecimento e prática em testes de APIs REST/SOAP (utilizando ferramentas como Postman, SoapUI ou código).\n- Habilidade para identificar, documentar e rastrear bugs de forma clara e concisa (utilizando ferramentas como Jira, Azure DevOps ou similares).\n- Familiaridade com metodologias ágeis (Scrum, Kanban).\n- Comunicação Analítica: Habilidade para apresentar resultados de testes, métricas e riscos de forma clara e embasada para as equipes e stakeholders.\n- Proatividade e autonomia para gerenciar e entregar suas atividades com supervisão ocasional.\n\n**Desejáveis**\n- Conhecimento em testes de performance/carga (ex: k6, JMeter, LoadRunner) e segurança (ex: OWASP Top 10).\n- Familiaridade com conceitos de BDD/TDD (Behavior-Driven Development / Test-Driven Development).\n- Diferencial Inovador: Experiência ou forte interesse em aplicar Inteligência Artificial (IA) para aumentar a eficiência e a qualidade dos processos de QA (ex: geração de dados de teste, análise preditiva de falhas, otimização de suítes de teste).\n- Certificações na área de testes (ex: CTFL, CTAL).\n\n**Diferenciais**\n- Experiência em integração de testes em pipelines de CI/CD (ex: Jenkins, GitLab CI, GitHub Actions).\n\n## Forma de contratação\n\nPJ\n\n## Benefícios da empresa\n\n- 30 dias de descanso remunerado\n\n## Range Salarial\nA vaga paga entre 5.000,00 e 6.500,00 reais.\n\n## Sobre a empresa\n\nPara quem compra ou vende um veículo, existe sempre a busca pelo bom negócio. Somos tecnologia, processos e pessoas dedicados a melhorar nossos serviços para que o seu negócio aconteça. Fazemos tudo: remoção, vistoria, anúncio, negociação, transferência, documentação, financiamento, seguro, logística, recebimento e pagamento.\n\nA Loop é uma empresa do grupo Webmotors e Santander fundada em 2014, já efetuamos a venda de mais de 85 mil veículos e realizamos mais de 2.500 eventos de comercialização com presença em todo o Brasil com mais de 9 unidades. Com esta estrutura podemos atender todos os públicos tanto empresas na composição de estoque e desmobilização de frotas ou pessoas físicas em busca de comprar ou vender veículos.\n\n## Como se candidatar\n\nPor favor envie um email para [t.william.espindola@loopbrasil.com](mailto:t.william.espindola@loopbrasil.com) com seu CV anexado ou Linkedin atualizado: QA Pleno na Loop\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 5 dias após cada processo.\n\nE-mail para contato em caso de não haver resposta: [t.william.espindola@loopbrasil.com](mailto:t.william.espindola@loopbrasil.com)\n\n## Labels\n<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.\nApague os itens abaixo que não corresponderem à vaga. -->\n- PJ\n- Pleno\n- Presencial\n- Remoto\n- São Paulo/SP",
-      "excerpt": "## Descrição da vaga Buscamos um Analista de QA Pleno para atuar de forma autônoma no ciclo de vida do desenvolvimento de software. Você será o guardião da qualidade, responsável por planejar e executar testes, com fo...",
-      "issueState": "closed",
-      "contentHash": "b629fc0077269e826f298fa50e6d6a394ec5c6cd6a5aab18bfb5b93cb5aabdfb",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "remoto",
-        "são paulo",
-        "presencial",
-        "stale"
-      ],
-      "author": {
-        "id": "williamespindola",
-        "name": "williamespindola",
-        "handle": "williamespindola",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/794521?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "30 dias de descanso remunerado",
-      "createdAt": "2026-01-08T03:21:57Z",
-      "updatedAt": "2026-04-25T02:51:47Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1240",
       "sourceType": "github-issue"
     }
   ]

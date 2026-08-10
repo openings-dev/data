@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-10T12:51:14.950Z",
+  "generatedAt": "2026-08-10T15:53:32.563Z",
   "page": 5,
   "pageSize": 20,
   "nextPage": "api/pages/page-0006.json",
   "ids": [
+    "gh_cc91aec0fe01502e65e61530",
+    "gh_ce1cd59127258c1d67f5ef96",
+    "gh_506bda03fefcc4bda64c5a95",
     "gh_0190ae3f50b9d7353b5dee68",
     "gh_4b477283ff274db145cfb7e6",
     "gh_51e483ebb34d54e2febabf8f",
@@ -20,12 +23,120 @@
     "gh_58d71ef2f10f492b44babfb6",
     "gh_9ff99307750c2c3ca0da0b75",
     "gh_a69a3453286fd468112f9308",
-    "gh_f58c854a32125e7dbe8a40fb",
-    "gh_31a41af197adc18a9490a262",
-    "gh_d439e5c9e3a0db2c1db310e7",
-    "gh_f20a6d2a5cd4d0963ee3848c"
+    "gh_f58c854a32125e7dbe8a40fb"
   ],
   "items": [
+    {
+      "id": "gh_cc91aec0fe01502e65e61530",
+      "sourceId": "frontend-pt/vagas#108",
+      "title": "[Remoto] Vue.js Frontend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Vue.js Frontend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Frontend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver interfaces em Vue\n- Componentizar e reaproveitar a base\n- Cuidar de performance e acessibilidade\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Vue.js (5 anos ou mais)\n- Vue 3 e Composition API\n- TypeScript\n- Pinia ou Vuex\n- CSS moderno\n\n**Diferenciais:**\n- Nuxt\n- Testes com Vitest\n- Design system\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-vue-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "f38fc0f06eae6ab1a9dfe8a97d9e1fd995e73f3e85ef8f3401043acd7f020230",
+      "repository": "frontend-pt/vagas",
+      "repositoryUrl": "https://github.com/frontend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontend-pt",
+        "name": "frontend-pt",
+        "avatarUrl": "https://github.com/frontend-pt.png?size=80",
+        "repository": "frontend-pt/vagas",
+        "url": "https://github.com/frontend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-04T15:28:14Z",
+      "updatedAt": "2026-08-06T10:14:38Z",
+      "url": "https://github.com/frontend-pt/vagas/issues/108",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_ce1cd59127258c1d67f5ef96",
+      "sourceId": "backend-pt/vagas#152",
+      "title": "[Remoto] Node.js Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Node.js Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver APIs e serviços em Node.js\n- Integrar bancos SQL e NoSQL\n- Monitorar performance e consumo em produção\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Node.js (5 anos ou mais)\n- Node.js e TypeScript\n- Express, NestJS ou Fastify\n- PostgreSQL ou MongoDB\n- Testes com Jest\n\n**Diferenciais:**\n- Docker\n- AWS\n- GraphQL\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-node-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "aa9d293c0a6faef8126c55bf531f032546f216ef2a1d0227ee1e6806025f9b5b",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-04T15:24:39Z",
+      "updatedAt": "2026-08-06T10:14:31Z",
+      "url": "https://github.com/backend-pt/vagas/issues/152",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_506bda03fefcc4bda64c5a95",
+      "sourceId": "negarprh/Canadian-Tech-Internships-2026#280",
+      "title": "Adding cohort date",
+      "description": "Some of these issues are for Winter 2027 not Summer 2027. Maybe add a way to differentiate them?",
+      "excerpt": "Some of these issues are for Winter 2027 not Summer 2027. Maybe add a way to differentiate them?",
+      "issueState": "open",
+      "contentHash": "25da4f70160f68e43c82ad0e1c4bc0243998db79a2a9a515e0c5c097b9bfaa8f",
+      "repository": "negarprh/Canadian-Tech-Internships-2026",
+      "repositoryUrl": "https://github.com/negarprh/Canadian-Tech-Internships-2026",
+      "region": "North America",
+      "country": "Canada",
+      "tags": [],
+      "author": {
+        "id": "michelleokolie",
+        "name": "michelleokolie",
+        "handle": "michelleokolie",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69334813?v=4"
+      },
+      "community": {
+        "id": "negarprh",
+        "name": "negarprh",
+        "avatarUrl": "https://github.com/negarprh.png?size=80",
+        "repository": "negarprh/Canadian-Tech-Internships-2026",
+        "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026"
+      },
+      "createdAt": "2026-08-04T14:47:58Z",
+      "updatedAt": "2026-08-04T14:47:58Z",
+      "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026/issues/280",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_0190ae3f50b9d7353b5dee68",
       "sourceId": "backend-br/vagas#12369",
@@ -700,139 +811,6 @@
       "createdAt": "2026-08-03T12:25:50Z",
       "updatedAt": "2026-08-09T21:40:47Z",
       "url": "https://github.com/nodejsdevbr/vagas/issues/77",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_31a41af197adc18a9490a262",
-      "sourceId": "androiddevbr/vagas#2245",
-      "title": "[Híbrido] Android Developer Pleno na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de Android Developer (Kotlin) nível Pleno para atuar em projetos de empresas parceiras da Sylision. Processo 100% baseado em compatibilidade técnica, sem distinção de gênero, raça ou origem.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Android/Kotlin (de 2 a 5 anos)\n- Kotlin e Android SDK\n- Jetpack Compose ou XML\n- MVVM e Coroutines\n- Retrofit e consumo de APIs\n\n**Diferenciais:**\n- Testes instrumentados\n- CI/CD mobile\n- Kotlin Multiplatform\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-android-kotlin-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Descrição da vaga Vaga de Android Developer (Kotlin) nível Pleno para atuar em projetos de empresas parceiras da Sylision. Processo 100% baseado em compatibilidade técnica, sem distinção de gênero, raça ou origem. ...",
-      "issueState": "open",
-      "contentHash": "e2420fc1350a12786e89d19e192f7dc78bc4203bfbd2ef59258f69d65da05e0a",
-      "repository": "androiddevbr/vagas",
-      "repositoryUrl": "https://github.com/androiddevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "androiddevbr",
-        "name": "androiddevbr",
-        "avatarUrl": "https://github.com/androiddevbr.png?size=80",
-        "repository": "androiddevbr/vagas",
-        "url": "https://github.com/androiddevbr/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-03T12:17:26Z",
-      "updatedAt": "2026-08-03T12:17:26Z",
-      "url": "https://github.com/androiddevbr/vagas/issues/2245",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d439e5c9e3a0db2c1db310e7",
-      "sourceId": "DevOps-Brasil/Vagas#480",
-      "title": "[DevOps Engineer (AWS) Pleno] Sylision - Híbrido",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (AWS)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nA combinar com a empresa contratante\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (AWS) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com DevOps/AWS (de 2 a 5 anos)\n- AWS (EC2, S3, RDS, IAM, VPC)\n- Terraform ou CloudFormation\n- Docker\n- CI/CD (GitHub Actions, GitLab CI ou Jenkins)\n\n**Diferenciais:**\n- Kubernetes (EKS)\n- Observabilidade (Prometheus, Grafana)\n- FinOps\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/AWS\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-aws-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-aws-pleno",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (AWS) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização A combinar com a empresa contr...",
-      "issueState": "open",
-      "contentHash": "cf1fd0acf3da723da6c0515c2884719b4d6b089c27395a14c7f484a937ef3326",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "finops",
-        "aws",
-        "kubernetes",
-        "terraform"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-03T12:10:16Z",
-      "updatedAt": "2026-08-03T12:10:45Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/480",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f20a6d2a5cd4d0963ee3848c",
-      "sourceId": "DevOps-Brasil/Vagas#479",
-      "title": "[Site Reliability Engineer Pleno] Sylision - Remoto",
-      "description": "### 🎯 Cargo\n\nSite Reliability Engineer\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de Site Reliability Engineer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com SRE (de 2 a 5 anos)\n- Linux e redes\n- Observabilidade (Prometheus, Grafana, tracing)\n- Kubernetes\n- Automação (Python, Go ou Bash)\n\n**Diferenciais:**\n- Terraform\n- Engenharia de caos\n- Gestão de incidentes em escala\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- SRE\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-sre-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-sre-pleno-remoto",
-      "excerpt": "### 🎯 Cargo Site Reliability Engineer ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portugal ...",
-      "issueState": "open",
-      "contentHash": "80417ba09ffa12097091de33b5ded817eb61ebaaadbd936dc68f15090ad1708f",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "sre",
-        "platform",
-        "kubernetes",
-        "terraform",
-        "pa",
-        "pleno"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-03T12:06:04Z",
-      "updatedAt": "2026-08-03T12:06:28Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/479",
       "sourceType": "github-issue"
     }
   ]

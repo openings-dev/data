@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-10T12:51:14.950Z",
+  "generatedAt": "2026-08-10T15:53:32.563Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_dbbdc8ff906291fbec06386f",
+    "gh_5785e611680b5a017f944305",
     "gh_e317cf7cc308ab44f7d0b888",
     "gh_db9c6f7fe477c4d3161b5714",
     "gh_a3c53b8e6a01587253c809b1",
@@ -21,11 +23,94 @@
     "gh_5d7d9dd5575f7424544d85a0",
     "gh_732daedfd16d16d890d24f35",
     "gh_a67161fdc094e0060593af54",
-    "gh_fc1f63232f98258e183299f3",
-    "gh_fd2c625e7c7fba96face8ed8",
-    "gh_9c260b1b5b1a3282b984c67a"
+    "gh_fc1f63232f98258e183299f3"
   ],
   "items": [
+    {
+      "id": "gh_dbbdc8ff906291fbec06386f",
+      "sourceId": "react-brasil/vagas#3021",
+      "title": "[Híbrido] React Native Developer Sênior na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de React Native Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React Native compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-native-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Flexível\n- 👴 Sênior\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 15k+",
+      "excerpt": "## Descrição da vaga Vaga de React Native Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência. ## Local Híbrido ou remoto, a...",
+      "issueState": "open",
+      "contentHash": "2a04dc4e577296651eccf2edcd818287d6839980ea626cfa76544ed731cb7b5a",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "⚖️ clt",
+        "🏢 remoto",
+        "⚖️ pj",
+        "👴 senior",
+        "🏢 flexível",
+        "💰 15k+"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-28T15:12:24Z",
+      "updatedAt": "2026-07-28T15:13:04Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3021",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5785e611680b5a017f944305",
+      "sourceId": "backend-br/vagas#12367",
+      "title": "[Remoto] Desenvolvedor Back-end Sênior - Igma",
+      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n👀 O que buscamos? \n\nEstamos em busca de uma pessoa desenvolvedora Backend para se juntar ao nosso Chapter de desenvolvimento e criarmos produtos digitais para as maiores empresas do Brasil.\nUnimos tecnologia e design para resolver problemas complexos de empresas.\nCriamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n\n\n📅 Sua rotina será: \n\n- Desenhar e construir APIs e serviços back-end de alta performance (arquitetura e infra)\n- Modelar dados em PostgreSQL/Azure SQL pensando em escala desde o início\n- Escrever testes automatizados como parte da entrega\n- Pensar testabilidade, observabilidade e segurança enquanto desenha\n- Integrar com sistemas legados enterprise sem quebrar a operação\n- Trabalhar com IA no fluxo de planejamento, código, teste e debug\n- Comunicar com clareza de forma assíncrona\n- Assumir o que se comprometeu e avisar cedo quando algo travar\n- Configuração de worflows de CI/CD\n- Trabalhar em equipe em times multidisiciplinares\n\n## Local\n\nRemoto\n\n## Requisitos\n\nExperiência comprovada de atuação como backend de, pelo menos, 4 anos.\nDomínio avançado em Python OU C# / .NET (ASP.NET Core).\nExperiência com bancos relacionais, especificamente PostgreSQL ou Azure SQL.\nFamiliaridade com:\n     - React / React Native\n     - Next.js\n     - PostgreSQL ou Azure SQL\n     - Docker / docker-compose\n     - GitHub ou Gitlab\n     - Testes automatizados\n     - Claude Code\nNão cobramos que você já domine tudo, mas que você tenha interesse em aprender rápido o que faltar.\n\n\n✨ Você irá se destacar, se: \n\nAzure (Service Bus, Event Grid, Key Vault, Blob Storage, Application Insights)\nGCP (Cloud Run, Compute Engine)\nAWS (ECS, Developer Tools, EC2, S3)\nKubernetes (AKS)\nRedis\nKeycloak\nSonarQube\n\n## Benefícios\n🏠 Oportunidade 100% remota \n\n💙 Plano de Saúde e Odonto com coparticipação\n\n🧘 Auxílio Cuidado e Desenvolvimento por meio de reembolsos \n\n🏃 Wellhub e incentivos de à práticas de esportes\n\n💳 Cartão multi-benefício Caju\n\n💻 Auxílio Remoto para investimento em equipamentos \n\n🏖️  30 dias de férias remuneradas\n\n## Contratação\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/igma/jobs/6a63c77a9e37d900132a2d81\n\n\n### Nível\n\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
+      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico d...",
+      "issueState": "open",
+      "contentHash": "91d7c18437836998ab09682eb9d4f0c87c56e592b361b2f7b2f5382fb4729678",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "sênior",
+        "python",
+        ".net",
+        "remoto",
+        "aws",
+        "testes automatizados",
+        "postgresql"
+      ],
+      "author": {
+        "id": "mcfo-contato",
+        "name": "mcfo-contato",
+        "handle": "mcfo-contato",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-07-28T14:58:32Z",
+      "updatedAt": "2026-07-28T14:58:48Z",
+      "url": "https://github.com/backend-br/vagas/issues/12367",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e317cf7cc308ab44f7d0b888",
       "sourceId": "backend-br/vagas#12366",
@@ -757,98 +842,6 @@
       "createdAt": "2026-07-24T17:59:30Z",
       "updatedAt": "2026-07-24T19:23:41Z",
       "url": "https://github.com/backend-pt/vagas/issues/147",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_fd2c625e7c7fba96face8ed8",
-      "sourceId": "soujava/vagas-java#1928",
-      "title": "[Híbrido] Desenvolvedor(a) Java Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "4363641c75ae020a0aae6ae5ad4a502768b6fdc50fdc6d436019c098cd774806",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "remoto",
-        "backend",
-        "java",
-        "portugal"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-24T17:56:33Z",
-      "updatedAt": "2026-07-24T17:56:51Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1928",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9c260b1b5b1a3282b984c67a",
-      "sourceId": "soujava/vagas-java#1927",
-      "title": "[Híbrido] Desenvolvedor(a) Java/Kafka Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "804c0df6a7c1f30a18af82bc8f03d59a36af9bf41036b13dd13454bb0f1fff65",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "remoto",
-        "backend",
-        "java",
-        "portugal"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-24T17:55:32Z",
-      "updatedAt": "2026-07-24T17:55:50Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1927",
       "sourceType": "github-issue"
     }
   ]
