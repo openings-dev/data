@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-09T21:23:50.901Z",
+  "generatedAt": "2026-08-10T01:07:33.457Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
   "ids": [
+    "gh_c865b994f75388a544ac06ca",
     "gh_32915f2f01cb0611e1b21676",
     "gh_7a3e8a6bf3e9aceb6e4d3c30",
     "gh_fdca83cb0404a0baab1c3fa4",
@@ -22,10 +23,49 @@
     "gh_19b5fdf75df6ae77bffa86f6",
     "gh_ccd963e6f5cd2bc7022668de",
     "gh_ed9daa7e2e83336b34db3125",
-    "gh_ee3bf5f551a3955bd095b63e",
-    "gh_dc9be57bac65e04edbf010e2"
+    "gh_ee3bf5f551a3955bd095b63e"
   ],
   "items": [
+    {
+      "id": "gh_c865b994f75388a544ac06ca",
+      "sourceId": "backend-pt/vagas#136",
+      "title": "[Remoto] C#/.NET Backend Developer Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de C#/.NET Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com C#/.NET compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "8895774fecc2366e2e163861982a26021d75f5fa2846f234c455016387550a27",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:28:40Z",
+      "updatedAt": "2026-07-17T10:28:07Z",
+      "url": "https://github.com/backend-pt/vagas/issues/136",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_32915f2f01cb0611e1b21676",
       "sourceId": "dotnetdevbr/vagas#1058",
@@ -774,39 +814,6 @@
       "createdAt": "2026-07-07T13:20:34Z",
       "updatedAt": "2026-08-07T03:08:05Z",
       "url": "https://github.com/vuejs-br/vagas/issues/607",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dc9be57bac65e04edbf010e2",
-      "sourceId": "lukasz-madon/awesome-remote-job#1103",
-      "title": "Review PR #1102 — Remote Signal API (JSON jobs + Show HN feed)",
-      "description": "**Merge request — Remote Signal API listing**\n\nPR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache).\n\n- Live: https://intellectual-close-wages-west.trycloudflare.com/pricing\n- Free: 10 req/day | Pro: $5 USDC/mo | Agents: x402 $0.02/req on Base\n- Docs: https://gist.github.com/reckoning89/d87818b2020bbc27590df1fa0c42f175\n- Verified: 138+ API calls from 40+ external IPs this week\n\nHappy to adjust copy/format. Ready to merge when convenient — thanks for maintaining this list!",
-      "excerpt": "**Merge request — Remote Signal API listing** PR adds a JSON API for recruiting teams: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN posts (15min cache). - Live: https://intellectual-close-wages-west.trycloudflare.com/pri...",
-      "issueState": "open",
-      "contentHash": "ab62bc1a66b1fce40ffd39e5e06a8ceb9316d5822243f9fe455228ef73a967f2",
-      "repository": "lukasz-madon/awesome-remote-job",
-      "repositoryUrl": "https://github.com/lukasz-madon/awesome-remote-job",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote"
-      ],
-      "author": {
-        "id": "reckoning89",
-        "name": "reckoning89",
-        "handle": "reckoning89",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/216601217?v=4"
-      },
-      "community": {
-        "id": "lukasz-madon",
-        "name": "lukasz-madon",
-        "avatarUrl": "https://github.com/lukasz-madon.png?size=80",
-        "repository": "lukasz-madon/awesome-remote-job",
-        "url": "https://github.com/lukasz-madon/awesome-remote-job"
-      },
-      "createdAt": "2026-07-07T00:03:28Z",
-      "updatedAt": "2026-07-07T13:57:26Z",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job/issues/1103",
       "sourceType": "github-issue"
     }
   ]

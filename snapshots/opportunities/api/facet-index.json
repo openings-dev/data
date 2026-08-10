@@ -1,7 +1,10 @@
 {
-  "generatedAt": "2026-08-09T21:23:50.901Z",
+  "generatedAt": "2026-08-10T01:07:33.457Z",
   "dimensions": {
     "repositories": {
+      "ambicuity/New-Grad-Jobs": [
+        "gh_bee25d48c1d08bdb89cd3956"
+      ],
       "SimplifyJobs/Summer2026-Internships": [
         "gh_43eacaf4733aacd4a0cf9301",
         "gh_0165269b67098fd568168ad7",
@@ -1033,6 +1036,7 @@
     },
     "regions": {
       "North America": [
+        "gh_bee25d48c1d08bdb89cd3956",
         "gh_43eacaf4733aacd4a0cf9301",
         "gh_4bcf329db7075664d7020d35",
         "gh_a89babc7de1bec086b977133",
@@ -1861,6 +1865,7 @@
     },
     "countries": {
       "United States": [
+        "gh_bee25d48c1d08bdb89cd3956",
         "gh_43eacaf4733aacd4a0cf9301",
         "gh_6a1098d504e460b826b0e253",
         "gh_0165269b67098fd568168ad7",
@@ -2710,6 +2715,15 @@
       ]
     },
     "tags": {
+      "docs": [
+        "gh_bee25d48c1d08bdb89cd3956"
+      ],
+      "community": [
+        "gh_bee25d48c1d08bdb89cd3956"
+      ],
+      "sponsorship-placement": [
+        "gh_bee25d48c1d08bdb89cd3956"
+      ],
       "new-internship": [
         "gh_43eacaf4733aacd4a0cf9301",
         "gh_9034660ffcd782db1bd0b856",
@@ -4971,16 +4985,6 @@
         "gh_d5fd4a8732c14dad79be006b",
         "gh_b3d11f18e9b21e7bd215d304"
       ],
-      "awaiting-triage": [
-        "gh_2aa676d3d207e5beb113849e",
-        "gh_a69a3453286fd468112f9308",
-        "gh_f58c854a32125e7dbe8a40fb",
-        "gh_2b40ebfdf92589b10e006de1",
-        "gh_3eb9f611811af5462acbc474",
-        "gh_211190a487c5b05675d86403",
-        "gh_8694ae720d764a9800ac4d26",
-        "gh_e2dd47836ca98a0506a50467"
-      ],
       "nao-informado": [
         "gh_e28ab400211c8c30f90763e6"
       ],
@@ -5586,6 +5590,9 @@
       ]
     },
     "authors": {
+      "ambicuity": [
+        "gh_bee25d48c1d08bdb89cd3956"
+      ],
       "RyanHe28": [
         "gh_43eacaf4733aacd4a0cf9301"
       ],
@@ -7038,6 +7045,7 @@
   },
   "labels": {
     "authors": {
+      "ambicuity": "ambicuity",
       "RyanHe28": "RyanHe28",
       "GiovaniPole0": "GiovaniPole0",
       "mxkr08": "mxkr08",
@@ -7356,6 +7364,9 @@
       "liuchenx": "liuchenx"
     },
     "tags": {
+      "docs": "type: docs",
+      "community": "community",
+      "sponsorship-placement": "sponsorship: placement",
       "new-internship": "new_internship",
       "remote": "remoto",
       "senior": "sênior",
@@ -7394,7 +7405,6 @@
       "aws": "aws",
       "azure": "azure",
       "edit": "edit_role",
-      "awaiting-triage": "🚦 awaiting triage",
       "nao-informado": "💰 nao informado",
       "spring": "spring",
       "portugal": "portugal",
