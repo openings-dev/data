@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-11T15:54:13.954Z",
+  "generatedAt": "2026-08-11T18:52:00.723Z",
   "page": 9,
   "pageSize": 20,
   "nextPage": "api/pages/page-0010.json",
   "ids": [
+    "gh_804dc2fa064755e7b0affa8e",
+    "gh_2e582da148413eccda00e99a",
     "gh_e28ab400211c8c30f90763e6",
     "gh_66567127e38a6d84bdcb2194",
     "gh_d60682e9047937ab3c16440c",
@@ -21,11 +23,93 @@
     "gh_888e68f3472e058fd086dc13",
     "gh_0b1322c3f61e96677b40b445",
     "gh_d153714a4675d0e9559fe5e0",
-    "gh_a0b79bcbb61d3dbab86b9dba",
-    "gh_909635552e43694739d981b9",
-    "gh_b45dffa30b18b04bbb4d85ce"
+    "gh_a0b79bcbb61d3dbab86b9dba"
   ],
   "items": [
+    {
+      "id": "gh_804dc2fa064755e7b0affa8e",
+      "sourceId": "nodejsdevbr/vagas#71",
+      "title": "[Remoto] Back-End Developer Node.JS Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Node.js Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver APIs e serviços em Node.js\n- Integrar bancos SQL e NoSQL\n- Monitorar performance e consumo em produção\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Node.js (5 anos ou mais)\n- Node.js e TypeScript\n- Express, NestJS ou Fastify\n- PostgreSQL ou MongoDB\n- Testes com Jest\n\n**Diferenciais:**\n- Docker\n- AWS\n- GraphQL\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-node-js-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "6c74f0d797c52a8ce3c85262fcc95e229e1024d65753c0e7e893031dd9bf72f9",
+      "repository": "nodejsdevbr/vagas",
+      "repositoryUrl": "https://github.com/nodejsdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "clt",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "nodejsdevbr",
+        "name": "nodejsdevbr",
+        "avatarUrl": "https://github.com/nodejsdevbr.png?size=80",
+        "repository": "nodejsdevbr/vagas",
+        "url": "https://github.com/nodejsdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-31T21:09:04Z",
+      "updatedAt": "2026-08-01T12:11:46Z",
+      "url": "https://github.com/nodejsdevbr/vagas/issues/71",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2e582da148413eccda00e99a",
+      "sourceId": "nodejsdevbr/vagas#70",
+      "title": "[Remoto] Fullstack JavaScript (Node.js) Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack JavaScript (Node.js) Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Entregar funcionalidades de ponta a ponta, do banco à tela\n- Manter API e interface evoluindo juntas\n- Participar das decisões de arquitetura do produto\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Fullstack JavaScript (5 anos ou mais)\n- TypeScript no backend e no frontend\n- Node.js (NestJS, Express ou Fastify)\n- React ou Next.js\n- SQL e Git\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Testes automatizados end-to-end\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-javascript-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "12b725755f3b89e9a14f4762212a49e23ea791101eeab39b0ac5bfb1d3e55db1",
+      "repository": "nodejsdevbr/vagas",
+      "repositoryUrl": "https://github.com/nodejsdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "clt",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "nodejsdevbr",
+        "name": "nodejsdevbr",
+        "avatarUrl": "https://github.com/nodejsdevbr.png?size=80",
+        "repository": "nodejsdevbr/vagas",
+        "url": "https://github.com/nodejsdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-31T21:00:11Z",
+      "updatedAt": "2026-08-01T12:11:50Z",
+      "url": "https://github.com/nodejsdevbr/vagas/issues/70",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_e28ab400211c8c30f90763e6",
       "sourceId": "dotnetdevbr/vagas#1072",
@@ -795,88 +879,6 @@
       "createdAt": "2026-07-30T12:04:23Z",
       "updatedAt": "2026-07-30T12:05:03Z",
       "url": "https://github.com/frontendbr/vagas/issues/8536",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_909635552e43694739d981b9",
-      "sourceId": "awesome-jobs/vietnam#4987",
-      "title": "✨[ $ 1,520 USD ] Data Engineer [2+ yoe] - HN - Pv 1 vòng duy nhất",
-      "description": "Pv offline 1 vòng duy nhất | Team đang 4 mems, tuyển thêm 3 | Cần kn ETL, làm hệ thống on-premise tại các công ty Product.\nLộ trình thăng tiến rõ ràng 2 hướng: Chuyên gia (Expert) & Quản lý (Management), có tài liệu năng lực minh bạch từng level.\n\n**What you will do:**\n- Design, implement and maintain the data pipelines that are scalable and reliable for KiotViet Data Platform.\n- Design, implement and manage data warehouse, data marts that store and manage large volumes of data to meet the need of querying data and perform descriptive and predictive analytics.\n- Collect, process, store and analyze our ever-growing customer data.\n- Ensure data quality and consistency of the data that is being stored and processed.\n- Developing data processing and transformation pipelines to convert raw data into a usable format.\n- Collaborating with Data Scientists and Data Analysts to understand their data needs and requirements, and to ensure that data is available and accessible in the right format and at the right time.\n- Build high-performance, mission critical Data products to allow various customer-facing and internal services to query data, perform analytics.\n\nUV qtam liên hệ mình zl 0332.022.055 hoặc techdy.vn@gmail.com nhé.\n\nCác job DEs khác mình đang tìm UV:\n\n<html xmlns:o=\"urn:schemas-microsoft-com:office:office\"\nxmlns=\"http://www.w3.org/TR/REC-html40\"\nxmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\"\nxmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n\n<meta name=ProgId content=PowerPoint.Slide>\n<meta name=Generator content=\"Microsoft PowerPoint 15\">\n<style>\n<!--tr\n\t{mso-height-source:auto;}\ncol\n\t{mso-width-source:auto;}\ntd\n\t{padding-top:1.0px;\n\tpadding-right:1.0px;\n\tpadding-left:1.0px;\n\tmso-ignore:padding;\n\tcolor:windowtext;\n\tfont-size:18.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:Arial;\n\tmso-generic-font-family:auto;\n\tmso-font-charset:0;\n\ttext-align:general;\n\tvertical-align:bottom;\n\tborder:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;}\n.oa1\n\t{border:.6pt solid black;\n\tvertical-align:top;\n\tpadding-bottom:3.6pt;\n\tpadding-left:7.2pt;\n\tpadding-top:3.6pt;\n\tpadding-right:7.2pt;}\n.oa2\n\t{border:.6pt solid black;\n\ttext-align:center;\n\tvertical-align:top;\n\tpadding-bottom:3.6pt;\n\tpadding-left:7.2pt;\n\tpadding-top:3.6pt;\n\tpadding-right:7.2pt;}\n.oa3\n\t{border:.6pt solid black;\n\tbackground:#D9EAD3;\n\tmso-pattern:auto none;\n\ttext-align:center;\n\tvertical-align:top;\n\tpadding-bottom:3.6pt;\n\tpadding-left:7.2pt;\n\tpadding-top:3.6pt;\n\tpadding-right:7.2pt;}\n-->\n</style>\n</head>\n\n<body>\n<!--StartFragment-->\n\n-- | -- | -- | -- | -- | --\nDT-366 | Senior | 5+ yoe | HN, HCM Hybrid | $ 2,775 | Hands-on experience with   DOMO or similar Business Intelligence platforms such as Power BI, Tableau, or   Looker.\nDT-279 | Senior | 5+ yoe | HN | $ 2,090 | Container platform (K8S,   OCP,...) \\| Banking Data Model, Netezza, Cloud Pak for Data \\| Pv 1-2 vòng offl   \\| Có sign-on bonus\nDT-288 | Senior | 5+ yoe | HCM | $ 1,975 | 1+ yoe banking/finance \\|   Dự án đến hết 2027, ký 3 tháng/lần \\| Pv 1 onl + 1 offl\nDT-364 | Middle, Senior | 3+ yoe | HN, HCM Hybrid | $ 1,710 | Duration: 1 năm tái ký   một lần \\| Hybrid: lên office 2 ngày/ tuần\nDT-362 | Middle, Senior | 2+ yoe | HN | $ 1,520 | Pv offline 1 vòng duy   nhất \\| Team đang 4 mems, tuyển thêm 3 \\| Cần kn ETL, làm hệ thống on-premise   tại các công ty Product.\n\n\n\n<!--EndFragment-->\n</body>\n\n</html>",
-      "excerpt": "Pv offline 1 vòng duy nhất | Team đang 4 mems, tuyển thêm 3 | Cần kn ETL, làm hệ thống on-premise tại các công ty Product. Lộ trình thăng tiến rõ ràng 2 hướng: Chuyên gia (Expert) & Quản lý (Management), có tài liệu n...",
-      "issueState": "open",
-      "contentHash": "8d6196b4f2b2045c5a80677b4e54c5b8adb189a43eda9201dc643405e41486d4",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "senior",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-07-30T02:37:51Z",
-      "updatedAt": "2026-07-30T02:39:40Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4987",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b45dffa30b18b04bbb4d85ce",
-      "sourceId": "DevOps-Brasil/Vagas#470",
-      "title": "[DevOps Engineer (Kubernetes) Sênior] Sylision - Remoto",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (Kubernetes)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nSênior\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\nBrasil inteiro ou Portugal (remoto)\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n12.000 - 22.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (Kubernetes) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência sólida com Kubernetes compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n### 🎁 Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n### 🛠️ Stack/Tecnologias\n\n- Kubernetes\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-kubernetes-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-kubernetes-senior-remoto",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (Kubernetes) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Sênior ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização Brasil inteiro ou Portu...",
-      "issueState": "open",
-      "contentHash": "dd20a4a61c7604df66f4f746ebe16c44ba1e418cc2c68b6643a9900cb09d2797",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "kubernetes",
-        "pa",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-30T00:42:39Z",
-      "updatedAt": "2026-07-30T00:42:53Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/470",
       "sourceType": "github-issue"
     }
   ]
