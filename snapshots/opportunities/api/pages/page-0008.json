@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-12T15:53:28.540Z",
+  "generatedAt": "2026-08-12T18:52:24.009Z",
   "page": 8,
   "pageSize": 20,
   "nextPage": "api/pages/page-0009.json",
   "ids": [
+    "gh_27aa26d7bb21a1ebb52dd5c4",
+    "gh_8694ae720d764a9800ac4d26",
+    "gh_e2dd47836ca98a0506a50467",
+    "gh_5e9ec74d486601b91458f8ed",
     "gh_322e43c52c4dc474b9de092d",
     "gh_8037478966ad64b0fcc09260",
     "gh_9367949ca1a7e24ee2dd7aac",
@@ -19,13 +23,178 @@
     "gh_31b6361b2797bec54f636c20",
     "gh_8f6acbc7503a309cd947e8b2",
     "gh_de693fd09040ecc3e1010aff",
-    "gh_8030eb047a9a25e042c38e30",
-    "gh_f8c0eaaa4dadee8da0d607e5",
-    "gh_16827057364e91acc87c4591",
-    "gh_2fd656284f6f7411e1f5a3dc",
-    "gh_1d9c04c5aed5853aa63217a7"
+    "gh_8030eb047a9a25e042c38e30"
   ],
   "items": [
+    {
+      "id": "gh_27aa26d7bb21a1ebb52dd5c4",
+      "sourceId": "datascience-br/vagas#171",
+      "title": "[Remoto] Engenharia de Dados Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Engenharia de Dados nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Construir e manter pipelines de ingestão e transformação\n- Garantir qualidade, linhagem e disponibilidade dos dados\n- Modelar camadas do data warehouse\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Engenharia de Dados (5 anos ou mais)\n- Python e SQL avançado\n- Orquestração (Airflow, Dagster ou similar)\n- Spark ou processamento distribuído\n- Cloud (AWS, GCP ou Azure)\n\n**Diferenciais:**\n- dbt\n- Kafka\n- Databricks ou Snowflake\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-engenharia-de-dados-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "1e5caac727e929c1866487dfe5c282609d5bcd1c7fc2c5ca24ac5946c5980ed1",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T15:11:52Z",
+      "updatedAt": "2026-08-01T15:11:52Z",
+      "url": "https://github.com/datascience-br/vagas/issues/171",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8694ae720d764a9800ac4d26",
+      "sourceId": "nodejsdevbr/vagas#73",
+      "title": "[Híbrido] Back-End Developer Node.JS Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Node.js Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver APIs e serviços em Node.js\n- Integrar bancos SQL e NoSQL\n- Monitorar performance e consumo em produção\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Node.js (5 anos ou mais)\n- Node.js e TypeScript\n- Express, NestJS ou Fastify\n- PostgreSQL ou MongoDB\n- Testes com Jest\n\n**Diferenciais:**\n- Docker\n- AWS\n- GraphQL\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-node-js-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "d4afd90e03da628750fe5a26e0ebb09ad8fa43f527919fc23fcd917104f1920d",
+      "repository": "nodejsdevbr/vagas",
+      "repositoryUrl": "https://github.com/nodejsdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "híbrido",
+        "clt",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "nodejsdevbr",
+        "name": "nodejsdevbr",
+        "avatarUrl": "https://github.com/nodejsdevbr.png?size=80",
+        "repository": "nodejsdevbr/vagas",
+        "url": "https://github.com/nodejsdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T15:03:45Z",
+      "updatedAt": "2026-08-09T21:51:47Z",
+      "url": "https://github.com/nodejsdevbr/vagas/issues/73",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e2dd47836ca98a0506a50467",
+      "sourceId": "nodejsdevbr/vagas#72",
+      "title": "[Híbrido] Fullstack JavaScript (Node.js) Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack JavaScript (Node.js) Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Entregar funcionalidades de ponta a ponta, do banco à tela\n- Manter API e interface evoluindo juntas\n- Participar das decisões de arquitetura do produto\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Fullstack JavaScript (5 anos ou mais)\n- TypeScript no backend e no frontend\n- Node.js (NestJS, Express ou Fastify)\n- React ou Next.js\n- SQL e Git\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Testes automatizados end-to-end\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-javascript-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "55e6f30d25bb0fa5d444c94dcc7aaeb4bd72afb896ea5249fa2f19243bfe092e",
+      "repository": "nodejsdevbr/vagas",
+      "repositoryUrl": "https://github.com/nodejsdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "híbrido",
+        "clt",
+        "remoto",
+        "sênior"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "nodejsdevbr",
+        "name": "nodejsdevbr",
+        "avatarUrl": "https://github.com/nodejsdevbr.png?size=80",
+        "repository": "nodejsdevbr/vagas",
+        "url": "https://github.com/nodejsdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T15:00:05Z",
+      "updatedAt": "2026-08-09T21:51:54Z",
+      "url": "https://github.com/nodejsdevbr/vagas/issues/72",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5e9ec74d486601b91458f8ed",
+      "sourceId": "androiddevbr/vagas#2243",
+      "title": "[Híbrido] Android Developer Sênior na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de Android Developer (Kotlin) nível Sênior para atuar em projetos de empresas parceiras da Sylision. Processo 100% baseado em compatibilidade técnica, sem distinção de gênero, raça ou origem.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Android/Kotlin (5 anos ou mais)\n- Kotlin e Android SDK\n- Jetpack Compose ou XML\n- MVVM e Coroutines\n- Retrofit e consumo de APIs\n\n**Diferenciais:**\n- Testes instrumentados\n- CI/CD mobile\n- Kotlin Multiplatform\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-android-kotlin-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de Android Developer (Kotlin) nível Sênior para atuar em projetos de empresas parceiras da Sylision. Processo 100% baseado em compatibilidade técnica, sem distinção de gênero, raça ou origem....",
+      "issueState": "open",
+      "contentHash": "c675dcc4aa21bdfe5a85c1eb16eb0af4cde0a5c9351306d4748b4963ee29be53",
+      "repository": "androiddevbr/vagas",
+      "repositoryUrl": "https://github.com/androiddevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "androiddevbr",
+        "name": "androiddevbr",
+        "avatarUrl": "https://github.com/androiddevbr.png?size=80",
+        "repository": "androiddevbr/vagas",
+        "url": "https://github.com/androiddevbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T12:18:13Z",
+      "updatedAt": "2026-08-01T12:18:13Z",
+      "url": "https://github.com/androiddevbr/vagas/issues/2243",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_322e43c52c4dc474b9de092d",
       "sourceId": "DevOps-Brasil/Vagas#476",
@@ -594,138 +763,6 @@
       "createdAt": "2026-07-31T22:03:24Z",
       "updatedAt": "2026-07-31T22:03:24Z",
       "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9656",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f8c0eaaa4dadee8da0d607e5",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9655",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731\n\n### Company Name\n\nD. E. Shaw\n\n### Internship Title\n\nProprietary Trading Intern\n\n### Location\n\nNew York, NY\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nQuantitative Finance\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731 ### Company Name D. E. Shaw ### Internship Title Proprietary Trading Intern ### Location New York, NY ...",
-      "issueState": "open",
-      "contentHash": "693ff203ffdd6fb96464c8814d6cf5836b164a9d0e2b975ee4b1d3201536ae1e",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:02:41Z",
-      "updatedAt": "2026-07-31T22:02:41Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9655",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_16827057364e91acc87c4591",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9654",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894\n\n### Company Name\n\nD. E. Shaw\n\n### Internship Title\n\nSoftware Developer Intern\n\n### Location\n\nNew York, NY\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894 ### Company Name D. E. Shaw ### Internship Title Software Developer Intern ### Location New York, NY ##...",
-      "issueState": "open",
-      "contentHash": "78398f96a020e3a44f00fb8333d421e9c2e6d090d76806c0d2f7b9e85c251033",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:02:01Z",
-      "updatedAt": "2026-07-31T22:02:01Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9654",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2fd656284f6f7411e1f5a3dc",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9653",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893\n\n### Company Name\n\nD. E. Shaw\n\n### Internship Title\n\nSoftware Developer Intern - Ph.D.\n\n### Location\n\nNew York, NY\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [x] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893 ### Company Name D. E. Shaw ### Internship Title Software Developer Intern - Ph.D. ### Location Ne...",
-      "issueState": "open",
-      "contentHash": "f767a5a5bc2e8572b9dec256cad1037f735b05cff11038d5969ba9501c9864fb",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:01:31Z",
-      "updatedAt": "2026-07-31T22:01:31Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9653",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1d9c04c5aed5853aa63217a7",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9652",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.deshaw.com/careers/systems-administrator-intern-new-york-5921\n\n### Company Name\n\nD. E. Shaw\n\n### Internship Title\n\nSystems Administrator Intern\n\n### Location\n\nNew York, NY\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921 ### Company Name D. E. Shaw ### Internship Title Systems Administrator Intern ### Location New York, NY ### What...",
-      "issueState": "open",
-      "contentHash": "7f49086b1a11f504b626f069ac0fe5a8ddebb667b323247ffb48773284abc3cd",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T22:00:46Z",
-      "updatedAt": "2026-07-31T22:00:46Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9652",
       "sourceType": "github-issue"
     }
   ]
