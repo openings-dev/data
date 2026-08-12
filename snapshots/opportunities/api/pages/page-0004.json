@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-12T04:42:42.686Z",
+  "generatedAt": "2026-08-12T15:53:28.540Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_52bd15edeb18e164dcbfcac6",
+    "gh_f9fcfb1ee9a91aa802df11f2",
+    "gh_04bd558bd60c02d2d4ef03ee",
     "gh_d915e03215873a31b26c0aec",
     "gh_a14a5a09c5006f3cb6f430d6",
     "gh_0f26dbe06939045f34aac939",
@@ -20,20 +23,146 @@
     "gh_d26543e06f2f845a93a5ffc9",
     "gh_30a12b03e2314bf4a78ac745",
     "gh_5545cf93e65fdd927b49fc2d",
-    "gh_d5ce5a5c2fe2c54164720b3b",
-    "gh_c527259356534caa2a8a779c",
-    "gh_694fa53d6e76634d9cafa751",
-    "gh_f56503532982a29116fdf52d"
+    "gh_d5ce5a5c2fe2c54164720b3b"
   ],
   "items": [
     {
+      "id": "gh_52bd15edeb18e164dcbfcac6",
+      "sourceId": "datascience-br/vagas#184",
+      "title": "[Remoto] Analista de Dados Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Analista de Dados nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Analista de Dados (5 anos ou mais)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-analista-de-dados-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "730938e3c9c23f7544a23483a291a43c01a1e0a7f73d86c636588c32b240a55a",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-07T15:00:46Z",
+      "updatedAt": "2026-08-07T15:00:46Z",
+      "url": "https://github.com/datascience-br/vagas/issues/184",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f9fcfb1ee9a91aa802df11f2",
+      "sourceId": "backend-br/vagas#12370",
+      "title": "[Remoto] Fullstack developer para projetos de controle de tráfego aéreo na Fundação SDTP",
+      "description": "## **Fundação SDTP**\n\nBuscamos um desenvolvedor com mentalidade de Product Owner e capacidade empreendedora. Você não será apenas um codificador, mas um construtor de soluções para o espaço aéreo brasileiro. É essencial o uso fluído de ferramentas de IA (Claude Code, Cursor, GitHub Copilot) para acelerar o ciclo de entrega e garantir a qualidade. Sede da empresa: Rio de Janeiro-RJ\n\n### **Descrição da vaga**\n\nLiderar ciclos de 6 semanas (Data Fixa/Escopo Flexível) em produtos críticos.\nUtilizar IA para acelerar o desenvolvimento, refatoração e escrita de testes.\nAtuar em projetos solo ou em dupla, mantendo alta autonomia e organização.\nTraduzir necessidades de negócio em funcionalidades que gerem valor real ao usuário.\nManter e evoluir stacks modernas (Laravel/FastAPI + Next.js) e legados robustos.\n\n### **Requisitos**\n\nExperiência Plena: Capacidade comprovada de entregar projetos do início ao fim.\nIA-Native: Domínio de ferramentas de IA para apoio ao desenvolvimento (Codex, Antigravity ou similares).\nStack: Sólida experiência com Python/FastAPI ou PHP/Laravel (Backend) e React/Next.js (Frontend).\nMentalidade Empreendedora: Capacidade de gerir o próprio backlog e priorizar valor sobre volume.\nPerfil: Organização extrema para o fluxo remoto da ATD e excelente comunicação técnica.\nNível: Pleno\n\n### **Diferenciais (o que nos brilha os olhos)**\n\nEntusiasta da Aviação: Paixão por drones (UTM), controle de tráfego aéreo e navegação.\nConhecimento em Docker Swarm e infraestrutura on-premise.\nExperiência em metodologias ágeis com foco em fluxo (Kanban/WIP).\n\n### **Benefícios**\n\nPlano de Saúde\nPlano Odontológico\nSeguro de vida\nAuxílio creche\nVale Alimentação \nVale Refeição \nContratação\nCLT | 40 h semanais | Remoto\nFaixa salarial: R$ 10.000 a R$ 10.500\n\n### **Como se candidatar**\nCurrículo por email para [gloriaatd@sdtp.org.br](mailto:gloriaatd@sdtp.org.br)",
+      "excerpt": "## **Fundação SDTP** Buscamos um desenvolvedor com mentalidade de Product Owner e capacidade empreendedora. Você não será apenas um codificador, mas um construtor de soluções para o espaço aéreo brasileiro. É essencia...",
+      "issueState": "open",
+      "contentHash": "73527c078c20a41d654a2db5bf0ab73562c565a639fdb14bf427b9679e6d8e9d",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "php",
+        "python",
+        "remoto",
+        "docker"
+      ],
+      "author": {
+        "id": "gloriagalembeck",
+        "name": "gloriagalembeck",
+        "handle": "gloriagalembeck",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/256614960?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "companyName": "Rio de Janeiro-RJ",
+      "salary": {
+        "currency": "BRL",
+        "min": 10000,
+        "max": 10500,
+        "period": "year"
+      },
+      "createdAt": "2026-08-07T14:08:14Z",
+      "updatedAt": "2026-08-08T03:51:45Z",
+      "url": "https://github.com/backend-br/vagas/issues/12370",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_04bd558bd60c02d2d4ef03ee",
+      "sourceId": "datascience-br/vagas#183",
+      "title": "[Remoto] Administração de Banco de Dados Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Administração de Banco de Dados nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Administração de Banco de Dados (5 anos ou mais)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-administracao-de-banco-de-dados-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "0567f4c988042ab2257814ca2655bc67889e6795c7c745aabc511ddb468a7749",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-07T13:48:40Z",
+      "updatedAt": "2026-08-07T13:48:40Z",
+      "url": "https://github.com/datascience-br/vagas/issues/183",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_d915e03215873a31b26c0aec",
       "sourceId": "qa-brasil/vagas#1273",
-      "title": "Analista de Qualidade de Software (QA)",
+      "title": "[Remoto] Analista de Qualidade de Software (QA)",
       "description": "# Vaga: Analista de Qualidade de Software (QA)\n\n## O Cenário\n\nAmpla carteira de produtos digitais de missão crítica, com alto grau de exigência de confiabilidade, desempenho e conformidade.\n\n## A Missão\n\nProfissional **hands-on**, responsável pela **implementação** de **rotinas automatizadas de qualidade**. O foco não é inspeção manual: é **construir e operar automações** que garantam a qualidade de forma contínua, em duas frentes:\n\n1. **Quality Gates no CI/CD** — barreiras automatizadas e bloqueantes que impedem código fora do padrão de avançar.\n2. **Análise automatizada de logs** — rotinas que identificam bugs e problemas de performance nos logs do OpenSearch, de forma proativa.\n\n## Responsabilidades\n\n- **Implementar Quality Gates** como etapas bloqueantes no pipeline de CI/CD (GitLab CI): cobertura de testes, análise estática, segurança e conformidade.\n- **Definir os critérios objetivos** de aprovação/reprovação de cada portão (limiares de cobertura, complexidade, duplicação, vulnerabilidades, dívida técnica).\n- **Integrar ferramentas de qualidade** ao pipeline (SonarQube, SAST/DAST, análise de dependências).\n- **Desenvolver suítes de testes automatizados** (unitários, integração, contrato, E2E, regressão e API).\n- **Criar rotinas automatizadas de análise de logs no OpenSearch** para detectar bugs, exceções, erros recorrentes e degradações de performance em produção.\n- **Construir queries, alertas e dashboards no OpenSearch** que evidenciem padrões anômalos (picos de latência, taxas de erro, gargalos, falhas intermitentes).\n- **Padronizar** as automações via templates reutilizáveis entre os produtos da carteira.\n\n## Requisitos Obrigatórios\n\n- Experiência **prática** em automação de testes e integração de testes em pipelines de CI/CD.\n- Configuração de **Quality Gates** com ferramenta de análise estática (SonarQube ou equivalente).\n- Experiência com **GitLab CI** (ou equivalente) e pipeline como código.\n- Uso prático de **OpenSearch/Elasticsearch**: queries, dashboards e alertas.\n- Proficiência em linguagem de automação (Python, JavaScript/TypeScript ou similar).\n- Testes de API (Postman/Newman, Playwright, pytest, etc.).\n- Domínio de **Git** e fluxos de merge request com verificações automatizadas.\n\n## Diferenciais\n\n- SAST/DAST e análise de composição de software (SCA).\n- Testes de performance/carga (k6, JMeter, Locust).\n- Ambientes containerizados (Docker) e Kubernetes.\n- Práticas de DevSecOps.\n- Sistemas críticos ou ambientes regulados.\n\n---\n\n*As condições de vínculo, regime de contratação e benefícios serão detalhados no processo seletivo.*",
       "excerpt": "# Vaga: Analista de Qualidade de Software (QA) ## O Cenário Ampla carteira de produtos digitais de missão crítica, com alto grau de exigência de confiabilidade, desempenho e conformidade. ## A Missão Profissional **ha...",
       "issueState": "open",
-      "contentHash": "d3f0b7879ed08a602997fa3e112a011f6dd014142675bb38a8118307bfc83552",
+      "contentHash": "0dffedcbc6a82da6a4416bad1932b5dd1775c9789170346c9af52dc235325679",
       "repository": "qa-brasil/vagas",
       "repositoryUrl": "https://github.com/qa-brasil/vagas",
       "region": "South America",
@@ -57,7 +186,7 @@
         "url": "https://github.com/qa-brasil/vagas"
       },
       "createdAt": "2026-08-07T13:33:25Z",
-      "updatedAt": "2026-08-07T19:02:50Z",
+      "updatedAt": "2026-08-12T14:26:51Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1273",
       "sourceType": "github-issue"
     },
@@ -689,130 +818,6 @@
       "createdAt": "2026-08-06T00:16:53Z",
       "updatedAt": "2026-08-06T14:45:04Z",
       "url": "https://github.com/frontend-pt/vagas/issues/109",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c527259356534caa2a8a779c",
-      "sourceId": "backend-pt/vagas#153",
-      "title": "[Remoto] Python Backend Developer Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Python Backend Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver serviços e APIs em Python\n- Automatizar rotinas e integrações\n- Escrever testes e manter a qualidade da base\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Python (5 anos ou mais)\n- Python 3.10+\n- Django, FastAPI ou Flask\n- SQL e ORM\n- Git e pytest\n\n**Diferenciais:**\n- Docker\n- Celery ou filas assíncronas\n- Cloud (AWS ou GCP)\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-python-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "6d058219fed1950c9507c9f9aa18c94bb9dfe2f2a50224ba7b52ecb5dc065dca",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-05T21:16:08Z",
-      "updatedAt": "2026-08-06T10:14:42Z",
-      "url": "https://github.com/backend-pt/vagas/issues/153",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_694fa53d6e76634d9cafa751",
-      "sourceId": "qa-brasil/vagas#1271",
-      "title": "[Remoto] QA/Automação Pleno na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de QA/Automação nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local de trabalho\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA/Automação (de 2 a 5 anos)\n- Automação web (Cypress, Playwright ou Selenium)\n- Uma linguagem de programação\n- Teste de API (Postman ou RestAssured)\n- CI/CD\n\n**Diferenciais:**\n- Teste de performance (k6 ou JMeter)\n- Teste mobile\n- Contract testing\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 7.000 e R$ 12.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-automacao-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Descrição da vaga Vaga de QA/Automação nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 7.000 a 12.000/mês, conforme experiência. ## Local de trabalho 100% rem...",
-      "issueState": "open",
-      "contentHash": "37efc3dcd077f20ed913336fba2a2214b441cbc7c93124b49b8555840eb2b3be",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "pleno",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-05T18:27:39Z",
-      "updatedAt": "2026-08-05T18:28:14Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1271",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f56503532982a29116fdf52d",
-      "sourceId": "datascience-br/vagas#180",
-      "title": "[Remoto] Dados/SQL Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (de 2 a 5 anos)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "545758343907906bd40445a6532db955a432132e63f146d93e9fceb1dd3117b9",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-05T15:05:38Z",
-      "updatedAt": "2026-08-05T15:05:38Z",
-      "url": "https://github.com/datascience-br/vagas/issues/180",
       "sourceType": "github-issue"
     }
   ]

@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-12T09:55:15.102Z",
+  "generatedAt": "2026-08-12T15:53:28.540Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_313f1f028c4484af9bc95eb6",
+    "gh_888e68f3472e058fd086dc13",
+    "gh_0b1322c3f61e96677b40b445",
     "gh_d153714a4675d0e9559fe5e0",
     "gh_a0b79bcbb61d3dbab86b9dba",
     "gh_909635552e43694739d981b9",
@@ -20,12 +23,134 @@
     "gh_dbbdc8ff906291fbec06386f",
     "gh_5785e611680b5a017f944305",
     "gh_e317cf7cc308ab44f7d0b888",
-    "gh_db9c6f7fe477c4d3161b5714",
-    "gh_a3c53b8e6a01587253c809b1",
-    "gh_0d81283eac73d622963b319a",
-    "gh_931b3e0eeae90dadfad24f39"
+    "gh_db9c6f7fe477c4d3161b5714"
   ],
   "items": [
+    {
+      "id": "gh_313f1f028c4484af9bc95eb6",
+      "sourceId": "react-brasil/vagas#3024",
+      "title": "[Híbrido] React Native Developer Pleno na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React Native compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-native-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Flexível\n- 👨 Pleno\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 5k-10k",
+      "excerpt": "## Descrição da vaga Vaga de React Native Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência. ## Local Híbrido ou remoto, a c...",
+      "issueState": "open",
+      "contentHash": "1026a3aea9b93556ebb16d4160f63dcf9319e08ad1bcb7cd2a878d55fe72d2b3",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "⚖️ clt",
+        "🏢 remoto",
+        "⚖️ pj",
+        "👨 pleno",
+        "🏢 flexível",
+        "💰 5k-10k"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-30T21:00:25Z",
+      "updatedAt": "2026-07-30T21:00:59Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3024",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_888e68f3472e058fd086dc13",
+      "sourceId": "backend-br/vagas#12368",
+      "title": "[Remoto] Desenvolvedora Backend Plena (Afirmativa para Mulheres) | Grupo RBS",
+      "description": "No Grupo RBS, a comunicação vai além da informação, ela conecta, emociona e transforma.\nHá mais de seis décadas, seguimos lado a lado com os gaúchos, evoluindo junto com a tecnologia e com os desafios do nosso tempo.\n\nO Grupo RBS é uma das maiores empresas de comunicação do país, sendo referência no Rio Grande do Sul em TV, rádio, jornal e digital. Há mais de 65 anos, estamos conectando os gaúchos com informação, entretenimento e inovação\n\nSaiba mais sobre a gente: https://www.gruporbs.com.br/\n\n## Descrição da vaga\n\n- Desenvolver e manter APIs e serviços backend em Java e Python, garantindo performance e escalabilidade para os fluxos de aquisição e checkout de assinaturas digitais;\n- Desenvolver integrações de sistemas internos e externos, incluindo gateways de pagamento e provedores de autenticação, garantindo a comunicação e o funcionamento correto entre serviços e aplicações;\n- Implementar testes automatizados e revisão de código para garantir qualidade;\n- Colaborar com frontend, QA e produto em entregas consistentes e escaláveis;\n- Aplicar boas práticas de versionamento, documentação e pipelines de CI/CD;\n- Apoiar desenvolvedores Júnior no dia a dia, compartilhando boas práticas de desenvolvimento;\n- Contribuir com sugestões de melhoria na arquitetura de microsserviços e nas soluções de backend, com foco em performance e conversão no funil de checkout.\n\n## Local\n\n- Remoto\n\n## Requisitos\n\n**Obrigatórios:**\n\n- Graduação completa em Ciência da Computação, Análise e Desenvolvimento de Sistemas ou cursos afins;\n- Experiência sólida em programação com Java (Spring Boot) e/ou Python (Flask);\n- Experiência com APIs REST e integração com serviços externos (ex: gateways de pagamento, provedores de autenticação);\n- Experiência prática no uso de microsserviços, incluindo deploy e integração de eventos;\n- Experiência prática no uso de ferramentas de build (Maven, Gradle) e/ou empacotamento Python (pip, Poetry, virtualenv);\n- Experiência sólida no uso de Git e versionamento de código;\n- Experiência no uso de bancos de dados relacionais e não relacionais, incluindo modelagem e otimização de queries;\n- Conhecimento em computação em nuvem (preferencialmente GCP);\n- Conhecimento sobre o uso de Docker;\n- Experiência com cache e mensageria: Redis (cache e Streams/PubSub), RabbitMQ, Kafka ou Google Cloud Pub/Sub, incluindo padrões publish/subscribe e processamento assíncrono.\n\n**Diferenciais:**\n\n- Experiência com containers e orquestração (Docker, Kubernetes);\n- Vivência com CDN, balanceamento de carga e caching;\n- Experiência com integração com sistemas financeiros/gateways de pagamento e/ou APIs bancárias.\n\n## Contratação\n\nCLT\n\n## Como se candidatar\n\nQuer fazer parte dessa história?\nEnvie currículo. Estamos sempre em busca de pessoas com talento, vontade de aprender e paixão pelo que fazem.\n\nInscrição na vaga: https://gruporbs.gupy.io/jobs/11848281?jobBoardSource=gupy_public_page\n\n\n### Nível\n\n- Pleno",
+      "excerpt": "No Grupo RBS, a comunicação vai além da informação, ela conecta, emociona e transforma. Há mais de seis décadas, seguimos lado a lado com os gaúchos, evoluindo junto com a tecnologia e com os desafios do nosso tempo. ...",
+      "issueState": "open",
+      "contentHash": "b7072e6cb3a3816106a0cdbc4370b519bca0f0abcf03057612189819c5750d79",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pleno",
+        "júnior",
+        "python",
+        "flask",
+        "java",
+        "remoto",
+        "testes automatizados"
+      ],
+      "author": {
+        "id": "jeanpereiraa",
+        "name": "jeanpereiraa",
+        "handle": "jeanpereiraa",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87021236?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-07-30T16:38:05Z",
+      "updatedAt": "2026-07-31T22:00:25Z",
+      "url": "https://github.com/backend-br/vagas/issues/12368",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0b1322c3f61e96677b40b445",
+      "sourceId": "awesome-jobs/vietnam#4988",
+      "title": "🌗[ $4,500 REMOTE ] Senior Fullstack Engineer [8+ yoe] - AI native",
+      "description": "AI-Native Fullstack Engineer (Node.js / React / AI Orchestration) | SHUI 50% gross salary | Client UK, working hours 1pm-10pm VN | HĐ 6 tháng + renew.\n\n**About this role**\n- We are looking for a Senior Full Stack Engineer (React, Node & AI) who is passionate about technology, performance, and building exceptional user experiences\n- You will join a global, distributed engineering team working on the core of our platform, where much of our users’ content is created. Stability, performance, scalability, and reliability are essential to everything we build\n- Software engineering is evolving rapidly. We are looking for someone who is not only a strong and experienced engineer, but who also knows how to use AI agents and AI-assisted workflows effectively in their daily work\n- You should be comfortable using AI to accelerate development, investigate complex problems, manage large amounts of context, and work across multiple streams while maintaining a high standard of quality.\n\nUV qtam liên hệ mình zl **0332.022.055** hoặc techdy.vn@gmail.com nhé.\n\n***Các job Fullstack khác mình vẫn đang tìm UV:\n\nIT-510 | Senior | 6+ yoe | HCM, Hybrid | $ 4,500 | 5+ yoe Fullstack   NodeJS/ReactJS, tỉ lệ ReactJS từ 50% trở lên \\| Ưu tiên có nhiều kno   làm product, mindset product tốt \\| Ưu tiên kn AI \\| Domain: Legal Tech, cơ  hội onsite overseas.\nIT-303 | Lead | 10+ yoe | HN | $ 2,470 | Java + ReactJS \\|   1+ yoe lead \\| Pv 1 vòng offl \\| Domain: HR (hệ thống về quản lý Hợp đồng, quản   lý trung tâm đào tạo,...)\nIT-495 | Senior | 5+ yoe | HN, Hybrid | $ 2,280 | Pv 2 vòng   (language & tech) \\| KH Singapore. Domain về Education \\| ENG fluent giao   tiếp và làm việc trực tiếp với khách. Open làm hybird (thời gian làm cụ thể   trao đổi khi PV)\nIT-283 | Senior | 5+ yoe | Remote | $ 2,090 | React + Golang \\|   Remote giờ châu Âu \\| Test live coding \\| HĐ 6 tháng + renew (dự án dài hạn)\nIT-326 | Senior, Lead | 5+ yoe | HN | $ 1,710 | 3+ yoe AI/ GenAI \\|   KH Nhật\nIT-259 | Senior | 4+ yoe | HCM | $ 1,520 | Domain Bảo hiểm \\|   Java + frontend \\| Pv 1 onl + 1 offl \\| HĐ 6 tháng + renew\nIT-488 | Senior | 4+ yoe | HN | $ 1,520 | Onsite Bank |   Backend: Java Spring Boot (>=3 YoE) & Python (>=1 YoE) \\| Frontend:   ReactJS \\| 2+ yoe fullstack dự án Banking\nIT-299 | Middle, Senior | 4+ yoe | HN | $ 1,485 | Java, ReactJS \\| 1+   yoe banking/ insurance \\| Pv 1 onl + 1 offl\nIT-524 | Senior | 4+ yoe | HN | $ 1,370 | Pv 1 vòng \\| Onsite bank \\| Backend (java spring boot) + Frontend   (JavaScript) \\| Có kn làm việc, ứng dụng thường xuyên AI trong công việc\n\n\n\n<!--EndFragment-->\n</body>\n\n</html>",
+      "excerpt": "AI-Native Fullstack Engineer (Node.js / React / AI Orchestration) | SHUI 50% gross salary | Client UK, working hours 1pm-10pm VN | HĐ 6 tháng + renew. **About this role** - We are looking for a Senior Full Stack Engin...",
+      "issueState": "open",
+      "contentHash": "096e4d182f48cbc279f04f4e4de845f7f97c97838b18d03aa67491346f0db5a2",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "hybrid",
+        "onsite",
+        "frontend",
+        "backend",
+        "fullstack",
+        "react",
+        "node"
+      ],
+      "author": {
+        "id": "techdyvn",
+        "name": "techdyvn",
+        "handle": "techdyvn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-07-30T13:13:07Z",
+      "updatedAt": "2026-07-30T13:13:07Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4988",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d153714a4675d0e9559fe5e0",
       "sourceId": "DevOps-Brasil/Vagas#471",
@@ -741,134 +866,6 @@
       "createdAt": "2026-07-28T12:01:55Z",
       "updatedAt": "2026-07-28T12:02:24Z",
       "url": "https://github.com/frontendbr/vagas/issues/8530",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a3c53b8e6a01587253c809b1",
-      "sourceId": "golangtw/jobs#233",
-      "title": "[台北][iGaming][年薪 110–150 萬，資深者另議][週一遠端] Golang Backend Engineer｜大型遊戲平台｜EMB 擴編中",
-      "description": "# [台北｜iGaming｜年薪 110–150 萬，資深者另議｜週一遠端] Golang Backend Engineer｜大型遊戲平台｜EMB 擴編中\n\nHi，大家好，我是 EMB Mission Bound 的招募 Jocelyn 👋\n\n我們正在擴編 Golang 後端團隊，希望找到具備後端開發經驗、願意參與系統設計與產品討論的工程師。\n\n如果你不只想接收規格完成開發，也希望實際參與系統規劃、效能改善與技術討論，歡迎認識我們。\n\n---\n\n## About EMB\n\nEMB Mission Bound 為國際娛樂科技公司，台灣團隊主要負責大型跨國遊戲與平台的研發。\n\n我們的產品面向海外市場，工程團隊會接觸到平台功能、系統整合、資料處理及服務穩定性等實際課題。\n\n目前因產品與團隊持續發展，正在擴編 Golang 後端工程師。\n\n---\n\n## What You’ll Do\n\n- 使用 Golang 進行後端系統功能開發與維護\n- 與 PM、前端、QA 及其他後端工程師合作，規劃並完成新系統或新功能\n- 參與需求釐清、系統設計及技術方案討論\n- 維護及改善既有服務的穩定性、效能與可維護性\n- 撰寫必要的技術文件\n- 持續研究新技術，並與團隊分享及交流\n\n---\n\n## What We’re Looking For\n\n- 具 3 年以上軟體開發經驗\n- 具 Golang 實務開發經驗\n- 熟悉 RESTful API 或 gRPC\n- 具關聯式或非關聯式資料庫使用經驗\n- 理解物件導向、資料結構及基本系統設計概念\n- 熟悉 Git 版本控制及團隊協作流程\n- 能獨立分析問題，也願意與團隊溝通討論\n\n---\n\n## Nice to Have\n\n以下不是全部都要具備，有相關經驗會是加分：\n\n- Microservices 架構經驗\n- Docker、Kubernetes 或其他容器化技術\n- Redis、Kafka、RabbitMQ 等工具使用經驗\n- 高流量、高併發或分散式系統經驗\n- CI/CD 建置或維護經驗\n- AWS、GCP 或其他雲端平台經驗\n- 遊戲、娛樂平台或大型會員系統開發經驗\n\n---\n\n## Why EMB\n\n- 年薪保底 13.6 個月\n- 每人每年 NT$30,000 學習補助\n- 彈性上下班制度\n- 每週四提早一小時下班運動\n- 第一年即享 12 天特休\n- 12/31 跨年當天放假\n- 交通補助、托兒津貼\n- 團體保險、醫療保險及健康檢查補助\n- 免費零食、飲料與咖啡\n- 不定期部門聚餐\n\n---\n\n## Salary Range\n\n- 預計年薪：NT$1,100,000–1,500,000\n- 實際薪資將依相關經驗、技術深度及面試結果核定\n- 若具備大型系統、高併發架構、技術帶領或高度相關產業經驗，薪資可另行討論\n\n---\n\n## Position Information\n\n- 工作地點：台北市\n- 聘僱類型：正職\n- 工作模式：週二至週五辦公室上班，週一可遠端辦公（試用期後）\n- 經驗要求：3 年以上\n- 薪資範圍：年薪 NT$1,100,000–1,500,000，資深人才可另議\n- 104 職缺連結：https://www.104.com.tw/job/8w445\n\n---\n\n## Interview Process\n\n1. HR 線上面談，約 30 分鐘\n2. 專業面試（測驗30分鐘+技術團隊面談）\n3. 最終面談及條件確認\n\n實際流程可能依候選人背景彈性調整。\n\n---\n\n## How to Apply\n\n歡迎透過以下任一方式與我聯繫：\n\n- 直接透過 104 投遞履歷\n- 將履歷寄至：`jocelyn.gu@the-force.com.tw`\n- LinkedIn 私訊：`https://www.linkedin.com/in/jocelyn-gu-b89281244/`\n- 在本篇 Issue 留言，或提供方便聯絡的方式\n\n來信標題可註明：\n\nGitHub-Golang Backend Engineer-姓名\n\n即使目前沒有積極轉職，但對職缺或團隊有興趣，也歡迎先聊聊 🙂",
-      "excerpt": "# [台北｜iGaming｜年薪 110–150 萬，資深者另議｜週一遠端] Golang Backend Engineer｜大型遊戲平台｜EMB 擴編中 Hi，大家好，我是 EMB Mission Bound 的招募 Jocelyn 👋 我們正在擴編 Golang 後端團隊，希望找到具備後端開發經驗、願意參與系統設計與產品討論的工程師。 如果你不只想接收規格完成開發，也希望實際參與系統規劃、效能改善與技術討論，歡迎認識我們。 ...",
-      "issueState": "open",
-      "contentHash": "695b0abe75d47abaadc8af88680202e5e2e712d99005b7e5fb11007e49ff04e6",
-      "repository": "golangtw/jobs",
-      "repositoryUrl": "https://github.com/golangtw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "遠端",
-        "台北",
-        "100k以上"
-      ],
-      "author": {
-        "id": "jocelyngu-bit",
-        "name": "jocelyngu-bit",
-        "handle": "jocelyngu-bit",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/310079277?v=4"
-      },
-      "community": {
-        "id": "golangtw",
-        "name": "golangtw",
-        "avatarUrl": "https://github.com/golangtw.png?size=80",
-        "repository": "golangtw/jobs",
-        "url": "https://github.com/golangtw/jobs"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 1100000,
-        "max": 1500000,
-        "period": "hour"
-      },
-      "createdAt": "2026-07-28T09:06:35Z",
-      "updatedAt": "2026-08-03T11:52:47Z",
-      "url": "https://github.com/golangtw/jobs/issues/233",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0d81283eac73d622963b319a",
-      "sourceId": "react-brasil/vagas#3020",
-      "title": "[Remoto] React Native Developer Sênior na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de React Native Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com React Native compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-native-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👴 Sênior\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 15k+",
-      "excerpt": "## Descrição da vaga Vaga de React Native Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência. ## Local 100% remoto, de qual...",
-      "issueState": "open",
-      "contentHash": "16ffc8d2d83d6dc040dec4de8ecf032f6dcb20148173645d7a83c68a78dfa258",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "⚖️ clt",
-        "🏢 remoto",
-        "⚖️ pj",
-        "👴 senior",
-        "💰 15k+"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-27T23:53:03Z",
-      "updatedAt": "2026-07-27T23:53:32Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3020",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_931b3e0eeae90dadfad24f39",
-      "sourceId": "frontendbr/vagas#8529",
-      "title": "[Remoto] Next.js Front-End Developer Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Next.js) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Next.js compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-next-js-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Pleno",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "0acbb788a84957133fa2d662e235fd8f96f0124929dfcbe56c1b6a2b0ea67a56",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "clt",
-        "pj",
-        "remoto"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-27T21:43:39Z",
-      "updatedAt": "2026-07-28T19:29:37Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8529",
       "sourceType": "github-issue"
     }
   ]
