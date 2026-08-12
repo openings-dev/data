@@ -1,16 +1,96 @@
 {
-  "generatedAt": "2026-08-12T18:52:24.009Z",
+  "generatedAt": "2026-08-12T21:38:11.544Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "backend-br/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 19,
-    "closedIssues": 11
+    "openIssues": 20,
+    "closedIssues": 10
   },
-  "dataHash": "86e907295418bbd114b4015b0d3a2b4af24325ce29f6b404249442793aae64fb",
+  "dataHash": "261741988b567b8fba98cbef3810fcb89f741102dc80f1c5b5d303d47fc51fa0",
   "items": [
+    {
+      "id": "gh_e949755f9f7664c2736f2433",
+      "sourceId": "backend-br/vagas#12376",
+      "title": "[Híbrido - São Paulo/SP] Backend Developer - Rentbrella",
+      "description": "## Sobre nós:\n\nA Rentbrella é a líder global em compartilhamento de guarda-chuvas, com presença em países como Brasil, Estados Unidos e Reino Unido. Com mais de 1.300 estações e 150 mil guarda-chuvas, a empresa revolucionou a mobilidade urbana e se tornou parceira de grandes corporações, como Petrobras, Shopee, Itaú, Mercado Livre, entre outras.\n\nJunte-se ao time que está redefinindo a forma como as empresas se conectam com as pessoas! ☂️\n\n## Nossos valores:\n\n- Sonhamos o futuro, entregando no presente.\n- Desafiamos a realidade, e é isso que nos move.\n- Compartilhamos ideias e responsabilidades.\n- Recusamos e temos aversão à mediocridade\n\n## Descrição da vaga\n\nBuscamos um(a) **Backend Developer** para atuar na evolução de um sistema que impacta diretamente o negócio e a experiência de milhares de pessoas.\n\nVocê vai trabalhar em um sistema distribuído em produção, desenvolvendo novas funcionalidades, evoluindo serviços existentes e resolvendo problemas com impacto real no dia a dia. O ambiente envolve múltiplos serviços, filas assíncronas e desafios de consistência, escala e confiabilidade.\n\nSe você gosta de trabalhar em sistemas reais, lidar com desafios técnicos e construir soluções que fazem diferença para o negócio e para as pessoas, essa vaga é para você.\n\n**Principais atividades:**\n- Evoluir serviços backend em um ambiente distribuído, com impacto direto no produto;\n- Investigar e resolver bugs em produção com autonomia, método e atenção ao contexto;\n- Implementar novas funcionalidades com qualidade, respeitando a arquitetura existente;\n- Reduzir complexidade e melhorar a manutenibilidade do código ao longo do tempo;\n- Garantir confiabilidade através de testes unitários e de integração;\n- Contribuir em code reviews, elevando o padrão técnico do time;\n- Apoiar desenvolvedores menos experientes, compartilhando contexto e boas práticas.\n\n## Local\n\nHíbrido (1x por semana na Av. Angélica - São Paulo/SP)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com backend (Node.js, Python, Ruby ou similar);\n- Capacidade de trabalhar e evoluir código legado;\n- Conhecimento de APIs REST;\n- Experiência com banco de dados relacional (PostgreSQL ou similar);\n- Noções de Git e fluxo de desenvolvimento em time.\n\n**Diferenciais:**\n- Experiência com AWS (Lambda, SQS ou similares);\n- Experiência com sistemas assíncronos (filas, eventos);\n- Experiência com Redis ou estratégias de cache;\n- Experiência com observabilidade (logs, métricas, tracing);\n- Experiência em startups ou empresas de tecnologia;\n- Inglês avançado.\n\n## Benefícios\n\n- Pausa Contratual remunerada\n- Acesso ao Totalpass\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\n👉 Inscreva-se através da nossa página de carreiras: [Rentbrella - Backend Developer](https://rentbrella.inhire.app/vagas/e6574976-22dd-499b-961d-d7321bb44eee/backend-developeror-sao-paulosp-hibrido)\n\n## Labels\n\n### Nível\n\n- Pleno\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Híbrido",
+      "excerpt": "## Sobre nós: A Rentbrella é a líder global em compartilhamento de guarda-chuvas, com presença em países como Brasil, Estados Unidos e Reino Unido. Com mais de 1.300 estações e 150 mil guarda-chuvas, a empresa revoluc...",
+      "issueState": "open",
+      "contentHash": "8b786296e5357ce6ced324e5a3f1cf064c2dc186fe69686ebcbfa856dde698d3",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "sênior",
+        "python",
+        "node.js",
+        "ruby",
+        "aws",
+        "postgresql"
+      ],
+      "author": {
+        "id": "alinylelis",
+        "name": "alinylelis",
+        "handle": "alinylelis",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51384427?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-08-12T21:00:11Z",
+      "updatedAt": "2026-08-12T21:00:30Z",
+      "url": "https://github.com/backend-br/vagas/issues/12376",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1a9df0b435889620379b9e17",
+      "sourceId": "backend-br/vagas#12375",
+      "title": "[Remoto] Back-end Developer - Dmc Eventos e Viagens de Incentivo",
+      "description": "## Nossa empresa\n\nA Dmc Eventos e Viagens de Incentivo (Nsna Socio-Ambiental Viagens e Turismo LTDA) atua com eventos corporativos e viagens de incentivo, com escritório na Av. Brigadeiro Faria Lima, 1656 — Jardim Paulistano, São Paulo/SP.\n\n## Descrição da vaga\n\nBuscamos uma pessoa mão na massa, com autonomia e capacidade de transformar problemas de negócio em soluções funcionais.\n\nA pessoa irá atuar no desenvolvimento e evolução de aplicações web, integrações, automações e soluções apoiadas por IA, participando do processo de ponta a ponta: entendimento da demanda, implementação, validação e acompanhamento em produção.\n\nO escopo cobre back-end e front-end: modelagem e regras de acesso em banco, integrações via API e webhook, automações, e a aplicação web que consome tudo isso.\n\n### Responsabilidades\n\n- Desenvolver, evoluir e manter aplicações web;\n- Criar e manter integrações entre sistemas utilizando APIs, webhooks e automações;\n- Desenvolver e manter workflows com n8n;\n- Trabalhar com bancos de dados, incluindo modelagem, consultas e regras de acesso;\n- Utilizar ferramentas de IA no planejamento, desenvolvimento e validação;\n- Testar e validar funcionalidades;\n- Investigar problemas, corrigir falhas e implementar melhorias;\n- Acompanhar as soluções em produção;\n- Documentar regras de negócio, integrações e decisões relevantes.\n\n## Local\n\nRemoto, híbrido ou presencial — a combinar.\n\nEscritório: Av. Brigadeiro Faria Lima, 1656 / 10º andar - CJ D — Jardim Paulistano, São Paulo/SP, CEP 01451-918.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência prática no desenvolvimento de aplicações web;\n- Conhecimento de bancos de dados, preferencialmente PostgreSQL e/ou Supabase;\n- Experiência com APIs, webhooks e integração entre sistemas;\n- Conhecimento de Git/GitHub e fluxos de versionamento;\n- Capacidade de compreender regras de negócio e transformá-las em soluções técnicas;\n- Autonomia para conduzir demandas e investigar problemas.\n\n**Desejáveis:**\n- Experiência com ferramentas de IA aplicadas ao desenvolvimento, como Claude Code, Cursor, Codex ou similares;\n- Vivência com plataformas como Lovable, Replit ou similares;\n- Familiaridade com automações e workflows, preferencialmente utilizando n8n.\n\n**Diferenciais:**\n- Integração com LLMs e desenvolvimento de agentes de IA;\n- MCP (Model Context Protocol);\n- Automações e workflows mais complexos;\n- Testes automatizados e observabilidade;\n- Desenvolvimento de produtos SaaS;\n- Sistemas e operações relacionados a eventos.\n\n**Não é necessário dominar toda a stack.** Valorizamos principalmente capacidade de resolver problemas, autonomia, experiência prática e facilidade para aprender novas tecnologias.\n\n## Benefícios\n\nA negociar.\n\n## Contratação\n\nCLT ou PJ, a combinar.\n\n## Como se candidatar\n\nPreencha o formulário: https://forms.gle/hA8EjrSURP7zLxUT9\n\n## Tempo médio de feedbacks\n\nEnviamos retorno em 7 a 15 dias após cada etapa do processo.\n\n## Labels\n\n### Nível\n- Pleno\n\n### Regime\n- PJ\n- CLT\n\n### Alocação\n- Remoto\n- Híbrido\n- Presencial",
+      "excerpt": "## Nossa empresa A Dmc Eventos e Viagens de Incentivo (Nsna Socio-Ambiental Viagens e Turismo LTDA) atua com eventos corporativos e viagens de incentivo, com escritório na Av. Brigadeiro Faria Lima, 1656 — Jardim Paul...",
+      "issueState": "open",
+      "contentHash": "5c2c9f82e2330d9c5a8ac37e41c56bfee208124d772e235798794749534bef91",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto",
+        "presencial",
+        "testes automatizados",
+        "postgresql",
+        "git"
+      ],
+      "author": {
+        "id": "imdouglasoliveira",
+        "name": "imdouglasoliveira",
+        "handle": "imdouglasoliveira",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63203428?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-08-12T20:34:34Z",
+      "updatedAt": "2026-08-12T20:34:54Z",
+      "url": "https://github.com/backend-br/vagas/issues/12375",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_65c65688ee475d3031fb80d3",
       "sourceId": "backend-br/vagas#12374",
@@ -887,43 +967,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_4ddecaa127bf972ec715444c",
-      "sourceId": "backend-br/vagas#12291",
-      "title": "[100% Remoto] Product Owner - BotCity",
-      "description": "## Nossa empresa\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n## Descrição da vaga\n\nThe Product Owner will be responsible for driving Sentinel's product execution by translating the CTO's strategic direction into a clear, well-prioritized backlog that keeps the engineering squad focused and moving fast toward product-market fit. This person will own the full execution layer — maintaining sprint-ready user stories, removing blockers in real time, and tracking the delivery metrics that drive continuous improvement in quality and predictability. This role is built for a strong product professional who is comfortable navigating ambiguity in an early-stage environment, obsessed with delivery quality, and data-driven enough to let metrics guide process decisions — not gut feel. This position reports directly to the CTO.\n\n## 100% Remoto\n\n\n## Requisitos\n\n**Obrigatórios:**\n\n- Bachelor's degree in Information Technology, Computer Science, Business, or related field.\n- Prior experience (3+ years) in product ownership or a closely adjacent role in a tech company, ideally operating as the primary or sole PO on a product.\n- Strong experience working in B2B SaaS market.\n- Deep understanding of the software development lifecycle — from code changes flowing through development, staging, and production environments, through QA evaluation and release.\n- Proven ability to independently own a full product backlog, including stories, acceptance criteria, dependencies and prioritization.\n- Solid experience running Agile/Scrum methodologies.\n- Proficient with Jira for project, backlog and sprint management.\n- Prior experience in an early-stage, high-growth, and fast-paced startup environment.\n- Experience working with MS Office/Excel, Google Suite, Notion.\n- Ability to travel as needed to support events and meet the team.\n- Portuguese - Fluent.\n- English - Advanced.\n\n\n**Desejáveis:**\n\n- Exposure to enterprise software, automation, AI agents, or developer-facing products.\n- Experience working directly with a CTO or VP Engineering as primary stakeholder.\n- Familiarity with product analytics tools (e.g., Mixpanel, Amplitude, Metabase).\n- Working familiarity with GitHub or version control workflows.\n\n\n## Incentivos\n\n- Competitive compensation.\n- Paid time off (30 days per year).\n- 100% remote and flexible hours.\n- Caju benefits card.\n- Conexa health benefits.\n- Opportunity to work in a global team with teams in San Francisco and São Paulo.\n- Política de Time off\n- Seguro de Vida\n\n\n## Contratação\n\nPJ a combinar\n\n## Como se candidatar\n\nLink para cadastro: https: //jobs.quickin.io/botcity/jobs/69e780cdb282430013fc5f8a?src=Github\n\n## Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 1 semana após cada processo.",
-      "excerpt": "## Nossa empresa BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
-      "issueState": "closed",
-      "contentHash": "a88fd723c01fb0a89f7d053ddfefda19571e28159709602c49d0fec0a9877fc6",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "python",
-        "remoto",
-        "stale",
-        "solid"
-      ],
-      "author": {
-        "id": "Claudia-S-O-M",
-        "name": "Claudia-S-O-M",
-        "handle": "Claudia-S-O-M",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/269568568?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-06-19T14:53:49Z",
-      "updatedAt": "2026-07-23T02:27:11Z",
-      "url": "https://github.com/backend-br/vagas/issues/12291",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_87bb27ffa16c5faf9b5559d2",
       "sourceId": "backend-br/vagas#12290",
       "title": "[Remoto] Full-stack Engineer (.NET, React & UI Styling) - USD-Strider",
@@ -1081,52 +1124,6 @@
       "createdAt": "2026-05-28T18:32:38Z",
       "updatedAt": "2026-08-01T02:30:18Z",
       "url": "https://github.com/backend-br/vagas/issues/12247",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2d9849eace549284f519bf16",
-      "sourceId": "backend-br/vagas#12245",
-      "title": "[Remoto] Full-stack Engineer (Net+React)",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET + React)\n🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai\n\nVocê é apaixonado(a) por desenvolvimento Full-stack e busca uma oportunidade internacional recebendo em dólar? 💻🌍\n\nUma empresa americana do segmento Pet Health está buscando um(a) Full-stack Engineer com forte experiência em .NET e React para atuar em projetos globais de alta escala e impacto.\n\n💰 Salário: USD 5K–6.5K/mês\n🏢 Empresa dos EUA | 51-250 colaboradores\n📍 100% Remoto\n🗣 Inglês B2+\n\n🔥 Stack Principal:\n✔ .NET Framework\n✔ .NET Core / .NET 6+\n✔ ASP.NET\n✔ React.js\n✔ Entity Framework & EF Core\n✔ SQL & Relational Databases\n✔ APIs Back-end\n✔ Front-end Development\n✔ UI Styling\n✔ NoSQL\n\n🎯 Requisitos:\n✅ +5 anos de experiência Full-stack\n✅ Forte experiência com APIs, bancos de dados e interfaces front-end\n✅ Domínio em React (components, state, lifecycle)\n✅ Conhecimento profundo em SQL e modelagem relacional\n✅ Experiência com padrões de projeto e boas práticas de desenvolvimento\n✅ Inglês avançado para comunicação internacional\n\nDiferenciais:\n Startup Experience\n Git & CI/CD Workflows\nAWS Cloud\nExperiência com bancos NoSQL\n Vivência em ambientes escaláveis e modernos\n\nEssa oportunidade é perfeita para profissionais que desejam crescimento internacional, projetos desafiadores e atuação em um ambiente inovador e global. 🚀\n\n📩 Cadastre-se agora e faça parte de um time internacional de tecnologia!\nhttps://app.onstrider.com/r/claudiaantunes?job=bWlkLWZ1bGwtc3RhY2stZW5naW5lZXItLm5ldC1yZWFjdC5qcy0wZTQ3N2FmYz9yZWZlcnJhbD1jbGF1ZGlhYW50dW5lcw==",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | Full-stack Engineer (.NET + React) 🌎 Remoto para profissionais da Argentina, Brasil, Colômbia, México, Peru, Chile, Costa Rica e Paraguai Você é apaixonado(a) por desenvolvimento Full-...",
-      "issueState": "open",
-      "contentHash": "c55474b45116f4814e98970eee59fa3a56f57d2417e543c6348bd9d25283d6c1",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        ".net",
-        "remoto",
-        "aws",
-        "sql",
-        "git",
-        "asp",
-        "stale",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 5000,
-        "max": 6500,
-        "period": "month"
-      },
-      "createdAt": "2026-05-25T16:54:47Z",
-      "updatedAt": "2026-07-23T19:39:47Z",
-      "url": "https://github.com/backend-br/vagas/issues/12245",
       "sourceType": "github-issue"
     },
     {

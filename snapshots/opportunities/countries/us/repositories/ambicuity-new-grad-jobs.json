@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T01:07:33.457Z",
+  "generatedAt": "2026-08-12T21:38:11.544Z",
   "country": "United States",
   "countryCode": "US",
   "region": "North America",
@@ -9,8 +9,45 @@
     "openIssues": 1,
     "closedIssues": 8
   },
-  "dataHash": "4200771dc2dd52f2748ebcb7d9c6cacaa11ad48d4b8d81b56ddbd67407488671",
+  "dataHash": "b9cfc1300ca9ecc1227f681b01e812ee1149d296df87d5d1a067305607986f14",
   "items": [
+    {
+      "id": "gh_a3c177710816112726954215",
+      "sourceId": "ambicuity/New-Grad-Jobs#357",
+      "title": "Coverage gap: 55 unconfigured employer boards, and the 2027 cohort is filtered out entirely",
+      "description": "## Problem\n\nAn audit of a recent new-grad job export against `config.yml` turned up two independent coverage gaps.\n\n**Source data:** a 359-posting / 168-employer new-grad CSV export (`jobs.csv`, columns `company,title,location,has_remote,is_agency,published,expired,experience_level,experience_years,salary_min,salary_max,salary_currency,views,clicks,foo_url,apply_url`), covering postings published 2026-08-01 → 2026-08-12. Each row carries the employer's real `apply_url`, which identifies their ATS — that is what makes the export usable as a *sourcing* list. No job data from the export would be imported; the scraper still fetches everything itself.\n\n### Gap 1 — employers we don't scrape\n\nNormalizing all 168 employer names and diffing against `config.yml`:\n\n| | Count |\n|---|---|\n| Already configured | 20 |\n| Not configured | 148 |\n| …of those, running a board on a supported ATS (Greenhouse / Lever / Ashby / Workday) | **55** |\n| …of those, on an ATS with no fetcher in this repo | 93 |\n\nThe 55 include employers that ought to be on this board already: **Jane Street**, **Point72**, **DRW**, **Nextdoor**, **PathAI**, **The Home Depot**, **GE Aerospace**, **The Walt Disney Company**, **RBC**, **Philips**, **Luma AI**, **Sunday Robotics**.\n\nWorth flagging: `docs/removed-companies.md` currently records Jane Street under *\"Not added — quant firms use custom careers sites or recruiter-only flows\"*. That is no longer true — `boards-api.greenhouse.io/v1/boards/janestreet/jobs` returns 232 open reqs. Same for Point72.\n\n### Gap 2 — the 2027 cohort is filtered out entirely\n\n`filtering.new_grad_signals` lists cohort years up to `2026 start` / `2026`. Campus reqs open roughly 18 months ahead, so the **2027 cycle is live right now** and every one of these titles is dropped on the floor:\n\n```\nSoftware Engineer Graduate (AML-Engine-Orchestration) - 2027 Start\nResearch Engineer Graduate (Monetization Technology - Business Integrity) - 2027 Start\nLarge Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start\nBackend Inference Runtime Engineer Graduate (AML Inference) - 2027 Start\nML Infra Engineer Graduate (Ads Infra) - 2027 Start\n```\n\nTwo things are missing:\n\n1. **The cohort year.** `2027` / `2027 start` are absent from `new_grad_signals` *and* from the hardcoded `strong_new_grad_signals` list in `filter_jobs()` (`scripts/update_jobs.py`) — the two lists have to move together each cycle.\n2. **Bare `graduate`.** The config has `new graduate`, `graduate program`, and `university grad`, but not `graduate` on its own, so the `\"<Role> Graduate (<Team>)\"` title shape that ByteDance, TikTok, and similar campus programs use matches nothing.\n\nRunning the current filter over the export: **116 of 359 postings are rejected for having no new-grad signal**, and 38 of those rejections are legitimate 2027-cohort or `Graduate`-suffixed roles.\n\n## Proposed fix\n\n1. Add the 55 live-verified boards to `config.yml`, each probed before adding.\n2. Add `2027 start`, `2027`, and `graduate` to `filtering.new_grad_signals`; mirror the cohort years into `strong_new_grad_signals`; add 2027 JobSpy search terms.\n3. Keep interns excluded — 2027 *Summer* intern reqs must stay filtered out.\n4. Add a regression test so a bulk config edit can't reintroduce duplicate slugs, a wrong-source URL, or a Workday CXS API URL where the careers URL belongs.\n5. Log the sweep in `docs/removed-companies.md`, including the 93 employers deliberately left out and the ATS each one uses, so the next sweep doesn't re-litigate them.\n\n## Out of scope\n\nThe remaining 93 employers need new ATS fetchers, not config entries. By volume: iCIMS (13 employers), Oracle Fusion/Taleo (8), Workable (6), SmartRecruiters (6), ADP (6), Paylocity (5), plus ~30 on fully custom career sites.\n\nThe single biggest gap is **ByteDance — 58 of the export's 359 postings**, all on `joinbytedance.com`, which exposes no public board API. TikTok's Workday tenant is already configured and covers TikTok-branded reqs only. iCIMS or SmartRecruiters would be the highest-yield fetcher to write next.",
+      "excerpt": "## Problem An audit of a recent new-grad job export against `config.yml` turned up two independent coverage gaps. **Source data:** a 359-posting / 168-employer new-grad CSV export (`jobs.csv`, columns `company,title,l...",
+      "issueState": "closed",
+      "contentHash": "8cedd7f142f2eed2e0c3e76b2a2e7eea2fbb2121b569b986124b22f03e47755e",
+      "repository": "ambicuity/New-Grad-Jobs",
+      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "type: enhancement",
+        "help wanted",
+        "good first issue",
+        "priority: medium",
+        "enhancement"
+      ],
+      "author": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "handle": "ambicuity",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
+      },
+      "community": {
+        "id": "ambicuity",
+        "name": "ambicuity",
+        "avatarUrl": "https://github.com/ambicuity.png?size=80",
+        "repository": "ambicuity/New-Grad-Jobs",
+        "url": "https://github.com/ambicuity/New-Grad-Jobs"
+      },
+      "createdAt": "2026-08-12T20:57:33Z",
+      "updatedAt": "2026-08-12T21:12:29Z",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/357",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_bee25d48c1d08bdb89cd3956",
       "sourceId": "ambicuity/New-Grad-Jobs#355",
@@ -223,40 +260,6 @@
       "createdAt": "2026-04-03T17:07:25Z",
       "updatedAt": "2026-07-15T20:03:22Z",
       "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/230",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5347d095871ffa9b1d72e47b",
-      "sourceId": "ambicuity/New-Grad-Jobs#49",
-      "title": "[Beginner]: Make `normalize_date_string` accept an optional `reference_date` parameter",
-      "description": "### Description\nCurrently, `normalize_date_string` uses `datetime.now()` directly. This makes it hard to test deterministically. Add an optional `reference_date` parameter that defaults to `None`.\n\n### Why it matters\nInjecting the current time via a parameter allows tests to pass fixed dates, eliminating flaky tests around midnight boundaries.\n\n### Acceptance Criteria\n- [ ] Add `reference_date: datetime = None` parameter\n- [ ] Use `reference_date or datetime.now()` inside the function\n- [ ] Update tests if necessary\n- [ ] Passes `pre-commit run --all-files`",
-      "excerpt": "### Description Currently, `normalize_date_string` uses `datetime.now()` directly. This makes it hard to test deterministically. Add an optional `reference_date` parameter that defaults to `None`. ### Why it matters I...",
-      "issueState": "closed",
-      "contentHash": "8e860d05bc5cdb6961bfda06af4e61129a975910e76e428a4331a67ae8da2ea6",
-      "repository": "ambicuity/New-Grad-Jobs",
-      "repositoryUrl": "https://github.com/ambicuity/New-Grad-Jobs",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "help wanted",
-        "good first issue"
-      ],
-      "author": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "handle": "ambicuity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44251619?v=4"
-      },
-      "community": {
-        "id": "ambicuity",
-        "name": "ambicuity",
-        "avatarUrl": "https://github.com/ambicuity.png?size=80",
-        "repository": "ambicuity/New-Grad-Jobs",
-        "url": "https://github.com/ambicuity/New-Grad-Jobs"
-      },
-      "createdAt": "2026-03-02T23:39:31Z",
-      "updatedAt": "2026-07-15T20:02:01Z",
-      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/49",
       "sourceType": "github-issue"
     },
     {
