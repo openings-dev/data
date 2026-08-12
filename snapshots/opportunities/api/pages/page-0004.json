@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-11T21:38:40.748Z",
+  "generatedAt": "2026-08-12T04:42:42.686Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_d915e03215873a31b26c0aec",
     "gh_a14a5a09c5006f3cb6f430d6",
     "gh_0f26dbe06939045f34aac939",
     "gh_e7bde92acf5bddd5ab15d538",
@@ -22,10 +23,44 @@
     "gh_d5ce5a5c2fe2c54164720b3b",
     "gh_c527259356534caa2a8a779c",
     "gh_694fa53d6e76634d9cafa751",
-    "gh_f56503532982a29116fdf52d",
-    "gh_dfcbe50e8ae29a4cf5d215b3"
+    "gh_f56503532982a29116fdf52d"
   ],
   "items": [
+    {
+      "id": "gh_d915e03215873a31b26c0aec",
+      "sourceId": "qa-brasil/vagas#1273",
+      "title": "Analista de Qualidade de Software (QA)",
+      "description": "# Vaga: Analista de Qualidade de Software (QA)\n\n## O Cenário\n\nAmpla carteira de produtos digitais de missão crítica, com alto grau de exigência de confiabilidade, desempenho e conformidade.\n\n## A Missão\n\nProfissional **hands-on**, responsável pela **implementação** de **rotinas automatizadas de qualidade**. O foco não é inspeção manual: é **construir e operar automações** que garantam a qualidade de forma contínua, em duas frentes:\n\n1. **Quality Gates no CI/CD** — barreiras automatizadas e bloqueantes que impedem código fora do padrão de avançar.\n2. **Análise automatizada de logs** — rotinas que identificam bugs e problemas de performance nos logs do OpenSearch, de forma proativa.\n\n## Responsabilidades\n\n- **Implementar Quality Gates** como etapas bloqueantes no pipeline de CI/CD (GitLab CI): cobertura de testes, análise estática, segurança e conformidade.\n- **Definir os critérios objetivos** de aprovação/reprovação de cada portão (limiares de cobertura, complexidade, duplicação, vulnerabilidades, dívida técnica).\n- **Integrar ferramentas de qualidade** ao pipeline (SonarQube, SAST/DAST, análise de dependências).\n- **Desenvolver suítes de testes automatizados** (unitários, integração, contrato, E2E, regressão e API).\n- **Criar rotinas automatizadas de análise de logs no OpenSearch** para detectar bugs, exceções, erros recorrentes e degradações de performance em produção.\n- **Construir queries, alertas e dashboards no OpenSearch** que evidenciem padrões anômalos (picos de latência, taxas de erro, gargalos, falhas intermitentes).\n- **Padronizar** as automações via templates reutilizáveis entre os produtos da carteira.\n\n## Requisitos Obrigatórios\n\n- Experiência **prática** em automação de testes e integração de testes em pipelines de CI/CD.\n- Configuração de **Quality Gates** com ferramenta de análise estática (SonarQube ou equivalente).\n- Experiência com **GitLab CI** (ou equivalente) e pipeline como código.\n- Uso prático de **OpenSearch/Elasticsearch**: queries, dashboards e alertas.\n- Proficiência em linguagem de automação (Python, JavaScript/TypeScript ou similar).\n- Testes de API (Postman/Newman, Playwright, pytest, etc.).\n- Domínio de **Git** e fluxos de merge request com verificações automatizadas.\n\n## Diferenciais\n\n- SAST/DAST e análise de composição de software (SCA).\n- Testes de performance/carga (k6, JMeter, Locust).\n- Ambientes containerizados (Docker) e Kubernetes.\n- Práticas de DevSecOps.\n- Sistemas críticos ou ambientes regulados.\n\n---\n\n*As condições de vínculo, regime de contratação e benefícios serão detalhados no processo seletivo.*",
+      "excerpt": "# Vaga: Analista de Qualidade de Software (QA) ## O Cenário Ampla carteira de produtos digitais de missão crítica, com alto grau de exigência de confiabilidade, desempenho e conformidade. ## A Missão Profissional **ha...",
+      "issueState": "open",
+      "contentHash": "d3f0b7879ed08a602997fa3e112a011f6dd014142675bb38a8118307bfc83552",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "typescript",
+        "python",
+        "java"
+      ],
+      "author": {
+        "id": "gloriagalembeck",
+        "name": "gloriagalembeck",
+        "handle": "gloriagalembeck",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/256614960?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "createdAt": "2026-08-07T13:33:25Z",
+      "updatedAt": "2026-08-07T19:02:50Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1273",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a14a5a09c5006f3cb6f430d6",
       "sourceId": "DevOps-Brasil/Vagas#487",
@@ -778,48 +813,6 @@
       "createdAt": "2026-08-05T15:05:38Z",
       "updatedAt": "2026-08-05T15:05:38Z",
       "url": "https://github.com/datascience-br/vagas/issues/180",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dfcbe50e8ae29a4cf5d215b3",
-      "sourceId": "datascience-br/vagas#179",
-      "title": "[Remoto] Ciência de Dados Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Ciência de Dados nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Formular hipóteses e validar com dados\n- Construir modelos preditivos e medir impacto\n- Comunicar resultado para área de negócio\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Ciência de Dados (de 2 a 5 anos)\n- Python (pandas, scikit-learn)\n- Estatística e testes de hipótese\n- SQL\n- Visualização de dados\n\n**Diferenciais:**\n- MLOps\n- Cloud\n- Deep learning\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-ciencia-de-dados-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "42cbf18e6c897f2f5136d248b81046d378a38dba10a22c9530415b9e1169f27b",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-05T12:11:31Z",
-      "updatedAt": "2026-08-05T12:11:31Z",
-      "url": "https://github.com/datascience-br/vagas/issues/179",
       "sourceType": "github-issue"
     }
   ]
