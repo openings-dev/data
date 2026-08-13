@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-12T21:38:11.544Z",
+  "generatedAt": "2026-08-13T01:15:54.702Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_7db278ad2b9ec71226abf85b",
     "gh_74ccd3caee0d31411e74c415",
     "gh_e949755f9f7664c2736f2433",
     "gh_c3db156ca7cb1edb34c7d060",
@@ -22,10 +23,48 @@
     "gh_6c28935610c9ad061c668c9f",
     "gh_237d354ae3994e01bd1b16e8",
     "gh_964f7518197f173149fa676f",
-    "gh_3e1b125cdac06aaff57ade17",
-    "gh_bc35fe4cbf8d938b3eb46cb5"
+    "gh_3e1b125cdac06aaff57ade17"
   ],
   "items": [
+    {
+      "id": "gh_7db278ad2b9ec71226abf85b",
+      "sourceId": "backend-br/vagas#12377",
+      "title": "[Híbrido - São Paulo] 🧡 Itaú -  Tech Lead Engenheiro de Software CRM Back-End Sênior",
+      "description": "# 🚀 Tech Lead Engenheiro de Software CRM Back-End Senior\n\n## 🔗 [INSCREVA-SE AQUI](https://vemproitau.gupy.io/jobs/11646237)\nhttps://vemproitau.gupy.io/jobs/11646237\n\nBuscamos uma pessoa **Sênior** com base sólida em desenvolvimento e arquitetura utilizando ferramentas da **AWS**.  \nVocê será referência técnica no desenho e evolução de soluções escaláveis e seguras, conectando agentes a serviços e dados do ecossistema, com foco em qualidade, governança, observabilidade e entrega de valor ao negócio em produtos de **CRM**.  \n\n✨ A experiência na criação de agentes de IA será um diferencial.\n\n---\n\n## 🎯 Responsabilidades e atribuições\nEstamos buscando uma pessoa para a posição de **Pessoa Engenheira de Software**, que queira se desenvolver e aprender, compartilhar, colaborar e inovar, entregando valor para todos os nossos clientes.\n\n---\n\n## 🛠 Responsabilidades (Tech Lead Sênior)\n- 👨‍💻 Liderar tecnicamente o desenho, evolução e sustentação de arquiteturas em **AWS**, definindo padrões de engenharia e conduzindo decisões técnicas com foco em escalabilidade, resiliência, segurança, performance e otimização de custos.  \n- 🔧 Atuar de forma *hands-on* no desenvolvimento de componentes críticos (APIs, microsserviços, integrações, pipelines e automações), apoiando o time na evolução do código e disseminando boas práticas.  \n- 🤖 Projetar, implementar e evoluir soluções baseadas em **IA Generativa**, incluindo agentes de IA, workflows, tool/action calling, integração com sistemas corporativos, arquiteturas **RAG** e bases de conhecimento, preferencialmente utilizando o ecossistema AWS (Amazon Bedrock e Bedrock Agents).  \n- 🛡 Definir e implementar práticas de **IA Responsável**, garantindo segurança, governança e conformidade, com controles para proteção de dados sensíveis e mitigação de riscos.  \n- 📊 Liderar a estratégia de **observabilidade**, definindo métricas, logs, tracing, dashboards e indicadores de confiabilidade (SLIs/SLOs).  \n- 📚 Realizar revisões técnicas de arquitetura e código, atuando como referência para o time por meio de mentorias, documentação técnica e disseminação das melhores práticas.  \n- 🤝 Trabalhar em conjunto com Arquitetura, Produto, Segurança, Dados e demais áreas de tecnologia.  \n- 🔍 Acompanhar continuamente a evolução do mercado de **IA Generativa**, sistemas multiagentes, plataformas cloud e engenharia de software.  \n\n---\n\n## 💡 Conhecimentos e Experiência Técnica\n- Experiência em soluções de **IA Generativa**, com criação e evolução de agentes de IA em AWS ou plataformas equivalentes.  \n- Vivência prática com **Amazon Bedrock** (Agents, Knowledge Bases, Guardrails).  \n- Integração de agentes de IA com APIs, microsserviços e sistemas corporativos.  \n- Conhecimento em arquiteturas **RAG**, construção de bases de conhecimento e recuperação de contexto.  \n- Implementação de práticas de **IA Responsável** (governança, segurança, proteção de dados, mitigação de riscos).  \n- Estratégias de **observabilidade** para aplicações de IA (monitoramento, métricas, logs, tracing, LLM Evals).  \n- Engenharia de software aplicada a soluções de IA (arquitetura, APIs, microsserviços, CI/CD, testes automatizados e cloud).  \n- Linguagem Go Lang no desenvlvimento de aplicações\n\n---\n\n📋 Requisitos e qualificações\n- 🎓 Formação: Superior Completo em Ciência da Computação, Análise de Sistemas, Tecnologia da Informação ou Sistemas de Informação.  \n- 🌍 Idioma: Inglês Avançado.  \n- 🖥 Tecnologia:  \n  - AWS (Lambda, ECS/Fargate, API Gateway, DynamoDB, S3, SNS, SQS, EventBridge, KMS, Glue)  \n  - Amazon Bedrock (Agents, Knowledge Bases, Guardrails)  \n  - Linguagens: **Python**, **Go Lang**  \n  - Mensageria/Eventos: **Kafka**, Event Streaming  \n- 📜 Certificação: AWS (Solution Architect Associate/Professional, Developer ou Security).",
+      "excerpt": "# 🚀 Tech Lead Engenheiro de Software CRM Back-End Senior ## 🔗 [INSCREVA-SE AQUI](https://vemproitau.gupy.io/jobs/11646237) https://vemproitau.gupy.io/jobs/11646237 Buscamos uma pessoa **Sênior** com base sólida em d...",
+      "issueState": "open",
+      "contentHash": "f373c84d50f73f77906c48363c834b1e70dd93948a12c97827b622194e461acc",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "python",
+        "go",
+        "aws",
+        "testes automatizados",
+        "híbrido",
+        "ci/cd"
+      ],
+      "author": {
+        "id": "scacula",
+        "name": "scacula",
+        "handle": "scacula",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18074893?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-08-12T22:33:11Z",
+      "updatedAt": "2026-08-12T22:33:30Z",
+      "url": "https://github.com/backend-br/vagas/issues/12377",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_74ccd3caee0d31411e74c415",
       "sourceId": "SimplifyJobs/New-Grad-Positions#2954",
@@ -295,7 +334,7 @@
       },
       "companyName": "Dmc Eventos e Viagens de Incentivo",
       "createdAt": "2026-08-12T20:34:06Z",
-      "updatedAt": "2026-08-12T20:34:29Z",
+      "updatedAt": "2026-08-12T21:45:20Z",
       "url": "https://github.com/frontendbr/vagas/issues/8539",
       "sourceType": "github-issue"
     },
@@ -749,46 +788,6 @@
       "createdAt": "2026-08-11T18:00:12Z",
       "updatedAt": "2026-08-11T19:02:51Z",
       "url": "https://github.com/backend-pt/vagas/issues/159",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_bc35fe4cbf8d938b3eb46cb5",
-      "sourceId": "backend-br/vagas#12371",
-      "title": "[Remoto logo após Híbrido] Back-end Engineer Python - Jcal Consultoria",
-      "description": "🚀 OPORTUNIDADE INTERNACIONAL | SENIOR BACKEND ENGINEER (PYTHON) 🇺🇸🇧🇷\n\nEngenheiro(a) de Software Sênior com vasta bagagem técnica (+8 anos), especialista em Python e interessado em atuar em uma escala global com remuneração em Dólar?\nEstamos selecionando um profissional de nível Sênior / Principal para integrar a engenharia de uma healthtech norte-americana em expansão.\n\n💡 SOBRE A POSIÇÃO\nProcuramos um perfil autônomo, com mentalidade de dono e capacidade de tomada de decisão arquitetural. É o papel ideal para quem possui bagagem sólida, busca autonomia real e entrega código limpo, escalável e seguro do conceito até a produção.\n\n💰 REMUNERAÇÃO: Até $5.000 USD/mês\n📍 LOCALIZAÇÃO: Atuação Inicial 100% Remota (necessária disponibilidade para modelo Híbrido 2x/semana em Curitiba - PR)\n⏱️ MODELO: Full-time\n🇺🇸 IDIOMA: Inglês Avançado / Fluente (comunicação diária e direta com o time dos EUA)\n🎯 REQUISITOS OBRIGATÓRIOS (FILTRO FIXO)\n🛑 8+ anos de experiência comprovada em Engenharia de Software Backend\n\n\n✅ Domínio Especialista em Python: Construção de APIs RESTful escaláveis, microsserviços e ecossistemas assíncronos\n✅ Engenharia de Dados: Manipulação avançada, modelagem e otimização em bancos SQL e NoSQL\n✅ Qualidade de Código & Testes: Disciplina rigorosa com testes automatizados (unitários, integração e e2e)\n✅ DevOps & Observabilidade: Experiência com pipelines CI/CD, métricas, suporte em produção e análise de logs\n✅ Ownership & Cultura sem QA: Capacidade de garantir a qualidade e resiliência das entregas de ponta a ponta sem dependência de um time dedicado de testes\n✅ Inglês Avançado/Fluente: Fluência técnica e comportamental para reuniões e decisões estratégicas com os EUA\n✅ Formação Superior: Ciência da Computação, Engenharia de Software ou áreas correlatas\n\n🤩 DIFERENCIAIS (NÃO OBRIGATÓRIOS)\n✅ Experiência prévia no setor de Healthcare nos EUA ou com regulamentações de dados sensíveis (HIPAA / PHI)\n✅ Sólidos conhecimentos no ecossistema de nuvem AWS\n✅ Histórico de decisões arquiteturais pragmáticas e resolução de gargalos de alta complexidade\n\n📌 RESPONSABILIDADES TÉCNICAS\n🔹 Desenvolver e evoluir microsserviços e APIs Python de alta escala e resiliência\n🔹 Definir e aplicar padrões arquiteturais e boas práticas de desenvolvimento\n🔹 Garantir a automação contínua de testes e entregas seguras via CI/CD\n🔹 Atuar ativamente no monitoramento, observabilidade e suporte das aplicações em produção\n\n\n📩 COMO SE CANDIDATAR\nAtende ao requisito fixo de +8 anos e deseja fazer parte dessa operação? Chame através deste link abaixo e envie seu CV em inglês PDF \nhttps://wa.me/5519978164262?text=Ol%C3%A1%0ASeja%20muito%20bem%20vindo(a)%0AVoc%C3%AA%20entrou%20em%20contato%20para%20conversarmos%20sobre%20oportunidades,%20logo%20mais%20irei%20te%20atender\n\n\n\n#Python #SeniorBackendEngineer #SoftwareEngineering #PythonJobs #VagasTI #TrabalhoRemoto #USJobs #Healthtech #AWS #APIs #StaffEngineer #CuritibaTI #SeniorDeveloper",
-      "excerpt": "🚀 OPORTUNIDADE INTERNACIONAL | SENIOR BACKEND ENGINEER (PYTHON) 🇺🇸🇧🇷 Engenheiro(a) de Software Sênior com vasta bagagem técnica (+8 anos), especialista em Python e interessado em atuar em uma escala global com re...",
-      "issueState": "open",
-      "contentHash": "166998227f71528d0489ac04916e67cacd4471dab1dcb3094bc460fdb2bc82ee",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "python",
-        "remoto",
-        "especialista",
-        "aws",
-        "testes automatizados",
-        "sql",
-        "híbrido"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-08-11T17:50:53Z",
-      "updatedAt": "2026-08-11T17:51:29Z",
-      "url": "https://github.com/backend-br/vagas/issues/12371",
       "sourceType": "github-issue"
     }
   ]
