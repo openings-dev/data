@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-14T18:43:15.234Z",
+  "generatedAt": "2026-08-14T21:18:29.265Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_9cb67a2721464da325885d3e",
+    "gh_625e897674c7ad5ce2b1c998",
+    "gh_2b3b294f5c43270afc77c6b1",
+    "gh_03792cbce3f5bc6e7ba5e16c",
     "gh_6c8e2af7cfff871fdcdaa2b4",
     "gh_3712b3449a25015d16d51633",
     "gh_79c77aa7ac54c371b858f925",
@@ -19,13 +23,158 @@
     "gh_c3db156ca7cb1edb34c7d060",
     "gh_fd4eb4764107d34b3e241c13",
     "gh_c161b1fbeb9fa58b59ff95f9",
-    "gh_1a9df0b435889620379b9e17",
-    "gh_6880f9e9a53ece011528f17f",
-    "gh_4416bda8f852c5ab171cc62e",
-    "gh_65c65688ee475d3031fb80d3",
-    "gh_13a4c16d56f29c6c8e1ad75e"
+    "gh_1a9df0b435889620379b9e17"
   ],
   "items": [
+    {
+      "id": "gh_9cb67a2721464da325885d3e",
+      "sourceId": "backend-pt/vagas#161",
+      "title": "[Remoto] Elixir/Phoenix Backend Developer Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Elixir/Phoenix Backend Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações concorrentes em Elixir\n- Construir APIs e interfaces em tempo real com Phoenix\n- Cuidar de tolerância a falhas com OTP\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Elixir/Phoenix (de 2 a 5 anos)\n- Elixir e OTP (GenServer, Supervisor)\n- Phoenix e Ecto\n- PostgreSQL\n- Testes com ExUnit\n\n**Diferenciais:**\n- Phoenix LiveView\n- Kubernetes\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-elixir-phoenix-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "67b94c5b70df25f3060512ba858b9d1aa2dcd87321d30b13358a933814ad9f8f",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "pleno",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-14T21:14:08Z",
+      "updatedAt": "2026-08-14T21:15:17Z",
+      "url": "https://github.com/backend-pt/vagas/issues/161",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_625e897674c7ad5ce2b1c998",
+      "sourceId": "qa-brasil/vagas#1279",
+      "title": "[Híbrido] QA Performance Pleno na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA Performance nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local de trabalho\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA Performance (de 2 a 5 anos)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 7.000 e R$ 12.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-performance-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA Performance nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 7.000 a 12.000/mês, conforme experiência. ## Local de trabalho Híbrid...",
+      "issueState": "open",
+      "contentHash": "0052f143a69976cc60ac7945792210e97d9600c5e35e233a9e9c24795f4b40c4",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-14T21:00:05Z",
+      "updatedAt": "2026-08-14T21:00:37Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1279",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2b3b294f5c43270afc77c6b1",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9680",
+      "title": "Internships not being added",
+      "description": "### Improvement\n\nHi simplify! I'm curious when things update regarding adding new internships. I added one about two weeks ago (9668) and it still has not been resolved. Is there anyone I can directly contact about this?",
+      "excerpt": "### Improvement Hi simplify! I'm curious when things update regarding adding new internships. I added one about two weeks ago (9668) and it still has not been resolved. Is there anyone I can directly contact about this?",
+      "issueState": "open",
+      "contentHash": "ae531543e18c67bd70bbdc0bbbc5313953b668e696e63a6748a9e86d9cc1a610",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "enhancement"
+      ],
+      "author": {
+        "id": "Zaku-Seven",
+        "name": "Zaku-Seven",
+        "handle": "Zaku-Seven",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/229045745?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-08-14T19:43:37Z",
+      "updatedAt": "2026-08-14T19:44:09Z",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9680",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_03792cbce3f5bc6e7ba5e16c",
+      "sourceId": "SimplifyJobs/Summer2026-Internships#9679",
+      "title": "SCM software developer internship",
+      "description": "### Link to Internship Posting\n\nhttps://grnh.se/abfli75k1us\n\n### Company Name\n\nSteven's Capital Management\n\n### Internship Title\n\nSoftware Engineer\n\n### Location\n\nRadnor, PA\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOffers Sponsorship\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\n_No response_\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Internship Posting https://grnh.se/abfli75k1us ### Company Name Steven's Capital Management ### Internship Title Software Engineer ### Location Radnor, PA ### What term(s) is this internship offered for? S...",
+      "issueState": "open",
+      "contentHash": "6fd1812784934d5c3a1ee3f87a222d8969c865a135df24df016d365d61aef30a",
+      "repository": "SimplifyJobs/Summer2026-Internships",
+      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_internship"
+      ],
+      "author": {
+        "id": "Zaku-Seven",
+        "name": "Zaku-Seven",
+        "handle": "Zaku-Seven",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/229045745?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/Summer2026-Internships",
+        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
+      },
+      "createdAt": "2026-08-14T19:41:39Z",
+      "updatedAt": "2026-08-14T19:41:39Z",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9679",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_6c8e2af7cfff871fdcdaa2b4",
       "sourceId": "datascience-br/vagas#197",
@@ -467,7 +616,7 @@
         "url": "https://github.com/backend-br/vagas"
       },
       "createdAt": "2026-08-12T21:00:11Z",
-      "updatedAt": "2026-08-13T04:18:14Z",
+      "updatedAt": "2026-08-14T20:56:10Z",
       "url": "https://github.com/backend-br/vagas/issues/12376",
       "sourceType": "github-issue"
     },
@@ -629,156 +778,6 @@
       "createdAt": "2026-08-12T20:34:34Z",
       "updatedAt": "2026-08-12T20:34:54Z",
       "url": "https://github.com/backend-br/vagas/issues/12375",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6880f9e9a53ece011528f17f",
-      "sourceId": "frontendbr/vagas#8539",
-      "title": "[São Paulo] Front-End Developer na Dmc Eventos e Viagens de Incentivo",
-      "description": "## Nossa empresa\n\nA Dmc Eventos e Viagens de Incentivo (Nsna Socio-Ambiental Viagens e Turismo LTDA) atua com eventos corporativos e viagens de incentivo, com escritório na Av. Brigadeiro Faria Lima, 1656 — Jardim Paulistano, São Paulo/SP.\n\n## Descrição da vaga\n\nBuscamos uma pessoa mão na massa, com autonomia e capacidade de transformar problemas de negócio em soluções funcionais.\n\nA pessoa irá atuar no desenvolvimento e evolução de aplicações web, integrações, automações e soluções apoiadas por IA, participando do processo de ponta a ponta: entendimento da demanda, implementação, validação e acompanhamento em produção.\n\nO dia a dia é majoritariamente de front-end — evolução de uma aplicação web em produção — com abertura para atuar também em integrações, automações e banco de dados.\n\n### Responsabilidades\n\n- Desenvolver, evoluir e manter aplicações web;\n- Criar e manter integrações entre sistemas utilizando APIs, webhooks e automações;\n- Desenvolver e manter workflows com n8n;\n- Trabalhar com bancos de dados, incluindo modelagem, consultas e regras de acesso;\n- Utilizar ferramentas de IA no planejamento, desenvolvimento e validação;\n- Testar e validar funcionalidades;\n- Investigar problemas, corrigir falhas e implementar melhorias;\n- Acompanhar as soluções em produção;\n- Documentar regras de negócio, integrações e decisões relevantes.\n\n## Local\n\nRemoto, híbrido ou presencial — a combinar.\n\nEscritório: Av. Brigadeiro Faria Lima, 1656 / 10º andar - CJ D — Jardim Paulistano, São Paulo/SP, CEP 01451-918.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência prática no desenvolvimento de aplicações web;\n- Conhecimento de bancos de dados, preferencialmente PostgreSQL e/ou Supabase;\n- Experiência com APIs, webhooks e integração entre sistemas;\n- Conhecimento de Git/GitHub e fluxos de versionamento;\n- Capacidade de compreender regras de negócio e transformá-las em soluções técnicas;\n- Autonomia para conduzir demandas e investigar problemas.\n\n**Desejáveis:**\n- Experiência com ferramentas de IA aplicadas ao desenvolvimento, como Claude Code, Cursor, Codex ou similares;\n- Vivência com plataformas como Lovable, Replit ou similares;\n- Familiaridade com automações e workflows, preferencialmente utilizando n8n.\n\n**Diferenciais:**\n- Integração com LLMs e desenvolvimento de agentes de IA;\n- MCP (Model Context Protocol);\n- Automações e workflows mais complexos;\n- Testes automatizados e observabilidade;\n- Desenvolvimento de produtos SaaS;\n- Sistemas e operações relacionados a eventos.\n\n**Não é necessário dominar toda a stack.** Valorizamos principalmente capacidade de resolver problemas, autonomia, experiência prática e facilidade para aprender novas tecnologias.\n\n## Benefícios\n\nA negociar.\n\n## Contratação\n\nCLT ou PJ, a combinar.\n\n## Como se candidatar\n\nPreencha o formulário: https://forms.gle/hA8EjrSURP7zLxUT9\n\n## Tempo médio de feedbacks\n\nEnviamos retorno em 7 a 15 dias após cada etapa do processo.\n\n## Labels\n\n#### Alocação\n- Remoto\n- Híbrido\n- Alocado\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Pleno",
-      "excerpt": "## Nossa empresa A Dmc Eventos e Viagens de Incentivo (Nsna Socio-Ambiental Viagens e Turismo LTDA) atua com eventos corporativos e viagens de incentivo, com escritório na Av. Brigadeiro Faria Lima, 1656 — Jardim Paul...",
-      "issueState": "open",
-      "contentHash": "ab64ccf80ea44185c201d7a5da0f73a7212cafb14c634f284ffaa1a120b9e69f",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "clt",
-        "pj",
-        "remoto",
-        "alocado",
-        "são paulo",
-        "híbrido"
-      ],
-      "author": {
-        "id": "imdouglasoliveira",
-        "name": "imdouglasoliveira",
-        "handle": "imdouglasoliveira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/63203428?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Dmc Eventos e Viagens de Incentivo",
-      "createdAt": "2026-08-12T20:34:06Z",
-      "updatedAt": "2026-08-12T21:45:20Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8539",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4416bda8f852c5ab171cc62e",
-      "sourceId": "frontendbr/vagas#8538",
-      "title": "[Remoto] IT jobs (Jcal Consultoria)",
-      "description": "🚀 OPORTUNIDADES PARA PROFISSIONAIS DE TECNOLOGIA | LATAM 🌎💻\nSe você é profissional de Tecnologia e está buscando novas oportunidades, inclusive para trabalhar com empresas internacionais, confira os links abaixo e veja as vagas disponíveis! 🚀\n🌎 Muitas empresas estão contratando talentos da América Latina para posições remotas, inclusive oportunidades com remuneração em USD.\n💻 Existem oportunidades para diversas áreas de tecnologia, como:\n🔹 Software Engineering\n 🔹 Full Stack / Front-End / Back-End\n 🔹 Data & AI\n 🔹 DevOps & Cloud\n 🔹 Product & Tech\n 🔹 QA\n 🔹 UX/UI\n 🔹 E muito mais!\n📌 CONFIRA AS OPORTUNIDADES NOS LINKS ABAIXO:\n🔗 https://app.onstrider.com/r/claudiaantunes\n🔗 https://lnkd.in/dPBtsp-n\n🔗 https://lnkd.in/dkgYDgJd\n🔗 https://platform.letsremotify.com/talent/sign-up?invite_code=NDE5NjYxMjkyMmU3&invited_by_recruiter=true\n💡 DICA: mantenha seu currículo e perfil profissional atualizados, destaque suas principais tecnologias e experiências e candidate-se às vagas que realmente estejam alinhadas ao seu nível de experiência e stack.\n🌎 Seu próximo desafio profissional pode estar em uma empresa internacional!\n📢 Compartilhe este post com outros profissionais de tecnologia que estão buscando oportunidades remotas.\nBoa sorte nas candidaturas! 🚀💻\n#TechJobs #VagasTI #Tecnologia #TechRecruitment #RemoteJobs #RemoteWork #LATAMJobs #InternationalJobs #SoftwareEngineer #DeveloperJobs #TechCareers #TrabalhoRemoto #VagasRemotas #RecebaEmDolar #CarreiraInternacional #Hiring #OpenToWork #ITJobs\n\n\nVamos nos conectar? \nhttps://www.linkedin.com/in/thisclaudia",
-      "excerpt": "🚀 OPORTUNIDADES PARA PROFISSIONAIS DE TECNOLOGIA | LATAM 🌎💻 Se você é profissional de Tecnologia e está buscando novas oportunidades, inclusive para trabalhar com empresas internacionais, confira os links abaixo e ...",
-      "issueState": "open",
-      "contentHash": "49a8432048d562c525e6ff9d5e9c2f778cc01921f92b09a3b73dd8bb3de6bcd0",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "devops",
-        "data"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "createdAt": "2026-08-12T18:25:12Z",
-      "updatedAt": "2026-08-12T18:25:12Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8538",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_65c65688ee475d3031fb80d3",
-      "sourceId": "backend-br/vagas#12374",
-      "title": "[Remoto] IT jobs (Jcal Consultoria)",
-      "description": "🚀 OPORTUNIDADES PARA PROFISSIONAIS DE TECNOLOGIA | LATAM 🌎💻\nSe você é profissional de Tecnologia e está buscando novas oportunidades, inclusive para trabalhar com empresas internacionais, confira os links abaixo e veja as vagas disponíveis! 🚀\n🌎 Muitas empresas estão contratando talentos da América Latina para posições remotas, inclusive oportunidades com remuneração em USD.\n💻 Existem oportunidades para diversas áreas de tecnologia, como:\n🔹 Software Engineering\n 🔹 Full Stack / Front-End / Back-End\n 🔹 Data & AI\n 🔹 DevOps & Cloud\n 🔹 Product & Tech\n 🔹 QA\n 🔹 UX/UI\n 🔹 E muito mais!\n📌 CONFIRA AS OPORTUNIDADES NOS LINKS ABAIXO:\n🔗 https://app.onstrider.com/r/claudiaantunes\n🔗 https://lnkd.in/dPBtsp-n\n🔗 https://lnkd.in/dkgYDgJd\n🔗 https://platform.letsremotify.com/talent/sign-up?invite_code=NDE5NjYxMjkyMmU3&invited_by_recruiter=true\n💡 DICA: mantenha seu currículo e perfil profissional atualizados, destaque suas principais tecnologias e experiências e candidate-se às vagas que realmente estejam alinhadas ao seu nível de experiência e stack.\n🌎 Seu próximo desafio profissional pode estar em uma empresa internacional!\n📢 Compartilhe este post com outros profissionais de tecnologia que estão buscando oportunidades remotas.\nBoa sorte nas candidaturas! 🚀💻\n#TechJobs #VagasTI #Tecnologia #TechRecruitment #RemoteJobs #RemoteWork #LATAMJobs #InternationalJobs #SoftwareEngineer #DeveloperJobs #TechCareers #TrabalhoRemoto #VagasRemotas #RecebaEmDolar #CarreiraInternacional #Hiring #OpenToWork #ITJobs\n\n\nVamos nos conectar? \nhttps://www.linkedin.com/in/thisclaudia",
-      "excerpt": "🚀 OPORTUNIDADES PARA PROFISSIONAIS DE TECNOLOGIA | LATAM 🌎💻 Se você é profissional de Tecnologia e está buscando novas oportunidades, inclusive para trabalhar com empresas internacionais, confira os links abaixo e ...",
-      "issueState": "open",
-      "contentHash": "49a8432048d562c525e6ff9d5e9c2f778cc01921f92b09a3b73dd8bb3de6bcd0",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remoto"
-      ],
-      "author": {
-        "id": "Claudiaantunesdelima",
-        "name": "Claudiaantunesdelima",
-        "handle": "Claudiaantunesdelima",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101112479?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-08-12T18:24:16Z",
-      "updatedAt": "2026-08-12T18:24:42Z",
-      "url": "https://github.com/backend-br/vagas/issues/12374",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_13a4c16d56f29c6c8e1ad75e",
-      "sourceId": "datascience-br/vagas#193",
-      "title": "[Remoto] Administração de Banco de Dados Pleno, 100% Remoto na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Administração de Banco de Dados Pleno, 100% Remoto nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Administração de Banco de Dados (de 2 a 5 anos)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-administracao-de-banco-de-dados-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "257a69cae1fbd70ab2ac60ce7c59f3caffdec07cebfe69849fdab26f49b52dbc",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-12T18:00:37Z",
-      "updatedAt": "2026-08-12T18:00:37Z",
-      "url": "https://github.com/datascience-br/vagas/issues/193",
       "sourceType": "github-issue"
     }
   ]

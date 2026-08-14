@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-08-14T09:53:16.873Z",
+  "generatedAt": "2026-08-14T21:18:29.265Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 27,
-    "openIssues": 23,
-    "closedIssues": 4
+    "openIssues": 24,
+    "closedIssues": 3
   },
-  "dataHash": "e123bb9c02bbd25b281dd4189f67654b00afe6f294cf4d89259972b8092d86a8",
+  "dataHash": "104053788a636202e7d46dcc36610119bb726199244cde1fc48eb430236116b3",
   "items": [
+    {
+      "id": "gh_9cb67a2721464da325885d3e",
+      "sourceId": "backend-pt/vagas#161",
+      "title": "[Remoto] Elixir/Phoenix Backend Developer Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Elixir/Phoenix Backend Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações concorrentes em Elixir\n- Construir APIs e interfaces em tempo real com Phoenix\n- Cuidar de tolerância a falhas com OTP\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Elixir/Phoenix (de 2 a 5 anos)\n- Elixir e OTP (GenServer, Supervisor)\n- Phoenix e Ecto\n- PostgreSQL\n- Testes com ExUnit\n\n**Diferenciais:**\n- Phoenix LiveView\n- Kubernetes\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-elixir-phoenix-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "67b94c5b70df25f3060512ba858b9d1aa2dcd87321d30b13358a933814ad9f8f",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "pleno",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-14T21:14:08Z",
+      "updatedAt": "2026-08-14T21:15:17Z",
+      "url": "https://github.com/backend-pt/vagas/issues/161",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_08848277f327cf34dba20b8a",
       "sourceId": "backend-pt/vagas#160",
@@ -1044,43 +1085,6 @@
       "createdAt": "2025-05-12T13:08:31Z",
       "updatedAt": "2025-06-03T12:05:56Z",
       "url": "https://github.com/backend-pt/vagas/issues/132",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f1bd3646ba88ab88c0066068",
-      "sourceId": "backend-pt/vagas#131",
-      "title": "[Portugal] Web Developer @ Alts Digital",
-      "description": "### Nossa empresa\n\n⭐ About Alts Digital\n\nAlts Digital is a dynamic, fast-growing, and bootstrapped company that thrives on its self-sufficiency. We specialize in guiding online users to the best services tailored to their needs, thus driving customer acquisition for leading brands within the iGaming and Financial sectors.\n\nBased in Portugal, we operate as a 100% remote company with a global presence. Our diverse team, consisting of over +40 members from 10 different countries, serves thousands of customers worldwide.\n\nAs fellow founders, engineers, SEO managers, designers, dog and cat lovers, adventurers, coders, and parents, we are driven by our shared passion for success. We like to move fast, think ambitiously, and are excited to expand our team by welcoming a new Full-stack Developer.\n\n### Descrição da vaga\n\n✔️ What You’ll Do\n\n- Apply your skills in coding by making all our websites Google Friendly.\n- Implement new features in our existing websites & devise proper technical solutions for them.\n- Keep up with new technological trends, present ideas for new implementations, any ideas to improve our current systems (or processes) will always be looked at.\n- Troubleshoot, detect and evaluate issues.\n- Devise appropriate solutions for new products within the existing constraints, and execute those solutions.\n- Work directly with our Tech Lead to support the technical development of our team, fostering a collaborative work environment to enhance overall team performance.\n\n\n\n### Local\n\nBased on Portugal (remote work)\n\n### Requisitos\n\n🧠 Your Attitude & Background\n\n- At least 5 years working in Web Development\n- Strong understanding of PHP back-end development\n- Experience with Laravel or/and Wordpress\n- Knowledge of how to interact with RESTful APIs and formats (JSON, XML)\n- Proficient understanding of code versioning tools (such as Git, SVN, and Mercurial)\n- Experience with SASS & Bootstrap (or any other CSS Framework).\n- Excellent communication and teamwork skills but also the ability to work alone.\n- Strong technical team leadership skills\n- Knowledge of technical SEO is a plus!\n- Any additional experience with React/Angular is also a plus!\n\n\n### Benefícios\n\n🎁 Benefits You’ll Receive\n\n- 100% remote startup environment with all its ups and downs. Mostly ups.\n- Salary: up to €50k per year, depending on your skill level, experience and location.\n- Working 100% remotely with a flexible schedule. We measure results, not hours.\n- Workation — a mix of work and vacation. Once a year, we find a cool place to work and have fun together.\n- Alts Ville: We have a house in the stunning Madeira Island available for all employees who want to spend some time with friends, colleagues, and family 🏝️\n- Health Insurance. We value the well-being and health of our team. To ensure that everyone feels cared for, we offer Health Insurance 🏥\n- 1.000€ / year - financial support in other areas of your life, e.g., professional development.\n- We offer a 100€ monthly voucher to use in co-working spaces. Working remotely doesn’t have to mean working from home every day.\n\n### Contratação\n\nContrato à termo certo\n\n### Como se candidatar\n\nSend your application here: https://jobs.altsdigital.com/o/full-stack-developer-2\n\n### Tempo médio de feedbacks\n\nentre 2 e 3 dias\n\n### Keywords\n\nphp wordpress laravel\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [x] Contrato\n- [ ] Freela\n- [ ] RV\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa ⭐ About Alts Digital Alts Digital is a dynamic, fast-growing, and bootstrapped company that thrives on its self-sufficiency. We specialize in guiding online users to the best services tailored to the...",
-      "issueState": "closed",
-      "contentHash": "e066b13f08e2abd82979102440eb7c4e66b17d4d50cbd76378882a23cca60f25",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "remoto",
-        "full time",
-        "sênior",
-        "contrato"
-      ],
-      "author": {
-        "id": "maria-coelho-recruiter",
-        "name": "maria-coelho-recruiter",
-        "handle": "maria-coelho-recruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/189983924?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2025-02-19T17:10:33Z",
-      "updatedAt": "2025-04-27T01:16:34Z",
-      "url": "https://github.com/backend-pt/vagas/issues/131",
       "sourceType": "github-issue"
     }
   ]

@@ -1,16 +1,58 @@
 {
-  "generatedAt": "2026-08-13T12:52:42.219Z",
+  "generatedAt": "2026-08-14T21:18:29.265Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "qa-brasil/vagas",
   "totals": {
     "opportunities": 30,
-    "openIssues": 17,
-    "closedIssues": 13
+    "openIssues": 18,
+    "closedIssues": 12
   },
-  "dataHash": "3b69dfd1100a83c448dfb7961f3908571e4d8cb7681f5381be7a415f2132f808",
+  "dataHash": "427108d1e5405b03feda6e72e7ce06f61bb679596c0498269e39e071a070ab23",
   "items": [
+    {
+      "id": "gh_625e897674c7ad5ce2b1c998",
+      "sourceId": "qa-brasil/vagas#1279",
+      "title": "[Híbrido] QA Performance Pleno na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA Performance nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local de trabalho\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA Performance (de 2 a 5 anos)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 7.000 e R$ 12.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-performance-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA Performance nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 7.000 a 12.000/mês, conforme experiência. ## Local de trabalho Híbrid...",
+      "issueState": "open",
+      "contentHash": "0052f143a69976cc60ac7945792210e97d9600c5e35e233a9e9c24795f4b40c4",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-14T21:00:05Z",
+      "updatedAt": "2026-08-14T21:00:37Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1279",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_35f5431b23f507685b06036c",
       "sourceId": "qa-brasil/vagas#1278",
@@ -734,42 +776,6 @@
       "createdAt": "2026-05-21T11:12:53Z",
       "updatedAt": "2026-08-01T03:23:05Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1255",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_8cf64c1923e1f0333fce888c",
-      "sourceId": "qa-brasil/vagas#1254",
-      "title": "[REMOTO] QA Junior na Port Louis",
-      "description": "## Descrição da vaga\n\n    • Documentação, criação e expansão de casos de teste (end-to-end e integração).\n    • Geração de massa de dados para testes.\n    • Documentação e report de bugs encontrados durante os testes.\n    • Validação de correções.\n    • Validação de cards dos squads para entrada em produção.\n    • Gerenciar ambientes de Alpha e Beta.\n    • Criar e dar manutenção nos pipelines de deploy.\n\n## Local de trabalho\n- 100% Remoto\n\n## Requisitos da vaga\n\n    • Conhecimento em JavaScript e TypeScript.\n    • Experiência com Jest e Cypress.\n    • Conhecimento básico em banco de dados para consultas (SQL e PostgreSQL).\n    • Familiaridade com os diferentes tipos de testes de software.\n    • Compreensão de metodologias ágeis (Scrum) e do papel do QA nesse contexto.\n    • Excelente comunicação e habilidade para interagir com equipes de desenvolvimento.\n    • Proatividade, organização e alta capacidade de aprendizado.\n    • Dinamismo e adaptabilidade.\n\n**Diferenciais**\n- Experiência com K6\n- Projetos open source\n- Conhecimento em docker\n\n## Forma de contratação\n\nCLT\n\n## Benefícios da empresa\n\n- Plano de saúde Sul América\n- Seguro de vida\n- VA\n\n## Sobre a empresa\n\nNa Port Louis, valorizamos a contratação de desenvolvedores juniores em sua primeira oportunidade, visando seu crescimento em conjunto conosco e seu contínuo desenvolvimento profissional.\n\nOperamos com projetos ágeis, constituídos por squads de 5 a 9 membros, utilizando a metodologia Scrum. Realizamos sprints, com rituais de planning, dailies, review e revisão de roadmap.\n\n        ◦ Tecnologia de ponta para automação de processos (modelo SaaS);\n        ◦ Produto inovador de auditorias jurídicas com portfolio robusto de clientes;\n        ◦ Tecnologia comprovada;\n        ◦ Excelência técnica: obsessão por qualidade + senioridade;\n        ◦ Foco em longo prazo e comprometimento com resultados.\n\nNossa missão: \nAlavancar a tecnologia para que as pessoas realizem trabalhos com alto valor cognitivo.\n\n## Como se candidatar\n\n- Por favor envie um email para recrutamento@portlouis.inf.br com seu CV anexado - Enviar no assunto: Vaga QA\n\n## Labels\n- CLT\n- Júnior\n- Remoto",
-      "excerpt": "## Descrição da vaga • Documentação, criação e expansão de casos de teste (end-to-end e integração). • Geração de massa de dados para testes. • Documentação e report de bugs encontrados durante os testes. • Validação ...",
-      "issueState": "closed",
-      "contentHash": "86c546cdab056a1fdf03b8dd24ab2b1f6ffa2f8ce42ec2d467ee79f80331945f",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "remoto",
-        "júnior"
-      ],
-      "author": {
-        "id": "andregodeiro",
-        "name": "andregodeiro",
-        "handle": "andregodeiro",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/108381369?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "companyName": "Plano de saúde Sul América",
-      "createdAt": "2026-05-04T11:34:40Z",
-      "updatedAt": "2026-05-12T21:04:23Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1254",
       "sourceType": "github-issue"
     },
     {
