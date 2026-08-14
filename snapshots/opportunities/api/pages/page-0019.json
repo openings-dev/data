@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-13T15:52:54.271Z",
+  "generatedAt": "2026-08-14T04:43:44.692Z",
   "page": 19,
   "pageSize": 20,
   "nextPage": "api/pages/page-0020.json",
   "ids": [
+    "gh_b0b25f9f51d0e7f1c185dc60",
+    "gh_8d3d4b455493191722317dda",
     "gh_777d6953c094c4c77cffa586",
     "gh_8ac6e6406bab29dc70c10f65",
     "gh_03fa03119cda6972a7f24c60",
@@ -21,11 +23,85 @@
     "gh_e69a66e5d4446a6782d444c6",
     "gh_aa22c4eb1affddd40ba3887a",
     "gh_c68291eef5db5e9cb0e89fc3",
-    "gh_4f81b09fdec825d1ef022048",
-    "gh_06719c8cd8772c434625bed6",
-    "gh_1210ec3be1fbd6b0e753f052"
+    "gh_4f81b09fdec825d1ef022048"
   ],
   "items": [
+    {
+      "id": "gh_b0b25f9f51d0e7f1c185dc60",
+      "sourceId": "pythonjobs/jobs#442",
+      "title": "Lead Graphics Engineer",
+      "description": "🎮 **We’re hiring a Rendering Engine Lead to redefine how buildings are visualized.**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission: **use software to change the way we build**—turning complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n\nOur platform digests massive BIM models, uses **AI** to generate logical assembly sequences, and visualizes them in a **custom 3D engine**.\nWe’re building the **operating system for the next generation of construction**.\n\n📊 **Proof, not promises**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nThe impact: less re-work, compressed schedules, and reduced carbon emissions ♻️\n\n🚀 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the software team to ship the **next-gen Pilot** and make **digital assembly the industry standard**.\n\n🧠 **Your Mission**\nTake full ownership of our **web-based rendering engine**.\nYou’ll lead the strategic transition from **Autodesk Viewer** to a fully custom, high-performance rendering solution—defining how massive construction datasets are visualized and interacted with in the browser.\n\n🔧 **What you’ll solve**\n\n* Architect and scale a modular rendering engine using **Three.js + TypeScript**\n* Push browser rendering to its limits (1M+ objects) with batching, instancing, Draco compression, and dynamic **LOD streaming**\n* Build advanced AEC features: **4D simulations**, sectioning, markup, spatial filtering\n* Optimize **GraphQL data pipelines** for decoupled geometry and metadata loading\n* Own visualization infrastructure, **data sovereignty**, and security\n\n💡 **Who you are**\n\n* Mid–Senior level (5+ years) in **Three.js / Babylon.js / WebGL**\n* Deep understanding of **GPU pipelines, GLSL shaders, and WebGL internals**\n* Hands-on experience with **CAD/BIM data** (Revit, Rhino, IFC)\n* Strong foundation in **3D math** (matrices, vectors, quaternions)\n* Fluent in **JavaScript / TypeScript** (C# a plus)\n\n🧪 **A day in the role**\nMorning: Profiling a 500MB BIM model crashing mobile browsers 📱\nMid-day: Writing a custom **GLSL shader** for an X-ray visualization mode 👻\nAfternoon: Designing GraphQL queries to fetch only critical metadata and speed up dashboards ⚡\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **live job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real, physical-world impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 If you love graphics, performance, and building tools that leave the screen and enter the real world, we should talk.\n\n👉 **Apply via our Portal**: https://www.maestro-tech.com/careers/\n\n#Hiring #GraphicsEngineering #ThreeJS #WebGL #RenderingEngine\n#TechCareers #StartupJobs #ConstructionTech #BIM #3DEngine\n#AI #DigitalConstruction #TurinJobs",
+      "excerpt": "🎮 **We’re hiring a Rendering Engine Lead to redefine how buildings are visualized.** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission: **use software to change t...",
+      "issueState": "open",
+      "contentHash": "0d84fb5b015e00d47d2157863446e725f18b7c22a28aa459b35954c3eea1f18a",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "typescript",
+        "java",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:26:42Z",
+      "updatedAt": "2026-01-19T17:26:42Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/442",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_8d3d4b455493191722317dda",
+      "sourceId": "pythonjobs/jobs#441",
+      "title": "We're hiring!! Senior Full-Stack Engineer (High-Performance Web)",
+      "description": "🚀 **We’re hiring builders of the future (in code).**\n\nMaestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓\nOur mission is simple and ambitious: **use software to change the way we build**. We turn complex design data into clear, real-time instructions for the people (and soon machines 🤖) assembling our world.\n\n🛠 **The Product**\n**Maestro Pilot** is a web-based platform that converts BIM/CAD models, engineering inputs, and site feedback into:\n\n* Interactive **3D assembly manuals**\n* **Real-time completion tracking** for clients\n  We digest massive BIM models, use **AI** to generate logical assembly sequences, and visualize everything in a custom **3D engine**.\n  We’re building the **operating system for next-generation construction**.\n\n📍 **Proof, not slides**\nWe bootstrapped by proving the tech in the field.\nIn just 24 months, Maestro has delivered **mass-timber and steel projects** across Europe and the US 🌍\nResults? Less re-work, faster schedules, and lower carbon impact ♻️\n\n🔭 **What’s next**\nManufacturers are lining up for enterprise trials.\nNow we’re expanding the **software team** to ship the next-gen Pilot and make **digital assembly the industry default**.\n\n💻 **Your Mission**\nYou’ll build the application backbone of a high-performance **Single-Page Application (SPA)** that connects massive geometric datasets (1M+ objects) directly to the user’s fingertips.\n\nYou’ll work on:\n\n* Advanced **UI architecture** (React, SSR/RSC, hydration, rendering strategies)\n* **Complex data visualization** (datagrids, flowcharts, 3D overlays)\n* **State management** at scale (Redux, Zustand, XState)\n* **Algorithms & data structures** (graphs, trees, BIM traversal)\n* **Performance-first engineering** (benchmarking, custom lightweight solutions)\n\n🤝 **How you’ll collaborate**\n\n* With the **Graphics Lead** to sync React UI with a custom Three.js engine\n* With the **AI Engineer** to visualize AI agents, streaming outputs, and interactive chat interfaces\n\n🧠 **The reality**\nFrom optimizing recursive SQL queries in the morning, to refactoring heavy UI components in the afternoon, your work directly impacts live construction sites.\n\n🎁 **What we offer**\n\n* Real ownership: your code ships to **active job-sites**\n* Steep growth: work side-by-side with founders\n* Equity for top performers 💎\n* Startup energy with **real-world, physical impact**\n\n📍 **Location**: Turin (hybrid)\n\n🔥 Join us early. Ship code that leaves the screen and enters the real world.\n\n👉 **Apply via our Dev Portal** https://www.maestro-tech.com/careers/\n\n#Hiring #FrontendEngineering #ReactJobs #TechCareers #StartupJobs #DevJobs\n#3DRendering #BIM #AIEngineering #ConstructionTech #DigitalTransformation\n``",
+      "excerpt": "🚀 **We’re hiring builders of the future (in code).** Maestro is a startup born from research at **MIT** and the **University of Cambridge** 🧠🎓 Our mission is simple and ambitious: **use software to change the way w...",
+      "issueState": "open",
+      "contentHash": "2367233a10e8829a9be227eed3a900dabdce66bec80ee55cfc69c606c58e3625",
+      "repository": "pythonjobs/jobs",
+      "repositoryUrl": "https://github.com/pythonjobs/jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "hybrid",
+        "frontend",
+        "react",
+        "senior",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "sandra614",
+        "name": "sandra614",
+        "handle": "sandra614",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255935107?v=4"
+      },
+      "community": {
+        "id": "pythonjobs",
+        "name": "pythonjobs",
+        "avatarUrl": "https://github.com/pythonjobs.png?size=80",
+        "repository": "pythonjobs/jobs",
+        "url": "https://github.com/pythonjobs/jobs"
+      },
+      "createdAt": "2026-01-19T17:25:09Z",
+      "updatedAt": "2026-07-22T19:05:02Z",
+      "url": "https://github.com/pythonjobs/jobs/issues/441",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_777d6953c094c4c77cffa586",
       "sourceId": "f2etw/jobs#1165",
@@ -662,89 +738,6 @@
       "createdAt": "2025-11-07T19:49:01Z",
       "updatedAt": "2025-11-07T19:49:01Z",
       "url": "https://github.com/phpdevbr/vagas/issues/1320",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_06719c8cd8772c434625bed6",
-      "sourceId": "Empregos-dev/Vagas-dev#111",
-      "title": "Desenvolvedor (a) Sênior Full Stack .NET / JavaScript",
-      "description": "Localização: São Paulo / São Paulo ( Oeste )\nNível Profissional: Especialista\nÁrea / Tecnologia: TI - Projetos / C# e .NET Framework/Core, MVC, HTML5, CSS3, JavaScript\nContrato: PJ\nDescrição da vaga:\nA Tech For está com oportunidade para Desenvolvedor (a) Sênior Full Stack .NET com forte atuação JavaScript, modelo híbrido, 2 x semana presenciais no cliente do segmento bancário situado na região oeste de SP, próximo ao Shopping Eldorado.\n\nSobre a posição:\nO(A) profissional será responsável por participar ativamente em todas as fases do ciclo de vida do desenvolvimento de software, desde a concepção e design até a implementação, testes, entrega e sustentação. \n\n Principais atividades:\n- Desenvolver e manter aplicações fullstack, com foco em front-end JavaScript (e frameworks modernos) e back-end em .NET C#, garantindo alta performance, escalabilidade e segurança;\n - Colaborar com times multidisciplinares (design, produto e back-end) para criar experiências de usuário consistentes e intuitivas;\n-  Participar ativamente de reuniões técnicas e de negócio, contribuindo com insights, soluções e recomendações de arquitetura;\n-  Integrar front-end e back-end, assegurando comunicação fluida entre as camadas e o correto consumo de APIs e serviços;\n- Implementar novas funcionalidades e otimizar aplicações existentes, focando em melhoria contínua e eficiência de código;\n-  Acompanhar o processo de homologação, prestando suporte e esclarecendo dúvidas dos usuários;\n-   Manter e dar suporte às soluções em produção, atuando em correções, melhorias e incidentes;\n-  Elaborar e manter documentação técnica, incluindo manuais, procedimentos e guias de boas práticas;\n-  Cumprir prazos e compromissos de entrega, demonstrando forte senso de responsabilidade e qualidade técnica.\n\nRequisitos imprescindíveis:\n- À partir de 5 anos de experiência comprovada em desenvolvimento de software.\nProficiência em desenvolvimento com experiência em:\n- C# e .NET Framework/Core;\n- MVC, HTML5, CSS3, JavaScript (ES6+) e TypeScript;\n- Experiência com frameworks frontend como React ou Angular (diferencial);\n-  SQL Server (Procedure, Function, Triggers, Views);\n-  Web API;\n- Sólido conhecimentos em Domain-Driven Design (DDD);\n- Experiência com camada de persistência ORM (Dapper);\n- Experiência com DevOps (Git/TFS - Azure DevOps).\n   \nCompetências:\n- Habilidades analíticas e conceituais, com capacidade de resolver problemas complexos.\n-  Fortes habilidades didáticas, com capacidade de explicar conceitos técnicos de forma clara e acessível.\n- Objetividade, fluência verbal e escrita, e postura profissional.\n- Excelentes habilidades de relacionamento interpessoal e capacidade de trabalhar em equipe.\n- Alta capacidade de concentração, iniciativa, organização, planejamento e pró-atividade.\n- Forte senso de comprometimento e capacidade de tomar decisões eficazes.\n\nDiferenciais:\n- Conhecimentos em cloud Azure;\n- Experiência em metodologias ágeis;\n- Certificações relevantes na área de desenvolvimento de software;\n- Conhecimento em aplicações conteinerizadas;\n- Experiência com tecnologias de mensageria (RabbitMQ ou similares).\nRequisitos da vaga:\n\nFormação Mínima: Ensino Superior Completo\n\n\nInteressados encaminhar cv com titulo da vaga para: llongo@techforti.com.br",
-      "excerpt": "Localização: São Paulo / São Paulo ( Oeste ) Nível Profissional: Especialista Área / Tecnologia: TI - Projetos / C# e .NET Framework/Core, MVC, HTML5, CSS3, JavaScript Contrato: PJ Descrição da vaga: A Tech For está c...",
-      "issueState": "open",
-      "contentHash": "df2c5ca419c3224801907cd62272d6ae5a37a638f9b96aa48624ed1a6f2591d1",
-      "repository": "Empregos-dev/Vagas-dev",
-      "repositoryUrl": "https://github.com/Empregos-dev/Vagas-dev",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "frontend",
-        "fullstack",
-        "react",
-        "typescript",
-        "java",
-        "devops",
-        "design"
-      ],
-      "author": {
-        "id": "Luiza3004",
-        "name": "Luiza3004",
-        "handle": "Luiza3004",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/93356327?v=4"
-      },
-      "community": {
-        "id": "Empregos-dev",
-        "name": "Empregos-dev",
-        "avatarUrl": "https://github.com/Empregos-dev.png?size=80",
-        "repository": "Empregos-dev/Vagas-dev",
-        "url": "https://github.com/Empregos-dev/Vagas-dev"
-      },
-      "createdAt": "2025-11-07T19:44:32Z",
-      "updatedAt": "2025-11-07T19:44:36Z",
-      "url": "https://github.com/Empregos-dev/Vagas-dev/issues/111",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_1210ec3be1fbd6b0e753f052",
-      "sourceId": "f2etw/jobs#1161",
-      "title": "[徵才][台北] [AI 新創團隊] Frontend Engineer (2+ yrs)",
-      "description": "# **前端工程師（2+ yrs）— [RADAX.ai](http://radax.ai/)**\n\n*把醫療影像的複雜度，轉成臨床好用的介面。*\n\n地點：台北（Hybrid）• 工作模式：台灣境內 Remote 友善\n\n## **為什麼加入 [RADAX.ai](http://radax.ai/)**\n\nRADAX.ai 是臺北醫學大學的衍生 AI 新創，入選 FITI Final、榮獲第二十屆國家新創獎與科研創業計畫連續兩年支持。\n\n我們正在打造企業級醫療 AI 平台，把複雜的影像判讀轉化為更快、更安全的臨床決策。平台整合先進影像處理、多元診斷模型與院內系統（PACS／HIS），讓醫療流程真正順起來。你將親手上線臨床可用的功能，並與經驗豐富的軟體工程團隊和 AI 團隊一同精進 — 其中包含受過史丹佛訓練的醫師工程師。\n\n## 你將會參與\n\n- 前端功能的開發流程（設計→開發→上線→迭代）。\n- 設計、優化 AI 整合 UI/UX（如 AI 影像標註、LLM 助理、Study List 工作流）。\n- 與放射科醫師、資料科學家、後端工程師協作，定義真正符合臨床的流程。\n- 提升產品品質：效能、易用性、穩定度與務實的測試。\n\n## 我們期待你\n\n- 主動溝通、重視協作。\n- 在「速度」與「品質」間拿捏得宜。\n- 以產品與使用者為核心思考，而不僅是工程角度。\n- 樂於挑戰新領域。\n- 富有有創造力，能以務實且創新的點子解決複雜問題。\n\n## 資格要求\n\n- **2 年以上**前端開發經驗。\n- 熟悉 **React、TypeScript**。\n- 熟悉 **Git** 協作流程。\n- 對 2D/3D 圖形概念有基本理解（如座標系統、轉換）。\n- 願意去閱讀與理解 third-party library 的文件和 source code。\n- 具備使用 **AI 工具**輔助開發的實務經驗。\n\n## 加分項目\n\n- Canvas/WebGL 或影像處理相關經驗。\n- 處理醫療影像相關經驗（我們目前使用 Cornerstone3D 處理醫學影像）。\n- **Electron** 桌面應用程式開發經驗。\n- 參與過測試相關實務經驗（E2E、整合測試或單元測試）。\n- 了解臨床流程、**PACS/RIS**。\n\n## 你將獲得\n\n- 開發的功能會**實際上線於臨床場域**。\n- 與 AI 團隊**跨域學習**，包含**受史丹佛培訓的醫師工程師**。\n- 早期新創的**高影響力與快速成長**，你的意見能形塑產品走向。\n- **薪資：依職級／資歷彈性核定 （NTD $700K–1M/year）**。\n- **股權：提供股權參與機會（依職級／貢獻而定）**。\n\n**投遞方式**\n\n請寄履歷／GitHub／作品集至 **[**[info@radax.ai](mailto:nfo@radax.ai)**]**，主旨註明「Frontend Engineer – [RADAX.ai]」。也歡迎附上一個你最自豪的 UI 作品與簡短說明。\n\n通過初選者將於 14 個工作天內收到聯繫；未入選者恕不另行通知，我們會將資料保留以供未來職缺參考，感謝理解。\n[Front-End Engineer JD_2025_EN.pdf](https://github.com/user-attachments/files/23387732/Front-End.Engineer.JD_2025_EN.pdf)",
-      "excerpt": "# **前端工程師（2+ yrs）— [RADAX.ai](http://radax.ai/)** *把醫療影像的複雜度，轉成臨床好用的介面。* 地點：台北（Hybrid）• 工作模式：台灣境內 Remote 友善 ## **為什麼加入 [RADAX.ai](http://radax.ai/)** RADAX.ai 是臺北醫學大學的衍生 AI 新創，入選 FITI Final、榮獲第二十屆國家新創獎與科研創業計畫連續兩年支持。 我...",
-      "issueState": "open",
-      "contentHash": "21ac235afa442ceae1ebbd0030cb459880c86726f3abe975cbe725b0bfaf7476",
-      "repository": "f2etw/jobs",
-      "repositoryUrl": "https://github.com/f2etw/jobs",
-      "region": "Asia",
-      "country": "Taiwan",
-      "tags": [
-        "缺休假資訊",
-        "求才",
-        "git",
-        "[f] react",
-        "work remotely",
-        "缺特/彈休資訊"
-      ],
-      "author": {
-        "id": "AlexChan-1985",
-        "name": "AlexChan-1985",
-        "handle": "AlexChan-1985",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/65586570?v=4"
-      },
-      "community": {
-        "id": "f2etw",
-        "name": "f2etw",
-        "avatarUrl": "https://github.com/f2etw.png?size=80",
-        "repository": "f2etw/jobs",
-        "url": "https://github.com/f2etw/jobs"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 700000,
-        "max": 1000000,
-        "period": "year"
-      },
-      "createdAt": "2025-11-06T10:16:02Z",
-      "updatedAt": "2025-11-06T14:39:23Z",
-      "url": "https://github.com/f2etw/jobs/issues/1161",
       "sourceType": "github-issue"
     }
   ]
