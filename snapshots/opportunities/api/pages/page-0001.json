@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-14T15:44:07.177Z",
+  "generatedAt": "2026-08-14T18:43:15.234Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_6c8e2af7cfff871fdcdaa2b4",
     "gh_3712b3449a25015d16d51633",
     "gh_79c77aa7ac54c371b858f925",
     "gh_7280bf814f9045ea6293868d",
@@ -22,10 +23,51 @@
     "gh_6880f9e9a53ece011528f17f",
     "gh_4416bda8f852c5ab171cc62e",
     "gh_65c65688ee475d3031fb80d3",
-    "gh_13a4c16d56f29c6c8e1ad75e",
-    "gh_56f09abec7008337fbc6da45"
+    "gh_13a4c16d56f29c6c8e1ad75e"
   ],
   "items": [
+    {
+      "id": "gh_6c8e2af7cfff871fdcdaa2b4",
+      "sourceId": "datascience-br/vagas#197",
+      "title": "[Remoto] MLOps Pleno, 100% Remoto na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de MLOps Pleno, 100% Remoto nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com MLOps (de 2 a 5 anos)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-mlops-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "ab81730fd4cfa49875c27499107bbf57597704b7e8a6da144666923bf111eb9e",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-14T17:15:37Z",
+      "updatedAt": "2026-08-14T17:15:37Z",
+      "url": "https://github.com/datascience-br/vagas/issues/197",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_3712b3449a25015d16d51633",
       "sourceId": "datascience-br/vagas#196",
@@ -737,46 +779,6 @@
       "createdAt": "2026-08-12T18:00:37Z",
       "updatedAt": "2026-08-12T18:00:37Z",
       "url": "https://github.com/datascience-br/vagas/issues/193",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_56f09abec7008337fbc6da45",
-      "sourceId": "backend-br/vagas#12373",
-      "title": "[Remoto] Desenvolvedor(a) Backend .NET  - JJConsulting",
-      "description": "## Nossa empresa\n\nSomos uma empresa focada no desenvolvimento de soluções web para o mercado B2B, com uma equipe formada por profissionais de desenvolvimento, QA e coordenação. Valorizamos colaboração, troca de conhecimento, aprendizado contínuo e desenvolvimento profissional.\n\nhttps://www.jjconsulting.com.br\n\n## Descrição da vaga\n\nBuscamos uma pessoa Desenvolvedora Backend .NET para atuar no desenvolvimento e evolução de soluções web voltadas ao mercado B2B.\n\nVocê trabalhará em conjunto com nosso time de desenvolvimento, QA e coordenadores, participando da construção de APIs, microsserviços, integrações e soluções escaláveis utilizando o ecossistema .NET.\n\n## Local\n\n100% remoto.\n\n## Requisitos\n\n### Obrigatórios\n\n* Experiência sólida com .NET e C#;\n* Experiência no desenvolvimento de APIs REST;\n* Conhecimento em arquitetura de microsserviços;\n* Conhecimento em qualquer ORM como Entity Framework;\n* Conhecimento em SQL Server, incluindo criação de procedures e modelagem de dados;\n* Conhecimento em versionamento de código utilizando Git, GitLab ou GitHub;\n* Conhecimento em alguma plataforma de CI/CD, como GitLab CI, Azure Pipelines ou GitHub Actions;\n* Conhecimento em SOLID, Clean Code e padrões de projeto;\n* Familiaridade com algum framework front-end e conhecimentos em HTML, CSS e JavaScript;\n* Boa comunicação para trabalho remoto;\n* Conexão estável e ambiente adequado para home office;\n* Vontade de aprender, contribuir e crescer junto com o time.\n\n### Desejáveis\n\n* Conhecimento em ASP.NET Core MVC ou Razor Pages;\n* Conhecimento em mensageria e arquitetura orientada a eventos utilizando tecnologias como RabbitMQ, Kafka ou Azure Service Bus;\n* Conhecimento em testes de integração com Testcontainers e Playwright;\n* Espanhol e/ou inglês técnico para leitura e escrita.\n\n## Contratação\n\nPJ.\n\n## Como se candidatar\n\nEnvia um [Whats](https://wa.me/551138575322?text=Ol%C3%A1%2C%20encontrei%20a%20vaga%20de%20.NET%20pleno%20da%20JJ%20pelo%20GitHub%21).\n\n## Labels\n\n### Nível\n\n* Pleno\n\n### Regime\n\n* PJ\n\n### Alocação\n\n* Remoto",
-      "excerpt": "## Nossa empresa Somos uma empresa focada no desenvolvimento de soluções web para o mercado B2B, com uma equipe formada por profissionais de desenvolvimento, QA e coordenação. Valorizamos colaboração, troca de conheci...",
-      "issueState": "open",
-      "contentHash": "d7891f59e60a1eada3d26e1147a6a3fabfe9826d3ac9a346f2070e3d7e237cbc",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "javascript",
-        ".net",
-        "remoto",
-        "sql",
-        "git",
-        "rabbitmq"
-      ],
-      "author": {
-        "id": "gumbarros",
-        "name": "gumbarros",
-        "handle": "gumbarros",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52143624?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-08-12T17:57:22Z",
-      "updatedAt": "2026-08-13T17:17:13Z",
-      "url": "https://github.com/backend-br/vagas/issues/12373",
       "sourceType": "github-issue"
     }
   ]
