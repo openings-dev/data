@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-15T12:21:25.415Z",
+  "generatedAt": "2026-08-15T15:13:22.817Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_8c890980e94de3f7d52998a2",
+    "gh_2c1597c79f517c221f92ad87",
     "gh_eedc0ca3c146d2fc634ba74f",
     "gh_a3b2b40e0bc085ad7bc03c77",
     "gh_ed6b96df383d264c066b821f",
@@ -21,11 +23,78 @@
     "gh_b3d11f18e9b21e7bd215d304",
     "gh_7e76139d5f95b6869cfabe53",
     "gh_bdf41ed8e269740a5ad43a17",
-    "gh_2aa676d3d207e5beb113849e",
-    "gh_eb388bf6be6e9bd63b7f0a26",
-    "gh_58d71ef2f10f492b44babfb6"
+    "gh_2aa676d3d207e5beb113849e"
   ],
   "items": [
+    {
+      "id": "gh_8c890980e94de3f7d52998a2",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2950",
+      "title": "New Role",
+      "description": "### Link to Job Posting\n\nhttps://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102\n\n### Company Name\n\nJPMorganChase\n\n### Job Title\n\nSoftware Engineer - Feb 2027 Start\n\n### Location\n\nWilmington De | Chicago IL | NYC/NJ Metro | Columbus OH | Plano, TX | Houston, TX | Palo Alto, CA | Tampa, FL \n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nDoes Not Offer Sponsorship\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nanjorinmanyaka@gmail.com\n\n### Extra Notes (Optional)\n\n_No response_",
+      "excerpt": "### Link to Job Posting https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102 ### Company Name JPMorganChase ### Job Title Software Engineer - Feb 2027 Start ### Location Wilmington ...",
+      "issueState": "open",
+      "contentHash": "bf586052665b64182987ac484acc01121aca29dd839edfa8adc5614a74786d99",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "237Codes",
+        "name": "237Codes",
+        "handle": "237Codes",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104553245?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-08-05T04:52:08Z",
+      "updatedAt": "2026-08-05T04:54:24Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2950",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_2c1597c79f517c221f92ad87",
+      "sourceId": "awesome-jobs/vietnam#4992",
+      "title": "🗽[ $ 3,040 ] AI Developer [4+ yoe] - HN - Domain Edtech",
+      "description": "2+ yoe LLM | Đã trực tiếp vận hành ít nhất 1 hệ thống AI chạy production có người dùng thật | Domain Edtech | TA lưu loát | Upto 80tr/tháng.\n\n**MÔ TẢ CÔNG VIỆC**\n\n1. Sở hữu mảng AI của sản phẩm\nChịu trách nhiệm chính về kiến trúc, chất lượng và hiệu quả của toàn bộ các tính năng AI trên nền tảng.\nCùng Founder xác định roadmap AI: làm bài toán nào trước, làm đến đâu, đo bằng chỉ số gì.\nTrực tiếp code những phần khó nhất, không chỉ thiết kế trên giấy.\n\n2. Agentic AI & hệ thống multi-agent (trọng tâm của vị trí)\nThiết kế và phát triển hệ thống multi-agent: nhiều agent chuyên biệt phối hợp để thực thi trọn vẹn một nghiệp vụ — không dừng ở việc trả lời câu hỏi.\nTriển khai function calling / tool use và tích hợp MCP (Model Context Protocol) để agent thao tác trực tiếp trên hệ thống, dữ liệu và công cụ bên ngoài.\nXây dựng agent memory (short-term / long-term), state management, orchestration và cơ chế human-in-the-loop ở những điểm cần người duyệt.\nPhát triển agent có khả năng reasoning, planning, self-correction (ReAct, Chain-of-Thought, Reflection) và tự phục hồi khi gặp lỗi.\nXây dựng và tối ưu pipeline RAG cùng cơ chế xử lý học liệu phục vụ kiến trúc agentic.\n\n3. Vận hành ở quy mô production\nLựa chọn mô hình AI phù hợp cho từng tác vụ, cân đối giữa chất lượng đầu ra và chi phí vận hành.\nThiết lập cách đo lường và kiểm soát chất lượng đầu ra của AI.\nĐảm bảo hệ thống chạy ổn định, nhanh và không gián đoạn khi lượng người dùng tăng.\nĐảm bảo an toàn dữ liệu người học và tuân thủ quy định bảo vệ dữ liệu cá nhân tại các thị trường triển khai.\n\n4. Dẫn dắt đội ngũ\nĐịnh hướng chuyên môn, review code và đặt chuẩn kỹ thuật cho các thành viên trong mảng AI.\nMentor và onboard Junior/Middle AI Engineer khi team mở rộng.\nCùng Founder đánh giá chuyên môn ứng viên trong quá trình tuyển dụng.\nPhối hợp với team Product, Frontend, DevOps và đội ngũ chuyên gia giáo dục.\n\nUV qtam liên hệ mình zl 0332.022.055 hoặc techdy.vn@gmail.com nhé.",
+      "excerpt": "2+ yoe LLM | Đã trực tiếp vận hành ít nhất 1 hệ thống AI chạy production có người dùng thật | Domain Edtech | TA lưu loát | Upto 80tr/tháng. **MÔ TẢ CÔNG VIỆC** 1. Sở hữu mảng AI của sản phẩm Chịu trách nhiệm chính về...",
+      "issueState": "open",
+      "contentHash": "29151e1add9022ced02c0d0311c6fa57c15a07a232ab02eef1a947c15c6ad4bb",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "frontend",
+        "react",
+        "junior",
+        "devops"
+      ],
+      "author": {
+        "id": "techdyvn",
+        "name": "techdyvn",
+        "handle": "techdyvn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-08-05T03:14:35Z",
+      "updatedAt": "2026-08-05T03:14:35Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4992",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_eedc0ca3c146d2fc634ba74f",
       "sourceId": "jobright-ai/2026-Software-Engineer-New-Grad#6",
@@ -696,90 +765,6 @@
       "createdAt": "2026-08-03T18:00:22Z",
       "updatedAt": "2026-08-09T22:21:49Z",
       "url": "https://github.com/backend-pt/vagas/issues/151",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_eb388bf6be6e9bd63b7f0a26",
-      "sourceId": "qa-brasil/vagas#1269",
-      "title": "[Híbrido] QA/Automação Sênior na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de QA/Automação nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local de trabalho\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA/Automação (5 anos ou mais)\n- Automação web (Cypress, Playwright ou Selenium)\n- Uma linguagem de programação\n- Teste de API (Postman ou RestAssured)\n- CI/CD\n\n**Diferenciais:**\n- Teste de performance (k6 ou JMeter)\n- Teste mobile\n- Contract testing\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 12.000 e R$ 22.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-automacao-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Descrição da vaga Vaga de QA/Automação nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 12.000 a 22.000/mês, conforme experiência. ## Local de trabalho Híbrid...",
-      "issueState": "open",
-      "contentHash": "5c3ccaa02cf8749bdac7332e196439cf3bf0232d46cf67d61e22ef6e04f935d4",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-03T15:30:42Z",
-      "updatedAt": "2026-08-03T15:31:19Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1269",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_58d71ef2f10f492b44babfb6",
-      "sourceId": "datascience-br/vagas#176",
-      "title": "[Híbrido] Engenharia de Dados Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Engenharia de Dados nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Construir e manter pipelines de ingestão e transformação\n- Garantir qualidade, linhagem e disponibilidade dos dados\n- Modelar camadas do data warehouse\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Engenharia de Dados (5 anos ou mais)\n- Python e SQL avançado\n- Orquestração (Airflow, Dagster ou similar)\n- Spark ou processamento distribuído\n- Cloud (AWS, GCP ou Azure)\n\n**Diferenciais:**\n- dbt\n- Kafka\n- Databricks ou Snowflake\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-engenharia-de-dados-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "c3344aaa9b2c96050b4e5ccb91ca65be9221b82b4cadd690e6f70b68dbd636b0",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-03T15:26:00Z",
-      "updatedAt": "2026-08-03T15:26:00Z",
-      "url": "https://github.com/datascience-br/vagas/issues/176",
       "sourceType": "github-issue"
     }
   ]
