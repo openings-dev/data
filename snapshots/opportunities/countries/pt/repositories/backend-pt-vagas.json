@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-08-14T21:18:29.265Z",
+  "generatedAt": "2026-08-15T00:46:16.121Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 27,
-    "openIssues": 24,
-    "closedIssues": 3
+    "openIssues": 25,
+    "closedIssues": 2
   },
-  "dataHash": "104053788a636202e7d46dcc36610119bb726199244cde1fc48eb430236116b3",
+  "dataHash": "16a89d83927b72cf03b0fc8c246498d645e8a819d714e079b87997cce9c97540",
   "items": [
+    {
+      "id": "gh_d4e51ea4fee992d283ea545e",
+      "sourceId": "backend-pt/vagas#162",
+      "title": "[Remoto] Elixir/Phoenix Backend Developer Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Elixir/Phoenix Backend Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações concorrentes em Elixir\n- Construir APIs e interfaces em tempo real com Phoenix\n- Cuidar de tolerância a falhas com OTP\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Elixir/Phoenix (de 2 a 5 anos)\n- Elixir e OTP (GenServer, Supervisor)\n- Phoenix e Ecto\n- PostgreSQL\n- Testes com ExUnit\n\n**Diferenciais:**\n- Phoenix LiveView\n- Kubernetes\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-elixir-phoenix-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "67b94c5b70df25f3060512ba858b9d1aa2dcd87321d30b13358a933814ad9f8f",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "pleno",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-15T00:00:09Z",
+      "updatedAt": "2026-08-15T00:03:25Z",
+      "url": "https://github.com/backend-pt/vagas/issues/162",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_9cb67a2721464da325885d3e",
       "sourceId": "backend-pt/vagas#161",
@@ -1045,46 +1086,6 @@
       "createdAt": "2025-05-27T10:26:03Z",
       "updatedAt": "2025-08-28T01:10:46Z",
       "url": "https://github.com/backend-pt/vagas/issues/133",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a25bef4c7bcd4453466ef7bd",
-      "sourceId": "backend-pt/vagas#132",
-      "title": "[Remoto] Fullstack Developer JS 🚀 @ Beyond the Bytes",
-      "description": "### Nossa empresa\n\nBem-vindo à Beyond the Bytes! Acreditamos que um software vai muito além do código. Nossa missão é transcender códigos, criando soluções que surpreendam os usuários e impulsionem o seu negócio.\n\nSomos um time pequeno com um ambiente de aprendizado acelerado e troca de conhecimento no dia a dia. Promovemos um ambiente que equilibra autonomia e responsabilidade, com o suporte constante de um time experiente.\n\nDesenvolvemos soluções sob medida, utilizando tecnologia de ponta e, ainda mais importante, priorizando a experiência do usuário como o elemento central do desenvolvimento. Na Beyond the Bytes, cada linha de código é escrita com um propósito: resolver problemas reais por meio de experiências digitais memoráveis. Junte-se a Beyond the Bytes e descubra como podemos transformar suas ideias em soluções eficazes.\n\n### Descrição da vaga\n\nEstamos em busca de um talentos em início de carreira (0 a 5 anos de experiência), formado ou em formação em Computação para integrar nosso time de tecnologia na Beyond the Bytes.\n\nProcuramos pessoas com energia, vontade de aprender, e prontas para colocar a mão na massa. Aqui, você vai ter responsabilidade de verdade, autonomia para tomar decisões técnicas com um time experiente ao seu lado para te ajudar a crescer rápido.\n\n### Local\n\n🏠 Trabalho Remoto\n\n### Requisitos\n\n- Formação em andamento ou concluída em Computação.\n- Perfil resolvedor de problemas: Capacidade de entender desafios complexos, propor soluções eficientes e garantir que os problemas sejam resolvidos de ponta a ponta.\n- Vontade de aprender e se adaptar: Interesse em evoluir profissionalmente e disposição para lidar com novos desafios.\n- Conhecimento em React, TypeScript, Node e SQL/ORM.\n- Desenvolvimento fullstack.\n\n### Benefícios\n\n- 🏠 Trabalho Remoto.\n- ⏰ Horário Flexível.\n- 💥 Desenvolvimento software fullstack com impacto real desde o início.\n- 🚀 Aprendizado acelerado com troca de conhecimento no dia a dia.\n- 📌 Ambiente que equilibra autonomia e responsabilidade, com o suporte constante de um time experiente.\n\n### Contratação\n\nModelo PJ\n\n### Como se candidatar\n\nSe você gosta de resolver problemas, não se acomoda e quer encarar um desafio de verdade, sua jornada começa aqui: 🔗 https://tally.so/r/3xoz4k\n\n### Tempo médio de feedbacks\n\nCostumamos enviar feedbacks em até 15 dias após cada processo.\n\n### Keywords\n\nnext nest nextjs typescript node\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [x] Contrato\n- [x] Freela\n- [x] RV\n\n### Nível\n\n- [x] Júnior\n- [x] Pleno\n- [ ] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nAté € 1k",
-      "excerpt": "### Nossa empresa Bem-vindo à Beyond the Bytes! Acreditamos que um software vai muito além do código. Nossa missão é transcender códigos, criando soluções que surpreendam os usuários e impulsionem o seu negócio. Somos...",
-      "issueState": "closed",
-      "contentHash": "deb5f4d147f7e41d3bc9db24ebfb6db024607ab4b0abd422df88db71ab456960",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "alocado",
-        "especialista",
-        "freela",
-        "presencial",
-        "rv",
-        "híbrido",
-        "remoto",
-        "part time"
-      ],
-      "author": {
-        "id": "LucaDillenburg",
-        "name": "LucaDillenburg",
-        "handle": "LucaDillenburg",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30930222?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2025-05-12T13:08:31Z",
-      "updatedAt": "2025-06-03T12:05:56Z",
-      "url": "https://github.com/backend-pt/vagas/issues/132",
       "sourceType": "github-issue"
     }
   ]

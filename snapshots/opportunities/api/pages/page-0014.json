@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-14T21:18:29.265Z",
+  "generatedAt": "2026-08-15T00:46:16.121Z",
   "page": 14,
   "pageSize": 20,
   "nextPage": "api/pages/page-0015.json",
   "ids": [
+    "gh_60b297ea76f69119ead4a4d5",
     "gh_345438a912c4cb4b37d9e419",
     "gh_020d6f6dec261878af8d76eb",
     "gh_00d1a49b431efa61b7fe0b73",
@@ -22,10 +23,42 @@
     "gh_a971b0331e754ca00213a4e6",
     "gh_e323bf398e40b8ae1f8c59bc",
     "gh_7b0790eab0e7e8741e23914a",
-    "gh_f9b05570441c5238a96e1a2d",
-    "gh_deacd027702e1cb8c6ccb289"
+    "gh_f9b05570441c5238a96e1a2d"
   ],
   "items": [
+    {
+      "id": "gh_60b297ea76f69119ead4a4d5",
+      "sourceId": "SimplifyJobs/New-Grad-Positions#2939",
+      "title": "New Role",
+      "description": "### Link to Job Posting\n\nhttps://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp\n\n### Company Name\n\nSEACORP\n\n### Job Title\n\nSoftware Engineer - Data Analytics Team\n\n### Location\n\nManassas, VA | Middletown, RI\n\n### What category does this job belong to?\n\nSoftware Engineering\n\n### Does this job offer sponsorship?\n\nU.S. Citizenship is Required\n\n### Is this job posting currently accepting applications?\n\nYes\n\n### Advanced Degree Requirements\n\n- [ ] This position requires a Master's degree or higher\n\n### Email associated with your GitHub account (Optional)\n\nnolanplatt1@gmail.com\n\n### Extra Notes (Optional)\n\nWe are looking to hire ASAP! We haven't been getting a ton of candidates, so hoping this will help...",
+      "excerpt": "### Link to Job Posting https://seacorp.csod.com/ux/ats/careersite/5/home/requisition/1918?c=seacorp ### Company Name SEACORP ### Job Title Software Engineer - Data Analytics Team ### Location Manassas, VA | Middletow...",
+      "issueState": "open",
+      "contentHash": "3afa042404deee41ed7ab645bfae96613b7b604381a7d66e09b5e8b684fdc322",
+      "repository": "SimplifyJobs/New-Grad-Positions",
+      "repositoryUrl": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "new_role"
+      ],
+      "author": {
+        "id": "nolanplatt",
+        "name": "nolanplatt",
+        "handle": "nolanplatt",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43970139?v=4"
+      },
+      "community": {
+        "id": "SimplifyJobs",
+        "name": "SimplifyJobs",
+        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
+        "repository": "SimplifyJobs/New-Grad-Positions",
+        "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+      },
+      "createdAt": "2026-07-15T13:47:10Z",
+      "updatedAt": "2026-07-15T13:47:10Z",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2939",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_345438a912c4cb4b37d9e419",
       "sourceId": "speedyapply/2026-SWE-College-Jobs#44",
@@ -796,46 +829,6 @@
       "createdAt": "2026-07-10T20:42:41Z",
       "updatedAt": "2026-07-10T20:43:04Z",
       "url": "https://github.com/qa-brasil/vagas/issues/1265",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_deacd027702e1cb8c6ccb289",
-      "sourceId": "react-brasil/vagas#3019",
-      "title": "[Remoto] Frontend Engineer @Botcity",
-      "description": "Company Overview\n\nBotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observability to every automation project. Our philosophy is simple: automation is software, and software deserves the same high-code standards that drive innovation in AI and machine learning.\n\nWe recently raised a $12M Series A, led by Four Rivers with participation from Y Combinator, SoftBank, and top industry leaders such as Lew Cirne (New Relic), Rod Johnson (Spring Source), and Walter Kortschak (Summit Partners | Firestreak Ventures). With 1,000+ customers in 70+ countries, including Bayer and LG, and recognition by G2 (2024) as one of the world’s top 25 emerging platforms, BotCity is scaling fast.\n\nWe’re a global remote company with teams across the US and LATAM, united by a shared vision to redefine how enterprises build and manage automation. If you’re looking for an environment that values impact, autonomy, and excellence, we’d love for you to join us on this journey.\n\n \nRole Overview\n\nThis Frontend Engineer will be responsible for driving the development of intuitive, high-performance user interfaces that simplify how developers manage increasingly complex frontend applications. By consistently deploying user-friendly features and maintaining a high-quality codebase, this role ensures the delivery of performant products that directly enhance user satisfaction and align with our long-term strategic growth. We are looking for a resilient and autonomous professional with a proven track record in product-focused companies, specifically one who has experience working on core product features and thrives in highly collaborative environments alongside UX and Engineering teams. This role will report to the CTO.\n\n \nResponsibilities\n\nDevelop, deploy, and maintain scalable, responsive web applications using modern front-end technologies (focus on desktop with some mobile, which could evolve with time).\nCollaborate with product managers and UX/UI designers to understand requirements, ensure its technical feasibility, and translate them into technical, user-friendly solutions.\nMaintain and improve the company’s front-end codebase by refactoring legacy code and implementing best practices ensuring performance across multiple devices and browsers.\nParticipate in code reviews, ensuring best practices in front-end development.\nIdentify and troubleshoot front-end issues to ensure a seamless user experience.\nWrite reusable code and libraries for future use, optimizing components for maximum speed.\n \n\nRequirements\nRequired Qualifications\n\nBachelor's degree in Computer Science, Computer Engineering, or related technical discipline.\nProven professional experience (3+ years) in front-end development, preferably in product-focused companies and working in complex projects alongside Product/UX/UI teams.\nProficiency in HTML, CSS, JavaScript and TypeScript, with expertise on React\nFamiliarity with RESTful APIs and working alongside back-end development teams.\nExperience working with authentication and authorization mechanisms using OAuth, JWT, or SAML.\nExperience with testing frameworks (e.g., Jest, Cypress) for front-end applications.\nExperience with version control and project management systems, particularly Git and GitHub.\nAbility to work independently as well as part of a team, with strong problem-solving skills and attention to detail.\nExperience working with modern async communication and documentation tools (e.g., Slack, Notion)\nAbility to travel as needed to meet the team.\nEnglish - Advanced (Reading, Comprehension, and Writing).\nPortuguese - Fluent\n \nPreferred Qualifications\n\nRelevant hands-on experience with desktop-first products in a tech-intensive industry, such as dashboards featuring complex data visualizations and interactive charts\nExperience with Vite, Webpack, Babel, and other build tools for optimizing front-end workflows.\nExperience in building responsive layouts and ensuring cross-browser compatibility.\nExperience with SSR-capable frameworks (eg., Next.js, Remix\nExperience with secure data storage and handling sensitive information (e.g., encryption, tokenization).\nExperience implementing secure front-end authentication/session patterns to protect user data, including proper input sanitization, secure JWT/cookie handling, safe browser storage choices and alignment with OWASP guidance.\nPrior experience in an early-stage, high-growth and fast-paced startup (or similar) environment.\n\nApply to https://jobs.quickin.io/botcity/jobs/69fa295871686e001273d170?src=Github",
-      "excerpt": "Company Overview BotCity is building the future of automation with the Governance Platform for Python automations and AI Agents. We empower enterprises to innovate at scale, bringing governance, control, and observabi...",
-      "issueState": "open",
-      "contentHash": "b8b1b7b208826f6ea5b9e65e5e798125fa28d77699eac47167f06fbd80785509",
-      "repository": "react-brasil/vagas",
-      "repositoryUrl": "https://github.com/react-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "remote",
-        "frontend",
-        "react",
-        "typescript",
-        "python",
-        "java",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "FranPiresBotcity",
-        "name": "FranPiresBotcity",
-        "handle": "FranPiresBotcity",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/208652784?v=4"
-      },
-      "community": {
-        "id": "react-brasil",
-        "name": "react-brasil",
-        "avatarUrl": "https://github.com/react-brasil.png?size=80",
-        "repository": "react-brasil/vagas",
-        "url": "https://github.com/react-brasil/vagas"
-      },
-      "createdAt": "2026-07-10T20:36:53Z",
-      "updatedAt": "2026-07-10T20:37:07Z",
-      "url": "https://github.com/react-brasil/vagas/issues/3019",
       "sourceType": "github-issue"
     }
   ]
