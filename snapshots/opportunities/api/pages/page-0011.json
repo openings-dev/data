@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-15T15:13:22.817Z",
+  "generatedAt": "2026-08-16T00:49:41.516Z",
   "page": 11,
   "pageSize": 20,
   "nextPage": "api/pages/page-0012.json",
   "ids": [
+    "gh_6e455da7e030915bd4c2b250",
     "gh_bd7bb1ded577536f070ce9f0",
     "gh_acef62e3671645fda4108aba",
     "gh_2536c3c612236cf113d6f054",
@@ -22,10 +23,50 @@
     "gh_02639b5d30624af5760b16e1",
     "gh_e0be42313695863a7be771d3",
     "gh_dbbdc8ff906291fbec06386f",
-    "gh_5785e611680b5a017f944305",
-    "gh_e317cf7cc308ab44f7d0b888"
+    "gh_5785e611680b5a017f944305"
   ],
   "items": [
+    {
+      "id": "gh_6e455da7e030915bd4c2b250",
+      "sourceId": "datascience-br/vagas#169",
+      "title": "[Remoto] Ciência de Dados Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Ciência de Dados nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Ciência de Dados compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-ciencia-de-dados-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "7d1527203fe641dbcf74898d5839e9a61e95fb15c180a48900587b591980b112",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-31T02:42:55Z",
+      "updatedAt": "2026-07-31T02:42:55Z",
+      "url": "https://github.com/datascience-br/vagas/issues/169",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_bd7bb1ded577536f070ce9f0",
       "sourceId": "datascience-br/vagas#168",
@@ -842,45 +883,6 @@
       "createdAt": "2026-07-28T14:58:32Z",
       "updatedAt": "2026-07-28T14:58:48Z",
       "url": "https://github.com/backend-br/vagas/issues/12367",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e317cf7cc308ab44f7d0b888",
-      "sourceId": "backend-br/vagas#12366",
-      "title": "[Remoto] Full-Stack Sênior - Igma",
-      "description": "## Nossa empresa\n\nA Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que\nfuncionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico de quem já transformou grandes empresas. Unimos estratégia, engenharia e design para resolver problemas reais com consistência e impacto. Nos orgulhamos de entregar produtos tecnicamente memoráveis.\n\n## Descrição da vaga\n\nEstamos em busca de uma Pessoa Desenvolvedora Full-Stack para se juntar ao nosso Chapter de desenvolvimento, fortalecer o time de projetos e criar produtos digitais para as maiores empresas do Brasil.\n\nUnimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores.\n \n\nNa Igma, você será responsável por:\n\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n- Desenvolver e manter aplicações escaláveis, performáticas e com foco em experiência do usuário.\n- Atuar tanto no frontend quanto no backend, contribuindo para a evolução completa dos produtos.\n- Colaborar com designers, PMs e demais desenvolvedores para transformar ideias em soluções de alta qualidade.\n- Garantir a qualidade do código e seguir boas práticas de engenharia.\n- Participar ativamente de discussões técnicas, code reviews e decisões de arquitetura.\n- Contribuir para a melhoria contínua dos processos, ferramentas e padrões do time.\n\nPremissas culturais\n\n- Coragem para realizar o que acredita\n- Excelência na busca constante por superação\n- Disposição genuína para se conectar com pessoas, sejam colegas, clientes ou parceiros\n- Transparência para trabalhar em um ambiente de confiança\n- Energia e intensidade para resolver problemas e entregar valor\n\n\n## Local\n\n100% REMOTO\n\n## Requisitos\nExperiência comprovada de ao menos 4 anos com desenvolvimento full-stack.\nExperiência com desenvolvimento frontend utilizando React, Next.js ou tecnologias similares.\nExperiência com desenvolvimento backend utilizando Node.js, NestJS ou tecnologias equivalentes.\nConhecimento em arquiteturas modernas e boas práticas de desenvolvimento.\nExperiência com integração de APIs REST e/ou GraphQL.\nConhecimento em bancos de dados relacionais e não relacionais.\nControle de versão com Git.\nBoas práticas de testes automatizados (unitários e integração).\nFamiliaridade com pipelines de CI/CD.\nConhecimento em cloud e ambientes de deploy será considerado um diferencial.\n\n## Benefícios\n🏠 Oportunidade 100% remota \n\n💙 Plano de Saúde e Odonto com coparticipação\n\n🧘 Auxílio Cuidado e Desenvolvimento por meio de reembolsos \n\n🏃 Wellhub e incentivos de à práticas de esportes\n\n💳 Cartão multi-benefício Caju\n\n💻 Auxílio Remoto para investimento em equipamentos \n\n🏖️  30 dias de férias remuneradas\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nhttps://jobs.quickin.io/igma/jobs/6a59399b273ba80014747620\n\n\n### Nível\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Remoto",
-      "excerpt": "## Nossa empresa A Igma é uma empresa de tecnologia que cria produtos digitais críticos: sites, plataformas e apps que funcionam, crescem e deixam marca. Atuamos onde a entrega não pode falhar, com o cuidado técnico d...",
-      "issueState": "open",
-      "contentHash": "cd2d515e6438a988b3859e533a8b6782d8b0b028b6fefdbdbb1c1e569497769c",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "node.js",
-        "remoto",
-        "testes automatizados",
-        "git",
-        "ci/cd"
-      ],
-      "author": {
-        "id": "mcfo-contato",
-        "name": "mcfo-contato",
-        "handle": "mcfo-contato",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85364888?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-07-28T14:55:14Z",
-      "updatedAt": "2026-07-28T14:55:32Z",
-      "url": "https://github.com/backend-br/vagas/issues/12366",
       "sourceType": "github-issue"
     }
   ]
