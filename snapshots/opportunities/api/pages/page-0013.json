@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T00:49:41.516Z",
+  "generatedAt": "2026-08-16T03:41:51.976Z",
   "page": 13,
   "pageSize": 20,
   "nextPage": "api/pages/page-0014.json",
@@ -19,11 +19,11 @@
     "gh_95dfaec90b828a0dcf2308fe",
     "gh_ed00b8f2449863124678856d",
     "gh_771e69b35a748d39b77d7307",
+    "gh_d384575434513f8a77f63cbc",
     "gh_695bace19d816b5e91b32825",
     "gh_f67d9cb98c7df392629587d1",
     "gh_1a941191e4752836c5c81470",
-    "gh_6696fde1819557e47e58a36a",
-    "gh_ac9d2a190dca87b415fa96f3"
+    "gh_6696fde1819557e47e58a36a"
   ],
   "items": [
     {
@@ -656,6 +656,45 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_d384575434513f8a77f63cbc",
+      "sourceId": "backend-br/vagas#12352",
+      "title": "[Híbrido - São Paulo] Desenvolvedor Back-End Pleno (Node.js) - App Blis",
+      "description": "São Paulo\n\n## Requisitos\n\nExperiência em desenvolvimento backend Nodejs.\nExperiência no ORM Prisma\nExperiência em linguagens de programação frontend Next js\nExperiência com bancos de dado relacional MySQL.\nExperiência em integração de APIs de terceiros e desenvolvimento de APIs RESTful.\nCapacidade de escrever código limpo, legível e modular, seguindo as melhores práticas de programação.\nFamiliaridade com controle de versão utilizando Git.\nCapacidade de trabalhar de forma colaborativa em um ambiente ágil.\nFamiliaridade com metodologia Scrum e Kanban.\n\n## Benefícios\n\nDescanso remunerado de 30 dias\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nPor favor, envie um e-mail para [big@appblis.com](mailto:big@appblis.com), com seu currículo anexado e pretensão de PJ\n\n## Labels\n\nNode.JS\nMySql\n\n### Nível\n\n- Pleno\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Híbrido",
+      "excerpt": "São Paulo ## Requisitos Experiência em desenvolvimento backend Nodejs. Experiência no ORM Prisma Experiência em linguagens de programação frontend Next js Experiência com bancos de dado relacional MySQL. Experiência e...",
+      "issueState": "open",
+      "contentHash": "0ae5b9c520fa1e9314731ebbbdc649817f6c93b43762bd13aa7c679f656accf3",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pj",
+        "pleno",
+        "node.js",
+        "mysql",
+        "git",
+        "stale",
+        "híbrido"
+      ],
+      "author": {
+        "id": "marceloblis",
+        "name": "marceloblis",
+        "handle": "marceloblis",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/219734845?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-07-16T13:25:33Z",
+      "updatedAt": "2026-08-16T01:05:16Z",
+      "url": "https://github.com/backend-br/vagas/issues/12352",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_695bace19d816b5e91b32825",
       "sourceId": "backend-br/vagas#12351",
       "title": "[Híbrido - São Paulo] Desenvolvedor Back-End Senior (Node.js) - App Blis",
@@ -814,48 +853,6 @@
       "createdAt": "2026-07-15T20:28:01Z",
       "updatedAt": "2026-07-15T20:28:21Z",
       "url": "https://github.com/backend-pt/vagas/issues/138",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_ac9d2a190dca87b415fa96f3",
-      "sourceId": "dotnetdevbr/vagas#1062",
-      "title": "[Remoto] Fullstack .NET + Angular Pleno @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack .NET + Angular Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Fullstack .NET + Angular compatível com o nível Pleno\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 7.000–12.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-net-angular-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "1d977a7513627aa7b74cd6c7f58d530d206a2d25d1a6cd894b58b6f7452432d9",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "pleno"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-15T20:27:00Z",
-      "updatedAt": "2026-07-15T20:27:16Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1062",
       "sourceType": "github-issue"
     }
   ]
