@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-16T00:49:41.516Z",
+  "generatedAt": "2026-08-16T09:20:05.637Z",
   "page": 10,
   "pageSize": 20,
   "nextPage": "api/pages/page-0011.json",
   "ids": [
+    "gh_7fbe0c0a98337ce9a890ffbb",
     "gh_667f89c033e17510cbaf953b",
     "gh_31b6361b2797bec54f636c20",
     "gh_8f6acbc7503a309cd947e8b2",
@@ -13,7 +14,6 @@
     "gh_16827057364e91acc87c4591",
     "gh_2fd656284f6f7411e1f5a3dc",
     "gh_1d9c04c5aed5853aa63217a7",
-    "gh_6be6f426e52a70d70a535439",
     "gh_804dc2fa064755e7b0affa8e",
     "gh_2e582da148413eccda00e99a",
     "gh_e28ab400211c8c30f90763e6",
@@ -26,6 +26,48 @@
     "gh_55bedf2d15381e67bb953516"
   ],
   "items": [
+    {
+      "id": "gh_7fbe0c0a98337ce9a890ffbb",
+      "sourceId": "datascience-br/vagas#170",
+      "title": "[Remoto] Dados/SQL Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (5 anos ou mais)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "78d8c3d1dec862d6a969a69b8a1437a5df89606bbd6e38c5983823f4c27e487e",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-01T00:05:51Z",
+      "updatedAt": "2026-08-01T00:05:51Z",
+      "url": "https://github.com/datascience-br/vagas/issues/170",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_667f89c033e17510cbaf953b",
       "sourceId": "SimplifyJobs/Summer2026-Internships#9660",
@@ -321,39 +363,6 @@
       "createdAt": "2026-07-31T22:00:46Z",
       "updatedAt": "2026-07-31T22:00:46Z",
       "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9652",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_6be6f426e52a70d70a535439",
-      "sourceId": "SimplifyJobs/Summer2026-Internships#9651",
-      "title": "New Internship",
-      "description": "### Link to Internship Posting\n\nhttps://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916\n\n### Company Name\n\nD. E. Shaw\n\n### Internship Title\n\nSystems Engineering Intern\n\n### Location\n\nNew York, NY\n\n### What term(s) is this internship offered for?\n\nSummer 2027\n\n### Does this internship offer sponsorship?\n\nOther\n\n### Is this internship currently accepting applications?\n\nYes\n\n### What category does this internship belong to?\n\nSoftware Engineering\n\n### Advanced Degree Requirements\n\n- [ ] This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)\n\n### Email associated with your GitHub account (Optional)\n\nkaitosekiya@outlook.com\n\n### Extra Notes (Optional)\n\n_No response_",
-      "excerpt": "### Link to Internship Posting https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916 ### Company Name D. E. Shaw ### Internship Title Systems Engineering Intern ### Location New York, NY ...",
-      "issueState": "open",
-      "contentHash": "3292a74fef998aaf31db006c12fc9fb920ce680b2424076dd369d74885a05b09",
-      "repository": "SimplifyJobs/Summer2026-Internships",
-      "repositoryUrl": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "region": "North America",
-      "country": "United States",
-      "tags": [
-        "new_internship"
-      ],
-      "author": {
-        "id": "Givikap",
-        "name": "Givikap",
-        "handle": "Givikap",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78727184?v=4"
-      },
-      "community": {
-        "id": "SimplifyJobs",
-        "name": "SimplifyJobs",
-        "avatarUrl": "https://github.com/SimplifyJobs.png?size=80",
-        "repository": "SimplifyJobs/Summer2026-Internships",
-        "url": "https://github.com/SimplifyJobs/Summer2026-Internships"
-      },
-      "createdAt": "2026-07-31T21:59:41Z",
-      "updatedAt": "2026-07-31T21:59:41Z",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships/issues/9651",
       "sourceType": "github-issue"
     },
     {
