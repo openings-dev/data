@@ -17,8 +17,6 @@ jobs:
   discover:
     runs-on: ubuntu-latest
     timeout-minutes: 45
-    env:
-      DISCOVERY_OUTPUT_DIR: ${{ runner.temp }}/community-discovery
 
     steps:
       - name: Checkout
@@ -35,12 +33,15 @@ jobs:
       - name: Discover community candidates
         id: discovery
         env:
+          DISCOVERY_OUTPUT_DIR: ${{ runner.temp }}/community-discovery
           OPENINGS_GITHUB_TOKEN: ${{ secrets.OPENINGS_GITHUB_TOKEN || github.token }}
         run: npm run discover:communities
 
       - name: Read report status
         id: report
         if: always()
+        env:
+          DISCOVERY_OUTPUT_DIR: ${{ runner.temp }}/community-discovery
         run: |
           if [ ! -f "$DISCOVERY_OUTPUT_DIR/report.json" ]; then
             echo "status=missing" >> "$GITHUB_OUTPUT"
@@ -55,12 +56,13 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: community-discovery
-          path: ${{ env.DISCOVERY_OUTPUT_DIR }}
+          path: ${{ runner.temp }}/community-discovery
           if-no-files-found: warn
 
       - name: Open review inbox
         if: steps.report.outputs.status == 'complete' && fromJSON(steps.report.outputs.count) > 0
         env:
+          DISCOVERY_OUTPUT_DIR: ${{ runner.temp }}/community-discovery
           GH_TOKEN: ${{ github.token }}
         run: |
           existing="$(gh issue list --state open --search 'Community discovery inbox in:title' --json title --jq 'map(select(.title == "Community discovery inbox")) | length')"
