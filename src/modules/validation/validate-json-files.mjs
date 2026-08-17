@@ -3,6 +3,8 @@ import { resolve } from "node:path";
 
 const REQUIRED_JSON_FILES = [
   "src/modules/catalog/repositories.json",
+  "src/modules/discovery/discovery-decisions.json",
+  "src/modules/discovery/discovery-queries.json",
   "snapshots/opportunities/index.json",
 ];
 

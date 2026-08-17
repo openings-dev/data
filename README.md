@@ -126,6 +126,56 @@ const manifest = await fetch(`${baseUrl}/api/manifest.json`).then((response) =>
 
 GitHub Actions runs the update workflow on a schedule and commits changed files under `snapshots/opportunities/**`.
 
+## Community Discovery
+
+Discovery searches open GitHub Issues for repositories that publish jobs. It creates a review inbox; it never adds sources, rebuilds snapshots, commits, or pushes by itself.
+
+Run one query while tuning the rules:
+
+```bash
+DISCOVERY_MAX_QUERIES=1 npm run discover:communities
+```
+
+Run the full multilingual sweep:
+
+```bash
+npm run discover:communities
+```
+
+The local report is written to `.artifacts/community-discovery/report.json` and `report.md`. A `partial` report means one or more GitHub operations failed and must not be treated as complete.
+
+After reviewing each Issue URL, create `.artifacts/community-discovery/reviews.json`:
+
+```json
+{
+  "decisions": [
+    {
+      "repository": "owner/jobs",
+      "decision": "approved",
+      "reason": "At least one open GitHub Issue is a public job",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Asia",
+      "locale": "en-IN",
+      "scope": "national",
+      "evidenceUrl": "https://github.com/owner/jobs/issues/123",
+      "confirmEvidence": true
+    }
+  ]
+}
+```
+
+Preview first, then apply explicitly:
+
+```bash
+npm run review:communities -- --report .artifacts/community-discovery/report.json --reviews .artifacts/community-discovery/reviews.json
+npm run review:communities -- --report .artifacts/community-discovery/report.json --reviews .artifacts/community-discovery/reviews.json --apply
+```
+
+Applying reviews only updates the source catalog and decision registry. Rebuilding and publishing the snapshot remain separate maintainer actions.
+
+The weekly `Discover Communities` workflow runs the same review-first process, uploads both reports, and opens one review Issue when qualified candidates exist. It does not mutate the catalog. Partial runs retain their artifacts and fail the final workflow gate.
+
 ## Local Setup
 
 Requirements:
@@ -154,6 +204,10 @@ npm run build:snapshot
 - `MAX_REPOSITORIES`: default `0` (`0` means no cap), max `50000`.
 - `REQUEST_DELAY_MS`: default `120`, min `0`, max `10000`.
 - `COUNTRY_CODES`: optional comma-separated filter, for example `BR,US,PT`.
+- `DISCOVERY_OUTPUT_DIR`: local discovery report directory.
+- `DISCOVERY_MAX_QUERIES`: optional query cap; `0` runs every configured query.
+- `DISCOVERY_MAX_RESULTS_PER_QUERY`: result cap per GitHub search query.
+- `DISCOVERY_REQUEST_DELAY_MS`: delay between discovery API requests.
 
 ## Validation
 

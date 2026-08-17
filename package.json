@@ -6,6 +6,8 @@
   "description": "Public data pipeline for openings.dev",
   "scripts": {
     "build:snapshot": "node scripts/build-opportunities.mjs",
+    "discover:communities": "node src/cli/discover-communities.mjs",
+    "review:communities": "node src/cli/review-communities.mjs",
     "migrate:snapshot": "node scripts/migrate-opportunities-snapshot.mjs",
     "test": "node --test",
     "validate": "npm test && node scripts/validate-repo.mjs"

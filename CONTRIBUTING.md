@@ -56,6 +56,19 @@ Update `src/modules/catalog/repositories.json` with:
 - `countryCode`: uppercase country code or `GLOBAL`
 - `region`: human-readable region
 
+Every new source must have at least one currently open GitHub Issue that is clearly a public job. Record that Issue URL during review. Pull Requests, Discussions, repository README lists, and contribution tasks are not qualifying evidence.
+
+Use `Global` only when the source genuinely publishes jobs without a country scope. It is not a fallback for an unknown or unreviewed location; unresolved location stays in the discovery inbox until a maintainer can classify it.
+
+The preferred flow is:
+
+```bash
+npm run discover:communities
+npm run review:communities -- --report .artifacts/community-discovery/report.json --reviews .artifacts/community-discovery/reviews.json
+```
+
+The review command is preview-only unless `--apply` is supplied. Discovery never publishes a source automatically.
+
 After editing the catalog, run:
 
 ```bash
