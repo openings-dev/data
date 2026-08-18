@@ -1,16 +1,57 @@
 {
-  "generatedAt": "2026-08-17T09:33:45.101Z",
+  "generatedAt": "2026-08-18T00:45:53.197Z",
   "country": "Portugal",
   "countryCode": "PT",
   "region": "Europe",
   "repository": "backend-pt/vagas",
   "totals": {
     "opportunities": 27,
-    "openIssues": 25,
-    "closedIssues": 2
+    "openIssues": 26,
+    "closedIssues": 1
   },
-  "dataHash": "5097fcd1f56d5abb30a3ace8ed39fbe0a41387b39e57b5de6b94d8c317a392e6",
+  "dataHash": "4279e75356d12bec4561b4150338d63c2f48ee0afae3fa3ef3ebca99a5720510",
   "items": [
+    {
+      "id": "gh_b502e928d1322466092d6846",
+      "sourceId": "backend-pt/vagas#163",
+      "title": "[Remoto] Go Backend Developer Pleno @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Go Backend Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver serviços de alta concorrência em Go\n- Otimizar latência e uso de recursos\n- Instrumentar serviços para observabilidade\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Go (de 2 a 5 anos)\n- Go e sua biblioteca padrão\n- APIs REST ou gRPC\n- Goroutines e canais\n- SQL e Docker\n\n**Diferenciais:**\n- Kubernetes\n- Kafka ou NATS\n- Prometheus e Grafana\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-go-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "07c0ca04013f102275eb52d445876cee9a48fc6fb875b43f3cec6fbd7b7590c0",
+      "repository": "backend-pt/vagas",
+      "repositoryUrl": "https://github.com/backend-pt/vagas",
+      "region": "Europe",
+      "country": "Portugal",
+      "tags": [
+        "remoto",
+        "pleno",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "backend-pt",
+        "name": "backend-pt",
+        "avatarUrl": "https://github.com/backend-pt.png?size=80",
+        "repository": "backend-pt/vagas",
+        "url": "https://github.com/backend-pt/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-17T23:32:36Z",
+      "updatedAt": "2026-08-17T23:33:08Z",
+      "url": "https://github.com/backend-pt/vagas/issues/163",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_d4e51ea4fee992d283ea545e",
       "sourceId": "backend-pt/vagas#162",
@@ -1047,43 +1088,6 @@
       "createdAt": "2025-11-12T13:42:44Z",
       "updatedAt": "2026-05-08T02:37:47Z",
       "url": "https://github.com/backend-pt/vagas/issues/135",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_cc17eb34fb9b8bc4db987d98",
-      "sourceId": "backend-pt/vagas#133",
-      "title": "[Remoto] Fullstack Developer @ Alts Digital",
-      "description": "### Nossa empresa\n\n🧩 About Alts\nAlts Digital is a fast-growing, bootstrapped group that builds digital ventures shaping how people engage with information, make decisions, and create value online. We specialize in guiding users to the best services for their needs, driving customer acquisition for leading brands in the iGaming and fintech sectors.\nBased in Portugal and operating as a remote-first company, our diverse team of 50+ members from + 10 countries serves thousands of customers worldwide.\nAs founders, designers, adventurers, coders, parents, and animal lovers, we move fast, think ambitiously, and are passionate about building products that make an impact. We’re excited to welcome a new generation of developers to join our journey. 🚀\n\n### Descrição da vaga\n\n👩‍💻 What You’ll Be Doing\n- Develop and maintain high-traffic websites built primarily with ReactJs, Laravel and WordPress, focusing on performance, scalability, and code quality.\n- Implement new features and improve existing ones, always following best practices in clean code, SEO, and web performance.\n- Investigate and resolve bugs or technical issues, ensuring systems remain stable and efficient.\n- Collaborate with the Lead Developer to define technical solutions and guide architectural decisions.\n- Propose and implement improvements in tooling, workflows, and development processes.\n- Keep up with new technological trends and bring forward ideas for new implementations—any suggestions to improve our current systems or precesses are always welcome.\n- Leverage AI tools (like GitHub Copilot, ChatGPT, Claude, Cursor, etc.) to accelerate development, troubleshoot issues, and streamline documentation.\n- Keep an eye on performance, scalability, and best practices—both front-end and back-end.\n\n\n### Local\n\nRemote (within Portugal)\n\n### Requisitos\n\n🛠 Must-Have Skills\n- At least 5 years working in Web Development\n- Based in Portugal (remote-friendly within the country)\n- Strong understanding of PHP back-end development\n- Proficiency in ReactJS, TailwindCSS, and Typescript\n- Experience with WordPress or Laravel, or at least willingness to learn both\n- Experience working with MySQL or other relational databases\n- Knowledge of how to interact with RESTful APIs and formats (JSON, XML)\n- Proficient understanding of code versioning tools such as Git\n- Excellent communication and teamwork skills but also the ability to work alone\n- Comfortable leveraging AI-powered tools (e.g. GitHub Copilot, ChatGPT, Claude, Cursor, etc.) to accelerate development, troubleshoot code, and boost productivity\n- Open mindset toward integrating emerging AI workflows into day-to-day tasks—from code generation and debugging to documentation.\n\n### Benefícios\n\n🎁 Benefits You’ll Receive\n- 100% remote startup environment with all its ups and downs. Mostly ups.\n- Salary: up to €50k per year, depending on your skill level, experience and location.\n- Workation — a mix of work and vacation. Once a year, we find a cool place to work and have fun together.\n- Alts Ville: We have a house in the stunning Madeira Island available for all employees who want to spend some time with friends, colleagues, and family 🏝️\n- Health Insurance. We value the well-being and health of our team. To ensure that everyone feels cared for, we offer Health Insurance 🏥\n- 1.000€ / year - financial support in other areas of your life, e.g., professional development.\n- We offer a 100€ monthly voucher to use in co-working spaces. Working remotely doesn’t have to mean working from home every day.\n\n\n### Contratação\n\nContrato à termo certo\n\n### Como se candidatar\n\nEnvie sua candidatura aqui: https://jobs.altsdigital.com/o/senior-full-stack-developer-portugal-remote-2-4\n\n### Tempo médio de feedbacks\n\n4 dias\n\n### Keywords\n\nPHP laravel react wordpress CSS\n\n### Alocação\n\n- [ ] Alocado\n- [x] Remoto\n- [ ] Presencial\n- [ ] Híbrido\n\n### Regime\n\n- [x] Contrato\n- [ ] Freela\n- [ ] RV\n\n### Nível\n\n- [ ] Júnior\n- [ ] Pleno\n- [x] Sênior\n- [ ] Especialista\n\n### Período\n\n- [x] Full time\n- [ ] Part Time\n- [ ] Projeto\n\n### Remuneração\n\nNone",
-      "excerpt": "### Nossa empresa 🧩 About Alts Alts Digital is a fast-growing, bootstrapped group that builds digital ventures shaping how people engage with information, make decisions, and create value online. We specialize in gui...",
-      "issueState": "closed",
-      "contentHash": "4c8c2aca5989d6228cd60350bd9fae0c905e2e8e687813baa41de6c4eb1b4bdd",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "stale",
-        "remoto",
-        "full time",
-        "sênior",
-        "contrato"
-      ],
-      "author": {
-        "id": "maria-coelho-recruiter",
-        "name": "maria-coelho-recruiter",
-        "handle": "maria-coelho-recruiter",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/189983924?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "createdAt": "2025-05-27T10:26:03Z",
-      "updatedAt": "2025-08-28T01:10:46Z",
-      "url": "https://github.com/backend-pt/vagas/issues/133",
       "sourceType": "github-issue"
     }
   ]

@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-08-17T18:49:45.376Z",
+  "generatedAt": "2026-08-18T00:45:53.197Z",
   "page": 7,
   "pageSize": 20,
   "nextPage": "api/pages/page-0008.json",
   "ids": [
+    "gh_694fa53d6e76634d9cafa751",
+    "gh_f56503532982a29116fdf52d",
+    "gh_dfcbe50e8ae29a4cf5d215b3",
+    "gh_eef408b922269c57414905ce",
+    "gh_80cc9107104aa58519fa92b8",
     "gh_514b5aee565ebd7e864425a8",
     "gh_663591f67aef746d38ddcc66",
     "gh_aa9c63ac8bf85fcd2001b22f",
@@ -18,14 +23,212 @@
     "gh_cc91aec0fe01502e65e61530",
     "gh_ce1cd59127258c1d67f5ef96",
     "gh_506bda03fefcc4bda64c5a95",
-    "gh_0190ae3f50b9d7353b5dee68",
-    "gh_4b477283ff274db145cfb7e6",
-    "gh_51e483ebb34d54e2febabf8f",
-    "gh_3b0fb17013f605ffae1ecffc",
-    "gh_55bdc13f810aaec74877d2c8",
-    "gh_b0364c3e5754459ec018dcc6"
+    "gh_0190ae3f50b9d7353b5dee68"
   ],
   "items": [
+    {
+      "id": "gh_694fa53d6e76634d9cafa751",
+      "sourceId": "qa-brasil/vagas#1271",
+      "title": "[Remoto] QA/Automação Pleno na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de QA/Automação nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Local de trabalho\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA/Automação (de 2 a 5 anos)\n- Automação web (Cypress, Playwright ou Selenium)\n- Uma linguagem de programação\n- Teste de API (Postman ou RestAssured)\n- CI/CD\n\n**Diferenciais:**\n- Teste de performance (k6 ou JMeter)\n- Teste mobile\n- Contract testing\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 7.000 e R$ 12.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-automacao-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Descrição da vaga Vaga de QA/Automação nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 7.000 a 12.000/mês, conforme experiência. ## Local de trabalho 100% rem...",
+      "issueState": "open",
+      "contentHash": "37efc3dcd077f20ed913336fba2a2214b441cbc7c93124b49b8555840eb2b3be",
+      "repository": "qa-brasil/vagas",
+      "repositoryUrl": "https://github.com/qa-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "pleno",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "qa-brasil",
+        "name": "qa-brasil",
+        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
+        "repository": "qa-brasil/vagas",
+        "url": "https://github.com/qa-brasil/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-05T18:27:39Z",
+      "updatedAt": "2026-08-05T18:28:14Z",
+      "url": "https://github.com/qa-brasil/vagas/issues/1271",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_f56503532982a29116fdf52d",
+      "sourceId": "datascience-br/vagas#180",
+      "title": "[Remoto] Dados/SQL Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (de 2 a 5 anos)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "545758343907906bd40445a6532db955a432132e63f146d93e9fceb1dd3117b9",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-05T15:05:38Z",
+      "updatedAt": "2026-08-05T15:05:38Z",
+      "url": "https://github.com/datascience-br/vagas/issues/180",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_dfcbe50e8ae29a4cf5d215b3",
+      "sourceId": "datascience-br/vagas#179",
+      "title": "[Remoto] Ciência de Dados Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Ciência de Dados nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Formular hipóteses e validar com dados\n- Construir modelos preditivos e medir impacto\n- Comunicar resultado para área de negócio\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Ciência de Dados (de 2 a 5 anos)\n- Python (pandas, scikit-learn)\n- Estatística e testes de hipótese\n- SQL\n- Visualização de dados\n\n**Diferenciais:**\n- MLOps\n- Cloud\n- Deep learning\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-ciencia-de-dados-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "42cbf18e6c897f2f5136d248b81046d378a38dba10a22c9530415b9e1169f27b",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-05T12:11:31Z",
+      "updatedAt": "2026-08-05T12:11:31Z",
+      "url": "https://github.com/datascience-br/vagas/issues/179",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_eef408b922269c57414905ce",
+      "sourceId": "DevOps-Brasil/Vagas#483",
+      "title": "[Site Reliability Engineer Pleno] Sylision - Híbrido",
+      "description": "### 🎯 Cargo\n\nSite Reliability Engineer\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nA combinar com a empresa contratante\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de Site Reliability Engineer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com SRE (de 2 a 5 anos)\n- Linux e redes\n- Observabilidade (Prometheus, Grafana, tracing)\n- Kubernetes\n- Automação (Python, Go ou Bash)\n\n**Diferenciais:**\n- Terraform\n- Engenharia de caos\n- Gestão de incidentes em escala\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- SRE\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-sre-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-sre-pleno",
+      "excerpt": "### 🎯 Cargo Site Reliability Engineer ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização A combinar com a empresa c...",
+      "issueState": "open",
+      "contentHash": "30697b2c4134ecd832fe226e4f5404ef7ed5780b0dae2f9699ade312c995d63a",
+      "repository": "DevOps-Brasil/Vagas",
+      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "sre",
+        "platform",
+        "kubernetes",
+        "terraform",
+        "pa",
+        "pleno"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "DevOps-Brasil",
+        "name": "DevOps-Brasil",
+        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
+        "repository": "DevOps-Brasil/Vagas",
+        "url": "https://github.com/DevOps-Brasil/Vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-05T12:06:01Z",
+      "updatedAt": "2026-08-05T12:06:23Z",
+      "url": "https://github.com/DevOps-Brasil/Vagas/issues/483",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_80cc9107104aa58519fa92b8",
+      "sourceId": "awesome-jobs/vietnam#4996",
+      "title": "Head of Sales_Fintech_HCMC",
+      "description": "About the Role \nI am now looking for an experienced and commercially driven Head of Sales to lead and scale our Vietnam business. This is a newly created leadership position and a key member of the Vietnam leadership team, responsible for driving revenue growth, building strategic partnerships, and strengthening our market presence across Vietnam. \n\nKey Responsibilities \n● Lead and manage all Business Development/Key Account team members across Vietnam \n● Drive revenue growth and achieve business performance targets across all customer segments \n● Establish and strengthen strategic relationships with key enterprise clients, partners, and stakeholders worldwide in multi-regions \n● Expand the company's presence within Chinese and Vietnamese business ecosystems \n● Drive operational excellence, sales governance, forecasting, and pipeline management \n\nRequirements \n● Bachelor's degree in Business, Finance, Economics, Marketing, or related fields \n● Minimum 10 years of relevant experience in sales, business development, or commercial leadership roles \n● At least 3 years of proven experience managing and leading sizable teams \n● Working proficiency in Mandarin, English, and Vietnamese \n\n\nContact me for more details (interview process, benefits,...)\nZalo/ WhatsApp: +84353697487\nLinkedIn: https://www.linkedin.com/in/dungmaingocvn/",
+      "excerpt": "About the Role I am now looking for an experienced and commercially driven Head of Sales to lead and scale our Vietnam business. This is a newly created leadership position and a key member of the Vietnam leadership t...",
+      "issueState": "open",
+      "contentHash": "9632cb2359977ed0c3a9c5d40cee4062dc1a59a108b3ebb62fddf2eba8068246",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [],
+      "author": {
+        "id": "iamkathymai",
+        "name": "iamkathymai",
+        "handle": "iamkathymai",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/186159011?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-08-05T09:57:45Z",
+      "updatedAt": "2026-08-05T09:57:45Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4996",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_514b5aee565ebd7e864425a8",
       "sourceId": "awesome-jobs/vietnam#4995",
@@ -541,224 +744,6 @@
       "createdAt": "2026-08-04T13:35:06Z",
       "updatedAt": "2026-08-04T13:35:25Z",
       "url": "https://github.com/backend-br/vagas/issues/12369",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_4b477283ff274db145cfb7e6",
-      "sourceId": "qa-brasil/vagas#1270",
-      "title": "[Híbrido] QA Manual Sênior na Sylision",
-      "description": "## Descrição da vaga\n\nVaga de QA Manual nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local de trabalho\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos da vaga\n\n**Obrigatórios:**\n- Experiência profissional com QA Manual (5 anos ou mais)\n- Elaboração de casos e planos de teste\n- Teste exploratório e de regressão\n- Ferramenta de gestão de defeitos (Jira ou similar)\n- Noções de SQL\n\n**Diferenciais:**\n- Início em automação\n- Teste de API\n- Certificação CTFL\n\n## Forma de contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Benefícios da empresa\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Range Salarial\n\nA vaga paga entre R$ 12.000 e R$ 22.000 por mês, conforme experiência.\n\n## Sobre a empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-qa-manual-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Descrição da vaga Vaga de QA Manual nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de QA. Faixa salarial: R$ 12.000 a 22.000/mês, conforme experiência. ## Local de trabalho Híbrido o...",
-      "issueState": "open",
-      "contentHash": "663a060ba65ff5ed68350fb1b66ecf75b9ef6362a55d3e2ef9422278f7dd02f3",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-04T12:45:15Z",
-      "updatedAt": "2026-08-04T12:45:46Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1270",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_51e483ebb34d54e2febabf8f",
-      "sourceId": "datascience-br/vagas#178",
-      "title": "[Remoto] Analytics/BI Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Analytics/BI nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Construir painéis e relatórios para as áreas de negócio\n- Definir e documentar métricas\n- Traduzir pergunta de negócio em análise\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Analytics/BI (de 2 a 5 anos)\n- Power BI, Looker ou Tableau\n- SQL avançado\n- Modelagem dimensional\n- Comunicação com áreas de negócio\n\n**Diferenciais:**\n- dbt\n- Python\n- Cloud\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-analytics-bi-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "54cf3a2d6739c4e2cd85d5103f0b87ae7019a5e6bba096a3f3927b63b21ad23f",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-04T12:37:19Z",
-      "updatedAt": "2026-08-04T12:37:19Z",
-      "url": "https://github.com/datascience-br/vagas/issues/178",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_3b0fb17013f605ffae1ecffc",
-      "sourceId": "datascience-br/vagas#177",
-      "title": "[Híbrido] Machine Learning Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Machine Learning nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Treinar, avaliar e colocar modelos em produção\n- Monitorar deriva e desempenho dos modelos\n- Automatizar o ciclo de vida do modelo\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Machine Learning (5 anos ou mais)\n- Python (scikit-learn, PyTorch ou TensorFlow)\n- Engenharia de features\n- Métricas de avaliação\n- SQL\n\n**Diferenciais:**\n- MLflow ou Kubeflow\n- Cloud\n- Docker e Kubernetes\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-machine-learning-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "b686fb37af446b154a232a939b34d76857977645a986ac9fc1744e2341a93b7c",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-04T12:32:25Z",
-      "updatedAt": "2026-08-04T12:32:25Z",
-      "url": "https://github.com/datascience-br/vagas/issues/177",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_55bdc13f810aaec74877d2c8",
-      "sourceId": "DevOps-Brasil/Vagas#482",
-      "title": "[DevOps Engineer (Kubernetes) Pleno] Sylision - Híbrido",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (Kubernetes)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nA combinar com a empresa contratante\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (Kubernetes) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com Kubernetes (de 2 a 5 anos)\n- Kubernetes (deployments, services, ingress, RBAC)\n- Helm\n- Docker\n- Linux e redes\n\n**Diferenciais:**\n- GitOps (ArgoCD ou Flux)\n- Service mesh (Istio)\n- Terraform\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- Kubernetes\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-kubernetes-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-kubernetes-pleno",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (Kubernetes) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização A combinar com a empres...",
-      "issueState": "open",
-      "contentHash": "ae640b1f3d7afca046858ecbb83f58924e2dcc73357aee8f7fccfaa1139edc09",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "kubernetes",
-        "terraform",
-        "docker",
-        "pa"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-04T12:25:39Z",
-      "updatedAt": "2026-08-04T12:25:58Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/482",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_b0364c3e5754459ec018dcc6",
-      "sourceId": "DevOps-Brasil/Vagas#481",
-      "title": "[DevOps Engineer (Azure) Pleno] Sylision - Híbrido",
-      "description": "### 🎯 Cargo\n\nDevOps Engineer (Azure)\n\n### 🏢 Empresa\n\nSylision (recrutamento para empresa parceira)\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nHíbrido\n\n### 📍 Localização\n\nA combinar com a empresa contratante\n\n### 📝 Tipo de Contratação\n\nCLT ou PJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\n7.000 - 12.000\n\n### 📋 Descrição da Vaga\n\nVaga de DevOps Engineer (Azure) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n### ✅ Requisitos Técnicos\n\n**Obrigatórios:**\n- Experiência profissional com DevOps/Azure (de 2 a 5 anos)\n- Azure (App Service, AKS, Storage, Entra ID)\n- Terraform ou Bicep\n- Docker\n- Azure DevOps ou GitHub Actions\n\n**Diferenciais:**\n- Kubernetes (AKS)\n- Observabilidade\n- Governança e políticas\n\n### 🎁 Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n### 🛠️ Stack/Tecnologias\n\n- DevOps/Azure\n- Boas práticas: CI/CD, IaC, observabilidade (varia conforme o projeto)\n\n### 📧 Como se Candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-devops-azure-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n### 🔗 Link da Vaga (opcional)\n\nhttps://www.sylision.com/vagas/desenvolvedor-devops-azure-pleno",
-      "excerpt": "### 🎯 Cargo DevOps Engineer (Azure) ### 🏢 Empresa Sylision (recrutamento para empresa parceira) ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Híbrido ### 📍 Localização A combinar com a empresa con...",
-      "issueState": "open",
-      "contentHash": "bdeeb0c17af61aa55563eaef9000deef2c7a5ecec8af49f762a543c2dc46acd6",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "devops",
-        "platform",
-        "azure",
-        "kubernetes",
-        "terraform",
-        "docker"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-04T12:20:53Z",
-      "updatedAt": "2026-08-04T12:21:12Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/481",
       "sourceType": "github-issue"
     }
   ]
