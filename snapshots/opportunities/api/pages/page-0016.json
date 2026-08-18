@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-18T00:45:53.197Z",
+  "generatedAt": "2026-08-18T06:29:59.091Z",
   "page": 16,
   "pageSize": 20,
   "nextPage": "api/pages/page-0017.json",
   "ids": [
+    "gh_aae2906ad2e4de661fd3b293",
     "gh_ecd901effb81276b5c7b524e",
     "gh_01d59eb415dd02a0c1612a74",
     "gh_feb5a1e870d6a7306fbb3f92",
@@ -22,10 +23,40 @@
     "gh_d745286de58b9dcf439338bc",
     "gh_8efe119dc847f2d5d97185b1",
     "gh_0871ca1a0ecc002bf7e9c19a",
-    "gh_bf1a4481c55b8d80f89cba07",
-    "gh_88ea999c66efeb67b1469595"
+    "gh_bf1a4481c55b8d80f89cba07"
   ],
   "items": [
+    {
+      "id": "gh_aae2906ad2e4de661fd3b293",
+      "sourceId": "speedyapply/2027-AI-College-Jobs#10",
+      "title": "New Position",
+      "description": "### Position Title\n\nSoftware Engineer, AI Platform - New Grad\n\n### Position Application Link\n\nhttps://www.nuro.ai/careersitem?gh_jid=7351066&gh_src=bcd22a501us\n\n### Company Name\n\nNuro\n\n### Company Link\n\nhttps://www.nuro.ai/careers?gh_src=bcd22a501us\n\n### Location\n\nMountain View, CA\n\n### Is this a new grad position or an internship?\n\nNew Grad\n\n### Is this position based in the USA?\n\nYes, it's based in the USA.\n\n### Your GitHub Email\n\nderex1987@gmail.com",
+      "excerpt": "### Position Title Software Engineer, AI Platform - New Grad ### Position Application Link https://www.nuro.ai/careersitem?gh_jid=7351066&gh_src=bcd22a501us ### Company Name Nuro ### Company Link https://www.nuro.ai/c...",
+      "issueState": "open",
+      "contentHash": "52e023f82badea1f09d8f739ee0138db42fc246d4f9418cbe76e43514f9a7337",
+      "repository": "speedyapply/2027-AI-College-Jobs",
+      "repositoryUrl": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "region": "North America",
+      "country": "United States",
+      "tags": [],
+      "author": {
+        "id": "DereC4",
+        "name": "DereC4",
+        "handle": "DereC4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4"
+      },
+      "community": {
+        "id": "speedyapply",
+        "name": "speedyapply",
+        "avatarUrl": "https://github.com/speedyapply.png?size=80",
+        "repository": "speedyapply/2027-AI-College-Jobs",
+        "url": "https://github.com/speedyapply/2027-AI-College-Jobs"
+      },
+      "createdAt": "2026-07-09T10:59:35Z",
+      "updatedAt": "2026-07-09T10:59:35Z",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs/issues/10",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ecd901effb81276b5c7b524e",
       "sourceId": "speedyapply/2026-AI-College-Jobs#9",
@@ -685,45 +716,6 @@
       "createdAt": "2026-06-18T07:09:49Z",
       "updatedAt": "2026-06-29T06:26:57Z",
       "url": "https://github.com/f2etw/jobs/issues/1168",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_88ea999c66efeb67b1469595",
-      "sourceId": "frontendbr/vagas#8509",
-      "title": "[Rio Claro - São Paulo] Front-end Developer Pleno no Grupo MNGT",
-      "description": "<!-- \n==================================================\nPOR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!\n\n!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!\n\nNão faça distinção de gênero no título da vaga.\n\nUse: \"Front-End Developer\" ao invés de \n\"Desenvolvedor Front-End\" \\o/\n\nExemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`\n==================================================\n-->\n\n## Descrição da vaga\n\nBuscamos um(a) desenvolvedor(a) com foco em frontend e produto digital para atuar na construção e evolução de sites institucionais, landing pages e interfaces internas. O profissional trabalhará lado a lado com o time de TI e com as áreas de Marketing e Comercial, sendo responsável por entregar experiências digitais de qualidade, com boas práticas de SEO, analytics e performance. É uma vaga ideal para quem quer crescer em um ambiente dinâmico, com espaço para evoluir para Full Stack.\n\n## Local\n\nPresencial em Rio Claro - SP, com possibilidade de ser híbrido para quem mora em São Paulo, com idas a Rio Claro.\n\n## Requisitos\n\n### Responsabilidades\n- Desenvolver e manter sites institucionais e landing pages responsivas e de alto desempenho.\n- Implementar rastreamento e analytics (Google Tag Manager, Microsoft Clarity e similares).\n- Criar e manter componentes de interface reutilizáveis com React / Next.js.\n- Configurar redirecionamentos, páginas de erro e boas práticas de SEO técnico.\n- Colaborar com a área de Marketing para traduzir briefings em páginas e fluxos digitais.\n- Apoiar na evolução de ferramentas internas de geração de conteúdo com IA.\n- Participar das cerimônias ágeis e manter documentação atualizada.\n\n### O que você precisa ter\n- HTML / CSS / JS: domínio sólido, código semântico, responsividade e acessibilidade básica.\n- React / Next.js: experiência na construção de páginas e componentes; roteamento e SSR/SSG.\n- Git / GitHub: fluxo diário com branches e PRs.\n- Analytics & GTM: noção de implementação de tags, eventos e pixels de rastreamento.\n- Comunicação: capacidade de entender demandas de áreas não técnicas e transformá-las em código.\n- Vontade de aprender: disposição para usar LLMs no cotidiano de desenvolvimento.\n\n### Diferenciais\n- Experiência com TypeScript.\n- Noções de backend (Node.js ou Python) — desejo de evoluir para Full Stack.\n- Conhecimento em performance web (Core Web Vitals, Lighthouse).\n- Experiência com ferramentas de CMS headless ou construtores de landing page.\n- Portfólio com projetos publicados (sites, apps ou contribuições open source).\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\nCandidate-se aqui:  https://oportunidades.mindsight.com.br/grupomngt/15\n\n#### Alocação\n- Alocado\n\n#### Regime\n- PJ\n\n#### Nível\n- Pleno",
-      "excerpt": "<!-- ================================================== POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END! !!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!! Não faça distinção de gênero no título da vaga. Use: \"F...",
-      "issueState": "open",
-      "contentHash": "4641141db620cf2b8d0e32d024deef9e53ebeddb8c3ebcc476095b2359d75284",
-      "repository": "frontendbr/vagas",
-      "repositoryUrl": "https://github.com/frontendbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pleno",
-        "pj",
-        "alocado",
-        "são paulo",
-        "stale",
-        "híbrido"
-      ],
-      "author": {
-        "id": "JuscelinoJunior",
-        "name": "JuscelinoJunior",
-        "handle": "JuscelinoJunior",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23690136?v=4"
-      },
-      "community": {
-        "id": "frontendbr",
-        "name": "frontendbr",
-        "avatarUrl": "https://github.com/frontendbr.png?size=80",
-        "repository": "frontendbr/vagas",
-        "url": "https://github.com/frontendbr/vagas"
-      },
-      "companyName": "Grupo MNGT",
-      "createdAt": "2026-06-18T04:45:52Z",
-      "updatedAt": "2026-08-18T00:41:42Z",
-      "url": "https://github.com/frontendbr/vagas/issues/8509",
       "sourceType": "github-issue"
     }
   ]
