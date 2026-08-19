@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-19T09:26:09.606Z",
+  "generatedAt": "2026-08-19T12:30:02.160Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_d4b9ac0a55f837df6635ec9f",
+    "gh_605acd31c6f59ca0df9a8277",
     "gh_c06daaad995cc1deea93e402",
     "gh_7839c5ad339afa69e7edda8b",
     "gh_9833b976c233740aa7b05535",
@@ -21,11 +23,79 @@
     "gh_a6c2a2b23c9062e1829400dc",
     "gh_8f96a0378ddf99b44464c764",
     "gh_991d451cae933311704c7f75",
-    "gh_2294ee8082ec21ce3f6b9b81",
-    "gh_5f0630fa7e57dc09373e3d55",
-    "gh_11944841441844a1fbd05128"
+    "gh_2294ee8082ec21ce3f6b9b81"
   ],
   "items": [
+    {
+      "id": "gh_d4b9ac0a55f837df6635ec9f",
+      "sourceId": "awesome-jobs/vietnam#5022",
+      "title": "[HCM] Fullstack Developer (Java + VueJS)",
+      "description": "**Địa điểm làm việc:** Phú Nhuận, TP.HCM\n**Tiếng Anh:** Cơ bản\n\n**I. Trách nhiệm**\n- Phát triển và duy trì giao diện người dùng responsive, theo hướng component-driven sử dụng Vue.js, đảm bảo tính nhất quán với các tiêu chuẩn UX và design system.\n- Xây dựng và duy trì RESTful APIs và business logic sử dụng Java / IBM AppConnect / .Net, hỗ trợ các quy trình nghiệp vụ cốt lõi trong lĩnh vực bảo hiểm như quản lý hợp đồng bảo hiểm, xử lý yêu cầu bồi thường và xử lý dữ liệu khách hàng. Đảm bảo validation, error handling phù hợp và tuân thủ các yêu cầu bảo mật theo quy định đối với dịch vụ tài chính.\n- Quản lý việc triển khai các ứng dụng container hóa sử dụng Docker, đóng góp vào các CI/CD pipeline và cấu hình môi trường.\n- Viết unit test và integration test, tham gia code review và duy trì các tiêu chuẩn kỹ thuật trong team.\n- Đóng góp vào tài liệu kỹ thuật và chia sẻ kiến thức giữa các squad.\n\n**II. Yêu cầu kinh nghiệm**\n**_1. Bắt buộc_**\n- Có 3–5 năm kinh nghiệm thực tế trong phát triển Full-stack.\n- Thành thạo Vue.js — components, Vuex/Pinia, Vue Router và composables.\n- Có kinh nghiệm vững về Java (Spring Boot), hiểu các nguyên tắc thiết kế RESTful API — versioning, error contracts và documentation (Swagger/OpenAPI).\n- Có hiểu biết cơ bản về các middleware patterns và hosted services trong .NET Core.\n- Hiểu về kiến trúc microservices — service boundaries, API contracts và các distributed system patterns.\n- Có kinh nghiệm thực tế với Docker và triển khai ứng dụng container hóa.\n- Có hiểu biết về cơ sở dữ liệu quan hệ (PostgreSQL, IBM DB2, MS SQL Server…) và viết SQL hiệu quả.\n- Có kinh nghiệm với các quy trình làm việc dựa trên Git và phương pháp phát triển cộng tác.\n- Có kinh nghiệm viết unit test và integration test (JUnit, Mockito cho backend; Vitest hoặc Jest cho frontend).\n- Có hiểu biết về các tiêu chuẩn test coverage và quality gates trong CI pipeline.\n- Có nhận thức về các phương pháp secure coding liên quan đến việc xử lý dữ liệu tài chính (input validation, encryption at rest/transit).\n\n**_2. Ưu tiên_**\n- Có kinh nghiệm với IBM App Connect Enterprise (ACE) hoặc các integration middleware tương tự.\n- Có kinh nghiệm trong lĩnh vực bảo hiểm, ngân hàng hoặc các môi trường dịch vụ tài chính được quản lý.\n- Có kiến thức về message brokers (Kafka, RabbitMQ) cho giao tiếp theo mô hình event-driven.\n- Có hiểu biết về các công cụ CI/CD (GitLab CI, Jenkins hoặc tương tự).\n\n**III. Bằng cấp / Trình độ**\n- Tốt nghiệp Cử nhân hoặc Thạc sĩ chuyên ngành Computer Science, Software Engineering, Information Technology hoặc có kinh nghiệm thực tế tương đương, thể hiện cùng mức độ năng lực.\n- Có kinh nghiệm trước đó trong lĩnh vực bảo hiểm, ngân hàng hoặc dịch vụ tài chính là một lợi thế.\n- Có hiểu biết về các khái niệm trong lĩnh vực bảo hiểm (vòng đời hợp đồng bảo hiểm, tính phí bảo hiểm, quy trình bồi thường) là một lợi thế.\n- Các chứng chỉ liên quan (Cloud, Certified Developer...) là một điểm cộng.\n==========================\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
+      "excerpt": "**Địa điểm làm việc:** Phú Nhuận, TP.HCM **Tiếng Anh:** Cơ bản **I. Trách nhiệm** - Phát triển và duy trì giao diện người dùng responsive, theo hướng component-driven sử dụng Vue.js, đảm bảo tính nhất quán với các tiê...",
+      "issueState": "open",
+      "contentHash": "46383be86f3dd0bd2c3c70db449fd1deffcd4ae3bb03e23d1ce7c0b39b5fcbff",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "frontend",
+        "backend",
+        "fullstack",
+        "java",
+        "design"
+      ],
+      "author": {
+        "id": "Linh-IT-Recruiter",
+        "name": "Linh-IT-Recruiter",
+        "handle": "Linh-IT-Recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-08-19T09:50:31Z",
+      "updatedAt": "2026-08-19T09:50:31Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5022",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_605acd31c6f59ca0df9a8277",
+      "sourceId": "awesome-jobs/vietnam#5021",
+      "title": "[Hà Nội] Senior Android System Engineer – Android TV / STB",
+      "description": "Địa điểm: Cầu Giấy, Hà Nội\n\n**Mô tả công việc:**\n- Làm việc trên toàn bộ Android stack — từ phát triển ứng dụng giao diện người dùng đến các thành phần Android Framework và tích hợp Hardware Abstraction Layer (HAL) cho phần cứng STB.\n- Thiết kế, phát triển và bảo trì driver/module/app cho các nền tảng Set-Top Box (STB).\n- Viết mã nguồn chất lượng cao để tạo ra các software driver/module/app đầy đủ chức năng.\n- Tối ưu hiệu suất hệ thống để đảm bảo khả năng phát nội dung mượt mà và độ phản hồi tốt trên các thiết bị STB.\n- Kiểm thử và debug driver/module/app trên các nền tảng và phiên bản STB khác nhau.\n- Hỗ trợ kỹ thuật và xử lý sự cố để giải quyết các vấn đề liên quan đến STB.\n\n**Yêu cầu:**\n- Tốt nghiệp Cử nhân/Thạc sĩ hoặc có kinh nghiệm tương đương trong lĩnh vực Khoa học Máy tính (Computer Science) từ các trường đại học kỹ thuật uy tín.\n- Có kiến thức chuyên sâu về Android OS, bao gồm kiến trúc, framework và các thành phần cấp hệ thống.\n- Có kinh nghiệm thực tế trong phát triển phần mềm, tập trung vào STB driver/Middleware/App.\n- Có 8+ năm kinh nghiệm phát triển phần mềm trên hệ thống Android.\n- Techstack: Cần biết cả 2 stack Android và C/C++ (Có thể mạnh 1 trong 2 và biết sơ sơ stack còn lại).\n- Thành thạo tiếng Anh đọc + viết\n- Có hiểu biết tốt và kinh nghiệm thực tế với phương pháp phát triển Agile.\n==========================\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
+      "excerpt": "Địa điểm: Cầu Giấy, Hà Nội **Mô tả công việc:** - Làm việc trên toàn bộ Android stack — từ phát triển ứng dụng giao diện người dùng đến các thành phần Android Framework và tích hợp Hardware Abstraction Layer (HAL) cho...",
+      "issueState": "open",
+      "contentHash": "bf44bdc7faf4feebcab22759213a10d2f2293fd4bb5272527681babb6c321471",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "senior"
+      ],
+      "author": {
+        "id": "Linh-IT-Recruiter",
+        "name": "Linh-IT-Recruiter",
+        "handle": "Linh-IT-Recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-08-19T09:27:11Z",
+      "updatedAt": "2026-08-19T09:27:11Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5021",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_c06daaad995cc1deea93e402",
       "sourceId": "awesome-jobs/vietnam#5020",
@@ -731,68 +801,6 @@
       "createdAt": "2026-08-15T15:00:10Z",
       "updatedAt": "2026-08-15T15:00:25Z",
       "url": "https://github.com/DevOps-Brasil/Vagas/issues/492",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5f0630fa7e57dc09373e3d55",
-      "sourceId": "rebase-network/who-is-hiring#1241",
-      "title": "[远程招聘] o1.exchange 招聘 Web3 数据分析师——月薪 4,000–4,500 美元",
-      "description": "[远程招聘] o1.exchange 诚聘 Web3 数据分析师\n\n薪资待遇：月薪 4,000–4,500 美元\n\n公司介绍\n\no1.exchange 是新一代链上交易平台，致力于为去中心化金融用户提供专业、高效的交易基础设施。\n\n我们正在打造高性能链上交易终端、实时市场分析工具以及智能交易解决方案，为用户提供更加专业、高效的数字资产交易体验。\n\n我们的国际化团队汇聚了来自 Web3、量化交易和金融科技领域的专业人才，共同建设新一代去中心化金融基础设施。\n\n官网： https://o1.exchange/\n官方账号： https://x.com/o1_exchange\n联系邮箱： joneshr@o1.exchange\nTelegram： @Jones01exchange\n\n薪资及福利\n月薪：4,000–4,500 美元\n全职远程办公\n灵活的远程工作环境\n有机会参与快速发展的 Web3 基础设施项目\n深入接触链上交易、去中心化金融、去中心化交易平台及数字资产市场\n与产品、研发、研究及交易团队直接协作\n工作地点\n\n工作方式： 全远程\n\n时区要求： 面议\n\n工作性质\n\n工作类型： 全职\n\n是否远程： 是\n\n经验要求： 1–3 年数据分析相关经验；有 Web3、金融或交易数据分析经验者优先\n\n岗位职责\n负责 o1.exchange 平台及相关业务的数据分析工作，为产品、运营、市场及业务决策提供数据支持。\n分析用户行为、交易数据、交易量、用户留存、活跃度、转化率等核心业务指标。\n分析链上数据，包括钱包地址、交易行为、资金流向、交易频率及资产变化等。\n使用链上数据分析工具进行数据查询、分析和研究。\n根据业务需求建立数据报表、数据看板及数据监控体系，持续跟踪核心指标变化。\n配合产品团队分析用户使用路径，发现影响用户增长、留存及交易转化的关键因素。\n建立并优化数据分析流程，提高数据获取、处理和分析效率。\n将复杂的数据分析结果转化为清晰、易理解的结论，并为团队提供可执行的建议。\n任职要求\n具备 1–3 年数据分析、商业分析、金融分析或相关工作经验。\n熟悉 Excel、在线表格等数据处理工具，能够进行数据整理、透视分析及基础数据建模。\n具备良好的数据敏感度和数量分析能力，能够从大量数据中发现趋势、异常及潜在问题。\n对 Web3、区块链、去中心化金融、去中心化交易平台、数字资产及链上交易有较强兴趣，并具备基本理解。\n理解钱包地址、代币、链上交易、网络手续费、流动性池、交易量、锁仓总价值等基本链上概念。\n熟悉至少一种链上数据分析工具，例如 Dune、Nansen、Flipside、DefiLlama、DexScreener 等。\n能够独立完成从数据获取、清洗、分析到结论输出的完整流程。\n具备良好的英文阅读能力，能够阅读海外 Web3 项目文档、研究报告、行业资讯及相关资料。\n具备较强的自主工作能力，能够在远程环境下独立推进工作并按时完成任务。\n加分项\n有 Web3、去中心化金融、去中心化交易平台、数字资产或金融科技 领域的数据分析经验。\n有链上数据分析、钱包行为分析或交易数据分析经验。\n熟悉以太坊、Solana、Base、Arbitrum、BSC 等主流公链的数据结构。\n有交易平台、量化交易、金融数据或互联网产品分析经验。\n有数据看板、数据指标体系或数据产品建设经验。\n有个人数据分析作品集或相关项目经验。\n工作环境\n开放、透明的团队沟通环境。\n与经验丰富的产品、研发、研究及交易团队共同工作。\n能够直接接触真实的 Web3 交易及链上数据。\n有机会参与数据看板、数据指标体系及数据产品建设。\n深入参与 Web3、去中心化金融、链上交易及数字资产基础设施建设。\n联系方式\n\n请将个人简历及相关作品集发送至招聘负责人邮箱，或通过 Telegram 联系：\n\n邮箱： joneshr@o1.exchange\nTelegram： @Jones01exchange\n\n申请时建议附上：\n中文或英文简历\n过往数据分析项目或数据看板作品（如有）\nDune、GitHub 或个人作品集链接（如有）\n简单说明自己对 Web3 数据分析及链上数据的了解程度",
-      "excerpt": "[远程招聘] o1.exchange 诚聘 Web3 数据分析师 薪资待遇：月薪 4,000–4,500 美元 公司介绍 o1.exchange 是新一代链上交易平台，致力于为去中心化金融用户提供专业、高效的交易基础设施。 我们正在打造高性能链上交易终端、实时市场分析工具以及智能交易解决方案，为用户提供更加专业、高效的数字资产交易体验。 我们的国际化团队汇聚了来自 Web3、量化交易和金融科技领域的专业人才，共同建设新一代去中心化...",
-      "issueState": "open",
-      "contentHash": "7e21ccb0a0c4e2aaea550e60307e7c2a44994f85f69d3272956669ab5d21c079",
-      "repository": "rebase-network/who-is-hiring",
-      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "HoopoeIntroduce",
-        "name": "HoopoeIntroduce",
-        "handle": "HoopoeIntroduce",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/299536587?v=4"
-      },
-      "community": {
-        "id": "rebase-network",
-        "name": "rebase-network",
-        "avatarUrl": "https://github.com/rebase-network.png?size=80",
-        "repository": "rebase-network/who-is-hiring",
-        "url": "https://github.com/rebase-network/who-is-hiring"
-      },
-      "createdAt": "2026-08-15T14:47:50Z",
-      "updatedAt": "2026-08-15T14:47:50Z",
-      "url": "https://github.com/rebase-network/who-is-hiring/issues/1241",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_11944841441844a1fbd05128",
-      "sourceId": "rebase-network/who-is-hiring#1240",
-      "title": "[远程办公] 诚聘 web3财经新闻主编（Tech / RWA 资产方向） 薪水5000–8000 U（USDT）/月",
-      "description": "职责：\n1. 负责AI、具身智能、RWA（真实世界资产代币化）等赛道的内容选题与终审，对新闻敏感度与产出质量负责。\n2. 监控全球财经/科技要闻（美股、美联储、SEC、头部公司财报），重大事件30分钟内出Push标题，2小时内出快评。\n3. 带领编辑团队完成日常快讯、深度长文、研报级分析的策划与执行。\n4. 将技术叙事转化为资产定价逻辑，回答“这项技术让什么资产变贵/变便宜/从无到有”。\n\n要求：\n1. 3年以上财经/科技媒体主编经验，或券商/研究所TMT行研背景，有RWA或AI基础设施报道经验者优先。\n2. 能读懂财报、招股书、审计报告，理解基本估值逻辑（DCF、PS、现金流折现等）。\n3. 英文一手信源阅读能力（SEC文件、机构研报、GTC/开发者大会实录）。\n4. 写作风格硬朗、极简，能同时驾驭快讯与深度长文。\n\n加分项：\n· 有CFA/FRM备考或持证经历。\n· 自带产业人脉（AI/RWA项目方、合规机构、分析师）。\n· 附作品中有产业链图谱或资产估值分析类文章。\n· 加分项： 有主持金融论坛、网络直播的经验\n\n应聘方式：\n简历 + 代表作（至少1篇体现“技术→资产”分析逻辑）发送至：[hr@sosovalue.com](mailto:hr@sosovalue.com)\n联系TG：@fernnini\n标题格式：应聘主编_姓名_从业年限",
-      "excerpt": "职责： 1. 负责AI、具身智能、RWA（真实世界资产代币化）等赛道的内容选题与终审，对新闻敏感度与产出质量负责。 2. 监控全球财经/科技要闻（美股、美联储、SEC、头部公司财报），重大事件30分钟内出Push标题，2小时内出快评。 3. 带领编辑团队完成日常快讯、深度长文、研报级分析的策划与执行。 4. 将技术叙事转化为资产定价逻辑，回答“这项技术让什么资产变贵/变便宜/从无到有”。 要求： 1. 3年以上财经/科技媒体主编经...",
-      "issueState": "open",
-      "contentHash": "3e511ac70c3dfd3a1371b1611530a6c4d35eb3e5aeaa0bcf92f601567b39a39d",
-      "repository": "rebase-network/who-is-hiring",
-      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "Fern001-di",
-        "name": "Fern001-di",
-        "handle": "Fern001-di",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/277299931?v=4"
-      },
-      "community": {
-        "id": "rebase-network",
-        "name": "rebase-network",
-        "avatarUrl": "https://github.com/rebase-network.png?size=80",
-        "repository": "rebase-network/who-is-hiring",
-        "url": "https://github.com/rebase-network/who-is-hiring"
-      },
-      "createdAt": "2026-08-15T14:45:17Z",
-      "updatedAt": "2026-08-15T14:45:17Z",
-      "url": "https://github.com/rebase-network/who-is-hiring/issues/1240",
       "sourceType": "github-issue"
     }
   ]
