@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T03:40:25.009Z",
+  "generatedAt": "2026-08-19T15:23:43.995Z",
   "schemaVersion": 2,
-  "dataHash": "8c58318052963072b83ae0e8703e43dda6f0c1729930c77fa8cbd9c74d4a7fcc",
+  "dataHash": "de3876e99fd033dfdc9621d0c38b1bb5493b4f8734ee882e11acaa5aff407c10",
   "catalogGeneratedAt": "2026-08-17",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 178,
   "repositoriesScanned": 178,
   "totals": {
-    "opportunities": 2084,
+    "opportunities": 2085,
     "uniqueRepositories": 178,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -323,6 +323,7 @@
       "api/pages/page-0041.json",
       "api/pages/page-0042.json",
       "api/pages/page-0043.json",
+      "api/pages/page-0044.json",
       "api/search-index.json"
     ]
   },
@@ -363,17 +364,17 @@
       "region": "South America",
       "opportunities": 1188,
       "repositories": 64,
-      "openIssues": 457,
-      "closedIssues": 731,
+      "openIssues": 466,
+      "closedIssues": 722,
       "indexFile": "countries/br/index.json"
     },
     {
       "country": "Canada",
       "countryCode": "CA",
       "region": "North America",
-      "opportunities": 63,
+      "opportunities": 64,
       "repositories": 10,
-      "openIssues": 6,
+      "openIssues": 7,
       "closedIssues": 57,
       "indexFile": "countries/ca/index.json"
     },
