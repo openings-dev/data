@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-08-05T05:39:26.461Z",
+  "generatedAt": "2026-08-20T03:40:43.144Z",
   "items": {
+    "gh_09b3d5f12099e1d5f088f792": {
+      "id": "gh_09b3d5f12099e1d5f088f792",
+      "sourceId": "Infrasity-Labs/developer-marketing-jobs#10",
+      "title": "Add timeout to request calls in fetcher scripts",
+      "description": "Several fetcher scripts perform `requests.get()` without an explicit `timeout` parameter.\n\nIf an upstream job board hangs or throttles connections, the batch runner process blocks indefinitely.\n\n### Suggested Fix\nSet a default timeout (e.g. `timeout=(5.0, 15.0)` for connect/read) on all HTTP client calls in `fetchers/`.",
+      "excerpt": "Several fetcher scripts perform `requests.get()` without an explicit `timeout` parameter. If an upstream job board hangs or throttles connections, the batch runner process blocks indefinitely. ### Suggested Fix Set a ...",
+      "issueState": "open",
+      "contentHash": "7a0f0b48eb81fbfe913be658c0aa06364bb91832ec80aa5f6254382ed22df3fa",
+      "repository": "Infrasity-Labs/developer-marketing-jobs",
+      "repositoryUrl": "https://github.com/Infrasity-Labs/developer-marketing-jobs",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "help wanted",
+        "good first issue"
+      ],
+      "author": {
+        "id": "stefannut",
+        "name": "stefannut",
+        "handle": "stefannut",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56086793?v=4"
+      },
+      "community": {
+        "id": "Infrasity-Labs",
+        "name": "Infrasity-Labs",
+        "avatarUrl": "https://github.com/Infrasity-Labs.png?size=80",
+        "repository": "Infrasity-Labs/developer-marketing-jobs",
+        "url": "https://github.com/Infrasity-Labs/developer-marketing-jobs"
+      },
+      "createdAt": "2026-08-16T11:50:51Z",
+      "updatedAt": "2026-08-17T05:51:48Z",
+      "url": "https://github.com/Infrasity-Labs/developer-marketing-jobs/issues/10",
+      "sourceType": "github-issue"
+    },
     "gh_0916ca6958d7f404418dfcce": {
       "id": "gh_0916ca6958d7f404418dfcce",
       "sourceId": "TechnologyMasters/jobs#713",

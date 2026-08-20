@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T00:45:51.233Z",
+  "generatedAt": "2026-08-20T03:40:43.144Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
@@ -7,23 +7,23 @@
     "gh_4af44b32cbe90b7c0b3d3e01",
     "gh_11e44c08cb795118dad0b0af",
     "gh_00f670a164b634f9d56ebdc4",
+    "gh_d0740b61162b24fc0b5d19b0",
     "gh_d4b9ac0a55f837df6635ec9f",
+    "gh_4863125eac46ada5c9d8b1a9",
     "gh_605acd31c6f59ca0df9a8277",
+    "gh_5c1e23251a8bd3aecf82914f",
     "gh_c06daaad995cc1deea93e402",
+    "gh_c7817c48d984a8e706d49c02",
     "gh_7839c5ad339afa69e7edda8b",
     "gh_9833b976c233740aa7b05535",
     "gh_cdfa2de024dbb8a4cb735734",
     "gh_ff8445df97f543e66b59fc42",
     "gh_a09dc58cf82751f7cd3f27df",
     "gh_841800c84d395436577150c0",
+    "gh_eece4061df077963502b19c3",
     "gh_582cbd3ac5be14c5c522dfab",
     "gh_b502e928d1322466092d6846",
-    "gh_a550d3026fe89f719a32347a",
-    "gh_03efa9d5761c2ddbcd1e50c5",
-    "gh_5e86a7a3e3ddb2f7ca15e43b",
-    "gh_46a9b479d4c37570f4ba08c2",
-    "gh_2f3ed949eb1e867f4547c5ce",
-    "gh_a6c2a2b23c9062e1829400dc"
+    "gh_a550d3026fe89f719a32347a"
   ],
   "items": [
     {
@@ -153,6 +153,43 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_d0740b61162b24fc0b5d19b0",
+      "sourceId": "awesome-jobs/jobs#5022",
+      "title": "[HCM] Fullstack Developer (Java + VueJS)",
+      "description": "**Địa điểm làm việc:** Phú Nhuận, TP.HCM\n**Tiếng Anh:** Cơ bản\n\n**I. Trách nhiệm**\n- Phát triển và duy trì giao diện người dùng responsive, theo hướng component-driven sử dụng Vue.js, đảm bảo tính nhất quán với các tiêu chuẩn UX và design system.\n- Xây dựng và duy trì RESTful APIs và business logic sử dụng Java / IBM AppConnect / .Net, hỗ trợ các quy trình nghiệp vụ cốt lõi trong lĩnh vực bảo hiểm như quản lý hợp đồng bảo hiểm, xử lý yêu cầu bồi thường và xử lý dữ liệu khách hàng. Đảm bảo validation, error handling phù hợp và tuân thủ các yêu cầu bảo mật theo quy định đối với dịch vụ tài chính.\n- Quản lý việc triển khai các ứng dụng container hóa sử dụng Docker, đóng góp vào các CI/CD pipeline và cấu hình môi trường.\n- Viết unit test và integration test, tham gia code review và duy trì các tiêu chuẩn kỹ thuật trong team.\n- Đóng góp vào tài liệu kỹ thuật và chia sẻ kiến thức giữa các squad.\n\n**II. Yêu cầu kinh nghiệm**\n**_1. Bắt buộc_**\n- Có 3–5 năm kinh nghiệm thực tế trong phát triển Full-stack.\n- Thành thạo Vue.js — components, Vuex/Pinia, Vue Router và composables.\n- Có kinh nghiệm vững về Java (Spring Boot), hiểu các nguyên tắc thiết kế RESTful API — versioning, error contracts và documentation (Swagger/OpenAPI).\n- Có hiểu biết cơ bản về các middleware patterns và hosted services trong .NET Core.\n- Hiểu về kiến trúc microservices — service boundaries, API contracts và các distributed system patterns.\n- Có kinh nghiệm thực tế với Docker và triển khai ứng dụng container hóa.\n- Có hiểu biết về cơ sở dữ liệu quan hệ (PostgreSQL, IBM DB2, MS SQL Server…) và viết SQL hiệu quả.\n- Có kinh nghiệm với các quy trình làm việc dựa trên Git và phương pháp phát triển cộng tác.\n- Có kinh nghiệm viết unit test và integration test (JUnit, Mockito cho backend; Vitest hoặc Jest cho frontend).\n- Có hiểu biết về các tiêu chuẩn test coverage và quality gates trong CI pipeline.\n- Có nhận thức về các phương pháp secure coding liên quan đến việc xử lý dữ liệu tài chính (input validation, encryption at rest/transit).\n\n**_2. Ưu tiên_**\n- Có kinh nghiệm với IBM App Connect Enterprise (ACE) hoặc các integration middleware tương tự.\n- Có kinh nghiệm trong lĩnh vực bảo hiểm, ngân hàng hoặc các môi trường dịch vụ tài chính được quản lý.\n- Có kiến thức về message brokers (Kafka, RabbitMQ) cho giao tiếp theo mô hình event-driven.\n- Có hiểu biết về các công cụ CI/CD (GitLab CI, Jenkins hoặc tương tự).\n\n**III. Bằng cấp / Trình độ**\n- Tốt nghiệp Cử nhân hoặc Thạc sĩ chuyên ngành Computer Science, Software Engineering, Information Technology hoặc có kinh nghiệm thực tế tương đương, thể hiện cùng mức độ năng lực.\n- Có kinh nghiệm trước đó trong lĩnh vực bảo hiểm, ngân hàng hoặc dịch vụ tài chính là một lợi thế.\n- Có hiểu biết về các khái niệm trong lĩnh vực bảo hiểm (vòng đời hợp đồng bảo hiểm, tính phí bảo hiểm, quy trình bồi thường) là một lợi thế.\n- Các chứng chỉ liên quan (Cloud, Certified Developer...) là một điểm cộng.\n==========================\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
+      "excerpt": "**Địa điểm làm việc:** Phú Nhuận, TP.HCM **Tiếng Anh:** Cơ bản **I. Trách nhiệm** - Phát triển và duy trì giao diện người dùng responsive, theo hướng component-driven sử dụng Vue.js, đảm bảo tính nhất quán với các tiê...",
+      "issueState": "open",
+      "contentHash": "46383be86f3dd0bd2c3c70db449fd1deffcd4ae3bb03e23d1ce7c0b39b5fcbff",
+      "repository": "awesome-jobs/jobs",
+      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "frontend",
+        "backend",
+        "fullstack",
+        "java",
+        "design"
+      ],
+      "author": {
+        "id": "Linh-IT-Recruiter",
+        "name": "Linh-IT-Recruiter",
+        "handle": "Linh-IT-Recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/jobs",
+        "url": "https://github.com/awesome-jobs/jobs"
+      },
+      "createdAt": "2026-08-19T09:50:31Z",
+      "updatedAt": "2026-08-19T09:50:31Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5022",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_d4b9ac0a55f837df6635ec9f",
       "sourceId": "awesome-jobs/vietnam#5022",
       "title": "[HCM] Fullstack Developer (Java + VueJS)",
@@ -190,6 +227,39 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_4863125eac46ada5c9d8b1a9",
+      "sourceId": "awesome-jobs/jobs#5021",
+      "title": "[Hà Nội] Senior Android System Engineer – Android TV / STB",
+      "description": "Địa điểm: Cầu Giấy, Hà Nội\n\n**Mô tả công việc:**\n- Làm việc trên toàn bộ Android stack — từ phát triển ứng dụng giao diện người dùng đến các thành phần Android Framework và tích hợp Hardware Abstraction Layer (HAL) cho phần cứng STB.\n- Thiết kế, phát triển và bảo trì driver/module/app cho các nền tảng Set-Top Box (STB).\n- Viết mã nguồn chất lượng cao để tạo ra các software driver/module/app đầy đủ chức năng.\n- Tối ưu hiệu suất hệ thống để đảm bảo khả năng phát nội dung mượt mà và độ phản hồi tốt trên các thiết bị STB.\n- Kiểm thử và debug driver/module/app trên các nền tảng và phiên bản STB khác nhau.\n- Hỗ trợ kỹ thuật và xử lý sự cố để giải quyết các vấn đề liên quan đến STB.\n\n**Yêu cầu:**\n- Tốt nghiệp Cử nhân/Thạc sĩ hoặc có kinh nghiệm tương đương trong lĩnh vực Khoa học Máy tính (Computer Science) từ các trường đại học kỹ thuật uy tín.\n- Có kiến thức chuyên sâu về Android OS, bao gồm kiến trúc, framework và các thành phần cấp hệ thống.\n- Có kinh nghiệm thực tế trong phát triển phần mềm, tập trung vào STB driver/Middleware/App.\n- Có 8+ năm kinh nghiệm phát triển phần mềm trên hệ thống Android.\n- Techstack: Cần biết cả 2 stack Android và C/C++ (Có thể mạnh 1 trong 2 và biết sơ sơ stack còn lại).\n- Thành thạo tiếng Anh đọc + viết\n- Có hiểu biết tốt và kinh nghiệm thực tế với phương pháp phát triển Agile.\n==========================\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
+      "excerpt": "Địa điểm: Cầu Giấy, Hà Nội **Mô tả công việc:** - Làm việc trên toàn bộ Android stack — từ phát triển ứng dụng giao diện người dùng đến các thành phần Android Framework và tích hợp Hardware Abstraction Layer (HAL) cho...",
+      "issueState": "open",
+      "contentHash": "bf44bdc7faf4feebcab22759213a10d2f2293fd4bb5272527681babb6c321471",
+      "repository": "awesome-jobs/jobs",
+      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "senior"
+      ],
+      "author": {
+        "id": "Linh-IT-Recruiter",
+        "name": "Linh-IT-Recruiter",
+        "handle": "Linh-IT-Recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/jobs",
+        "url": "https://github.com/awesome-jobs/jobs"
+      },
+      "createdAt": "2026-08-19T09:27:11Z",
+      "updatedAt": "2026-08-19T09:27:11Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5021",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_605acd31c6f59ca0df9a8277",
       "sourceId": "awesome-jobs/vietnam#5021",
       "title": "[Hà Nội] Senior Android System Engineer – Android TV / STB",
@@ -220,6 +290,41 @@
       "createdAt": "2026-08-19T09:27:11Z",
       "updatedAt": "2026-08-19T09:27:11Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/5021",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5c1e23251a8bd3aecf82914f",
+      "sourceId": "awesome-jobs/jobs#5020",
+      "title": "[HÀ NỘI] Senior Data Analytics - Banking Domain - Không yêu cầu tiếng anh",
+      "description": "- Địa điểm làm việc: Trần Hưng Đạo, Hà Nội\n- Domain: Banking\n- Không yêu cầu tiếng anh\n==============================\n\n**TRÁCH NHIỆM**\n- Nghiên cứu, đề xuất và triển khai các chiến lược phân tích dữ liệu nhằm hỗ trợ việc ra quyết định chiến lược và kinh doanh.\n- Phân tích và đánh giá hiệu quả kinh doanh; đề xuất các chỉ số định lượng và KPI để đo lường hiệu quả hoạt động kinh doanh.\n- Phân tích các tập dữ liệu lớn và phức tạp từ các hệ thống nội bộ và bên ngoài để xác định các mô hình kinh doanh và xu hướng thị trường.\n- Phát triển và triển khai các hệ thống báo cáo và dashboard phân tích, đồng thời đảm bảo tính nhất quán và chính xác của dữ liệu.\n- Dẫn dắt các dự án phân tích dữ liệu kinh doanh, bao gồm thu thập yêu cầu, thiết kế giải pháp, triển khai, quản lý tiến độ và kiểm soát chất lượng.\n- Áp dụng các công nghệ Business Analytics hiện đại, bao gồm Machine Learning và Artificial Intelligence.\n\n**YÊU CẦU**\n- Tối thiểu 6+ năm kinh nghiệm trong lĩnh vực Business Data Analytics tại các dự án doanh nghiệp phức tạp.\n- Thành thạo Power BI, SQL, Python, R và các công cụ phân tích dữ liệu khác.\n- Có kiến thức vững về thống kê, xác suất, mô hình hóa dữ liệu và các thuật toán Machine Learning/Artificial Intelligence.\n- Có kinh nghiệm trong lĩnh vực Ngân hàng, Dịch vụ Tài chính hoặc các ngành xử lý dữ liệu phức tạp và nhạy cảm.\n- Có năng lực lãnh đạo, quản lý đội nhóm, giải quyết vấn đề và giao tiếp với các bên liên quan.\n- Có kinh nghiệm thiết kế hệ thống báo cáo, mô hình dữ liệu và các ETL pipeline phức tạp.\n=============================\nDM me for more great opportunities\n💌Email: linh.tran@dikshatek.vn\n📞Phone/Zalo: 0817 377 143 (Ms. Linh)",
+      "excerpt": "- Địa điểm làm việc: Trần Hưng Đạo, Hà Nội - Domain: Banking - Không yêu cầu tiếng anh ============================== **TRÁCH NHIỆM** - Nghiên cứu, đề xuất và triển khai các chiến lược phân tích dữ liệu nhằm hỗ trợ vi...",
+      "issueState": "open",
+      "contentHash": "58756f333998511934ca9c6174ff746b29378d35ffa04f65a55e96df55f49d31",
+      "repository": "awesome-jobs/jobs",
+      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "Linh-IT-Recruiter",
+        "name": "Linh-IT-Recruiter",
+        "handle": "Linh-IT-Recruiter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305696920?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/jobs",
+        "url": "https://github.com/awesome-jobs/jobs"
+      },
+      "createdAt": "2026-08-19T09:17:12Z",
+      "updatedAt": "2026-08-19T09:18:29Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5020",
       "sourceType": "github-issue"
     },
     {
@@ -255,6 +360,40 @@
       "createdAt": "2026-08-19T09:17:12Z",
       "updatedAt": "2026-08-19T09:18:29Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/5020",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_c7817c48d984a8e706d49c02",
+      "sourceId": "awesome-jobs/jobs#5019",
+      "title": "[HN] Tìm Senior COMPUTER VISION - AI Engineer [5+ yoe]",
+      "description": "[HN] Tìm Senior COMPUTER VISION - AI Engineer [5+ yoe]. Liên hệ mình zl 0332.022.055 về range lương và chi tiết JD nhé (jobID: DT-374).\nExpertise in Engineering, Computer Vision and Research | At least 5 years of experience in AI and Computer Vision | Background: Digital Image Processing or Computer Vision.\n\nResearch and develop AI / Deep Learning / Machine Learning applications for various business, product, service of Panasonic (Image processing, NLP, voice recognition, embedded AI)\n\nKỹ năng và kinh nghiệm tối thiểu\n• Bachelor's Degree in Computer Vision, Machine Learning, Mathematics, or related field \n• At least 5 years experiences in Digital Image Processing and Computer Vision.\n• Good programming skill in one of languages C, C++. C#. Python.\n• Familiar with Digital Image Processing, Computer Vision, Machine learning, Deep Learning (2D & 3D, OpenGL, Point cloud, etc).\n• Experiences with Computer Vision projects like Image Segmentation, Object Detection, Image Retrieval, Image Classification with Opencv library is strong plus.\n• Experiences with common Deep Learning frameworks (OpenCV, Tensor Flow, Pytorch, etc).",
+      "excerpt": "[HN] Tìm Senior COMPUTER VISION - AI Engineer [5+ yoe]. Liên hệ mình zl 0332.022.055 về range lương và chi tiết JD nhé (jobID: DT-374). Expertise in Engineering, Computer Vision and Research | At least 5 years of expe...",
+      "issueState": "open",
+      "contentHash": "437223cc4b3eceacb9b86e247a20fd92af73eee9df3a45ca6c7ad8c958ae912d",
+      "repository": "awesome-jobs/jobs",
+      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "python",
+        "senior"
+      ],
+      "author": {
+        "id": "techdyvn",
+        "name": "techdyvn",
+        "handle": "techdyvn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/jobs",
+        "url": "https://github.com/awesome-jobs/jobs"
+      },
+      "createdAt": "2026-08-19T07:26:11Z",
+      "updatedAt": "2026-08-19T07:27:26Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5019",
       "sourceType": "github-issue"
     },
     {
@@ -483,6 +622,41 @@
       "sourceType": "github-issue"
     },
     {
+      "id": "gh_eece4061df077963502b19c3",
+      "sourceId": "awesome-jobs/jobs#5018",
+      "title": "[ 49tr ] REMOTE - Data Scientist  5+ yoe",
+      "description": "Mô tả công việc\nConduct advanced time-series analysis, including stationarity testing, decomposition, autocorrelation, seasonality modelling, and change-point detection.\nAnalyse and integrate heterogeneous sensor datasets from Wi-Fi, IoT, BMS, mobile, occupancy, and utility systems.\nDesign sensor-fusion and data-quality frameworks covering validation, reliability scoring, reconciliation, and gap filling.\nEngineer forecasting and predictive features using temporal patterns, weather, occupancy, operational schedules, and cross-series correlations.\nClean, preprocess, and normalize noisy sensor streams using outlier detection, imputation, smoothing, and resampling.\nBuild, benchmark, and evaluate forecasting models on Vertex AI using statistical, ML, and deep-learning approaches with rigorous back-testing.\nDevelop and operationalize ML pipelines on Vertex AI, Cloud Run, and Cloud Scheduler, including drift monitoring, automated retraining, and lifecycle management.\nImplement anomaly detection and alerting frameworks using statistical and machine-learning techniques, validated against field and manual measurements.\nBuild AI-driven analytics and agentic workflows using Generative AI, Vertex AI Agent Builder, LangChain/LangGraph, RAG, and FastAPI.\nCreate Looker dashboards, technical documentation, operational runbooks, evaluation frameworks, and enablement materials to support forecasting operations and stakeholder adoption.\n\nUV quan tâm liên hệ mình zl 0332.022.055 nhé.",
+      "excerpt": "Mô tả công việc Conduct advanced time-series analysis, including stationarity testing, decomposition, autocorrelation, seasonality modelling, and change-point detection. Analyse and integrate heterogeneous sensor data...",
+      "issueState": "open",
+      "contentHash": "6e9b1691bb85b75dc81a55b73dbb92800808cb3a4312e5b38ef6e32dec5e8883",
+      "repository": "awesome-jobs/jobs",
+      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "techdyvn",
+        "name": "techdyvn",
+        "handle": "techdyvn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/jobs",
+        "url": "https://github.com/awesome-jobs/jobs"
+      },
+      "createdAt": "2026-08-18T02:25:18Z",
+      "updatedAt": "2026-08-18T02:25:18Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5018",
+      "sourceType": "github-issue"
+    },
+    {
       "id": "gh_582cbd3ac5be14c5c522dfab",
       "sourceId": "awesome-jobs/vietnam#5018",
       "title": "[ 49tr ] REMOTE - Data Scientist  5+ yoe",
@@ -597,211 +771,6 @@
       "createdAt": "2026-08-17T23:25:54Z",
       "updatedAt": "2026-08-17T23:25:54Z",
       "url": "https://github.com/datascience-br/vagas/issues/199",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_03efa9d5761c2ddbcd1e50c5",
-      "sourceId": "datascience-br/vagas#198",
-      "title": "[Híbrido] Administração de Banco de Dados Pleno na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Administração de Banco de Dados nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Administração de Banco de Dados (de 2 a 5 anos)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-administracao-de-banco-de-dados-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "98325edb1872dd4af36b45989449a462f713e9832ff23f7937e6c304527f9115",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-17T23:21:12Z",
-      "updatedAt": "2026-08-17T23:21:12Z",
-      "url": "https://github.com/datascience-br/vagas/issues/198",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5e86a7a3e3ddb2f7ca15e43b",
-      "sourceId": "dotnetdevbr/vagas#1074",
-      "title": "[Remoto] Back-End Developer .NET Sênior @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de .NET Back-End Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver APIs e serviços em .NET\n- Modelar dados e otimizar consultas\n- Escrever testes automatizados e revisar código\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com C#/.NET (5 anos ou mais)\n- C# e .NET 6 ou superior\n- ASP.NET Core e APIs REST\n- Entity Framework Core e SQL Server\n- Git\n\n**Diferenciais:**\n- Azure\n- Docker\n- Arquitetura de microsserviços\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-c-net-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "461c71b4c8e676f665d0e63e875bb140d7fc3e688aba618bb36cd60e76e8cda9",
-      "repository": "dotnetdevbr/vagas",
-      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "pj",
-        "remoto",
-        "sênior"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "dotnetdevbr",
-        "name": "dotnetdevbr",
-        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
-        "repository": "dotnetdevbr/vagas",
-        "url": "https://github.com/dotnetdevbr/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-17T23:14:12Z",
-      "updatedAt": "2026-08-18T10:15:41Z",
-      "url": "https://github.com/dotnetdevbr/vagas/issues/1074",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_46a9b479d4c37570f4ba08c2",
-      "sourceId": "soujava/vagas-java#1939",
-      "title": "[Remoto] Desenvolvedor(a) Java/Jakarta EE Sênior, 100% Remoto na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Jakarta EE Sênior, 100% Remoto nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Manter e evoluir aplicações corporativas em Jakarta EE\n- Modernizar módulos legados sem interromper a operação\n- Integrar com sistemas internos via SOAP e REST\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Java/Jakarta EE (5 anos ou mais)\n- Jakarta EE (CDI, JPA, JAX-RS, EJB)\n- Servidor de aplicação (WildFly, Payara ou JBoss)\n- SQL e modelagem relacional\n- Maven ou Gradle\n\n**Diferenciais:**\n- Migração para Spring Boot ou Quarkus\n- Docker\n- Mensageria JMS\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "4049880f6db4f6b51719981aeaa169de63a54a16e67abd7fcb0b53861e882b40",
-      "repository": "soujava/vagas-java",
-      "repositoryUrl": "https://github.com/soujava/vagas-java",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "sênior",
-        "clt",
-        "pj",
-        "remoto",
-        "backend",
-        "rest",
-        "spring",
-        "maven"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "soujava",
-        "name": "soujava",
-        "avatarUrl": "https://github.com/soujava.png?size=80",
-        "repository": "soujava/vagas-java",
-        "url": "https://github.com/soujava/vagas-java"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-17T23:06:09Z",
-      "updatedAt": "2026-08-17T23:06:27Z",
-      "url": "https://github.com/soujava/vagas-java/issues/1939",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_2f3ed949eb1e867f4547c5ce",
-      "sourceId": "awesome-jobs/vietnam#5017",
-      "title": "🚀 REMOTE | MIDDLE – SENIOR RUBY ON RAILS DEVELOPER | UP TO 43M  | Eng Fluent",
-      "description": "🔥 WHAT WE'RE LOOKING FOR\n\n- 3–5 years of experience in Ruby on Rails\n- Strong experience in Data-related projects\n- Hands-on experience with: Sidekiq, Redis, Chart.js, AJAX / Turbolinks\n- Memory & Buffer Management\n- Good understanding of Performance & Scalability\n- Experience with Docker & CI/CD\n- Knowledge of AWS / GCP / Azure is a plus\n- Experience working with international / remote teams\n- Fluent English communication\n\n----\nContact Phone/Zalo/Whatsapp: 0582839437",
-      "excerpt": "🔥 WHAT WE'RE LOOKING FOR - 3–5 years of experience in Ruby on Rails - Strong experience in Data-related projects - Hands-on experience with: Sidekiq, Redis, Chart.js, AJAX / Turbolinks - Memory & Buffer Management - ...",
-      "issueState": "open",
-      "contentHash": "4a98590edfdce9ad5ecff13099a8d90a267dc8ee0d7ac95b1e94959d55839801",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "remote",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "PhuongVu-HR",
-        "name": "PhuongVu-HR",
-        "handle": "PhuongVu-HR",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/286253884?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-08-17T04:02:06Z",
-      "updatedAt": "2026-08-17T04:02:06Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5017",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a6c2a2b23c9062e1829400dc",
-      "sourceId": "awesome-jobs/vietnam#5016",
-      "title": "[ 70tr HN ] Senior Solution Architect mạnh .NET (ưu tiên fullstack) [5+ yoe]",
-      "description": "[ 70tr HN ] Mình tìm ứng viên Solution Architect mạnh .NET (ưu tiên fullstack) [5+ yoe], tiếng Anh good nha cả nhà. Pv 1-2 vòng. Lh mình zl 0332.022.055 với jobID là IT-551 nhen.\n\nWe are looking for a Senior Solution Architect with a strong technical background in .NET, preferably with Fullstack development experience, to lead the design of scalable and robust software solutions.\n\nThe ideal candidate should be able to bridge the gap between business requirements and technical implementation, working with stakeholders and engineering teams to define and deliver effective solutions.\n\nResponsibilities\nDesign end-to-end solution architecture for complex software systems.\nAnalyze business and technical requirements and translate them into technical solutions.\nDefine system architecture, components, interfaces, integrations and technology stack.\nLead architecture and solution design discussions with stakeholders.\nCreate and present Solution Architecture / Solution Design documents.\nProvide technical direction and architectural guidance to development teams.\nDesign scalable .NET-based backend systems, APIs and distributed services.\nParticipate in frontend architecture decisions involving React / Angular / Vue.js.\nEvaluate technical risks, scalability, performance, security and maintainability.\nCollaborate with Product, BA, Engineering, QA and DevOps teams.",
-      "excerpt": "[ 70tr HN ] Mình tìm ứng viên Solution Architect mạnh .NET (ưu tiên fullstack) [5+ yoe], tiếng Anh good nha cả nhà. Pv 1-2 vòng. Lh mình zl 0332.022.055 với jobID là IT-551 nhen. We are looking for a Senior Solution A...",
-      "issueState": "open",
-      "contentHash": "290da593302fe7b2e65d298f4454f0cdb6d16aa74f622e5a90f3426b66958f25",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "frontend",
-        "backend",
-        "fullstack",
-        "react",
-        "senior",
-        "devops",
-        "design"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-08-17T02:12:41Z",
-      "updatedAt": "2026-08-17T02:12:41Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5016",
       "sourceType": "github-issue"
     }
   ]
