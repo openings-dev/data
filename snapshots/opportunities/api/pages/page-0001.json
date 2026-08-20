@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-20T06:32:20.664Z",
+  "generatedAt": "2026-08-20T12:31:48.656Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_9778e2bda5326d36dc502ed4",
+    "gh_783e9116acc9bd902405875b",
+    "gh_14a406f3cc15ba1e46b5ca4a",
+    "gh_20631fe9352665af70d6ceae",
     "gh_a8cd59eaeb8f7957cc8a68b5",
     "gh_52c24b82c8546b78f56a51cb",
     "gh_fe8b4626130f1dbf285f10cf",
@@ -19,13 +23,157 @@
     "gh_78a413808cdd53999da07a59",
     "gh_a1f9ed5b410d7bba54977a36",
     "gh_a3f3af3ea4539c8d684f6211",
-    "gh_8e240de0811f263d7a91ffae",
-    "gh_a442b3bffe44658fc936f508",
-    "gh_e854ce22e08a801f635b5fff",
-    "gh_dbad9055e61f119859a3386b",
-    "gh_5fe95c7d04c61e283bf6407f"
+    "gh_8e240de0811f263d7a91ffae"
   ],
   "items": [
+    {
+      "id": "gh_9778e2bda5326d36dc502ed4",
+      "sourceId": "frontendbr/vagas#8544",
+      "title": "[Remoto] Angular Front-End Developer Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o seu currículo com todas as vagas compatíveis do nosso banco próprio. Você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Angular (de 2 a 5 anos)\n- Angular 15+ e TypeScript\n- RxJS\n- Consumo de APIs REST\n- Karma ou Jest\n\n**Diferenciais:**\n- NgRx\n- Micro-frontends\n- Design system\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-pleno-remoto\n\nBasta enviar o currículo uma vez. A IA da Sylision considera o seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Pleno",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o se...",
+      "issueState": "open",
+      "contentHash": "c2c7ebef22e3c388d11b2950373d7ef7cf3b63df52a0f473e778a9fd31a83a5f",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "clt",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-20T12:00:38Z",
+      "updatedAt": "2026-08-20T12:01:08Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8544",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_783e9116acc9bd902405875b",
+      "sourceId": "rebase-network/who-is-hiring#1243",
+      "title": "[新加坡/远程] Zignlay 招聘 Solidity 工程师｜$7,000–$10,000 USD/月",
+      "description": "**公司：Zignlay · 新加坡**\n\n### 项目介绍\n\nZignlay 是一家位于新加坡的 Web3 公司，目前正在开发一个面向加密用户的项目发现与社区排名平台。\n\n我们希望通过更透明的社区参与方式，让优质项目获得更多曝光，同时帮助用户更方便地发现值得关注的新项目。\n\n项目目前处于早期阶段，智能合约架构还有很大的设计空间。你会直接参与链上机制的设计和实现，而不只是按照现有需求写代码。\n\n### 你会负责\n\n* 使用 Solidity 开发投票、排名、激励等智能合约\n* 设计链上逻辑和激励机制\n* 在 EVM 链上进行合约开发、测试、部署和维护\n* 关注合约安全、Gas 优化以及各种边界情况\n* 与前后端工程师一起完成链上和链下系统的连接\n* 参与技术方案讨论和实际工程决策\n\n### 我们希望你有\n\n* 扎实的 **Solidity / EVM** 开发经验\n* 有实际部署和维护智能合约的经验\n* 对智能合约安全有较好的理解\n* 熟悉 **Foundry 或 Hardhat**\n* 熟悉 **ethers.js / viem**\n* 能够独立推进工作，并适应远程协作\n* 有 DeFi、Token、DAO、Voting 等相关经验更好\n\n我们更看重实际项目经验。\n\n不要求你了解 Web3 的所有领域，但希望你能够独立完成从**合约设计 → 开发 → 测试 → 部署**的完整流程，并认真考虑安全性和实际使用场景。\n\n### 薪资\n\n**$7,000–$10,000 USD / 月**\n\n具体根据经验和能力确定。\n\n如果你有较强的生产环境 Solidity、协议开发或智能合约安全经验，可以进一步沟通更高的薪资范围。\n\n### 工作方式\n\n* **远程友好**\n* **全职**\n* **优先 GMT+8 时区**（中国、新加坡、香港等地区）\n* 工作地点灵活\n\n### 联系方式\n\n如果你对这个岗位感兴趣，可以直接联系：\n\n**Telegram：@neonares1015**\n\n也可以发送你的 **GitHub、已部署的智能合约，或参与过的 Web3 项目**。\n\n我们更希望看到你实际做过什么，而不是一份很长的简历。",
+      "excerpt": "**公司：Zignlay · 新加坡** ### 项目介绍 Zignlay 是一家位于新加坡的 Web3 公司，目前正在开发一个面向加密用户的项目发现与社区排名平台。 我们希望通过更透明的社区参与方式，让优质项目获得更多曝光，同时帮助用户更方便地发现值得关注的新项目。 项目目前处于早期阶段，智能合约架构还有很大的设计空间。你会直接参与链上机制的设计和实现，而不只是按照现有需求写代码。 ### 你会负责 * 使用 Solidity ...",
+      "issueState": "open",
+      "contentHash": "c955fd4ed2a0bb2f0f9fcc55785fbd3899664c9913240589d68e98629817bf2b",
+      "repository": "rebase-network/who-is-hiring",
+      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "LeoChin-SG",
+        "name": "LeoChin-SG",
+        "handle": "LeoChin-SG",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/318983713?v=4"
+      },
+      "community": {
+        "id": "rebase-network",
+        "name": "rebase-network",
+        "avatarUrl": "https://github.com/rebase-network.png?size=80",
+        "repository": "rebase-network/who-is-hiring",
+        "url": "https://github.com/rebase-network/who-is-hiring"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 7000,
+        "max": 10000,
+        "period": "year"
+      },
+      "createdAt": "2026-08-20T11:34:37Z",
+      "updatedAt": "2026-08-20T11:55:32Z",
+      "url": "https://github.com/rebase-network/who-is-hiring/issues/1243",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_14a406f3cc15ba1e46b5ca4a",
+      "sourceId": "awesome-jobs/jobs#5023",
+      "title": "[Talent Calling]_Product Lead/ Product Manager",
+      "description": "Company:\nOur client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\n\nThis is an opportunity to shape the engineering foundations behind one of Vietnam's leading digital banks — owning the core engineering platform, building internal frameworks, and driving best practices across teams while working alongside a regional Platform Engineering group spanning Vietnam, Indonesia, and Singapore.\n\nResponsibilities \n• Lead the Product function and drive the overall product strategy, roadmap, and execution across our product portfolio. \n• Manage and mentor Product Managers, fostering a high-performance, customer centric, and data-driven product culture. \n• Partner with senior leadership to define product vision, priorities, and long-term strategic initiatives aligned with business objectives. \n• Oversee product planning and prioritization across multiple product domains, ensuring resources are allocated effectively to maximize business impact. \n\nQualifications \n• 8+ years of Product Management experience, including experience leading Product Managers and complex product organizations. \n• Proven track record of defining product strategy and delivering products that drive significant customer and business impact. \n• Strong leadership experience with the ability to build, mentor, and develop high performing product teams. \n• Deep understanding of digital products, customer experience, product discovery, and Agile product development. \n• Strong business acumen with the ability to connect product investments to business outcomes. \n• Excellent analytical, strategic thinking, and problem-solving skills (SQL)\n\nContact me for more details (interview process, benefits,...)\nZalo/ WhatsApp: +84353697487\nLinkedIn: https://www.linkedin.com/in/dungmaingocvn/",
+      "excerpt": "Company: Our client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vi...",
+      "issueState": "open",
+      "contentHash": "c1e15506cd2806340578cff2d81ea3f11ff919386c6a5e13265212565e56d737",
+      "repository": "awesome-jobs/jobs",
+      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "iamkathymai",
+        "name": "iamkathymai",
+        "handle": "iamkathymai",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/186159011?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/jobs",
+        "url": "https://github.com/awesome-jobs/jobs"
+      },
+      "createdAt": "2026-08-20T10:00:56Z",
+      "updatedAt": "2026-08-20T10:00:56Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5023",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_20631fe9352665af70d6ceae",
+      "sourceId": "awesome-jobs/vietnam#5023",
+      "title": "[Talent Calling]_Product Lead/ Product Manager",
+      "description": "Company:\nOur client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\n\nThis is an opportunity to shape the engineering foundations behind one of Vietnam's leading digital banks — owning the core engineering platform, building internal frameworks, and driving best practices across teams while working alongside a regional Platform Engineering group spanning Vietnam, Indonesia, and Singapore.\n\nResponsibilities \n• Lead the Product function and drive the overall product strategy, roadmap, and execution across our product portfolio. \n• Manage and mentor Product Managers, fostering a high-performance, customer centric, and data-driven product culture. \n• Partner with senior leadership to define product vision, priorities, and long-term strategic initiatives aligned with business objectives. \n• Oversee product planning and prioritization across multiple product domains, ensuring resources are allocated effectively to maximize business impact. \n\nQualifications \n• 8+ years of Product Management experience, including experience leading Product Managers and complex product organizations. \n• Proven track record of defining product strategy and delivering products that drive significant customer and business impact. \n• Strong leadership experience with the ability to build, mentor, and develop high performing product teams. \n• Deep understanding of digital products, customer experience, product discovery, and Agile product development. \n• Strong business acumen with the ability to connect product investments to business outcomes. \n• Excellent analytical, strategic thinking, and problem-solving skills (SQL)\n\nContact me for more details (interview process, benefits,...)\nZalo/ WhatsApp: +84353697487\nLinkedIn: https://www.linkedin.com/in/dungmaingocvn/",
+      "excerpt": "Company: Our client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vi...",
+      "issueState": "open",
+      "contentHash": "c1e15506cd2806340578cff2d81ea3f11ff919386c6a5e13265212565e56d737",
+      "repository": "awesome-jobs/vietnam",
+      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "iamkathymai",
+        "name": "iamkathymai",
+        "handle": "iamkathymai",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/186159011?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/vietnam",
+        "url": "https://github.com/awesome-jobs/vietnam"
+      },
+      "createdAt": "2026-08-20T10:00:56Z",
+      "updatedAt": "2026-08-20T10:00:56Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/5023",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_a8cd59eaeb8f7957cc8a68b5",
       "sourceId": "SimplifyJobs/New-Grad-Positions#2955",
@@ -632,163 +780,6 @@
       "createdAt": "2026-08-19T14:32:38Z",
       "updatedAt": "2026-08-19T14:33:03Z",
       "url": "https://github.com/backend-br/vagas/issues/12383",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_a442b3bffe44658fc936f508",
-      "sourceId": "qa-brasil/vagas#1280",
-      "title": "[Remoto] [PJ] Senior QA Engineer apaixonado por qualidade e automação",
-      "description": "## Nossa empresa\nValorei\n\n## Descrição da vaga\nEstamos em busca de um Senior QA Engineer apaixonado por qualidade e automação para integrar o time de uma empresa líder em soluções de inteligência de negócios e dados comerciais. Você será responsável por projetar e manter suites de testes automatizados robustas, garantir cobertura de testes em funcionalidades críticas e colaborar com desenvolvedores e Product Managers para elevar os padrões de qualidade. Se você tem experiência sólida em Cypress, JavaScript, testes E2E e API, além de proficiência em inglês, essa é sua oportunidade!\n🎯 O que você fará no dia a dia:\n- Projetar, desenvolver, manter e melhorar continuamente suites de testes automatizados utilizando Cypress e JavaScript\n- Definir e implementar estratégias eficazes de automação de testes para aplicações web complexas\n- Desenvolver e executar testes end-to-end (E2E), integração, regressão, funcionais e de API\n- Realizar testes de API para validar integrações, regras de negócio e consistência de dados\n- Colaborar com desenvolvedores, Product Managers e outros engenheiros de QA ao longo do ciclo de desenvolvimento\n- Participar de análise de requisitos e discussões técnicas para identificar riscos de qualidade\n- Garantir cobertura de testes apropriada para novas funcionalidades, correções e fluxos críticos\n- Identificar, documentar e rastrear defeitos com informações técnicas claras\n- Utilizar Grafana e Sentry para monitorar comportamento da aplicação e investigar falhas\n- Integrar testes automatizados em pipelines CI/CD, garantindo validação contínua\n- Mentorizar e apoiar outros engenheiros de QA, compartilhando conhecimento e boas práticas\n✅\n\n## Local\nRemoto (Remoto)\n\n## Requisitos\n- Experiência sólida (mínimo 5 anos) em Garantia de Qualidade de Software e testes de software\n- Experiência prática forte com automação de testes utilizando Cypress e JavaScript\n- Experiência em design e manutenção de frameworks de testes automatizados escaláveis\n- Compreensão sólida de testes E2E, integração, regressão, funcionais e de API\n- Experiência testando aplicações web modernas e sistemas distribuídos\n- Conhecimento forte de metodologias de testes de software e práticas de ciclo de vida de desenvolvimento\n📩\n\n## Benefícios\nNão especificado\n\n## Contratação\nPJ\n\n## Como se candidatar\nInteressado(a)? Candidate-se: https://vagas.valorei.tech/caio/vagas/cmsxs2mi9000k13v46hsq94lw\n🚨 Comunidades exclusivas de Vagas nos links abaixo! Receba antes que todo mundo:\n📱 Grupo WhatsApp: https://chat.whatsapp.com/BLkqUBlq6scFfwh4eVZgCL?mode=wwc\n✈️ Canal Telegram: https://t.me/valoreivagas\n🎁 Conhece alguém ideal? Indique pelo nosso Programa de Indicações e ganhe R$ 200,00 a cada amigo contratado!\n🔗 https://vagas.valorei.tech/referral\n#SeniorQAEngineer #QAAutomation #Cypress #JavaScript #TestesAutomatizados #VagasEmTecnologia #100Remoto #EngenhariaDeQA #CarreiraEmTech #VagasAbertasAgora #OportunidadeRemota #TecnologiaEmFoco",
-      "excerpt": "## Nossa empresa Valorei ## Descrição da vaga Estamos em busca de um Senior QA Engineer apaixonado por qualidade e automação para integrar o time de uma empresa líder em soluções de inteligência de negócios e dados co...",
-      "issueState": "open",
-      "contentHash": "6bde026d4059b1a3afa5f4d2e3b0167b38813c1767801d58f2b89f1d556fcebd",
-      "repository": "qa-brasil/vagas",
-      "repositoryUrl": "https://github.com/qa-brasil/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "remoto",
-        "inglês"
-      ],
-      "author": {
-        "id": "caiorehenrique",
-        "name": "caiorehenrique",
-        "handle": "caiorehenrique",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28871141?v=4"
-      },
-      "community": {
-        "id": "qa-brasil",
-        "name": "qa-brasil",
-        "avatarUrl": "https://github.com/qa-brasil.png?size=80",
-        "repository": "qa-brasil/vagas",
-        "url": "https://github.com/qa-brasil/vagas"
-      },
-      "createdAt": "2026-08-19T14:32:37Z",
-      "updatedAt": "2026-08-19T14:33:01Z",
-      "url": "https://github.com/qa-brasil/vagas/issues/1280",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e854ce22e08a801f635b5fff",
-      "sourceId": "DevOps-Brasil/Vagas#496",
-      "title": "[100% Remoto] [PJ] Analista DevOps SRE",
-      "description": "### 🎯 Cargo\n\nAnalista DevOps SRE\n\n### 🏢 Empresa\n\nValorei\n\n### 📊 Nível de Experiência\n\nPleno\n\n### 🏠 Modalidade de Trabalho\n\nRemoto\n\n### 📍 Localização\n\n100% Remoto\n\n### 📝 Tipo de Contratação\n\nPJ\n\n### 💱 Moeda\n\nBRL\n\n### 💰 Faixa Salarial\n\nCerca de R$ 14.000 – R$ 18.000\n\n### 📋 Descrição da Vaga\n\nEstamos em busca de um Analista DevOps SRE Sênior para integrar uma empresa em rápido crescimento que está revolucionando o mundo das plataformas SaaS e dados na América Latina. Nesta posição, você será responsável pela confiabilidade e disponibilidade de aplicações e serviços críticos, respondendo a incidentes de maior complexidade, tomando decisões sob pressão e evoluindo continuamente a observabilidade da plataforma. É uma oportunidade para quem busca impacto direto na estabilidade e performance de sistemas em escala.\n🎯 O que você fará no dia a dia:\n- Responder a incidentes de produção críticos, conduzindo o diagnóstico até a resolução e realizando análises pós-incidente\n- Projetar e manter a stack de observabilidade (métricas, logs, tracing, alertas) das aplicações e serviços\n- Reduzir MTTR e aumentar a cobertura de monitoramento e a disponibilidade dos serviços\n- Participar de escala de on-call e melhorar continuamente os runbooks\n✅\n\n### ✅ Requisitos Técnicos\n\n- Experiência sênior em SRE, DevOps ou Engenharia de Produção\n- Domínio de ferramentas de observabilidade (Datadog, Grafana, Prometheus ou equivalentes)\n- Sólida experiência com ambientes cloud e infraestrutura em produção\n- Prática consolidada em gestão de incidentes e resposta a on-call\n- Scripting para automação (Python, Bash ou similar)\n- Inglês avançado (experiência com ambientes e times globais)\n🌟\n\n### Diferenciais\n\n- Certificações cloud (AWS, GCP ou Azure)\n- Experiência com Kubernetes e Infrastructure as Code\n- Vivência em ambientes de dados e pipelines de crédito\n🏆\n\n### 🎁 Benefícios\n\n- 21 dias de férias remuneradas\n📩\n\n### 🛠️ Stack/Tecnologias\n\n(Detalhado nos requisitos e descrição)\n\n### 📧 Como se Candidatar\n\nInteressado(a)? Candidate-se: https://vagas.valorei.tech/caio/vagas/cmsd9a7l3002jq126b7usc33z\n🚨 Comunidades exclusivas de Vagas nos links abaixo! Receba antes que todo mundo:\n📱 Grupo WhatsApp: https://chat.whatsapp.com/BLkqUBlq6scFfwh4eVZgCL?mode=wwc\n✈️ Canal Telegram: https://t.me/valoreivagas\n🎁 Conhece alguém ideal? Indique pelo nosso Programa de Indicações e ganhe R$ 200,00 a cada amigo contratado!\n🔗 https://vagas.valorei.tech/referral\n#DevOps #SRE #EngenhariaDeProdução #Observabilidade #Kubernetes #CloudComputing #VagasAbertas #TecnologiaRemota #Datadog #Grafana #CarreiraEmTI #OportunidadeDeEmprego\n\n### ✔️ Confirmação\n\n- [x] Esta é uma vaga real e ativa\n- [x] Li e concordo com as regras do repositório\n- [x] A vaga é relacionada à área de DevOps/SRE/Cloud/Infraestrutura",
-      "excerpt": "### 🎯 Cargo Analista DevOps SRE ### 🏢 Empresa Valorei ### 📊 Nível de Experiência Pleno ### 🏠 Modalidade de Trabalho Remoto ### 📍 Localização 100% Remoto ### 📝 Tipo de Contratação PJ ### 💱 Moeda BRL ### 💰 Faixa...",
-      "issueState": "open",
-      "contentHash": "bca261e5283c7890dc1318049b626a17f73dd175200d42a4ddcd91dbb49f29d6",
-      "repository": "DevOps-Brasil/Vagas",
-      "repositoryUrl": "https://github.com/DevOps-Brasil/Vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "devops",
-        "sre",
-        "platform",
-        "infra",
-        "aws",
-        "azure",
-        "kubernetes"
-      ],
-      "author": {
-        "id": "caiorehenrique",
-        "name": "caiorehenrique",
-        "handle": "caiorehenrique",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28871141?v=4"
-      },
-      "community": {
-        "id": "DevOps-Brasil",
-        "name": "DevOps-Brasil",
-        "avatarUrl": "https://github.com/DevOps-Brasil.png?size=80",
-        "repository": "DevOps-Brasil/Vagas",
-        "url": "https://github.com/DevOps-Brasil/Vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 14000,
-        "max": 18000,
-        "period": "hour"
-      },
-      "createdAt": "2026-08-19T14:32:36Z",
-      "updatedAt": "2026-08-19T14:32:52Z",
-      "url": "https://github.com/DevOps-Brasil/Vagas/issues/496",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_dbad9055e61f119859a3386b",
-      "sourceId": "backend-br/vagas#12382",
-      "title": "[Av. Duquesa de Goiás, 716 - 3º andar, Conjunto A - Morumbi, São Paulo - SP] [PJ] Consultor Funcional ERP",
-      "description": "## Nossa empresa\nValorei\n\n## Descrição da vaga\n🚨💚 Vaga em destaque na Valorei — Consultor Funcional ERP | Presencial\nEstamos em busca de um Consultor Funcional ERP para integrar o time de transformação digital de uma indústria multinacional consolidada. Você será responsável por conduzir projetos de implantação, evolução e otimização de sistemas ERP, atuando como ponte estratégica entre as áreas de negócio e os times técnicos. Esta é uma oportunidade para profissionais que desejam impactar processos corporativos em ambientes dinâmicos e desafiadores, com foco em Oracle NetSuite.\n🎯 O que você fará no dia a dia:\n- Atuar em projetos de implantação, evolução e otimização do Oracle NetSuite\n- Levantar, mapear e documentar processos de negócio (AS-IS e TO-BE)\n- Traduzir requisitos de negócio em configurações e parametrizações no sistema\n- Conduzir workshops com stakeholders para entendimento de necessidades\n- Atuar como ponte entre áreas de negócio e times técnicos\n- Apoiar na definição de melhores práticas e aderência ao ERP\n- Apoiar estratégias de go-live e estabilização\n- Elaborar documentação funcional e materiais de treinamento\n✅\n\n## Local\nAv. Duquesa de Goiás, 716 - 3º andar, Conjunto A - Morumbi, São Paulo - SP (Presencial)\n\n## Requisitos\n- Ensino superior completo\n- Inglês fluente (leitura, escrita e conversação)\n- Experiência comprovada atuando como Funcional/Desenvolvimento ERP, preferencialmente com Oracle NetSuite\n- Experiência em projetos de implantação ou rollout de ERP\n- Forte conhecimento em processos corporativos (financeiro, contábil, compras, vendas ou supply chain)\n- Experiência em levantamento de requisitos e análise funcional\n- Vivência com testes funcionais e validação de processos\n- Disponibilidade para atuação presencial na região do Morumbi\n🌟\n\n### Diferenciais\n\n- Experiência prática com Oracle NetSuite\n- Conhecimento em integrações entre sistemas\n- Vivência com ambientes multinacionais\n- Noções de gestão de projetos (PMO, Scrum, etc.)\n- Experiência com treinamento de usuários e change management\n🏆\n\n## Benefícios\n- Convênio Médico\n- Férias Remuneradas\n📩\n\n## Contratação\nPJ\n\n## Como se candidatar\nInteressado(a)? Candidate-se: https://vagas.valorei.tech/caio/vagas/cmolyq2c6001hdyi77o0ycqex\n🚨 Comunidades exclusivas de Vagas nos links abaixo! Receba antes que todo mundo:\n📱 Grupo WhatsApp: https://chat.whatsapp.com/BLkqUBlq6scFfwh4eVZgCL?mode=wwc\n✈️ Canal Telegram: https://t.me/valoreivagas\n🎁 Conhece alguém ideal? Indique pelo nosso Programa de Indicações e ganhe R$ 200,00 a cada amigo contratado!\n🔗 https://vagas.valorei.tech/referral\n#ConsultorERP #OracleNetSuite #TransformacaoDigital #VagasAbertas #ConsultoriaERP #SãoPaulo #PJOportunidade #ProcessosCorporativos #ERP #VagasTecnologia #CarreiraEmTI #OportunidadeDeEmprego",
-      "excerpt": "## Nossa empresa Valorei ## Descrição da vaga 🚨💚 Vaga em destaque na Valorei — Consultor Funcional ERP | Presencial Estamos em busca de um Consultor Funcional ERP para integrar o time de transformação digital de uma...",
-      "issueState": "open",
-      "contentHash": "e075d2561fe6543241f62e966f5a831558af91b2505c46cfd1a6a2f7f42bc3a0",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "go",
-        "presencial",
-        "oracle"
-      ],
-      "author": {
-        "id": "caiorehenrique",
-        "name": "caiorehenrique",
-        "handle": "caiorehenrique",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28871141?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-08-19T14:30:23Z",
-      "updatedAt": "2026-08-19T14:31:00Z",
-      "url": "https://github.com/backend-br/vagas/issues/12382",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5fe95c7d04c61e283bf6407f",
-      "sourceId": "backend-br/vagas#12381",
-      "title": "[Avenida Paulista, São Paulo, SP] [CLT] Alerta de vaga Valorei  Backend Java Developer - AWS",
-      "description": "## Nossa empresa\nValorei\n\n## Descrição da vaga\nEstamos em busca de um(a) Desenvolvedor(a) Backend Java Sênior para integrar um time técnico forte e colaborativo em uma operação de tecnologia voltada ao mercado financeiro. Você atuará na concepção e evolução de soluções backend de missão crítica, com alto volume transacional e requisitos rigorosos de segurança, resiliência e disponibilidade. Se você tem experiência consolidada em Java, Spring Boot e arquitetura cloud, além de autonomia e visão de produto, essa é sua oportunidade!\n🎯 O que você fará no dia a dia:\n- Projetar, desenvolver e manter aplicações backend robustas e escaláveis utilizando Java e Spring Boot\n- Arquitetar e implementar APIs REST de alta performance, seguras e bem documentadas\n- Modelar e otimizar bancos de dados relacionais, garantindo performance sob alto volume transacional\n- Liderar tecnicamente decisões de arquitetura de soluções cloud, atuando como referência para o time\n- Definir e disseminar boas práticas de código, testes, observabilidade e segurança\n- Apoiar o desenvolvimento técnico de profissionais menos experientes via code review e mentoria\n- Contribuir para a evolução contínua da stack e para a redução de dívida técnica\n✅\n\n## Local\nAvenida Paulista, São Paulo, SP (Híbrido)\n\n## Requisitos\n- Experiência sólida e consolidada em Java e Spring Boot, atuando em sistemas de produção de alta criticidade\n- Domínio em design e desenvolvimento de APIs REST escaláveis e seguras\n- Forte base em bancos de dados relacionais, com capacidade de modelagem e otimização de consultas complexas\n- Experiência comprovada em plataformas cloud (AWS, GCP ou Azure)\n- Vivência em ambientes de alto volume transacional e requisitos rigorosos de disponibilidade e segurança\n- Graduação completa em Tecnologia ou área correlata\n- Autonomia, comunicação clara, visão de produto, senso de dono e capacidade de influenciar tecnicamente\n🌟\n\n### Diferenciais\n\n- Experiência prévia no mercado financeiro, bancário ou de pagamentos\n- Conhecimento em arquitetura limpa, DDD e padrões de microsserviços\n- Experiência com ferramentas de CI/CD (Jenkins, GitLab CI ou similares)\n- Familiaridade com bancos de dados NoSQL\n🏆\n\n## Benefícios\n- Plano Saúde e Dental 100% custeado\n- Seguro de Vida\n📩\n\n## Contratação\nCLT\n\n## Como se candidatar\nInteressado(a)? Candidate-se: https://vagas.valorei.tech/caio/vagas/cmpv9vv8x001tphzip83gbrei\n🚨 Comunidades exclusivas de Vagas nos links abaixo! Receba antes que todo mundo:\n📱 Grupo WhatsApp: https://chat.whatsapp.com/BLkqUBlq6scFfwh4eVZgCL?mode=wwc\n✈️ Canal Telegram: https://t.me/valoreivagas\n🎁 Conhece alguém ideal? Indique pelo nosso Programa de Indicações e ganhe R$ 200,00 a cada amigo contratado!\n🔗 https://vagas.valorei.tech/referral\n#BackendJava #JavaDeveloper #AWS #VagasAbertas #DesenvolvimentoBackend #SãoPaulo #TecnologiaFinanceira #SpringBoot #VagasSênior #Híbrido #RecrutamentoTech #OportunidadeCarreira",
-      "excerpt": "## Nossa empresa Valorei ## Descrição da vaga Estamos em busca de um(a) Desenvolvedor(a) Backend Java Sênior para integrar um time técnico forte e colaborativo em uma operação de tecnologia voltada ao mercado financei...",
-      "issueState": "open",
-      "contentHash": "8520e8f36b2c1585437e31fd42d18f9f275fd8188ededa1807881cd594adf9f3",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "clt",
-        "sênior",
-        "java",
-        "aws",
-        "híbrido",
-        "ddd",
-        "ci/cd",
-        "azure"
-      ],
-      "author": {
-        "id": "caiorehenrique",
-        "name": "caiorehenrique",
-        "handle": "caiorehenrique",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28871141?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-08-19T14:25:01Z",
-      "updatedAt": "2026-08-19T14:29:03Z",
-      "url": "https://github.com/backend-br/vagas/issues/12381",
       "sourceType": "github-issue"
     }
   ]

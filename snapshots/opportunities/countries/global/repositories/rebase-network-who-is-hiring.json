@@ -1,16 +1,53 @@
 {
-  "generatedAt": "2026-08-18T06:29:59.091Z",
+  "generatedAt": "2026-08-20T12:31:48.656Z",
   "country": "Global",
   "countryCode": "GLOBAL",
   "region": "Global",
   "repository": "rebase-network/who-is-hiring",
   "totals": {
     "opportunities": 29,
-    "openIssues": 25,
-    "closedIssues": 4
+    "openIssues": 26,
+    "closedIssues": 3
   },
-  "dataHash": "acf47ab0424853f93654ca39fb67a329293f79f38dc5f5439151408492cb0ba7",
+  "dataHash": "579cae76dd064f0d40b1a4695927e9cd5113cf5fdb9adaf6fa7e2b0e62428cfd",
   "items": [
+    {
+      "id": "gh_783e9116acc9bd902405875b",
+      "sourceId": "rebase-network/who-is-hiring#1243",
+      "title": "[新加坡/远程] Zignlay 招聘 Solidity 工程师｜$7,000–$10,000 USD/月",
+      "description": "**公司：Zignlay · 新加坡**\n\n### 项目介绍\n\nZignlay 是一家位于新加坡的 Web3 公司，目前正在开发一个面向加密用户的项目发现与社区排名平台。\n\n我们希望通过更透明的社区参与方式，让优质项目获得更多曝光，同时帮助用户更方便地发现值得关注的新项目。\n\n项目目前处于早期阶段，智能合约架构还有很大的设计空间。你会直接参与链上机制的设计和实现，而不只是按照现有需求写代码。\n\n### 你会负责\n\n* 使用 Solidity 开发投票、排名、激励等智能合约\n* 设计链上逻辑和激励机制\n* 在 EVM 链上进行合约开发、测试、部署和维护\n* 关注合约安全、Gas 优化以及各种边界情况\n* 与前后端工程师一起完成链上和链下系统的连接\n* 参与技术方案讨论和实际工程决策\n\n### 我们希望你有\n\n* 扎实的 **Solidity / EVM** 开发经验\n* 有实际部署和维护智能合约的经验\n* 对智能合约安全有较好的理解\n* 熟悉 **Foundry 或 Hardhat**\n* 熟悉 **ethers.js / viem**\n* 能够独立推进工作，并适应远程协作\n* 有 DeFi、Token、DAO、Voting 等相关经验更好\n\n我们更看重实际项目经验。\n\n不要求你了解 Web3 的所有领域，但希望你能够独立完成从**合约设计 → 开发 → 测试 → 部署**的完整流程，并认真考虑安全性和实际使用场景。\n\n### 薪资\n\n**$7,000–$10,000 USD / 月**\n\n具体根据经验和能力确定。\n\n如果你有较强的生产环境 Solidity、协议开发或智能合约安全经验，可以进一步沟通更高的薪资范围。\n\n### 工作方式\n\n* **远程友好**\n* **全职**\n* **优先 GMT+8 时区**（中国、新加坡、香港等地区）\n* 工作地点灵活\n\n### 联系方式\n\n如果你对这个岗位感兴趣，可以直接联系：\n\n**Telegram：@neonares1015**\n\n也可以发送你的 **GitHub、已部署的智能合约，或参与过的 Web3 项目**。\n\n我们更希望看到你实际做过什么，而不是一份很长的简历。",
+      "excerpt": "**公司：Zignlay · 新加坡** ### 项目介绍 Zignlay 是一家位于新加坡的 Web3 公司，目前正在开发一个面向加密用户的项目发现与社区排名平台。 我们希望通过更透明的社区参与方式，让优质项目获得更多曝光，同时帮助用户更方便地发现值得关注的新项目。 项目目前处于早期阶段，智能合约架构还有很大的设计空间。你会直接参与链上机制的设计和实现，而不只是按照现有需求写代码。 ### 你会负责 * 使用 Solidity ...",
+      "issueState": "open",
+      "contentHash": "c955fd4ed2a0bb2f0f9fcc55785fbd3899664c9913240589d68e98629817bf2b",
+      "repository": "rebase-network/who-is-hiring",
+      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
+      "region": "Global",
+      "country": "Global",
+      "tags": [],
+      "author": {
+        "id": "LeoChin-SG",
+        "name": "LeoChin-SG",
+        "handle": "LeoChin-SG",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/318983713?v=4"
+      },
+      "community": {
+        "id": "rebase-network",
+        "name": "rebase-network",
+        "avatarUrl": "https://github.com/rebase-network.png?size=80",
+        "repository": "rebase-network/who-is-hiring",
+        "url": "https://github.com/rebase-network/who-is-hiring"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 7000,
+        "max": 10000,
+        "period": "year"
+      },
+      "createdAt": "2026-08-20T11:34:37Z",
+      "updatedAt": "2026-08-20T11:55:32Z",
+      "url": "https://github.com/rebase-network/who-is-hiring/issues/1243",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_841800c84d395436577150c0",
       "sourceId": "rebase-network/who-is-hiring#1242",
@@ -715,39 +752,6 @@
       "createdAt": "2026-07-01T06:07:55Z",
       "updatedAt": "2026-07-01T07:01:02Z",
       "url": "https://github.com/rebase-network/who-is-hiring/issues/1214",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_0781947c9c356298d2b7fdfa",
-      "sourceId": "rebase-network/who-is-hiring#1211",
-      "title": "【远程】指数分析师",
-      "description": "岗位职责：\n1.负责区块链、加密资产、DeFi、NFT、Layer 2 及模块化基础设施等 Web3 细分领域的指数全生命周期研发；研究海内外创新型加权策略（如等权与市值混合策略、结构化衍生指数等），产出编制方案并推动落地。 \n2.运用 Python/R 等工具进行指数历史回测、全量复算验证及风险收益对比；参与指数计算运行维护机制（SOP）的设计与自动化监控，确保指数生产的端到端质量控制。 \n3.站在买方/机构客户视角，定期撰写高水准的指数综合投资价值分析报告、行业白皮书及市场快讯；结合宏观经济、链上数据（TVL、持有人数等）及资金流向，提供敏锐、准确的市场观点与走势预测。 \n4.联动做市商、机构级托管方（如 Cobo/Ceffu 等）及指数编译器，优化指数代币的底层套利与锚定机制；打造“深度研究+热点追踪”的内容矩阵，配合券商/交易平台进行联合营销，驱动产品规模与流动性增长。 \n5. 推进指数业务管理制度完善，确保指数编制与生产流程符合国际金融基准原则（如 IOSCO 鉴证标准）及各大交易平台的授权合规要求。 \n\n任职要求：\n1.硕士及以上学历，金融工程、应用数学、统计学、计算机、经济学等相关专业，985/211 或 QS100 院校优先。 \n2. 1–5 年及以上券商、公募基金（有 ETF 全周期产品运营经验优先）或头部加密资产领域的金工/指数研究经验；持有证券分析师资格或基金从业资格者优先。 \n3.熟练使用 Python/R 语言，具备独立编写爬虫、回测脚本及自动化运维工具的能力。 \n4.深刻理解 Web3 基础设施底层逻辑（如以太坊生态、ZK 零知识证明、DA 数据可用性层、公链扩容机制等）。 \n5.具备极强的“卖方思维”与主观能动性；能够迅速捕捉市场行情异动并高效输出图文并茂的推介材料、海报及宣传文案。 \n6. 优秀的英语读写与行业文献解读能力（雅思 7 分以上优先），能无障碍研究海外监管政策及全球数字资产市场动态。\n\n工作地点：远程\n联系方式：\nVX：Lforngift(DC同号）\nTG：@fernnini",
-      "excerpt": "岗位职责： 1.负责区块链、加密资产、DeFi、NFT、Layer 2 及模块化基础设施等 Web3 细分领域的指数全生命周期研发；研究海内外创新型加权策略（如等权与市值混合策略、结构化衍生指数等），产出编制方案并推动落地。 2.运用 Python/R 等工具进行指数历史回测、全量复算验证及风险收益对比；参与指数计算运行维护机制（SOP）的设计与自动化监控，确保指数生产的端到端质量控制。 3.站在买方/机构客户视角，定期撰写高水准...",
-      "issueState": "closed",
-      "contentHash": "975020aeb9e872d8b47ca8113da852e1294f7203e9660b98d7170f8d59b0a108",
-      "repository": "rebase-network/who-is-hiring",
-      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "needs-info"
-      ],
-      "author": {
-        "id": "Fern001-di",
-        "name": "Fern001-di",
-        "handle": "Fern001-di",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/277299931?v=4"
-      },
-      "community": {
-        "id": "rebase-network",
-        "name": "rebase-network",
-        "avatarUrl": "https://github.com/rebase-network.png?size=80",
-        "repository": "rebase-network/who-is-hiring",
-        "url": "https://github.com/rebase-network/who-is-hiring"
-      },
-      "createdAt": "2026-07-01T03:45:38Z",
-      "updatedAt": "2026-07-01T06:24:13Z",
-      "url": "https://github.com/rebase-network/who-is-hiring/issues/1211",
       "sourceType": "github-issue"
     },
     {
