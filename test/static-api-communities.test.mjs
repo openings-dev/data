@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 
 import { buildCommunities } from "../src/modules/snapshot/static-api/communities.mjs";
+import { buildStaticApiFiles } from "../src/modules/snapshot/static-api/build-static-api-files.mjs";
 
 const repositories = [
   {
@@ -104,4 +105,22 @@ test("buildCommunities includes inactive catalog sources and open opportunity me
       },
     ],
   });
+});
+
+test("static API manifest versions and hashes the communities artifact", () => {
+  const build = (catalogRepositories) => buildStaticApiFiles({
+    snapshotRootDir: "/tmp/openings-static-api-test",
+    generatedAt: "2026-08-19T00:00:00.000Z",
+    countrySnapshots: [],
+    repositories: catalogRepositories,
+  });
+  const firstFiles = build([repositories[0]]);
+  const secondFiles = build([{ ...repositories[0], owner: "changed" }]);
+  const firstManifest = firstFiles.find(({ relativePath }) => relativePath === "api/manifest.json").payload;
+  const secondManifest = secondFiles.find(({ relativePath }) => relativePath === "api/manifest.json").payload;
+
+  assert.equal(firstManifest.schemaVersion, 4);
+  assert.equal(firstManifest.files.communities, "api/communities.json");
+  assert.equal(firstManifest.totals.communities, 1);
+  assert.notEqual(firstManifest.dataHash, secondManifest.dataHash);
 });

@@ -14,7 +14,6 @@ function collectRepositoryItems(countrySnapshots) {
     country.repositoryShards.flatMap((shard) => shard.payload.items),
   );
 }
-
 function normalizeOpenItems(countrySnapshots) {
   const itemsById = new Map();
   for (const item of collectRepositoryItems(countrySnapshots)) {
@@ -24,19 +23,19 @@ function normalizeOpenItems(countrySnapshots) {
   }
   return sortOpportunitiesByDate([...itemsById.values()]);
 }
-
 function manifestPayload(params) {
-  const { generatedAt, items, pages, facetSummary, facetIndex } = params;
+  const { generatedAt, items, pages, facetSummary, facetIndex, communities } = params;
   const jobIds = items.map((item) => item.id);
   return {
     generatedAt,
-    schemaVersion: 3,
+    schemaVersion: 4,
     pageSize: STATIC_API_PAGE_SIZE,
-    dataHash: sha256Json({ jobIds, facetSummary }),
+    dataHash: sha256Json({ jobIds, facetSummary, communities: communities.items }),
     totals: {
       openOpportunities: items.length,
       pages: pages.length,
       repositories: Object.keys(facetIndex.dimensions.repositories).length,
+      communities: communities.items.length,
       countries: Object.keys(facetIndex.dimensions.countries).length,
       regions: Object.keys(facetIndex.dimensions.regions).length,
     },
@@ -46,6 +45,7 @@ function manifestPayload(params) {
       search: staticApiSearchIndexPath(),
       jobIds: staticApiJobIdsPath(),
       order: staticApiOrderPath(),
+      communities: staticApiCommunitiesPath(),
     },
     facets: facetSummary,
     pages: pages.map((page) => ({
@@ -55,7 +55,6 @@ function manifestPayload(params) {
     })),
   };
 }
-
 export function buildStaticApiFiles(params) {
   const { snapshotRootDir, generatedAt, countrySnapshots, repositories } = params;
   const items = normalizeOpenItems(countrySnapshots);
@@ -94,6 +93,7 @@ export function buildStaticApiFiles(params) {
     pages,
     facetSummary,
     facetIndex,
+    communities,
   })));
   return files;
 }
