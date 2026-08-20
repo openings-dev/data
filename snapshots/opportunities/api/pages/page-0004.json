@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-20T12:31:48.656Z",
+  "generatedAt": "2026-08-20T15:27:19.163Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_d0a58ca9e76d4aca337816ba",
+    "gh_efad0b60919ea2fcfe21a206",
     "gh_714c700c0154a5024d2e0eca",
     "gh_40dca66a9d82549a29b58d92",
     "gh_d4e51ea4fee992d283ea545e",
@@ -21,11 +23,96 @@
     "gh_9506e29074bea073de64127b",
     "gh_582ff0ba2fd27ffd9865cd58",
     "gh_7db278ad2b9ec71226abf85b",
-    "gh_74ccd3caee0d31411e74c415",
-    "gh_e949755f9f7664c2736f2433",
-    "gh_c3db156ca7cb1edb34c7d060"
+    "gh_74ccd3caee0d31411e74c415"
   ],
   "items": [
+    {
+      "id": "gh_d0a58ca9e76d4aca337816ba",
+      "sourceId": "react-brasil/vagas#3026",
+      "title": "[Remoto] React Developer Sênior na Sylision",
+      "description": "## Descrição da vaga\n\nVaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com React (5 anos ou mais)\n- React e Hooks\n- TypeScript\n- Gerência de estado (Redux, Zustand ou Context)\n- CSS moderno e consumo de APIs REST\n\n**Diferenciais:**\n- Next.js\n- Testes com Testing Library\n- Design system\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-react-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n- 🏢 Remoto\n- 👴 Sênior\n- ⚖️ CLT\n- ⚖️ PJ\n- 💰 15k+",
+      "excerpt": "## Descrição da vaga Vaga de React Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência. ## Local 100% remoto, de qualquer lu...",
+      "issueState": "open",
+      "contentHash": "4b9cc94e39c58119137022469d98bd364316a6b0bc2b38af44fc2b86b71edfa5",
+      "repository": "react-brasil/vagas",
+      "repositoryUrl": "https://github.com/react-brasil/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "⚖️ clt",
+        "🏢 remoto",
+        "⚖️ pj",
+        "👴 senior",
+        "💰 15k+"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "react-brasil",
+        "name": "react-brasil",
+        "avatarUrl": "https://github.com/react-brasil.png?size=80",
+        "repository": "react-brasil/vagas",
+        "url": "https://github.com/react-brasil/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-15T12:00:49Z",
+      "updatedAt": "2026-08-15T12:01:14Z",
+      "url": "https://github.com/react-brasil/vagas/issues/3026",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_efad0b60919ea2fcfe21a206",
+      "sourceId": "frontendbr/vagas#8540",
+      "title": "[Remoto] Angular Front-End Developer Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Front-End Developer (Angular) nível Sênior para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 12.000 a R$ 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Angular (5 anos ou mais)\n- Angular 15+ e TypeScript\n- RxJS\n- Consumo de APIs REST\n- Karma ou Jest\n\n**Diferenciais:**\n- NgRx\n- Micro-frontends\n- Design system\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-angular-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Tempo médio de feedbacks\n\nA IA da Sylision analisa o CV em minutos; quando há compatibilidade, um headhunter entra em contato em até 7 dias.\nE-mail para contato em caso de não haver resposta: giovani@sylision.com\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Regime\n- CLT\n- PJ\n\n#### Nível\n- Sênior",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "13898a1427a2b281b5fb81dadc7f2c3c77d33b052b5204df3e5f2402f83a736c",
+      "repository": "frontendbr/vagas",
+      "repositoryUrl": "https://github.com/frontendbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "frontendbr",
+        "name": "frontendbr",
+        "avatarUrl": "https://github.com/frontendbr.png?size=80",
+        "repository": "frontendbr/vagas",
+        "url": "https://github.com/frontendbr/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-15T09:33:01Z",
+      "updatedAt": "2026-08-15T09:33:34Z",
+      "url": "https://github.com/frontendbr/vagas/issues/8540",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_714c700c0154a5024d2e0eca",
       "sourceId": "awesome-jobs/jobs#5015",
@@ -687,88 +774,6 @@
       "createdAt": "2026-08-12T21:09:09Z",
       "updatedAt": "2026-08-12T21:09:09Z",
       "url": "https://github.com/SimplifyJobs/New-Grad-Positions/issues/2954",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_e949755f9f7664c2736f2433",
-      "sourceId": "backend-br/vagas#12376",
-      "title": "[Híbrido - São Paulo/SP] Backend Developer - Rentbrella",
-      "description": "## Sobre nós:\n\nA Rentbrella é a líder global em compartilhamento de guarda-chuvas, com presença em países como Brasil, Estados Unidos e Reino Unido. Com mais de 1.300 estações e 150 mil guarda-chuvas, a empresa revolucionou a mobilidade urbana e se tornou parceira de grandes corporações, como Petrobras, Shopee, Itaú, Mercado Livre, entre outras.\n\nJunte-se ao time que está redefinindo a forma como as empresas se conectam com as pessoas! ☂️\n\n## Nossos valores:\n\n- Sonhamos o futuro, entregando no presente.\n- Desafiamos a realidade, e é isso que nos move.\n- Compartilhamos ideias e responsabilidades.\n- Recusamos e temos aversão à mediocridade\n\n## Descrição da vaga\n\nBuscamos um(a) **Backend Developer** para atuar na evolução de um sistema que impacta diretamente o negócio e a experiência de milhares de pessoas.\n\nVocê vai trabalhar em um sistema distribuído em produção, desenvolvendo novas funcionalidades, evoluindo serviços existentes e resolvendo problemas com impacto real no dia a dia. O ambiente envolve múltiplos serviços, filas assíncronas e desafios de consistência, escala e confiabilidade.\n\nSe você gosta de trabalhar em sistemas reais, lidar com desafios técnicos e construir soluções que fazem diferença para o negócio e para as pessoas, essa vaga é para você.\n\n**Principais atividades:**\n- Evoluir serviços backend em um ambiente distribuído, com impacto direto no produto;\n- Investigar e resolver bugs em produção com autonomia, método e atenção ao contexto;\n- Implementar novas funcionalidades com qualidade, respeitando a arquitetura existente;\n- Reduzir complexidade e melhorar a manutenibilidade do código ao longo do tempo;\n- Garantir confiabilidade através de testes unitários e de integração;\n- Contribuir em code reviews, elevando o padrão técnico do time;\n- Apoiar desenvolvedores menos experientes, compartilhando contexto e boas práticas.\n\n## Local\n\nHíbrido (1x por semana na Av. Angélica - São Paulo/SP)\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com backend (Node.js, Python, Ruby ou similar);\n- Capacidade de trabalhar e evoluir código legado;\n- Conhecimento de APIs REST;\n- Experiência com banco de dados relacional (PostgreSQL ou similar);\n- Noções de Git e fluxo de desenvolvimento em time.\n\n**Diferenciais:**\n- Experiência com AWS (Lambda, SQS ou similares);\n- Experiência com sistemas assíncronos (filas, eventos);\n- Experiência com Redis ou estratégias de cache;\n- Experiência com observabilidade (logs, métricas, tracing);\n- Experiência em startups ou empresas de tecnologia;\n- Inglês avançado.\n\n## Benefícios\n\n- Pausa Contratual remunerada\n- Acesso ao Totalpass\n\n## Contratação\n\nPJ\n\n## Como se candidatar\n\n👉 Inscreva-se através da nossa página de carreiras: [Rentbrella - Backend Developer](https://rentbrella.inhire.app/vagas/e6574976-22dd-499b-961d-d7321bb44eee/backend-developeror-sao-paulosp-hibrido)\n\n## Labels\n\n### Nível\n\n- Pleno\n- Sênior\n\n### Regime\n\n- PJ\n\n### Alocação\n\n- Híbrido",
-      "excerpt": "## Sobre nós: A Rentbrella é a líder global em compartilhamento de guarda-chuvas, com presença em países como Brasil, Estados Unidos e Reino Unido. Com mais de 1.300 estações e 150 mil guarda-chuvas, a empresa revoluc...",
-      "issueState": "open",
-      "contentHash": "8b786296e5357ce6ced324e5a3f1cf064c2dc186fe69686ebcbfa856dde698d3",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "pleno",
-        "sênior",
-        "python",
-        "node.js",
-        "ruby",
-        "aws",
-        "postgresql"
-      ],
-      "author": {
-        "id": "alinylelis",
-        "name": "alinylelis",
-        "handle": "alinylelis",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51384427?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "createdAt": "2026-08-12T21:00:11Z",
-      "updatedAt": "2026-08-14T20:56:10Z",
-      "url": "https://github.com/backend-br/vagas/issues/12376",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_c3db156ca7cb1edb34c7d060",
-      "sourceId": "datascience-br/vagas#194",
-      "title": "[Remoto] Analista de Dados Pleno, 100% Remoto na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Analista de Dados Pleno, 100% Remoto nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Analista de Dados (de 2 a 5 anos)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-analista-de-dados-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "d2752115cc7fb926fd06a58eae2d93ddfdc51099c5214b3735b58a23fd77947c",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "backend",
-        "pleno",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-12T21:00:06Z",
-      "updatedAt": "2026-08-12T21:00:06Z",
-      "url": "https://github.com/datascience-br/vagas/issues/194",
       "sourceType": "github-issue"
     }
   ]
