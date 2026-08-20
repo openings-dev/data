@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T12:31:48.656Z",
+  "generatedAt": "2026-08-20T21:25:20.908Z",
   "schemaVersion": 2,
-  "dataHash": "e7d3e24158c2f54b1f00675bdf736c4f95b1b4de8eff3ffbdf108900c1db0780",
+  "dataHash": "43de8513b886a547697e2e15f7a568139d918068309abcd10b43882b1d83156a",
   "catalogGeneratedAt": "2026-08-17",
   "request": {
     "maxIssuesPerRepository": 30,
@@ -13,7 +13,7 @@
   "repositoriesRequested": 185,
   "repositoriesScanned": 185,
   "totals": {
-    "opportunities": 2204,
+    "opportunities": 2183,
     "uniqueRepositories": 185,
     "uniqueCountries": 23,
     "uniqueRegions": 7,
@@ -327,7 +327,6 @@
       "api/pages/page-0043.json",
       "api/pages/page-0044.json",
       "api/pages/page-0045.json",
-      "api/pages/page-0046.json",
       "api/search-index.json"
     ]
   },
@@ -366,10 +365,10 @@
       "country": "Brazil",
       "countryCode": "BR",
       "region": "South America",
-      "opportunities": 1244,
+      "opportunities": 1219,
       "repositories": 68,
-      "openIssues": 474,
-      "closedIssues": 770,
+      "openIssues": 469,
+      "closedIssues": 750,
       "indexFile": "countries/br/index.json"
     },
     {
@@ -546,10 +545,10 @@
       "country": "United States",
       "countryCode": "US",
       "region": "North America",
-      "opportunities": 136,
+      "opportunities": 140,
       "repositories": 24,
-      "openIssues": 67,
-      "closedIssues": 69,
+      "openIssues": 68,
+      "closedIssues": 72,
       "indexFile": "countries/us/index.json"
     },
     {
@@ -558,8 +557,8 @@
       "region": "Asia",
       "opportunities": 64,
       "repositories": 3,
-      "openIssues": 55,
-      "closedIssues": 9,
+      "openIssues": 53,
+      "closedIssues": 11,
       "indexFile": "countries/vn/index.json"
     }
   ]

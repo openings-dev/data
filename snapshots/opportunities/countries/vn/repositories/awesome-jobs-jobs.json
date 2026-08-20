@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T15:27:19.163Z",
+  "generatedAt": "2026-08-20T21:25:20.908Z",
   "country": "Vietnam",
   "countryCode": "VN",
   "region": "Asia",
   "repository": "awesome-jobs/jobs",
   "totals": {
     "opportunities": 30,
-    "openIssues": 26,
-    "closedIssues": 4
+    "openIssues": 25,
+    "closedIssues": 5
   },
-  "dataHash": "da6f6e35d402e323a1c002f0c28c60c5b3f49f6b08dbf63d4487cea98c2ced67",
+  "dataHash": "65e25bf1cb5dbee04d713cd4feb09741d1c7b44c4429a248e9aa5c3839504067",
   "items": [
     {
       "id": "gh_5b692624be9237f8879e728a",
@@ -901,43 +901,6 @@
       "sourceType": "github-issue"
     },
     {
-      "id": "gh_b166316d82cc1ce3daf89377",
-      "sourceId": "awesome-jobs/jobs#4999",
-      "title": "HCMC/Hanoi - Senior/Principal Ruby on Rails Developer (English)",
-      "description": "## Location \nHanoi or HCMC: Hybrid working: WFH 3-4 days/week\nJapanese IT product company \n\n## Salary: \n75M Gross (Senior) , $3k5 gross (Principal)\n\n## Requirements \n・ Good at English communication\n・ 6+ years of experience in developing and operating Web services using Ruby on Rails\n・ Knowledge and development experience with database systems\n・ Experience using cloud platforms (AWS, GCP, Azure, etc.)\n・ Experience in API design, development, and documentation\n・ Understanding of the software development lifecycle\n・ Programming, debugging, and testing skills\n   \n\n### Contact \nMail; hongtham.viecoi@gmail.com | Phone/Zalo: 097 1258 927",
-      "excerpt": "## Location Hanoi or HCMC: Hybrid working: WFH 3-4 days/week Japanese IT product company ## Salary: 75M Gross (Senior) , $3k5 gross (Principal) ## Requirements ・ Good at English communication ・ 6+ years of experience ...",
-      "issueState": "open",
-      "contentHash": "da31f94e12210ee8c1693c8a400b25c858d18c6059ceb027e2399c7742e59227",
-      "repository": "awesome-jobs/jobs",
-      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "senior",
-        "principal",
-        "data",
-        "design"
-      ],
-      "author": {
-        "id": "PhamTham143",
-        "name": "PhamTham143",
-        "handle": "PhamTham143",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/148303683?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/jobs",
-        "url": "https://github.com/awesome-jobs/jobs"
-      },
-      "createdAt": "2026-08-07T04:38:30Z",
-      "updatedAt": "2026-08-07T04:38:30Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/4999",
-      "sourceType": "github-issue"
-    },
-    {
       "id": "gh_1c8dd920cc611601b934cd3b",
       "sourceId": "awesome-jobs/jobs#4986",
       "title": "[$4,500] Senior Backend Software Engineer (Python & AI)",
@@ -1013,6 +976,45 @@
       "createdAt": "2026-06-03T08:46:19Z",
       "updatedAt": "2026-08-12T07:16:20Z",
       "url": "https://github.com/awesome-jobs/vietnam/issues/4940",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_1c5f93de8664fc9a3e2e020a",
+      "sourceId": "awesome-jobs/jobs#4937",
+      "title": "[Part-time / Async] Senior Code Reviewer — Supply Chain ERP (React + Python + Postgres) · Hanoi preferred · ~5–8 hrs/week",
+      "description": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand forecasting, multi-currency P&L, FX exposure tracking, working capital, cost-per-batch, customer profitability, segregation of duties, and more.\n\nWe are developing the system in-house using AI-assisted coding and are looking for a **senior developer to serve as our ongoing technical reviewer** — not to write code, but to be our second set of eyes and catch issues before they reach production.\n\n**What you would do:**\n- Review pull requests (PRs) or code drops asynchronously (written feedback, no mandatory calls)\n- Flag security vulnerabilities, authentication gaps, and business logic errors\n- Identify AI-generated code failure patterns: missing edge cases, transaction boundary issues, weak input validation\n- Provide structured written feedback categorised by severity: Security / Correctness / Architecture / Performance\n- Occasional architecture discussion at the start of new modules\n\n**Tech stack:**\n- Frontend: React (or Vue TBD)\n- Backend: Python (FastAPI or Django) + PostgreSQL\n- Domain: ERP / supply chain / manufacturing — complex business logic, financial data, multi-currency\n\n**What we are looking for:**\n- 6+ years of hands-on commercial software development experience, ideally with enterprise or ERP-class systems\n- Comfortable reviewing AI-assisted code — knows what patterns to distrust\n- Strong written communication — can prioritise findings clearly, not just leave inline comments\n- Bonus: prior experience in manufacturing, supply chain, or fintech domains\n- Hanoi-based preferred (for occasional in-person sync if needed); fully remote also considered\n\n**Commitment:** ~5–8 hrs/week, async and flexible schedule. Ongoing retainer engagement. Starting date is from mid-June 2026\n\n\n**To apply:** Send a brief intro + GitHub profile or relevant past work to: **anhluong@qt-hitech.com**. We will then review them and if short-listed send a 200–300 line code sample. If the depth of feedback is right, we proceed to a retainer.",
+      "excerpt": "**Q&T Hi-Tech** is building a custom **Q&T Planning System** — an internal Supply Chain ERP web application to replace our current planning processes. The system covers ~25 modules: MRP, procurement (PR/PO), demand fo...",
+      "issueState": "closed",
+      "contentHash": "f12d9c40af259e88c906d271e70cd81a2af81248ab512c550feb012ae0d2150b",
+      "repository": "awesome-jobs/jobs",
+      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
+      "region": "Asia",
+      "country": "Vietnam",
+      "tags": [
+        "remote",
+        "frontend",
+        "backend",
+        "react",
+        "python",
+        "senior",
+        "data"
+      ],
+      "author": {
+        "id": "AnhQT-hitech",
+        "name": "AnhQT-hitech",
+        "handle": "AnhQT-hitech",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/288850728?v=4"
+      },
+      "community": {
+        "id": "awesome-jobs",
+        "name": "awesome-jobs",
+        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
+        "repository": "awesome-jobs/jobs",
+        "url": "https://github.com/awesome-jobs/jobs"
+      },
+      "createdAt": "2026-05-29T08:24:55Z",
+      "updatedAt": "2026-08-20T20:28:14Z",
+      "url": "https://github.com/awesome-jobs/vietnam/issues/4937",
       "sourceType": "github-issue"
     },
     {

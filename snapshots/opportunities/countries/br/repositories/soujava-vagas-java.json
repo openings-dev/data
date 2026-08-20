@@ -1,16 +1,63 @@
 {
-  "generatedAt": "2026-08-18T00:45:53.197Z",
+  "generatedAt": "2026-08-20T21:25:20.908Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "soujava/vagas-java",
   "totals": {
-    "opportunities": 18,
-    "openIssues": 12,
-    "closedIssues": 6
+    "opportunities": 20,
+    "openIssues": 13,
+    "closedIssues": 7
   },
-  "dataHash": "cf57bc4f72a033e8c7348db8ea15252d812150e9ce782403ec1a519a323d94ad",
+  "dataHash": "f477d5f1538a1480e692c707a35c2fa4d2b8663b31e61a9faeb7e0446efca04b",
   "items": [
+    {
+      "id": "gh_f83453948444957f199dcacb",
+      "sourceId": "soujava/vagas-java#1940",
+      "title": "[Remoto] Desenvolvedor(a) Java/Kafka Sênior, 100% Remoto na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o seu currículo com todas as vagas compatíveis do nosso banco próprio. Você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka Sênior, 100% Remoto nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver produtores e consumidores de eventos em Kafka\n- Modelar tópicos, partições e estratégias de retenção\n- Garantir entrega e ordenação em pipelines de alto volume\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Java/Kafka (5 anos ou mais)\n- Java e Spring Boot\n- Apache Kafka (produtor, consumidor, consumer group)\n- Serialização (Avro, Protobuf ou JSON Schema)\n- SQL\n\n**Diferenciais:**\n- Kafka Streams ou KSQL\n- Schema Registry\n- Kubernetes\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-senior-remoto\n\nBasta enviar o currículo uma vez. A IA da Sylision considera o seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o se...",
+      "issueState": "open",
+      "contentHash": "faa44cf595ca2cf941cd643008e005de09d900ac2f1fcfc833098839bb916f0d",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "spring",
+        "sql",
+        "java"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-20T17:22:14Z",
+      "updatedAt": "2026-08-20T17:22:32Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1940",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_46a9b479d4c37570f4ba08c2",
       "sourceId": "soujava/vagas-java#1939",
@@ -546,6 +593,52 @@
       "createdAt": "2026-07-14T17:32:47Z",
       "updatedAt": "2026-07-27T17:50:14Z",
       "url": "https://github.com/soujava/vagas-java/issues/1906",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4ba3953d3bc59aa851882f78",
+      "sourceId": "soujava/vagas-java#1902",
+      "title": "[Remoto] Desenvolvedor(a) Java/Kafka Sênior na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Kafka nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Java/Kafka compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-kafka-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "closed",
+      "contentHash": "20f48e0363f24cf14a2adbf64399eee20111ebfc601f8309a9ff7a8aae7d2020",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "java",
+        "portugal"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-07-12T17:25:36Z",
+      "updatedAt": "2026-08-20T17:22:13Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1902",
       "sourceType": "github-issue"
     },
     {
