@@ -8,7 +8,7 @@ import { writeSegmentedSnapshot } from "../src/modules/snapshot/write-segmented-
 import { writeJsonIfChanged } from "../src/modules/storage/write-json-if-changed.mjs";
 
 async function withTempDir(callback) {
-  const directory = await mkdtemp(join(tmpdir(), "openings-data-"));
+  const directory = await mkdtemp(join(tmpdir(), "openings-data-pipeline-"));
 
   try {
     return await callback(directory);

@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# openings-data
+# data-pipeline
 
 Public data pipeline and static JSON API for `openings.dev`.
 
@@ -12,7 +12,7 @@ This repository owns the source catalog, GitHub ingestion pipeline, normalized o
 
 ## Repository Role
 
-`openings-dev/data` is the data publication layer. It is intentionally separate from the front-end:
+`openings-dev/data-pipeline` is the data publication layer. It is intentionally separate from the front-end:
 
 - the data repo generates and stores publishable JSON snapshots;
 - the front-end reads those snapshots remotely from `raw.githubusercontent.com`;
@@ -99,15 +99,15 @@ There is no monolithic `snapshots/opportunities.json` file.
 The front-end consumes this repository through raw GitHub URLs:
 
 ```txt
-https://raw.githubusercontent.com/openings-dev/data/main/snapshots/opportunities
-https://raw.githubusercontent.com/openings-dev/data/main
+https://raw.githubusercontent.com/openings-dev/data-pipeline/main/snapshots/opportunities
+https://raw.githubusercontent.com/openings-dev/data-pipeline/main
 ```
 
 Example:
 
 ```ts
 const baseUrl =
-  "https://raw.githubusercontent.com/openings-dev/data/main/snapshots/opportunities";
+  "https://raw.githubusercontent.com/openings-dev/data-pipeline/main/snapshots/opportunities";
 
 const manifest = await fetch(`${baseUrl}/api/manifest.json`).then((response) =>
   response.json(),

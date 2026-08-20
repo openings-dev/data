@@ -1,4 +1,4 @@
-# Contributing to openings-data
+# Contributing to data-pipeline
 
 Thanks for contributing to the `openings.dev` data layer.
 
@@ -12,7 +12,7 @@ This repository owns:
 - static API files consumed by the front-end;
 - validation and build scripts for the data pipeline.
 
-Front-end UI work belongs in `openings-dev/openings`.
+Front-end UI work belongs in `openings-dev/web`.
 
 ## Data Contract Rules
 

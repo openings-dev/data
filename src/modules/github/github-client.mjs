@@ -6,7 +6,7 @@ import { RateLimitError } from "../../shared/errors/rate-limit-error.mjs";
 function buildHeaders(token) {
   return {
     Accept: "application/vnd.github+json",
-    "User-Agent": "openings-data-bot",
+    "User-Agent": "openings-data-pipeline-bot",
     ...(token ? { Authorization: `Bearer ${token}` } : {}),
   };
 }
