@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-20T03:40:43.144Z",
+  "generatedAt": "2026-08-20T06:32:20.664Z",
   "page": 3,
   "pageSize": 20,
   "nextPage": "api/pages/page-0004.json",
   "ids": [
+    "gh_a550d3026fe89f719a32347a",
     "gh_03efa9d5761c2ddbcd1e50c5",
     "gh_5e86a7a3e3ddb2f7ca15e43b",
     "gh_46a9b479d4c37570f4ba08c2",
@@ -22,10 +23,51 @@
     "gh_efad0b60919ea2fcfe21a206",
     "gh_714c700c0154a5024d2e0eca",
     "gh_40dca66a9d82549a29b58d92",
-    "gh_d4e51ea4fee992d283ea545e",
-    "gh_9cb67a2721464da325885d3e"
+    "gh_d4e51ea4fee992d283ea545e"
   ],
   "items": [
+    {
+      "id": "gh_a550d3026fe89f719a32347a",
+      "sourceId": "datascience-br/vagas#199",
+      "title": "[Híbrido] Analista de Dados Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Analista de Dados nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter serviços de backend\n- Modelar dados e integrar sistemas\n- Escrever testes e revisar código\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Analista de Dados (de 2 a 5 anos)\n- Uma linguagem de backend em nível profissional\n- APIs REST e SQL\n- Git e fluxo de pull request\n- Testes automatizados\n\n**Diferenciais:**\n- Docker\n- Cloud\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-analista-de-dados-pleno\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "ae18f7652c0d49b148d21b981b662eb0513687b0171c7333abfea5d9e42df82a",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-17T23:25:54Z",
+      "updatedAt": "2026-08-17T23:25:54Z",
+      "url": "https://github.com/datascience-br/vagas/issues/199",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_03efa9d5761c2ddbcd1e50c5",
       "sourceId": "datascience-br/vagas#198",
@@ -767,46 +809,6 @@
       "createdAt": "2026-08-15T00:00:09Z",
       "updatedAt": "2026-08-17T09:25:18Z",
       "url": "https://github.com/backend-pt/vagas/issues/162",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9cb67a2721464da325885d3e",
-      "sourceId": "backend-pt/vagas#161",
-      "title": "[Remoto] Elixir/Phoenix Backend Developer Pleno @ Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Elixir/Phoenix Backend Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver aplicações concorrentes em Elixir\n- Construir APIs e interfaces em tempo real com Phoenix\n- Cuidar de tolerância a falhas com OTP\n\n## Local\n\n100% remoto, para profissionais em Portugal ou no Brasil.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Elixir/Phoenix (de 2 a 5 anos)\n- Elixir e OTP (GenServer, Supervisor)\n- Phoenix e Ecto\n- PostgreSQL\n- Testes com ExUnit\n\n**Diferenciais:**\n- Phoenix LiveView\n- Kubernetes\n- Mensageria\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-elixir-phoenix-pleno-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "67b94c5b70df25f3060512ba858b9d1aa2dcd87321d30b13358a933814ad9f8f",
-      "repository": "backend-pt/vagas",
-      "repositoryUrl": "https://github.com/backend-pt/vagas",
-      "region": "Europe",
-      "country": "Portugal",
-      "tags": [
-        "remoto",
-        "pleno"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "backend-pt",
-        "name": "backend-pt",
-        "avatarUrl": "https://github.com/backend-pt.png?size=80",
-        "repository": "backend-pt/vagas",
-        "url": "https://github.com/backend-pt/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 7000,
-        "max": 12000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-14T21:14:08Z",
-      "updatedAt": "2026-08-17T09:25:11Z",
-      "url": "https://github.com/backend-pt/vagas/issues/161",
       "sourceType": "github-issue"
     }
   ]
