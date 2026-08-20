@@ -31,7 +31,6 @@ jobs:
 
       - name: Build opportunities snapshot
         env:
-          OPENINGS_GITHUB_TOKEN: ${{ secrets.OPENINGS_GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ github.token }}
           MAX_ISSUES_PER_REPOSITORY: "30"
           MAX_REPOSITORIES: "0"

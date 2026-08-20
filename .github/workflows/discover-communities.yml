@@ -34,7 +34,7 @@ jobs:
         id: discovery
         env:
           DISCOVERY_OUTPUT_DIR: ${{ runner.temp }}/community-discovery
-          OPENINGS_GITHUB_TOKEN: ${{ secrets.OPENINGS_GITHUB_TOKEN || github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: npm run discover:communities
 
       - name: Read report status
