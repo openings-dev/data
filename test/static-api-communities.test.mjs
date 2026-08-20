@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
+import { readFile } from "node:fs/promises";
 
 import { buildCommunities } from "../src/modules/snapshot/static-api/communities.mjs";
 import { buildStaticApiFiles } from "../src/modules/snapshot/static-api/build-static-api-files.mjs";
@@ -123,4 +124,25 @@ test("static API manifest versions and hashes the communities artifact", () => {
   assert.equal(firstManifest.files.communities, "api/communities.json");
   assert.equal(firstManifest.totals.communities, 1);
   assert.notEqual(firstManifest.dataHash, secondManifest.dataHash);
+});
+
+test("catalog contains vetted issue-backed communities", async () => {
+  const catalog = JSON.parse(await readFile(
+    new URL("../src/modules/catalog/repositories.json", import.meta.url),
+    "utf8",
+  ));
+  const repositories = new Set(catalog.repositories.map((entry) => entry.repository));
+  const expected = [
+    "awesome-jobs/jobs",
+    "CangaceirosDevels/vagas",
+    "CodeandoMexico/jobs",
+    "eduardoborges/vagas-ti-sergipe",
+    "felipenoka/vagas",
+    "Infrasity-Labs/developer-marketing-jobs",
+    "stone-pagamentos/vagas",
+  ];
+
+  for (const repository of expected) {
+    assert.equal(repositories.has(repository), true, `missing ${repository}`);
+  }
 });

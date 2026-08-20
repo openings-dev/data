@@ -1,12 +1,13 @@
 {
   "generatedAt": "2026-08-20T00:45:51.233Z",
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "pageSize": 20,
-  "dataHash": "d05426ca8d2c833cee1874fb055ca00e6b29c50eabd9364fa1abe04edd7c92c6",
+  "dataHash": "53551518fa9be88b6415f69bfb7cda91a4447888c4121e6e8fe6053c361459d9",
   "totals": {
     "openOpportunities": 868,
     "pages": 44,
     "repositories": 111,
+    "communities": 185,
     "countries": 15,
     "regions": 5
   },
@@ -15,7 +16,8 @@
     "pageLookup": "api/page-lookup.json",
     "search": "api/search-index.json",
     "jobIds": "api/job-ids.json",
-    "order": "api/order/recent.json"
+    "order": "api/order/recent.json",
+    "communities": "api/communities.json"
   },
   "facets": {
     "repositories": {
