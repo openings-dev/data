@@ -16,6 +16,7 @@ export function prepareSegmentedSnapshot(params) {
     repositoriesScanned,
     failedRepositories,
     countries,
+    repositories,
   } = params;
 
   const countrySnapshots = countries
@@ -25,6 +26,7 @@ export function prepareSegmentedSnapshot(params) {
     snapshotRootDir,
     generatedAt,
     countrySnapshots,
+    repositories,
   });
 
   const globalIndex = buildGlobalIndex({

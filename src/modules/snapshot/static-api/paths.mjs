@@ -10,6 +10,10 @@ export function staticApiManifestPath() {
   return `${API_ROOT}/manifest.json`;
 }
 
+export function staticApiCommunitiesPath() {
+  return `${API_ROOT}/communities.json`;
+}
+
 export function staticApiFacetIndexPath() {
   return `${API_ROOT}/facet-index.json`;
 }

@@ -61,6 +61,7 @@ export async function runBuild() {
     repositoriesScanned: results.repositoriesScanned,
     failedRepositories: results.failedRepositories,
     countries: results.countries,
+    repositories,
   });
 
   const writeResult = await writeSegmentedSnapshot(snapshot);

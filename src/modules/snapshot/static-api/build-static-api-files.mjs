@@ -6,6 +6,8 @@ import { withPublicOpportunityId } from "./opportunity-id.mjs";
 import { buildItemPages, buildPageLookup, STATIC_API_PAGE_SIZE } from "./pages.mjs";
 import { staticApiFacetIndexPath, staticApiJobIdsPath, staticApiManifestPath, staticApiOrderPath, staticApiPageLookupPath, staticApiSearchIndexPath, toFile } from "./paths.mjs";
 import { buildSearchIndex } from "./search-text.mjs";
+import { buildCommunities } from "./communities.mjs";
+import { staticApiCommunitiesPath } from "./paths.mjs";
 
 function collectRepositoryItems(countrySnapshots) {
   return countrySnapshots.flatMap((country) =>
@@ -55,8 +57,9 @@ function manifestPayload(params) {
 }
 
 export function buildStaticApiFiles(params) {
-  const { snapshotRootDir, generatedAt, countrySnapshots } = params;
+  const { snapshotRootDir, generatedAt, countrySnapshots, repositories } = params;
   const items = normalizeOpenItems(countrySnapshots);
+  const communities = buildCommunities(repositories, items);
   const pages = buildItemPages(items, generatedAt);
   const pageLookup = buildPageLookup(pages);
   const facetIndex = buildFacetIndex(items);
@@ -77,6 +80,10 @@ export function buildStaticApiFiles(params) {
   files.push(toFile(snapshotRootDir, staticApiOrderPath(), {
     generatedAt,
     ids: items.map((item) => item.id),
+  }));
+  files.push(toFile(snapshotRootDir, staticApiCommunitiesPath(), {
+    generatedAt,
+    ...communities,
   }));
   files.push(...buildJobBuckets(items, generatedAt).map((bucket) =>
     toFile(snapshotRootDir, bucket.file, bucket.payload),
