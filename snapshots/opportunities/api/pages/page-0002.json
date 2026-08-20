@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-19T18:22:42.382Z",
+  "generatedAt": "2026-08-20T00:45:51.233Z",
   "page": 2,
   "pageSize": 20,
   "nextPage": "api/pages/page-0003.json",
   "ids": [
+    "gh_4af44b32cbe90b7c0b3d3e01",
     "gh_11e44c08cb795118dad0b0af",
     "gh_00f670a164b634f9d56ebdc4",
-    "gh_9a118fa979b708bc7b6df0bd",
     "gh_d4b9ac0a55f837df6635ec9f",
     "gh_605acd31c6f59ca0df9a8277",
     "gh_c06daaad995cc1deea93e402",
@@ -26,6 +26,40 @@
     "gh_a6c2a2b23c9062e1829400dc"
   ],
   "items": [
+    {
+      "id": "gh_4af44b32cbe90b7c0b3d3e01",
+      "sourceId": "datascience-br/vagas#200",
+      "title": "[Interlagos / Santo Amaro, SP] [CLT] Vaga aberta na Valorei  Engenheiro(a) de Dados Pleno - Databricks",
+      "description": "## Nossa empresa\nValorei\n\n## Descrição da vaga\nEstamos em busca de um(a) Engenheiro(a) de Dados Pleno para integrar uma operação de tecnologia de alta demanda, onde você será responsável pelo desenvolvimento e evolução de pipelines de dados robustos em ambiente Databricks. Se você tem experiência sólida com Spark, arquitetura Lakehouse e quer trabalhar em um contexto onde dados confiáveis e escaláveis impactam decisões estratégicas de negócio, essa é sua oportunidade!\n🎯 O que você fará no dia a dia:\n- Desenvolver e manter pipelines de ingestão, transformação e disponibilização de dados (ETL/ELT) utilizando Databricks e Spark\n- Construir e otimizar arquiteturas de dados em modelo Lakehouse com camadas Bronze, Silver e Gold usando Delta Lake\n- Escrever código em PySpark e SQL para processamento de dados in larga escala\n- Orquestrar workflows de dados, garantindo confiabilidade, monitoramento e qualidade das entregas\n- Colaborar com times de dados, analytics e produto para entender necessidades e entregar soluções eficientes\n- Aplicar boas práticas de versionamento, testes e documentação em projetos de engenharia de dados\n✅\n\n## Local\nInterlagos ou Santo Amaro, SP (Híbrido)\n\n## Requisitos\n- Experiência sólida com Databricks e Apache Spark em ambientes de produção\n- Domínio de PySpark e SQL para manipulação e processamento de grandes volumes de dados\n- Conhecimento em arquitetura Lakehouse e Delta Lake\n- Vivência com pipelines de ETL/ELT e orquestração de workflows de dados\n- Experiência com pelo menos uma cloud (AWS, Azure ou GCP)\n- Graduação completa em Tecnologia, Engenharia, Ciência da Computação ou área correlata\n- Perfil com 3 a 5 anos de experiência em engenharia de dados\n🌟\n\n### Diferenciais\n\n- Certificações Databricks (Data Engineer Associate/Professional)\n- Experiência com ferramentas de orquestração como Airflow ou Databricks Workflows\n- Conhecimento em modelagem de dados (dimensional, data vault)\n- Vivência com CI/CD para pipelines de dados\n- Familiaridade com governança e qualidade de dados (Unity Catalog, testes de dados)\n- Experiência prévia no mercado financeiro ou em ambientes de alto volume transacional\n🏆\n\n## Benefícios\n- Plano Saúde e Dental 100% custeado\n- Seguro de Vida\n📩\n\n## Contratação\nCLT\n\n## Como se candidatar\nInteressado(a)? Candidate-se: https://vagas.valorei.tech/caio/vagas/cmsrm46se0002yu5qpndsz6b8\n🚨 Comunidades exclusivas de Vagas nos links abaixo! Receba antes que todo mundo:\n📱 Grupo WhatsApp: https://chat.whatsapp.com/BLkqUBlq6scFfwh4eVZgCL?mode=wwc\n✈️ Canal Telegram: https://t.me/valoreivagas\n🎁 Conhece alguém ideal? Indique pelo nosso Programa de Indicações e ganhe R$ 200,00 a cada amigo contratado!\n🔗 https://vagas.valorei.tech/referral\n#EngenhariadeDados #Databricks #ApacheSpark #VagasAbertasSP #TecnologiaSP #Lakehouse #DeltaLake #CarreiraEmTecnologia #VagasHíbridas #PySpark #EngenhariaDados #OportunidadeProfissional",
+      "excerpt": "## Nossa empresa Valorei ## Descrição da vaga Estamos em busca de um(a) Engenheiro(a) de Dados Pleno para integrar uma operação de tecnologia de alta demanda, onde você será responsável pelo desenvolvimento e evolução...",
+      "issueState": "open",
+      "contentHash": "6129281714838b82172e9d46ffe6ac01e1702d785c83956a89c6365c6971607d",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "caiorehenrique",
+        "name": "caiorehenrique",
+        "handle": "caiorehenrique",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28871141?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "createdAt": "2026-08-19T14:23:05Z",
+      "updatedAt": "2026-08-19T14:28:17Z",
+      "url": "https://github.com/datascience-br/vagas/issues/200",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_11e44c08cb795118dad0b0af",
       "sourceId": "DevOps-Brasil/Vagas#495",
@@ -116,37 +150,6 @@
       "createdAt": "2026-08-19T14:21:05Z",
       "updatedAt": "2026-08-19T14:28:16Z",
       "url": "https://github.com/DevOps-Brasil/Vagas/issues/494",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9a118fa979b708bc7b6df0bd",
-      "sourceId": "negarprh/Canadian-Tech-Internships-2026#298",
-      "title": "Shopify Intern FallWInter 2027 Application Date Closed",
-      "description": "Shopify internship no longer available",
-      "excerpt": "Shopify internship no longer available",
-      "issueState": "open",
-      "contentHash": "a9e6b519537aa3224f72ebc24fc6f7d7440cc369590df92508f9fc5c5eccfd5c",
-      "repository": "negarprh/Canadian-Tech-Internships-2026",
-      "repositoryUrl": "https://github.com/negarprh/Canadian-Tech-Internships-2026",
-      "region": "North America",
-      "country": "Canada",
-      "tags": [],
-      "author": {
-        "id": "marinamen",
-        "name": "marinamen",
-        "handle": "marinamen",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/142757957?v=4"
-      },
-      "community": {
-        "id": "negarprh",
-        "name": "negarprh",
-        "avatarUrl": "https://github.com/negarprh.png?size=80",
-        "repository": "negarprh/Canadian-Tech-Internships-2026",
-        "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026"
-      },
-      "createdAt": "2026-08-19T14:07:51Z",
-      "updatedAt": "2026-08-19T14:07:51Z",
-      "url": "https://github.com/negarprh/Canadian-Tech-Internships-2026/issues/298",
       "sourceType": "github-issue"
     },
     {
