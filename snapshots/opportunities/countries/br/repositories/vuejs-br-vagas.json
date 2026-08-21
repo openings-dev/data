@@ -1,16 +1,58 @@
 {
-  "generatedAt": "2026-08-21T03:44:13.066Z",
+  "generatedAt": "2026-08-21T15:26:12.106Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "vuejs-br/vagas",
   "totals": {
     "opportunities": 29,
-    "openIssues": 3,
-    "closedIssues": 26
+    "openIssues": 4,
+    "closedIssues": 25
   },
-  "dataHash": "c7d5c688b9aaee2b2fb51d00925cfa04be27282c988b28924b1fef1543c35452",
+  "dataHash": "80391a35beb0114c44d1e25f0827647152e035a2b6b83469793803bce579bd88",
   "items": [
+    {
+      "id": "gh_5156cfb77132d5e4748cbeee",
+      "sourceId": "vuejs-br/vagas#612",
+      "title": "[Remoto] Front-end Vue.js Developer Pleno @ Sylision",
+      "description": "## Descrição da vaga\n\nVaga de Front-end Vue.js Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision.\n\nFaixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência.\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Vue.js (de 2 a 5 anos)\n- Vue 3 e Composition API\n- TypeScript\n- Pinia ou Vuex\n- CSS moderno\n\n**Diferenciais:**\n- Nuxt\n- Testes com Vitest\n- Design system\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o seu currículo com todas as vagas compatíveis do nosso banco próprio. Você se candidata uma única vez.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-vue-js-pleno-remoto\n\nBasta enviar o currículo uma vez. A IA da Sylision considera o seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.\n\n## Labels\n\n#### Alocação\n- Remoto\n\n#### Experiência\n- Pleno\n\n#### Regime\n- CLT\n- PJ",
+      "excerpt": "## Descrição da vaga Vaga de Front-end Vue.js Developer nível Pleno para atuar em projetos de empresas parceiras da Sylision. Faixa salarial: R$ 7.000 a R$ 12.000/mês, conforme experiência. ## Local 100% remoto, de qu...",
+      "issueState": "open",
+      "contentHash": "65376f0a402ee2556b2353e41e0a10f339a74e4e77a3ac3bfc8c4f0f3917fc22",
+      "repository": "vuejs-br/vagas",
+      "repositoryUrl": "https://github.com/vuejs-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "typescript",
+        "pleno",
+        "data",
+        "design"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "vuejs-br",
+        "name": "vuejs-br",
+        "avatarUrl": "https://github.com/vuejs-br.png?size=80",
+        "repository": "vuejs-br/vagas",
+        "url": "https://github.com/vuejs-br/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-21T13:15:21Z",
+      "updatedAt": "2026-08-21T13:15:21Z",
+      "url": "https://github.com/vuejs-br/vagas/issues/612",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_bfde111c5b5897814cd5aa4f",
       "sourceId": "vuejs-br/vagas#611",
@@ -959,44 +1001,6 @@
       "createdAt": "2024-04-01T16:28:18Z",
       "updatedAt": "2024-05-06T12:32:37Z",
       "url": "https://github.com/vuejs-br/vagas/issues/578",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_f6172f782c8484e88a08e610",
-      "sourceId": "vuejs-br/vagas#577",
-      "title": "[Remoto] Fullstack Vue.js Developer na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/fullstack-developer-180023302?utm_source=github&utm_medium=vuejs-br-vagas&modal=open) com o pop-up personalizado de candidatura. 👋\n<p>Estamos com vaga aberta para <strong>Fullstack Developer</strong>, para trabalhar junto ao nosso time de Produto. O objetivo é trabalhar com metodologias de mensuração de impactos ambientais e sociais das empresas para diferentes projetos.</p>\n<p><strong>Responsabilidades:</strong></p>\n<ul>\n<li>Definir padrões de arquitetura e apoiar o crescimento tecnológico;</li>\n<li>Apoiar no crescimento do produto, desenvolvendo funcionalidades, ferramentas e serviços;</li>\n<li>Desenvolver código de alta qualidade, escalável, limpo e testável, seguindo as melhores práticas de desenvolvimento de software;</li>\n<li>Coordenar equipes internas no entendimento dos requisitos do usuário e fornecer soluções técnicas.</li>\n</ul>\n## Deep ESG: \n <p>Medir os impactos que importam hoje, para mudar o mundo amanhã: esse é o propósito da DEEP.&nbsp;&nbsp;</p>\n\n<p>Acreditamos que as métricas de sustentabilidade são essenciais para mensurar a extensão do que o capital investido produz na sociedade.&nbsp;</p><a href='https://coodesh.com/companies/deepesg'>Veja mais no site</a>\n\n ## Habilidades: \n - Vue.js \n- Typescript \n- Nest.JS \n- API\n## Local: \n 100% Remoto\n## Requisitos: \n - Experiência sólida em desenvolvimento web; \n- Experiência com frameworks modernos de componentes em TypeScript, como React ou Vue. Preferencialmente Vue; \n- Experiência com desenvolvimento de API em TypeScript, preferencialmente em Nest.js; \n- Conhecimento de padrões de arquitetura; \n- Conhecimento avançado em bancos de dados relacionais; \n- Excelentes habilidades de resolução de problemas e capacidade de trabalhar em equipe.\n## Diferenciais: \n - Experiência com o framework Vue.js (Versão 3+); \n- Familiaridade com práticas de DevOps e ferramentas como Docker e Kubernetes; \n- Experiência em integração contínua e entrega contínua (CI/CD); \n- Conhecimento em testes automatizados e frameworks de teste, como Jest ou Vitest; \n- Habilidades de liderança técnica e capacidade de orientar e mentorar outros membros da equipe.\n\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Fullstack Developer na Deep ESG](https://coodesh.com/jobs/fullstack-developer-180023302?utm_source=github&utm_medium=vuejs-br-vagas&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nRemoto\n#### Regime\nPJ\n#### Categoria\nFull-Stack",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "closed",
-      "contentHash": "a78cf005195b243a0d5c777964480af18ce663e01ac586cc3c79376326a7b455",
-      "repository": "vuejs-br/vagas",
-      "repositoryUrl": "https://github.com/vuejs-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "fullstack",
-        "react",
-        "typescript",
-        "devops",
-        "data"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "vuejs-br",
-        "name": "vuejs-br",
-        "avatarUrl": "https://github.com/vuejs-br.png?size=80",
-        "repository": "vuejs-br/vagas",
-        "url": "https://github.com/vuejs-br/vagas"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2024-02-22T18:10:33Z",
-      "updatedAt": "2024-02-26T14:41:00Z",
-      "url": "https://github.com/vuejs-br/vagas/issues/577",
       "sourceType": "github-issue"
     },
     {
