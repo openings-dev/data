@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:25:38.696Z",
+  "generatedAt": "2026-08-21T21:17:04.932Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
@@ -9,8 +9,50 @@
     "openIssues": 30,
     "closedIssues": 0
   },
-  "dataHash": "c74e1052f1f9515936dd2cff704043e23c74c536d587e943ca4eeb6fae4fbdfe",
+  "dataHash": "7a9aeb37444f07df915b78a51a9683fb060e3b83c6c0d943b1c54233623024b3",
   "items": [
+    {
+      "id": "gh_0e73df4967bffbe01c3fbb1e",
+      "sourceId": "datascience-br/vagas#205",
+      "title": "[Híbrido] Dados/SQL Pleno na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o seu currículo com todas as vagas compatíveis do nosso banco próprio. Você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Pleno para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 7.000 a 12.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (de 2 a 5 anos)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 7.000 a 12.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-pleno\n\nBasta enviar o currículo uma vez. A IA da Sylision considera o seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o se...",
+      "issueState": "open",
+      "contentHash": "35ecc1d9ce9d5c227f1f57fe3f82fc53a31c6aede1b41869d6f08ceb179f6c3d",
+      "repository": "datascience-br/vagas",
+      "repositoryUrl": "https://github.com/datascience-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "python",
+        "pleno",
+        "data"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "datascience-br",
+        "name": "datascience-br",
+        "avatarUrl": "https://github.com/datascience-br.png?size=80",
+        "repository": "datascience-br/vagas",
+        "url": "https://github.com/datascience-br/vagas"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 7000,
+        "max": 12000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-21T21:01:26Z",
+      "updatedAt": "2026-08-21T21:01:26Z",
+      "url": "https://github.com/datascience-br/vagas/issues/205",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_4eda91a95dbfd4b9b9cb4748",
       "sourceId": "datascience-br/vagas#204",
@@ -1210,48 +1252,6 @@
       "createdAt": "2026-08-03T15:26:00Z",
       "updatedAt": "2026-08-03T15:26:00Z",
       "url": "https://github.com/datascience-br/vagas/issues/176",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_9ff99307750c2c3ca0da0b75",
-      "sourceId": "datascience-br/vagas#175",
-      "title": "[Híbrido] Dados/SQL Sênior na Sylision",
-      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Dados/SQL nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Dados.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Escrever e otimizar consultas SQL\n- Modelar tabelas e views para análise\n- Atender demandas de dados das áreas de negócio\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Dados/SQL (5 anos ou mais)\n- SQL avançado (window functions, CTEs)\n- Modelagem relacional\n- Ferramenta de BI\n- Excel ou Google Sheets\n\n**Diferenciais:**\n- Python\n- dbt\n- Cloud (BigQuery, Redshift ou Snowflake)\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-dados-sql-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
-      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
-      "contentHash": "54809e1b0be13b27b61e074451fb4d40769c1761cb2e3692d6f38117da77780e",
-      "repository": "datascience-br/vagas",
-      "repositoryUrl": "https://github.com/datascience-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "python",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "GiovaniPole0",
-        "name": "GiovaniPole0",
-        "handle": "GiovaniPole0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
-      },
-      "community": {
-        "id": "datascience-br",
-        "name": "datascience-br",
-        "avatarUrl": "https://github.com/datascience-br.png?size=80",
-        "repository": "datascience-br/vagas",
-        "url": "https://github.com/datascience-br/vagas"
-      },
-      "companyName": "Sylision",
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 22000,
-        "period": "month"
-      },
-      "createdAt": "2026-08-03T15:18:02Z",
-      "updatedAt": "2026-08-03T15:18:02Z",
-      "url": "https://github.com/datascience-br/vagas/issues/175",
       "sourceType": "github-issue"
     }
   ]
