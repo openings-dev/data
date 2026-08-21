@@ -1,13 +1,9 @@
 {
-  "generatedAt": "2026-08-21T03:44:13.066Z",
+  "generatedAt": "2026-08-21T12:30:50.411Z",
   "page": 18,
   "pageSize": 20,
   "nextPage": "api/pages/page-0019.json",
   "ids": [
-    "gh_7557e8348cc3ee95670cabc5",
-    "gh_d27c7f9e666ffcee6af6815d",
-    "gh_31771006fb197da7d3ea896f",
-    "gh_98510dac1fb93e4e6562ed42",
     "gh_a4044a995eaa1c37f896ad52",
     "gh_222aa38c299349e1b8c880a4",
     "gh_82deb4aea5a9dafdd98bee87",
@@ -23,158 +19,13 @@
     "gh_9bab610327418a0955bd2b33",
     "gh_e2b9353ac1307526e438b23d",
     "gh_fbd7897fa7cdf7f1f95d0f6f",
-    "gh_ee71ad4e68f00372f334fae1"
+    "gh_ee71ad4e68f00372f334fae1",
+    "gh_d2c11c8fc2357a8b0eef0f15",
+    "gh_0e98dad659c3df11a1cb1cc8",
+    "gh_5f066bed10486c20bcb3fc70",
+    "gh_84cd180e02db9815d917bcc4"
   ],
   "items": [
-    {
-      "id": "gh_7557e8348cc3ee95670cabc5",
-      "sourceId": "backend-br/vagas#12323",
-      "title": "[Remoto] Desenvolvedor(a) Full-Stack Sênior (TypeScript/React/Node) - Grupo Apex (EUA)",
-      "description": "## Sobre nós\n\nGrupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros\ncom DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de\nserviços de construção (riseconstruction.us). Os três produtos estão em produção, com clientes\nreais e receita real.\n\n## A vaga\n\nOs três produtos foram construídos majoritariamente com agentes de IA (Claude Code). Você vai\ntrabalhar COM esses agentes — eles revisam seus PRs, você revisa os deles. Procuramos alguém\nque use IA como alavanca e traga o que ela não traz: julgamento sênior sobre edge cases,\nintegridade de dados, migração segura e deploy sem susto. Os produtos estão ~80% prontos; o\ntrabalho é levá-los a 100% — a parte que separa produto de demo.\n\n## O que você vai fazer\n\n- Cutover de redesigns de staging para produção, incluindo migrações de schema manuais (MySQL)\n- Features de dashboard: fluxos de financiamento, pipeline de ofertas com SLA, portais por\n  papel (comprador/colaborador), chat interno, motores de orçamento e comissão\n- Integrações: Stripe (go-live), QuickBooks two-way, telefonia (Twilio), APIs de terceiros\n- Hardening: checagens multi-tenant, bugs de cálculo de folha (nível centavo), schema drift\n\n## Stack (igual nos 3 produtos)\n\nTypeScript, React, Vite, tRPC, Drizzle ORM, MySQL, Tailwind/Radix, Node.js em VPS Linux\n(nginx), Cloudflare R2. Integrações: Stripe, Twilio, QuickBooks, APIs Meta/Google.\n\n## Local\n\nRemoto (Brasil) — PJ\n\n## Requisitos\n\n- **Experiência:** 5+ anos levando TypeScript full-stack a produção; React + Node + SQL\n  profundos (o peso maior é backend)\n- **Produção de verdade:** já operou app em Linux puro (nginx, systemd, SSH, backup) — sem\n  rede de segurança de PaaS\n- **Cicatriz de integração:** Stripe, OAuth, webhooks (inclusive entrega duplicada)\n- **Inglês:** técnico de leitura/escrita (código e docs em inglês; dia a dia em português)\n- **Perfil:** autonomia, conforto genuíno em revisar código escrito por IA e ser revisado\n  por agentes\n- **Diferencial forte:** React Native/Expo — temos 3 apps mobile (Expo Router) na fila\n  depois da web, incluindo publicação nas lojas\n\n## Contratação\n\nPJ — **R$ 12.000 a R$ 18.000/mês**, conforme senioridade · full-time ou 30h+/semana\n- Cliente americano direto (sem agência no meio), pagamento em dia via Deel, longo prazo\n- Demo semanal · começa com **trial pago de 1 semana** (tarefa real do backlog, no seu rate)\n\n## Como se candidatar\n\nEmail para **alex@theapexauto.com** com assunto **[FULLSTACK] Seu Nome** contendo:\n1. A integração de produção mais cabeluda que você já entregou — o que quebrou e como descobriu\n2. Links de código seu com histórico real de commits\n3. Pretensão (R$/mês PJ) e disponibilidade\n\nPropostas genéricas são descartadas. Sem agências, por favor.",
-      "excerpt": "## Sobre nós Grupo de três pequenas empresas americanas (Orlando, FL — dono brasileiro): revenda de carros com DMS próprio (theapexauto.com), plataforma de investimento imobiliário e plataforma de serviços de construç...",
-      "issueState": "open",
-      "contentHash": "25265dcfbb891324ce5612e04a8a67a004b8a049eb352bd1a880003ec771d542",
-      "repository": "backend-br/vagas",
-      "repositoryUrl": "https://github.com/backend-br/vagas",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "pj",
-        "sênior",
-        "node.js",
-        "go",
-        "remoto",
-        "mysql",
-        "typescript",
-        "sql"
-      ],
-      "author": {
-        "id": "matheu555",
-        "name": "matheu555",
-        "handle": "matheu555",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/221351562?v=4"
-      },
-      "community": {
-        "id": "backend-br",
-        "name": "backend-br",
-        "avatarUrl": "https://github.com/backend-br.png?size=80",
-        "repository": "backend-br/vagas",
-        "url": "https://github.com/backend-br/vagas"
-      },
-      "salary": {
-        "currency": "BRL",
-        "min": 12000,
-        "max": 18000,
-        "period": "month"
-      },
-      "createdAt": "2026-07-08T18:36:05Z",
-      "updatedAt": "2026-08-21T01:05:03Z",
-      "url": "https://github.com/backend-br/vagas/issues/12323",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_d27c7f9e666ffcee6af6815d",
-      "sourceId": "rebase-network/who-is-hiring#1218",
-      "title": "[远程办公] Crypto中心化交易所诚聘  英语客服 （24届-26届毕业生） 薪水 1200U-1500U /月",
-      "description": "## 公司/团队介绍\n       KCEX交易所\n\n## 薪资福利待遇\nBase Salary：1200 USDT/月\nPerformance Bonus：300 USDT/月\n综合薪资：1500 USDT/月\n\n## 地点\n\n- 工作地点：远程办公\n- 联系方式：\n                     TG: @AriaWanax\n                     VX: Aurora_Wanax\n  Email: evelyn.hr@kcex.com\n## 工作性质\n\n- 是否全职：是\n- 是否远程：是\n- 时区要求：（GMT+8优先，可覆盖核心工作时间，可适应国际分布式团队协作）\n  \n## 岗位要求、职责\n岗位职责\n- 通过在线聊天、工单系统等渠道，为全球用户提供专业的英文客户服务；\n- 处理用户关于账户、充值、提现、交易等相关问题，并协助解决用户在使用过程中的疑问；\n- 收集用户反馈，及时跟进并协助内部团队处理相关问题；\n- 协助官方活动、公告等内容的用户沟通与答疑工作；\n- 持续优化用户服务体验，提升用户满意度；\n- 配合团队完成轮班工作，保障 24/7 客服服务支持。\n\n任职要求\n- 英文读写流利，口语不要求；\n- 专业不限，面向 24-26 应届毕业生；\n- 对 Web3 、加密货币、区块链行业感兴趣，有意愿长期学习和发展；\n- 具备良好的沟通表达能力和服务意识，能够耐心解决用户问题；\n- 学习能力强，责任心强，能够适应快节奏工作环境；\n- 熟悉合约交易流程\n\n工作时间（ UTC+8 ）\n09:00 - 16:00  中间有休息时间\n15:00 - 24:00  中间有休息时间\n轮班制，每月轮换班次，单休，远程办公。\n## 工作环境\n远程办公",
-      "excerpt": "## 公司/团队介绍 KCEX交易所 ## 薪资福利待遇 Base Salary：1200 USDT/月 Performance Bonus：300 USDT/月 综合薪资：1500 USDT/月 ## 地点 - 工作地点：远程办公 - 联系方式： TG: @AriaWanax VX: Aurora_Wanax Email: evelyn.hr@kcex.com ## 工作性质 - 是否全职：是 - 是否远程：是 - 时区要求：（...",
-      "issueState": "open",
-      "contentHash": "2eb63a8f0fdce3979af165c99ea93e31cea2854a5a1a94c27d6e918724e94cff",
-      "repository": "rebase-network/who-is-hiring",
-      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
-      "region": "Global",
-      "country": "Global",
-      "tags": [],
-      "author": {
-        "id": "AriaF9",
-        "name": "AriaF9",
-        "handle": "AriaF9",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/182081788?v=4"
-      },
-      "community": {
-        "id": "rebase-network",
-        "name": "rebase-network",
-        "avatarUrl": "https://github.com/rebase-network.png?size=80",
-        "repository": "rebase-network/who-is-hiring",
-        "url": "https://github.com/rebase-network/who-is-hiring"
-      },
-      "createdAt": "2026-07-07T07:39:47Z",
-      "updatedAt": "2026-07-07T07:46:55Z",
-      "url": "https://github.com/rebase-network/who-is-hiring/issues/1218",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_31771006fb197da7d3ea896f",
-      "sourceId": "programadores-br/geral#3084",
-      "title": "[Nova Lima, Brasil] Suporte de TI N2 (Turno Noturno) na Coodesh",
-      "description": "## Descrição da vaga: \nEsta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios.\n\n\nFique atento ao redirecionamento que vai te levar para uma url [https://coodesh.com](https://coodesh.com/jobs/suporte-de-ti-n2-turno-noturno-184856214?utm_source=github&utm_medium=programadores-br-geral&modal=open) para realizar a candidatura. 👋\nEstamos buscando Suporte de TI N2 para atuar noturno.\n\n**Jornada de trabalho:** Escala 12x36\n\n**Horário:** das 19h00 às 07h00\n\nAtuação presencial Vila da Serra/Nova Lima\n\n**Treinamento:** Nos dois primeiros meses será necessário disponibilidade para treinamento e capacitação, de segunda a sexta-feira, das 08h00 às 17h00.\n\n**Responsabilidades:**\n\n*   Analisar, diagnosticar e solucionar incidentes relacionados à plataforma da Betruck;\n    \n*   Atender chamados escalados pelo Suporte N1;\n    \n*   Investigar falhas operacionais, erros sistêmicos e problemas de funcionamento da plataforma;\n    \n*   Analisar integrações entre sistemas e identificar inconsistências;\n    \n*   Realizar consultas em banco de dados para validação de informações e apoio na resolução de incidentes;\n    \n*   Orientar clientes quanto à utilização da plataforma e às melhores práticas de operação;\n    \n*   Registrar, documentar e acompanhar os chamados até sua conclusão;\n    \n*   Executar testes e validar correções disponibilizadas pela equipe de Desenvolvimento;\n    \n*   Atuar em conjunto com as equipes de Suporte N1, Desenvolvimento e demais áreas envolvidas na resolução de incidentes;\n    \n*   Identificar oportunidades de melhoria nos processos e na experiência dos clientes.\n## BeTruck: \n • Colaboramos muito, uns com os outros. Troca de conhecimento é o nosso lema, e geramos crescimento e inovação;• Nosso time é dinâmico e ágil;• Temos autonomia e liberdade para propor soluções e exercer nossa criatividade;• Idéias? Claro! São muito bem-vindas;• O bom humor e a leveza estão sempre presentes por aqui, acredite;• Respeitamos os prazos e a qualidade das entregas! PROCURAMOS ALGUÉM QUE:• Queira aprender coisas novas e seja apaixonado por desafios;• Seja focado e proativo;• Possuir pensamento lógico;• Trabalhe com dinamismo e agilidade e goste de entregar resultados; Aqui na BeTruck, você conhece e participa de todo o projeto, não apenas de uma fatia. Cresce e aprende muito!! \n\nundefined \n\n\n\n ## Habilidades: \n - Comunicação \n- Documentação \n- Foco no resultado \n- Solução de problemas técnicos \n- Trabalho em equipe\n## Local: \n Nova Lima, Brasil\n## Requisitos: \n - Desejável ensino superior completo ou em andamento em cursos como: Sitemas de Informações ou demais área correlatas. \n- Perfil analítico e investigativo; \n- Facilidade para identificar e solucionar problemas; \n- Boa comunicação, organização e foco em resultados; \n- Capacidade de documentar atendimentos de forma clara e estruturada; \n- Facilidade para trabalhar em equipe; \n- Interesse por tecnologia aplicada à logística.\n\n## Benefícios: \n - Vale-alimentação/Refeição; \n- Vale-transporte ou mobilidade; \n- Plano de saúde (sem cobrança de mensalidade); \n- OnHappy; \n- Wellhub.\n## Como se candidatar:\nCandidatar-se exclusivamente através da plataforma Coodesh no link a seguir: [Suporte de TI N2 (Turno Noturno) na BeTruck](https://coodesh.com/jobs/suporte-de-ti-n2-turno-noturno-184856214?utm_source=github&utm_medium=programadores-br-geral&modal=open)\n\n\nApós candidatar-se via plataforma Coodesh e validar o seu login, você poderá acompanhar e receber todas as interações do processo por lá. Utilize a opção **Pedir Feedback** entre uma etapa e outra na vaga que se candidatou. Isso fará com que a pessoa **Recruiter** responsável pelo processo na empresa receba a notificação.\n## Labels\n#### Alocação\nAlocado\n#### Regime\nCLT\n#### Categoria\nSuporte Técnico",
-      "excerpt": "## Descrição da vaga: Esta é uma vaga de um parceiro da plataforma Coodesh, ao candidatar-se você terá acesso as informações completas sobre a empresa e benefícios. Fique atento ao redirecionamento que vai te levar pa...",
-      "issueState": "open",
-      "contentHash": "07ed1071ffae2ff80d306f920ba35b489784c91d22bfc622cdbe13a2bc56778c",
-      "repository": "programadores-br/geral",
-      "repositoryUrl": "https://github.com/programadores-br/geral",
-      "region": "South America",
-      "country": "Brazil",
-      "tags": [
-        "alocado",
-        "presencial",
-        "clt"
-      ],
-      "author": {
-        "id": "FrancieleGhizzoni",
-        "name": "FrancieleGhizzoni",
-        "handle": "FrancieleGhizzoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67921680?v=4"
-      },
-      "community": {
-        "id": "programadores-br",
-        "name": "programadores-br",
-        "avatarUrl": "https://github.com/programadores-br.png?size=80",
-        "repository": "programadores-br/geral",
-        "url": "https://github.com/programadores-br/geral"
-      },
-      "companyName": "Coodesh",
-      "createdAt": "2026-07-06T18:56:46Z",
-      "updatedAt": "2026-07-06T18:57:28Z",
-      "url": "https://github.com/programadores-br/geral/issues/3084",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_98510dac1fb93e4e6562ed42",
-      "sourceId": "rebase-network/who-is-hiring#1217",
-      "title": "[Remote/HZ] Quant/AI+DEX 公司诚聘 量化交易系统工程师/全端前端工程师（Flutter + React）/ 数据开发工程师/社媒运营 or 高级运营/PMO（资深项目管理）， 薪水 base40-70K/m RMB，5-10K/m USD",
-      "description": "## 公司/团队介绍\n将人工智能深度融入去中心化交易协议，为机构与零售用户提供现货、高杠杆永续/交割合约及美式/欧式期权等结构化产品。团队远程优先，办公室覆盖香港、新加坡、加拿大、欧盟及北美，成员兼具投行、高频做市、量化对冲、FAANG 及区块链底层研发背景，依托全球低延迟交易设施与 AI 风控引擎，实现 7×24 小时跨时区流动性供给与 Delta 中性对冲。\n\n## 薪资福利待遇\nbase RMB 40-70K/m+bonus  OR  base 5-10K/m U。\n\n## 地点\n\n- 工作地点：Remote  and  Onsite-杭州，未来可 relocate 新加坡/香港（可提供 EP ）\n- 联系方式：\nTG：@jtx_2023\nE：justinxu268@gmail.com\n\n## 工作性质\n\n- 是否全职：是\n- 是否远程：是/否\n- 时区要求：（GMT+8优先，可覆盖核心工作时间，可适应国际分布式团队协作）\n  \n## 岗位要求、职责\nPosition 一：量化交易系统工程师\n工作形式：全职 · 杭州 onsite，未来可 relocate 新加坡/香港（可提供 EP）\n岗位职责：\n负责低延迟交易系统整体架构设计与核心模块开发，覆盖行情接入、策略执行、订单路由、风控等链路，持续进行性能优化，确保系统在极端市场下稳定运行。\n紧密配合量化策略团队，高效落地策略需求，设计高可用、可扩展的系统方案，保障交易执行的低延迟与高可靠性。\n对系统瓶颈进行持续诊断与调优，参与技术选型与核心代码审查，提升整体技术底座能力。\n任职要求：\n全日制双一流/985/211高校计算机相关专业本科及以上学历，5~8年后端开发经验。\n精通 Java/Kotlin/Scala/Rust/C++ 中至少一门语言，深入理解低延迟编程、并发模型、网络编程及性能调优。\n有交易系统、风控系统或撮合引擎开发经验者优先，对内存管理、无锁数据结构、多线程调度有实际调优案例者加分。\n具备良好的工程化思维与文档习惯，能独立承担复杂模块的设计与交付。\n\nPosition 二：全端前端工程师（Flutter + React）\n工作形式：全职 · 远程\n岗位职责：\n使用 Flutter 主导开发高性能交易 App，包含复杂的智能合约调用、实时数据渲染与交互，确保跨端一致性与流畅度。\n使用 React 构建轻量级 Web 前端页面，复用设计系统与业务逻辑，保障 Web 端与 App 端的体验对齐。\n负责前端性能监控与优化，优化网络请求、渲染流水线与动画效果，持续提升用户体验。\n任职要求：\n全日制本科计算机相关专业，3/8年以上 Flutter 生产级项目经验（若经验特别丰富可放宽年限要求）。\nFlutter 为强项，熟悉 Dart 底层机制及性能调优；同时具备 React 开发经验，能独立完成中后台或轻量应用开发。\n熟悉 RESTful 与 WebSocket 协议，有 CEX/DEX 交易类前端开发背景，理解订单簿、K线、深度图等常见交易模块实现。\n加分项：有智能合约交互经验、交易/金融类复杂 UI 开发经验、动画优化或统一设计体系落地经历；自我驱动，执行力强。\n\nPosition 三：资深数据开发工程师\n工作形式：全职 · 远程\n岗位职责：\n负责数据体系整体架构设计与落地开发，涵盖数据采集、清洗、建模、存储、服务化全链路，支撑业务分析、风控及策略决策。\n兼具后端工程能力，参与数据相关微服务或数据管道的开发与维护，保障数据准确性、时效性与稳定性。\n推进数据驱动文化，协助业务团队设计数据产品，支持运营、产品及管理层的数据需求。\n任职要求：\n数学或计算机相关专业本科及以上学历，具备扎实的算法与数据结构基础，必须参加过数学/建模/编程类竞赛并获奖。\n具备 CEX/DEX 任职背景（Top 3 交易所优先），熟悉交易数据特征、衍生品数据模型及常见分析指标。\n有实际 AI/机器学习应用经验，能利用模型辅助数据清洗、异常检测或预测分析者优先。\n较强的架构思维与代码能力，能独立完成从需求分析到系统落地的完整过程。\n\nPosition 四：社媒运营 / 运营经理（预测市场-用户增长与市场运营方向）\n工作形式：全职 · 远程\n岗位职责：\n负责 CEX/DEX 合约产品的全链路用户运营，包括拉新、激活、留存、召回、交易转化，制定并执行用户增长策略与生命周期管理方案。\n策划并落地各类运营活动，管理 KOL 及 Agency 合作关系，协同市场团队推动品牌曝光与用户渗透。\n主导预测市场或合约产品的内容供给与话题运营，建立可持续运转的运营体系，提升用户活跃度与交易频次。\n任职要求：\n3~10 年相关经验，具备 CEX/DEX 合约产品运营或社媒运营背景，兼具市场协同与活动策划能力。\n对 Crypto、Prediction Markets、Trading Products 有浓厚兴趣，有实际产品使用或运营经验者优先。\n具备数据敏感度，能通过数据分析驱动运营策略迭代，有用户增长成功案例者加分。\n中英文可作为工作语言者优先，能适应远程协作与跨时区沟通。\n\nPosition 五：PMO（资深项目管理）\n工作形式：全职 · 远程\n岗位职责：\n深度理解业务目标与产品逻辑，拆解为可执行、可验收的项目计划，明确优先级与责任边界，统筹跨团队（产品、技术、运营、市场）资源，保障按期高质量交付。\n主动识别项目风险与协作阻塞点，提前制定应对方案，动态调整节奏以适应业务高速变化。\n标准化项目流程、模板与工具，沉淀协作方法论，持续优化信息透明与目标对齐机制，提升组织整体执行效率。\n基于行业与用户洞察，反哺产品方向与功能优先级建议，为业务输入前瞻性视角。\n任职要求：\n本科及以上学历，5年+ Web3 PM/PMO 经验，且至少3年交易所同岗经验，熟悉 Perp DEX/CEX 业务逻辑，头部平台背景优先。\n精通项目推进全流程，目标感强，对交付质量与节点有严苛要求，能在多并行项目中保持清晰判断。\n具备创业者心态与主人翁意识，在不确定环境中自主推进，拒绝被动执行，擅长持续优化协作机制。\n加分项：资深 Perp DEX 用户，深刻理解衍生品与链上逻辑；有产品/技术/运营多岗位背景，具产品思维；中英文流利，能适应 GMT+8 时区远程协作。\n\n## 工作环境\n典型工程师文化，扁平，不打卡，弹性工作，同学背景很好，很nice",
-      "excerpt": "## 公司/团队介绍 将人工智能深度融入去中心化交易协议，为机构与零售用户提供现货、高杠杆永续/交割合约及美式/欧式期权等结构化产品。团队远程优先，办公室覆盖香港、新加坡、加拿大、欧盟及北美，成员兼具投行、高频做市、量化对冲、FAANG 及区块链底层研发背景，依托全球低延迟交易设施与 AI 风控引擎，实现 7×24 小时跨时区流动性供给与 Delta 中性对冲。 ## 薪资福利待遇 base RMB 40-70K/m+bonus ...",
-      "issueState": "open",
-      "contentHash": "529da88883170ad172113685b54e7729026c4750091268a15385171070444dbd",
-      "repository": "rebase-network/who-is-hiring",
-      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "remote",
-        "onsite",
-        "react",
-        "java"
-      ],
-      "author": {
-        "id": "JTX-8",
-        "name": "JTX-8",
-        "handle": "JTX-8",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/191010584?v=4"
-      },
-      "community": {
-        "id": "rebase-network",
-        "name": "rebase-network",
-        "avatarUrl": "https://github.com/rebase-network.png?size=80",
-        "repository": "rebase-network/who-is-hiring",
-        "url": "https://github.com/rebase-network/who-is-hiring"
-      },
-      "createdAt": "2026-07-05T11:49:49Z",
-      "updatedAt": "2026-07-05T11:49:49Z",
-      "url": "https://github.com/rebase-network/who-is-hiring/issues/1217",
-      "sourceType": "github-issue"
-    },
     {
       "id": "gh_a4044a995eaa1c37f896ad52",
       "sourceId": "rebase-network/who-is-hiring#1216",
@@ -737,6 +588,145 @@
       "createdAt": "2026-06-08T21:49:18Z",
       "updatedAt": "2026-06-08T21:49:18Z",
       "url": "https://github.com/jobright-ai/2026-Data-Analysis-Internship/issues/3",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_d2c11c8fc2357a8b0eef0f15",
+      "sourceId": "jobright-ai/2026-Product-Management-New-Grad#1",
+      "title": "Add Canada-specific product/new-grad companion resource?",
+      "description": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker.\n\nI noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifesciences in Mississauga, Uplifter in Toronto, Evertz in Burlington, and AlphaSense remote Canada product/data roles.\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this tracker?\n\nSuggested resource links:\n\n- Product/business/student roles in Canada: https://jobs.hanzilla.co/business/\n- New-grad/junior/entry-level Canadian roles: https://jobs.hanzilla.co/new-grad/\n- About/verification: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m Hanzi, the builder of Hanzilla Jobs. It’s a free, daily-updated Canadian student/recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across business/product, tech, finance, engineering, sciences, and related fields. If external companion links do not fit this repo’s policy, totally fine to close.",
+      "excerpt": "Hi Jobright team — thanks for maintaining this product-management new-grad tracker. I noticed the list already has several Canada-relevant product/new-grad rows, including Cintas Canada in Langley, Edwards Lifescience...",
+      "issueState": "open",
+      "contentHash": "88a93cc3f7673785e659bbfb5654110119a14a332a69f3cc39f849aba03032c2",
+      "repository": "jobright-ai/2026-Product-Management-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Product-Management-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "remote",
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Product-Management-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad"
+      },
+      "createdAt": "2026-06-08T18:33:33Z",
+      "updatedAt": "2026-06-08T18:33:33Z",
+      "url": "https://github.com/jobright-ai/2026-Product-Management-New-Grad/issues/1",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0e98dad659c3df11a1cb1cc8",
+      "sourceId": "nerdzao/vagas#193",
+      "title": "[São Paulo] Pessoa Engenheira de Cloud Sênior (Gestão de APIS) - Viaflow",
+      "description": "Descrição da vaga\nNa Viaflow, conectamos talentos de elite a projetos que transformam o mercado.\n\n\nEstamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de conexão estratégico entre serviços de backend e aplicações consumidoras, garantindo segurança, escalabilidade e performance no ciclo de vida de APIs.\n\n\nSe você tem domínio profundo na plataforma Apigee (Google Cloud), gestão de API Marketplace e arquitetura de microsserviços, #VemPraViaflow!\n\n\n✨ Se identificou? Então vem com a gente!\n\nResponsabilidades e atribuições\nDesenho e Implementação de APIs: Projetar e configurar proxies de API, políticas de segurança e regras de tráfego utilizando Apigee (Edge ou X).\nGestão de API Marketplace: Gerenciar plataformas de marketplace para facilitar a descoberta, documentação e autoatendimento de desenvolvedores.\nAutomação e CI/CD: Automatizar pipelines de implantação de APIs utilizando ferramentas como Terraform, GitHub Actions ou Jenkins, garantindo agilidade e confiabilidade.\nSegurança e Compliance: Implementar uma postura rigorosa de segurança (proteção contra ameaças, rate limiting) e padrões de criptografia (OAuth2, OIDC, JWT).\nExcelência Operacional: Monitorar performance, latência e taxas de erro, implementando alertas proativos e estratégias avançadas de troubleshooting.\nColaboração Técnica: Trabalhar em conjunto com times de aplicação para definir contratos de API (OpenAPI/Swagger) e práticas de transformação.\nDocumentação Técnica: Desenvolver e manter documentação de alta qualidade, incluindo especificações de API e conteúdos para portais de desenvolvedores.\nRequisitos e qualificações\n💻 Competências Técnicas Essenciais\n\nExperiência Especializada: em Cloud Engineering, com foco em API Gateway ou plataformas de gestão de APIs.\nEspecialista em Apigee: Conhecimento avançado em configuração de políticas Apigee, Shared Flows e extensões customizadas (Javascript/Java callouts).\nExpertise em Cloud (GCP): Experiência prática comprovada com Google Cloud Platform.\nArquitetura Moderna: Conhecimento em conteinerização (Docker, Kubernetes) e design de microsserviços.\nPadrões de API: Domínio de RESTful API design e OpenAPI Specification (OAS).\nSegurança: Domínio de OAuth 2.0, OpenID Connect e protocolos TLS.\nInfraestrutura como Código (IaC): Proficiência em Terraform, Crossplane ou Pulumi.\nProgramação: Capacidade de escrever scripts de automação em Python, [Node.js](http://node.js/) ou Go.\n🏆 Diferenciais (O que valorizamos)\n\nExperiência em configurar Portais de Desenvolvedor e ecossistemas de API Marketplace.\nSólido conhecimento de redes (DNS, Load Balancing, VPCs e Firewalls).\nCapacidade analítica para diagnosticar problemas em ambientes complexos e multi-tier.\n🤝 Soft Skills\n\nExcelente capacidade de resolução de problemas e diagnóstico técnico.\nHabilidade de comunicação para conectar requisitos técnicos complexos aos objetivos de negócio.\nPerfil analítico e proativo na melhoria de processos de integração.\nIdioma: Inglês Intermediário/Avançado para comunicação verbal e escrita com time internacional.\n\nInformações adicionais\nContratação via modelo cooperativa\nAuxílio Híbrido\nPeople Hub - Clube de Benefícios\nDIT - Diária de Incapacidade Temporária\nDay off de aniversário - afinal, é dia de festa!\nTotalPass\nTreinamentos e Certificações\nClube do iFood gratuito\nPacote Colab+ com acesso a WellHub, Avus, Starbem e DASA\nAtuação híbrida (3x por semana na região da Av. Paulista)\n\nFaz sentido para você? Se inscreva através do link: https://viaflow.gupy.io/jobs/11442319?jobBoardSource=gupy_public_page",
+      "excerpt": "Descrição da vaga Na Viaflow, conectamos talentos de elite a projetos que transformam o mercado. Estamos em busca de uma Pessoa Engenheira de Cloud (API Management) para atuar em um cliente global, sendo o ponto de co...",
+      "issueState": "open",
+      "contentHash": "a222a178c6a199bf4350640ba8a635482b267922be3238e1bc4087350444a6ba",
+      "repository": "nerdzao/vagas",
+      "repositoryUrl": "https://github.com/nerdzao/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "backend",
+        "node",
+        "python",
+        "java",
+        "design"
+      ],
+      "author": {
+        "id": "jesspinheiro93",
+        "name": "jesspinheiro93",
+        "handle": "jesspinheiro93",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/213878265?v=4"
+      },
+      "community": {
+        "id": "nerdzao",
+        "name": "nerdzao",
+        "avatarUrl": "https://github.com/nerdzao.png?size=80",
+        "repository": "nerdzao/vagas",
+        "url": "https://github.com/nerdzao/vagas"
+      },
+      "createdAt": "2026-06-08T16:58:12Z",
+      "updatedAt": "2026-06-08T16:58:12Z",
+      "url": "https://github.com/nerdzao/vagas/issues/193",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_5f066bed10486c20bcb3fc70",
+      "sourceId": "jobright-ai/2026-Data-Analysis-New-Grad#4",
+      "title": "Add Canada data/new-grad jobs companion resource?",
+      "description": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows).\n\nWould you consider adding Hanzilla Jobs as a Canada-specific companion resource for students/recent grads using this list?\n\nSuggested wording:\n\n```md\n- [Hanzilla Jobs — Canada data/AI/analytics new-grad and junior roles](https://jobs.hanzilla.co/categories/data-ml/) — free daily-updated Canadian student/recent-grad job board with data, analytics, AI/ML, software, finance, engineering, business, sciences, internship/co-op, new-grad, junior, and entry-level roles. Related: [new-grad guide](https://jobs.hanzilla.co/new-grad/) and [verification/about](https://jobs.hanzilla.co/about/).\n```\n\nSmall disclosure: I’m helping maintain Hanzilla Jobs. The reason I’m suggesting it here is that your tracker is broad and useful, but students in Canada often need a Canada-specific deep link alongside global/generated lists.",
+      "excerpt": "Hi! I noticed this generated data-analysis new-grad tracker already includes quite a few Canada-relevant roles (for example Markham/Ontario, Toronto, Vancouver, and other Canada rows). Would you consider adding Hanzil...",
+      "issueState": "open",
+      "contentHash": "6e545e3c39a1af3c189d858a2a13466b85b89c433557388bce3cd08bc8b7366b",
+      "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior",
+        "data"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Data-Analysis-New-Grad",
+        "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad"
+      },
+      "createdAt": "2026-06-05T19:14:10Z",
+      "updatedAt": "2026-06-05T19:14:10Z",
+      "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad/issues/4",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_84cd180e02db9815d917bcc4",
+      "sourceId": "jobright-ai/2026-Software-Engineer-Internship#2",
+      "title": "Suggestion: add Canada-specific software internship/new-grad resource",
+      "description": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated.\n\nWould you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo?\n\nSuggested link:\n\n```md\n- [Hanzilla Jobs — Canada software engineering internships/co-ops and new-grad roles](https://jobs.hanzilla.co/categories/software-engineering/) — free, daily-updated Canadian student/recent-grad job board for software engineering internships, co-ops, new-grad, junior, and entry-level roles. It also has an internships landing page: https://jobs.hanzilla.co/internships/\n```\n\nWhy it may fit here:\n- Your tracker already includes Canada-relevant software internship rows, including Toronto/Ontario/Canada roles.\n- Hanzilla is Canada-focused and covers roles students may miss when a global tracker is noisy.\n- Public verification/about page: https://jobs.hanzilla.co/about/\n\nSmall disclosure: I’m helping build Hanzilla Jobs. Totally fine if this does not match the repo’s scope; sharing as a low-pressure suggestion.",
+      "excerpt": "Hi maintainers — thanks for keeping this Software Engineer internship tracker updated. Would you be open to adding Hanzilla Jobs as a Canada-specific companion resource for students using this repo? Suggested link: ``...",
+      "issueState": "open",
+      "contentHash": "788043755cbd80926290ce5dd79a69404553a90793af098ecfdf04b1448bc6a5",
+      "repository": "jobright-ai/2026-Software-Engineer-Internship",
+      "repositoryUrl": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "junior"
+      ],
+      "author": {
+        "id": "hanzili",
+        "name": "hanzili",
+        "handle": "hanzili",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96609857?v=4"
+      },
+      "community": {
+        "id": "jobright-ai",
+        "name": "jobright-ai",
+        "avatarUrl": "https://github.com/jobright-ai.png?size=80",
+        "repository": "jobright-ai/2026-Software-Engineer-Internship",
+        "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship"
+      },
+      "createdAt": "2026-06-05T14:28:49Z",
+      "updatedAt": "2026-06-05T14:28:49Z",
+      "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship/issues/2",
       "sourceType": "github-issue"
     }
   ]
