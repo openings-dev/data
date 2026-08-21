@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:51:16.052Z",
+  "generatedAt": "2026-08-21T03:44:13.066Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
@@ -12,7 +12,6 @@
     "gh_5b692624be9237f8879e728a",
     "gh_41bb46a54ae47b7d3c965a77",
     "gh_9778e2bda5326d36dc502ed4",
-    "gh_783e9116acc9bd902405875b",
     "gh_14a406f3cc15ba1e46b5ca4a",
     "gh_20631fe9352665af70d6ceae",
     "gh_a8cd59eaeb8f7957cc8a68b5",
@@ -23,7 +22,8 @@
     "gh_f204918c5e2caa305033c15c",
     "gh_1120d3d83f1095a76d02398b",
     "gh_a51e625559bcdf5e11bdf737",
-    "gh_d423343a5693c4cb5b13bf3e"
+    "gh_d423343a5693c4cb5b13bf3e",
+    "gh_4aadad3762275620d0da8121"
   ],
   "items": [
     {
@@ -238,7 +238,7 @@
         "period": "month"
       },
       "createdAt": "2026-08-20T17:17:39Z",
-      "updatedAt": "2026-08-20T19:52:43Z",
+      "updatedAt": "2026-08-21T01:01:54Z",
       "url": "https://github.com/vuejs-br/vagas/issues/611",
       "sourceType": "github-issue"
     },
@@ -355,45 +355,6 @@
       "createdAt": "2026-08-20T12:00:38Z",
       "updatedAt": "2026-08-20T12:01:08Z",
       "url": "https://github.com/frontendbr/vagas/issues/8544",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_783e9116acc9bd902405875b",
-      "sourceId": "rebase-network/who-is-hiring#1243",
-      "title": "[新加坡/远程] Zignlay 招聘 Solidity 工程师｜$7,000–$10,000 USD/月",
-      "description": "**公司：Zignlay · 新加坡**\n\n### 项目介绍\n\nZignlay 是一家位于新加坡的 Web3 公司，目前正在开发一个面向加密用户的项目发现与社区排名平台。\n\n\n### 你会负责\n\n* 使用 Solidity 开发投票、排名、激励等智能合约\n* 设计链上逻辑和激励机制\n* 在 EVM 链上进行合约开发、测试、部署和维护\n* 关注合约安全、Gas 优化以及各种边界情况\n* 与前后端工程师一起完成链上和链下系统的连接\n* 参与技术方案讨论和实际工程决策\n\n### 我们希望你有\n\n* 扎实的 **Solidity / EVM** 开发经验\n* 有实际部署和维护智能合约的经验\n* 对智能合约安全有较好的理解\n* 熟悉 **Foundry 或 Hardhat**\n* 熟悉 **ethers.js / viem**\n* 能够独立推进工作，并适应远程协作\n* 有 DeFi、Token、DAO、Voting 等相关经验更好\n\n我们更看重实际项目经验。\n\n不要求你了解 Web3 的所有领域，但希望你能够独立完成从**合约设计 → 开发 → 测试 → 部署**的完整流程，并认真考虑安全性和实际使用场景。\n\n\n也可以发送你的 **GitHub、已部署的智能合约，或参与过的 Web3 项目**。\n\n我们更希望看到你实际做过什么，而不是一份很长的简历。",
-      "excerpt": "**公司：Zignlay · 新加坡** ### 项目介绍 Zignlay 是一家位于新加坡的 Web3 公司，目前正在开发一个面向加密用户的项目发现与社区排名平台。 ### 你会负责 * 使用 Solidity 开发投票、排名、激励等智能合约 * 设计链上逻辑和激励机制 * 在 EVM 链上进行合约开发、测试、部署和维护 * 关注合约安全、Gas 优化以及各种边界情况 * 与前后端工程师一起完成链上和链下系统的连接 * 参与技术...",
-      "issueState": "open",
-      "contentHash": "885208106573bfdf4c44e69014148875ce888d5cbeab9ddb605cb91e263a5356",
-      "repository": "rebase-network/who-is-hiring",
-      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
-      "region": "Global",
-      "country": "Global",
-      "tags": [
-        "needs-info"
-      ],
-      "author": {
-        "id": "LeoChin-SG",
-        "name": "LeoChin-SG",
-        "handle": "LeoChin-SG",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/318983713?v=4"
-      },
-      "community": {
-        "id": "rebase-network",
-        "name": "rebase-network",
-        "avatarUrl": "https://github.com/rebase-network.png?size=80",
-        "repository": "rebase-network/who-is-hiring",
-        "url": "https://github.com/rebase-network/who-is-hiring"
-      },
-      "salary": {
-        "currency": "USD",
-        "min": 7000,
-        "max": 10000,
-        "period": "year"
-      },
-      "createdAt": "2026-08-20T11:34:37Z",
-      "updatedAt": "2026-08-20T21:00:10Z",
-      "url": "https://github.com/rebase-network/who-is-hiring/issues/1243",
       "sourceType": "github-issue"
     },
     {
@@ -803,6 +764,41 @@
       "createdAt": "2026-08-19T14:35:05Z",
       "updatedAt": "2026-08-19T14:35:21Z",
       "url": "https://github.com/backend-br/vagas/issues/12386",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_4aadad3762275620d0da8121",
+      "sourceId": "backend-br/vagas#12385",
+      "title": "[Interlagos / Santo Amaro, SP] [CLT] Analista Mainframe Sênior - Mercado Financeiro",
+      "description": "## Nossa empresa\nValorei\n\n## Descrição da vaga\nEstamos recrutando um(a) Analista Mainframe Sênior para integrar uma das maiores instituições financeiras do país em projetos estratégicos de grande porte. Você atuará em sistemas core banking de missão crítica, desenvolvendo e otimizando soluções em ambiente mainframe corporativo com foco em performance, estabilidade e modernização tecnológica. Se você tem expertise em COBOL, JCL, CICS e DB2, além de vivência em ambientes de alta criticidade, essa é sua oportunidade de crescimento em um contexto desafiador e inovador.\n🎯 O que você fará no dia a dia:\n- Desenvolver, manter e otimizar programas COBOL, JCL, CICS e DB2 em ambiente mainframe corporativo\n- Atuar em performance tuning de transações e programas, garantindo eficiência sob alto volume de processamento\n- Participar de projetos de modernização e integração de sistemas legados com arquiteturas mais atuais\n- Utilizar ferramentas como TSO, ChangeMan e/ou Microfocus no ciclo de desenvolvimento e versionamento\n- Contribuir com conhecimento funcional em sistemas de core banking, apoiando áreas de negócio\n- Colaborar com times multidisciplinares em iniciativas de integração entre mainframe e arquiteturas modernas (APIs REST/Cloud)\n✅\n\n## Local\nInterlagos ou Santo Amaro, SP (Híbrido)\n\n## Requisitos\n- Experiência avançada em COBOL, JCL, CICS e DB2\n- Conhecimento em performance tuning de transações e programas mainframe\n- Vivência com ferramentas de modernização e integração de sistemas\n- Conhecimento em TSO, ChangeMan e/ou Microfocus\n- Perfil com 5 a 8 anos de experiência em mainframe corporativo\n🌟\n\n### Diferenciais\n\n- Experiência funcional em sistemas de core banking (ex.: Cash Management)\n- Vivência em integração mainframe com APIs REST/Cloud\n- Experiência em mentoria técnica de times\n🏆\n\n## Benefícios\n- Plano Saúde e Dental 100% custeado\n- Seguro de Vida\n- Cartão Flash com PAT + Bônus\n- Plano de Carreira\n📩\n\n## Contratação\nCLT\n\n## Como se candidatar\nInteressado(a)? Candidate-se: https://vagas.valorei.tech/caio/vagas/cmsrl5eh1000fm6nn13s1echc\n🚨 Comunidades exclusivas de Vagas nos links abaixo! Receba antes que todo mundo:\n📱 Grupo WhatsApp: https://chat.whatsapp.com/BLkqUBlq6scFfwh4eVZgCL?mode=wwc\n✈️ Canal Telegram: https://t.me/valoreivagas\n🎁 Conhece alguém ideal? Indique pelo nosso Programa de Indicações e ganhe R$ 200,00 a cada amigo contratado!\n🔗 https://vagas.valorei.tech/referral\n#VagasAbertas #AnalistaMainframe #Mainframe #MercadoFinanceiro #COBOL #SãoPaulo #VagasSP #TecnologiaFinanceira #CarreiraEmTI #HíbridoSP #RecrutamentoTech #OportunidadeDeCarreira",
+      "excerpt": "## Nossa empresa Valorei ## Descrição da vaga Estamos recrutando um(a) Analista Mainframe Sênior para integrar uma das maiores instituições financeiras do país em projetos estratégicos de grande porte. Você atuará em ...",
+      "issueState": "open",
+      "contentHash": "0141d0d4805239ce8cddb3e325a04ca253944b3fa6e84ce4ee2a7ab89ca3ee01",
+      "repository": "backend-br/vagas",
+      "repositoryUrl": "https://github.com/backend-br/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "sênior",
+        "híbrido"
+      ],
+      "author": {
+        "id": "caiorehenrique",
+        "name": "caiorehenrique",
+        "handle": "caiorehenrique",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28871141?v=4"
+      },
+      "community": {
+        "id": "backend-br",
+        "name": "backend-br",
+        "avatarUrl": "https://github.com/backend-br.png?size=80",
+        "repository": "backend-br/vagas",
+        "url": "https://github.com/backend-br/vagas"
+      },
+      "createdAt": "2026-08-19T14:35:04Z",
+      "updatedAt": "2026-08-19T14:35:21Z",
+      "url": "https://github.com/backend-br/vagas/issues/12385",
       "sourceType": "github-issue"
     }
   ]
