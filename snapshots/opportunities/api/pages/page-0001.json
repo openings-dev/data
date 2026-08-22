@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-22T00:46:33.494Z",
+  "generatedAt": "2026-08-22T03:36:09.403Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_0aea14582e3b0e3e3d057cae",
+    "gh_e5500f4ecd5c8b2cea3ea641",
     "gh_2c63fdcb06250e6d7646bdbd",
     "gh_0e73df4967bffbe01c3fbb1e",
     "gh_9208a81e3c611e2fd2ef477e",
@@ -21,11 +23,90 @@
     "gh_bfde111c5b5897814cd5aa4f",
     "gh_5b692624be9237f8879e728a",
     "gh_41bb46a54ae47b7d3c965a77",
-    "gh_9778e2bda5326d36dc502ed4",
-    "gh_14a406f3cc15ba1e46b5ca4a",
-    "gh_20631fe9352665af70d6ceae"
+    "gh_9778e2bda5326d36dc502ed4"
   ],
   "items": [
+    {
+      "id": "gh_0aea14582e3b0e3e3d057cae",
+      "sourceId": "rebase-network/who-is-hiring#1245",
+      "title": "Exodus 招聘 Blockchain Engineer｜Remote｜$170K–$220K",
+      "description": "## 公司/团队介绍\n\nExodus 是一家美国公司，主要做加密资产钱包，目前支持 Bitcoin、Ethereum、Solana 等多个区块链。\n\n官网：[www.exodus.com](https://www.exodus.com)\n\n## 薪资福利待遇\n\n* **$170,000 – $220,000 USD / 年**\n* Bonus / Equity\n* 全职\n* Fully Remote\n* 工作时间灵活\n\n具体薪资根据经验确定。\n\n## 地点\n\n* 工作地点：Remote\n\n联系方式：\n\n**Telegram：@ExodusHiring**\n\n正式招聘流程会通过 Exodus 官方渠道和公司域名邮箱进行。\n\n## 工作性质\n\n* 全职\n* 远程\n* Flexible working hours\n* 需要正常参加团队会议和保持沟通\n\n## 岗位要求、职责\n\n我们招聘一名 Blockchain Engineer，主要做钱包相关的区块链开发。\n\n工作内容包括：\n\n* Bitcoin、Ethereum/EVM、Solana 等链的集成和维护\n* Blockchain transaction 相关开发\n* Fee、Broadcast、Confirmation 等\n* Blockchain Node、RPC、Indexer\n* 处理交易失败、pending、网络变化等问题\n* 新链和新资产的集成\n* 维护和改进现有 blockchain infrastructure\n\n希望你：\n\n* 有软件开发经验\n* 有实际 Blockchain 开发经验\n* 熟悉至少一条主流公链\n* 理解 transaction、fee、confirmation 等基本概念\n* 有 Backend 开发经验\n* 能自己定位和解决问题\n\n有以下经验会比较好：\n\n* Bitcoin / UTXO\n* Ethereum / EVM\n* Solana / Rust\n* Blockchain Node / Indexer\n* Wallet / Exchange / DeFi\n* Blockchain Security\n\n不要求所有链都懂，**有一条链做得比较深也可以。**\n\n## 工作环境\n\nRemote 团队，工作时间比较灵活。\n\n我们更看重实际开发能力和项目经验，不太看重简历上写了多少技术名词。\n\n如果你之前做过钱包、交易系统、节点、链上基础设施，或者其他实际 Blockchain 项目，可以直接联系。",
+      "excerpt": "## 公司/团队介绍 Exodus 是一家美国公司，主要做加密资产钱包，目前支持 Bitcoin、Ethereum、Solana 等多个区块链。 官网：[www.exodus.com](https://www.exodus.com) ## 薪资福利待遇 * **$170,000 – $220,000 USD / 年** * Bonus / Equity * 全职 * Fully Remote * 工作时间灵活 具体薪资根据经验确定...",
+      "issueState": "open",
+      "contentHash": "50d2f9ee91a1c806b228bd2af4c0cbdca6860fbdba7acc8fc4b4ab728234fe02",
+      "repository": "rebase-network/who-is-hiring",
+      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "backend",
+        "node"
+      ],
+      "author": {
+        "id": "ExodusHQ007",
+        "name": "ExodusHQ007",
+        "handle": "ExodusHQ007",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/319668243?v=4"
+      },
+      "community": {
+        "id": "rebase-network",
+        "name": "rebase-network",
+        "avatarUrl": "https://github.com/rebase-network.png?size=80",
+        "repository": "rebase-network/who-is-hiring",
+        "url": "https://github.com/rebase-network/who-is-hiring"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 170000,
+        "max": 220000,
+        "period": "hour"
+      },
+      "createdAt": "2026-08-22T02:27:18Z",
+      "updatedAt": "2026-08-22T02:27:18Z",
+      "url": "https://github.com/rebase-network/who-is-hiring/issues/1245",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_e5500f4ecd5c8b2cea3ea641",
+      "sourceId": "rebase-network/who-is-hiring#1244",
+      "title": "Senior Solidity Smart Contract Engineer｜Remote｜$12,000–$15,000/月",
+      "description": "## 公司/团队介绍\n\n**BitAngels** 是一家总部位于美国的区块链投资集团，长期关注 Web3、区块链基础设施及去中心化项目。\n\n我们目前正在支持一个基于 **Ethereum** 的去中心化 Governance & Staking 项目，现招聘一名资深 Solidity 工程师参与核心协议开发。\n\n项目已有 MVP，目前进入进一步产品和协议开发阶段。我们希望找到一位有实际生产环境经验、能够参与技术方案和架构决策的工程师。\n\n**公司官网：** https://bitangels.network/\n**联系邮箱：** dylan.reed@bitangels.us\n\n## 薪资福利待遇\n\n* **$12,000–$15,000 USD / 月**\n* Full-time / Part-time 均可\n* Remote 工作\n* 直接与项目及工程团队合作\n* 参与核心协议设计和技术决策\n\n## 地点\n\n* **工作地点：** Remote，欢迎中国大陆及香港候选人\n* **联系方式：**\n\n  * Hiring Manager：Dylan Reed\n  * Email：dylan.reed@bitangels.us\n  * Telegram：@Web3HiringTalents\n\n## 工作性质\n\n* **是否全职：** Full-time / Part-time 均可\n* **是否远程：** 是\n* **时区要求：** 以 GMT+8 为主，可覆盖核心工作时间，并能够适应国际分布式团队协作\n* **沟通语言：** 日常沟通以英文为主，能够进行基本的英文工作沟通即可，技术交流可结合文字沟通。\n\n## 岗位要求、职责\n\n### 主要职责\n\n* 使用 Solidity 开发和维护 Ethereum / EVM 智能合约\n* 负责 Staking、Governance 等核心协议功能开发\n* 参与智能合约架构和技术方案设计\n* 进行代码 Review、安全性检查及 Gas 优化\n* 编写测试并协助智能合约部署\n* 与产品及工程团队共同推进协议开发和迭代\n\n### 岗位要求\n\n* 扎实的 Solidity 和 Ethereum / EVM 开发经验\n* 有生产环境智能合约开发及部署经验\n* 熟悉 DeFi、Staking、Governance、Token 等机制\n* 了解常见 Smart Contract Security 问题\n* 熟悉 Foundry、Hardhat 等开发及测试工具\n* 能够独立负责核心模块，并参与技术决策\n* 具备良好的英文技术沟通能力\n\n**有 DAO、Governance、Staking 协议开发或 Smart Contract Security / Audit 经验者优先。**\n\n## 工作环境\n\n我们是一个国际化、远程协作的 Web3 团队，团队成员分布在不同地区。\n\n这个岗位并不是单纯按照既定需求开发。我们希望工程师能够参与协议设计、技术讨论以及产品早期阶段的决策，并对核心智能合约负责。\n\n如果你对这个机会感兴趣，欢迎直接联系：\n\n**Hiring Manager：Dylan Reed**\n**Email：dylan.reed@bitangels.us**\n**Telegram：@Web3HiringTalents**\n\n申请时请附上：\n\n* CV / 简历\n* GitHub 或相关项目\n* Solidity / Web3 开发经历\n* 当前可投入时间（Full-time / Part-time）\n\n我们会先简单了解你的背景和相关经验。如果双方初步匹配，我们会进一步介绍项目和技术方向，并安排线上交流，详细了解彼此以及岗位情况。",
+      "excerpt": "## 公司/团队介绍 **BitAngels** 是一家总部位于美国的区块链投资集团，长期关注 Web3、区块链基础设施及去中心化项目。 我们目前正在支持一个基于 **Ethereum** 的去中心化 Governance & Staking 项目，现招聘一名资深 Solidity 工程师参与核心协议开发。 项目已有 MVP，目前进入进一步产品和协议开发阶段。我们希望找到一位有实际生产环境经验、能够参与技术方案和架构决策的工程师。...",
+      "issueState": "open",
+      "contentHash": "2469cab28aaa07a2632019a950cb948bc3e7cc5aa2b40765aed74a34674ad3eb",
+      "repository": "rebase-network/who-is-hiring",
+      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "senior"
+      ],
+      "author": {
+        "id": "web3madisoncarter",
+        "name": "web3madisoncarter",
+        "handle": "web3madisoncarter",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/314043092?v=4"
+      },
+      "community": {
+        "id": "rebase-network",
+        "name": "rebase-network",
+        "avatarUrl": "https://github.com/rebase-network.png?size=80",
+        "repository": "rebase-network/who-is-hiring",
+        "url": "https://github.com/rebase-network/who-is-hiring"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 12000,
+        "max": 15000,
+        "period": "year"
+      },
+      "createdAt": "2026-08-22T01:28:37Z",
+      "updatedAt": "2026-08-22T01:28:37Z",
+      "url": "https://github.com/rebase-network/who-is-hiring/issues/1244",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_2c63fdcb06250e6d7646bdbd",
       "sourceId": "negarprh/Canadian-Tech-Internships-2026#306",
@@ -751,74 +832,6 @@
       "createdAt": "2026-08-20T12:00:38Z",
       "updatedAt": "2026-08-20T12:01:08Z",
       "url": "https://github.com/frontendbr/vagas/issues/8544",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_14a406f3cc15ba1e46b5ca4a",
-      "sourceId": "awesome-jobs/jobs#5023",
-      "title": "[Talent Calling]_Product Lead/ Product Manager",
-      "description": "Company:\nOur client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\n\nThis is an opportunity to shape the engineering foundations behind one of Vietnam's leading digital banks — owning the core engineering platform, building internal frameworks, and driving best practices across teams while working alongside a regional Platform Engineering group spanning Vietnam, Indonesia, and Singapore.\n\nResponsibilities \n• Lead the Product function and drive the overall product strategy, roadmap, and execution across our product portfolio. \n• Manage and mentor Product Managers, fostering a high-performance, customer centric, and data-driven product culture. \n• Partner with senior leadership to define product vision, priorities, and long-term strategic initiatives aligned with business objectives. \n• Oversee product planning and prioritization across multiple product domains, ensuring resources are allocated effectively to maximize business impact. \n\nQualifications \n• 8+ years of Product Management experience, including experience leading Product Managers and complex product organizations. \n• Proven track record of defining product strategy and delivering products that drive significant customer and business impact. \n• Strong leadership experience with the ability to build, mentor, and develop high performing product teams. \n• Deep understanding of digital products, customer experience, product discovery, and Agile product development. \n• Strong business acumen with the ability to connect product investments to business outcomes. \n• Excellent analytical, strategic thinking, and problem-solving skills (SQL)\n\nContact me for more details (interview process, benefits,...)\nZalo/ WhatsApp: +84353697487\nLinkedIn: https://www.linkedin.com/in/dungmaingocvn/",
-      "excerpt": "Company: Our client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vi...",
-      "issueState": "open",
-      "contentHash": "c1e15506cd2806340578cff2d81ea3f11ff919386c6a5e13265212565e56d737",
-      "repository": "awesome-jobs/jobs",
-      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "iamkathymai",
-        "name": "iamkathymai",
-        "handle": "iamkathymai",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/186159011?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/jobs",
-        "url": "https://github.com/awesome-jobs/jobs"
-      },
-      "createdAt": "2026-08-20T10:00:56Z",
-      "updatedAt": "2026-08-20T10:00:56Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5023",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_20631fe9352665af70d6ceae",
-      "sourceId": "awesome-jobs/vietnam#5023",
-      "title": "[Talent Calling]_Product Lead/ Product Manager",
-      "description": "Company:\nOur client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\n\nThis is an opportunity to shape the engineering foundations behind one of Vietnam's leading digital banks — owning the core engineering platform, building internal frameworks, and driving best practices across teams while working alongside a regional Platform Engineering group spanning Vietnam, Indonesia, and Singapore.\n\nResponsibilities \n• Lead the Product function and drive the overall product strategy, roadmap, and execution across our product portfolio. \n• Manage and mentor Product Managers, fostering a high-performance, customer centric, and data-driven product culture. \n• Partner with senior leadership to define product vision, priorities, and long-term strategic initiatives aligned with business objectives. \n• Oversee product planning and prioritization across multiple product domains, ensuring resources are allocated effectively to maximize business impact. \n\nQualifications \n• 8+ years of Product Management experience, including experience leading Product Managers and complex product organizations. \n• Proven track record of defining product strategy and delivering products that drive significant customer and business impact. \n• Strong leadership experience with the ability to build, mentor, and develop high performing product teams. \n• Deep understanding of digital products, customer experience, product discovery, and Agile product development. \n• Strong business acumen with the ability to connect product investments to business outcomes. \n• Excellent analytical, strategic thinking, and problem-solving skills (SQL)\n\nContact me for more details (interview process, benefits,...)\nZalo/ WhatsApp: +84353697487\nLinkedIn: https://www.linkedin.com/in/dungmaingocvn/",
-      "excerpt": "Company: Our client, as part of one of Southeast Asia's leading digital financial services platforms, the company builds secure, scalable, and customer-first digital banking experiences for millions of users across Vi...",
-      "issueState": "open",
-      "contentHash": "c1e15506cd2806340578cff2d81ea3f11ff919386c6a5e13265212565e56d737",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "iamkathymai",
-        "name": "iamkathymai",
-        "handle": "iamkathymai",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/186159011?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-08-20T10:00:56Z",
-      "updatedAt": "2026-08-20T10:00:56Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5023",
       "sourceType": "github-issue"
     }
   ]
