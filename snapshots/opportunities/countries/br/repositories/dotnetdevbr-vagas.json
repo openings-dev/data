@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-08-21T18:25:38.696Z",
+  "generatedAt": "2026-08-22T15:13:40.365Z",
   "country": "Brazil",
   "countryCode": "BR",
   "region": "South America",
   "repository": "dotnetdevbr/vagas",
   "totals": {
-    "opportunities": 25,
+    "opportunities": 26,
     "openIssues": 14,
-    "closedIssues": 11
+    "closedIssues": 12
   },
-  "dataHash": "6411929def030a479e1088a3f9a80eca2ea1d8c1a4b1ed0272ca24fb6ad78fa9",
+  "dataHash": "1d7fa327cd806893d432bee72e8131396b5909c84e3ff68eb63fcaa4918c5dc6",
   "items": [
+    {
+      "id": "gh_00cf37ae6c3ad96a850df8f5",
+      "sourceId": "dotnetdevbr/vagas#1077",
+      "title": "[Híbrido] Fullstack .NET + Angular Sênior @ Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o seu currículo com todas as vagas compatíveis do nosso banco próprio. Você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack .NET + Angular Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver o backend em .NET e a interface em Angular\n- Manter contratos de API alinhados entre as duas pontas\n- Cuidar de performance e acessibilidade da aplicação\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Fullstack .NET + Angular (5 anos ou mais)\n- C# com ASP.NET Core\n- Angular 15+ e TypeScript\n- RxJS e consumo de APIs REST\n- SQL Server\n\n**Diferenciais:**\n- Azure\n- Testes end-to-end\n- Design system\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-net-angular-senior\n\nBasta enviar o currículo uma vez. A IA da Sylision considera o seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o se...",
+      "issueState": "open",
+      "contentHash": "257b65b1cb62731fadbfb47f767a2243404a282b6e38251710f6bc61a19e25c0",
+      "repository": "dotnetdevbr/vagas",
+      "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "clt",
+        "pj",
+        "remoto",
+        "sênior",
+        "híbrido",
+        "🚦 awaiting triage"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "dotnetdevbr",
+        "name": "dotnetdevbr",
+        "avatarUrl": "https://github.com/dotnetdevbr.png?size=80",
+        "repository": "dotnetdevbr/vagas",
+        "url": "https://github.com/dotnetdevbr/vagas"
+      },
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-22T15:00:06Z",
+      "updatedAt": "2026-08-22T15:00:24Z",
+      "url": "https://github.com/dotnetdevbr/vagas/issues/1077",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_eecb433d8bcf44c11d59b632",
       "sourceId": "dotnetdevbr/vagas#1076",
@@ -573,7 +617,7 @@
       "title": "[Híbrido] Fullstack .NET + Angular Sênior @ Sylision",
       "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Fullstack .NET + Angular Developer nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Fullstack.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Local\n\nHíbrido ou remoto, a combinar com a empresa contratante.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência sólida com Fullstack .NET + Angular compatível com o nível Sênior\n- Boas práticas de engenharia: versionamento, testes e code review\n\n**Desejáveis:**\n- Comunicação clara para trabalho remoto/distribuído\n- Inglês para leitura de documentação\n\n## Benefícios\n\n- Faixa salarial transparente (R$ 12.000–22.000/mês)\n- Benefícios variam conforme a empresa contratante (detalhados na conversa com o headhunter)\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-fullstack-net-angular-senior\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
       "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
-      "issueState": "open",
+      "issueState": "closed",
       "contentHash": "e8552121f179c3b2766e039e123ab495ca76cf92dbaa03ef08a4ee03114fa3da",
       "repository": "dotnetdevbr/vagas",
       "repositoryUrl": "https://github.com/dotnetdevbr/vagas",
@@ -606,7 +650,7 @@
         "period": "month"
       },
       "createdAt": "2026-07-13T18:34:45Z",
-      "updatedAt": "2026-07-17T10:48:39Z",
+      "updatedAt": "2026-08-22T15:00:05Z",
       "url": "https://github.com/dotnetdevbr/vagas/issues/1060",
       "sourceType": "github-issue"
     },
