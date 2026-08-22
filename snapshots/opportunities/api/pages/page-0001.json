@@ -1,12 +1,14 @@
 {
-  "generatedAt": "2026-08-22T09:19:57.729Z",
+  "generatedAt": "2026-08-22T12:23:08.025Z",
   "page": 1,
   "pageSize": 20,
   "nextPage": "api/pages/page-0002.json",
   "ids": [
+    "gh_6b086e71dc4401438488d072",
     "gh_ddcbe43218de595718a93eb7",
     "gh_5e717090e3aeb5b5088e7177",
     "gh_c6bbf6170a4b8e7e5ede5250",
+    "gh_0aea14582e3b0e3e3d057cae",
     "gh_2c63fdcb06250e6d7646bdbd",
     "gh_0e73df4967bffbe01c3fbb1e",
     "gh_9208a81e3c611e2fd2ef477e",
@@ -21,11 +23,56 @@
     "gh_939843b36f15ab3414741f1e",
     "gh_b9c7101250427c1bff934790",
     "gh_f83453948444957f199dcacb",
-    "gh_bfde111c5b5897814cd5aa4f",
-    "gh_5b692624be9237f8879e728a",
-    "gh_41bb46a54ae47b7d3c965a77"
+    "gh_bfde111c5b5897814cd5aa4f"
   ],
   "items": [
+    {
+      "id": "gh_6b086e71dc4401438488d072",
+      "sourceId": "soujava/vagas-java#1942",
+      "title": "[Remoto] Desenvolvedor(a) Java Sênior, 100% Remoto na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o seu currículo com todas as vagas compatíveis do nosso banco próprio. Você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java Sênior, 100% Remoto nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Desenvolver e manter APIs REST e serviços de backend em Java\n- Modelar e otimizar consultas em banco relacional\n- Escrever testes automatizados e participar de code review\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Java (5 anos ou mais)\n- Java 11+ e o ecossistema Spring (Boot, Data, Security)\n- APIs REST, JSON e versionamento de contrato\n- SQL e ORM (JPA/Hibernate)\n- Git e fluxo de pull request\n\n**Diferenciais:**\n- Mensageria (Kafka ou RabbitMQ)\n- Docker e pipelines de CI/CD\n- Cloud (AWS, Azure ou GCP)\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-senior-remoto\n\nBasta enviar o currículo uma vez. A IA da Sylision considera o seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos inteligência artificial para cruzar o se...",
+      "issueState": "open",
+      "contentHash": "fcd1c7534dbe34a44e81769f7a7de41a9ad7de952f7dbe80300a8386651ce065",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "rest",
+        "spring",
+        "hibernate"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "hour"
+      },
+      "createdAt": "2026-08-22T12:00:08Z",
+      "updatedAt": "2026-08-22T12:00:21Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1942",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_ddcbe43218de595718a93eb7",
       "sourceId": "awesome-jobs/jobs#5026",
@@ -129,6 +176,47 @@
       "createdAt": "2026-08-22T04:43:04Z",
       "updatedAt": "2026-08-22T04:43:04Z",
       "url": "https://github.com/Blazorise/Blazorise.Jobs/issues/3",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0aea14582e3b0e3e3d057cae",
+      "sourceId": "rebase-network/who-is-hiring#1245",
+      "title": "Exodus 招聘 Blockchain Engineer｜Remote｜$170K–$220K",
+      "description": "## 公司/团队介绍\n\nExodus 是一家美国公司，主要做加密资产钱包，目前支持 Bitcoin、Ethereum、Solana 等多个区块链。\n\n官网：[www.exodus.com](https://www.exodus.com)\n\n## 薪资福利待遇\n\n* **$170,000 – $220,000 USD / 年**\n* Bonus / Equity\n* 全职\n* Fully Remote\n* 工作时间灵活\n\n具体薪资根据经验确定。\n\n## 地点\n\n* 工作地点：Remote\n\n联系方式：\n\n**Telegram：@ExodusHiring**\n\n正式招聘流程会通过 Exodus 官方渠道和公司域名邮箱进行。\n\n## 工作性质\n\n* 全职\n* 远程\n* Flexible working hours\n* 需要正常参加团队会议和保持沟通\n\n## 岗位要求、职责\n\n我们招聘一名 Blockchain Engineer，主要做钱包相关的区块链开发。\n\n工作内容包括：\n\n* Bitcoin、Ethereum/EVM、Solana 等链的集成和维护\n* Blockchain transaction 相关开发\n* Fee、Broadcast、Confirmation 等\n* Blockchain Node、RPC、Indexer\n* 处理交易失败、pending、网络变化等问题\n* 新链和新资产的集成\n* 维护和改进现有 blockchain infrastructure\n\n希望你：\n\n* 有软件开发经验\n* 有实际 Blockchain 开发经验\n* 熟悉至少一条主流公链\n* 理解 transaction、fee、confirmation 等基本概念\n* 有 Backend 开发经验\n* 能自己定位和解决问题\n\n有以下经验会比较好：\n\n* Bitcoin / UTXO\n* Ethereum / EVM\n* Solana / Rust\n* Blockchain Node / Indexer\n* Wallet / Exchange / DeFi\n* Blockchain Security\n\n不要求所有链都懂，**有一条链做得比较深也可以。**\n\n## 工作环境\n\nRemote 团队，工作时间比较灵活。\n\n我们更看重实际开发能力和项目经验，不太看重简历上写了多少技术名词。\n\n如果你之前做过钱包、交易系统、节点、链上基础设施，或者其他实际 Blockchain 项目，可以直接联系。",
+      "excerpt": "## 公司/团队介绍 Exodus 是一家美国公司，主要做加密资产钱包，目前支持 Bitcoin、Ethereum、Solana 等多个区块链。 官网：[www.exodus.com](https://www.exodus.com) ## 薪资福利待遇 * **$170,000 – $220,000 USD / 年** * Bonus / Equity * 全职 * Fully Remote * 工作时间灵活 具体薪资根据经验确定...",
+      "issueState": "open",
+      "contentHash": "50d2f9ee91a1c806b228bd2af4c0cbdca6860fbdba7acc8fc4b4ab728234fe02",
+      "repository": "rebase-network/who-is-hiring",
+      "repositoryUrl": "https://github.com/rebase-network/who-is-hiring",
+      "region": "Global",
+      "country": "Global",
+      "tags": [
+        "remote",
+        "backend",
+        "node"
+      ],
+      "author": {
+        "id": "ExodusHQ007",
+        "name": "ExodusHQ007",
+        "handle": "ExodusHQ007",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/319668243?v=4"
+      },
+      "community": {
+        "id": "rebase-network",
+        "name": "rebase-network",
+        "avatarUrl": "https://github.com/rebase-network.png?size=80",
+        "repository": "rebase-network/who-is-hiring",
+        "url": "https://github.com/rebase-network/who-is-hiring"
+      },
+      "salary": {
+        "currency": "USD",
+        "min": 170000,
+        "max": 220000,
+        "period": "hour"
+      },
+      "createdAt": "2026-08-22T02:27:18Z",
+      "updatedAt": "2026-08-22T12:13:08Z",
+      "url": "https://github.com/rebase-network/who-is-hiring/issues/1245",
       "sourceType": "github-issue"
     },
     {
@@ -741,78 +829,6 @@
       "createdAt": "2026-08-20T17:17:39Z",
       "updatedAt": "2026-08-21T01:01:54Z",
       "url": "https://github.com/vuejs-br/vagas/issues/611",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_5b692624be9237f8879e728a",
-      "sourceId": "awesome-jobs/jobs#5024",
-      "title": "[35tr] MANUAL Tester 3+ yoe onsite Techcombank HN",
-      "description": "[HN] Các bạn MANUAL Tester có 1.5+ năm kn banking ib mình nhé, đang có job onsite Techcombank pv 1 vòng duy nhất. Zl o332.o22.o55\n\nCần nắm vững Data Flow Diagram, luồng xử lý từ API -> Domain -> Infrastructure, và quy trình xử lý dữ liệu từ upstream đến downstream (E2E testing flow)\n\nCó kinh nghiệm test Backend (API, Job, Database, Log) và Frontend (Web, Mobile).\nCó kinh nghiệm tham gia các vòng Integration Testing (từ 2 hệ thống trở lên) và Regression Testing.\nCó kỹ năng thiết kế Test Case theo các kỹ thuật kiểm thử của ISTQB.\nNắm vững Data Flow Diagram (DFD) và hiểu rõ luồng xử lý từ API → Domain → Infrastructure.\nHiểu quy trình xử lý và luân chuyển dữ liệu từ Upstream → Downstream, có khả năng thực hiện E2E Testing Flow.\nCó khả năng Debug & Defect Analysis, phân tích và xác định Root Cause của lỗi.\nCó khả năng trao đổi và phối hợp trực tiếp với Vendor/Developer để làm rõ, xử lý và theo dõi defect đến khi được khắc phục.",
-      "excerpt": "[HN] Các bạn MANUAL Tester có 1.5+ năm kn banking ib mình nhé, đang có job onsite Techcombank pv 1 vòng duy nhất. Zl o332.o22.o55 Cần nắm vững Data Flow Diagram, luồng xử lý từ API -> Domain -> Infrastructure, và quy ...",
-      "issueState": "open",
-      "contentHash": "c1165a228f5b776e8c0b0ccf72d9c1a20b428d3261052d300018ff9f1f13add9",
-      "repository": "awesome-jobs/jobs",
-      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "onsite",
-        "frontend",
-        "backend",
-        "data"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/jobs",
-        "url": "https://github.com/awesome-jobs/jobs"
-      },
-      "createdAt": "2026-08-20T12:47:52Z",
-      "updatedAt": "2026-08-20T12:47:52Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5024",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_41bb46a54ae47b7d3c965a77",
-      "sourceId": "awesome-jobs/vietnam#5024",
-      "title": "[35tr] MANUAL Tester 3+ yoe onsite Techcombank HN",
-      "description": "[HN] Các bạn MANUAL Tester có 1.5+ năm kn banking ib mình nhé, đang có job onsite Techcombank pv 1 vòng duy nhất. Zl o332.o22.o55\n\nCần nắm vững Data Flow Diagram, luồng xử lý từ API -> Domain -> Infrastructure, và quy trình xử lý dữ liệu từ upstream đến downstream (E2E testing flow)\n\nCó kinh nghiệm test Backend (API, Job, Database, Log) và Frontend (Web, Mobile).\nCó kinh nghiệm tham gia các vòng Integration Testing (từ 2 hệ thống trở lên) và Regression Testing.\nCó kỹ năng thiết kế Test Case theo các kỹ thuật kiểm thử của ISTQB.\nNắm vững Data Flow Diagram (DFD) và hiểu rõ luồng xử lý từ API → Domain → Infrastructure.\nHiểu quy trình xử lý và luân chuyển dữ liệu từ Upstream → Downstream, có khả năng thực hiện E2E Testing Flow.\nCó khả năng Debug & Defect Analysis, phân tích và xác định Root Cause của lỗi.\nCó khả năng trao đổi và phối hợp trực tiếp với Vendor/Developer để làm rõ, xử lý và theo dõi defect đến khi được khắc phục.",
-      "excerpt": "[HN] Các bạn MANUAL Tester có 1.5+ năm kn banking ib mình nhé, đang có job onsite Techcombank pv 1 vòng duy nhất. Zl o332.o22.o55 Cần nắm vững Data Flow Diagram, luồng xử lý từ API -> Domain -> Infrastructure, và quy ...",
-      "issueState": "open",
-      "contentHash": "c1165a228f5b776e8c0b0ccf72d9c1a20b428d3261052d300018ff9f1f13add9",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "onsite",
-        "frontend",
-        "backend",
-        "data"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-08-20T12:47:52Z",
-      "updatedAt": "2026-08-20T12:47:52Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5024",
       "sourceType": "github-issue"
     }
   ]
