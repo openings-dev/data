@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-22T06:26:15.258Z",
+  "generatedAt": "2026-08-22T09:19:57.729Z",
   "page": 4,
   "pageSize": 20,
   "nextPage": "api/pages/page-0005.json",
   "ids": [
+    "gh_46a9b479d4c37570f4ba08c2",
+    "gh_0af7c9701b112ef4bbdd5444",
     "gh_1edb9a4bd5459573c65f14d8",
     "gh_2f3ed949eb1e867f4547c5ce",
     "gh_4db55cf3f46e5c008496aa03",
@@ -16,8 +18,6 @@
     "gh_6edc95603da5c636be74a324",
     "gh_d0a58ca9e76d4aca337816ba",
     "gh_efad0b60919ea2fcfe21a206",
-    "gh_714c700c0154a5024d2e0eca",
-    "gh_40dca66a9d82549a29b58d92",
     "gh_d4e51ea4fee992d283ea545e",
     "gh_9cb67a2721464da325885d3e",
     "gh_625e897674c7ad5ce2b1c998",
@@ -26,6 +26,86 @@
     "gh_6c8e2af7cfff871fdcdaa2b4"
   ],
   "items": [
+    {
+      "id": "gh_46a9b479d4c37570f4ba08c2",
+      "sourceId": "soujava/vagas-java#1939",
+      "title": "[Remoto] Desenvolvedor(a) Java/Jakarta EE Sênior, 100% Remoto na Sylision",
+      "description": "## Nossa empresa\n\nA [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vagas compatíveis do nosso banco em segundos — você se candidata uma única vez.\n\n## Descrição da vaga\n\nVaga de Desenvolvedor(a) Java/Jakarta EE Sênior, 100% Remoto nível Sênior para atuar em projetos de empresas parceiras da Sylision, na área de Backend.\n\nFaixa salarial: R$ 12.000 a 22.000/mês, conforme experiência.\n\n## Responsabilidades\n\n- Manter e evoluir aplicações corporativas em Jakarta EE\n- Modernizar módulos legados sem interromper a operação\n- Integrar com sistemas internos via SOAP e REST\n\n## Local\n\n100% remoto, de qualquer lugar do Brasil ou de Portugal.\n\n## Requisitos\n\n**Obrigatórios:**\n- Experiência profissional com Java/Jakarta EE (5 anos ou mais)\n- Jakarta EE (CDI, JPA, JAX-RS, EJB)\n- Servidor de aplicação (WildFly, Payara ou JBoss)\n- SQL e modelagem relacional\n- Maven ou Gradle\n\n**Diferenciais:**\n- Migração para Spring Boot ou Quarkus\n- Docker\n- Mensageria JMS\n\n## Benefícios\n\n- Faixa salarial de R$ 12.000 a 22.000/mês, publicada aqui e não negociada por último\n- Vale-refeição ou vale-alimentação\n- Ajuda de custo / auxílio home office para quem atua remoto\n- Auxílio mobilidade ou vale-transporte para os dias presenciais\n- Plano de saúde e odontológico\n- Day off de aniversário e apoio a cursos e certificações\n- O pacote final é o da empresa contratante e é confirmado antes de qualquer entrevista\n\n## Contratação\n\nCLT ou PJ, conforme sua preferência e acordo com a empresa contratante.\n\n## Como se candidatar\n\nCandidate-se pela página da vaga: https://www.sylision.com/vagas/desenvolvedor-java-jakarta-ee-senior-remoto\n\nBasta enviar o CV uma vez — a IA da Sylision considera seu perfil para esta e para todas as vagas compatíveis, inclusive as que abrirem depois.",
+      "excerpt": "## Nossa empresa A [Sylision](https://sylision.com) é uma plataforma de recrutamento de tecnologia que atua no Brasil e em Portugal. Recrutamos para empresas parceiras e usamos IA para cruzar o seu CV com todas as vag...",
+      "issueState": "open",
+      "contentHash": "4049880f6db4f6b51719981aeaa169de63a54a16e67abd7fcb0b53861e882b40",
+      "repository": "soujava/vagas-java",
+      "repositoryUrl": "https://github.com/soujava/vagas-java",
+      "region": "South America",
+      "country": "Brazil",
+      "tags": [
+        "sênior",
+        "clt",
+        "pj",
+        "remoto",
+        "backend",
+        "rest",
+        "spring",
+        "maven"
+      ],
+      "author": {
+        "id": "GiovaniPole0",
+        "name": "GiovaniPole0",
+        "handle": "GiovaniPole0",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51893630?v=4"
+      },
+      "community": {
+        "id": "soujava",
+        "name": "soujava",
+        "avatarUrl": "https://github.com/soujava.png?size=80",
+        "repository": "soujava/vagas-java",
+        "url": "https://github.com/soujava/vagas-java"
+      },
+      "companyName": "Sylision",
+      "salary": {
+        "currency": "BRL",
+        "min": 12000,
+        "max": 22000,
+        "period": "month"
+      },
+      "createdAt": "2026-08-17T23:06:09Z",
+      "updatedAt": "2026-08-17T23:06:27Z",
+      "url": "https://github.com/soujava/vagas-java/issues/1939",
+      "sourceType": "github-issue"
+    },
+    {
+      "id": "gh_0af7c9701b112ef4bbdd5444",
+      "sourceId": "zapplyjobs/Internships-2026#121",
+      "title": "Show your engineering momentum: a one-line badge for your README",
+      "description": "Hi zapplyjobs team,\n\nWe run **VC Deal Flow Signal** ([gitdealflow.com](https://gitdealflow.com)), a free public dataset that tracks engineering momentum across GitHub orgs. zapplyjobs showed up in our panel this period with **992 commits in the last 14 days**.\n\nIf you'd like to show it on your README, here's a one-line badge (auto-updates weekly):\n\n```markdown\n[![engineering momentum](https://signals.gitdealflow.com/api/badge/zapplyjobs)](https://signals.gitdealflow.com/startup/zapplyjobs)\n```\n\nFree, no signup, no tracking. Nothing needed from you if you'd rather skip it. We track public activity regardless.\n\n— The Data Nerd · [signals@gitdealflow.com](mailto:signals@gitdealflow.com)",
+      "excerpt": "Hi zapplyjobs team, We run **VC Deal Flow Signal** ([gitdealflow.com](https://gitdealflow.com)), a free public dataset that tracks engineering momentum across GitHub orgs. zapplyjobs showed up in our panel this period...",
+      "issueState": "open",
+      "contentHash": "4b1200a5ed888fbd926e442627f782ae04397714e5d387a6599fcb980f0c34af",
+      "repository": "zapplyjobs/Internships-2026",
+      "repositoryUrl": "https://github.com/zapplyjobs/Internships-2026",
+      "region": "North America",
+      "country": "United States",
+      "tags": [
+        "data"
+      ],
+      "author": {
+        "id": "kindrat86",
+        "name": "kindrat86",
+        "handle": "kindrat86",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15490041?v=4"
+      },
+      "community": {
+        "id": "zapplyjobs",
+        "name": "zapplyjobs",
+        "avatarUrl": "https://github.com/zapplyjobs.png?size=80",
+        "repository": "zapplyjobs/Internships-2026",
+        "url": "https://github.com/zapplyjobs/Internships-2026"
+      },
+      "createdAt": "2026-08-17T21:14:05Z",
+      "updatedAt": "2026-08-19T02:44:32Z",
+      "url": "https://github.com/zapplyjobs/Internships-2027/issues/121",
+      "sourceType": "github-issue"
+    },
     {
       "id": "gh_1edb9a4bd5459573c65f14d8",
       "sourceId": "awesome-jobs/jobs#5017",
@@ -490,78 +570,6 @@
       "createdAt": "2026-08-15T09:33:01Z",
       "updatedAt": "2026-08-15T09:33:34Z",
       "url": "https://github.com/frontendbr/vagas/issues/8540",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_714c700c0154a5024d2e0eca",
-      "sourceId": "awesome-jobs/jobs#5015",
-      "title": "[ 45tr-70tr ] Fullstack TESTER - HCM & HN Hybrid [3+ yoe] - Middle/Senior/Lead",
-      "description": "Mình đang tìm UV fullstack TESTER ở HCM/HN 3+ yoe lương 45tr-70tr (level Middle to Lead), tiếng Anh tự tin làm việc daily team global (nghe hiểu và diễn đạt rõ ý tưởng chuyên môn trong meetings, tương đương IETLS 6.5). Làm hybrid lên office 2 ngày/tuần. HĐ 1 năm + renew.\n3+ years in a software testing role with at least 2 years of automation experience in Web or Mobile and API testing.\n\nImplement shift-left testing, automation first to test early and often\nCode automated tests during build and regression test phases and integrate into the CI/CD pipeline\nCreate test plans, execute test cases, and prepare test summary reports for features built-in your team\nReview solution documentation, and assist with the analysis, testing, and resolution of issues\nSupport defining the user story acceptance criteria and ensuring stories meet the high level of quality\nInfluence your team to think of Quality first, conduct training to empower developers to a level of sufficient testing skills .\n\nUV qtam liên hệ mình zl 0332.022.055 hoặc techdy.vn@gmail.com nhé.\nIB mình nếu bạn quan tâm các vị trí khác đang open lĩnh vực IT, Data & AI.",
-      "excerpt": "Mình đang tìm UV fullstack TESTER ở HCM/HN 3+ yoe lương 45tr-70tr (level Middle to Lead), tiếng Anh tự tin làm việc daily team global (nghe hiểu và diễn đạt rõ ý tưởng chuyên môn trong meetings, tương đương IETLS 6.5)...",
-      "issueState": "open",
-      "contentHash": "2d68987bf69a29443aede46dd232f38e040dc1df49001a402c1409434caaedb6",
-      "repository": "awesome-jobs/jobs",
-      "repositoryUrl": "https://github.com/awesome-jobs/jobs",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "fullstack",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/jobs",
-        "url": "https://github.com/awesome-jobs/jobs"
-      },
-      "createdAt": "2026-08-15T04:32:38Z",
-      "updatedAt": "2026-08-15T04:32:38Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5015",
-      "sourceType": "github-issue"
-    },
-    {
-      "id": "gh_40dca66a9d82549a29b58d92",
-      "sourceId": "awesome-jobs/vietnam#5015",
-      "title": "[ 45tr-70tr ] Fullstack TESTER - HCM & HN Hybrid [3+ yoe] - Middle/Senior/Lead",
-      "description": "Mình đang tìm UV fullstack TESTER ở HCM/HN 3+ yoe lương 45tr-70tr (level Middle to Lead), tiếng Anh tự tin làm việc daily team global (nghe hiểu và diễn đạt rõ ý tưởng chuyên môn trong meetings, tương đương IETLS 6.5). Làm hybrid lên office 2 ngày/tuần. HĐ 1 năm + renew.\n3+ years in a software testing role with at least 2 years of automation experience in Web or Mobile and API testing.\n\nImplement shift-left testing, automation first to test early and often\nCode automated tests during build and regression test phases and integrate into the CI/CD pipeline\nCreate test plans, execute test cases, and prepare test summary reports for features built-in your team\nReview solution documentation, and assist with the analysis, testing, and resolution of issues\nSupport defining the user story acceptance criteria and ensuring stories meet the high level of quality\nInfluence your team to think of Quality first, conduct training to empower developers to a level of sufficient testing skills .\n\nUV qtam liên hệ mình zl 0332.022.055 hoặc techdy.vn@gmail.com nhé.\nIB mình nếu bạn quan tâm các vị trí khác đang open lĩnh vực IT, Data & AI.",
-      "excerpt": "Mình đang tìm UV fullstack TESTER ở HCM/HN 3+ yoe lương 45tr-70tr (level Middle to Lead), tiếng Anh tự tin làm việc daily team global (nghe hiểu và diễn đạt rõ ý tưởng chuyên môn trong meetings, tương đương IETLS 6.5)...",
-      "issueState": "open",
-      "contentHash": "2d68987bf69a29443aede46dd232f38e040dc1df49001a402c1409434caaedb6",
-      "repository": "awesome-jobs/vietnam",
-      "repositoryUrl": "https://github.com/awesome-jobs/vietnam",
-      "region": "Asia",
-      "country": "Vietnam",
-      "tags": [
-        "hybrid",
-        "fullstack",
-        "senior",
-        "data"
-      ],
-      "author": {
-        "id": "techdyvn",
-        "name": "techdyvn",
-        "handle": "techdyvn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/305702787?v=4"
-      },
-      "community": {
-        "id": "awesome-jobs",
-        "name": "awesome-jobs",
-        "avatarUrl": "https://github.com/awesome-jobs.png?size=80",
-        "repository": "awesome-jobs/vietnam",
-        "url": "https://github.com/awesome-jobs/vietnam"
-      },
-      "createdAt": "2026-08-15T04:32:38Z",
-      "updatedAt": "2026-08-15T04:32:38Z",
-      "url": "https://github.com/awesome-jobs/vietnam/issues/5015",
       "sourceType": "github-issue"
     },
     {
